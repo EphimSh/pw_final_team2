@@ -1,0 +1,66 @@
+{
+  "name": "aqa-final-team-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:ui:regression": "npx playwright test --project=sales-portal-ui --grep \"@regression|@smoke\"",
+    "test:ui:smoke": "npm run test -- --project=sales-portal-ui --grep @smoke",
+    "test:api": "npm run test -- --project=sales-portal-api",
+    "test:visual": "npm run test -- --project=sales-portal-visual",
+    "ui-mode": "npx playwright test --ui",
+    "html-report-open": "npx playwright show-report",
+    "allure-report": "allure generate allure-results -o allure-report --clean",
+    "allure-report-open": "npm run allure-report && allure open allure-report",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "prettier": "prettier --config .prettierrc src/**/*.ts --check src/",
+    "prettier:fix": "prettier --config .prettierrc src/**/*.ts --write src/",
+    "format": " npm run prettier && npm run lint",
+    "format:fix": "npm run prettier:fix && npm run lint:fix",
+    "prepare": "husky"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.36.0",
+    "@playwright/test": "^1.55.1",
+    "@types/ajv": "^0.0.5",
+    "@types/bson": "^4.0.5",
+    "@types/dotenv": "^6.1.1",
+    "@types/lodash": "^4.17.20",
+    "@types/moment": "^2.11.29",
+    "@types/node": "^24.6.2",
+    "@types/node-telegram-bot-api": "^0.64.12",
+    "allure-playwright": "^3.4.2",
+    "eslint": "^9.36.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.4",
+    "globals": "^16.4.0",
+    "husky": "^9.1.7",
+    "prettier": "^3.6.2",
+    "typescript-eslint": "^8.45.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.9.0",
+    "ajv": "^8.17.1",
+    "allure-commandline": "^2.34.1",
+    "bson": "^7.0.0",
+    "dotenv": "^17.2.3",
+    "lint-staged": "^16.2.3",
+    "lodash": "^4.17.21",
+    "moment": "^2.30.1",
+    "node-telegram-bot-api": "^0.66.0",
+    "playwright-qase-reporter": "^2.1.6"
+  },
+  "lint-staged": {
+    "src/**/*.{ts,tsx,js,jsx}": [
+      "eslint --fix"
+    ],
+    "src/**/*.{ts,tsx,js,jsx,json,md,yml,yaml,css,scss}": [
+      "prettier --write"
+    ]
+  }
+}
