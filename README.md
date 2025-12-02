@@ -32,5 +32,5 @@ npx playwright install
 ## Запуск тестов
 
 ```bash
-npm test
+npm run test
 ```
