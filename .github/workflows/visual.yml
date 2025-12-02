@@ -58,4 +58,3 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./allure-report
           destination_dir: allure-report
-      # https://anatoly-karpovich.github.io/aqa-4-playwright/allure-report/#
