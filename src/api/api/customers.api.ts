@@ -12,13 +12,6 @@ import { convertRequestParams } from "utils/queryParams.utils";
 export class CustomersApi {
   constructor(private apiClient: IApiClient) {}
 
-  //post
-  //put
-  //get by id
-  //get all
-  //get with pagination
-  //delete
-
   //("DELETE /api/customers/:id")
   async delete(_id: string, token: string) {
     const options: IRequestOptions = {
@@ -30,7 +23,13 @@ export class CustomersApi {
         Authorization: `Bearer ${token}`,
       },
     };
-    return await this.apiClient.send<null>(options);
+
+    try {
+      return await this.apiClient.send<ICustomerResponse>(options);
+    } catch (error) {
+      console.error(`Failed to delete customer with id ${_id}`, error);
+      throw error;
+    }
   }
 
   //("POST /api/customers")
@@ -45,7 +44,13 @@ export class CustomersApi {
       },
       data: customer,
     };
-    return await this.apiClient.send<ICustomerResponse>(options);
+
+    try {
+      return await this.apiClient.send<ICustomerResponse>(options);
+    } catch (error) {
+      console.error(`Failed to create customer`, error);
+      throw error;
+    }
   }
 
   //("PUT /api/customers/:id")
@@ -60,7 +65,13 @@ export class CustomersApi {
       },
       data: newCustomer,
     };
-    return await this.apiClient.send<ICustomerResponse>(options);
+
+    try {
+      return await this.apiClient.send<ICustomerResponse>(options);
+    } catch (error) {
+      console.error(`Failed to update customer with id ${_id}`, error);
+      throw error;
+    }
   }
 
   //("GET /api/customers/:id")
@@ -74,7 +85,12 @@ export class CustomersApi {
         Authorization: `Bearer ${token}`,
       },
     };
-    return await this.apiClient.send<ICustomerResponse>(options);
+    try {
+      return await this.apiClient.send<ICustomerResponse>(options);
+    } catch (error) {
+      console.error(`Failed to get customer with id ${_id}`, error);
+      throw error;
+    }
   }
 
   //("GET /api/customers/all")
@@ -88,7 +104,12 @@ export class CustomersApi {
         Authorization: `Bearer ${token}`,
       },
     };
-    return await this.apiClient.send<ICustomerResponse>(options);
+    try {
+      return await this.apiClient.send<ICustomerResponse>(options);
+    } catch (error) {
+      console.error(`Failed to get all customers`, error);
+      throw error;
+    }
   }
 
   //("GET /api/customers with sorting")
@@ -102,6 +123,11 @@ export class CustomersApi {
         Authorization: `Bearer ${token}`,
       },
     };
-    return await this.apiClient.send<ICustomersSortedResponse>(options);
+    try {
+      return await this.apiClient.send<ICustomersSortedResponse>(options);
+    } catch (error) {
+      console.error(`Failed to get customers with sorting`, error);
+      throw error;
+    }
   }
 }
