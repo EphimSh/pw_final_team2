@@ -1,14 +1,15 @@
-// import { NotificationService } from "utils/notifications/notifications.service";
-// import { TelegramService } from "utils/notifications/telegram.service";
-//TODO: Добавить telegram.service
+import { NotificationService } from "utils/notifications/notifications.service";
+import { TelegramService } from "utils/notifications/telegram.service";
+
 export default async function () {
   if (!process.env.CI) return;
 
-  //   const notificationService = new NotificationService(new TelegramService());
+  const notificationService = new NotificationService(new TelegramService());
 
-  //   await notificationService.postNotification(`Test run finished!
+  await notificationService.postNotification(`Test run finished!
 
-  // Link to deployed report:
+  Link to deployed report:
 
-  // https://anatoly-karpovich.github.io/aqa-4-playwright/allure-report/#`);
+  //FIXME: update report link if needed
+  https://EphimSh.github.io/pw_final_team2/allure-report/#`);
 }

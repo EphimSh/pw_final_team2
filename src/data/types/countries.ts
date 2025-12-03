@@ -5,6 +5,6 @@ export enum COUNTRIES {
   UKRAINE = "Ukraine",
   GERMANY = "Germany",
   FRANCE = "France",
-  GB = "Great Britain",
+  GREAT_BRITAIN = "Great Britain",
   RUSSIA = "Russia",
 }
