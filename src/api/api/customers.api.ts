@@ -91,7 +91,7 @@ export class CustomersApi {
     return await this.apiClient.send<ICustomerResponse>(options);
   }
 
-  //("GET /api/products with sorting")
+  //("GET /api/customers with sorting")
   async getSorted(token: string, params?: Partial<IGetCustomersParams>) {
     const options: IRequestOptions = {
       baseURL: apiConfig.baseURL,
