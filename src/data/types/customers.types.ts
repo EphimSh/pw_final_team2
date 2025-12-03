@@ -1,5 +1,5 @@
-import { COUNTRIES } from "data/customers/countries";
 import { ICreatedOn, ID, IResponseFields, SortOrder } from "./core.types";
+import { COUNTRIES } from "./countries";
 
 export interface ICustomer {
   email: string;

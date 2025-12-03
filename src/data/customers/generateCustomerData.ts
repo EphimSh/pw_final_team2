@@ -1,6 +1,6 @@
 import { faker } from "@faker-js/faker";
+import { COUNTRIES } from "data/types/countries";
 import { ICustomer } from "data/types/customers.types";
-import { COUNTRIES } from "./countries";
 import { getRandomEnumValue } from "utils/enum.utils";
 
 export function generateCustomerData(params?: Partial<ICustomer>): ICustomer {
