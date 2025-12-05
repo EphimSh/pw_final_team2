@@ -13,7 +13,7 @@ import { validateResponse } from "utils/validation/validateResponse.utils";
 export class CustomersApiService {
   constructor(private customersApi: CustomersApi) {}
 
-  async create(token: string, customerData?: ICustomer) {
+  async create(token: string, customerData?: Partial<ICustomer>) {
     const data = generateCustomerData(customerData);
     const response = await this.customersApi.create(data, token);
     validateResponse(response, {
@@ -58,7 +58,7 @@ export class CustomersApiService {
     return response.body.Customers;
   }
 
-  async update(id: string, newCustomerData: ICustomer, token: string) {
+  async update(id: string, token: string, newCustomerData?: Partial<ICustomer>) {
     const data = generateCustomerData(newCustomerData);
     const response = await this.customersApi.update(id, data, token);
     validateResponse(response, {
