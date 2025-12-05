@@ -4,6 +4,7 @@ import { IRequestOptions } from "data/types/core.types";
 import {
   ICustomer,
   ICustomerResponse,
+  ICustomersResponse,
   ICustomersSortedResponse,
   IGetCustomersParams,
 } from "data/types/customers.types";
@@ -105,7 +106,7 @@ export class CustomersApi {
       },
     };
     try {
-      return await this.apiClient.send<ICustomerResponse>(options);
+      return await this.apiClient.send<ICustomersResponse>(options);
     } catch (error) {
       console.error(`Failed to get all customers`, error);
       throw error;
