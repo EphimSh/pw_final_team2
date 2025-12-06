@@ -14,13 +14,13 @@ export class ProductsApi {
   constructor(private apiClient: IApiClient) {}
 
   // POST /api/products
-  async create(product: IProduct, token: string) {
+  async create(product: IProduct, token: string, content_type?: string) {
     const options: IRequestOptions = {
       baseURL: apiConfig.baseURL, //backend url
       url: apiConfig.endpoints.products, //endpoint address
       method: "post",
       headers: {
-        "content-type": "application/json",
+        "content-type": content_type || "application/json",
         Authorization: `Bearer ${token}`,
       },
       data: product,
@@ -30,7 +30,7 @@ export class ProductsApi {
       return await this.apiClient.send<IProductResponse>(options);
     } catch (error) {
       console.error(`Failed to create product ${product.name}:`, error);
-      throw error; // или обработать по-другому
+      throw error;
     }
   }
 
