@@ -5,11 +5,12 @@ import _ from "lodash";
 import { validateResponse } from "utils/validation/validateResponse.utils";
 import { ObjectId } from "bson";
 import { updateProductSchema } from "data/schemas/products";
+import { errorSchema } from "data/schemas/products/core.schema";
 
 test.describe("[API] [Sales Portal] [Products] [Update]", () => {
   let id = "";
   let token = "";
-  let updatedProductData = generateProductData();
+  const updatedProductData = generateProductData();
 
   test.beforeAll(async ({ loginApiService, productsApiService }) => {
     token = await loginApiService.loginAsAdmin();
@@ -60,6 +61,7 @@ test.describe("[API] [Sales Portal] [Products] [Update]", () => {
     validateResponse(updatedProductResponse, {
       status: STATUS_CODES.NOT_FOUND,
       IsSuccess: false,
+      schema: errorSchema,
       ErrorMessage: `Product with id '${invalidId}' wasn't found`,
     });
   });
@@ -72,6 +74,7 @@ test.describe("[API] [Sales Portal] [Products] [Update]", () => {
     validateResponse(updatedProductResponse, {
       status: STATUS_CODES.BAD_REQUEST,
       IsSuccess: false,
+      schema: errorSchema,
       ErrorMessage: "Incorrect request body",
     });
   });
@@ -83,6 +86,7 @@ test.describe("[API] [Sales Portal] [Products] [Update]", () => {
 
     validateResponse(updatedProductResponse, {
       status: STATUS_CODES.BAD_REQUEST,
+      schema: errorSchema,
       IsSuccess: false,
       ErrorMessage: "Incorrect request body",
     });
