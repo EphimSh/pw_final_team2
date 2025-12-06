@@ -1,9 +1,8 @@
 import { faker } from "@faker-js/faker";
 import { IProduct, IProductFromResponse } from "data/types/products.types";
 import { getRandomEnumValue } from "utils/enum.utils";
-import { MANUFACTURERS } from "data/types/manufacturers.ts";
+import { MANUFACTURERS } from "data/types/manufacturers";
 import { ObjectId } from "bson";
-
 
 export function generateProductData(params?: Partial<IProduct>): IProduct {
   return {

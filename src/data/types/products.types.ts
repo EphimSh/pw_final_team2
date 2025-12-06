@@ -1,4 +1,4 @@
-import { MANUFACTURERS } from "./manufacturers.ts";
+import { MANUFACTURERS } from "./manufacturers";
 import { ID, IResponseFields, SortOrder } from "./core.types";
 
 export interface IProduct {

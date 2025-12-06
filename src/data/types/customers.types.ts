@@ -25,6 +25,10 @@ export interface ICustomerResponse extends IResponseFields {
   Customer: ICustomerFromResponse;
 }
 
+export interface ICustomersResponse extends IResponseFields {
+  Customers: ICustomerFromResponse[];
+}
+
 export interface ICustomerInTable extends ICustomerFromTable, ICreatedOn {}
 
 export type CustomersTableHeader = "Email" | "Name" | "Country" | "Created On";
@@ -40,7 +44,7 @@ export interface IGetCustomersParams {
   limit: number;
 }
 
-export interface ICustomersSortedResponse extends ICustomerResponse {
+export interface ICustomersSortedResponse extends ICustomersResponse {
   total: number;
   page: number;
   limit: number;
