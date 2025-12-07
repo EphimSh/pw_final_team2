@@ -1,4 +1,5 @@
 import { faker } from "@faker-js/faker";
+import { ObjectId } from "bson";
 import { COUNTRIES } from "data/types/countries";
 import { ICustomer } from "data/types/customers.types";
 import { getRandomEnumValue } from "utils/enum.utils";
@@ -16,4 +17,8 @@ export function generateCustomerData(params?: Partial<ICustomer>): ICustomer {
     notes: faker.string.alphanumeric({ length: { min: 1, max: 250 } }),
     ...params,
   };
+}
+
+export function generateCustomerID() {
+  return new ObjectId().toHexString();
 }
