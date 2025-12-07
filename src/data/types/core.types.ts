@@ -30,5 +30,5 @@ export interface ICreatedOn {
 export interface ICase {
   title: string;
   expectedStatus?: number;
-  expectedErrorMessage?: string;
+  expectedErrorMessage?: string | null;
 }
