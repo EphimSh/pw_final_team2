@@ -93,18 +93,4 @@ test.describe("[API] [Sales Portal] [Products]", () => {
       );
     }
   });
-//Тест не актуален, будет удален 
-  // test(
-  //   "SC-006: Неправильный Content-Type (text/plain)",
-  //   { tag: [TAGS.REGRESSION, TAGS.API, TAGS.PRODUCTS] },
-  //   async ({ loginApiService, productsApi }) => {
-  //     token = await loginApiService.loginAsAdmin();
-  //     const productData = generateProductData();
-  //     const response = await productsApi.create(productData, token, { contentType: "text/plain" });
-
-  //     validateResponse(response, {
-  //       status: STATUS_CODES.BAD_REQUEST,
-  //     });
-  //   },
-  // );
 });
