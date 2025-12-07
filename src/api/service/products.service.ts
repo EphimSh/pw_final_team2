@@ -6,9 +6,18 @@ import {
   getProductSchema,
   updateProductSchema,
 } from "data/schemas/products";
-import { IGetProductsParams, IProduct } from "data/types/products.types";
+import {
+  IGetProductsParams,
+  IProduct,
+  IProductFromResponse,
+  IProductsResponse,
+  IProductsSortedResponse,
+  ProductsSortField,
+} from "data/types/products.types";
 import { STATUS_CODES } from "data/statusCode";
 import { validateResponse } from "utils/validation/validateResponse.utils";
+import { IResponse, SortOrder } from "data/types/core.types";
+import { expect } from "fixtures";
 
 export class ProductsApiService {
   constructor(private productsApi: ProductsApi) {}
@@ -75,5 +84,48 @@ export class ProductsApiService {
     validateResponse(response, {
       status: STATUS_CODES.DELETED,
     });
+  }
+
+  async assertProductInSortedList(
+    response: IResponse<IProductsSortedResponse>,
+    product?: IProductFromResponse,
+    sortField?: ProductsSortField,
+    sortOrder?: SortOrder,
+    expectedSearch?: string,
+  ) {
+    const { limit, search, manufacturer, total, page, sorting } = response.body;
+    await this.assertProductInList(response, product!);
+    const searchValue = expectedSearch;
+    expect.soft(limit, `Limit should be ${limit}`).toBe(10);
+    expect.soft(search).toBe(searchValue);
+    expect.soft(manufacturer).toEqual([]);
+    expect.soft(page).toBe(1);
+    expect.soft(sorting).toEqual({ sortField, sortOrder });
+    expect.soft(total).toBeGreaterThanOrEqual(1);
+  }
+
+  async assertProductInList(response: IResponse<IProductsResponse>, product: IProductFromResponse) {
+    const found = response.body.Products.find((el) => el._id === product._id);
+    expect.soft(found, "Created product should be in response").toBeTruthy();
+  }
+
+  async assertProductsInList(response: IResponse<IProductsResponse>, products: IProductFromResponse[]) {
+    for (const product of products) {
+      await this.assertProductInList(response, product);
+    }
+  }
+
+  async assertSortedResponseMeta(
+    response: IResponse<IProductsSortedResponse>,
+    sortField: ProductsSortField,
+    sortOrder: SortOrder,
+    minTotal = 1,
+  ) {
+    const { limit, manufacturer, total, page, sorting } = response.body;
+    expect.soft(limit, `Limit should be ${limit}`).toBe(10);
+    expect.soft(manufacturer).toEqual([]);
+    expect.soft(page).toBe(1);
+    expect.soft(sorting).toEqual({ sortField, sortOrder });
+    expect.soft(total).toBeGreaterThanOrEqual(minTotal);
   }
 }
