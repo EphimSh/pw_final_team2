@@ -4,8 +4,8 @@ import { ID, IResponseFields, SortOrder } from "./core.types";
 export interface IProduct {
   name: string;
   manufacturer: MANUFACTURERS;
-  price: number;
-  amount: number;
+  price: number | string;
+  amount: number | string;
   notes?: string;
 }
 

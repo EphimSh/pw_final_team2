@@ -13,24 +13,26 @@ import { convertRequestParams } from "utils/queryParams.utils";
 export class ProductsApi {
   constructor(private apiClient: IApiClient) {}
 
-  // POST /api/products
-  async create(product: IProduct, token: string) {
+  async create(product: IProduct, token: string, opts?: { contentType?: string }) {
+    const contentType = opts?.contentType ?? "application/json";
+    const payload = contentType === "application/json" ? product : JSON.stringify(product);
+
     const options: IRequestOptions = {
-      baseURL: apiConfig.baseURL, //backend url
-      url: apiConfig.endpoints.products, //endpoint address
+      baseURL: apiConfig.baseURL,
+      url: apiConfig.endpoints.products,
       method: "post",
       headers: {
-        "content-type": "application/json",
+        "content-type": contentType,
         Authorization: `Bearer ${token}`,
       },
-      data: product,
+      data: payload,
     };
 
     try {
       return await this.apiClient.send<IProductResponse>(options);
     } catch (error) {
       console.error(`Failed to create product ${product.name}:`, error);
-      throw error; // или обработать по-другому
+      throw error;
     }
   }
 
