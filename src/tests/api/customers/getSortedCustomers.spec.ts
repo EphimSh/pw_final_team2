@@ -8,25 +8,32 @@ import { validateResponse } from "utils/validation/validateResponse.utils";
 
 test.describe("[API] [Sales Portal] [Customers] [Get Sorted]", () => {
   test.describe("Search", () => {
-    let id = "";
+    const ids: string[] = [];
     let token = "";
+    let customer1: ICustomerFromResponse;
 
-    test.beforeAll(async ({ loginApiService }) => {
+    test.beforeAll(async ({ loginApiService, customerApiService }) => {
       token = await loginApiService.loginAsAdmin();
+      customer1 = await customerApiService.create(token);
+      await new Promise((resolve) => setTimeout(resolve, 1000));
+      const customer2 = await customerApiService.create(token);
+      ids.push(customer1._id, customer2._id);
     });
 
-    test.afterEach(async ({ customerApiService }) => {
-      if (id) await customerApiService.delete(token, id);
+    test.afterAll(async ({ customerApiService }) => {
+      if (ids.length) {
+        for (const id of ids) {
+          await customerApiService.delete(token, id);
+        }
+        ids.length = 0;
+      }
     });
 
     const searchOprions = ["name", "email", "country"];
 
     for (const option of searchOprions) {
-      test(`Search Customers by ${option}`, async ({ customerApi, customerApiService }) => {
-        const createdCustomer = await customerApiService.create(token);
-        id = createdCustomer._id;
-
-        const searchField = createdCustomer[option as keyof ICustomerFromResponse] as string;
+      test(`Search Customers by ${option}`, async ({ customerApi }) => {
+        const searchField = customer1[option as keyof ICustomerFromResponse] as string;
         const response = await customerApi.getSorted(token, {
           search: searchField,
         });
@@ -38,7 +45,7 @@ test.describe("[API] [Sales Portal] [Customers] [Get Sorted]", () => {
         });
 
         const { limit, search, country, total, page, sorting } = response.body;
-        const found = response.body.Customers.find((el) => el._id === createdCustomer._id);
+        const found = response.body.Customers.find((el) => el._id === customer1._id);
         expect.soft(found, `Created customer should be in response`).toBeTruthy();
         expect.soft(limit, `Limit should be ${limit}`).toBe(10);
         expect.soft(search).toBe(searchField);
@@ -60,7 +67,6 @@ test.describe("[API] [Sales Portal] [Customers] [Get Sorted]", () => {
       token = await loginApiService.loginAsAdmin();
 
       const customer1 = await customerApiService.create(token);
-      //await page.waitForTimeout(1000);
       await new Promise((resolve) => setTimeout(resolve, 1000));
       const customer2 = await customerApiService.create(token);
       ids.push(customer1._id, customer2._id);
