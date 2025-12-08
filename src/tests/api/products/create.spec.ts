@@ -12,6 +12,10 @@ test.describe("[API] [Sales Portal] [Products]", () => {
   let id = "";
   let token = "";
 
+  test.beforeEach(async ({ loginApiService }) => {
+    token = await loginApiService.loginAsAdmin();
+  });
+
   test.afterEach(async ({ productsApiService }) => {
     if (id) await productsApiService.delete(token, id);
   });
@@ -19,8 +23,7 @@ test.describe("[API] [Sales Portal] [Products]", () => {
   test(
     "SC-001: Успешное создание товара со всеми полями",
     { tag: [TAGS.SMOKE, TAGS.REGRESSION, TAGS.API, TAGS.PRODUCTS] },
-    async ({ loginApiService, productsApi }) => {
-      token = await loginApiService.loginAsAdmin();
+    async ({ productsApi }) => {
       const productData = generateProductData();
       const createdProduct = await productsApi.create(productData, token);
       validateResponse(createdProduct, {
@@ -40,8 +43,7 @@ test.describe("[API] [Sales Portal] [Products]", () => {
   test(
     "SC-003: Ошибка валидации name (name не строка)",
     { tag: [TAGS.REGRESSION, TAGS.API, TAGS.PRODUCTS] },
-    async ({ loginApiService, productsApi }) => {
-      token = await loginApiService.loginAsAdmin();
+    async ({ productsApi }) => {
       const productData = generateProductData();
       const createdProduct = await productsApi.create({ ...productData, name: 123 } as unknown as IProduct, token);
       validateResponse(createdProduct, {
@@ -54,43 +56,33 @@ test.describe("[API] [Sales Portal] [Products]", () => {
 
   test.describe("[Создание продуктов с валидным телом запроса]", () => {
     for (const caseData of createProductPositiveCases) {
-      test(
-        `${caseData.title}`,
-        { tag: [TAGS.REGRESSION, TAGS.API, TAGS.PRODUCTS] },
-        async ({ loginApiService, productsApi }) => {
-          token = await loginApiService.loginAsAdmin();
-          const createdProduct = await productsApi.create(caseData.productData as IProduct, token);
-          validateResponse(createdProduct, {
-            status: caseData.expectedStatus || STATUS_CODES.CREATED,
-            schema: createProductSchema,
-            IsSuccess: true,
-            ErrorMessage: null,
-          });
+      test(`${caseData.title}`, { tag: [TAGS.REGRESSION, TAGS.API, TAGS.PRODUCTS] }, async ({ productsApi }) => {
+        const createdProduct = await productsApi.create(caseData.productData as IProduct, token);
+        validateResponse(createdProduct, {
+          status: caseData.expectedStatus || STATUS_CODES.CREATED,
+          schema: createProductSchema,
+          IsSuccess: true,
+          ErrorMessage: null,
+        });
 
-          id = createdProduct.body.Product._id;
+        id = createdProduct.body.Product._id;
 
-          const actualProductData = createdProduct.body.Product;
-          expect(_.omit(actualProductData, ["_id", "createdOn"])).toEqual(caseData.productData);
-        },
-      );
+        const actualProductData = createdProduct.body.Product;
+        expect(_.omit(actualProductData, ["_id", "createdOn"])).toEqual(caseData.productData);
+      });
     }
   });
 
   test.describe("[Невозможно создать продукт с невалидным телом запроса]", () => {
     for (const caseData of createProductNegativeCases) {
-      test(
-        `${caseData.title}`,
-        { tag: [TAGS.REGRESSION, TAGS.API, TAGS.PRODUCTS] },
-        async ({ loginApiService, productsApi }) => {
-          token = await loginApiService.loginAsAdmin();
-          const createdProduct = await productsApi.create(caseData.productData as IProduct, token);
-          validateResponse(createdProduct, {
-            status: caseData.expectedStatus || STATUS_CODES.BAD_REQUEST,
-            IsSuccess: false,
-            ErrorMessage: "Incorrect request body",
-          });
-        },
-      );
+      test(`${caseData.title}`, { tag: [TAGS.REGRESSION, TAGS.API, TAGS.PRODUCTS] }, async ({ productsApi }) => {
+        const createdProduct = await productsApi.create(caseData.productData as IProduct, token);
+        validateResponse(createdProduct, {
+          status: caseData.expectedStatus || STATUS_CODES.BAD_REQUEST,
+          IsSuccess: false,
+          ErrorMessage: "Incorrect request body",
+        });
+      });
     }
   });
 });
