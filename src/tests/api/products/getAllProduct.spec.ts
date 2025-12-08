@@ -5,7 +5,7 @@ import { getAllProductsSchema } from "data/schemas/products/getAll.schema";
 import { MANUFACTURERS } from "data/types/manufacturers";
 import { productsForCreation } from "data/products/productsForCreation";
 
-test.describe("[API][Sales Portal][Products][Positive] Get All Products", () => {
+test.describe.only("[API][Sales Portal][Products][Positive] Get All Products", () => {
   const ids: string[] = [];
   let token = "";
 
@@ -95,6 +95,8 @@ test.describe("[API][Sales Portal][Products][Positive] Get All Products", () => 
     const getProductResponse = await productsApi.getSorted(token, {
       sortField: "price",
       sortOrder: "asc",
+      page: 1,
+      limit: 100,
     });
 
     validateResponse(getProductResponse, {
@@ -104,7 +106,7 @@ test.describe("[API][Sales Portal][Products][Positive] Get All Products", () => 
       ErrorMessage: null,
     });
 
-    const sortedResponse = [...getProductResponse.body.Products.sort((a, b) => b.price - a.price)];
+    const sortedResponse = [...getProductResponse.body.Products].sort((a, b) => a.price - b.price);
     expect(getProductResponse.body.Products, "Products should be sorted by price in ASC order").toEqual(sortedResponse);
   });
 
@@ -121,11 +123,10 @@ test.describe("[API][Sales Portal][Products][Positive] Get All Products", () => 
       ErrorMessage: null,
     });
 
-    const sortedResponse = [
-      ...getProductResponse.body.Products.sort(
-        (a, b) => new Date(b.createdOn).getTime() - new Date(a.createdOn).getTime(),
-      ),
-    ];
+    const sortedResponse = [...getProductResponse.body.Products].sort(
+      (a, b) => new Date(b.createdOn).getTime() - new Date(a.createdOn).getTime(),
+    );
+
     expect(getProductResponse.body.Products, "Products should be sorted by createdOn in DESC order").toEqual(
       sortedResponse,
     );
