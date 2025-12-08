@@ -3,6 +3,7 @@ import { apiConfig } from "config/apiConfig";
 import { IRequestOptions } from "data/types/core.types";
 import {
   ICustomer,
+  ICustomerCreateRequest,
   ICustomerResponse,
   ICustomersResponse,
   ICustomersSortedResponse,
@@ -34,7 +35,7 @@ export class CustomersApi {
   }
 
   //("POST /api/customers")
-  async create(customer: ICustomer, token: string) {
+  async create(customer: ICustomerCreateRequest, token: string) {
     const options: IRequestOptions = {
       baseURL: apiConfig.baseURL,
       url: apiConfig.endpoints.customers,
