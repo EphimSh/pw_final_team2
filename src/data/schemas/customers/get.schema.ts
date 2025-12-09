@@ -1,4 +1,4 @@
-import { customerSchema } from "./customer.schema";
+﻿import { createCustomerSchema } from "./create.schema";
 
 // Schema for GET /api/customers/{id} response (200)
-export const getCustomerSchema = customerSchema;
+export const getCustomerSchema = createCustomerSchema;
