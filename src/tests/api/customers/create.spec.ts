@@ -54,6 +54,7 @@ test.describe("[API] [Sales Portal] [Customer Create]", () => {
         id = customer._id;
 
         const response = await customerApi.create(caseData.customerData, token);
+
         validateResponse(response, {
           status: caseData.expectedStatus!,
           IsSuccess: caseData.expectedIsSuccess!,

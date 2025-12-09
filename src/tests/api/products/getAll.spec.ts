@@ -1,4 +1,4 @@
-import { test, expect } from "fixtures/api.fixture";
+import { test, expect } from "fixtures/api.fixtures";
 import { getAllProductsSchema } from "data/schemas/products/getAll.schema";
 
 import { validateResponse } from "utils/validation/validateResponse.utils";
