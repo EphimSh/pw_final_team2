@@ -6,9 +6,17 @@ import {
   getCustomerSchema,
   updateCustomerSchema,
 } from "data/schemas/customers";
-import { ICustomer, IGetCustomersParams } from "data/types/customers.types";
+import {
+  CustomersTableHeader,
+  ICustomer,
+  ICustomerFromResponse,
+  ICustomersSortedResponse,
+  IGetCustomersParams,
+} from "data/types/customers.types";
 import { STATUS_CODES } from "data/statusCode";
 import { validateResponse } from "utils/validation/validateResponse.utils";
+import { IResponse, SortOrder } from "data/types/core.types";
+import { expect } from "fixtures";
 
 export class CustomersApiService {
   constructor(private customersApi: CustomersApi) {}
@@ -75,5 +83,34 @@ export class CustomersApiService {
     validateResponse(response, {
       status: STATUS_CODES.DELETED,
     });
+  }
+
+  async assertCustomerInList(response: IResponse<ICustomersSortedResponse>, customer: ICustomerFromResponse) {
+    const found = response.body.Customers.find((el) => el._id === customer._id);
+    expect.soft(found, "Created customer should be in response").toBeTruthy();
+  }
+
+  async assertProductInSortedList(
+    response: IResponse<ICustomersSortedResponse>,
+    options?: {
+      customer?: ICustomerFromResponse;
+      searchField?: string;
+      sortField?: CustomersTableHeader;
+      sortOrder?: SortOrder;
+      minCustomersTotal?: number;
+    },
+  ) {
+    const { limit, search, country, total, page, sorting } = response.body;
+    if (options?.customer) {
+      await this.assertCustomerInList(response, options.customer);
+    }
+    expect.soft(limit, `Limit should be ${limit}`).toBe(10);
+    expect.soft(search).toBe(options?.searchField ?? "");
+    expect.soft(country).toEqual([]);
+    expect.soft(page).toBe(1);
+    expect
+      .soft(sorting)
+      .toEqual({ sortField: options?.sortField ?? "createdOn", sortOrder: options?.sortOrder ?? "desc" });
+    expect.soft(total).toBeGreaterThanOrEqual(options?.minCustomersTotal ?? 1);
   }
 }
