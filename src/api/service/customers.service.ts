@@ -6,9 +6,11 @@ import {
   getCustomerSchema,
   updateCustomerSchema,
 } from "data/schemas/customers";
-import { ICustomer, IGetCustomersParams } from "data/types/customers.types";
+import { ICustomer, ICustomerFromResponse, ICustomerResponse, IGetCustomersParams } from "data/types/customers.types";
 import { STATUS_CODES } from "data/statusCode";
 import { validateResponse } from "utils/validation/validateResponse.utils";
+import { IResponse } from "data/types/core.types";
+import { expect } from "fixtures";
 
 export class CustomersApiService {
   constructor(private customersApi: CustomersApi) {}
@@ -75,5 +77,23 @@ export class CustomersApiService {
     validateResponse(response, {
       status: STATUS_CODES.DELETED,
     });
+  }
+
+  assertCustomerUpdated(actualCustomer: ICustomerFromResponse, updatedCustomerData: IResponse<ICustomerResponse>) {
+    expect(actualCustomer).not.toBe(updatedCustomerData.body);
+  }
+
+  async deleteAllCustomers(ids: string[], token: string) {
+    for (const id of ids) {
+      if (!id) continue;
+      try {
+        await this.delete(token, id);
+      } catch (error: unknown) {
+        const status = (error as { response?: { status?: number } }).response?.status;
+        if (status === 404) continue;
+        throw error;
+      }
+    }
+    ids.length = 0;
   }
 }

@@ -55,7 +55,7 @@ export class CustomersApi {
   }
 
   //("PUT /api/customers/:id")
-  async update(_id: string, newCustomer: ICustomer, token: string) {
+  async update(_id: string, newCustomer: Partial<ICustomer>, token: string) {
     const options: IRequestOptions = {
       baseURL: apiConfig.baseURL,
       url: apiConfig.endpoints.customerById(_id),
@@ -66,6 +66,8 @@ export class CustomersApi {
       },
       data: newCustomer,
     };
+
+    console.log(newCustomer);
 
     try {
       return await this.apiClient.send<ICustomerResponse>(options);

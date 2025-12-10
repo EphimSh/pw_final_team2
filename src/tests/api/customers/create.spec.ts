@@ -15,10 +15,6 @@ test.describe("[API] [Sales Portal] [Customer Create]", () => {
   });
 
   test.describe("Создание клиента с валидным телом запроса", () => {
-    test.afterEach(async ({ customerApiService }) => {
-      await customerApiService.delete(token, id);
-    });
-
     for (const caseData of createCustomerData_positiveCases) {
       test(`${caseData.title}`, async ({ customerApi }) => {
         const response = await customerApi.create(caseData.customerData, token);
@@ -63,5 +59,9 @@ test.describe("[API] [Sales Portal] [Customer Create]", () => {
         });
       });
     }
+  });
+
+  test.afterEach(async ({ customerApiService }) => {
+    if (id) await customerApiService.delete(token, id);
   });
 });
