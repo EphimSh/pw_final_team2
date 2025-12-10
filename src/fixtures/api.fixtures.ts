@@ -1,11 +1,11 @@
 import { test as base, expect } from "@playwright/test";
-import { RequestApi } from "api/apiClients/requestApi";
 import { ProductsApi } from "api/api/products.api";
 import { LoginApi } from "api/api/login.api";
 import { LoginService } from "api/service/login.service";
 import { ProductsApiService } from "api/service/products.service";
 import { CustomersApi } from "api/api/customers.api";
 import { CustomersApiService } from "api/service/customers.service";
+import { PlaywrightApiClient } from "api/apiClients/PWApiClient";
 
 export interface IApi {
   // api
@@ -22,19 +22,19 @@ export interface IApi {
 const test = base.extend<IApi>({
   //api
   productsApi: async ({ request }, use) => {
-    const apiClient = new RequestApi(request);
+    const apiClient = new PlaywrightApiClient(request);
     const api = new ProductsApi(apiClient);
     await use(api);
   },
 
   loginApi: async ({ request }, use) => {
-    const apiClient = new RequestApi(request);
+    const apiClient = new PlaywrightApiClient(request);
     const api = new LoginApi(apiClient);
     await use(api);
   },
 
   customerApi: async ({ request }, use) => {
-    const apiClient = new RequestApi(request);
+    const apiClient = new PlaywrightApiClient(request);
     const api = new CustomersApi(apiClient);
     await use(api);
   },
@@ -51,7 +51,6 @@ const test = base.extend<IApi>({
   customerApiService: async ({ customerApi }, use) => {
     await use(new CustomersApiService(customerApi));
   },
-
 });
 
 export { test, expect };
