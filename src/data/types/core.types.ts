@@ -26,3 +26,8 @@ export type SortOrder = "asc" | "desc";
 export interface ICreatedOn {
   createdOn: string;
 }
+
+export enum sortDirection {
+  ASC = "asc",
+  DESC = "desc",
+}

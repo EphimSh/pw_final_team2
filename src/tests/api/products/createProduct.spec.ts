@@ -92,5 +92,5 @@ test.describe("[API] [Sales Portal] [Products] [Create]", () => {
       IsSuccess: false,
       ErrorMessage: "Incorrect request body",
     });
-  })
+  });
 });

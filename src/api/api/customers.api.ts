@@ -131,4 +131,23 @@ export class CustomersApi {
       throw error;
     }
   }
+
+  //("GET /api/customers/:customerId/orders")
+  async getOrdersOfCustomer(token: string, customerId: string) {
+    const options: IRequestOptions = {
+      baseURL: apiConfig.baseURL,
+      url: apiConfig.endpoints.ordersByCustomer(customerId),
+      method: "get",
+      headers: {
+        "content-type": "application/json",
+        Authorization: `Bearer ${token}`,
+      },
+    };
+    try {
+      return await this.apiClient.send<ICustomerResponse>(options); ///// fix
+    } catch (error) {
+      console.error(`Failed to get customer with id ${customerId}`, error);
+      throw error;
+    }
+  }
 }
