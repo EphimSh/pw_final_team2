@@ -1,6 +1,7 @@
 import { expect } from "@playwright/test";
 import { LoginApi } from "api/api/login.api";
 import { credentials } from "config/env";
+import { loginSchema } from "data/schemas/login.schema";
 import { STATUS_CODES } from "data/statusCode";
 import { ICredentials } from "data/types/credentials.types";
 import { validateResponse } from "utils/validation/validateResponse.utils";
@@ -14,6 +15,7 @@ export class LoginService {
       status: STATUS_CODES.OK,
       IsSuccess: true,
       ErrorMessage: null,
+      schema: loginSchema,
     });
     const headers = response.headers;
     const token = headers["authorization"]!;
