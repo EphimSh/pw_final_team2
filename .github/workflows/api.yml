@@ -1,0 +1,56 @@
+name: Run Sales Portal API tests
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test:
+    timeout-minutes: 60
+    runs-on: ubuntu-latest
+    container:
+      image: mcr.microsoft.com/playwright:v1.55.1-noble
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install OpenJDK
+        run: |
+          apt-get update
+          apt-get install -y openjdk-17-jre
+          echo "JAVA_HOME=$(dirname $(dirname $(readlink -f $(which java))))" >> $GITHUB_ENV
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run API tests
+        env:
+          SALES_PORTAL_API_URL: ${{ secrets.SALES_PORTAL_API_URL }}
+          SALES_PORTAL_URL: ${{ secrets.SALES_PORTAL_URL }}
+          USER_NAME: ${{ secrets.USER_NAME }}
+          USER_PASSWORD: ${{ secrets.USER_PASSWORD }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          QASE_TOKEN: ${{ secrets.QASE_TOKEN }}
+          QASE_PROJECT: ${{ secrets.QASE_PROJECT }}
+          QASE_MODE: ${{ secrets.QASE_MODE }}
+        run: npm run test:api
+
+      - name: Create Allure report
+        run: npm run allure-report
+
+      - name: Save Allure report
+        uses: actions/upload-artifact@v4
+        with:
+          name: api-report
+          path: ./allure-report
+
+      - name: Deploy to GitHub Pages
+        if: success()
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./allure-report
+          destination_dir: allure-report-api
