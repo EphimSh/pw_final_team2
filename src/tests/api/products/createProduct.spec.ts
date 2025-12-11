@@ -5,7 +5,7 @@ import { STATUS_CODES } from "data/statusCode";
 import _ from "lodash";
 import { validateResponse } from "utils/validation/validateResponse.utils";
 import { IProduct } from "data/types/products.types";
-import { errorSchema } from "data/schemas/products/core.schema";
+import { errorSchema } from "data/schemas/core.schema";
 
 test.describe("[API] [Sales Portal] [Products] [Create]", () => {
   let id = "";
