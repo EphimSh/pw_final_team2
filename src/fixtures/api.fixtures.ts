@@ -8,6 +8,8 @@ import { CustomersApi } from "api/api/customers.api";
 import { CustomersApiService } from "api/service/customers.service";
 import { NotificationApi } from "api/api/notifications.api";
 import { NotificationsApiService } from "api/service/notification.service";
+import { OrdersApi } from "api/api/orders.api";
+import { OrdersApiService } from "api/service/orders.service";
 
 export interface IApi {
   // api
@@ -15,12 +17,14 @@ export interface IApi {
   loginApi: LoginApi;
   customerApi: CustomersApi;
   notificationApi: NotificationApi;
+  ordersApi: OrdersApi;
 
   //services
   productsApiService: ProductsApiService;
   loginApiService: LoginService;
   customerApiService: CustomersApiService;
   notificationApiService: NotificationsApiService;
+  ordersApiService: OrdersApiService;
 }
 
 const test = base.extend<IApi>({
@@ -43,9 +47,9 @@ const test = base.extend<IApi>({
     await use(api);
   },
 
-  notificationApi: async ({ request }, use) => {
+  ordersApi: async ({ request }, use) => {
     const apiClient = new RequestApi(request);
-    const api = new NotificationApi(apiClient);
+    const api = new OrdersApi(apiClient);
     await use(api);
   },
 
@@ -62,8 +66,8 @@ const test = base.extend<IApi>({
     await use(new CustomersApiService(customerApi));
   },
 
-  notificationApiService: async ({ notificationApi }, use) => {
-    await use(new NotificationsApiService(notificationApi));
+  ordersApiService: async ({ ordersApi, customerApiService, productsApiService }, use) => {
+    await use(new OrdersApiService(ordersApi, customerApiService, productsApiService));
   },
 });
 

@@ -27,6 +27,11 @@ export interface ICreatedOn {
   createdOn: string;
 }
 
+export enum sortDirection {
+  ASC = "asc",
+  DESC = "desc",
+}
+
 export interface ICase {
   title: string;
   expectedStatus?: number;

@@ -91,9 +91,5 @@ export default defineConfig({
       dependencies: ["setup"],
       testDir: "src/tests/ui/sales-portal/visual",
     },
-    {
-      name: "chromium",
-      use: { ...devices["Desktop Chrome"], headless: true },
-    },
   ],
 });

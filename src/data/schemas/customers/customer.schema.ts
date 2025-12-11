@@ -1,6 +1,5 @@
 import { COUNTRIES } from "data/types/countries";
 
-
 export const customerSchema = {
   type: "object",
   properties: {
@@ -37,17 +36,6 @@ export const customerSchema = {
       type: "string",
     },
   },
-  required: [
-    "_id",
-    "email",
-    "name",
-    "country",
-    "city",
-    "street",
-    "house",
-    "flat",
-    "phone",
-    "createdOn",
-  ],
+  required: ["_id", "email", "name", "country", "city", "street", "house", "flat", "phone", "createdOn"],
   additionalProperties: false,
 };
