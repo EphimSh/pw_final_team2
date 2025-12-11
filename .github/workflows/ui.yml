@@ -38,9 +38,6 @@ jobs:
           USER_PASSWORD: ${{ secrets.USER_PASSWORD }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          QASE_TOKEN: ${{ secrets.QASE_TOKEN }}
-          QASE_PROJECT: ${{ secrets.QASE_PROJECT }}
-          QASE_MODE: ${{ secrets.QASE_MODE }}
         run: npm run test:ui:regression
         continue-on-error:
           true

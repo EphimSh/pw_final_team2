@@ -33,9 +33,6 @@ jobs:
           USER_PASSWORD: ${{ secrets.USER_PASSWORD }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          QASE_TOKEN: ${{ secrets.QASE_TOKEN }}
-          QASE_PROJECT: ${{ secrets.QASE_PROJECT }}
-          QASE_MODE: ${{ secrets.QASE_MODE }}
         run: npm run test:api
 
       - name: Create Allure report
@@ -46,6 +43,26 @@ jobs:
         with:
           name: api-report
           path: ./allure-report
+
+      - name: Notify Telegram
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          JOB_STATUS: ${{ job.status }}
+          WORKFLOW_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          REPORT_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/allure-report-api/
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then
+            echo "Telegram credentials not provided. Skipping notification."
+            exit 0
+          fi
+
+          MESSAGE=$'API tests '"${JOB_STATUS}"' for '"${GITHUB_REF_NAME}"'\nWorkflow run: '"${WORKFLOW_URL}"'\nReport (if published): '"${REPORT_URL}"''
+
+          curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -d chat_id="${TELEGRAM_CHAT_ID}" \
+            -d text="${MESSAGE}"
 
       - name: Deploy to GitHub Pages
         if: success()
