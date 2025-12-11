@@ -2,7 +2,7 @@ import { test, expect } from "fixtures/api.fixtures";
 import { STATUS_CODES } from "data/statusCode";
 import { ObjectId } from "bson";
 import { validateResponse } from "utils/validation/validateResponse.utils";
-import { errorSchema } from "data/schemas/products/core.schema";
+import { errorSchema } from "data/schemas/core.schema";
 
 test.describe("[API] [Sales Portal] [Products] [Delete]", () => {
   let id = "";
