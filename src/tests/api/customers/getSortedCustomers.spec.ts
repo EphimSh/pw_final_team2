@@ -32,7 +32,7 @@ test.describe("[API] [Sales Portal] [Customers] [Get Sorted]", () => {
     const searchOprions = ["name", "email", "country"];
 
     for (const option of searchOprions) {
-      test(`Search Customers by ${option}`, async ({ customerApi }) => {
+      test(`Search Customers by ${option}`, async ({ customerApi, customerApiService }) => {
         const searchField = customer1[option as keyof ICustomerFromResponse] as string;
         const response = await customerApi.getSorted(token, {
           search: searchField,
@@ -44,15 +44,10 @@ test.describe("[API] [Sales Portal] [Customers] [Get Sorted]", () => {
           ErrorMessage: null,
         });
 
-        const { limit, search, country, total, page, sorting } = response.body;
-        const found = response.body.Customers.find((el) => el._id === customer1._id);
-        expect.soft(found, `Created customer should be in response`).toBeTruthy();
-        expect.soft(limit, `Limit should be ${limit}`).toBe(10);
-        expect.soft(search).toBe(searchField);
-        expect.soft(country).toEqual([]);
-        expect.soft(page).toBe(1);
-        expect.soft(sorting).toEqual({ sortField: "createdOn", sortOrder: "desc" });
-        expect.soft(total).toBeGreaterThanOrEqual(1);
+        await customerApiService.assertProductInSortedList(response, {
+          customer: customer1,
+          searchField: searchField,
+        });
       });
     }
   });
@@ -84,10 +79,13 @@ test.describe("[API] [Sales Portal] [Customers] [Get Sorted]", () => {
     for (const sortOption of sortingCustomersData) {
       test(`Sort by: SortField: ${sortOption.sortField}, sortOrder: ${sortOption.sortOrder}`, async ({
         customerApi,
+        customerApiService,
       }) => {
+        const sortingField = sortOption.sortField as CustomersTableHeader;
+        const sortingOrder = sortOption.sortOrder as SortOrder;
         const getSortedResponse = await customerApi.getSorted(token, {
-          sortField: sortOption.sortField as CustomersTableHeader,
-          sortOrder: sortOption.sortOrder as SortOrder,
+          sortField: sortingField,
+          sortOrder: sortingOrder,
         });
 
         const actualCustomers = getSortedResponse.body.Customers;
@@ -111,13 +109,11 @@ test.describe("[API] [Sales Portal] [Customers] [Get Sorted]", () => {
           expect.soft(actual).toEqual(allCustomerSorted[index]);
         });
 
-        const { limit, search, country, total, page, sorting } = getSortedResponse.body;
-        expect.soft(limit, `Limit should be ${limit}`).toBe(10);
-        expect.soft(search).toBe("");
-        expect.soft(country).toEqual([]);
-        expect.soft(page).toBe(1);
-        expect.soft(sorting).toEqual({ sortField: sortOption.sortField, sortOrder: sortOption.sortOrder });
-        expect.soft(total).toBeGreaterThanOrEqual(2);
+        await customerApiService.assertProductInSortedList(getSortedResponse, {
+          sortField: sortingField,
+          sortOrder: sortingOrder,
+          minCustomersTotal: 2, // because i have min 2 customers created
+        });
       });
     }
   });
