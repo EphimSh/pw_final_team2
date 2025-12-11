@@ -85,7 +85,7 @@ test.describe("[API] [Sales Portal] [Products] [Create]", () => {
   });
 
   test("SC-006: Неправильный Content-Type", async ({ productsApi }) => {
-    const createdProduct = await productsApi.create(productData, token, "text/plain");
+    const createdProduct = await productsApi.create(productData, token, { contentType: "text/plain" });
     validateResponse(createdProduct, {
       status: STATUS_CODES.BAD_REQUEST,
       schema: errorSchema,
