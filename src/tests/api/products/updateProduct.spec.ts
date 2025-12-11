@@ -5,7 +5,7 @@ import _ from "lodash";
 import { validateResponse } from "utils/validation/validateResponse.utils";
 import { ObjectId } from "bson";
 import { updateProductSchema } from "data/schemas/products";
-import { errorSchema } from "data/schemas/products/core.schema";
+import { errorSchema } from "data/schemas/core.schema";
 
 test.describe("[API] [Sales Portal] [Products] [Update]", () => {
   let id = "";
