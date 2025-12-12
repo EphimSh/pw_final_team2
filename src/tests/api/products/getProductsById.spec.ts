@@ -6,7 +6,7 @@ import _ from "lodash";
 import { validateResponse } from "utils/validation/validateResponse.utils";
 import { IProduct } from "data/types/products.types";
 import { invalidIds } from "data/products/invalidIds";
-import { errorSchema } from "data/schemas/products/core.schema";
+import { errorSchema } from "data/schemas/core.schema";
 
 test.describe("[API] [Sales Portal] [Products] [Get by Id]", () => {
   let id = "";

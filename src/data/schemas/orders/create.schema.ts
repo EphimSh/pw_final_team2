@@ -1,4 +1,4 @@
-import { obligatoryFieldsSchema, obligatoryRequredFields } from "../products/core.schema";
+import { obligatoryFieldsSchema, obligatoryRequredFields } from "../core.schema";
 import { orderSchema } from "./order.schema";
 
 export const createOrderSchema = {
