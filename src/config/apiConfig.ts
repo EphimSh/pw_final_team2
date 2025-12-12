@@ -12,6 +12,8 @@ export const apiConfig = {
     customersAll: "/api/customers/all",
     orders: "/api/orders",
     ordersByCustomer: (id: string) => `/api/customers/${id}/orders`,
+    orderComments: (id: string) => `/api/orders/${id}/comments`,
+    orderCommentsById: (orderId: string, commentId: string) => `/api/orders/${orderId}/comments/${commentId}`,
     notifications: "/api/notifications",
     notificationsAll: "/api/notifications/mark-all-read",
     notificationById: (id: string) => `/api/notifications/${id}/read`,

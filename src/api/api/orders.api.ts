@@ -26,4 +26,44 @@ export class OrdersApi {
       throw error;
     }
   }
+
+  // ("POST /api/orders/{id}/comments")
+  async addComment(_id: string, token: string, comment: string) {
+    const options: IRequestOptions = {
+      baseURL: apiConfig.baseURL,
+      url: apiConfig.endpoints.orderComments(_id),
+      method: "post",
+      headers: {
+        "content-type": "application/json",
+        Authorization: `Bearer ${token}`,
+      },
+      data: JSON.stringify({ comment }),
+    };
+
+    try {
+      return await this.apiClient.send<IOrderResponse>(options);
+    } catch (error) {
+      console.error(`Failed to add comment for order with ID: ${_id}:`, error);
+      throw error;
+    }
+  }
+
+  async deleteComment(token: string, orderID: string, commentID: string) {
+    const options: IRequestOptions = {
+      baseURL: apiConfig.baseURL,
+      url: apiConfig.endpoints.orderCommentsById(orderID, commentID),
+      method: "delete",
+      headers: {
+        "content-type": "application/json",
+        Authorization: `Bearer ${token}`,
+      },
+    };
+
+    try {
+      return await this.apiClient.send<IOrderResponse>(options);
+    } catch (error) {
+      console.error(`Failed to delete comment with ID: ${commentID} for order with ID: ${orderID}:`, error);
+      throw error;
+    }
+  }
 }
