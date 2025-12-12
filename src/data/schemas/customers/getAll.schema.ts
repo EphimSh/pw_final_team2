@@ -5,10 +5,13 @@ import { customerSchema } from "./customer.schema";
 export const getAllCustomersSchema = {
   type: "object",
   properties: {
-    customers: {
+    Customers: {
       type: "array",
       items: customerSchema,
     },
+    IsSuccess: { type: "boolean" },
+    ErrorMessage: { type: ["string", "null"] },
   },
-  required: [...obligatoryRequredFields],
+  required: ["Customers", "IsSuccess", "ErrorMessage"],
+  additionalProperties: false,
 };

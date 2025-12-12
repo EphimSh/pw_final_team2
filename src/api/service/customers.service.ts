@@ -6,13 +6,16 @@ import {
   getCustomerSchema,
   updateCustomerSchema,
 } from "data/schemas/customers";
+
 import {
   CustomersTableHeader,
   ICustomer,
   ICustomerFromResponse,
+  ICustomerResponse,
   ICustomersSortedResponse,
   IGetCustomersParams,
 } from "data/types/customers.types";
+
 import { STATUS_CODES } from "data/statusCode";
 import { validateResponse } from "utils/validation/validateResponse.utils";
 import { IResponse, SortOrder } from "data/types/core.types";
@@ -83,6 +86,24 @@ export class CustomersApiService {
     validateResponse(response, {
       status: STATUS_CODES.DELETED,
     });
+  }
+
+  assertCustomerUpdated(actualCustomer: ICustomerFromResponse, updatedCustomerData: IResponse<ICustomerResponse>) {
+    expect(actualCustomer).not.toBe(updatedCustomerData.body);
+  }
+
+  async deleteAllCustomers(ids: string[], token: string) {
+    for (const id of ids) {
+      if (!id) continue;
+      try {
+        await this.delete(token, id);
+      } catch (error: unknown) {
+        const status = (error as { response?: { status?: number } }).response?.status;
+        if (status === 404) continue;
+        throw error;
+      }
+    }
+    ids.length = 0;
   }
 
   async assertCustomerInList(response: IResponse<ICustomersSortedResponse>, customer: ICustomerFromResponse) {
