@@ -1,0 +1,57 @@
+import { faker } from "@faker-js/faker";
+import { getAllCustomersSchema } from "data/schemas/customers/getAll.schema";
+import { STATUS_CODES } from "data/statusCode";
+import { test } from "fixtures/api.fixtures";
+import { validateResponse } from "utils/validation/validateResponse.utils";
+
+test.describe("[API] [Sales Portal] [Customers] [GetAll]", async () => {
+  let id = "";
+  let token = "";
+
+  test.beforeAll(async ({ loginApiService }) => {
+    token = await loginApiService.loginAsAdmin();
+  });
+
+  test.afterEach(async ({ customerApiService }) => {
+    if (id) await customerApiService.delete(token, id);
+  });
+
+  test("Get All Customers via API", async ({ customerApiService, customerApi }) => {
+    const createdCustomer = await customerApiService.create(token);
+    id = createdCustomer._id;
+
+    const getAllCustomersResponse = await customerApi.getAll(token);
+    validateResponse(getAllCustomersResponse, {
+      status: STATUS_CODES.OK,
+      schema: getAllCustomersSchema,
+      IsSuccess: true,
+      ErrorMessage: null,
+    });
+  });
+
+  test("Get All Customers without Token via API", async ({ customerApiService, customerApi }) => {
+    const createdCustomer = await customerApiService.create(token);
+    id = createdCustomer._id;
+
+    const getAllCustomersResponse = await customerApi.getAll("");
+    validateResponse(getAllCustomersResponse, {
+      status: STATUS_CODES.UNAUTHORIZED,
+      IsSuccess: false,
+      ErrorMessage: "Not authorized",
+    });
+  });
+
+  test("Get All Customers with incorrect Token via API", async ({ customerApiService, customerApi }) => {
+    const createdCustomer = await customerApiService.create(token);
+    id = createdCustomer._id;
+
+    const invalidToken = faker.string.alphanumeric({ length: { min: 1, max: 200 } });
+
+    const getAllCustomersResponse = await customerApi.getAll(invalidToken);
+    validateResponse(getAllCustomersResponse, {
+      status: STATUS_CODES.UNAUTHORIZED,
+      IsSuccess: false,
+      ErrorMessage: "Invalid access token",
+    });
+  });
+});

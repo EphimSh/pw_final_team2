@@ -11,7 +11,7 @@ export interface IRequestOptions {
   baseURL: string;
   url: string;
   method: "get" | "post" | "put" | "delete";
-  data?: object;
+  data?: object | string;
   headers?: Record<string, string>;
 }
 
@@ -25,9 +25,4 @@ export type SortOrder = "asc" | "desc";
 
 export interface ICreatedOn {
   createdOn: string;
-}
-
-export enum sortDirection {
-  ASC = "asc",
-  DESC = "desc",
 }
