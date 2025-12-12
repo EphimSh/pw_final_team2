@@ -28,12 +28,7 @@ export class ProductsApi {
       data: payload,
     };
 
-    try {
-      return await this.apiClient.send<IProductResponse>(options);
-    } catch (error) {
-      console.error(`Failed to create product ${product.name}:`, error);
-      throw error;
-    }
+    return await this.apiClient.send<IProductResponse>(options);
   }
 
   // PUT /api/products by id
@@ -49,12 +44,7 @@ export class ProductsApi {
       data: newProduct,
     };
 
-    try {
-      return await this.apiClient.send<IProductResponse>(options);
-    } catch (error) {
-      console.error(`Failed to update product ${_id}:`, error);
-      throw error;
-    }
+    return await this.apiClient.send<IProductResponse>(options);
   }
 
   // GET /api/products by id
@@ -69,12 +59,7 @@ export class ProductsApi {
       },
     };
 
-    try {
-      return await this.apiClient.send<IProductResponse>(options);
-    } catch (error) {
-      console.error(`Failed to get product by id ${_id}:`, error);
-      throw error;
-    }
+    return await this.apiClient.send<IProductResponse>(options);
   }
 
   // GET /api/products/all
@@ -89,12 +74,7 @@ export class ProductsApi {
       },
     };
 
-    try {
-      return await this.apiClient.send<IProductsResponse>(options);
-    } catch (error) {
-      console.error(`Failed to get all products:`, error);
-      throw error;
-    }
+    return await this.apiClient.send<IProductsResponse>(options);
   }
 
   // GET /api/products with sorting
@@ -109,12 +89,7 @@ export class ProductsApi {
       },
     };
 
-    try {
-      return await this.apiClient.send<IProductsSortedResponse>(options);
-    } catch (error) {
-      console.error(`Failed to get products with sorting by ${params?.sortField}:`, error);
-      throw error;
-    }
+    return await this.apiClient.send<IProductsSortedResponse>(options);
   }
 
   // DELETE /api/products by id
@@ -129,11 +104,6 @@ export class ProductsApi {
       },
     };
 
-    try {
-      return await this.apiClient.send<null>(options);
-    } catch (error) {
-      console.error(`Failed to delete product by id ${_id}:`, error);
-      throw error;
-    }
+    return await this.apiClient.send<null>(options);
   }
 }

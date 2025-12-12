@@ -1,25 +1,26 @@
 import { faker } from "@faker-js/faker";
 import { getAllCustomersSchema } from "data/schemas/customers/getAll.schema";
 import { STATUS_CODES } from "data/statusCode";
+import { ICustomerFromResponse } from "data/types/customers.types";
 import { test } from "fixtures/api.fixtures";
 import { validateResponse } from "utils/validation/validateResponse.utils";
 
 test.describe("[API] [Sales Portal] [Customers] [GetAll]", async () => {
   let id = "";
   let token = "";
+  let createdCustomer: ICustomerFromResponse;
 
-  test.beforeAll(async ({ loginApiService }) => {
+  test.beforeAll(async ({ loginApiService, customerApiService }) => {
     token = await loginApiService.loginAsAdmin();
+    createdCustomer = await customerApiService.create(token);
+    id = createdCustomer._id;
   });
 
   test.afterEach(async ({ customerApiService }) => {
     if (id) await customerApiService.delete(token, id);
   });
 
-  test("Get All Customers via API", async ({ customerApiService, customerApi }) => {
-    const createdCustomer = await customerApiService.create(token);
-    id = createdCustomer._id;
-
+  test("Get All Customers via API", async ({ customerApi }) => {
     const getAllCustomersResponse = await customerApi.getAll(token);
     validateResponse(getAllCustomersResponse, {
       status: STATUS_CODES.OK,
@@ -29,10 +30,7 @@ test.describe("[API] [Sales Portal] [Customers] [GetAll]", async () => {
     });
   });
 
-  test("Get All Customers without Token via API", async ({ customerApiService, customerApi }) => {
-    const createdCustomer = await customerApiService.create(token);
-    id = createdCustomer._id;
-
+  test("Get All Customers without Token via API", async ({ customerApi }) => {
     const getAllCustomersResponse = await customerApi.getAll("");
     validateResponse(getAllCustomersResponse, {
       status: STATUS_CODES.UNAUTHORIZED,
@@ -41,10 +39,7 @@ test.describe("[API] [Sales Portal] [Customers] [GetAll]", async () => {
     });
   });
 
-  test("Get All Customers with incorrect Token via API", async ({ customerApiService, customerApi }) => {
-    const createdCustomer = await customerApiService.create(token);
-    id = createdCustomer._id;
-
+  test("Get All Customers with incorrect Token via API", async ({ customerApi }) => {
     const invalidToken = faker.string.alphanumeric({ length: { min: 1, max: 200 } });
 
     const getAllCustomersResponse = await customerApi.getAll(invalidToken);

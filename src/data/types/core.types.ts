@@ -10,7 +10,7 @@ export interface IResponseFields {
 export interface IRequestOptions {
   baseURL: string;
   url: string;
-  method: "get" | "post" | "put" | "delete";
+  method: "get" | "post" | "put" | "delete" | "patch";
   data?: object | string;
   headers?: Record<string, string>;
 }
@@ -25,4 +25,10 @@ export type SortOrder = "asc" | "desc";
 
 export interface ICreatedOn {
   createdOn: string;
+}
+
+export interface ICase {
+  title: string;
+  expectedStatus?: number;
+  expectedErrorMessage?: string | null;
 }
