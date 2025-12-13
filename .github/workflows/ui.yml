@@ -1,11 +1,6 @@
 name: Run Sales Portal UI tests
 on:
-  push:
-    branches:
-      - main
-  pull_request:
-
-  workflow_dispatch: # Manually trigger the workflow
+  workflow_dispatch:
 
 jobs:
   test:
@@ -39,10 +34,9 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: npm run test:ui:regression
-        continue-on-error:
-          true
+        continue-on-error: true
 
-          # Create Allure report
+      # Create Allure report
       - name: Create Allure report
         run: npm run allure-report
 
