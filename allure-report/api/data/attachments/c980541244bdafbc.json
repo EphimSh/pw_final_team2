@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:13:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "577",
+    "etag": "W/\"241-c8Lljj07JafRKhBfLVbEDQYTrvQ\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Maudie17@hotmail.com",
+      "name": "QRqocMUkujhfIjyXQzAGjYzCInFr",
+      "country": "Great Britain",
+      "city": "jEgSV",
+      "street": "IxFxObafCL6U9k4MdV9ynqkRmG2rb",
+      "house": 14,
+      "flat": 5,
+      "phone": "+4040301256",
+      "createdOn": "2025-12-13T16:13:56.000Z",
+      "notes": "WAyXhEIKeBj0GdwmomYBmWic20054re59sfwniLNmw0NbUrdT6Lk8mBQeYhgIE5Cv4PgJD0tM6tqTp2R995x4GcgT9NQSBlPHuyG7mjexXlqk1JOD9p6rFdjjDxspzx5u0S9O6HGvuUlcLLgVNlaI14FP4tDybuOaDggzML6qeade2Cz2V8m8b3VMEYafAlirozVejCL22cDy49GE92OrjkZdEoCxburb9Q4fToOnGuu9nFlOjYJJ5vlr4",
+      "_id": "693d90c41c508c5d5ec3b829"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

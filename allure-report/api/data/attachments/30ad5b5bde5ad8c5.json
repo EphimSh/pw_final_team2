@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:14:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "449",
+    "etag": "W/\"1c1-c+LY9/ggxdivEvkw5ohtH05IfHo\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes2698",
+      "amount": 586,
+      "price": 1,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-13T16:14:17.000Z",
+      "notes": "071uR0QTpfDw8WUsZyvJqmhPwyXg5AHbYDGlBsUxHGVkk7CKgTyLzRgTHkBHjvzOjUNm5bUVmPwFvSEm00OTuIFIrU9LofDIP5a1z4equvIT3Rvs22tsmGoLBjCrcDdFrsXeIOmr5w1E9g3sFki0fbZqrfc8zzWvD0yadFOcJGecNqEh8Tdc6FeQW9Jpr6Ir03KcibvZlkzonxBi3Lb4mWHgBwZOgnJguZ4SLk3paDkN69GpngIWpUd8zl",
+      "_id": "693d90d91c508c5d5ec3ba50"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

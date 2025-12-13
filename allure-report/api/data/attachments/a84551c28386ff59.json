@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:13:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "352",
+    "etag": "W/\"160-hWbSU+WgO4VLOj5krXRdLJYjcx4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Donavon.Boyer@gmail.com",
+      "name": "Jiqux",
+      "country": "France",
+      "city": "EiONqRPPx",
+      "street": "AUnh6Td1UZxm5WypEyB8IYhXzC",
+      "house": 15,
+      "flat": 5,
+      "phone": "+9463847127",
+      "createdOn": "2025-12-13T16:13:43.000Z",
+      "notes": "xQAInTQdWwRLOHKy4yliu84wvFsFpooVBWt0sPfHAeEVR9qEtNc",
+      "_id": "693d90b71c508c5d5ec3b7a0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

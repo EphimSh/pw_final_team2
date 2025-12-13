@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:16:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-J83JG1KZlpa1KEptsAgpzVLmESw\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy S2560067",
+      "amount": 83,
+      "price": 3100,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-13T16:16:28.000Z",
+      "notes": "xG6wLshzGNNssrxi31JA9Vq9IMDanB8k1HGbBMme2MyTEysh52eNFd09ONjw9tUfvve2EFnkXbeRPQ3D8LmBtZsz9zoTDeFz6EWZW6acK2ePq3aFWDioikWpm9b60nSAKJzjA8YqKwCMeAC1RmiebyW8uN0Y1j1YnQ3wBNGcbfMgYcWVnZL7O5R4tLyZbmIULDmCfiEodfvhNQWGAsMbDru3YLAVGVqGSMF4H774sSCxRTSl8wwtJombth",
+      "_id": "693d915c1c508c5d5ec3d0dc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

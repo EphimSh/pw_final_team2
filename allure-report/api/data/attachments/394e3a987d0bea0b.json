@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:17:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-KCdh1QI6k5u0pZvatErQtYPbRB4\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike41801",
+      "amount": 890,
+      "price": 31630,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-12-13T16:17:10.000Z",
+      "notes": "OuiXDkp5HzDy1t8sug0C7W9OtJmlMm2vyFJZQ9vC7ahFfVL7N51aVAj3IfxATiV3DneWrRorAZtN0xUR5upGUzCQU2XDn2ZtjHEkcB2s2oGxVv8f0ua4dg52Z2imiCZjdL2nMSiuxh8vvlG7RK0CMqQt7lVIXp1MglEfa9lymTQghT7H08zPopnXv9MptF6EIA0FL69CmbQQEJr4cI8EUBD1AODVup3C2AkCrAhI1kMgGQsq5SEhf3dxzD",
+      "_id": "693d91861c508c5d5ec3dc73"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

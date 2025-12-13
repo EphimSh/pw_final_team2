@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:16:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-qi44ytptbxwVwusYwsG+g8kbF5k\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro65112",
+      "amount": 864,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-13T16:16:37.000Z",
+      "notes": "PktDISOzY7nE9YSxznRunDeHNlie4Jokt6r9BtAKnOr7awI7qU73rz9yyJ12J2PGH8lMzZMmTHs55DwncccxihohXGoI6nnoHlxSTqkd9685DSBu1S1ZuYpL21lMSYDN0mAtaxeNIBvzmvd9XBKJuZt7v1YA2S9gw2elNsSZ7Z4Pm828vTyGpeb4lTaGsyeSrKnk96cA1ftO8ummu7yihfZubgCdEDSAOYNI13Bb5R53Ek5ylzR8Jks5YT",
+      "_id": "693d91651c508c5d5ec3d104"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

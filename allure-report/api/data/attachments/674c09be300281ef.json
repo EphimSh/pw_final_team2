@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:14:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "363",
+    "etag": "W/\"16b-iblWrUgx8FD+doil7Tc7PcXVCiY\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "693d90c41c508c5d5ec3b824",
+      "email": "Rudolph87@gmail.com",
+      "name": "wjjQxaBBxkeadIHtZCoXTLVqnFmXvKsAReg",
+      "country": "Canada",
+      "city": "QK",
+      "street": "ibiHQYk7VdiP",
+      "house": 119,
+      "flat": 7,
+      "phone": "+9176253664",
+      "createdOn": "2025-12-13T16:13:56.000Z",
+      "notes": "rGl4SVyUKTd9apSlelRTQWFvzfcATeKTF5W3KWDCSVR2nnwmOieNT2hb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

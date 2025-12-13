@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:15:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-N30FI1onT5ca3AQEHrXsW+KgApk\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra47405",
+      "amount": 796,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-13T16:15:46.000Z",
+      "notes": "7Ii7DT9lDPhIaPoSVdwsH6xClidwvdGqDfrQcoustBf9s5LWWXJAZtGcRE5DUb30I9iaXG9sSlyF2bhR4UVOndL62W2NR2WayRhY2VquvCH60T8IQEtkLUTF5RbxiaBIoia5P2hwNbDvF5gq0LhCWBQFhTygGVYIH4hcOjAbkn97PNVTGa5yCzN7QiX7iEdkL99oyAOaQo3uxAPmdE4GQJ6uGKNQ2JhSWKYHz5MkHRmoR1rHmMvpyxjZPG",
+      "_id": "693d91321c508c5d5ec3c6db"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

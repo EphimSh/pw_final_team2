@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:15:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-+HcvMYaEvmEahrZ8M3S769588S8\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro54215",
+      "amount": 62,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-13T16:15:36.000Z",
+      "notes": "zRiOoPFRFbKIi8KVKIBrQnyOg9XrbHfd9GU0MVoR1HICo9ojXTMp8RbcNP4BRhllzdNKMPuKpqqArcAHTVyyrcNSPnsfoTMQBBPM7SrHCbTcBXn9KKMg6mMjgthrHxs15zfglRVbRyumZ2MtWvkR4M7FQAxr6QwE07u6rA0V0XV2j1TPfKgjySr6ZWz5xt8o2vAJVRDKTWy9bAuzfjNkSlofxFyBZoZsb6Ptsx3qmfJeHuA1mj99C5TQ9N",
+      "_id": "693d91281c508c5d5ec3c303"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

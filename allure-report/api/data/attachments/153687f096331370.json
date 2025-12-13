@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:14:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-S2/0p9CWz0ab/9CQFx6C6cGIirM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza86069",
+      "amount": 999,
+      "price": 78893,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-13T16:14:25.000Z",
+      "notes": "GU5kYj77VQENHMLKN2xyvB1AMoCkBBogSRp6uP9Dk23AC9Hy0pBHyzKRAiVdbvLbllmoMQaIfQ18deiZ21PNHKC8Lxk5wonU7fFco2D9Lvh0IkLWIF5gxRLFp2b5T1DEP1aogrVte9U5daddskKivUoOhvAu0Dd9urIetx7zBmgpLxdsIImBG0cvaxbOMpAjvihgD0i9Hv8RNf6cG5l73BSRO16MPPSIOXQoCsaEAGTnUT5wf9BLesK5Vm",
+      "_id": "693d90e11c508c5d5ec3bafa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

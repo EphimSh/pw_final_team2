@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:14:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "191",
+    "etag": "W/\"bf-4hkx7QgkJddsH/Ma5pIQg6Tw75Q\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish40468",
+      "amount": 446,
+      "price": 93452,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-13T16:14:30.000Z",
+      "_id": "693d90e61c508c5d5ec3bc9e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

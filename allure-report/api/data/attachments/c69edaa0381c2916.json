@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:15:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-TLVNUX3GGgxokY1cSwZdWIx/TiE\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra81563",
+      "amount": 816,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-13T16:15:47.000Z",
+      "notes": "hmUiT7BkMvhE76tVmimiNEkvULg1hxmUQjWKCNO0w4x2I6EQXrG9h7zHgU05P7frJVfFYmwPCzWHT0WuQ47DTGTmL9BDixHPsi5fWsaMTcsWysm8SDjI6kcHpjzmWRNbG4EEfo96wW3x9LPncWUyxMb4ttpoMZBOuiU1QP1yFAuivkmv4ljmGJARhMR9Qusp32KdnXkNGcgxNettj5TWnEcIiVFiEUAc6rera6KZw4j5EckZRSQ5VqqfeJ",
+      "_id": "693d91331c508c5d5ec3c6e9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

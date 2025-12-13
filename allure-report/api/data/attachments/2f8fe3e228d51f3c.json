@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:16:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-sUlFpME5XfmEtwHLRAjXVf4nhc0\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table20496",
+      "amount": 905,
+      "price": 70579,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-13T16:16:08.000Z",
+      "notes": "qcjAtZucCA2Y59dhmaaJ2cC5VwsuhMNfiNE7oQ52ZEpxoOJ19kpRtAPpw2ODqAmEWDtJrEIPr9eJRxVQk8RoMXpJdwuWGoOaJqXk5f6QPH557MGzLOAUSV5xMbTmSSymQuMGkXiFehMLEKrU3lE6Cn1e1qsWMrJPxgkkf3T5OQCuMmwXixfTRxDhWLNNkMXQh1zmQsubcpBPmSO3Kiy9BmD5aD1URMT2ByZHktPGtn5trjx6Q52L65kxuy",
+      "_id": "693d91481c508c5d5ec3cdf6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

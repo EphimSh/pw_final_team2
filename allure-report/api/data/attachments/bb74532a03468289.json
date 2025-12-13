@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:16:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-Uqq/Y5CRLoCoErzpKuCXvpUfbsE\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat72347",
+      "amount": 16,
+      "price": 76411,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-12-13T16:16:03.000Z",
+      "notes": "D4UKhxOsSj6yqdM9g1LBgskvOUSD0GeWumQlPSIWv4xfDXNB32Gbo01lKXkicxotWgUR9zChXJHm1cd326XMyDmZZcqEU62moiPn9duZfcZNH5bHLrsRLa8QYUhTjHgzILrGODeemXWTee3vRoUO4yVPDDOJoaJloRhoaDKSyr0L9HTwpEupuenlB3p6cd7hNNponMzvLfljhjFMWP9iCPhAq4Iu0o72YN4vyPyCHPMAHbBYpTjffkyJDd",
+      "_id": "693d91431c508c5d5ec3cc54"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:16:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-3Ium8vKQlRQwEZyEyHxvgd/XL5s\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike19038",
+      "amount": 265,
+      "price": 15154,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-12-13T16:16:49.000Z",
+      "notes": "TBg1CvBbsa7TwLyqHVe4hmJsy5oBvixu1DKnagjUKUfUCMOEkUPNswd5I6bCuZoOYECkC8Bt9jrWiNwvitdhNrwKVhfTT0SovKjQ2ieLugBsTEAJxAdWjzlPzZYDYiAh5dMcZZyjONOUFNWBW0sgfNrdoeMQHdqVsaO3zNWN1Jk40TQukxzufKZOoXODhm2NEDfUGGPnTR0uMzP7GQrFZWGz2nYJfw3odeLjKMgVGEid1gjqCNwh7PykIm",
+      "_id": "693d91711c508c5d5ec3d5e5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
