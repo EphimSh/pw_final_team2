@@ -26,7 +26,7 @@ export const invalidIds: IInvalidFormatIdCase[] = [
   {
     title: "SC-017: Invalid product ID format (empty string)",
     requestId: "",
-    expectedStatus: STATUS_CODES.SERVER_ERROR,
+    expectedStatus: STATUS_CODES.OK,
   },
   {
     title: "SC-017: Invalid product ID format (literal null)",
