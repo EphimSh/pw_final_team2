@@ -5,9 +5,8 @@ import { COUNTRIES } from "data/types/countries";
 import { generateCustomerData } from "./generateCustomerData";
 import { createCustomerSchema } from "data/schemas/customers/create.schema";
 import { faker } from "@faker-js/faker";
-import { errorSchema } from "data/schemas/products/core.schema";
 import { ICustomer } from "data/types/customers.types";
-
+import { errorSchema } from "data/schemas/index.schema";
 interface ICreateCustomerCase extends ICase {
   customerData: ICustomer;
   expectedSchema: object;

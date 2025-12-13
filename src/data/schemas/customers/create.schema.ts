@@ -1,13 +1,13 @@
-﻿import { obligatoryFieldsSchema, obligatoryRequredFields } from "../products/core.schema";
+﻿import { obligatoryFieldsSchema, obligatoryRequredFields } from "../core.schema";
 import { customerSchema } from "./customer.schema";
 
-// Schema for POST /api/customers response (201)
 export const createCustomerSchema = {
   type: "object",
   properties: {
     Customer: customerSchema,
+    User: { type: "object" },
     ...obligatoryFieldsSchema,
   },
   required: ["Customer", ...obligatoryRequredFields],
-  additionalProperties: false,
+  additionalProperties: true,
 };

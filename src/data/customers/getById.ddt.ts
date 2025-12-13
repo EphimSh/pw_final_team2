@@ -1,5 +1,5 @@
 import { getCustomerSchema } from "data/schemas/customers/get.schema";
-import { errorSchema } from "data/schemas/products/core.schema";
+import { errorSchema } from "data/schemas/index.schema";
 import { STATUS_CODES } from "data/statusCode";
 import { ICase } from "data/types/core.types";
 import { ICustomer } from "data/types/customers.types";
