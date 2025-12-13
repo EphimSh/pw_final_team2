@@ -18,6 +18,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Show container OS ID
+        run: /usr/bin/docker exec 89717f433eb284f8b04009b194bf82f028c2f954247e449b819d9a8ad84229c4 sh -c "cat /etc/*release | grep ^ID"
+
       - name: Install OpenJDK
         run: |
           apt-get update
