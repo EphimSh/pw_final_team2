@@ -69,5 +69,5 @@ jobs:
           REPORT_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/allure-report/api/
           TEST_STATUS: ${{ steps.run-tests.outcome }}
         run: |
-          TEXT="API tests finished with status: ${TEST_STATUS}. Allure report: ${REPORT_URL}"
+          TEXT="🤖 API tests finished with status: ${TEST_STATUS}. Allure report: ${REPORT_URL}"
           curl -s --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" --data-urlencode "text=${TEXT}" "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage"
