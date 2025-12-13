@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:08:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-z7Yzf3yMFfbRoMAu/+CR6MZd0OU\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball80518",
+      "amount": 497,
+      "price": 2391,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-12-13T23:08:32.000Z",
+      "notes": "POBaipmX0D10fL4bYdVMrD6aJ6bDzpltFdzMG3c6FXcyOYSX2gfaDrOpG1WaYhqsdw58J01u6uIYIvSLHJSjA4kG5V6qetB2NAD0iv14nwc4wabreVYp1Fved9NONqQbs3bDqtbQvrO4h8gaGtFQLbrJ6AwKnZ7S0pUMKZwzdzqStTZmmagZnEZdMdKC9m6aUazH7VxwKAWXz64IFGw90WpTJI68tmIpfZz380ehNF8o0OsYKL8PrlojKS",
+      "_id": "693df1f01c508c5d5ec698e3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

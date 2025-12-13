@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:08:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-lRWBCauJX8Lnbwtk601tsiAOc6k\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X70921",
+      "amount": 527,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-13T23:08:52.000Z",
+      "notes": "CNeWHVYRQ4zjxgBpZ5rxAsnqDoRhHW36C827fnbmtxoemzv4XzYvu5RQhdIHy2xUr0aaCQBvhpFQ56uUxMO88pFYpJlNkZJmS4xuhQ7I0GKZoaXhQwZWBMDfGJOHDHyP51YIRMZl7l3cjWutw0WvPaOGbyo6QWHtzVzvTSYB3XIaVBf2NgwJJ0AMnurggH3v4Kk7xoaQByiaFv3tN69k4i3sHd0tCuXfs5Q1uIrDwgcdFZAjN5fk6ggkh0",
+      "_id": "693df2041c508c5d5ec69bc7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

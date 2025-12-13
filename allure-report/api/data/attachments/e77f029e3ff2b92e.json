@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:08:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-w1Cb3ZXkRKTTj/g77IbP0Orko8M\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard9335",
+      "amount": 595,
+      "price": 10149,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-13T23:08:24.000Z",
+      "notes": "BiH2bIop8aVzQ2BMluUBdJyOcMycIBvDOHlsSf86VcxoxbcQFt9HG4nNcFCcPy0yc8TQXdgHshiANu8oo3k9WAkbu1LjhOL2TPiytdYUNTNouCFVY6Aaq6kuKBea3TaUBOfs7YTYXPKzfRVJE0UU9GmR25Gsn23mY1lv5VOaUr3SPU5MgmlZfsVlf9SvfGevIoTvOSvWQZybEhxqniz6yRS0hrPRXqvofeXAPRDtjIy7hZx2MsC4InOL26",
+      "_id": "693df1e81c508c5d5ec6979c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:09:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-p0Rj9hjODDk0lSIEtNeUwn4XdZo\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair37369",
+      "amount": 940,
+      "price": 32798,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-12-13T23:09:16.000Z",
+      "notes": "E3xrszCSSxkG7NKImVeTx6HrRqfnyOsaDjB4ZJUn12cntA9GbG1JtBTKX750g1f7ZiicuE98WbR5aDFFmVAiclcvrtl3BcX62yFzSyJLMq4IqzoKfSxnDBTNIKUqYbgt1BvIKjYiiOxEYVUshflybN8WXo4KNKmfbtJYxZxqeja4JIAL5mmRvJ6xmhucv6plhhg4suhujFJNVJuCpsNDhOkKwuiNOzVj51txgOlHuGaastKWvknoPwbYhH",
+      "_id": "693df21c1c508c5d5ec6a090"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

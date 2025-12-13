@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:09:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-rj9/yJdA2/7FrtN+vTY6ICeCOPY\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna13077",
+      "amount": 117,
+      "price": 34877,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-13T23:09:20.000Z",
+      "notes": "5pBW4DgXx5hrjjr1LV3SKz7SAmtq4qhFWLupmGzwbGlxV3ArY3tQ5at0iECaM02ROqWo34uut6k9DdEAELVIZBOXhTWDNVy86G3vpFbyQFdHrzM77hh3CT97QeVbi4UMmNTiG4TpdWZyVmNpy3QFuGGBSyL6zFQH5ned6fdnEM71XUh8cRQSG2h1DxuM0g5vHf5CJumzGFTw0ZtB0lZDYg42HAykDze56TxxjSXzD9Td360pEPBomqQB7w",
+      "_id": "693df2201c508c5d5ec6a201"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

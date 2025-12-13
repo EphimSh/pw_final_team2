@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:08:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-Pdw8WJnLe2gcbGJdi4ZFRoE1tTE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse92691",
+      "amount": 927,
+      "price": 51823,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-12-13T23:08:51.000Z",
+      "notes": "bowT2NW1tbpoJKSvhEFkY7cDKCBB94xKonDHa9qEj4JjDfASImAYIH667FOaTktey8FBgXaG7qOVkN8eJCz8gnEYC5UnOEQFybZkLPVFY6tSjNRYxoENOunpukmTyoxigi1MaPEK20i9GICNHPZpCME475dfXc17S8vD5GrzLE7wCsptE9cYid4cBs7AJU4vN73ZQBZHKVyzy6Tv36DOVvttaFlgKKfoM9aNRPoTI1RT62xHhSrstHtjMp",
+      "_id": "693df2031c508c5d5ec69b73"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

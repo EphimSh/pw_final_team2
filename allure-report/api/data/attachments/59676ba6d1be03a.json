@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:08:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "394",
+    "etag": "W/\"18a-/EvVXZD+4CvaBnMLVyzuelmdJw4\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Reese_Rippin@hotmail.com",
+      "name": "hEpoQAVhNlCGqUefUTike",
+      "country": "Belarus",
+      "city": "ZQldJG",
+      "street": "TpgAtNJq1DD26xfZqTg4EjKG",
+      "house": 123,
+      "flat": 6,
+      "phone": "+0647754270",
+      "createdOn": "2025-12-13T23:08:12.000Z",
+      "notes": "5ZSBPQWvwmSrYgqpg5MJeds73c6RnHosN5KlZSB9b7vmj6N7QUoGckppPFzB1u8TOgwWbb7AxRm2P83",
+      "_id": "693df1dc1c508c5d5ec696b1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

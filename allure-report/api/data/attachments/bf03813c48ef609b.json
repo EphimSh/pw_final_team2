@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:08:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-+kFKeyPCc/styrxkLwUQk2vemRU\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X98342",
+      "amount": 353,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-13T23:08:51.000Z",
+      "notes": "Zd6V8hrVsMFGm5yAGzt4h4NhsuNuLc4mEX5gSK8Eww0eHi3wTqkAsb7GUjRqHuZZmxsT8pSZUPEItnr4kE261hgiq6ur55uHHkRb04432jLwp3MDYtuhiTbh9Bg2Rx5OegamAl6NuX21WJzsBg8EsujVVbzWC7s6c18Fja6DRfYw8I6m78wTmRhk4pxGBKNTWZRx7MXH0UNDtk1m98U5GW5xYCc4GX8UBDm1ozb1cEIDNH0KTvhmM4Sffz",
+      "_id": "693df2031c508c5d5ec69ba6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

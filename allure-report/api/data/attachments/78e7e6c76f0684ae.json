@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:08:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-SHnruq5piLWvNMD0+q8AI22BLsw\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken12302",
+      "amount": 0,
+      "price": 93264,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-13T23:08:31.000Z",
+      "notes": "CP5zTqhQihKKvNdIMBp0xu5Ayveio8lNEYYSgKiH9LgJQttDbQasFG0LcqEhGF3TFMhZ82PYftWbScof5c4SROvKtuJpeylGPuVYUYfjJAXKGDYjZIInUk1uj9wecab4WO6lK1hH2UzuT9gsPFgXUEPVzn3W9Ww52mbHtZh2QuXGS16CeKz2GGwXCvkQxh1ZTXcLUHbAbQQyVGraOzQcssCUXdO8UxgleJ57J8DwIbtUQlBeV4h6JJjMgb",
+      "_id": "693df1ef1c508c5d5ec698b4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

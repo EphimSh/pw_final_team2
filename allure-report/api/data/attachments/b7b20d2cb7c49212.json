@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:08:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-/FVzpAXsPJlUmTRpiw7VPx0QZ5M\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car40840",
+      "amount": 149,
+      "price": 73767,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-12-13T23:08:47.000Z",
+      "notes": "EGPxE3qixWooqBuZvHXyf7k3lt2crviOHafws6t36Eycp2nnJTQadfv2eyiAHBEKuIzByNiyugkcIOFmrLdZPO06EWDBJzhTqeT2jNQpCkLY9spaQgmfjlUHIJVVk7QSdlpUCEGZhpwhR5z6BYXumZauKu1oV6VR5KCybrvOMH3cSz2PKp2GFUXtghBu4yfwl9Mlh3CPCwrnIBOr0x1NAthX0GQxLmOAutzMXRUQXqtobkni93mT1ZrotT",
+      "_id": "693df1ff1c508c5d5ec69af7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

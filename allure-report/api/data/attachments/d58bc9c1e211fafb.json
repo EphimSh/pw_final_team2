@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:09:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-O/8JqZwXZTuBf9d3UmVQiLx2CGM\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra29386",
+      "amount": 309,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-12-13T23:09:10.000Z",
+      "notes": "28XkHsUTReqkATg4E2ywcKS3nd19p5pCrEku29oLk9yvXORHD8mqwaVdKURakhwrPUiyEOriYI8qh08FgabS3UdUcgJSqFs1s0iaQZjMTh3i6Y2VAbkzEeCkqWxBWRptwVQehtnbZCGpFzUSk2nRCUV8ObBOl4oSlpe4kI8Y0TWhNZGrBkiZektOGC7zTwhsPlIfdL02H7O5dDlEnYNSfspNkhj2hVwNSX3alZSwydCluxXd5ThY8aODmf",
+      "_id": "693df2161c508c5d5ec69f26"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

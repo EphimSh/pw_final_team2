@@ -1,0 +1,56 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:09:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1426",
+    "etag": "W/\"592-NUR7Z2AGxj6MrLKNxCjNT8HkLF4\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "693df2011c508c5d5ec69b34",
+        "name": "iPhone 15 Pro 512GB67950",
+        "amount": 984,
+        "price": 3500,
+        "manufacturer": "Apple",
+        "createdOn": "2025-12-13T23:08:49.000Z",
+        "notes": "6RvjnlhCe18qabA2OYjKpqggKk8lADCs1xPuIWUWdNcptgjgWJngthuaRAUoNMeW6heLgmSnthRMv82n7RM8r7KOS9ujaz3gciO9Eivq1WpQLHcHBwavIdnyWZ3gjzLdN4RKzphEnZvri6I3jTidGFhqXMGZa2Mgbypnbr6MMf7YMGmPBorJ06HfDLI4bdT0RRhCIZlL4aGsAG4EG3BkLByFAhKE7ztv6zTdkkJop6KedFPes8fgNW2jBf"
+      },
+      {
+        "_id": "693df2011c508c5d5ec69b52",
+        "name": "iPhone 15 Pro 512GB38178",
+        "amount": 982,
+        "price": 3500,
+        "manufacturer": "Apple",
+        "createdOn": "2025-12-13T23:08:49.000Z",
+        "notes": "b5kfC26IUx39KFe0BYfxv8q95HhE13aHIwRbFVwU228Sw7dmSttyRZZjqI4SJ10Q8ZKZU2ABpWCl5EBpPKJC0tRsXlZfqltAvX5r36NaXTE9v9xShS824hn50jpUJ01WM4IC97erNsMzr3JsVuuemGZjuROSENFsh0pS8OuKHEUo2pf8oWvaWdISoRoKCSrnHpcALlmxxSpUIzbkGblyfNMMq0Qsh8HG3h1QvECETif0gn3dqmT16cBaiU"
+      },
+      {
+        "_id": "693df2001c508c5d5ec69b20",
+        "name": "iPhone 15 Pro 512GB41931",
+        "amount": 408,
+        "price": 3500,
+        "manufacturer": "Apple",
+        "createdOn": "2025-12-13T23:08:48.000Z",
+        "notes": "no91ovUJ98OACsthdWNidunfBZEs3wpmmA1aP8F6d2poCTEFryJYyYCv5IbQC2UBplTIfnmhlCgcHMfouIkpaRZejc48yumVd2ukA0Nj8cAJF0AG9JQfKegiUbik1pIUN3tWhQZhqn4G7G0H37Xtqeo2rl61eAXjRBy84VgL5UI1IkgNYipGYSySMVo7swjqb1577xOsxtO6Xofkw6A0yn4pKu8kRhyrYv93P0XDJv5tYgSDcwWEVVv0pa"
+      }
+    ],
+    "total": 3,
+    "page": 1,
+    "limit": 10,
+    "search": "iPhone",
+    "manufacturer": [],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "desc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

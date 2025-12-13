@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:08:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-+zuxEuQf2EYsu6SQHslTdFx+4lY\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad65788",
+      "amount": 528,
+      "price": 6472,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-13T23:08:20.000Z",
+      "notes": "TNcMekoe8BxheReaGvxFA7loTwUc74OzIPWXbipCrGCqHqeA3HeGDHBgRRfuEE8MLG5kiAk3yeF0voCUenOGZxnkIWE54xGYEaUbqtseLdJjrgseBZ4XTB47qLJSeoy4grWO6KZcuDo8YstQMCLuOSScYjOyOv4IrjSj7pCFgqRUEpp1ZDEYG3uqckVUgducx48PszBjr1ddrhqzikMhHZHNrJy528NeToRMP8A8RYK8BRtBc1jp1uPtCD",
+      "_id": "693df1e41c508c5d5ec69754"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

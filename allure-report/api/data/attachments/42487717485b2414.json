@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:09:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "578",
+    "etag": "W/\"242-gRTWngtncyJ/wX1s0tUbNHIRdqs\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "693df20b1c508c5d5ec69d1d",
+        "name": "Towels54841",
+        "amount": 513,
+        "price": 88242,
+        "manufacturer": "Google",
+        "createdOn": "2025-12-13T23:08:59.000Z",
+        "notes": "4AGLEz3a9lc2iwD8JnmD28SHqF6ttNuT1BCRTsRqeC5mYAVxtHF6NdAZRSuUGPBq1s7jZBMMy2az5nTDygW4eBOdZdXT9YR5TDoTuwWOwRcJG9ftjq3HCSLgocIUi2yZHqlRrn1DaPhBBfX9j5wpefIwjaggtvZLRSUgMTiMPboiVZ62YdeF55BKsqy8z13NL0QKHNRvc3OjhIpbFu1ZgTVKbg7q54EUHvPPrxn8ipcYDCkP6xkXV952k2"
+      }
+    ],
+    "total": 1,
+    "page": 1,
+    "limit": 10,
+    "search": "88242",
+    "manufacturer": [],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "desc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

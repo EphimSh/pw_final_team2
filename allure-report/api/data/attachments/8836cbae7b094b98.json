@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:08:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "324",
+    "etag": "W/\"144-sg8N+QbwvbWk6PDeQYOG0sPuIlw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Alysa.Thompson-Mohr@gmail.com",
+      "name": "ZlwVeIFtBOkyYpChIL",
+      "country": "USA",
+      "city": "ypTbOn",
+      "street": "YYGemhulEjZX6oLbtYnZQ7ePYqN12N",
+      "house": 93,
+      "flat": 9,
+      "phone": "+2507402764",
+      "createdOn": "2025-12-13T23:08:09.000Z",
+      "notes": "nljKFK",
+      "_id": "693df1d91c508c5d5ec69665"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:08:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "196",
+    "etag": "W/\"c4-adwiuU2DVsBcLJ5DuYLGUo3Q3Go\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer27973",
+      "amount": 953,
+      "price": 62397,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-13T23:08:45.000Z",
+      "_id": "693df1fd1c508c5d5ec69a90"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

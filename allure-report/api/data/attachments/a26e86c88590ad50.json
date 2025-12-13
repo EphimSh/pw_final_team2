@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:08:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "384",
+    "etag": "W/\"180-1Gc7LduWbaO7uRLuFZpFwVZjAd4\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Elyssa_Heller@gmail.com",
+      "name": "lqCfbRrGQGGHtMOMZfALOlimCMIKFSfGbAjt",
+      "country": "Ukraine",
+      "city": "wXAbc",
+      "street": "mwrio2leEMGUGktDVzh0OdErcLQe6FYwBerVG",
+      "house": 70,
+      "flat": 6,
+      "phone": "+8178956394",
+      "createdOn": "2025-12-13T23:08:15.000Z",
+      "notes": "opv0cZV4MYVvd6tTV0RAJ6gmFXvpfMoMHVbhFydeRhfR",
+      "_id": "693df1df1c508c5d5ec696f1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

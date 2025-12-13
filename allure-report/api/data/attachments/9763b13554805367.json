@@ -1,0 +1,122 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:09:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4337",
+    "etag": "W/\"10f1-rymCJCUpBICmREj3xgTkzZp4hFM\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "693df2141c508c5d5ec69eea",
+        "name": "Soap1255",
+        "amount": 426,
+        "price": 12244,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-12-13T23:09:08.000Z",
+        "notes": "tqgzBf1IOxmYzRnhWQXoW2qRJZCUwtEW3KcMUsagkVk4RrAuWZEu7mlagoplAsB510T7LFSEouU6mrjkVohb5oCmt2es3fkHs5hAYSz1CweMmp4hp9PSWSLJIcURDhqNa1BDpdymsFBpdlKj0vwiHszX4p0QHtMlbbtgfwd8nNa93r8ToPSiEm33E3O2XXb5l6dDpjNZUQlOnLk4OQX4hj4ACdXoZ5hN33SbBh3zfWh8BFU1KiZcHZaOLQ"
+      },
+      {
+        "_id": "693df20a1c508c5d5ec69cd2",
+        "name": "Samsung Galaxy A55453",
+        "amount": 109,
+        "price": 800,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-12-13T23:08:58.000Z",
+        "notes": "9TcMh8vHIgYt9kwoA1OlFGbf7BV3cqJCdj3C8pfZDD8ifPztjeDxVaPRxWTUwKeYdDQtHyGmQPYa2yQxRGVIHfbRZxAG3bRu3vEzaktPiJ29xoNVQOiI4d5QZZRoEjVytkvNCXVSNqBfnrOMkt6ro859tLDiVCe5FVjhc4f1x9MsjWb5SGXN3vHJ11fLYADQ5YEx8Up6JXinRZPiRMNZhmksBmDTBl9xsWM1oOdojzWOEa29tKx7yJ6h2E"
+      },
+      {
+        "_id": "693df20a1c508c5d5ec69ce4",
+        "name": "Samsung Galaxy A5519629",
+        "amount": 82,
+        "price": 800,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-12-13T23:08:58.000Z",
+        "notes": "QSgOtTOXUJ0104uzJVl6Bfa9Ao4D55msoNqzs2TyLeN5E9obld9WWN7zJ1cpvdzTJJBfgLQvc9fm1DmQTmbIxZepgpgoWg6FtPdk4FK1bdy9XtllWhwnoOTdO96X9tvAx7WF4xcpDflYHvMMEeO29QXIzIJ4Ou4jOPNuYFLNPu6NbyOvkBWfFCComj54JZOU1UMD3RxTDYQHRrxlJQHIFkRYjm8qdkSxxxx7QPCIcPocpgYUuzKZMPlVTP"
+      },
+      {
+        "_id": "693df2091c508c5d5ec69c66",
+        "name": "Shirt59559",
+        "amount": 850,
+        "price": 72771,
+        "manufacturer": "Apple",
+        "createdOn": "2025-12-13T23:08:57.000Z",
+        "notes": "rNVoZMFrGjYmzLZkhCsX65aUM125zLpZMx0TPDvhXkA1isGNcNp48Ik3OMreJOkB1JqEjNYmjyOKRMQqaQAXu7XFrvOuGYwrxE5XaReyaMaf9GdRmdtxriUON02MDcSYz39dmGB1pftDngVh7ZLI2wn2HpIeZ2eLln0AFPTRW6YJzUa1JWZbiemtmUqqGKHkSrty8o2wnVkHeJax82xswEBrRnkFhrL8c1c6bXXxmlYdgwXN2gnb0dpgF6"
+      },
+      {
+        "_id": "693df2091c508c5d5ec69cc1",
+        "name": "Samsung Galaxy A5594928",
+        "amount": 477,
+        "price": 800,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-12-13T23:08:57.000Z",
+        "notes": "5ipQyYoJLtePQYzUkl3TgbNd88G8T2yJOGVUbJeHg3WygA13Eev7XlhAJrj8C4RcQm9zlYEdzVjD95C34SMWvWaa5qgic1pblcQVClWerLeYG2ONIJh5UKhedY1m20O08RHF36mKvEE7zXnl67067nZLYBpPukUEmYjKlv4eOg8dj7AWpQ30JUmGcIPDD1WpCKm68MTCM4IsQSzwWidvzwuK7ZS3eik5LdzomLm7SWxX8hONDIEIXrNHlz"
+      },
+      {
+        "_id": "693df2071c508c5d5ec69c1e",
+        "name": "Samsung Galaxy S2578074",
+        "amount": 109,
+        "price": 3100,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-12-13T23:08:55.000Z",
+        "notes": "ysERuIO33BCWVHHqNxn2vZvAaqQYS9vmXIsHTNwMSlZnQZLtIlilrUo1qYyKmrhY78QvySpb1p0MaxJrtBZNPzxTvuri3EJ8sDKqZ0oKYxEIHa4ZcIvN1L8hMq5IL3CULxglzKpr5I0FmeitWAjJXcwl5I3q0EmokxCuM3xU6SFdoZtiJEC3sAeqVc36hexYwogSBk7QVHGXVyGMXyA19fU9pwy04JbAAm0j0DeQ5eJBkghbBjhq5fGzVx"
+      },
+      {
+        "_id": "693df2071c508c5d5ec69c28",
+        "name": "Samsung Galaxy S2541588",
+        "amount": 286,
+        "price": 3100,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-12-13T23:08:55.000Z",
+        "notes": "obLEyyL1Iw4lHW9CAOLgSXw2h69rGvvTm5GJbQLWw7Y0CY6Abm1Pcbjnp9h8b112KJ5ccMnUvYmyDezLi9wRED12K48UHKqtfkZQcmvXnYXGRXgHDxsmz1BdIXgdRJSz2MInynLCsLu6tm1j557VVpSFx3ghwbZoWgAbi6SqZ48OeWXWemOAmEupXr6M2INx74aqiQSDrR8cTf9cddgP0tuhqWAgy3vrrcQdE1fkqGbPfOdFN5FkzVNjyr"
+      },
+      {
+        "_id": "693df2061c508c5d5ec69c18",
+        "name": "Samsung Galaxy S2566243",
+        "amount": 822,
+        "price": 3100,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-12-13T23:08:54.000Z",
+        "notes": "jw4ljMeuApHohhhmPOAUlSriQ4Fl6VSmA1PzowNwSwX13tErCEueeHNlqCQkVM6LH9VvoDEFGiB8LN2kG4xUARqa7LfgCvBVwu6ooCE3EE7Ih7Ig9V62nKDowHYSkbKufZmQVA10Pi3G3NjgmMmfOo8TK5lsGgapez5yWwXxwpPYfQSEAbqVCUvP16pDTdNm0dFhY2k3MtO0CfXgtTpMYr3fUtZeSaUPBwhPId8g7cm55GsmdhKlIIF9vd"
+      },
+      {
+        "_id": "693df2041c508c5d5ec69bb8",
+        "name": "Apple Watch Series X381",
+        "amount": 617,
+        "price": 900,
+        "manufacturer": "Apple",
+        "createdOn": "2025-12-13T23:08:52.000Z",
+        "notes": "HemvRgDBBtw9e5sGZTPTyLWrwy0cLUolkApL6ZlJ5ZEZuJArGUDyRjyQ4RHUjvDeKPbp6umLhoOwl7jF5bxck3pDyQPY0WBnWPA607UVzBKBLnmBbxttKoskjPrttgiVjae6xIS6b6WyQge8nsTFIU9UH0e9v1fJjpAJLzuy0LOxmAabB6Xs5V9KrgTaIFm5HimaNY17UwrKK5UXfujhZhbHtWaDi0W0ILmVFnCFAHViCYO0AZmHiC6xOl"
+      },
+      {
+        "_id": "693df2041c508c5d5ec69bc7",
+        "name": "Apple Watch Series X70921",
+        "amount": 527,
+        "price": 900,
+        "manufacturer": "Apple",
+        "createdOn": "2025-12-13T23:08:52.000Z",
+        "notes": "CNeWHVYRQ4zjxgBpZ5rxAsnqDoRhHW36C827fnbmtxoemzv4XzYvu5RQhdIHy2xUr0aaCQBvhpFQ56uUxMO88pFYpJlNkZJmS4xuhQ7I0GKZoaXhQwZWBMDfGJOHDHyP51YIRMZl7l3cjWutw0WvPaOGbyo6QWHtzVzvTSYB3XIaVBf2NgwJJ0AMnurggH3v4Kk7xoaQByiaFv3tN69k4i3sHd0tCuXfs5Q1uIrDwgcdFZAjN5fk6ggkh0"
+      }
+    ],
+    "total": 209,
+    "page": 1,
+    "limit": 10,
+    "search": "",
+    "manufacturer": [
+      "Apple",
+      "Samsung"
+    ],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "desc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

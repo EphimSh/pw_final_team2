@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:09:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-qqxW8WQUv/mbvht0CJu+eWRd9I8\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants82157",
+      "amount": 968,
+      "price": 71162,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-12-13T23:09:08.000Z",
+      "notes": "uO46kWIALCwJO5f05taF2rJp7MaG6rrQ7m77fgeCv8hAYZZhKzOjs55jptq3S4BLRfbA0FA10iHE7nbMF3ZnLCAFvqpc4MA347WxxCbesTE4mAEjvV9toOsJ50FcSkmx8g8O2XT2U3KdhSVwneGbjtdWkQvI1Dayu1LhLDM2fT0FhAHEKWSbghM78xCPmDX8CzRmNN9DOKTHpq819FRPBN9h6HZlR3SQq8rbRCHTNnn7U9sRbE2s96Jg0L",
+      "_id": "693df2141c508c5d5ec69ee8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,50 @@
+Data is valid according to the schema.
+Data is valid according to the schema.
+Data is valid according to the schema.
+Data is valid according to the schema.
+{
+  status: 'Draft',
+  customer: {
+    _id: '693df1e41c508c5d5ec69756',
+    email: 'Rashawn.Hermiston@hotmail.com',
+    name: 'KtBHAPMXmHzItyxhjBoIvWbgwGllenZevfNPFFKv',
+    country: 'USA',
+    city: 'uKMTEKfzwyjHJfjzKo',
+    street: 'Ve0btGnborvON',
+    house: 30,
+    flat: 7,
+    phone: '+5395362249',
+    createdOn: '2025-12-13T23:08:20.000Z',
+    notes: 'mjuphKk1p6nRdQPnvUPzDW6pmTrb6I7BuyQLAFDPyfcfOeEyWpGWfjinhbvKei5rsEqsDcWvKyTARGZDq1HMEWD2rnbQEUxHHXt7RdZ06RcyyrqOqsljFciPHWIFn2MumxnSenVIhjtDddxnLiCCOjSnet71BmrmZtniwvkr1jouHyxPE0rAaDYu0XGzR7ACQDGnltozqPrqql8qeHtZ4sORJts3y53Vmoh6'
+  },
+  products: [
+    {
+      _id: '693df1e71c508c5d5ec6977c',
+      name: 'Computer76267',
+      amount: 524,
+      price: 36293,
+      manufacturer: 'Amazon',
+      notes: 'PUQxjPMVNyzc4KlbO9qimAu5gAEvnCcZ8ClyCkyN5LOXrQWXuvT5dJV3eJHBbxQL6LekNq2HYu8eXWS92CWvyvLXcoMK83QiL3m2mZor9gO456GmyZQlEXaEalObVKjKEaqS0ZNQrJTw5TxTccKtE7Co5wv4A9ilxgG9HxHUshvgidg2TfAYxHz2Z85CNeOZS9wwPbL6dzdLzy6W54IhCoc32ff5MFgt65vImHYVpPaUifOwGQYZskQdtR',
+      received: false
+    }
+  ],
+  delivery: null,
+  total_price: 36293,
+  createdOn: '2025-12-13T23:08:24.000Z',
+  comments: [],
+  history: [
+    {
+      status: 'Draft',
+      customer: '693df1e41c508c5d5ec69756',
+      products: [Array],
+      total_price: 36293,
+      delivery: null,
+      changedOn: '2025-12-13T23:08:24.000Z',
+      action: 'Order created',
+      performer: [Object],
+      assignedManager: null
+    }
+  ],
+  assignedManager: null,
+  _id: '693df1e81c508c5d5ec6978f'
+}

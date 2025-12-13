@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:09:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-9cR8ZzHqq6eWvm2a5S4/cf0hZH8\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese37683",
+      "amount": 812,
+      "price": 15125,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-13T23:09:25.000Z",
+      "notes": "cnTDC94IrB6lrLcz2whWzFjnSCAmyPHnhm4yd5THyhqsMmvAyOXS19gZAZYn2Oslj5xZHzhaX937Wlb1okWhuStz1pFsyHF52yCmDDdwVfFXNimtlGdHsGu9h1DTUPFSZYjEiR3DbV1U8UQrN7JfOuTy1N3RpwjoQdbFBw5E0zYKXB3G1OzO6vC9dZa0tzAz4ZpPp1jIFh3i0Ubg4YPOQDjmQg0PiE4D6Zru3yH6QtYq9cibzQGK2dxhev",
+      "_id": "693df2251c508c5d5ec6a38c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

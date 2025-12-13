@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:08:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-AgCJbyg+07DjxiCylKLjhxu/h4Q\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "693df1dd1c508c5d5ec696dc",
+      "email": "Jennyfer12@hotmail.com",
+      "name": "eWgmducuPBu",
+      "country": "France",
+      "city": "fcmuEATYKfsOFew",
+      "street": "5gzbAaRo9BoWcGVT9o5fll",
+      "house": 122,
+      "flat": 7,
+      "phone": "+4050711327",
+      "createdOn": "2025-12-13T23:08:13.000Z",
+      "notes": "xRD9soZIIh69rgzpgoRRprz5s9VCu7hHt1OKU0FKs1HDxolvEcvVNiejsmDgfL0gNMx02SL9rQaAnfXVs958iWiboMfIUxghtpy5isNZYWg8bCz6opWPGEbia7GWUDbA8Wfo71iNEEyQz"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

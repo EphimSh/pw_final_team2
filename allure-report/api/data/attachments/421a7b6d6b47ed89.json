@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:08:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "484",
+    "etag": "W/\"1e4-ufzhjLTElgeO1R9hUpAVdEQOArE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Christ.Pfeffer@gmail.com",
+      "name": "ILGLjMnZlDcrPd",
+      "country": "Germany",
+      "city": "tlfhyWaGpFTDWXXkUV",
+      "street": "Gl44DumGMNJldcgmknohG4uESQOb",
+      "house": 126,
+      "flat": 9,
+      "phone": "+0649743113",
+      "createdOn": "2025-12-13T23:08:07.000Z",
+      "notes": "0VwIJvdqi7BsTX3IU46Jxt0y7CypTuLalnLC3rXiERatVsaYgygNsUtYZmqWAq2VggEgrearoVtZ4yrn3cHj9ZBoWW2EPpgEu7lkgtL7dXGHpxl2P2v5I8vIGdMoSjPSSkQIV5pRZREvGZWwePIyzx7aSIzLZWw8",
+      "_id": "693df1d71c508c5d5ec69651"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

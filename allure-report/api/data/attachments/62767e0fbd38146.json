@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:08:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "378",
+    "etag": "W/\"17a-ik1MajXtSgilFkKwUa8zn1vbi0M\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "693df1dd1c508c5d5ec696d4",
+      "email": "Martine47@hotmail.com",
+      "name": "Ft",
+      "country": "Germany",
+      "city": "SK",
+      "street": "Ii2XGGxCKSf04ViJHUz",
+      "house": 113,
+      "flat": 9,
+      "phone": "+8128155652",
+      "createdOn": "2025-12-13T23:08:13.000Z",
+      "notes": "pLpPtlFUwnRCEh97cONFurGJ448yUbKQ7k9xUYM0w6sdHNPrLhlN2r8ikArwA6f1eN8IoYO49cqDYSMgw42B1ZkdKbwUFJ"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

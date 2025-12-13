@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:08:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-ZBw2muCosFWvwMr+twrxnrTkvBA\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table43743",
+      "amount": 415,
+      "price": 1,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-13T23:08:28.000Z",
+      "notes": "TKNCtpq10iYFob7ys5Zau7moFz58tDIfVKX0f6hcay313OAaX3yjf34VIC5so3wxBRjt6O9RASEGNnch15gekPQB2zMJYkFA0c58ypCZOp2C2s85HiztVyL4BjkPqlQjWGV4oiu7OPWjHTpF5vNac4SAzw5V7li5MvOKVfax6LEvgAmMRw2nbl18lOn0KFtG6pzxlI5BDaXrRbdn3P8Kc4oxYc0U3OcbiXfB9ryw04gikq6b6mwqqO3Cvx",
+      "_id": "693df1ec1c508c5d5ec6985e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

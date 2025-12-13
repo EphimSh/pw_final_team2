@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:09:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-Go/AzTRdBJFX7DSdyqU6Zq3+Tbo\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "693df2201c508c5d5ec6a227",
+      "name": "Mouse83919",
+      "amount": 556,
+      "price": 10000,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-13T23:09:20.000Z",
+      "notes": "36Tw3aS4eatCNIdoGW4llVKVZavM4eS69th5etc7rjs1m2yxgO7MBcBz9DuC2Ee8ZcACHnHDyvjT9tTng7B5dqRuarKUidVGOjvKXRo6BvKZsNEMKy9VuInxBh9jjJEHn4lCU7m5Az8MRtmQvDFqbb6trRFJW8FRLYCZkD1VjfxrXnDVtQt9jbs3cyv2KGA9w94BEwS4I79TxjAWNdIahbbJkg4FNbMFOa20PzThZU990u5hQHx2Efht4D"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
