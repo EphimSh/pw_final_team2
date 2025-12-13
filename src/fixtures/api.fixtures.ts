@@ -7,6 +7,7 @@ import { CustomersApi } from "api/api/customers.api";
 import { CustomersApiService } from "api/service/customers.service";
 import { NotificationApi } from "api/api/notifications.api";
 import { NotificationsApiService } from "api/service/notification.service";
+import { PlaywrightApiClient } from "api/apiClients/PWApiClient";
 
 export interface IApi {
   // api
@@ -43,7 +44,7 @@ const test = base.extend<IApi>({
   },
 
   notificationApi: async ({ request }, use) => {
-    const apiClient = new RequestApi(request);
+    const apiClient = new PlaywrightApiClient(request);
     const api = new NotificationApi(apiClient);
     await use(api);
   },
