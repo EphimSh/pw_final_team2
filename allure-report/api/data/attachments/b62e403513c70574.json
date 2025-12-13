@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:07:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "467",
+    "etag": "W/\"1d3-694lcrL/KfPwB776NTAHKld42Ks\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy S2586410",
+      "amount": 502,
+      "price": 3100,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-13T16:07:48.000Z",
+      "notes": "QHX8jdWUbxqn73SwHPrA320X5uQavoqxb5sklg3TGNLQqRv2xCxZ7RSpWw2m3ghgZ8s0zikNC3bq0iDbL6zednJggiRFfbLzz1Fj0vf8pZseQkslnhfIRnJg1OkeShvn7ZvsvIwh25MTGkk6FeX0didVGiCKHKu6br8wRNmTJZ8PFNeLCXItw1dNKZMhxUF7pYEs7AJwOWPWd2mvTpXQOYRdkvHemmWWlBvuP5vbiafwTv86VpHVDPvzob",
+      "_id": "693d8f541c508c5d5ec39e35"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

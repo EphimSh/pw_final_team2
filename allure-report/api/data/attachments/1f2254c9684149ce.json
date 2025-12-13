@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:05:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "443",
+    "etag": "W/\"1bb-tD12gOY+OMtPKpeliyZBmKZ/sr4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Haskell36@yahoo.com",
+      "name": "GvYQwpUopLTpoEYqNaCIUZeQHQZokpW",
+      "country": "Ukraine",
+      "city": "iiSSepmbCoeMJTUBxbcT",
+      "street": "68pQ6vhON3VhgT1SwewEOcquLdK3NjjXz",
+      "house": 71,
+      "flat": 7,
+      "phone": "+4216175788",
+      "createdOn": "2025-12-13T16:05:06.000Z",
+      "notes": "BnnKDXWkcnAlRZFHLaCz6Vsr2Wi4uglfuquEUj9bJtA5rPDXEV0vzZYgYpfuiFqkgPBSWM9FHQ4cHKFGY0GCX77UrzO5gvuKClRPU",
+      "_id": "693d8eb21c508c5d5ec385ea"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

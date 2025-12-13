@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:07:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "472",
+    "etag": "W/\"1d8-4O8fZgb0l6ycMkLS7iufatsUS50\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Microsoft Surface Duo 36003",
+      "amount": 99,
+      "price": 2200,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-12-13T16:07:15.000Z",
+      "notes": "NkBkrhHMW2agVuXE87fVMHwRz39BpMCuNqanYARk6JD4jPjJ3tKv0NQ0YlXsegGADAyeC2935VZ0kTpohwu8tCQwdVesKVdsL05ZTM2B3gYaRIH1qdkr4UCgeCVvkJuyJcDJ5aQAxOYRBmwf1h8HLbyjVPlnTbfOJXJHx0DPPgqO9kon21JrQeEK5wFSRJUAL5gGXoh23rkd5EfHDzZbmDVu5elgvOIST4ZcTniqxnEOINRBJWmccKmQxw",
+      "_id": "693d8f331c508c5d5ec39794"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

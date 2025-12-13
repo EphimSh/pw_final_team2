@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:07:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-6RldWVIVurZrFnHXWjoT1nV+gVg\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon60598",
+      "amount": 35,
+      "price": 71745,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-13T16:07:28.000Z",
+      "notes": "FasqmS0wb4ihVFRUgjpjliZqf1MKXlKoxVcEFi5eHoB1mimnEhODW9U4UTUbvktYk7eNNb9IjYRwvWKY9CxC78Mlyczi554WF5jYOe9Erx5acyVrfivpBrnoB6lrT8vcL14j7flSrGzA2bOy8engnOceVNENv8XWRlD4Pp96pHXrgD2xGGMRJ2tY9p8Jq1qg0hrAdRc5zqUulk4rCXcNeZhwp9s4Z9tKs6c1QMALn5mFDk1QPLbsuTCsko",
+      "_id": "693d8f401c508c5d5ec39be2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

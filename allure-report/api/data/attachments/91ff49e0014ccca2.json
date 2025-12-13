@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:05:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "426",
+    "etag": "W/\"1aa-UihUrE+oOyMMpmpkGR3MUhp4oH0\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kylie73@gmail.com",
+      "name": "qGwYGWgpgnBnbVOL",
+      "country": "USA",
+      "city": "lNGW",
+      "street": "GOfnI1d1P4l0C0z9m8s9",
+      "house": 9,
+      "flat": 6,
+      "phone": "+4496659194",
+      "createdOn": "2025-12-13T16:05:13.000Z",
+      "notes": "v8hEJWM3nZ5y9an0vRnxujOVGU6ZIvrjh4SYoNlSxyKpwqDScTOHUZsrgDA417RaKK62Bp1XfzxAqqkBZNyvw7N3LwiLAOFtfwiFm87yjDsDgvdsxUec7j16Zl3csfUBw8eWb8B",
+      "_id": "693d8eb91c508c5d5ec38636"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

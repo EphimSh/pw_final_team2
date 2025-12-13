@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:05:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "383",
+    "etag": "W/\"17f-TcncReuEK32cLGhLWFbUzV08Hqg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Monserrat_Pouros46@hotmail.com",
+      "name": "lfzXBAAoHufrXePMZ",
+      "country": "Russia",
+      "city": "dfLvOmPZpBfDdVOrABmD",
+      "street": "e5QNtOanwiL5w2tDd5PsLr",
+      "house": 123,
+      "flat": 7,
+      "phone": "+3573020964",
+      "createdOn": "2025-12-13T16:05:00.000Z",
+      "notes": "uEOgYpTNt3A814H9pQxlaaVcn6snLChddKtCucMVgaaNyUk6tZsmfLi",
+      "_id": "693d8eac1c508c5d5ec385b2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

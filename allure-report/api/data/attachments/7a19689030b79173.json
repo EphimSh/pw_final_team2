@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:06:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-mjDIyVcO12ORZMXrVgCAJctJSIQ\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy A5546099",
+      "amount": 214,
+      "price": 800,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-13T16:06:48.000Z",
+      "notes": "lKRUTvGRvhwlronfxA1bi47mp2K8XycfzkP9WcbyFAIUUZS9y1eMKxDsVuqI08d6QxOlxjoQMFtmuX4qEv5hWXpewhVrGTuYt5viG3n0yAydP0vgX15ko7tjEujM1hADY5IkvhUwfq7Xu8fYnlqtx2WT4DAczwrAn8ruJvjyxBKykPklYf9CpG51lYJmqzpOuoDrujCPWL9XfHLeUMmFL9znn9um3KF19alfu9ZTwMJDI9f7FOTcHF4QAg",
+      "_id": "693d8f181c508c5d5ec3906c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

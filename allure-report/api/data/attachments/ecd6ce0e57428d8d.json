@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:05:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "459",
+    "etag": "W/\"1cb-fdyGHJb1oBCedX5u/Ba2uonP8wE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Taya_Turner@hotmail.com",
+      "name": "VH",
+      "country": "USA",
+      "city": "Ecn",
+      "street": "TsxDpw7RRYTPGVJGKDwdLMsX9O4s",
+      "house": 141,
+      "flat": 7,
+      "phone": "+0678506086",
+      "createdOn": "2025-12-13T16:05:00.000Z",
+      "notes": "juxQr3xyzeoNnEItowgDbIrLDOKLYDDFJcQ5sSJRZh01UCK70bJ7rHX9pcskNDo5f7Dxy9LbxJqBrOhmDOabbIrNCs8AMZNt3ws9L7WQRHXgMf6OGOYA4RQQBAie98yX7SHP3ZXfythCGwIe8IzxM3XIqs9EdtQIzlRLLDQ",
+      "_id": "693d8eac1c508c5d5ec385d8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

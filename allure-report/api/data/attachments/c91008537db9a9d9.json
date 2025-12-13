@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:08:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-9Dn1dwWTnLQ83s/JKTV8VNB0JyU\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips6333",
+      "amount": 963,
+      "price": 52965,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-12-13T16:08:15.000Z",
+      "notes": "21ekRnOipme8FOx929MVA8xCYtbzHz3IJmZ2ml1gOEX0Y5YdMfvhLjsUJANrjaP6WKildeWH3lVU8tyV9Wt1yaSOaaPNwIeCn5F7j3rQ8bNBnWMxFedMykmf18CxJJbAq5i09u6bZ1fq0bKAwYFgG8YZgNn2NdJ0Akh0xdLUPWymCltjDps4AAwqZBcSVvOXP4g2vGgi3iWlw2oAvCSCXflGwGVHtengornFgRX2cjQq6lg6YcDBjKHyO8",
+      "_id": "693d8f6f1c508c5d5ec3a552"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

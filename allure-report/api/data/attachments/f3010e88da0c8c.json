@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:06:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-LrZ9UvT7bg7JWSUoaTdlfBGWHBg\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy S2597042",
+      "amount": 34,
+      "price": 3100,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-13T16:06:48.000Z",
+      "notes": "v5sdOGn0TrmLCviz0h8OQCGjbvo72pykSJw5teO2TgpsAZWYYLXg6Y7i7Thx9jY8b35MOSkkEGRqahBIiw1jxZdP47VCD7AiHD9qcEtR7Usxzj4loiJf1hrdDp1bKpHXV6JxCL5gcpmkqAPj8tcvL2GKNTRewD975cxo1021fJ4yFhoLUVDc9x9WJcPCgtRoXNEwJg77TebVIKxRXfwEchSClshIMgRbTUsKsCnvKt4U8XNsWXtc5qBKHU",
+      "_id": "693d8f181c508c5d5ec39067"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

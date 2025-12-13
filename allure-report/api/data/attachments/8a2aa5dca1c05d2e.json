@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:07:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "474",
+    "etag": "W/\"1da-BjjbVH/YkZvzMb6006hp0WQbXuM\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Microsoft Surface Duo 352035",
+      "amount": 386,
+      "price": 2200,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-12-13T16:07:11.000Z",
+      "notes": "vlhOgZx2KYzJ3t6ZZJZBTFgTmTf48ehVdZw15ymd0q3IueLdXiPy59HLFfcw3wyAcruaDxmhYQDtZMb8msuc9wQYJIxcfbawxWHLgZGneZfHVj3HaMFym09LRLMSyo6xxEWpGR8aDE9doamyd2YPgBGNrVgQSxVViDEXM1G9DkoFRoSrdGZtbR1yhQgzNyNfxs6VgNYf4qxkgLULOZncNtYPvLPUDBhyNKWKuSkjIlHc0tuC8Rh2xixqdr",
+      "_id": "693d8f2f1c508c5d5ec39682"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

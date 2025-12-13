@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:08:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-Hl4Isck4RuPZdJh9pvEYQIrJKs0\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro19420",
+      "amount": 470,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-13T16:08:01.000Z",
+      "notes": "skIBfOXBl32MJOdpLDWEyekUIsaK5C5IbERkGsJovI6bSX3Jv0ZU93CfQx7Dfb095lNL5umCprmswSvYxrpcaRzr2beDgeyBDCcgdTuWnsCLUivLfgcNp0fPqJ9INR7uJTUXdCRv4LfCuJeah5FJ2Obi1P7xQq8MJOShM9H0gL73dYwcKyQPtLk0Mu2mYuhfevLKsjDNUCOFBCxRhh0P8tM73vuD7RSyO1B3u84wChATz5n2PfgFk1vQLd",
+      "_id": "693d8f611c508c5d5ec39ff9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

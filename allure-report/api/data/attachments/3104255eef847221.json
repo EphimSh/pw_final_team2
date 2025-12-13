@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:05:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "389",
+    "etag": "W/\"185-AmbcYkJwUorUInTlrb3TSXdZ4gQ\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Orval_Jacobson48@hotmail.com",
+      "name": "XJAGuzFYZPbidfg",
+      "country": "USA",
+      "city": "QfAkmr",
+      "street": "OCE52",
+      "house": 92,
+      "flat": 4,
+      "phone": "+7625698013",
+      "createdOn": "2025-12-13T16:05:20.000Z",
+      "notes": "wsUAxTMbdUJKNizf3iehI0NOQf3mwLozR6iL2BeFsmfjEv9E1d4SqdFAzf5gSqPjFg4cS3vcLJky0GPOxddnJtyfdOehWRaC97Ep",
+      "_id": "693d8ec01c508c5d5ec3866f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

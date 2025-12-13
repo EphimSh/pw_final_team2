@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:07:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-kFtmhl4BA9yFx4uGeaN3bFz5W90\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro31274",
+      "amount": 917,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-13T16:07:00.000Z",
+      "notes": "2C4za6iY1C7nTdsI9OLNmw63ipaQS1HNEkgNWkSrGD46c0G1gxUJHyLbDrdqekOp5XrvskK4fyMAvfgqS7JciG8HW2gxYAOtZpHjs4FnpUneVkqgmIMbcA2j4JuhRzLaA1aeSpz6zQxnJoBqhwedoPstKjnQYXwg9SvUfvo4K4rZiEA3nHSbdVY98ENmX5hRmeIofzr6yX9HNLw1Uc3J7zOrmNXd3pDwawVqqDNCixNWeQpKE9X9JNV5iZ",
+      "_id": "693d8f241c508c5d5ec39233"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

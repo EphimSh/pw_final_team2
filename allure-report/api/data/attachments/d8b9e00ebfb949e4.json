@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:05:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "497",
+    "etag": "W/\"1f1-oz8ZE+o1oGR5QASk+wCr7voxUdg\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "693d8eba1c508c5d5ec38650",
+      "email": "Leonora_Bernhard62@gmail.com",
+      "name": "tZOznDaRo",
+      "country": "Canada",
+      "city": "HtMWnwA",
+      "street": "ZIAjBCs7ksBcuJBEey23Zt5TDaAnG0Tdu2c8VHm",
+      "house": 132,
+      "flat": 4,
+      "phone": "+6114723285",
+      "createdOn": "2025-12-13T16:05:14.000Z",
+      "notes": "4hHrGAfdi8ug9dYHqFxyWNf612qo9CUKD6V2658C6AfmJFJSuDzJVgFl6NwkArHmNJaJ5rZwnvI9MIPRDpbhQMa5zYGpJJWnbcqdmiwXWizTR8zg7DHot3eZcsinMMYMWShEP1BQr5NoZIEzaVvERqSBNkVDulxvVqYNfBZaKCyhcpH"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

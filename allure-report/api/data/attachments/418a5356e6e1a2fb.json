@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 16:06:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "575",
+    "etag": "W/\"23f-HDmDiqjjnyaFgLHezhbrcfUz+fY\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "693d8f201c508c5d5ec39098",
+        "name": "Bike63251",
+        "amount": 405,
+        "price": 79115,
+        "manufacturer": "Apple",
+        "createdOn": "2025-12-13T16:06:56.000Z",
+        "notes": "BVxAi8GPeMOR0gNoW4hkhH2lAm8AoRhOHwjjrxs4ChRXhd0O2KopV4YTdlahYbrAO0AfChw3QXL6qNTATKi9qMSJYNWU7uiQWX2ARlTG37bSyFm1MfYqJT6gmIKj0GgHaLNZsjAaCAoWd8Nuiqn5Sm5PDploAKhtjThQBf8hkO6uFboDF9uDk5IypTjRdWggwg43iLFMrnVBWhu4lhzoWPfinVxDka5CjbM7bxpBA35PLqOb2rSAAiFqYs"
+      }
+    ],
+    "total": 1,
+    "page": 1,
+    "limit": 10,
+    "search": "79115",
+    "manufacturer": [],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "desc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
