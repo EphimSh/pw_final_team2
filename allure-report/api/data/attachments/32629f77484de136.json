@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:09:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-PRnI8Tp8R90uuUzHvDb9ox1FAvc\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball14860",
+      "amount": 0,
+      "price": 96175,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-12-13T23:09:04.000Z",
+      "notes": "exiYR1YM1HzZ5TsYis28C8WrAXMJ9RMgRtNtabhwB35mOV5XaYys3tC7vfNdaePdwOTQOthWwrSIXUtqZP6CX6LSy4A7su6FECBH1MlWGj8vY7uc0Y0k8pLlnIQR6hU4Vb1FHOsEEO7ixqUbcRlZ0al3mOFJYcfIgPRf1HZD1cgWSzys2NewH6t6KrGKexJYCdOs3jTq6gb2MifBMoXAmeHVIRlex4yVntTmhRjWZhydAhkxd87n7mAxjK",
+      "_id": "693df2101c508c5d5ec69e19"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

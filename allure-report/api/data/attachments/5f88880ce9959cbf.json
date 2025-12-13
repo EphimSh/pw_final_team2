@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:09:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-fvqU3Ny61n+oDRVi+s4cGb+5t6A\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese63632",
+      "amount": 299,
+      "price": 6671,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-13T23:09:36.000Z",
+      "notes": "PW31oriGU6VI8iD0KIyHdP0aJSsMwQGs4aEurSKsgZWNMPXjrshMJ4TvpenI1dETBo5dB17DSAwPBbCaPAtiSymsx12dhf2hHZt1rG48rAs5J4aT2NWxLGsm1EMS1bCmzZkrSTw8WD9iWOBiaxmjZNDAdO5IYZ0q3OUMZwvo8mDltNWNZqMywaH3iMdsjXNyVxVVYA0ukT72zbtxW0Ce7pPj5UL93CKHhwCnwOJYMwmG3tA4QabrhJ1Dzf",
+      "_id": "693df2301c508c5d5ec6a48d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

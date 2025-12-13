@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:08:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "555",
+    "etag": "W/\"22b-OMFM/MX8opJWz95sLGxbVMKudtg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Arlie.Prosacco@yahoo.com",
+      "name": "QzVHNCjZiUmTwpzMRLAjCnKOEtTHPyQNZpSkX",
+      "country": "Great Britain",
+      "city": "AkRHeuAWVGHfSwXnWRu",
+      "street": "EP5hJ8BBP5kNzY0qGU",
+      "house": 61,
+      "flat": 6,
+      "phone": "+6402070686",
+      "createdOn": "2025-12-13T23:08:39.000Z",
+      "notes": "MWdetQ3jTB8tg0PAJGRworoSYkd0DPEwjjsZHL8Dtlh1QxHlWx26DRcSqoK2XSthbPUBDVja7EXFrZ96EgfLgTUVICea6DjgOgCfMPPGm2kdEjjtU5231pe4n5PEDa4KiuU48bggjsJxpIfsqlM9cGcD2SZrGXpM9g0c1NeTBkSiXnf8lxIozeB8SZ9cMNDWBWzxncefV66y28aZhbMC",
+      "_id": "693df1f71c508c5d5ec699a7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

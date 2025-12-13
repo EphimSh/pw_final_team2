@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:09:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-S2Rd1A/1h0UvAHMmlnarLoKeDp4\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza4883",
+      "amount": 179,
+      "price": 83932,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-12-13T23:09:47.000Z",
+      "notes": "HdbdJGj9SBtwaJVI21V0Xvyd90UuN7PnfRejIxZ120TnK2QeX3ZEUUzrEGKA1WClKKnywYqLvi3ZXbnsMwQTfdj4BVG78UTKCSFILcGlc0TaAy7re0L3WjtAHnTlFnFEubmpZrJbc6PFMNfID03qhr1wYpx88orE5gePuTcPCx3K1Wja0CrjKLd6O32JhwYHxsmvpJQdCJ79APtia6gGfBnHQxkmpRgn6tIjNE11EjGZOj0Vc2h4ktr85S",
+      "_id": "693df23b1c508c5d5ec6a5c9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

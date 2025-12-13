@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:09:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-IFeE5mEFLZLtPOs48SdC+m6kQTs\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra85950",
+      "amount": 969,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-13T23:09:37.000Z",
+      "notes": "lQvmyHlP80jvaRDcUos97Q6v1cPHGqbRzq41gyV0B3sASLKyMiQDjzwJUeq1Ab2Mnp5YtQlRyHDv8ndFWG5r56b7KyD8A8WfQ59guywzr1scm45pjVlvu9GXQduLx0UTy0UtT8sYoSRLdvAxby9vfl47Lqww9RILiKUkfVYiUtU4tccIjcXpg76bSN6RVz2veCeXJVbfaJ5BqeeHbYq3DMCtZqLbMdoBUDX95vOksn2JmDeJosJ6XOieo2",
+      "_id": "693df2311c508c5d5ec6a49b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

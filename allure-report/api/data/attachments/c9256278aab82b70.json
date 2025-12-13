@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:08:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "414",
+    "etag": "W/\"19e-TgIJJyQfyFkPjmllHedXoeMP0Ag\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Robbie_Crist@yahoo.com",
+      "name": "pEZauJEndR",
+      "country": "Canada",
+      "city": "CQGzZLXwxGYYjYxMrOf",
+      "street": "N8ci8",
+      "house": 117,
+      "flat": 2,
+      "phone": "+6655484041",
+      "createdOn": "2025-12-13T23:08:46.000Z",
+      "notes": "LlelmYIEgXWxF1AUQxn7E4d4SQE9shPdwNLHLT2GB7BZa6gkOWLe9nSTevIbfeNDMEizlPfk2wPUyvZ6iFvs2NftoW2iZKSEym96cge3dcl1DB4z8h1yTWo",
+      "_id": "693df1fe1c508c5d5ec69af0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

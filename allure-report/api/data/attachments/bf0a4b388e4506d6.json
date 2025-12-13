@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:09:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "206",
+    "etag": "W/\"ce-UyUIyP+N2ewLnnpW+mVTpGVEG3M\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken61731",
+      "amount": 49,
+      "price": 46826,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-13T23:09:06.000Z",
+      "notes": "",
+      "_id": "693df2121c508c5d5ec69eb4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

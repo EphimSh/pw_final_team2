@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:09:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-P47M9d3LQ8XA3aVV+u6IWTlu0u4\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy A5531818",
+      "amount": 588,
+      "price": 800,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-13T23:09:30.000Z",
+      "notes": "VEsYU2Wsfch1VrNjGFgz694y1GiHWmEMwjAEipyd1bK4GuX5wCIQv1MoIloZhw9wsJnhhkpNoFs5NT0R4geBo7IQjfe6b37tq3q8Q6LlwtJtCR7olDj1re4zBd5bpAplGUORGuXfIyO9b2gi1ZhE8rDZ1hWDFui8KsMXJHmqGpYaeHFvxL9h02wX9nzxi2CNFvaKyst03lCOYJoAW8MouEWg2dfz6ZSQ6ft3uTFdlWMWrMEE5HBQhSLAHY",
+      "_id": "693df22a1c508c5d5ec6a3fa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

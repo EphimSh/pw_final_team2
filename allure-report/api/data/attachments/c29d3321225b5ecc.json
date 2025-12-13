@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:09:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-W764RsjGQ8KT8tQVYSSad78uy4Y\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball2554",
+      "amount": 182,
+      "price": 67200,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-12-13T23:09:52.000Z",
+      "notes": "fU0AH1ucqYHsLjjTrCfjlXnXOAwB3EQNkdAzPHsRQYfURKKgXUmEbV9hNTReDlObBuRHEW1b2EBTScPgGqxhwuGdg8bIaULpxs2O8ZQTbdgjhb7vXswZ0AYUcyIpSYI6tQXlprzn3xvIdO6eOcGUPR7YesmtWFPqWEoRaXK1TV7thIk6QOhNiiTYquXfdZiTXrZ8h7MtsES2gfPMA9o5PfEkPCYldMf2ZP2xuWUI97FVTYoFiBiYA8VGL1",
+      "_id": "693df2401c508c5d5ec6a72f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

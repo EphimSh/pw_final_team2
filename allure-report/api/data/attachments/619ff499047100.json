@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:09:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-Vgnel4fEe2dfmDWIGiHNteO9qlI\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "693df23f1c508c5d5ec6a6ce",
+      "name": "Bike82231",
+      "amount": 191,
+      "price": 5408,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-13T23:09:51.000Z",
+      "notes": "kJhsqIqaQnJN5GQIXHisDEj2kIdoKcErqzNkkbnSOhTrD6vYWGbX7IwRNJbqkk4hvO4wpsBvCt3IhKiri0PfOgJyKjEjEvU86wjdXT0duN4cn2T0xDRlpJBtLL5JrjBTb0YzG6v4tO935uxdUJBPxv2X4Cohxon6LE3sEABXOjMrKlvDdC7FQqC8v6V1LLIO01XPaQqsfpjsEDb9vvGFQH0o40GHd0CMnffmBX7wOBvzL0peIo5ran2hsX"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:08:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "338",
+    "etag": "W/\"152-S2Ki5v6r7J42jalEdaJoVc8Q6jc\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Furman10@yahoo.com",
+      "name": "FsiHisblurgEle",
+      "country": "USA",
+      "city": "XmCerKCsVAGFBFBv",
+      "street": "iX0foBukbNVLGE4vqR3cC9W0Gs5Kili20zGqf",
+      "house": 190,
+      "flat": 3,
+      "phone": "+9786739222",
+      "createdOn": "2025-12-13T23:08:42.000Z",
+      "notes": "4CnhO1CirmuQ45KGa",
+      "_id": "693df1fa1c508c5d5ec69a0e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

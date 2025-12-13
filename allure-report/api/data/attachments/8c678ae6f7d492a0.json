@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:09:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-fx0VBdUZGpOH60J+xa0diIxiJMg\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro43270",
+      "amount": 753,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-13T23:09:33.000Z",
+      "notes": "r2O5knaJ1wiwQqAr5mCrMrFnQWzK5gB1pkVdMRMtshT21MHbdU3pjy6BaulL3bGdgTMeiU0YuCd9RdLqLmTgPMYKRo6ue83Qx0TGhqSPqWpOdjmRr7qYzQouNYZMou1pAbU4GKmHd4V1v8kvNr7U6JKzxaNgbAS71sfWF3CE8eSMItoXQ3TtCN6A4BOAmKztKVzHRZKxvtpYLHncpgcq68RVgLJY86v9YXqQ0kJI2kHKinEWam3O4kXKKA",
+      "_id": "693df22d1c508c5d5ec6a463"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

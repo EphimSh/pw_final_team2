@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:08:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "366",
+    "etag": "W/\"16e-uxllMManbxrogqdx9Q3cp0ALHQ4\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Marlene91@gmail.com",
+      "name": "FTAorINHtVZvDMxDuZuPvQKuUlpySGWBYd",
+      "country": "Ukraine",
+      "city": "BMl",
+      "street": "jombdzjn3yiga9Rm3HgxCsFP",
+      "house": 99,
+      "flat": 7,
+      "phone": "+9606896573",
+      "createdOn": "2025-12-13T23:08:48.000Z",
+      "notes": "sTUrzVwOm5CFEJ05p0MoNsklYxREWKlWjQL7Y35km5wtMMp",
+      "_id": "693df2001c508c5d5ec69b1d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

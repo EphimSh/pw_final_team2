@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:09:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-JKAzfCMC2APy0bgQl1nQe4uLPLs\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips38206",
+      "amount": 366,
+      "price": 66051,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-13T23:09:43.000Z",
+      "notes": "pI9kn4KT6p8ciKH1GEO4CzsMWs4pHdbeoTHSMfL7ixhORhNevj6k8ZxpMb9bGbbh597vITDKn9X79OM6DOcyrUBuXIi6QNFe8eMY9u8nDFpEa23DXuLEDxrOuU5Db8QwQRZk3H4b6qp387fThmjPPb23bE17QUlJ3qvCtY46STHeDwAiCqX7lwRfyju56WQnAuiQhucGdH7wRbWz5exLf9dmRV5tkWpM8WdV4in1EwH7MyGWQjJIDVUqcA",
+      "_id": "693df2371c508c5d5ec6a4cc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

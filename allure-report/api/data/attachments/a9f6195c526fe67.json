@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:08:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "369",
+    "etag": "W/\"171-S2GrInxBn8wjczlra2faUN+821o\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jensen54@yahoo.com",
+      "name": "AvuQWrHZrjtsOeayosHWV",
+      "country": "USA",
+      "city": "pjVOzjpNWnLsxigXY",
+      "street": "A4P2qWbVr838uGaPqh40N9meOV8FHb",
+      "house": 85,
+      "flat": 4,
+      "phone": "+3619654279",
+      "createdOn": "2025-12-13T23:08:54.000Z",
+      "notes": "uuMRzTBHJMbgZTPP7UloijlQYqxtoRo0aKp9h1K4YmtgdDtk",
+      "_id": "693df2061c508c5d5ec69c09"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

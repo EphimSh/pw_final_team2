@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:09:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "467",
+    "etag": "W/\"1d3-6xcvOgMFTw7zjZ1d+OYT1wZtp0g\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy S2578196",
+      "amount": 906,
+      "price": 3100,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-13T23:09:28.000Z",
+      "notes": "QogzfLLPxNcl9j2qxLn2ctu7TLWy2ECB2jj0Kf59rRs1qFGZaHPP1mrsXDDPXDqIZTyyNQk5Hip8voSN513nwvMP5ED7kWqqSERzax91POai8nEgSRiJk3euiSV3DA4GhS5JuOWf2ipm4qgpFnYPkqeuMP6147cLVEKtz5eqayxAefqxmfJlCQmYxLNLldRDBS76KmnC7bCtKOQMFstOtIAbAfJWhQd5hcNYVxc1LNjDKqVITzz8Wo4kHS",
+      "_id": "693df2281c508c5d5ec6a3ca"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

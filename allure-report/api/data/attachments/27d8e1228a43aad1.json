@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 23:09:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-hz55GaKzDvJjQm0oCMuPIVXF+OI\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car64520",
+      "amount": 81,
+      "price": 99999,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-12-13T23:09:02.000Z",
+      "notes": "CUIpnHy9ZNfb28t2CykkEC9nwX5LkstJbIwuY1G8DQy4opTCU7b9IGsXN5og3HAVVvBU2J01MkEDfyLAs7k35YTlyaL8A0R5kExmDoaKp73nSx4MoCx7Ftl9iuti8Myx1in3POXSROByosEWDukLyROHUJD8lblotWWKOdUPR1ibbGAg8F6iY3GfimeN0OopuPcyWAWzwZjcro8XQDfbLRjyMaaBTyijWm8kFvbsSAvwv2q2lPnfU2DxYy",
+      "_id": "693df20e1c508c5d5ec69de3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
