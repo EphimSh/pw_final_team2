@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 20:19:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-ryhoiaEiewiNfpJZgViEkWbPiSY\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap80592",
+      "amount": 924,
+      "price": 27586,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-13T20:19:17.000Z",
+      "notes": "AaRPnPO6VqNyuwt3P5LTEJsRCtxZOqFKJ0ScgJ4pOvvAl76JEUYpe5OtSEaP46eUf7qDWYIKqwmEJ1jHVtDjqvkPybmI7TLC04Zx6Au1qp5kWXVAQxDHdgd97NIAZmVG74K8M0tsLaX5TZ6A2IjuCVj57uFg0uyKQCcHmv207C44mHPG1vCR9xaElSLSPpcnKyrryNhnikPpRfzAILfc0Ud8uVWHjEXwZYPypRQKrFj1xa3UcSNc4qZ2rw",
+      "_id": "693dca451c508c5d5ec63d2e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

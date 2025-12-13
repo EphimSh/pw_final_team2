@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 20:18:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "390",
+    "etag": "W/\"186-nlzna7YyFHzN9nPzaG3bGfmjuQM\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Nigel81@gmail.com",
+      "name": "uwW",
+      "country": "Ukraine",
+      "city": "MSHTDpFtNSvcYzIuOwy",
+      "street": "fVIim8N5",
+      "house": 143,
+      "flat": 2,
+      "phone": "+3852649299",
+      "createdOn": "2025-12-13T20:18:26.000Z",
+      "notes": "qR0cGMn44KLlHRmiselm1XJwrVy5aUiK3MWdbVMqNzMV9LDGZpd8daMoemCK6SwoQ3Kt7aLONaNUdXFgGsTPAbQ4yt4si6IYxP93m0v",
+      "_id": "693dca121c508c5d5ec636be"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

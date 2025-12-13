@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 20:18:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "389",
+    "etag": "W/\"185-C/YqWs/EtlIi7ocp5bTheKukx08\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Dessie90@hotmail.com",
+      "name": "tIAvNcMfSeogtHgUKtbtrtvvMBCWwMcfQk",
+      "country": "Great Britain",
+      "city": "c",
+      "street": "js7xTJ1MK3deNewUjz",
+      "house": 87,
+      "flat": 3,
+      "phone": "+7748516482",
+      "createdOn": "2025-12-13T20:18:30.000Z",
+      "notes": "TOE7Fu7er0dCSBoaWeocwn20rwO4SHIPXBp3q8ODu22v3tfCDAA2OtOauhGbXUvjgJzXEGM",
+      "_id": "693dca161c508c5d5ec6375e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 20:19:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "464",
+    "etag": "W/\"1d0-Q9+f5hOqb3TJEvwphDiJesu/JNI\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra156",
+      "amount": 187,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-12-13T20:19:08.000Z",
+      "notes": "eE2nhl6pAru9HszB1TfM4ZeoHSyXCrpEdLdpuaXreY4yGMFnIDUrNw3Xc7ixL4yBoPv4C1tKHA3C6aRm00hkOwkBn67ixYGSANHPeBBtliaQqywJ1FP7Lb1O5fIWbhPV3wVKIvqFG0IIliVrqedPhz1tnxXV2WKl9gpiB9WTqvbAUdFF6sQ6r3buuzsyzmbLTp4rrPCr28JmZ1gVd9uGmGJn0cQ8pCyVAOYqNkHuzJu1wB4AKNea8gzyY3",
+      "_id": "693dca3c1c508c5d5ec63bbe"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

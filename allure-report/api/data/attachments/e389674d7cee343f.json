@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 20:18:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-T7GXCjRDH0nYT7i339vB3fyuI18\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt52189",
+      "amount": 0,
+      "price": 33884,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-13T20:18:36.000Z",
+      "notes": "bpH3MdhGk2zD51pwZz3Maybueo4vs4jigsb5iKFRsst7sLsHAVyTzi560iRXQmyP27dQrQAr55RQQNYs85fibNSNRvzi4Ia38QkRCP1QBDehAaJOdFYYdeKpM8KNnf2BHtzYF07D5AnslOie3mi6VKXny5vlcNbHceltUZl8G84ZF0Z6ygmHih8SGeM1qsbFgwhTeZprbB1qe3bDPs1MjBPB7hC8a5lKvvKsdWpY607yhbCYWZoxXG9hB1",
+      "_id": "693dca1c1c508c5d5ec6382c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

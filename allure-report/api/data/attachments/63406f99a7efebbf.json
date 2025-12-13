@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 20:18:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-Q1We1i9lpb/uZJ6PSc4GjTR0Ie8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer37767",
+      "amount": 597,
+      "price": 11105,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-13T20:18:48.000Z",
+      "notes": "Tk61PObjE79F44Brzg6sCYMCG6k3APDezSqYIjmHDmnPAmf6oTKDBm2hG7jyN5FgsKQvfHFWDi15dVU0qc2GIb8cNYtSfNTQjMklyifJPnkqHnDf9ryrlVEkuSovj551lYF5x74Neh5R1LrxzlLEVafIDzBNrto17QjghNbjIOySmiEHWeTlIDb7OWJNayvWWVBT2qyPDkXuVZZkDLSy70uNdJx2o5ZMZC0aPj2rljYXpYLQ0VooR4Su2j",
+      "_id": "693dca281c508c5d5ec639c8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

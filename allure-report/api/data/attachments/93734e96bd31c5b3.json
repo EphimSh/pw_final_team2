@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 20:18:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "446",
+    "etag": "W/\"1be-MAhMU8YTvmhVmXT+1YjEJdCeVLw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "8NL",
+      "amount": 926,
+      "price": 57223,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-12-13T20:18:32.000Z",
+      "notes": "rW5Vqwi1v0OTrTfy6dQONik5r3nKnWaNbEUgitzdWjU9IasjKlwlRFlN9QYTwzEaBGhRjxlqvztnuv6dfCOSYodg2YzR9foLBW41bd3WHihgJLcKMUajTzT8ngBvd4V0GbVlJEe864BIcnnYxrI4iUDYnQ922SIv9tlam09aWbFIY1NgfILCSMElc8tXbgBBzKj4HCBoLTo2D59xaYnaVz8f6TLsnQQpZIhlnnIQr3ju7K6bJ3qWDX94Ol",
+      "_id": "693dca181c508c5d5ec63788"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

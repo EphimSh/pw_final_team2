@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 20:19:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-5hq2I6d+d7vkBU7zq5fKPIlEOz0\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese66899",
+      "amount": 726,
+      "price": 62730,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-12-13T20:19:14.000Z",
+      "notes": "Z2DeOCrX6jiv4WBEyxGJa1QpWvKVZTF8AGqOPxCGmd4RFLInXAIuEIq8TUvm0BxBOYtZPJHjHzremkfVpfM33D8uNnyGliTYqJ0SGyChteUq3ub79jvgtIq9StwXSBpsyOLFj7QeYZo6UNuhsjtV3kQL3XEe2FFJEDNY7GrHVNHE2CU02M5Lad6xCVQQ0ic6IImQ2vcJB0s7Cr5OjDCfWIhZbF0nnDGrFf6QIhUqtyjMEQUFGaEFWBAqeo",
+      "_id": "693dca421c508c5d5ec63c75"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

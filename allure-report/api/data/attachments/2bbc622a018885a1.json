@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 20:18:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "517",
+    "etag": "W/\"205-zz1NduGpqn9J/Ow5VpD0ELBsL2w\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jade_Crona@gmail.com",
+      "name": "KXLIkxclWwkqVgqWTKwllLEDO",
+      "country": "Canada",
+      "city": "q",
+      "street": "ElEYBm9pFBaO9RIWG",
+      "house": 114,
+      "flat": 9,
+      "phone": "+1343131146",
+      "createdOn": "2025-12-13T20:18:21.000Z",
+      "notes": "H5kH06ofZu3faDMkSL7YwXSusy6BvR80XQZZYZQ9dVMhmEf3KgXUXIbMpE2chvpjoLVAeajP5n3wdIrZ5M8fmnE7tmMP2RX9dEEmiVGu3DHhnf5cXRUNRrtaR0lGhbXvQ60wBUeFVyl38MxqPjKkFN3oTtws0t5COYGBEiKnC8M9YKlWi1kliHZxOHyaTpTwtKxRVsFSyXda1fYwc39gJyg",
+      "_id": "693dca0d1c508c5d5ec6360c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

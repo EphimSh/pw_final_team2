@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 20:19:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "578",
+    "etag": "W/\"242-qXaFnW5aKlDvLBS01G2hn4PdyMk\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "693dca351c508c5d5ec63b11",
+        "name": "Tuna9497",
+        "amount": 785,
+        "price": 97572,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-12-13T20:19:01.000Z",
+        "notes": "algzIcJbVQb41NdCD5arzojLVt13ZnqkfeZGERklY9mJQovsunsJFb6BYSYUsBqywtWXHO7ZXkuI41aEw3ocruTSYMOnp6L66YtzBPIVXQmByoGG8CyK7DkDiUfyD4sC2jUEdrz8wDXi2ibZSFFb0zS4wi7b6cRqFTc71h6URWIhSs9EmSpAU1gWDWTEQlCyp3s3jzFdudejtQ4UXQMmPgeKp8OC30m3LgQehiOVXIVFoX5lLW5ms1ODVr"
+      }
+    ],
+    "total": 1,
+    "page": 1,
+    "limit": 10,
+    "search": "Tuna9497",
+    "manufacturer": [],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "desc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

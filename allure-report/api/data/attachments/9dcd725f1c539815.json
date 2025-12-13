@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 20:18:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-D/R87xjli+R+TObhhOBoGhmjtlI\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X96563",
+      "amount": 622,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-13T20:18:54.000Z",
+      "notes": "4gDBaXAJ7Xe0WYzUssAg6InSE8MvNgvJkRFCZcGPxfyiaR80QTOd6FNnqiXw4gpDi4ejDvI9bQNMRH8mg7NJfKywwGb6Bl3gTSVeSkQVb384wZo8QFqVWSq8tcOTY67srePm8nXSlpGtmOOYx4OlkEvduh7pnbBazjGwXDL2iQ5pBFjdn7jxQ287VeFgQWJINQbWXfmuPLrjUszWrsVTFLoyQg9L3INc9HaDUKJlAytNPttFhmet8iZCkn",
+      "_id": "693dca2e1c508c5d5ec63a5e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

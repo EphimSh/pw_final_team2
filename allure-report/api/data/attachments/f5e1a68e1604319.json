@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 20:18:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-dRC3ll6sAvKIL57l2HlOoFbg9qg\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy A5558212",
+      "amount": 603,
+      "price": 800,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-13T20:18:58.000Z",
+      "notes": "gXswui7aunwgI2JdvaM4IMtPlBCCc2zFsMrnlN2O9KeDPLbJpkarRtEIqBxkV7Fg2y0IGt9mYoY1xir9xXYC5VfwO2fsVw1aoQWdRxNcIPDGI7Dgvoyn6yKW2R2ujAh4Yjj5XgXEH946ryBWICyGfechaDmc2BUnVgT6GhEfNGoqgNKZvFm3oQIPsV9rqDOs3xzMOoWf3Fx2DOhOtrE8ZuieOcevc574ZS9IrPg2jDqsPpClAufftHck9K",
+      "_id": "693dca321c508c5d5ec63ae3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

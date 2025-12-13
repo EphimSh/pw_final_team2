@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 20:18:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "504",
+    "etag": "W/\"1f8-YBhKeMaHFRAkmg5k+9X/8BU7vEw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "693dca101c508c5d5ec636aa",
+      "email": "Milan_Kozey50@gmail.com",
+      "name": "HTFiMmspXGpJLEFOncIqOJESsCayWQXEWpXpQ",
+      "country": "Canada",
+      "city": "VrpBMehrcdpiQWDCXK",
+      "street": "SbrpXHP3YTbZiMEmZCBSE",
+      "house": 190,
+      "flat": 1,
+      "phone": "+6105098451",
+      "createdOn": "2025-12-13T20:18:24.000Z",
+      "notes": "MFWSOl5uYsPIHjBe1zWoFVAhMsLBmXQsSHKDKmrlTGvnQyNrlXfiqMwNoxuraxI4oATy9SkUNzgiT4OgtQfEjekG44j8pE84XtHwPh7oySGdqlRyi8y8wMji1T6to6Bh1MO7H8wYrWgN1HOYVaKkBkmjRlK1waZJAxTVYO"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

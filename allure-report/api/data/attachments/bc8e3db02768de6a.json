@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 20:18:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "396",
+    "etag": "W/\"18c-XHYfuvSS0Uw474ebTyO4s1PW/ZQ\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Emile_Johns82@hotmail.com",
+      "name": "iWXGtaCuZYwgZYoZFVpPNYgovLAAPQ",
+      "country": "Germany",
+      "city": "MXvfkAviHHkkuyS",
+      "street": "JYPkxSNIXokBdXjpoNoZuykw",
+      "house": 20,
+      "flat": 1,
+      "phone": "+7075657389",
+      "createdOn": "2025-12-13T20:18:21.000Z",
+      "notes": "q9Ykqle3tcUAngL3luA8Se8vVhzL01yxsYXhiCS3Djl5q29be7hhivF1fNO5sw7",
+      "_id": "693dca0d1c508c5d5ec63622"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

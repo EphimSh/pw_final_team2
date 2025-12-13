@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 20:18:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "192",
+    "etag": "W/\"c0-noK2BDBvMVM5+JULN3lyA0mSZrQ\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball42146",
+      "amount": 879,
+      "price": 46223,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-12-13T20:18:38.000Z",
+      "_id": "693dca1e1c508c5d5ec63894"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 20:19:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-Xgs77lcerDpBv6Ek5bf/GPvft3U\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants62876",
+      "amount": 177,
+      "price": 94808,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-13T20:19:04.000Z",
+      "notes": "GldUFEIVEcPUTvTt42hWGDHT5uqZnS1AEyoojV4ELcUNNctKQ2Qdv8VjRLXXNnPIPQHMAb5BcaLffuaw6ncLA5m3d8UkPPFwU4USv907P91qiA3q6EFZqgxSNRTigUR3n8NQXj9XWYa67JuZz1byH6uik8b6mc175zs2tPgJCSD7oQnDwH0jlQcAqsA4PPnUERZYXzJhE0WZWPHu1yBDI3Gk9JteMhwSd3niQ2myjEIkwGDfxVf5LaN1xg",
+      "_id": "693dca381c508c5d5ec63b6a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

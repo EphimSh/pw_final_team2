@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 20:19:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-j65CA9HJPqQ4a1oa3glzcokFeKY\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro99599",
+      "amount": 157,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-13T20:19:01.000Z",
+      "notes": "J2bSQm8vLrZA8jXcVd8llATJNks3C1FrVgVZrS24QLkxEnd0oLWiRH8HZ4fIqbRRZr2yn6AraXQFrvQ3ooi6vijEtAeQPkcs7WlMhJqQV84342yG34wEUF8IZSlRxPaIXEumOwbux1XzlQKKqY6uxQ12HYrY9VijhReqAwINo2teEQtM3RXNDQ7xRJStBVhZDBBXOInemEt1Q90dPoqDVJiNjDHvyMxs24DwzgADzNRIE56QRPe55lglNE",
+      "_id": "693dca351c508c5d5ec63b1b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

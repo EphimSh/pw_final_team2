@@ -1,0 +1,119 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 20:19:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4239",
+    "etag": "W/\"108f-4FPlMMMsAc0WQT+GQnuOJBPxt/8\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "693dca381c508c5d5ec63b6a",
+        "name": "Pants62876",
+        "amount": 177,
+        "price": 94808,
+        "manufacturer": "Sony",
+        "createdOn": "2025-12-13T20:19:04.000Z",
+        "notes": "GldUFEIVEcPUTvTt42hWGDHT5uqZnS1AEyoojV4ELcUNNctKQ2Qdv8VjRLXXNnPIPQHMAb5BcaLffuaw6ncLA5m3d8UkPPFwU4USv907P91qiA3q6EFZqgxSNRTigUR3n8NQXj9XWYa67JuZz1byH6uik8b6mc175zs2tPgJCSD7oQnDwH0jlQcAqsA4PPnUERZYXzJhE0WZWPHu1yBDI3Gk9JteMhwSd3niQ2myjEIkwGDfxVf5LaN1xg"
+      },
+      {
+        "_id": "693dca351c508c5d5ec63b0f",
+        "name": "Sony Xperia Pro99415",
+        "amount": 936,
+        "price": 2000,
+        "manufacturer": "Sony",
+        "createdOn": "2025-12-13T20:19:01.000Z",
+        "notes": "nLfhREhI9BFeWDzJVeYzwi6uzd4DPCdkCjsdJEO3VU7u9IQaa0eJZFCtjWnnK9w9C1Iy4LIlnYFEgoYAyVWMiUAGxb1vrQ5aAgDPbkQ4Z6sc62o0EJpL8agbEmBpJ0oQ3RvFKDdN2NblRNbTdlDxxf8r82ao4ivZ0gRGXJ4zmzacjLEO2BTg1fOn7ccmGt2SyT733eZJCrlFh1W6FwzPN1CgeEPIvMwoUPH8oj9b2be4K1v6y5LzBIfb4R"
+      },
+      {
+        "_id": "693dca351c508c5d5ec63b1b",
+        "name": "Sony Xperia Pro99599",
+        "amount": 157,
+        "price": 2000,
+        "manufacturer": "Sony",
+        "createdOn": "2025-12-13T20:19:01.000Z",
+        "notes": "J2bSQm8vLrZA8jXcVd8llATJNks3C1FrVgVZrS24QLkxEnd0oLWiRH8HZ4fIqbRRZr2yn6AraXQFrvQ3ooi6vijEtAeQPkcs7WlMhJqQV84342yG34wEUF8IZSlRxPaIXEumOwbux1XzlQKKqY6uxQ12HYrY9VijhReqAwINo2teEQtM3RXNDQ7xRJStBVhZDBBXOInemEt1Q90dPoqDVJiNjDHvyMxs24DwzgADzNRIE56QRPe55lglNE"
+      },
+      {
+        "_id": "693dca351c508c5d5ec63b20",
+        "name": "Sony Xperia Pro3880",
+        "amount": 732,
+        "price": 2000,
+        "manufacturer": "Sony",
+        "createdOn": "2025-12-13T20:19:01.000Z",
+        "notes": "70kHGBk6idipoA1F43uplYfHBBUEyqtyDZjeh6z5N8lXC8yd11l0cvn3b0BQ7Z1cWYiun23QfhVngQ0t26ANx4ehy3XBlc82QNP52IyQAF75UfXmURRJC17rLEYV0D2220iVxQhTt5dTHh7mMoerN1yDnYC9wGPN5C6ZXuujn7OGYqjllz081bulO9lHj5xb3tnJFsJKeIoKOnLHcCtwuAfyHdsT6d0PsxsdI3GxcGoYFCnvalklysQpJt"
+      },
+      {
+        "_id": "693dca341c508c5d5ec63b08",
+        "name": "Salad92686",
+        "amount": 37,
+        "price": 30589,
+        "manufacturer": "Sony",
+        "createdOn": "2025-12-13T20:19:00.000Z",
+        "notes": "S3QrzYVVufgVtTCrFtr0qleEBr4PqMjWFMD5PZuOifo3hJtPIGU6CtsBCUB4JUoF9wlrvGuTDQyQcTCC4CpylrF3XkgXrtPJE5qZUlivG5l9LEhO1FWhuWJmpMvCyYikJ1vi7YouooTOsOMRF8nmugbrTLwHM2FHCRVkBGCI91aMTBEbuZdztHWUPvCYmRXsiZKaHrBg2K4dsdtliBQRveXu2VqicnxbXwJeJU43qd3WCEzQ9bcz0GVThx"
+      },
+      {
+        "_id": "693dca1f1c508c5d5ec638bc",
+        "name": "Bacon55341",
+        "amount": 726,
+        "price": 99608,
+        "manufacturer": "Sony",
+        "createdOn": "2025-12-13T20:18:39.000Z",
+        "notes": "HpO1u26kgA2XtYPL43F4dg6qwRNUHz3k3kcv6e5H0YJmHVFH9xViCp8gLm2uEQ4nsiANLIu1x3CSi7tQEgBUKoyVzUuBQEwlGNfvqVWIjN0hTzo7fufpI7sIN6imx5jjRXHUhI2bP8N2RpB6gHIaTM6YCZth773x3hfkuLFSBbR0H4GwUKVYk6oUNImXs0mMS8KJn932MLcFBBt4BayZl7LYcsIEe31Spn0oQzimZLoteE7G15KqQgTJOO"
+      },
+      {
+        "_id": "693dc9ff1c508c5d5ec634a6",
+        "name": "Chicken76309",
+        "amount": 970,
+        "price": 82798,
+        "manufacturer": "Sony",
+        "createdOn": "2025-12-13T20:18:07.000Z",
+        "notes": "KV96J7X9TnFVOTWjbz7XagHm2y5y0vCh88muwglVw6aRWNOwQTZMZ3vAhpuAFMi4qSBHsBxcrxRl5DaK3FuvBkJ5SuADbKs0h0CFDjvPkijSS6YJPKTanV84L35OIZDK057a1aqVsIBiVAsgdaRkBZVqaZebeMAZfTZrq1Xkwo2TDlx6SK7VT52e4SJbiOhPmrBhH8cqMQyXrq1dDos49ZO5Bk9ygXdqVzoHBCqzobvIJbrQn1uTKcpYuO"
+      },
+      {
+        "_id": "693dc9de1c508c5d5ec62f65",
+        "name": "Computer45728",
+        "amount": 616,
+        "price": 77672,
+        "manufacturer": "Sony",
+        "createdOn": "2025-12-13T20:17:34.000Z",
+        "notes": "XvdY5887W5n8BtKYFbC1chtzf9GmoE1Hhbl67liw37k8Mls5kEfnYXeuZDQQAxHdK7pGZN5wO7mlUFMtPnnrSrQ82ES1v5ll93iXBM3xZQhMn4XXoN9ArpvOWTlEFcXxMQSbFLNNauXMp0QuDvzlFmPtCtfAKf1LWCheaaF7Y4D8lXeMEOluzLcgmtgv8eHyNc3HehCnx1HK52vCjuAIaOCFVlhgZPD7LRi0KzQ6WxrxHhtPZJh67qscOk"
+      },
+      {
+        "_id": "693dc9d61c508c5d5ec62cec",
+        "name": "Gloves50786",
+        "amount": 569,
+        "price": 67462,
+        "manufacturer": "Sony",
+        "createdOn": "2025-12-13T20:17:26.000Z",
+        "notes": "r80pWCFyZaDrmPo0sl2YEsf9gkmMZaNnq6cbYUwnlBq3WYUWj1RMjatBG97eDCl85nsIsBpcA1txDZ2yShIbrPER5ydzyHpnCJEBnaD5DUiXiHMxSS6tlD8PcR2F733QI350Xx7nJbDbYCzbJHRG5H6VAgZX08Erw0Yh0EzipqWZ2tIlzlkfGH8uPsvCft6bNTFH0C4EG2kp6foawF1wr35GvMzkl4BPkcbTCDgA3G6t3muH5Hr1yl0tqH"
+      },
+      {
+        "_id": "693dc9d51c508c5d5ec62ca7",
+        "name": "Salad92",
+        "amount": 843,
+        "price": 48483,
+        "manufacturer": "Sony",
+        "createdOn": "2025-12-13T20:17:25.000Z",
+        "notes": "RGEGffLxR9pdWUcpD6ljs3lc9ziVYVnz2pdqfgT3I6Y4FEy0NMcTLQess1YXGP4bs7e4jTaxqk1DDa1iYYQOVpmsgEMZcn3yThsDU080JOEN4Xunx8CfGs4ebHo3Zx3W3MEPF9TH0PUBokZN1K09yCS21Cb7sykpNcLbtBiacp5azKRR7YzHVu6s1vw6CQGH4wFyWDtOIDsYzLHH7WAHqAG0WA8nNF4y6PEPzLw35sbadj03ua3crTBdfj"
+      }
+    ],
+    "total": 68,
+    "page": 1,
+    "limit": 10,
+    "search": "Sony",
+    "manufacturer": [],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "desc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

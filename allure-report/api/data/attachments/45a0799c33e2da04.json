@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 20:19:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "474",
+    "etag": "W/\"1da-jWo5rNZH3Q5WXL3ROu0hXKwB5hI\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Microsoft Surface Duo 325746",
+      "amount": 839,
+      "price": 2200,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-12-13T20:19:05.000Z",
+      "notes": "3g0ZTTuQ7rjqPoFYVAnqGvlg9cOANgtXg7956jmYPZIaZqzkE5fIlAfqPGpN7p0CZhz7oFIDOuNCnAdiMm522k4CHg06LcSB2Tv7aoRsU3z7xOZiPbtELXRGkaioEHf5wMf42cG6KwEfnJkVgYnVOK81rg76UaKh6O0t1DPehvMDyLPl564WXW7NsTVcnf4QY7HBe97pLzHjzV4cFWoSo6HaN7R7M0QfRSeKv0u9czAvOHefrupqCNvcTU",
+      "_id": "693dca391c508c5d5ec63b87"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
