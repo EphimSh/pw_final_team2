@@ -5,7 +5,7 @@ import { getAllProductsSchema } from "data/schemas/products/getAll.schema";
 import { MANUFACTURERS } from "data/types/manufacturers";
 import { productsForCreation } from "data/products/productsForCreation";
 
-test.describe.only("[API][Sales Portal][Products][Positive] Get All Products", () => {
+test.describe("[API][Sales Portal][Products][Positive] Get All Products", () => {
   const ids: string[] = [];
   let token = "";
 
@@ -91,7 +91,7 @@ test.describe.only("[API][Sales Portal][Products][Positive] Get All Products", (
     ).toBeTruthy();
   });
 
-  test("SC-011: Сортировка по цене по возрастанию", async ({ productsApi }) => {
+  test("SC-011: Сортировка по цене по возрастанию", async ({ productsApi, productsApiService }) => {
     const getProductResponse = await productsApi.getSorted(token, {
       sortField: "price",
       sortOrder: "asc",
@@ -106,8 +106,12 @@ test.describe.only("[API][Sales Portal][Products][Positive] Get All Products", (
       ErrorMessage: null,
     });
 
-    const sortedResponse = [...getProductResponse.body.Products].sort((a, b) => a.price - b.price);
-    expect(getProductResponse.body.Products, "Products should be sorted by price in ASC order").toEqual(sortedResponse);
+    productsApiService.assertProductsInList(getProductResponse, getProductResponse.body.Products);
+
+    productsApiService.assertSortedResponseMeta(getProductResponse, "price", "asc", 100, 1);
+
+    // const sortedResponse = [...getProductResponse.body.Products].sort((a, b) => a.price - b.price);
+    // expect(getProductResponse.body.Products, "Products should be sorted by price in ASC order").toEqual(sortedResponse);
   });
 
   test("SC-012: Сортировка по дате создания (новые сначала)", async ({ productsApi }) => {

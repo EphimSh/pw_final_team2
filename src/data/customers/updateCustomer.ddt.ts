@@ -1,6 +1,6 @@
 import { ERROR_MESSAGES } from "data/notifications/notifications";
 import { updateCustomerSchema } from "data/schemas/customers/update.schema";
-import { errorSchema } from "data/schemas/products/core.schema";
+import { errorSchema } from "data/schemas/index.schema";
 import { STATUS_CODES } from "data/statusCode";
 import { ICase } from "data/types/core.types";
 import { COUNTRIES } from "data/types/countries";

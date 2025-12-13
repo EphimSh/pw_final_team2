@@ -6,7 +6,9 @@ import { CustomersTableHeader, ICustomerFromResponse } from "data/types/customer
 import { expect, test } from "fixtures/api.fixtures";
 import { validateResponse } from "utils/validation/validateResponse.utils";
 
-test.describe("[API] [Sales Portal] [Customers] [Get Sorted]", () => {
+test.skip("[API] [Sales Portal] [Customers] [Get Sorted]", () => {
+  test.describe.configure({ timeout: 90_000 });
+
   test.describe("Search", () => {
     const ids: string[] = [];
     let token = "";

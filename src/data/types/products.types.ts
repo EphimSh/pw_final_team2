@@ -2,11 +2,11 @@ import { MANUFACTURERS } from "./manufacturers";
 import { ID, IResponseFields, SortOrder } from "./core.types";
 
 export interface IProduct {
-  name: string | undefined; // for test
-  manufacturer: MANUFACTURERS | string; // for test
-  price: number;
-  amount: number;
-  notes?: string;
+  name: string;
+  manufacturer: MANUFACTURERS | string;
+  price: number | string;
+  amount: number | string;
+  notes: string;
 }
 
 export interface ICreatedOn {

@@ -20,8 +20,8 @@ export function generateProductResponseData(params?: Partial<IProduct>): IProduc
   return {
     _id: new ObjectId().toHexString(),
     name: initial.name,
-    amount: initial.amount,
-    price: initial.price,
+    amount: initial.amount!,
+    price: initial.price!,
     manufacturer: initial.manufacturer,
     createdOn: new Date().toISOString(),
     notes: initial.notes!,

@@ -19,7 +19,7 @@ import {
 import { STATUS_CODES } from "data/statusCode";
 import { validateResponse } from "utils/validation/validateResponse.utils";
 import { IResponse, SortOrder } from "data/types/core.types";
-import { expect } from "fixtures";
+import { expect } from "@playwright/test";
 
 export class CustomersApiService {
   constructor(private customersApi: CustomersApi) {}

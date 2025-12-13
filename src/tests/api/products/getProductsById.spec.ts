@@ -6,7 +6,7 @@ import _ from "lodash";
 import { validateResponse } from "utils/validation/validateResponse.utils";
 import { IProduct } from "data/types/products.types";
 import { invalidIds } from "data/products/invalidIds";
-import { errorSchema } from "data/schemas/products/core.schema";
+import { errorSchema } from "data/schemas/index.schema";
 
 test.describe("[API] [Sales Portal] [Products] [Get by Id]", () => {
   let id = "";
@@ -14,12 +14,14 @@ test.describe("[API] [Sales Portal] [Products] [Get by Id]", () => {
   let productData: IProduct;
 
   test.beforeEach(async ({ loginApiService }) => {
+    id = "";
     token = await loginApiService.loginAsAdmin();
     productData = generateProductData();
   });
 
   test.afterEach(async ({ productsApiService }) => {
     if (id) await productsApiService.delete(token, id);
+    id = "";
   });
 
   test("SC-015: Successful receipt of goods by valid ID", async ({ productsApi }) => {
@@ -55,10 +57,10 @@ test.describe("[API] [Sales Portal] [Products] [Get by Id]", () => {
     expect(response.status).toBe(STATUS_CODES.NOT_FOUND);
   });
 
-  test("SC-017: Invalid product ID format", async ({ productsApi }) => {
-    for (const invalidId of invalidIds) {
-      const getProductResponse = await productsApi.getById(invalidId, token);
-      expect(getProductResponse.status).toBe(STATUS_CODES.BAD_REQUEST);
-    }
-  });
+  for (const invalidIdCase of invalidIds) {
+    test(invalidIdCase.title, async ({ productsApi }) => {
+      const getProductResponse = await productsApi.getById(invalidIdCase.requestId, token);
+      expect(getProductResponse.status).toBe(invalidIdCase.expectedStatus);
+    });
+  }
 });

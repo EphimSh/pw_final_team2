@@ -1,4 +1,4 @@
-import { obligatoryFieldsSchema } from "../products/core.schema";
+import { obligatoryFieldsSchema } from "../core.schema";
 import { customerSchema } from "./customer.schema";
 import { SortOrder } from "data/types/core.types";
 import { CustomersSortField } from "data/types/customers.types";
@@ -25,4 +25,6 @@ export const getSortedSchema = {
     },
     ...obligatoryFieldsSchema,
   },
+  // API may include auxiliary fields; do not fail on extras
+  additionalProperties: true,
 };
