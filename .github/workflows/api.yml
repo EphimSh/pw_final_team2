@@ -34,6 +34,7 @@ jobs:
         id: run-tests
         continue-on-error: true
         env:
+          DOTENV_CONFIG_DISABLE: "true"
           SALES_PORTAL_API_URL: ${{ secrets.SALES_PORTAL_API_URL }}
           USER_NAME: ${{ secrets.USER_NAME }}
           USER_PASSWORD: ${{ secrets.USER_PASSWORD }}
