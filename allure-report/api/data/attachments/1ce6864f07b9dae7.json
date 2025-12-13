@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 15:53:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-C9uC8YCgbfxxLlxkLYsm+V2NQrg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra75770",
+      "amount": 331,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-13T15:53:58.000Z",
+      "notes": "fqMzRpvwDmcEwIxpwvAEwwPLeu9flVJvb088zFXmv9nxtGEUMwYDDs2Y8VaAkGvPpi1zHAN2M1n0bLWllAyR0SJ6x9IUiPXDGRQx4r7CpCqlhZuCk6ghhMxrdafzcb55a9XYI35pCyCP9QMrDxtQkK66KQpueZuBm4EbjWOpMAedPrzB3YKRmBcM61L0vuwivN6DpYmd96XU6vNboRT16pCpYEhOjFhvUeW2d5vKT8wPXRGre8B4xkHdn9",
+      "_id": "693d8c161c508c5d5ec36db9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

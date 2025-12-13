@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 15:50:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "413",
+    "etag": "W/\"19d-cjCbZ6JjLt1ZrBrjh2rPfRzYj68\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Bradley_Nolan72@gmail.com",
+      "name": "AuoJZnScgHjLiLbDKIhqPZywnilVTdGNjnTPythA",
+      "country": "Germany",
+      "city": "IyxUobNLf",
+      "street": "wSrFngpUqwclZDuE4O33jxeUNigvoxCaolucsd",
+      "house": 180,
+      "flat": 7,
+      "phone": "+4269698471",
+      "createdOn": "2025-12-13T15:50:58.000Z",
+      "notes": "ejirxNva2MRNwdT1lcO2qbNYqq1puZK6uilVLIQZTozPmGsvRF5CoLz5QSvrm",
+      "_id": "693d8b621c508c5d5ec34999"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

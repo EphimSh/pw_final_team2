@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 15:53:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-Hn2/VMpWrxoHK61bT4Z54FooVQ8\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball36162",
+      "amount": 428,
+      "price": 32876,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-13T15:53:35.000Z",
+      "notes": "ePtSpcTMcw2zGHHNycAHQxJKmY0kQVesv7ppWkDXKs6H87jujAnxmS8iXYvZ1bmyM4yTJtYS3um3JWa9VQrUbTMwPDrFWaRR64d7nkI51o0I2xEbAGmx2A4QAplAX49AXcNxLVxJeevtFn3Ct8F3N8VCLrUe15qKbUd2CX8yrgNVv6reawGz3q00BbNJ5pCprhJbPHJbe0x6yiYA17jFHTtpNY1qzAM3Y0VDCL2kj8gX5wUhkcnZ72GcVL",
+      "_id": "693d8bff1c508c5d5ec36891"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

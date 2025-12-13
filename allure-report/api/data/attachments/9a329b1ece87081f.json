@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 15:52:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "583",
+    "etag": "W/\"247-j7DfXD1tlwj7+Dai2se5NYRWqY8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "693d8bc91c508c5d5ec35a41",
+        "name": "Salad79123",
+        "amount": 978,
+        "price": 75252,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-12-13T15:52:41.000Z",
+        "notes": "IWF9OebI77CWihmOSuDbkufXF4QSgOozmYlzIACe6iwW4yvj2EJ3abIb8IBRFRLxQq4seRssbjBC5AVE6e4WYxIkMjdB2YC7ch7sShQ2iTDavDCQUgkA0dldBFtifTo1j8LSCM9uUgcjxsDtO90SklG8zW9IcxNt0ON6ew5A3S8UZC8bqKtt3DoVicEQ2bySxdTftNTkMjO1USSbIv1BPrPV1t0evGkHvWbRaQZ5Lxq36AHuROS5hwI3pz"
+      }
+    ],
+    "total": 1,
+    "page": 1,
+    "limit": 10,
+    "search": "Salad79123",
+    "manufacturer": [],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "desc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

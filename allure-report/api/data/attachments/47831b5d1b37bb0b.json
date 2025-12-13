@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 15:51:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "496",
+    "etag": "W/\"1f0-UxL5geN8Fb2ZvZqzuG1Z3boCVQA\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Sister62@yahoo.com",
+      "name": "lYnBcITiIJyuhlCkoHnpzRUlgagOaB",
+      "country": "France",
+      "city": "UkhvjXauZKIxF",
+      "street": "6nPoaKq3EcLTif3r0h0NZkBQnIw",
+      "house": 11,
+      "flat": 3,
+      "phone": "+1200040872",
+      "createdOn": "2025-12-13T15:51:04.000Z",
+      "notes": "h9snCT5wurbW2v98gSmurMaLaiJq1P4kh0mz42BaQm1XwicJrLA5Kz52QAI8XWsrzU3o5zCUqLG5OXydGBbBANej9XUFGIvelyGKjH5qXvWwLlAaIPK3C7WA4jhGrHOWWmt2UJtChb3oXdZGCRfrrIqE5PLAAJybaRyE5mZbUt",
+      "_id": "693d8b681c508c5d5ec34b2c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 15:52:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-Emx/aBhm11MbD9D4dinyNwVAkmc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car78644",
+      "amount": 836,
+      "price": 34270,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-12-13T15:52:16.000Z",
+      "notes": "3kvki9HjohtYh1DictpjzfmC8fTtSasaEt67J3aDOfTNfylWWm38PC3wrZWb02EBuPM3Dn4VlsrAgcaPFF7LORNduu8Y8Yc4rCDEi2Kir87visnnOxxFmNd3kvI1cyVNzEsmwxiw7Jh1SgQe1SVGmAbJc0qBXPFyF1F9XvbbrmAK2x9UKjhlGFIlaY6s4r00e7DSibgqGGbWjYbSQZffJiLBhrvw6xotvkqjJQ1c6gZS7Dyq1XoLU0M9s6",
+      "_id": "693d8bb01c508c5d5ec3582a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

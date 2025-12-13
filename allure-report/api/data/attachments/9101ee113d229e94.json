@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 15:52:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-0wSFCUDEmi9btQF2ptgl4DtgB2w\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken57827",
+      "amount": 150,
+      "price": 75853,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-12-13T15:52:10.000Z",
+      "notes": "KAwBKO7uVZt9rD1OSjZsKbK8foWwyYodAzPWsNZMZnkJ8Tkjocfpzo11p93w8fJKpi7L3AkL47hXxoARtQQ9fqo4D5eVJvqBvzSGckfk9e03OTbYROaqba1mz1C6G0sL12zX7oMaUu45kRgQVK74vXIN7QzRadh0qNjiNiRKxtjT9ZJRhpqnRhrU9nJqwYIwKLY5KoY9qaRLRIdTRWK22j1ryvxdvoaz9r9kmIImTAQLQDG6C2RfbGVwtC",
+      "_id": "693d8baa1c508c5d5ec35712"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

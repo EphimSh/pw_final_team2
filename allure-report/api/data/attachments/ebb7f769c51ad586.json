@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 15:53:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-uaoi8Bh8ZEJTBQxGDkhrsf0K6VE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X39610",
+      "amount": 910,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-13T15:53:30.000Z",
+      "notes": "UyO0nz7NvhzoCU6AjgCYQmTGsWh290Uco0LyvHUtsl8sIIYegPMwtVXFYQuhkjptgI2zFHS9d9IgxYs6TPY0sDsYlka0HaRWE7Rdm8qiIDgNrvYd3MHVsS95AY03e1cD4aAe1DgJVdukyrU1vEJeoX5gFLs4HFI7cwlh379krSBIpOVkznVuCMl0pqBNw7mSz7maUAuGrIJa4VI8sroDKHvPaNV2OoOnUasOKHaIXkoiazxVAeRZ05ok5v",
+      "_id": "693d8bfa1c508c5d5ec36805"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

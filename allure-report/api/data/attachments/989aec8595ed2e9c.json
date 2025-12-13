@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 15:53:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-uBZ4tNORgpaKiPif/XQ/hqDKkVw\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon84097",
+      "amount": 255,
+      "price": 94705,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-12-13T15:53:39.000Z",
+      "notes": "5d3SJq6DYLb9wqO9EhOxiX5xf8D7i4ixj1R9KXTwsJJWAbegyhZbgE0LmNOHlczaNCVH8Q9YCGntc9MXkMU5aXRgIe1HRkgOGEQ60hx98blXl5ZeByzSJb6fNwl80DJAjcP4RwFnqEaIwXqkEetX6uaFISTDr34kzz7jBsXAQNq2eKAZEbxE5ti87P5Kwv0DR2PUBxrH6wwLxKt598SGNuymiWFbEsuRbsF8qhMSx9vMvmtdKxVAjr9rK1",
+      "_id": "693d8c031c508c5d5ec368a0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

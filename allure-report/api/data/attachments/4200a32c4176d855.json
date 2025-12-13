@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 15:54:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-v/s0mlrddsUY1Az+CVj/34QOaEs\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "693d8c171c508c5d5ec36e3d",
+      "name": "Mouse55829",
+      "amount": 540,
+      "price": 10000,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-12-13T15:53:59.000Z",
+      "notes": "EC0VwJWvvTfT7NUnukV3UYC7csLgJb7IV4Am4LaulZ6ps4rwoHDtrPBKFNr1J81hCKk7uW6YRgJ5qEHfhiU4Srpfl3cnjQE79eafxvgTBVsVDqUzg5bs2Z2vqeLO3P1uzisFF9ZaC3Gv5o7LqSyO1duTS5ExwhCKXXBYmIk9hqO7oE31B7ZWmPVCo8Bu6u36hBN4qlvxej8fL0rNbrLCSByzLQJ3l8U2ePgo7mXVPARtF7LaK9K3IluoGG"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

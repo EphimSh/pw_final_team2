@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 15:52:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-fX7dCaFhJhm2NnwyTzHUPagtA6s\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra95963",
+      "amount": 345,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-13T15:52:55.000Z",
+      "notes": "IJMtgd3tTacxog2F7UcqEPYytcLMI6BODVlSHaRjz1AnSXCIvGE1ICxaUWb59E6pdzqmCc7GJ11oIH5XBfOSNiTYtHA4u47572VXmOiEaEJTM4NBqMjYt4V83JdXHI4sJBIdIPynn7FLpkSnUBajZHx71nzNqJywpdWj2FF8ZNwYMvU8RRzWF7PL0sc6YF8XGzle3RDUrfBHKtSl5tRd5f8e7XIguDkDJrAvkIkkcZgqCv0OhUuFpeidQh",
+      "_id": "693d8bd71c508c5d5ec35e64"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

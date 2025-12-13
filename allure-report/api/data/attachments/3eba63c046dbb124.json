@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 15:51:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "435",
+    "etag": "W/\"1b3-AGjqwVXsSCXiuwdaoBXT3fNRcCI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "693d8b621c508c5d5ec34999",
+      "email": "Mortimer15@yahoo.com",
+      "name": "xwPcWUcseAemwqNuFpYEKvXswThmrfcO",
+      "country": "Russia",
+      "city": "fVXAglRcUSLlefWYnLW",
+      "street": "mTR3qU",
+      "house": 11,
+      "flat": 9,
+      "phone": "+0406800125",
+      "createdOn": "2025-12-13T15:50:58.000Z",
+      "notes": "CTcBRaFMR29vRfNhske7TRmJtNVUoJr7pBnIHDtD0qwpbn5U4kw62BsBLhAlLvUQOVJavmrReYEAbiz7IMzIFYD8gylcwl4OCZop8x95dY24NsFy0bJ7D115"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

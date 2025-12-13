@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 15:52:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-CEnkgfrAN7pkJ7mp3CM0VfECZ0w\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips21313",
+      "amount": 867,
+      "price": 33809,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-12-13T15:52:27.000Z",
+      "notes": "NyciFM2WovjfWvRq8J4pGWw6HYf5vD8rZiqaBvCzYTMZjkKSHgus2Dgm2AbCMArbTlH9KxvoQz7UlcvUQfnIPDRhO7BLsmBE7BZjJUlGGHNKR8Bqfo3OVnROJgWLDBUthVPmkKR0Ziozzda6Swf07JwHDHxqk3L9lX1CvdRMq416gr3kSdKDIMfrhkjDRvfaOaQv5oLc9UPRAjQNbeoHPKzkGpxPrKG5vRzTgHpkNAjo87WXFhWYLObYtG",
+      "_id": "693d8bbb1c508c5d5ec3595d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

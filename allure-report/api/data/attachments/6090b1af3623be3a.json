@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 15:53:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-Mz3h46Pcksjsu0hNc9/YZVIC5aY\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy A5522173",
+      "amount": 681,
+      "price": 800,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-13T15:53:43.000Z",
+      "notes": "s7RJkJl6xCe7diop5S9wJMR6pGQC58yZsIZpWpWMHxkzDSPjzRne3O9mdlsUytY6dqAHJ9lhjsAgxWNDNobYD5HPFVxz588tSMGpyZI3gXCIOB8SgIouGaTcxP1RGKdQsdlRMDLG4x0W8kLIqSq6qyAoS5CRLT3GhQGloLzL9BPT6YAxqtXv4dmD8Uh3gbKqUNYfYUPPq6MYDfwUcpvRiqtfElQmAU88OhQiWHqIWxE53wuwlQJxfxPE0L",
+      "_id": "693d8c071c508c5d5ec368b0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

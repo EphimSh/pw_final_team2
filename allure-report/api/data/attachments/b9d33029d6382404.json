@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 15:53:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-wR88fYrooQnR/RECWNNkVtQEQPU\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna51947",
+      "amount": 122,
+      "price": 95843,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-12-13T15:53:08.000Z",
+      "notes": "wEtt4JNheX7WGC7JXHYkLBxvtaTtO6NpXMZ2Hg62TCeofQVXAqmTnvCCCP4YWeYOM5lCjVWpOQ5TwNEEQpoSX1skp2BAXuKAw3EwYUOH0kU9g7Zi4Afsgk6OdbP8oGdZy5thUjf8eIsdaHgm4jHxaXsf0zlbWL1OdBNdfA3cIWOGLcAvdKhTzWCZkK8FXjaG8o4JMQFPELd7ljGL243cnxpDM5kbT6KLMlVk3SnpJEAzcKS6zJGRMensAn",
+      "_id": "693d8be41c508c5d5ec362eb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

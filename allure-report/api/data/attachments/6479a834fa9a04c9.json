@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 15:53:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-1Wr2nM2Zr0rgNNfWSA/zMgYMON8\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro22146",
+      "amount": 965,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-13T15:53:46.000Z",
+      "notes": "h146mSLVvV7hZBUN812NyEJkYgIzMgm8IShXAbAs4bfo2z7AqIkAlcasqbiz9rArmgdEAEB3gti9gMbZLTvxHITc5mL7GOfLI2O3ZZO1y6JCGLfd14R7RNZTXydVbMXhocRtUdtpWYtc6e5PcN2oVbBqXkTGiraS5wTIl2qjhuEBhk0uGmbs9EmKcVR0dE9lwc7oFnYUexVM9TBU5u3BPaGreVWNE8Zsr8GWn6Hf0hhzQ9w9k1EV54PThz",
+      "_id": "693d8c0a1c508c5d5ec3693b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

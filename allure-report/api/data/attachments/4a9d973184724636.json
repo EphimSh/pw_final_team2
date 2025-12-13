@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 15:51:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-xk2+z0YQorhZXyRghtlBGO63me8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball22900",
+      "amount": 999,
+      "price": 33436,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-13T15:51:34.000Z",
+      "notes": "t21DymNUN6TtfMi1tXfh7cCxCrCpv3h3Z6ZdqjILaQKxeZz28drrfD7QcT18vv9yhCqTljhxR4w6PmEvmRnIudzqMXfSIMI69CjIdPx1q6nyqNyVNmD592YnCebqPeRizktEP9SuRBcoaVRlZHDC89q4GbePbLonMEROYonhWnNgJga8TasQhSGqArAZXN10rzeUA62jTA34aFo5tHhh9Ddx1UHSftJsUPYFD14z1DeDWYQ88bX874tcUi",
+      "_id": "693d8b861c508c5d5ec35093"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 15:52:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "151",
+    "etag": "W/\"97-uT+QhP6J14BqDafjlnCsAD4B6C4\"",
+    "connection": "close"
+  },
+  "body": {
+    "IsSuccess": false,
+    "ErrorMessage": "Cast to ObjectId failed for value \"507f1f77bcf86cd79943901g\" (type string) at path \"_id\" for model \"Product\""
+  }
+}

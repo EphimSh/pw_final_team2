@@ -1,0 +1,119 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 15:52:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4237",
+    "etag": "W/\"108d-GW6FJ2tokpREe5qFgqbe0OVukts\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "693d8bd61c508c5d5ec35de3",
+        "name": "Shoes11632",
+        "amount": 245,
+        "price": 62396,
+        "manufacturer": "Google",
+        "createdOn": "2025-12-13T15:52:54.000Z",
+        "notes": "M6fEmA0BeCNCFli5NT0eluQ6HJhKMwecl2McnCL3smrUbcBRoFnh493Ol1fCMns2pGTsvg4D1mLKULnMxf1SOrr4jiqZocv2vaImddUnRTwDn2KUV6IBUSN9zWPQS1XXiXXyx6p0eCo4JDEUJbvjIl0aBlS218tPwBjp6SRC81aGddGmn3zKeodCFcpBn291EDL6TSrUqk9qcSjoV26ofC4Ky2Hf9rLDzYSFxIFVUdJTeGHfq1wAsx39CU"
+      },
+      {
+        "_id": "693d8bd21c508c5d5ec35ce5",
+        "name": "Google Pixel Ultra42537",
+        "amount": 844,
+        "price": 1800,
+        "manufacturer": "Google",
+        "createdOn": "2025-12-13T15:52:50.000Z",
+        "notes": "zQAtAVSCbArUb22ZEoN0SzGxAelvH8HcylecJQ9dsGIhTL1WGuIoCTAF9ilFTJVQLoeDwMW0CiMUwgftozM0ZOAoWkUmSagZ2LBLwrQ7poMqEtITRDuqQD35K2rNqYvXKafeQYSTzFfdDz0Qo7P727LosxZEulAWq3QXUZPhxt0BaIX50Pz61vFL2GYHINagBDYrh2TCIdRrGXArn9w94STW9A4nbe4HdQo4UuZ5WuFKLdtdMDVPunNlkp"
+      },
+      {
+        "_id": "693d8b031c508c5d5ec3484c",
+        "name": "Bike88077",
+        "amount": 785,
+        "price": 40919,
+        "manufacturer": "Google",
+        "createdOn": "2025-12-13T15:49:23.000Z",
+        "notes": "f9kutdu7s8Rmw2lNJdHrj9wY8iMg8CA9kt95bq7JLd9ASiBIROl3TIKA521cb7kyLIlLiKl3Vc6nZTZvnscLGCOCFMP29S5tby9hWBFnmtlZso8lAhrKG9uI0tv35mla5VLlolb17WyQq9uEApuVjVokSxiAMOMXk59dY4ku1KBo7ZwizKHfUAgy0huhIvqtXC0hhm8SYX88922sYzNfZFLMzhaUL1aHxZnMYpFKgPYiNuSYHZnHzmRfTT"
+      },
+      {
+        "_id": "693d8ad21c508c5d5ec347a9",
+        "name": "Bacon14447",
+        "amount": 871,
+        "price": 7183,
+        "manufacturer": "Google",
+        "createdOn": "2025-12-13T15:48:34.000Z",
+        "notes": "PD0A8PC616J8TxMAHuQXNcS1BVI8oBnOcVz7BYOuyK51OJn1Ck2mLoErgESXxzr0EJ7pu9DMmyRIl9h0nXBl25vA2FUtfzczP0Ysfv1ADCr7DnYAqfnZpJt2CDu2VO07aYigEr58jl9e1WgtXXcoOisjuBnmDBXTY3OGwvGobElQT0sJATaPA8AEXnEJIxMrSdx4vAdSro7bR1q4sewozIXUUU13nVA0h9pkD1fM21O0kDOhsudKl3pfQW"
+      },
+      {
+        "_id": "693d88c81c508c5d5ec33015",
+        "name": "Shirt25589",
+        "amount": 393,
+        "price": 94887,
+        "manufacturer": "Google",
+        "createdOn": "2025-12-13T15:39:52.000Z",
+        "notes": "v5xaihL4bSoaV45nMqXfJP6ss4CsNl0jy0fTZVO50xtbg6aynw9eJQZP988qFM8J1a6nNh2bU5iNy3rsXUq3OtPYeynXcwm4LVW16AdrpJR1Un75hGK5zgOCM47zBXaxlYYg5KRe1akm2wiVGyOtDMtFAUMZjWE7xXIGElQ9gVbcS8NFDcv7iIOX3vl84ldjdS6seJsNB7Reh6StQGVlzWLQFQrT7seRR7DLLX7fJMxFncDffoyLzh5wJe"
+      },
+      {
+        "_id": "693d883f1c508c5d5ec30853",
+        "name": "Towels46328",
+        "amount": 880,
+        "price": 45536,
+        "manufacturer": "Google",
+        "createdOn": "2025-12-13T15:37:35.000Z",
+        "notes": "kUKbgwI4swJeTjZkc10EtWIqyChmhP5MIPpS4vVLBMtar4QUzwlzN0JhMfynCbe9Icvx1V8g0f7VhtRQZLrLrTs9jtfN5m0VtmZcK3ghcjeRIQFUFLGY6hRhMgkBjruT7NaZax2ccmwZatKNaAFQ3m9Aftvlp5yvfHaBzLQhS3Sq52uundKu4lCYmqLfED8XcCsuvfhyBuJ6LtyDqUFLh1Rs5TrygnHSvNcEg3fKeUHSL3h8v4PR48YwFR"
+      },
+      {
+        "_id": "693d881e1c508c5d5ec3003d",
+        "name": "Chair96577",
+        "amount": 826,
+        "price": 59835,
+        "manufacturer": "Google",
+        "createdOn": "2025-12-13T15:37:02.000Z",
+        "notes": "8MsAEg2RX75QEAJUSK7iiL6egm3wtzRpjyx5Pb6HKCzilrcJf1kX1VuHRv1gS6IKV1nhLFPFoEVduRtDrQMVxBM5ExWOLz3BWPP96128GtBpTe3xNq1qssiWwiA38b4X9T7debrtkfXOzdLJEi8fzreYA9uXjkJaTakTnk1H2gO0NaRFot3czs3HEsAX3O0M29CNdDvokTZywhi1CeVKGHcFL1V4iLvi91Uze1PA2rJJwQJu660RbsGa1E"
+      },
+      {
+        "_id": "693d88091c508c5d5ec2fbc8",
+        "name": "Bike38711",
+        "amount": 70,
+        "price": 377,
+        "manufacturer": "Google",
+        "createdOn": "2025-12-13T15:36:41.000Z",
+        "notes": "b8XHjqYzI8lFYZ6HqYkHFC9Di5YVzkGXgZ8YhP6La6e844Jjh9vj1LRI2kzqOZojh8VEwLBXBKlIGX5hmRPorTMNGh10RlQeZ5omxu7ksSrRb1lYugDnnHqkPI5aqxwzXxxsOwOSV6JIIybXOYQIBepFsWBBFkjIOPm3Ts0KJYq9mUclb9EE4ErvskHvZVUCi1xFT5y4geVP6o0OUQb4uFIZv25NGcKXnL1w80s5pYSvpPd27siGE9zXqW"
+      },
+      {
+        "_id": "693d88091c508c5d5ec2fbc6",
+        "name": "Fish78002",
+        "amount": 49,
+        "price": 12365,
+        "manufacturer": "Google",
+        "createdOn": "2025-12-13T15:36:41.000Z",
+        "notes": "I1GBugTOz4vWRS4zSqsKQRK3mTHc1TWDiAXtJaAYnysSPvo23vyCFrWpdeguj1WlK78p75XoFvRRIyIwyn9ISSVsZH3cTQ2h5tpxYzZT6zk1tuPZSKjuhzT5Mh29SjJ0F84FFexFJgtqQuK8h6r4xmikvmBugpwRLONORMuaXcZaScHjau6sm45YzT5uoiwYsEXP4kiANLYNkd1QZnVTJIbVI1f0AxoC17ql8ailZvLPmidc7ap5puZe3V"
+      },
+      {
+        "_id": "693d87e31c508c5d5ec2f0c3",
+        "name": "Car40338",
+        "amount": 900,
+        "price": 65711,
+        "manufacturer": "Google",
+        "createdOn": "2025-12-13T15:36:03.000Z",
+        "notes": "oweKT4uZ8H1RvwBvbu7V6b7ItNjXc75kYJ6vu1s3pUQPpPHF5lzm9LKP515MRk2AArzf4iitDwNZ7oxpXeZ1UXpTRMbcJDtT7sO6N888nFp1QE4e3bnCnoavY83WCrI1AXmYDmhyQbyEOWPJymDsXWrTnMP4EDVnvFCFVGP9K0VcTOe9kq0K8u91xghSqhGZ1VfggQWhYX9docLBdvmtYF9dd4hI2kdwbU0ztrXMLZ15SHkV7a8vQyTjcg"
+      }
+    ],
+    "total": 207,
+    "page": 1,
+    "limit": 10,
+    "search": "Google",
+    "manufacturer": [],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "desc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

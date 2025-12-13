@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 15:52:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-GY3vjKJXCPsgo0zVGSHu3LiPzrY\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro63319",
+      "amount": 702,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-13T15:52:48.000Z",
+      "notes": "g0jnfcKAnOJJ1YeKBgb4PVp1byi2wBFISFuIkem6Mwyab7E4GVib3zWYAibey3PSJCCYE9KuykNBismh4rKnLKEYXtZLUiG19UYwwN99oYk4FQoL3TbUHnqNDyYfBN0PxolYwT6wnBJnWtJjt8fEMP7u7gKqfxxVijV7XGGSE1VcXH06iqWVMNUMFFhCWWR0vNvb5mf4kmvGz7874u6iuegaPQOvzHPMLzCESmUskTAUKuf4rKAO8FwOet",
+      "_id": "693d8bd01c508c5d5ec35be1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

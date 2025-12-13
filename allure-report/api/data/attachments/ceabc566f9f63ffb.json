@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 15:51:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "544",
+    "etag": "W/\"220-/Yhx3JGVuRGoIfusnZ3bQrmpxtM\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "693d8b621c508c5d5ec34997",
+      "email": "Vincenza.Harvey@gmail.com",
+      "name": "uKFKplXkDrdWygqICLZXQrwDuSpjJVzGXsNFEDqq",
+      "country": "France",
+      "city": "XSEg",
+      "street": "nD",
+      "house": 150,
+      "flat": 7,
+      "phone": "+1531441300",
+      "createdOn": "2025-12-13T15:50:58.000Z",
+      "notes": "9eGiTJwQXqukSEot0QUYMXkoK1enBLVZ6Cp9fuNhGLcRWuS1SPEPuO2h0ev0xkqCUZKlUkj2x8nTfMPRDoLpxZqC0AtkLyzLFNHZPUhL0tyHZPU5DcU7plBlMjG2ODyFe5QUbpCMBbUx3pbpo1eyuUBL0Re3n2ekPs9JBozKpjjDuuFRVPTbITVd974alNzNdWEhalncRdoZSDSQw1OnhipuyRr3bmVCzYbtZH5qoh"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

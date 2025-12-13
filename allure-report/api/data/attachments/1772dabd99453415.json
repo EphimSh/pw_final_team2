@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 15:51:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "388",
+    "etag": "W/\"184-inot8YiJ5I6dUhBXdVLFc7l8bII\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Abby.Kozey@gmail.com",
+      "name": "OwyEbidPiPjqVTtVApFynfGaTQpDVBtfrUznZe",
+      "country": "Belarus",
+      "city": "okGJl",
+      "street": "fZmv2JSv",
+      "house": 46,
+      "flat": 9,
+      "phone": "+9009953277",
+      "createdOn": "2025-12-13T15:51:04.000Z",
+      "notes": "00DXqGvLElAU3JJRY4hllCMhtzQbSXwToNyQ22IhWtcJg6GDAtWJTYuz7kPrJNlZZll0m08j0LDkEO",
+      "_id": "693d8b681c508c5d5ec34b22"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

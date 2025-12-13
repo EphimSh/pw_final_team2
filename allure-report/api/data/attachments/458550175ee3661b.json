@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 13 Dec 2025 15:53:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-O+cWilNro6c5uQvM2+22cV4ZzOk\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra92853",
+      "amount": 820,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-13T15:53:58.000Z",
+      "notes": "wThtrufQspvc6oIYupDQgX379iGxPYpMBELm5fXCjtYxWzsevlS4z6wGGnkViKyx6X6KVgsImJE5GJA3mecBp3mVwpzXsuagx7BdMtISI9LKyGER5Qmj2CDGiS9LjMbti5fndo4yWv1qWmX9DZNxctgqj3wwU4iX13MyAWXDxTYl46qy4B0VSMOKEedebER5UW2kReAgXlpCO5v9q4rCY4N723BswrpWFEEAKJaXR02LWU6QpoqpEEMPw4",
+      "_id": "693d8c161c508c5d5ec36db7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
