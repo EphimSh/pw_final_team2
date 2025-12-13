@@ -38,7 +38,6 @@ jobs:
 
       - name: Create Allure report
         if: always()
-        continue-on-error: true
         run: npm run allure-report
 
       - name: Save Allure report
@@ -50,8 +49,8 @@ jobs:
           path: ./allure-report
 
       - name: Deploy to GitHub Pages
+        id: deploy-report
         if: always()
-        continue-on-error: true
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
@@ -59,8 +58,7 @@ jobs:
           destination_dir: allure-report/api
 
       - name: Notify Telegram with Allure link
-        if: always()
-        continue-on-error: true
+        if: ${{ steps.deploy-report.outcome == 'success' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
