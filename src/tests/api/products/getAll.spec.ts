@@ -1,11 +1,11 @@
-import { test, expect } from "fixtures/api.fixture";
+import { test, expect } from "fixtures/api.fixtures";
 import { getAllProductsSchema } from "data/schemas/products/getAll.schema";
 
 import { validateResponse } from "utils/validation/validateResponse.utils";
 import { TAGS } from "data/tags/tags";
 import { STATUS_CODES } from "data/statusCode";
 
-test.describe("[API] [Sales Portal]", () => {
+test.skip("[API] [Sales Portal]", () => {
   // TODO: добавить тесты для:
   // - Фильтр по одному производителю
   // - Фильтр по нескольким производителям

@@ -15,10 +15,12 @@ test.describe("[API] [Sales Portal] [Products] [Create]", () => {
   test.beforeEach(async ({ loginApiService }) => {
     token = await loginApiService.loginAsAdmin();
     productData = generateProductData();
+    id = "";
   });
 
   test.afterEach(async ({ productsApiService }) => {
     if (id) await productsApiService.delete(token, id);
+    id = "";
   });
 
   test("SC-001: Успешное создание товара со всеми полями", async ({ productsApi }) => {
@@ -51,7 +53,7 @@ test.describe("[API] [Sales Portal] [Products] [Create]", () => {
   });
 
   test("SC-003: Отсутствует обязательное поле name", async ({ productsApi }) => {
-    productData.name = undefined;
+    productData.name = undefined!;
     const createdProduct = await productsApi.create(productData, token);
     validateResponse(createdProduct, {
       status: STATUS_CODES.BAD_REQUEST,

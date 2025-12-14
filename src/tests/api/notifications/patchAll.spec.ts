@@ -3,7 +3,7 @@ import { STATUS_CODES } from "data/statusCode";
 import { test } from "fixtures/api.fixtures";
 import { validateResponse } from "utils/validation/validateResponse.utils";
 
-test.describe.only("[API][Sales Portal][Notifications][Positive] Mark all notifications", () => {
+test.describe("[API][Sales Portal][Notifications][Positive] Mark all notifications", () => {
   let token = "";
 
   test.beforeEach(async ({ loginApiService }) => {

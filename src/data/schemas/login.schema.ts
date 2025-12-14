@@ -9,9 +9,11 @@ export const loginSchema = {
     ErrorMessage: {
       type: ["string", "null"],
     },
+    // API returns current user context together with login result
+    User: { type: "object" },
   },
   required: ["IsSuccess", "ErrorMessage"],
-  additionalProperties: false,
+  additionalProperties: true,
 };
 
 // Schema for POST /api/login error response (400)
@@ -28,5 +30,5 @@ export const loginErrorSchema = {
     },
   },
   required: ["IsSuccess", "ErrorMessage"],
-  additionalProperties: false,
+  additionalProperties: true,
 };

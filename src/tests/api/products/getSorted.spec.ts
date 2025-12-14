@@ -82,6 +82,7 @@ test.describe("[API] [Sales Portal] [Products] Get Sorted", () => {
           const response = await productsApi.getSorted(token, {
             sortField: caseData.sortField,
             sortOrder: caseData.sortOrder,
+            limit: caseData.expectedLimit,
           });
 
           validateResponse(response, {
@@ -97,6 +98,7 @@ test.describe("[API] [Sales Portal] [Products] Get Sorted", () => {
             response,
             caseData.sortField,
             caseData.sortOrder,
+            caseData.expectedLimit,
             createdProducts.length,
           );
         },

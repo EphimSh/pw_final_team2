@@ -1,14 +1,18 @@
-import { obligatoryRequredFields } from "../products/core.schema";
+import { obligatoryFieldsSchema, obligatoryRequredFields } from "../core.schema";
 import { customerSchema } from "./customer.schema";
 
 // Schema for GET /api/customers and GET /api/customers/all responses (200)
 export const getAllCustomersSchema = {
   type: "object",
   properties: {
-    customers: {
+    Customers: {
       type: "array",
       items: customerSchema,
     },
+    // API may attach current user info; allow it without failing validation
+    User: { type: "object" },
+    ...obligatoryFieldsSchema,
   },
-  required: [...obligatoryRequredFields],
+  required: ["Customers", ...obligatoryRequredFields],
+  additionalProperties: true,
 };

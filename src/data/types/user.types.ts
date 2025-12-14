@@ -3,8 +3,8 @@ export interface IUserInfo {
   username: string;
   firstName: string;
   lastName: string;
-  roles: ROLES[]; // Или enum, если есть фиксированные роли
-  createdOn: string; // Лучше ISO-строка
+  roles: ROLES[];
+  createdOn: string;
 }
 
 export enum ROLES {

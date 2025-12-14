@@ -12,24 +12,42 @@ export class PlaywrightApiClient extends BaseApiClient {
 
   async send<T extends object | null>(options: IRequestOptions): Promise<IResponse<T>> {
     return await test.step(`Request ${options.method.toUpperCase()} ${options.url}`, async (step) => {
-      try {
-        await this.attachRequest(options, step);
-        this.response = await this.requestContext.fetch(
-          options.baseURL + options.url,
-          _.omit(options, ["baseURL", "url"]),
-        );
-        const result = await this.transformResponse();
-        await this.attachResponse(options, result, step);
-        return result;
-      } catch (err) {
-        console.log("Error message: " + (err as Error).message);
-        console.log("Cause: " + JSON.stringify((err as Error).cause));
-        await step.attach("Error", {
-          body: String(err),
-          contentType: "text/plain",
-        });
-        throw err;
+      await this.attachRequest(options, step);
+
+      const maxAttempts = 5;
+      let lastErr: unknown;
+
+      for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+        try {
+          this.response = await this.requestContext.fetch(
+            options.baseURL + options.url,
+            _.omit(options, ["baseURL", "url"]),
+          );
+          const result = await this.transformResponse();
+          await this.attachResponse(options, result, step);
+          return result;
+        } catch (err) {
+          lastErr = err;
+          const message = (err as Error).message || "";
+          const retryable = /ECONNRESET|ETIMEDOUT|ECONNREFUSED/.test(message);
+
+          if (!retryable || attempt === maxAttempts) {
+            console.log("Error message: " + message);
+            console.log("Cause: " + JSON.stringify((err as Error).cause));
+            await step.attach("Error", {
+              body: String(err),
+              contentType: "text/plain",
+            });
+            throw err;
+          }
+
+          // backoff before retrying to smooth transient network glitches
+          await new Promise((resolve) => setTimeout(resolve, 1000 * attempt));
+        }
       }
+
+      // Should never reach here
+      throw lastErr as Error;
     });
   }
 

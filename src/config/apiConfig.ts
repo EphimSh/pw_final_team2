@@ -17,5 +17,10 @@ export const apiConfig = {
     notifications: "/api/notifications",
     notificationsAll: "/api/notifications/mark-all-read",
     notificationById: (id: string) => `/api/notifications/${id}/read`,
+    orders: "/api/orders",
+    ordersByCustomer: (id: string) => `/api/customers/${id}/orders`,
+    ordersDelivery: (id: string) => `/api/orders/${id}/delivery`,
+    orderStatus: (id: string) => `/api/orders/${id}/status`,
+    orderById: (id: string) => `/api/orders/${id}`,
   },
 };

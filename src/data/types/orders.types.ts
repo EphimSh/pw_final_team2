@@ -1,4 +1,4 @@
-import { sortDirection } from "./core.types";
+import { SortOrder } from "./core.types";
 import { ICustomerFromResponse } from "./customers.types";
 import { IProduct } from "./products.types";
 import { IUserInfo } from "./user.types";
@@ -96,7 +96,7 @@ export interface IOrdersResponse {
   search: string;
   status: ORDER_STATUSES[];
   total: number;
-  sorting: { sortField: OrdersSortField; sortOrder: sortDirection };
+  sorting: { sortField: OrdersSortField; sortOrder: SortOrder };
 }
 export type OrdersSortField = "createdOn" | "email" | "name" | "orderNumber" | "price" | "status" | "assignedManager";
 

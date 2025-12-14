@@ -1,7 +1,7 @@
 import { IApiClient } from "api/apiClients/types";
 import { apiConfig } from "config/apiConfig";
 import { IRequestOptions } from "data/types/core.types";
-import { IOrderCreateBody, IOrderResponse } from "data/types/orders.types";
+import { IDeliveryInfo, IOrderCreateBody, IOrderResponse, ORDER_STATUSES } from "data/types/orders.types";
 
 export class OrdersApi {
   constructor(private apiClient: IApiClient) {}
@@ -27,43 +27,59 @@ export class OrdersApi {
     }
   }
 
-  // ("POST /api/orders/{id}/comments")
-  async addComment(_id: string, token: string, comment: string) {
+  //("POST /api/customers/${id}/orders")
+  async updateDelivery(id: string, delivery: IDeliveryInfo, token: string) {
     const options: IRequestOptions = {
       baseURL: apiConfig.baseURL,
-      url: apiConfig.endpoints.orderComments(_id),
+      url: apiConfig.endpoints.ordersDelivery(id),
       method: "post",
+      data: delivery,
       headers: {
         "content-type": "application/json",
         Authorization: `Bearer ${token}`,
       },
-      data: JSON.stringify({ comment }),
     };
-
-    try {
-      return await this.apiClient.send<IOrderResponse>(options);
-    } catch (error) {
-      console.error(`Failed to add comment for order with ID: ${_id}:`, error);
-      throw error;
-    }
+    return await this.apiClient.send<IOrderResponse>(options);
   }
 
-  async deleteComment(token: string, orderID: string, commentID: string) {
+  // ("PUT /api/orders/{id}/status")
+  async updateStatus(data: { id: string; status: ORDER_STATUSES }, token: string) {
     const options: IRequestOptions = {
       baseURL: apiConfig.baseURL,
-      url: apiConfig.endpoints.orderCommentsById(orderID, commentID),
-      method: "delete",
+      url: apiConfig.endpoints.orderStatus(data.id),
+      method: "put",
+      data: { status: data.status },
       headers: {
         "content-type": "application/json",
         Authorization: `Bearer ${token}`,
       },
     };
+    return await this.apiClient.send<IOrderResponse>(options);
+  }
 
-    try {
-      return await this.apiClient.send<IOrderResponse>(options);
-    } catch (error) {
-      console.error(`Failed to delete comment with ID: ${commentID} for order with ID: ${orderID}:`, error);
-      throw error;
-    }
+  // ("GET /api/orders/{id}")
+  async getByID(id: string, token: string) {
+    const options: IRequestOptions = {
+      baseURL: apiConfig.baseURL,
+      url: apiConfig.endpoints.orderById(id),
+      method: "get",
+      headers: {
+        Authorization: `Bearer ${token}`,
+      },
+    };
+    return await this.apiClient.send<IOrderResponse>(options);
+  }
+
+  // ("DELETE /api/orders/{id}")
+  async delete(id: string, token: string) {
+    const options: IRequestOptions = {
+      baseURL: apiConfig.baseURL,
+      url: apiConfig.endpoints.orderById(id),
+      method: "delete",
+      headers: {
+        Authorization: `Bearer ${token}`,
+      },
+    };
+    return await this.apiClient.send<null>(options);
   }
 }

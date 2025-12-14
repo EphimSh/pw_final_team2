@@ -17,7 +17,7 @@ import {
 import { STATUS_CODES } from "data/statusCode";
 import { validateResponse } from "utils/validation/validateResponse.utils";
 import { IResponse, SortOrder } from "data/types/core.types";
-import { expect } from "fixtures";
+import { expect } from "@playwright/test";
 
 export class ProductsApiService {
   constructor(private productsApi: ProductsApi) {}
@@ -119,10 +119,11 @@ export class ProductsApiService {
     response: IResponse<IProductsSortedResponse>,
     sortField: ProductsSortField,
     sortOrder: SortOrder,
+    expectedLimit: number,
     minTotal = 1,
   ) {
     const { limit, manufacturer, total, page, sorting } = response.body;
-    expect.soft(limit, `Limit should be ${limit}`).toBe(10);
+    expect.soft(limit, `Limit should be ${expectedLimit}`).toBe(expectedLimit);
     expect.soft(manufacturer).toEqual([]);
     expect.soft(page).toBe(1);
     expect.soft(sorting).toEqual({ sortField, sortOrder });

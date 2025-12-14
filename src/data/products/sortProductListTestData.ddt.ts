@@ -16,6 +16,7 @@ export interface ISortProductsTestCase extends ICase {
   expectedIsSuccess: boolean;
   expectedErrorMessage: string | null;
   expectedSchema?: object;
+  expectedLimit: number;
 }
 
 export const sortProductListTestCases: ISortProductsTestCase[] = [
@@ -28,6 +29,7 @@ export const sortProductListTestCases: ISortProductsTestCase[] = [
     expectedIsSuccess: true,
     expectedErrorMessage: null,
     expectedSchema: getAllProductsSchema,
+    expectedLimit: 10,
   },
   {
     title: "SC-012: Сортировка по createdOn (desc)",
@@ -38,6 +40,7 @@ export const sortProductListTestCases: ISortProductsTestCase[] = [
     expectedIsSuccess: true,
     expectedErrorMessage: null,
     expectedSchema: getAllProductsSchema,
+    expectedLimit: 100,
   },
   {
     title: "SC-011: Сортировка по manufacturer (desc)",
@@ -48,5 +51,6 @@ export const sortProductListTestCases: ISortProductsTestCase[] = [
     expectedIsSuccess: true,
     expectedErrorMessage: null,
     expectedSchema: getAllProductsSchema,
+    expectedLimit: 50,
   },
 ];
