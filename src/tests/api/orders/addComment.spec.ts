@@ -2,7 +2,9 @@
 // import { generateProductData } from "data/products/generateProductData";
 // import { IResponse } from "data/types/core.types";
 // import { IOrder, IOrderResponse } from "data/types/orders.types";
-import { test } from "fixtures/api.fixtures";
+import { STATUS_CODES } from "data/statusCode";
+import { expect, test } from "fixtures/api.fixtures";
+import { validateResponse } from "utils/validation/validateResponse.utils";
 
 test.describe("[API] [Sales Portal] [Orders] [Add Comment]", () => {
   let token = "";
@@ -31,6 +33,15 @@ test.describe("[API] [Sales Portal] [Orders] [Add Comment]", () => {
     const orderID = "693b52994e61bcd793438b93";
 
     const comment = "My new comment";
-    await ordersApi.addComment(orderID, token, comment);
+    const response = await ordersApi.addComment(orderID, token, comment);
+
+    validateResponse(response, {
+      status: STATUS_CODES.OK,
+      IsSuccess: true,
+      ErrorMessage: null,
+    });
+
+    const orderComments = response.body.Order.comments;
+    expect(orderComments.find((c: { text: string }) => c.text === comment)).toBeTruthy();
   });
 });

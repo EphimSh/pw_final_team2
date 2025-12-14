@@ -1,4 +1,6 @@
+import { STATUS_CODES } from "data/statusCode";
 import { test } from "fixtures/api.fixtures";
+import { validateResponse } from "utils/validation/validateResponse.utils";
 
 test.describe("[API] [Sales Portal] [Orders] [Add Comment]", () => {
   let token = "";
@@ -28,20 +30,19 @@ test.describe("[API] [Sales Portal] [Orders] [Add Comment]", () => {
 
     const comment = "My new comment 4";
     const commentResponse = await ordersApi.addComment(orderID, token, comment);
-
-    const comments = await commentResponse.body.Order.comments;
-
-    //console.log(comments);
-
-    const correctComment = comments.find((c) => {
-      console.log("c.text => " + c.text);
-      console.log("comment => " + comment);
-      return c.text === comment;
-    });
-    console.log("correctComment" + correctComment);
+    const comments = commentResponse.body.Order.comments;
+    const correctComment = comments.find((c: { text: string }) => c.text === comment);
 
     const commentID = correctComment?._id;
 
-    await ordersApi.deleteComment(token, orderID, commentID!);
+    const response = await ordersApi.deleteComment(token, orderID, commentID!);
+    validateResponse(response, {
+      status: STATUS_CODES.DELETED,
+      //IsSuccess: true,
+      ErrorMessage: null,
+    });
+
+    //const orderComments = response.body.Order.comments;
+    //expect(orderComments.find((c: { text: string }) => c.text === comment)).toBeFalsy();
   });
 });
