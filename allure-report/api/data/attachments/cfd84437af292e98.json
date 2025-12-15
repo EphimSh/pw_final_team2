@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "303",
+    "etag": "W/\"12f-4HqPma5+Ds3YvYqxV9VzstKhkxQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Raymond_Hermann@gmail.com",
+      "name": "fH",
+      "country": "Belarus",
+      "city": "nsrj",
+      "street": "8WL8XQ9i547muSzUChDXQ1",
+      "house": 15,
+      "flat": 1,
+      "phone": "+8361497969",
+      "createdOn": "2025-12-15T11:53:43.000Z",
+      "notes": "pTidzLTldtT",
+      "_id": "693ff6c71c508c5d5ec96060"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2804",
+    "etag": "W/\"af4-D3AiCRBehAXck2YUDucIH7N2Uws\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "693ff6d01c508c5d5ec9641b",
+      "status": "Draft",
+      "customer": {
+        "_id": "693ff6d01c508c5d5ec963dd",
+        "email": "Gino_Mills97@gmail.com",
+        "name": "esvELPFYHOLNVfUVsjXgWAZxYSsmLRjijRXn",
+        "country": "Belarus",
+        "city": "kdxtVp",
+        "street": "WCmjQt3qKFX2Hwz0Y9oVW",
+        "house": 182,
+        "flat": 7,
+        "phone": "+0770376350",
+        "createdOn": "2025-12-15T11:53:52.000Z",
+        "notes": "a46RwD35wPwcQqYc8S7Lg8DOKNv3gqZQLV56DP4UYcSpVk8sTjgSVFwhB6t1tpG"
+      },
+      "products": [
+        {
+          "_id": "693ff6d01c508c5d5ec96403",
+          "name": "Soap89529",
+          "amount": 928,
+          "price": 37344,
+          "manufacturer": "Apple",
+          "notes": "fR4SnZfDQFjteucgkBC0jgob3LXhjuqqbmOBBaXcbCaL8kFwELo3ttXJPxdbZWuKJjq3Pw3GPEfbQSCvOjXtImDDUlFqLfahksFyuZc2rSpPP0PGqmz8BanuAVZE2al0s6tDskLyuGacOzbqtf4NsTV8EOf5NDH969c5Hrd9MQCtvmFv5FQ6aXwbqD2OX2izx9Q2FS69wyNytGtid4Z2I6FLJ6OcnKABNEixTEmbIN6rKocUjCuk9Jafba",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Russia",
+          "city": "Mock City HntZ",
+          "street": "MockStreet7YI4CL7nytuh",
+          "house": 31,
+          "flat": 13
+        },
+        "finalDate": "2025-12-20T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 37344,
+      "createdOn": "2025-12-15T11:53:52.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "693ff6d01c508c5d5ec963dd",
+          "products": [
+            {
+              "_id": "693ff6d01c508c5d5ec96403",
+              "name": "Soap89529",
+              "amount": 928,
+              "price": 37344,
+              "manufacturer": "Apple",
+              "notes": "fR4SnZfDQFjteucgkBC0jgob3LXhjuqqbmOBBaXcbCaL8kFwELo3ttXJPxdbZWuKJjq3Pw3GPEfbQSCvOjXtImDDUlFqLfahksFyuZc2rSpPP0PGqmz8BanuAVZE2al0s6tDskLyuGacOzbqtf4NsTV8EOf5NDH969c5Hrd9MQCtvmFv5FQ6aXwbqD2OX2izx9Q2FS69wyNytGtid4Z2I6FLJ6OcnKABNEixTEmbIN6rKocUjCuk9Jafba",
+              "received": false
+            }
+          ],
+          "total_price": 37344,
+          "delivery": {
+            "address": {
+              "country": "Russia",
+              "city": "Mock City HntZ",
+              "street": "MockStreet7YI4CL7nytuh",
+              "house": 31,
+              "flat": 13
+            },
+            "finalDate": "2025-12-20T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2025-12-15T11:53:53.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "693ff6d01c508c5d5ec963dd",
+          "products": [
+            {
+              "_id": "693ff6d01c508c5d5ec96403",
+              "name": "Soap89529",
+              "amount": 928,
+              "price": 37344,
+              "manufacturer": "Apple",
+              "notes": "fR4SnZfDQFjteucgkBC0jgob3LXhjuqqbmOBBaXcbCaL8kFwELo3ttXJPxdbZWuKJjq3Pw3GPEfbQSCvOjXtImDDUlFqLfahksFyuZc2rSpPP0PGqmz8BanuAVZE2al0s6tDskLyuGacOzbqtf4NsTV8EOf5NDH969c5Hrd9MQCtvmFv5FQ6aXwbqD2OX2izx9Q2FS69wyNytGtid4Z2I6FLJ6OcnKABNEixTEmbIN6rKocUjCuk9Jafba",
+              "received": false
+            }
+          ],
+          "total_price": 37344,
+          "delivery": null,
+          "changedOn": "2025-12-15T11:53:52.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

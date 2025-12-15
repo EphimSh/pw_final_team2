@@ -1,0 +1,89 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1783",
+    "etag": "W/\"6f7-EpMGXlhyK7B6a28iPZ0spDbrHAg\"",
+    "keep-alive": "timeout=5, max=72",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "693ff6c91c508c5d5ec9611c",
+      "status": "Draft",
+      "customer": {
+        "_id": "693ff6c81c508c5d5ec960b8",
+        "email": "Alysha78@yahoo.com",
+        "name": "tEggFYMXXEInsswGfxMwVPW",
+        "country": "Great Britain",
+        "city": "QZNIkAoVvwbsfQJmwQ",
+        "street": "BTz4mH1FWGVKf",
+        "house": 108,
+        "flat": 5,
+        "phone": "+9192382572",
+        "createdOn": "2025-12-15T11:53:44.000Z",
+        "notes": "xiPXlSBYgNpnzWmBEiyY8XpjeVkzGsAv9exN"
+      },
+      "products": [
+        {
+          "_id": "693ff6c81c508c5d5ec960f7",
+          "name": "Pants16579",
+          "amount": 880,
+          "price": 77781,
+          "manufacturer": "Xiaomi",
+          "notes": "5NbAkKulqj4KYXa1pRiCdeuKnBT5HVFwYIZtcRHOZ7Qsd4CghLPrdK4ZOtB7Ia5Apmjf4qlGhsb1RrPpkvJw9biWYrUJlgnVZWnmlrQO8FxsDvdmnm9iG5a5zjwoV7BOojyO4yuqNsbaURTKjN8lGeZpjkeShaQx4PKTLpoegbAgsfrcWM7zyeiSHYX4HL1QsfLUYgKwJ7QqrGsrhd40y92M10SrFRuLK9aZC8yyiKsZGeAZSmvtGq0gfs",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 77781,
+      "createdOn": "2025-12-15T11:53:45.000Z",
+      "comments": [
+        {
+          "text": "hh96caqPQvaqzH1s",
+          "createdOn": "2025-12-15T11:53:45.000Z",
+          "_id": "693ff6c91c508c5d5ec96142"
+        }
+      ],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "693ff6c81c508c5d5ec960b8",
+          "products": [
+            {
+              "_id": "693ff6c81c508c5d5ec960f7",
+              "name": "Pants16579",
+              "amount": 880,
+              "price": 77781,
+              "manufacturer": "Xiaomi",
+              "notes": "5NbAkKulqj4KYXa1pRiCdeuKnBT5HVFwYIZtcRHOZ7Qsd4CghLPrdK4ZOtB7Ia5Apmjf4qlGhsb1RrPpkvJw9biWYrUJlgnVZWnmlrQO8FxsDvdmnm9iG5a5zjwoV7BOojyO4yuqNsbaURTKjN8lGeZpjkeShaQx4PKTLpoegbAgsfrcWM7zyeiSHYX4HL1QsfLUYgKwJ7QqrGsrhd40y92M10SrFRuLK9aZC8yyiKsZGeAZSmvtGq0gfs",
+              "received": false
+            }
+          ],
+          "total_price": 77781,
+          "delivery": null,
+          "changedOn": "2025-12-15T11:53:45.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

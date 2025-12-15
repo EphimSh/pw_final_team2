@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "519",
+    "etag": "W/\"207-SEMV9a8YaGVVkiSHKJo8lQzZG+8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Anika.Herzog50@gmail.com",
+      "name": "wGA",
+      "country": "Great Britain",
+      "city": "ZCPhVOWYvMyaVbwkzoG",
+      "street": "TWsYEucbKkaCGCsb",
+      "house": 192,
+      "flat": 4,
+      "phone": "+4372726520",
+      "createdOn": "2025-12-15T11:53:37.000Z",
+      "notes": "pISxUdIcomS9LGnes8b73KChkSW9gxDb4YMWNZhnsC525ZKlc9sQ5PiHL6P2mxoJNq2LalthXWzo1WfvbOUVQ3CuTHQbCDyEo2fYWlqVSRyuVgrluqJ2whLNOMHfuwXZ2FKOi4wh5YMgtKY8Jt5U0rQDkxVsXqhT77HrZmQzpxMZ7HnipaAwGdBlYWrdAxeVSHUVl4eGQfDF6yFYm2z",
+      "_id": "693ff6c11c508c5d5ec95ea8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

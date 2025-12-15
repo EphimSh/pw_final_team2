@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "359",
+    "etag": "W/\"167-p7NQj7hXIclz8/uOzvtxqT2XnJc\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "conflict@example.com",
+      "name": "SMLMiSCEcEWrTRgFhWDKwsGEzTjfSWWCJ",
+      "country": "Great Britain",
+      "city": "xvXCVpCmojqzONdnI",
+      "street": "3W",
+      "house": 84,
+      "flat": 5,
+      "phone": "+7009047370",
+      "createdOn": "2025-12-15T11:53:40.000Z",
+      "notes": "WT8uxE932pMx09GEPXg5FMZdHyjQCAXZppJn0J8qea",
+      "_id": "693ff6c41c508c5d5ec95f40"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

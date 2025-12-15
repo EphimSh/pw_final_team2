@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-nlBrZc8TL1uoI0rux3u2eI1ozJ0\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike9052",
+      "amount": 412,
+      "price": 1,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-12-15T11:53:56.000Z",
+      "notes": "qFP7dDMXluamGWzHHwa0tcd8A8BuHML6zJfVZq4dQ3s2QMVfCTTZ7hU8Xzs20Sxk708bqBRmIfjaPRrd2iyaSjuJQnTBuBhKgFWngQzAMT0C1ppUhQhktimhujfRefSZWXkeJVvmHeQdcMBwFm21p3E83lltqMip1qTCbpEtL61v2hP3q7LEywJKFQhM348Rdl0z1PSjUcfxBwWINLkgbGKbxOtCSjB3rCksZWPW3E9W2rillxbgZDibuX",
+      "_id": "693ff6d41c508c5d5ec96560"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

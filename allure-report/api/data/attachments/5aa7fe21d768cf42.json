@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2864",
+    "etag": "W/\"b30-0YO2qi3cBgz0N6EoP6joq1RMfUc\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "693ff6ca1c508c5d5ec961fa",
+      "status": "Draft",
+      "customer": {
+        "_id": "693ff6ca1c508c5d5ec96194",
+        "email": "Jarvis85@gmail.com",
+        "name": "aVlExRobjZborQuRvHNsAzmGTNqcJHSioXnnWLv",
+        "country": "USA",
+        "city": "bmrOgICOBf",
+        "street": "8mb7lahEDgpInnQWpRpsvz2",
+        "house": 165,
+        "flat": 8,
+        "phone": "+6990105089",
+        "createdOn": "2025-12-15T11:53:46.000Z",
+        "notes": "ELOvNKLuAVUwro61sICQJDW2iHYZtrJFqSwCL3rPZ5JaN7MMUQ8EKQ5qfeHxMuDTrFWFyG"
+      },
+      "products": [
+        {
+          "_id": "693ff6ca1c508c5d5ec961d9",
+          "name": "Keyboard87238",
+          "amount": 244,
+          "price": 37241,
+          "manufacturer": "Microsoft",
+          "notes": "NR3l5h8guBoxZqOvcrPYAPCwp1XNQNgA8R5jBAk85KX4bFnZT5zQao5G0nh1jkI9zem3fZ2jYtlRJS0L7bWwSGhap9ohnXJ01klICqTmBscgHJFU6rXbJ7pxvOaK7n7MWovNpeumJYL5m5xo9CI6tiVpfN9vV0NKn7hXkTbjN3btIa5dUoOqC09OpLZUmUV88vrlgHJ7h2kp6iQxeJtQE9P92DRNXQRYvwipySD6m8UWqzDuVckWe511e9",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Great Britain",
+          "city": "Mock City FQPjsK",
+          "street": "MockStreetbvuomxCYbiy4hdSuAm",
+          "house": 95,
+          "flat": 2
+        },
+        "finalDate": "2025-12-20T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 37241,
+      "createdOn": "2025-12-15T11:53:46.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "693ff6ca1c508c5d5ec96194",
+          "products": [
+            {
+              "_id": "693ff6ca1c508c5d5ec961d9",
+              "name": "Keyboard87238",
+              "amount": 244,
+              "price": 37241,
+              "manufacturer": "Microsoft",
+              "notes": "NR3l5h8guBoxZqOvcrPYAPCwp1XNQNgA8R5jBAk85KX4bFnZT5zQao5G0nh1jkI9zem3fZ2jYtlRJS0L7bWwSGhap9ohnXJ01klICqTmBscgHJFU6rXbJ7pxvOaK7n7MWovNpeumJYL5m5xo9CI6tiVpfN9vV0NKn7hXkTbjN3btIa5dUoOqC09OpLZUmUV88vrlgHJ7h2kp6iQxeJtQE9P92DRNXQRYvwipySD6m8UWqzDuVckWe511e9",
+              "received": false
+            }
+          ],
+          "total_price": 37241,
+          "delivery": {
+            "address": {
+              "country": "Great Britain",
+              "city": "Mock City FQPjsK",
+              "street": "MockStreetbvuomxCYbiy4hdSuAm",
+              "house": 95,
+              "flat": 2
+            },
+            "finalDate": "2025-12-20T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2025-12-15T11:53:47.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "693ff6ca1c508c5d5ec96194",
+          "products": [
+            {
+              "_id": "693ff6ca1c508c5d5ec961d9",
+              "name": "Keyboard87238",
+              "amount": 244,
+              "price": 37241,
+              "manufacturer": "Microsoft",
+              "notes": "NR3l5h8guBoxZqOvcrPYAPCwp1XNQNgA8R5jBAk85KX4bFnZT5zQao5G0nh1jkI9zem3fZ2jYtlRJS0L7bWwSGhap9ohnXJ01klICqTmBscgHJFU6rXbJ7pxvOaK7n7MWovNpeumJYL5m5xo9CI6tiVpfN9vV0NKn7hXkTbjN3btIa5dUoOqC09OpLZUmUV88vrlgHJ7h2kp6iQxeJtQE9P92DRNXQRYvwipySD6m8UWqzDuVckWe511e9",
+              "received": false
+            }
+          ],
+          "total_price": 37241,
+          "delivery": null,
+          "changedOn": "2025-12-15T11:53:46.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

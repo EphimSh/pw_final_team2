@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "567",
+    "etag": "W/\"237-Lur4fLaBQ/Y0IdQuO/jG8kEMT8s\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Lucile_Boehm29@hotmail.com",
+      "name": "gfiVIydAhbXuxtQofdqTnTHWF",
+      "country": "Russia",
+      "city": "ddUEpgSfWHGfPEkSyX",
+      "street": "sBhAdOFZf",
+      "house": 125,
+      "flat": 6,
+      "phone": "+3376087103",
+      "createdOn": "2025-12-15T11:53:37.000Z",
+      "notes": "1DzcZv4oPJhfXR52vd3t1YbsTGT69vUOcFDJZMIyj4ir1cCKkFmkVfngEJyEzdruNsDmPVKl90eLqopTECXQ6hbLDvHbKr3fvFQ8tKbDawU4cfRAKOqwUJianXltfnWWo8Ie8Df6rUJkTY7WaPXL8JGHTzVIuIk6r0IoeUUC9jzMDMlguwFmOFUUpD6F3p3F9vkbMORPvxNBfuMfVkedi21pKZPAkKFzRUvNsFoK6Kr1EyEOoqSDBbqZVU",
+      "_id": "693ff6c11c508c5d5ec95ea5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

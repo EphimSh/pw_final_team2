@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:54:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-HTO/fD5vyixAdNMsjML88YIAuQk\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "693ff6e41c508c5d5ec9688b",
+      "name": "Hat17655",
+      "amount": 514,
+      "price": 10000,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-15T11:54:12.000Z",
+      "notes": "zh5Pgwz29zficfkUlIgIubi3nNkWiRT5tFXa2I6N2EdDOxo2OOBnm5S8a9naGKelPsCudpcLCZj6pHy7CwtrrNs75u1VpJa420D9fbImzep8ijWi8UQ3ybucgszR0xkPZjIwOQYvGbMlI2DvyhicAkWwaqTPX635wisFjF3ccCvaO6klvEv8j7HdGZye1NpwnncDsy13ZgOxZGHXUk6BMtuq4qZexcXmiiIFdsdGW1DTAnMejWe8gbbhVs"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

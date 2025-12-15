@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:54:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-2F9gaUKPHt4ac7vnJF9chUBVgD4\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X15002",
+      "amount": 425,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-15T11:54:04.000Z",
+      "notes": "8RfKXIQk8ObgxiR0JnxI6PHxdRiSmt9zkt1gIkpWcW4R9oObOftw1froeTVAL4p7GXyBkVgAVolu6tENFlnRtah4x8c904jotpcaIf42oM1tlkUu4pDrkggZLC11qZ3dewtFBjvFiSmQH65vp7qHDvJwSxcktwdBHDN5ntDV3OOKjFSQPOpMPCXTjkXbENcGTgifK0S6LksJpMXMmRC3PL5RZTripODAQ4yRvHIebD5EIxop8URv7RMqms",
+      "_id": "693ff6dc1c508c5d5ec966c7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

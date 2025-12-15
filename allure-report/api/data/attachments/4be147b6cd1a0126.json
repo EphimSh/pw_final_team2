@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:54:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-rGV/ZxS7IRFzqLmeJ+RhTBDrR3c\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra55075",
+      "amount": 403,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-15T11:54:06.000Z",
+      "notes": "Wme7dQfCDKTl1b7ZXkeNObYULKWddNwUMfygINN2wHaWyMGBSLZna2zq5mfd7FU7DHqsmFS40Egeoyq4jvpkCcpnDKWfyoCyxEuUNhxKPnXtFqbJDmqg7VMAOZJplTEnzQbLlExrN0P6FDLc4coguGEkJSVtOnf33Y4zgN0pndTTaSe3tREZ4oCgHYNptlzlnX0s11igPpo0ZqkKIVy8WYvcXReYfjR4BeNhZbZtmo9xR65wPy08JwS0jG",
+      "_id": "693ff6de1c508c5d5ec9673b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-/zHCSuJxGcNJFLIZztG+EotQSW4\"",
+    "keep-alive": "timeout=5, max=79",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat63891",
+      "amount": 789,
+      "price": 62938,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-12-15T11:53:47.000Z",
+      "notes": "9tCOW3vXZ5nIUdjibGZ7ZbfXEHisG87o1mOwnS8zRyI612NAMOYE6rX5ZJCuVTWE3Z6ld2zeu7iynjaiRKBQuB7dV8W94GQRQU8tvlxK4zfmX5gebADGhSKDu9GzTTOJX0y8nzPvTEtZtal05ZbnbWhBP6uwGmBNV9j89SDC0iNXVx6uYgtNvxqZJmy6w8xt1sa1eVfZmjN9rXthIgHbtkqRaKnvgPwBQeiDMgIWsJXJKdaT3FYUrTi57o",
+      "_id": "693ff6cb1c508c5d5ec96252"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

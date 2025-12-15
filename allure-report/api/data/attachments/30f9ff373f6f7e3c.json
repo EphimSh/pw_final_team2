@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-gkK7CMahgNYILk6fpkLXnW09Kek\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat36644",
+      "amount": 865,
+      "price": 40159,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-15T11:53:41.000Z",
+      "notes": "KXwwt0CA7xeshHoqVKPGrr50qkOspuopfeOAIF1woDbMj6j4ivZKhBkD4icsHJeJqiRU3jRY6eLSP58tK5F7JBmlizM85cogfX4u64xn6K9t1sXjlxnal16f0UUASMNKpqlZvYVGr17QfmtavPoOEDmTHaD0Dz7h59Y52g3CBujseArgtG2rubXNH0IezHaexOSYN88z3Gfbr4qsGqwnbGTUZ23Kj57YeBFawvxhyziakUmdGPGJ3B2hUl",
+      "_id": "693ff6c51c508c5d5ec95f83"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

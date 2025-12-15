@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:54:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-t+u9CVmclva/Gq3jHp6vQ0LXoNk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car71196",
+      "amount": 607,
+      "price": 57216,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-15T11:54:01.000Z",
+      "notes": "OLZgfQJyHF1y6OegNi9CxaByEU1QepIhjmTji2O6to6thdAsDHrYzoUuvQ3xEKkEsd6eudNoOdMu47t6yJFIKI5I8leMzP7wXAJiDsw3UsippTmLFR4PRAFYHOThXAAw7siR36lIfF7yAsdyqenHd6mv6TInzf0B3kV4Sp5oJvWX8k2PoBstObWswmw4DXDz0qik2klGT9HKFM8PqVHqsNNxz7r3d0ct8c6cYlpuNi4RJBYXSHNiNlD0P9",
+      "_id": "693ff6d91c508c5d5ec96640"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

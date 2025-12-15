@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-pLv/GbifIH+S1M4qK1VTfhTvwZM\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike90320",
+      "amount": 808,
+      "price": 96577,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-12-15T11:53:53.000Z",
+      "notes": "ZiqsBLQfosJ4jUVQoU33x9dePTNdD4qE5JJUkR70CbR5Wkt1Mc426ibxKEA5DOpLqAp1e3KToYd7XBNt3MEx1cwnMPYcyqgu45h15HVnLcIrX1rIEgNNhGmFs33QyghoiIZDPrOm8EakkRnHsNzaqbIP64nF2lI7teiLhhzVtCwOwhV1ZdhIHtECxhyejAvRKkJ4kcnTEl8KLVTJMCmvY5mPburKfGVBpeyNqU1R0A6fUBaChUYNpTLBLw",
+      "_id": "693ff6d11c508c5d5ec96427"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

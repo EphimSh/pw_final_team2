@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-OEBuBOdFl9WSXwHZXYxawNqaLRI\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat74744",
+      "amount": 232,
+      "price": 99999,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-15T11:53:56.000Z",
+      "notes": "ZjyrBK5JB7s1aeujfNiZotzkfNGBA0c6tHTZMFpSCXmsBJfopjOXzlgvouD6uikRf88vdXfniroTgf7MGsd0v5clpgzo7fkXknLqH3EudDt0y38aJcFJc4uZxjIFPxGoxfrss5PKR8Vjq7k1N1fuU67fpPS7uihLpGmYHEX8LsKFicZE41dT9gQXfUTntOVOw6snlVJpoIdG1zicpBFLmN0b9m1IWJk5dmQRZUCokwdt9slLTg65aN33gD",
+      "_id": "693ff6d41c508c5d5ec9656c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

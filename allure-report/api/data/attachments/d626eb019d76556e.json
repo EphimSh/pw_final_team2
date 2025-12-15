@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "420",
+    "etag": "W/\"1a4-IoDrwECJvifNUTYV6k6K7wUUR3w\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "693ff6c21c508c5d5ec95ee3",
+      "email": "Janet.Fritsch24@hotmail.com",
+      "name": "zkXkyinySCOoSSq",
+      "country": "Canada",
+      "city": "OrqzpUG",
+      "street": "P3A5inRz5",
+      "house": 8,
+      "flat": 4,
+      "phone": "+4394121394",
+      "createdOn": "2025-12-15T11:53:38.000Z",
+      "notes": "2PTCBpUIIV7HXVxixl0CLrKV1vnyN81FU0Fzs0ZQXwtTn3xuc7nXRjINGhAFWjgEPdfhB49ULPMuHYcSxbuHEmjNaOEaQlPDQi518knVwR632d7bK53rQyJICDtqJ"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

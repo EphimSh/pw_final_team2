@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-P+IbkWgOEz3gHZoWgcsXZoEvvgc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Candelario46@hotmail.com",
+      "name": "IFTkJPcGUDhixZgBjghCkoNFwprJky",
+      "country": "Great Britain",
+      "city": "bSlbCNXApMOVArHQozx",
+      "street": "y6S7Oouhi5glPABhQCHC3gse3",
+      "house": 85,
+      "flat": 2,
+      "phone": "+6433302901",
+      "createdOn": "2025-12-15T11:53:50.000Z",
+      "notes": "Q8AQb9lHE7qIY54EsNIzPXn6x9wYm2lQHlO0kAmq8pBxWTV3PPgpbDT9MAlKnIVKzAatuBAMQJPRFt3FqjgxTALfGwZlwCiysJu8FH71U09NS",
+      "_id": "693ff6ce1c508c5d5ec96335"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

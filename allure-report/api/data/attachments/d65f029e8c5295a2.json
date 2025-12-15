@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "390",
+    "etag": "W/\"186-LDyVsL4mjpuy/FXRu8UdxiO9tPQ\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jannie98@hotmail.com",
+      "name": "SnglwNGeMotPckTytRyPL",
+      "country": "France",
+      "city": "mMV",
+      "street": "rKBZINaUMiG1JsGAQ4lRD7j",
+      "house": 59,
+      "flat": 6,
+      "phone": "+5829890611",
+      "createdOn": "2025-12-15T11:53:47.000Z",
+      "notes": "wBcDzmibigUBWXiGYrFAjs5UxC9GZV4C2mnDYuSd0utZsjxYPbBeGbOZ78ApOd3gf2494gPuUvzkCHmEvUrll",
+      "_id": "693ff6cb1c508c5d5ec96271"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

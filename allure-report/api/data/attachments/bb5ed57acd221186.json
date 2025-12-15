@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "409",
+    "etag": "W/\"199-bdrz4q7VZCrCSRMVQKTegEr1EPo\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Adolf.Spinka1@gmail.com",
+      "name": "bblktFMiGfmbqLpzDvLAUeiWKzVwrhu",
+      "country": "Canada",
+      "city": "lFqsGxvHbqGbReGgWMGl",
+      "street": "834EOsHdlRY3Sw3bCAKR50UlMYsYmyyv9x",
+      "house": 189,
+      "flat": 2,
+      "phone": "+7203009187",
+      "createdOn": "2025-12-15T11:53:46.000Z",
+      "notes": "qc41Xt4PPgFmPKqD7WftuyDITIVBqpogE4rr4Zsyu3Q17TuaY8QkFHbqVXPlkG",
+      "_id": "693ff6ca1c508c5d5ec96200"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

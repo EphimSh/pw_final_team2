@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:54:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-hGh/CtGG2vyKXhcUTW0VpTYNlM0\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro81657",
+      "amount": 916,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-15T11:54:05.000Z",
+      "notes": "CbH9jpO5r8JBmV6YYSuAH8lAhLiq8mcDPz61VMmpQod1eN4iswQDwMr0luh09oHjNYpOaELw6tTbzYE4zPrgYDdgmFmsH0D6vOSZkdjerQX70DTfK3vR5Al0S1Q5Z20hbMUKxYE9kaEP0gWamPZg26LIHqX1sKcqV9QD4Pva9KcLIXZDSuHo0YmKeFOWLlozZIVZSjC8P14aBVdzFWYDQZ2Au5JMQvd0plxwUfBCswcbA6GYcqeLp7vOQ3",
+      "_id": "693ff6dd1c508c5d5ec96720"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

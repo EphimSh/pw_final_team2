@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:54:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "575",
+    "etag": "W/\"23f-rgnblRQl6t7KNQMo4woJuFbqYxo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "693ff6df1c508c5d5ec96772",
+        "name": "Bike64963",
+        "amount": 153,
+        "price": 93821,
+        "manufacturer": "Tesla",
+        "createdOn": "2025-12-15T11:54:07.000Z",
+        "notes": "3RLsHWY0AlfpYduZSzeYFR8STkVdP7aY1Js6xYw7oMEnIamrai1ameOr5OtCKEee3LJJJtcVCfD6nEsD9XRgJeq9bRzsEgGMhrRW4l6Pe4phqH5RXPQkLH8E2TyETTeWrhfRnKaszuiYqmgJqRVmN6AVPYb3fg6zUCbybk2bYA2JkVgbOvRBKeTCrB6DV0rSulcA1MEONGU8sPOJIuKDIPn6CDPhgMPherA83VM7vHBkGdVilRrr2t19xa"
+      }
+    ],
+    "total": 1,
+    "page": 1,
+    "limit": 10,
+    "search": "93821",
+    "manufacturer": [],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "desc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

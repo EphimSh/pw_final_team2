@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-zRcyI4EicdTHViN1bSDMo2PM1z4\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish51807",
+      "amount": 539,
+      "price": 46130,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-12-15T11:53:48.000Z",
+      "notes": "sfRwMLgOfUNBEoC4vDNVSC6xTM3hZ0xtOEUrPVU8opSJxsWUcTpdaOPbmbF51hNHrl7cOHTPuOq37pEDwPeEduwXGiU06WtPF1NfihZgUbZCzUpRCRGokPhydDJpZWjJjxj9hupcEQzzVC8dA5ZtuGOTErKwvgDMCZokhwvND1WRqr51VvCEmk0PJAmXVSkeVziE3lTqtGqFfDLOzSJl8w6Gy4zZeARyT6kjt4juMHjt6ksYsQh8bVvCeq",
+      "_id": "693ff6cc1c508c5d5ec962af"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

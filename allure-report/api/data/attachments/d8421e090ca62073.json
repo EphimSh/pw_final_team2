@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "348",
+    "etag": "W/\"15c-xMQt480hqqZ7Aicj3NASybcWdCo\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Eve38@hotmail.com",
+      "name": "kzyCYbUgNkngujKYCPwAEOtdULWSuIaNvwkHQfI",
+      "country": "France",
+      "city": "DXPSsFUwqCDV",
+      "street": "90jxEdPj22Qagi0Fzj2SMwPczZ7ZU2S",
+      "house": 187,
+      "flat": 3,
+      "phone": "+3870542576",
+      "createdOn": "2025-12-15T11:53:37.000Z",
+      "notes": "KUjsyanG4t",
+      "_id": "693ff6c11c508c5d5ec95ea2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

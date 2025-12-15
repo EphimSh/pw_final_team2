@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "487",
+    "etag": "W/\"1e7-wKsBZk01MOEjmysO7EYHbPPqR5E\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Emilie.Brakus33@yahoo.com",
+      "name": "gHltSsbQhuSYfKCmeKRTXNcYXhzVIFmksYqHMy",
+      "country": "Ukraine",
+      "city": "TCSZGV",
+      "street": "5MQl1LQq5S5HBvpgBhcdZBtTnWYfRWyLX",
+      "house": 192,
+      "flat": 5,
+      "phone": "+7472241678",
+      "createdOn": "2025-12-15T11:53:40.000Z",
+      "notes": "04XYLPmtDAkKnYEbnzQilgHOOW1vihjT4IWhz4wXUha9DdR76TffuIysnPJQRXNqqqafQvUIVLm9r5YT5rLOulkTFuMnj8EgOBRE5YeJ9RygTk0GoIdnAWk6soXMCASNcN1XO5cjpPxSTHnAK",
+      "_id": "693ff6c41c508c5d5ec95f64"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

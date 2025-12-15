@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "379",
+    "etag": "W/\"17b-aHlYs1src8BGOE9/iuNp4ZK/31o\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Lance.Gulgowski@gmail.com",
+      "name": "gbFwctDE",
+      "country": "Russia",
+      "city": "TkGhDasMDMZjJ",
+      "street": "aF2PPSWc0Bi0iFYo5v9SSdJ10lgHi1JE9M",
+      "house": 80,
+      "flat": 1,
+      "phone": "+8984786433",
+      "createdOn": "2025-12-15T11:53:49.000Z",
+      "notes": "r9EPmuBlRVyPJnNdIrfgvINErSJGvsOUFpvMkXINUzVCLszb0KJMjxRkclzCT",
+      "_id": "693ff6cd1c508c5d5ec9630a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "464",
+    "etag": "W/\"1d0-6yg3AzFAYm4DimC6u6UiWWBfa8o\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Haylee50@yahoo.com",
+      "name": "dFAFXMNxRgFKmmuWQRaGzVWnUttBUuA",
+      "country": "Ukraine",
+      "city": "aAbBaceS",
+      "street": "hnDlqgVlAf",
+      "house": 164,
+      "flat": 1,
+      "phone": "+0672141744",
+      "createdOn": "2025-12-15T11:53:36.000Z",
+      "notes": "9radW6w82cuFfhZnwNMhStJmAtD20VJ6Exizs6yrdYorXnUxuGZY4ub20F78Anzj374fA2Os1w9NKiGoRijmr5uRj3NcZROCA1y6jdPYOdwDBSXLHbCFp7yrE7tkTwupqUcybIn5Us9UtLE1HNCs8cAE9pThH",
+      "_id": "693ff6c01c508c5d5ec95e54"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

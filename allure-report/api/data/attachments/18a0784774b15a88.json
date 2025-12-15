@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:54:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "474",
+    "etag": "W/\"1da-HjC9s/sGntry8OuyEP1FWDhf+vs\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Microsoft Surface Duo 329928",
+      "amount": 675,
+      "price": 2200,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-12-15T11:54:07.000Z",
+      "notes": "NB6Rnt0jspIToqkAThXUv5hSLVFhXAK5BOFpH54WJKlPIXe4sgzDIjxsNwpdW7aXQ0SdHiNbK0EBrHNFZpoq7oxFJG0VnfU4ATW1msN1ymDeKnN9o0QVlALf3clAijzB0iKYQfeJBxkyl624LKctbXk1LHqqFEepzcfxjiLVL7za711gTxnexTvzx2moajN7VxVnSDRt6deyI14VOtUNGsfatDX3KX3S2iCFPxiA5M3oJgXHppHrJ3kPn3",
+      "_id": "693ff6df1c508c5d5ec96768"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

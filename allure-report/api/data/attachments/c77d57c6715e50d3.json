@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "396",
+    "etag": "W/\"18c-Q5fr9LE+dqebvuksVeQbo6CGNCQ\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jarvis85@gmail.com",
+      "name": "aVlExRobjZborQuRvHNsAzmGTNqcJHSioXnnWLv",
+      "country": "USA",
+      "city": "bmrOgICOBf",
+      "street": "8mb7lahEDgpInnQWpRpsvz2",
+      "house": 165,
+      "flat": 8,
+      "phone": "+6990105089",
+      "createdOn": "2025-12-15T11:53:46.000Z",
+      "notes": "ELOvNKLuAVUwro61sICQJDW2iHYZtrJFqSwCL3rPZ5JaN7MMUQ8EKQ5qfeHxMuDTrFWFyG",
+      "_id": "693ff6ca1c508c5d5ec96194"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

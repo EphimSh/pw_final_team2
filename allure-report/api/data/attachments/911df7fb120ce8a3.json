@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:54:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-9w5XFHkAomfVyybM/kr+fw/DjkQ\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table55068",
+      "amount": 662,
+      "price": 76677,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-15T11:54:11.000Z",
+      "notes": "4v8Z72Jifz36lYTmPYbrOWfSzae2hmPGsQnk76i5nGHdY0u6L9cp8XMwFFP1Uiyq8k1qS2jV4J57v0x58FM03gQFxrbJ6TvRGfbN7fDT2F3Wbkco9ReFBtAEGyucBk6ujxrRDLHt7EzEAl27RCr4w5lFkNuYO7pxQ7pDkoyYLCxzRESc0H3XzLsUk2lt4KzXEoegiAczsLRS85jg3NotAQfHbGQtNgnuZpmlqtHQ3Fbvp2IB5GaVmjohlQ",
+      "_id": "693ff6e31c508c5d5ec96871"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

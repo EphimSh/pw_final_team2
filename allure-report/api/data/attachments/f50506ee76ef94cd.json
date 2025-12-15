@@ -1,0 +1,101 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2583",
+    "etag": "W/\"a17-A/f8j7iKdO/JkpDcJlIuDF4qztM\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "693ff6d01c508c5d5ec963f6",
+        "email": "Cara.Barrows@yahoo.com",
+        "name": "rHMAtzwBIdnFDTRitSYkRy",
+        "country": "France",
+        "city": "GWgDMJf",
+        "street": "sFEIrEXlV1rS1pmVw1JlsphSCPf6o",
+        "house": 115,
+        "flat": 9,
+        "phone": "+0750144764",
+        "createdOn": "2025-12-15T11:53:52.000Z",
+        "notes": "BjU59bTTvYkf0ntWtppKQlHo7OvHHnCUBI6CYWaVc9PLvQsUXX8X4ZtmVGbu9QCouJYYwrQNnwEvAMrPtRNbmEfKEPylZ0hFanDRa4J6yMDawhJggQMDNQZoQh0u05hoBLcPOomYN7fS4njXHuyYddmNNWcCesl3ZeOL"
+      },
+      "products": [
+        {
+          "_id": "693ff6d11c508c5d5ec96424",
+          "name": "Table50339",
+          "amount": 431,
+          "price": 54019,
+          "manufacturer": "Google",
+          "notes": "CkdR4WAlgvIRhfE3L80B8vJWYMJYXPdDIZjtbv8NgwmEt5Gfpb7xiOpluun7SSy1FXVZqLcSF1evlC0CApyxvdXavlsyP2pqE9qcbhZ3hO1fes8Mf29Ot37MByOdaeZEB5fa4B5srhscVqSDcl1pOwWQ9P3h99H8RtHf3u4LIlSDxLUoabPvTLBQ5nVFmYBxbHXKH16OGy6pN50pyRER7Z1ZzOl0SlL2gVPvEEcW0qE7CDIzFinV0sJhRy",
+          "received": false
+        },
+        {
+          "_id": "693ff6d11c508c5d5ec96457",
+          "name": "Table79469",
+          "amount": 284,
+          "price": 61619,
+          "manufacturer": "Xiaomi",
+          "notes": "jKjKbkeQSe4ssQcva5ZEZbblTFGBw4LzFj6MGkPr6NyZGIOWxX9JgqOtmzUeeM6SfquFbZyjriELtILPvFcpztCQDvp5dvurJqjd6G3GjZTfPkyPB2BjLXLsiNq5su5kVYiozEepgKtMcv7k4sMTcVgHfHjawRft6C8BssBxy6zT9GMPPCZCTSmOGpiTLxo9mwsqMSOkrwpQmCNDLPFHljfED5Ctt75TA6imCpDolAqmYneiMYky7rN8Xr",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 115638,
+      "createdOn": "2025-12-15T11:53:54.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "693ff6d01c508c5d5ec963f6",
+          "products": [
+            {
+              "_id": "693ff6d11c508c5d5ec96424",
+              "name": "Table50339",
+              "amount": 431,
+              "price": 54019,
+              "manufacturer": "Google",
+              "notes": "CkdR4WAlgvIRhfE3L80B8vJWYMJYXPdDIZjtbv8NgwmEt5Gfpb7xiOpluun7SSy1FXVZqLcSF1evlC0CApyxvdXavlsyP2pqE9qcbhZ3hO1fes8Mf29Ot37MByOdaeZEB5fa4B5srhscVqSDcl1pOwWQ9P3h99H8RtHf3u4LIlSDxLUoabPvTLBQ5nVFmYBxbHXKH16OGy6pN50pyRER7Z1ZzOl0SlL2gVPvEEcW0qE7CDIzFinV0sJhRy",
+              "received": false
+            },
+            {
+              "_id": "693ff6d11c508c5d5ec96457",
+              "name": "Table79469",
+              "amount": 284,
+              "price": 61619,
+              "manufacturer": "Xiaomi",
+              "notes": "jKjKbkeQSe4ssQcva5ZEZbblTFGBw4LzFj6MGkPr6NyZGIOWxX9JgqOtmzUeeM6SfquFbZyjriELtILPvFcpztCQDvp5dvurJqjd6G3GjZTfPkyPB2BjLXLsiNq5su5kVYiozEepgKtMcv7k4sMTcVgHfHjawRft6C8BssBxy6zT9GMPPCZCTSmOGpiTLxo9mwsqMSOkrwpQmCNDLPFHljfED5Ctt75TA6imCpDolAqmYneiMYky7rN8Xr",
+              "received": false
+            }
+          ],
+          "total_price": 115638,
+          "delivery": null,
+          "changedOn": "2025-12-15T11:53:54.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "693ff6d21c508c5d5ec96478"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

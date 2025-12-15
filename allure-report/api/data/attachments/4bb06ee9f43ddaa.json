@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "396",
+    "etag": "W/\"18c-K8Vf3ZcNheWyOsmID2U2GFKXWV8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Soledad38@yahoo.com",
+      "name": "RQHiXlMGHEsLRP",
+      "country": "Canada",
+      "city": "UhoZfPkfHoqMMXyIn",
+      "street": "EJWh49Tyd8",
+      "house": 191,
+      "flat": 8,
+      "phone": "+1242761518",
+      "createdOn": "2025-12-15T11:53:36.000Z",
+      "notes": "WH7L3689oEOj39vrQWmbXeQDYPlxdOtMrs09LgQlQGd06I738oUKhV31nxy4JEswYpf0adOQxMlFVfqV81feHbS28ohCtR1CB",
+      "_id": "693ff6c01c508c5d5ec95e44"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "316",
+    "etag": "W/\"13c-/dHMsvef2yQamIEthxfXzRJ+pGk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Marianna.Brakus@yahoo.com",
+      "name": "elfVzyIBTAgiNBYNVFAKEN",
+      "country": "Canada",
+      "city": "LgFPzUUJmnSq",
+      "street": "4a73TcEAuK8nB8nfUBnJ",
+      "house": 3,
+      "flat": 1,
+      "phone": "+4256432596",
+      "createdOn": "2025-12-15T11:53:36.000Z",
+      "notes": "",
+      "_id": "693ff6c01c508c5d5ec95e73"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

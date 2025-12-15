@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:54:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-X1qE1NrUKtPRGi6VLKYnQHjGWDM\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro91885",
+      "amount": 789,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-15T11:54:06.000Z",
+      "notes": "gzXuJY082gPoSUIUXgFqCmqqf7m3YvUsChUh7ZZZ4x7q8jWPmOD3GP5OBLT7WZFbTuJWoZ2kLu9lszOcHhJmzGGjDNtvCtgRIcbitfBOmK7regFYgZVtAiX9M6800ij0Z9kx1yWQ5ETDxXz9XJbSaQUwboiLocbJMTu1iQ7XVA51UTrk8vXacsX8IK0uE5mU4e0TXv5a7Ryshw16Dy8pSjSSsY0DJEyxmVqFjcXWMhXBOWlvCutV3ScYDX",
+      "_id": "693ff6de1c508c5d5ec96729"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "497",
+    "etag": "W/\"1f1-wObaagLOTFQ4HK+hnml/vWNo+cw\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "693ff6c21c508c5d5ec95eec",
+      "email": "Aisha_Torphy@yahoo.com",
+      "name": "kkzMQqWjm",
+      "country": "Germany",
+      "city": "DKmhxqRgYKPTrkf",
+      "street": "VbNOlCcwsD7C3E7",
+      "house": 12,
+      "flat": 2,
+      "phone": "+2225602245",
+      "createdOn": "2025-12-15T11:53:38.000Z",
+      "notes": "SDHy3S2YZZJNEfQ1KgN3C72lC7EQBSVpHlUjlI6q4dIIM5rClFZbFbMB50HCEW9kFr6koxR1csONRusIUNEJXs1hQwWKYV84y208RLNFg88wwrYRVefi3ePyoZmTRoMwx8z22AL6yxOOigjLWz8AWPZdckegm5WVGCZKQBQA6PzrVQHEU83fqQXmqpdDE8gdlrj8I"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

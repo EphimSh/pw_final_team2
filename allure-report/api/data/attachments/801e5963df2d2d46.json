@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1748",
+    "etag": "W/\"6d4-MD2ayP9yL1r25fn4L49NG13KWDk\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "693ff6ce1c508c5d5ec96333",
+        "email": "Jaiden.Paucek@yahoo.com",
+        "name": "ZfBAeWB",
+        "country": "Great Britain",
+        "city": "NrECqplD",
+        "street": "dKSEN0MPIGTQnkl9hE1GagzZ5pyat7fj",
+        "house": 171,
+        "flat": 8,
+        "phone": "+1107390524",
+        "createdOn": "2025-12-15T11:53:50.000Z",
+        "notes": "sL1RgOtlr4n0YeR69DVZAQAXn4H5BE43CVxdTpMwXpqMSn2XEjkTqamIF2iq3k4bnyskNyBrXtZzmAdQi8JPrG8H03jJ8d1A8Fju2i"
+      },
+      "products": [
+        {
+          "_id": "693ff6ce1c508c5d5ec96360",
+          "name": "Towels12348",
+          "amount": 408,
+          "price": 72931,
+          "manufacturer": "Apple",
+          "notes": "mUCjB66DMRZnZ14YV8CQZXl00908cDzd8y5qlFSEMeWOcvbUtCvIlNSca9ZkTN9kAkDiAEN3PGLvI0E9ZhELvLWObpbWCYNv9Vr0jX1MIBpKXQRaQlarutW2qCN2lA7IsZZonJslRjaY3ZB13hhMUVdIx0mcWLyJDN8VVk7O8ksYP3joNVdXNoqqJReDfBo5hAs1p1wWHzLmYdhwCHO4R0Ts4KqfpHfwzAbEcO4eNmBQfp8hE0oNyrKFjv",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 72931,
+      "createdOn": "2025-12-15T11:53:50.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "693ff6ce1c508c5d5ec96333",
+          "products": [
+            {
+              "_id": "693ff6ce1c508c5d5ec96360",
+              "name": "Towels12348",
+              "amount": 408,
+              "price": 72931,
+              "manufacturer": "Apple",
+              "notes": "mUCjB66DMRZnZ14YV8CQZXl00908cDzd8y5qlFSEMeWOcvbUtCvIlNSca9ZkTN9kAkDiAEN3PGLvI0E9ZhELvLWObpbWCYNv9Vr0jX1MIBpKXQRaQlarutW2qCN2lA7IsZZonJslRjaY3ZB13hhMUVdIx0mcWLyJDN8VVk7O8ksYP3joNVdXNoqqJReDfBo5hAs1p1wWHzLmYdhwCHO4R0Ts4KqfpHfwzAbEcO4eNmBQfp8hE0oNyrKFjv",
+              "received": false
+            }
+          ],
+          "total_price": 72931,
+          "delivery": null,
+          "changedOn": "2025-12-15T11:53:50.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "693ff6ce1c508c5d5ec96378"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

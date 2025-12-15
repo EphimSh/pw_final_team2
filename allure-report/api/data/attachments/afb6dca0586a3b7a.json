@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:54:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-i4Zx2qICEa/lXqda6CjNIE41RlE\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon74613",
+      "amount": 758,
+      "price": 30000,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-15T11:54:09.000Z",
+      "notes": "yRt3ZQolPNDkc7Lp1ilbqIxvuW1w5y88N4xhsrClrIeBuQmWtxlwtiaQxgdgqs01PquAxeHSfKGdmWPASrDd9ib2aihwMok744tPaQF0nLjNnKdmYK6ibtEFLxVSIAodiN49pA7ngsTkisooRmfUIjDeVRbqQxQv96bzkUXzKgo3WFWtLnsxI4RJCmKHOD1D5LS77v4oGcpkdlPBZqUXvTUyXbwZ2koiLsF9vfVpoS1XlGbcKDjqXCb7aP",
+      "_id": "693ff6e11c508c5d5ec967bc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

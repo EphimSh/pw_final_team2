@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-L+P+DEmNG2DfbsAhkdgSfjU7wRA\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard87238",
+      "amount": 244,
+      "price": 37241,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-12-15T11:53:46.000Z",
+      "notes": "NR3l5h8guBoxZqOvcrPYAPCwp1XNQNgA8R5jBAk85KX4bFnZT5zQao5G0nh1jkI9zem3fZ2jYtlRJS0L7bWwSGhap9ohnXJ01klICqTmBscgHJFU6rXbJ7pxvOaK7n7MWovNpeumJYL5m5xo9CI6tiVpfN9vV0NKn7hXkTbjN3btIa5dUoOqC09OpLZUmUV88vrlgHJ7h2kp6iQxeJtQE9P92DRNXQRYvwipySD6m8UWqzDuVckWe511e9",
+      "_id": "693ff6ca1c508c5d5ec961d9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

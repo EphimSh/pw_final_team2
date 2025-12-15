@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-rqHzRxCT1vTKlh6y8PlI1S7dIuw\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips3233",
+      "amount": 999,
+      "price": 29404,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-15T11:53:57.000Z",
+      "notes": "9m5XeVDV5333lcM2O1JxE4cm5KOiMu0ngzuNHJGALWwumUqrvDTvo5rz8ykLAqmd91R88SOFClGqHDgKHyqFSQqf7ScnVxIjp6veRMtJIPzNedrq7HEoPTjnVaxiP2D32W3Q36WkIcoL5K91JIa9GjZ4EvoV1BRUGVBXS6PfAXJQK1rpWDE6spXDhOuImDTDh5O6VhpDGCzc4w4i6OK9hKnz0tCHwgQ61LcIcPdwTQMRKHUs79cMnWTUJi",
+      "_id": "693ff6d51c508c5d5ec96579"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

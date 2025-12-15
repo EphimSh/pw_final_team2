@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "431",
+    "etag": "W/\"1af-HilzNmaMBadCMX+h/31SJZxvUgg\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Dominique_Wilderman55@hotmail.com",
+      "name": "tEEhHQql",
+      "country": "Germany",
+      "city": "mj",
+      "street": "wO6gBym0ucFX",
+      "house": 141,
+      "flat": 1,
+      "phone": "+3585562972",
+      "createdOn": "2025-12-15T11:53:38.000Z",
+      "notes": "HojjxMYgm8VpuCcaDpPwPYsyR5CBMPZ37jwVZeywiqr4ike4IDvkIAVTJ3FAE0Z7UONxrLY2bK3gSgq5dnAk1dBF8HNUFcA39z1MzhzQnO9NHBFm7bD8HMwdMUAafsRbwnT0U5l0",
+      "_id": "693ff6c21c508c5d5ec95ee3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

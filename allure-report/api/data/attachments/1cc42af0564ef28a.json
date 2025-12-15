@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-zOi6HKT3so8CjDjDm8OgQpFO/xo\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat28696",
+      "amount": 239,
+      "price": 50058,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-15T11:53:43.000Z",
+      "notes": "wwXHLm5yMp7IZDUDulU9jTXKlXre0mWFLizyeruU5Cu545rQz7gVWM1IPmUi8m5DTWlo5ITOwso0NQfR9IHzq10d5iD6jmNPF6An45lf41eBaTgKvZuIuZpmzCbeLofYrmnyxah4dSCZ9i4IQyuYRp1HPyP7S0PgvQdTEwbSjzQBaAVM85515LwoCHt89gHpI6uYinL9SoYA34nyw47kDA4Rn63f51yEFZjqR50BqDkKdaH4p1HIy6G2o1",
+      "_id": "693ff6c71c508c5d5ec9607b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

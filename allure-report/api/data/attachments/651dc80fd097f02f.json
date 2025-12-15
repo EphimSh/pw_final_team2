@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-ZmgXvKAxtBO5Or/Aqn1GzXLCjPY\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "693ff6c21c508c5d5ec95ef4",
+      "email": "Mohammad28@yahoo.com",
+      "name": "mUhZgbcAZooSViHSjQLeUkPRevhDINmvkgtGEQxW",
+      "country": "Ukraine",
+      "city": "KW",
+      "street": "KZqTi1nOmuoKcQJ7DlbMghZp09g2I",
+      "house": 58,
+      "flat": 7,
+      "phone": "+9466831719",
+      "createdOn": "2025-12-15T11:53:38.000Z",
+      "notes": "uzOIPJuxQsCn0zwoHwtsO8RFdgvY8ZbW2MTUZlvbDnfybOpMC6kAtxBXO0iJzr5GzcSCKWcM0tyN2kzHTj7QD04LJqW0mkaRjKcizZe018WIoNLmt3ckSffVbUTh9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

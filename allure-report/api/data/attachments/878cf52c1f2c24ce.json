@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "332",
+    "etag": "W/\"14c-HNVvhmCjtZl/+HbPKXGwMas2yA8\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Maryse.Kshlerin@yahoo.com",
+      "name": "pQwbOvgeCxtUK",
+      "country": "Russia",
+      "city": "IUD",
+      "street": "Z1V",
+      "house": 86,
+      "flat": 2,
+      "phone": "+3349044967",
+      "createdOn": "2025-12-15T11:53:42.000Z",
+      "notes": "r5PBu9xxk0LOrXK5HNwlenVybvaKAQDh6oFtuk3W7q1AreODbG",
+      "_id": "693ff6c61c508c5d5ec9603c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

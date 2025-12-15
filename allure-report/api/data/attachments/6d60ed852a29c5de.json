@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Mon, 15 Dec 2025 11:53:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "331",
+    "etag": "W/\"14b-PjFdECz2xfx3LB1ZBQpxkehpzpE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Hildegard55@yahoo.com",
+      "name": "nI",
+      "country": "France",
+      "city": "SSAgq",
+      "street": "hbPenKzvKs4XgowWjZnKxLbqOxmpKYPIHgN4erev",
+      "house": 160,
+      "flat": 5,
+      "phone": "+5004930101",
+      "createdOn": "2025-12-15T11:53:53.000Z",
+      "notes": "M63T8whTzTcF9HSA9xedlVfn",
+      "_id": "693ff6d11c508c5d5ec9642c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
