@@ -1,48 +1,53 @@
+import { generateID } from "data/generateID";
+import { ERROR_MESSAGES } from "data/notifications/notifications";
 import { STATUS_CODES } from "data/statusCode";
 import { test } from "fixtures/api.fixtures";
 import { validateResponse } from "utils/validation/validateResponse.utils";
 
 test.describe("[API] [Sales Portal] [Orders] [Add Comment]", () => {
   let token = "";
-  // let productID = "";
-  // let customerID = "";
-  // let order: IOrder;
-  // let orderResponse: IResponse<IOrderResponse>;
+  let orderID = "";
 
-  test.beforeEach(async ({ loginApiService }) => {
+  test.beforeEach(async ({ loginApiService, ordersApiService }) => {
     token = await loginApiService.loginAsAdmin();
-
-    // const productData = generateProductData();
-    // const createdProduct = await productsApiService.create(token, productData);
-    // productID = createdProduct._id;
-
-    // const customerData =  generateCustomerData();
-    // const customer = await customerApiService.create(token, customerData);
-    // customerID = customer._id;
-
-    // const orderData = { customer: customerID, products: [productID] };
-    // orderResponse = await ordersApi.create(orderData, token);
+    const order = await ordersApiService.createDraftOrder(token);
+    orderID = order._id;
   });
 
-  test("Delete comment from Order", async ({ ordersApi }) => {
-    //const orderID = orderResponse.body.Order._id;
-    const orderID = "693b52994e61bcd793438b93";
+  test.afterEach(async ({ ordersApiService }) => {
+    await ordersApiService.deleteOrder(orderID, token);
+  });
 
-    const comment = "My new comment 4";
-    const commentResponse = await ordersApi.addComment(orderID, token, comment);
-    const comments = commentResponse.body.Order.comments;
-    const correctComment = comments.find((c: { text: string }) => c.text === comment);
+  test("Delete comment from Order", async ({ ordersApi, ordersApiService }) => {
+    const comment = ordersApiService.generateCommentText();
+    await ordersApiService.addOrderComment(orderID, token, comment);
+    const commentID = await ordersApiService.getCommentIDByText(orderID, comment, token);
 
-    const commentID = correctComment?._id;
-
-    const response = await ordersApi.deleteComment(token, orderID, commentID!);
-    validateResponse(response, {
+    const deleteCommentResponse = await ordersApi.deleteComment(orderID, commentID!, token);
+    validateResponse(deleteCommentResponse, {
       status: STATUS_CODES.DELETED,
-      //IsSuccess: true,
-      ErrorMessage: null,
     });
 
-    //const orderComments = response.body.Order.comments;
-    //expect(orderComments.find((c: { text: string }) => c.text === comment)).toBeFalsy();
+    await ordersApiService.assertCommentIsDeleted(orderID, commentID!, token);
+  });
+
+  test("Delete non-existing comment from Order", async ({ ordersApi }) => {
+    const fakeCommentID = generateID();
+    const deleteCommentResponse = await ordersApi.deleteComment(orderID, fakeCommentID, token);
+    validateResponse(deleteCommentResponse, {
+      status: STATUS_CODES.BAD_REQUEST,
+      IsSuccess: false,
+      ErrorMessage: ERROR_MESSAGES.COMMENT_NOT_FOUND,
+    });
+  });
+
+  test("Delete comment with invalid Order ID ", async ({ ordersApi }) => {
+    const invalidOrderID = generateID();
+    const invalidCommentID = generateID();
+    const deleteCommentResponse = await ordersApi.deleteComment(invalidOrderID, invalidCommentID, token);
+    validateResponse(deleteCommentResponse, {
+      status: STATUS_CODES.NOT_FOUND,
+      IsSuccess: false,
+    });
   });
 });

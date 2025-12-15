@@ -3,9 +3,12 @@ import { CustomersApiService } from "./customers.service";
 import { ProductsApiService } from "./products.service";
 import { validateResponse } from "utils/validation/validateResponse.utils";
 import { STATUS_CODES } from "data/statusCode";
-import { IOrderCreateBody, ORDER_STATUSES } from "data/types/orders.types";
+import { IDeliveryInfo, IOrderCreateBody, ORDER_STATUSES } from "data/types/orders.types";
 import { createOrderSchema } from "data/schemas/orders/create.schema";
-import { generateDelivery } from "data/orders/delivery";
+import { generateDeliveryData } from "data/orders/generateDeliveryData";
+import { faker } from "@faker-js/faker";
+import { expect } from "fixtures/api.fixtures";
+import { convertToDate } from "utils/date.utils";
 
 export class OrdersApiService {
   constructor(
@@ -33,6 +36,7 @@ export class OrdersApiService {
       customer: customer._id,
       products: [],
     };
+    //why the same if twice?
     if (numberOFProducts > 5 || numberOFProducts < 1) {
       throw new Error(`Incorrect number of Products`);
     }
@@ -46,7 +50,7 @@ export class OrdersApiService {
 
   async createDraftOrderWithDelivery(token: string, numberOFProducts = 1) {
     const order = await this.createDraftOrder(token, numberOFProducts);
-    const orderWithDelivery = await this.ordersApi.updateDelivery(order._id, generateDelivery(), token);
+    const orderWithDelivery = await this.ordersApi.updateDeliveryDetails(order._id, generateDeliveryData(), token);
     validateResponse(orderWithDelivery, {
       status: STATUS_CODES.OK,
       IsSuccess: true,
@@ -78,5 +82,47 @@ export class OrdersApiService {
       token,
     );
     return order.body.Order;
+  }
+
+  async deleteOrder(id: string, token: string) {
+    const response = await this.ordersApi.delete(id, token);
+    validateResponse(response, {
+      status: STATUS_CODES.DELETED,
+    });
+  }
+
+  async addOrderComment(id: string, token: string, comment?: string) {
+    if (!comment) {
+      comment = "Default comment text";
+    }
+    const response = await this.ordersApi.addComment(id, comment, token);
+    validateResponse(response, {
+      status: STATUS_CODES.OK,
+      IsSuccess: true,
+      ErrorMessage: null,
+    });
+    return response.body.Order;
+  }
+
+  generateCommentText(length?: number): string {
+    return faker.string.alphanumeric({ length: length ?? { min: 1, max: 250 } });
+  }
+
+  async getCommentIDByText(orderId: string, commentText: string, token: string) {
+    const orderInfo = await this.ordersApi.getByID(orderId, token);
+    const correctComment = orderInfo.body.Order.comments.find((c: { text: string }) => c.text === commentText);
+    return correctComment?._id;
+  }
+
+  async assertCommentIsDeleted(orderId: string, commentID: string, token: string) {
+    const orderInfo = await this.ordersApi.getByID(orderId, token);
+    const orderComments = orderInfo.body.Order.comments!;
+    expect(orderComments.find((c) => c._id === commentID)).toBeFalsy();
+  }
+
+  assertDeliveryDetailsAreEdited(expectedDelivery: IDeliveryInfo, actualDelivery: IDeliveryInfo) {
+    expect(actualDelivery.address).toEqual(expectedDelivery.address);
+    expect(convertToDate(actualDelivery.finalDate)).toEqual(expectedDelivery.finalDate);
+    expect(actualDelivery.condition).toEqual(expectedDelivery.condition);
   }
 }

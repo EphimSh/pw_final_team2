@@ -28,18 +28,24 @@ export class OrdersApi {
   }
 
   //("POST /api/customers/${id}/orders")
-  async updateDelivery(id: string, delivery: IDeliveryInfo, token: string) {
+  async updateDeliveryDetails(id: string, deliveryDetails: IDeliveryInfo, token: string) {
     const options: IRequestOptions = {
       baseURL: apiConfig.baseURL,
       url: apiConfig.endpoints.ordersDelivery(id),
       method: "post",
-      data: delivery,
+      data: deliveryDetails,
       headers: {
         "content-type": "application/json",
         Authorization: `Bearer ${token}`,
       },
     };
-    return await this.apiClient.send<IOrderResponse>(options);
+
+    try {
+      return await this.apiClient.send<IOrderResponse>(options);
+    } catch (error) {
+      console.error(`Failed to update Delivery Details for order with ID: ${id}:`, error);
+      throw error;
+    }
   }
 
   // ("PUT /api/orders/{id}/status")
@@ -54,7 +60,13 @@ export class OrdersApi {
         Authorization: `Bearer ${token}`,
       },
     };
-    return await this.apiClient.send<IOrderResponse>(options);
+
+    try {
+      return await this.apiClient.send<IOrderResponse>(options);
+    } catch (error) {
+      console.error(`Failed to update status for order with ID: ${data.id}:`, error);
+      throw error;
+    }
   }
 
   // ("GET /api/orders/{id}")
@@ -67,7 +79,13 @@ export class OrdersApi {
         Authorization: `Bearer ${token}`,
       },
     };
-    return await this.apiClient.send<IOrderResponse>(options);
+
+    try {
+      return await this.apiClient.send<IOrderResponse>(options);
+    } catch (error) {
+      console.error(`Failed to get order with ID: ${id}:`, error);
+      throw error;
+    }
   }
 
   // ("DELETE /api/orders/{id}")
@@ -77,9 +95,77 @@ export class OrdersApi {
       url: apiConfig.endpoints.orderById(id),
       method: "delete",
       headers: {
+        "content-type": "application/json",
         Authorization: `Bearer ${token}`,
       },
     };
-    return await this.apiClient.send<null>(options);
+
+    try {
+      return await this.apiClient.send<null>(options);
+    } catch (error) {
+      console.error(`Failed delete order with ID: ${id}:`, error);
+      throw error;
+    }
+  }
+
+  // ("POST /api/orders/{id}/comments")
+  async addComment(id: string, comment: string, token: string) {
+    const options: IRequestOptions = {
+      baseURL: apiConfig.baseURL,
+      url: apiConfig.endpoints.orderComments(id),
+      method: "post",
+      headers: {
+        "content-type": "application/json",
+        Authorization: `Bearer ${token}`,
+      },
+      data: JSON.stringify({ comment: comment }),
+    };
+
+    try {
+      return await this.apiClient.send<IOrderResponse>(options);
+    } catch (error) {
+      console.error(`Failed to add comment for order with ID: ${id}:`, error);
+      throw error;
+    }
+  }
+
+  // DELETE /api/orders/{orderId}/comments/{commentId}
+  async deleteComment(orderID: string, commentID: string, token: string) {
+    const options: IRequestOptions = {
+      baseURL: apiConfig.baseURL,
+      url: apiConfig.endpoints.orderCommentsById(orderID, commentID),
+      method: "delete",
+      headers: {
+        "content-type": "application/json",
+        Authorization: `Bearer ${token}`,
+      },
+    };
+
+    try {
+      return await this.apiClient.send<IOrderResponse>(options);
+    } catch (error) {
+      console.error(`Failed to delete comment with ID: ${commentID} for order with ID: ${orderID}:`, error);
+      throw error;
+    }
+  }
+
+  async markProductsAsReceived(orderID: string, productIDs: string[], token: string) {
+    const options: IRequestOptions = {
+      baseURL: apiConfig.baseURL,
+      url: apiConfig.endpoints.ordersReceived(orderID),
+      method: "post",
+      headers: {
+        "content-type": "application/json",
+        Authorization: `Bearer ${token}`,
+      },
+      data: { products: productIDs },
+    };
+
+    try {
+      return await this.apiClient.send<IOrderResponse>(options);
+    } catch (error) {
+      console.error(`Failed to mark products as received in order with ID: ${orderID} `, error);
+      throw error;
+    }
   }
 }

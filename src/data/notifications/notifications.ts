@@ -14,4 +14,6 @@ export const ERROR_MESSAGES = {
   BAD_REQUEST: "Incorrect request body",
   FAILED_TO_CAST_OBJECT: (value: string, model: string, path: string) =>
     `Cast to ObjectId failed for value "${value}" (type string) at path "${path}" for model "${model}"`,
+  COMMENT_NOT_FOUND: `Comment was not found`,
+  ORDER_NOT_FOUND: (id: string) => `Order with id ${id} wasn't found`,
 };

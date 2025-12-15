@@ -1,3 +1,5 @@
+import { COUNTRIES } from "data/types/countries";
+
 export const orderSchema = {
   type: "object",
   additionalProperties: false,
@@ -20,11 +22,12 @@ export const orderSchema = {
       type: "object",
       additionalProperties: false,
       required: ["_id", "email", "name", "country", "city", "street", "house", "flat", "phone", "createdOn", "notes"],
+      //properties: customerSchema.properties,
       properties: {
         _id: { type: "string" },
         email: { type: "string" },
         name: { type: "string" },
-        country: { type: "string" },
+        country: { type: "string", enum: Object.values(COUNTRIES) },
         city: { type: "string" },
         street: { type: "string" },
         house: { type: "number" },

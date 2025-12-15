@@ -28,7 +28,7 @@ test.describe("[API] [Sales Portal] [Orders] [Create]", () => {
     const orderResponse = await ordersApiService.createDraftOrder(token);
     const orderID = orderResponse._id;
     const delivery = await generateDelivery();
-    const response = await ordersApi.updateDelivery(orderID, delivery, token);
+    const response = await ordersApi.updateDeliveryDetails(orderID, delivery, token);
     console.log(orderResponse);
     expect(response.body.Order.delivery).not.toBeNull();
   });
