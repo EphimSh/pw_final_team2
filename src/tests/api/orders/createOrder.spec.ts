@@ -1,5 +1,5 @@
 import { generateCustomerData } from "data/customers/generateCustomerData";
-import { generateDelivery } from "data/orders/delivery";
+import { generateDeliveryData } from "data/orders/generateDeliveryData";
 import { generateProductData } from "data/products/generateProductData";
 import { ORDER_STATUSES } from "data/types/orders.types";
 import { test, expect } from "fixtures/api.fixtures";
@@ -34,7 +34,7 @@ test.describe("[API] [Sales Portal] [Orders] [Create]", () => {
   test("Update Draft Order with Delivery", async ({ ordersApiService, ordersApi }) => {
     const orderResponse = await ordersApiService.createDraftOrder(token);
     orderID = orderResponse._id;
-    const delivery = generateDelivery();
+    const delivery = generateDeliveryData();
     const response = await ordersApi.updateDeliveryDetails(orderID, delivery, token);
     console.log(orderResponse);
     expect(response.body.Order.delivery).not.toBeNull();
