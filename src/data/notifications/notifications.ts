@@ -12,6 +12,7 @@ export const ERROR_MESSAGES = {
   PRODUCT_NOT_FOUND: (id: string) => `Product with id '${id}' wasn't found`,
   PRODUCT_ALREADY_EXISTS: (name: string) => `Product with name '${name}' already exists`,
   BAD_REQUEST: "Incorrect request body",
+  BAD_REQUEST_DELIVERY: "Incorrect Delivery",
   FAILED_TO_CAST_OBJECT: (value: string, model: string, path: string) =>
     `Cast to ObjectId failed for value "${value}" (type string) at path "${path}" for model "${model}"`,
   COMMENT_NOT_FOUND: `Comment was not found`,

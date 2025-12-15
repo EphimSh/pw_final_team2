@@ -1,8 +1,9 @@
-import { ERROR_MESSAGES } from "data/notifications/notifications";
+import { generateID } from "data/generateID";
 import { generateDeliveryAdressData, generateDeliveryData } from "data/orders/generateDeliveryData";
+import { invalidDeliveryAddressData } from "data/orders/invalidDeliveryData.ddt";
 import { ordeWithDeliverySchema } from "data/schemas/orders/orderWithDelivery.schema";
 import { STATUS_CODES } from "data/statusCode";
-import { IDeliveryInfo } from "data/types/orders.types";
+import { IDeliveryAddress, IDeliveryInfo } from "data/types/orders.types";
 import { test } from "fixtures/api.fixtures";
 import { validateResponse } from "utils/validation/validateResponse.utils";
 
@@ -50,7 +51,7 @@ test.describe("[API] [Sales Portal] [Orders] [Update Delivery Details]", () => {
   });
 
   test("Add delivery details to non-existing Order", async ({ ordersApi }) => {
-    const fakeOrderID = "64b7f0f5e1f2c8a1b2c3d4e5";
+    const fakeOrderID = generateID();
     const deliveryDetails: IDeliveryInfo = generateDeliveryData();
 
     const response = await ordersApi.updateDeliveryDetails(fakeOrderID, deliveryDetails, token);
@@ -60,18 +61,24 @@ test.describe("[API] [Sales Portal] [Orders] [Update Delivery Details]", () => {
     });
   });
 
-  // Add ddt for invalid delivery details
-  test("Add invalid delivery details to Order", async ({ ordersApi, ordersApiService }) => {
-    const order = await ordersApiService.createDraftOrder(token);
-    orderID = order._id;
-    const invalidDeliveryDetails = generateDeliveryData({
-      address: generateDeliveryAdressData({ country: "Honolulu" }),
-    });
-    const response = await ordersApi.updateDeliveryDetails(orderID, invalidDeliveryDetails, token);
-    validateResponse(response, {
-      status: STATUS_CODES.BAD_REQUEST,
-      IsSuccess: false,
-      ErrorMessage: ERROR_MESSAGES.BAD_REQUEST,
-    });
+  test.describe("[Add invalid delivery address details to Order]", () => {
+    for (const caseData of invalidDeliveryAddressData) {
+      test(`${caseData.title}`, async ({ ordersApi, ordersApiService }) => {
+        const order = await ordersApiService.createDraftOrder(token);
+        orderID = order._id;
+        const invalidDeliveryDetails = generateDeliveryData({
+          address: generateDeliveryAdressData(caseData.deliveryData?.address as Partial<IDeliveryAddress>),
+        });
+
+        const response = await ordersApi.updateDeliveryDetails(orderID, invalidDeliveryDetails, token);
+        validateResponse(response, {
+          status: STATUS_CODES.BAD_REQUEST,
+          IsSuccess: false,
+          ErrorMessage: caseData.errorMessage,
+        });
+      });
+    }
   });
+
+  // When entering delivery date from the past -> Server accepts it and there is no error
 });

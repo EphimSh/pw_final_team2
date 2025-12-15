@@ -6,7 +6,6 @@ import { STATUS_CODES } from "data/statusCode";
 import { IDeliveryInfo, IOrderCreateBody, ORDER_STATUSES } from "data/types/orders.types";
 import { createOrderSchema } from "data/schemas/orders/create.schema";
 import { generateDeliveryData } from "data/orders/generateDeliveryData";
-import { faker } from "@faker-js/faker";
 import { expect } from "fixtures/api.fixtures";
 import { convertToDate } from "utils/date.utils";
 
@@ -102,10 +101,6 @@ export class OrdersApiService {
       ErrorMessage: null,
     });
     return response.body.Order;
-  }
-
-  generateCommentText(length?: number): string {
-    return faker.string.alphanumeric({ length: length ?? { min: 1, max: 250 } });
   }
 
   async getCommentIDByText(orderId: string, commentText: string, token: string) {

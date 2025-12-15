@@ -1,5 +1,6 @@
 import { generateID } from "data/generateID";
 import { ERROR_MESSAGES } from "data/notifications/notifications";
+import { generateCommentText } from "data/orders/generateCommentText";
 import { STATUS_CODES } from "data/statusCode";
 import { test } from "fixtures/api.fixtures";
 import { validateResponse } from "utils/validation/validateResponse.utils";
@@ -19,7 +20,7 @@ test.describe("[API] [Sales Portal] [Orders] [Add Comment]", () => {
   });
 
   test("Delete comment from Order", async ({ ordersApi, ordersApiService }) => {
-    const comment = ordersApiService.generateCommentText();
+    const comment = generateCommentText();
     await ordersApiService.addOrderComment(orderID, token, comment);
     const commentID = await ordersApiService.getCommentIDByText(orderID, comment, token);
 
@@ -29,6 +30,28 @@ test.describe("[API] [Sales Portal] [Orders] [Add Comment]", () => {
     });
 
     await ordersApiService.assertCommentIsDeleted(orderID, commentID!, token);
+  });
+
+  test("Delete multiple comments from Order", async ({ ordersApi, ordersApiService }) => {
+    const comments = [generateCommentText(), generateCommentText(), generateCommentText()];
+
+    const commentIDs: string[] = [];
+    for (const comment of comments) {
+      await ordersApiService.addOrderComment(orderID, token, comment);
+      const commentID = await ordersApiService.getCommentIDByText(orderID, comment, token);
+      commentIDs.push(commentID!);
+    }
+
+    for (const commentID of commentIDs) {
+      const deleteCommentResponse = await ordersApi.deleteComment(orderID, commentID, token);
+      validateResponse(deleteCommentResponse, {
+        status: STATUS_CODES.DELETED,
+      });
+    }
+
+    for (const commentID of commentIDs) {
+      await ordersApiService.assertCommentIsDeleted(orderID, commentID, token);
+    }
   });
 
   test("Delete non-existing comment from Order", async ({ ordersApi }) => {
