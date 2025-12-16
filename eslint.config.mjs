@@ -21,6 +21,12 @@ export default [
     },
   },
   {
+    files: ["src/ui/service/*.ui-service.ts"],
+    rules: {
+      "@typescript-eslint/no-explicit-any": "off",
+    },
+  },
+  {
     ignores: ["node_modules", "**/dist/**", "eslint.config.mts", "playwright-report", "test-results"],
   },
 ];
