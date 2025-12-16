@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:17:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "582",
+    "etag": "W/\"246-2xuZc4d0wAT6jdnS0ahtNoPrhTU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "694177f81c508c5d5ecd9922",
+        "name": "Shoes80787",
+        "amount": 867,
+        "price": 37060,
+        "manufacturer": "Google",
+        "createdOn": "2025-12-16T15:17:12.000Z",
+        "notes": "0RxMPft8lHFSgiw0N1UGOQmc7j0GksxnGscJKIAmcgcSKV4XzKHLZNc4BWO9TrYpjygW1iSRZmjxCrj7QF6NchEMAa4PELSxQaAMXMtGmjcezzwrWVXJfylRbA6iqJrRehgoCIPdQqUhK0vgeZiro9Ez4aLmkXjeQwlDHeiD2TbHuthTDfb6kAOZtvatR8LPeIYz9FDEaeaB23Fc20Tunx02BkoV5qaWPDZvzsHC4USoLaMJcpAQDqYnIC"
+      }
+    ],
+    "total": 1,
+    "page": 1,
+    "limit": 10,
+    "search": "Shoes80787",
+    "manufacturer": [],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "desc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

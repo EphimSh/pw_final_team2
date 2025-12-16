@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:17:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-DarCNaT3t4WC6NofdGJoyiRZhQQ\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse79297",
+      "amount": 904,
+      "price": 28652,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-12-16T15:17:14.000Z",
+      "notes": "voY96DzwmlFtA49ccQ9S5kiqGb102ueg5vHQs1GWR3FG9tXiiN1ncHjKhSgQyyKtnrXBOKB6urEUjjKWwHyKsZkgmKhBtdYAdLu9PrhLiuCCfm8mRuLzhb1C3BmeCe8AFt0T8J9wTjKl2wUvN9FuAdw4IaUsIoNBuBJ7b45zuzXtGrm0YUMAjqfZEKcw0OhUyZldEa1NHNZLgIjhiwjRaOXDZL1P8tB6g5wQq0eJ4fjON4Ilx9pMVeOz5T",
+      "_id": "694177fa1c508c5d5ecd9988"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

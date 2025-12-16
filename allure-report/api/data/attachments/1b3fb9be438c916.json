@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:17:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "473",
+    "etag": "W/\"1d9-rgXVYCZn6649B28WOnoQsluVbj8\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Microsoft Surface Duo 36740",
+      "amount": 115,
+      "price": 2200,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-12-16T15:17:10.000Z",
+      "notes": "ATLVo3Tot05QuRk3z17xYXC7gUfvCb21fNjy2rZQ12xJ24P2YQW1DPbpqmgasd4HxqwtBK3XBtPNtgxYrzxEzeWDAjq5S5iaZhwzupZr8qg2mfdZP37ORibkedztVnPYoCS5wA4PZGdJWJFWIJPyaI5Kh6MnTq5qyA99ecc1WsdBdmbBxcUSkZBPX2BgGVYRsnIibjrf2HTdVSNOQRfku63dNDZufPsnXlr6ySnjwTndLQOa0nbVPLMV8f",
+      "_id": "694177f61c508c5d5ecd984b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

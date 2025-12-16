@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:17:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-i0ClvugO8o69qubhelRRcB82vDE\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy S259408",
+      "amount": 317,
+      "price": 3100,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-16T15:17:09.000Z",
+      "notes": "gAAU85nFzmZ9GOMauQm0P2aXlCqaVIkCZGidD9A7pYxWH8YdLeq09X0TCN1SqcY8iMV4Dd4MX1ee8NClmDk3LHlo55iL8sGqvXFRb67Fs6Yey6hJSxbepYHLw0YM00SRYRLtM4h5pPxWIf4bUEHzKXAGzm6NeUvmj7ojpnCeIp8LjImYHIfac60AGQNGv1YtjzytdzdoS8AgC3S7cLDGZCuK86wup9yDG7Eowprs9u2hc2hAhWmD3kLszK",
+      "_id": "694177f51c508c5d5ecd97f0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:17:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-rCk7470hPlsGPjdnLKxdejIORgo\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad88338",
+      "amount": 108,
+      "price": 44565,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-12-16T15:17:13.000Z",
+      "notes": "Bify5qwtKlyNwPcoJXvIurUpWdZ039VjpkMGalkH71bWEHtr1JWYiBdE0Yu0NhuZqfZfBl53DdyLjoBDMAH4zJuWltUUMNhwZVzIAQMM2YatpTaAODJeWICEVGpYfE8put8UVZ8Fp3CdBGe5f05L2qmEZs98nNqG4gZPdoKRnmd3Ud7nnGFdNOGGcz7DplZfd9VwYhsVuGIBSnVHlHBwurzmBTCF2t58gjzramZ6vFwd066D7uReXgMS6q",
+      "_id": "694177f91c508c5d5ecd9970"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

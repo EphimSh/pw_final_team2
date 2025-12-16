@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:17:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-qBenfb8WGFuD0uTCUbIfeeFU3p8\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy A5554400",
+      "amount": 661,
+      "price": 800,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-16T15:17:09.000Z",
+      "notes": "3OTZQTyv0Fg0UCOSUZPdbsTiP9AFRHORR4AFprY9U3gFlyC8522xfKk40Dh2zwodfeCADYpV0ezzL654jNwjDa7Iel31XoCjbpQpsp7uyBp5DpRXvNsX7264JrCGsPYooUFLHJcFQAssUkRYh023jFdLaQdNv5VlxoIHnDyyxGZtOxtW3RTSDmRgzne8TNivkhGpr1wGWEh67R7XXc7BdALw8jEimNeXh8oxclI84hAy5ciQ8Fw13p5lG3",
+      "_id": "694177f51c508c5d5ecd9807"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

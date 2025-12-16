@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:17:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-OQDj0nNoQiyvKU1M9ufU7bsq0uU\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair56504",
+      "amount": 797,
+      "price": 59396,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-16T15:17:13.000Z",
+      "notes": "HPNZKiXZ8eoCbUoBwDncKFeqBBLbHWscTuNBeHczHKxcwDufvQd2kLtvrk7oInpARcJBjIWxEiWrvnJ3WhzKZnfA3HZr7syLchym1bcHSTPEmiAWVhphmGAL2a2zqpRlgOfMBLn30MtEq0KU60s4EUselQxKSq6bhIqWxEJsz61t62GNwM6BwstebwwIUzz2GWscarkdBYHH37lQXXuCZbHD7RzjGBIzkIY08l9bjmaqRrIz4ZITxQr4ND",
+      "_id": "694177f91c508c5d5ecd9975"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

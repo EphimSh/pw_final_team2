@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:16:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-WdrpdWy1MKQkKZHLdZsXzbinRJc\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish49964",
+      "amount": 983,
+      "price": 47097,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-12-16T15:16:56.000Z",
+      "notes": "vv2jDidv6qRznHCfuw0aCQl1SEMBTaSpBnggsdeepxQB7R6JOmKpjAMh41R4v8VJ5zi1lvqQYJRmRr0RPtiw13IuPJlwUOHMISxRI4U5Vs61fCfFjFSZ5DkQDNjCe7IfDrsNJtXQgOtT7U0g9fPc50aKOQeVLKbsykognXmo0VtFV2vnz5WpbGlpha4KkOFYntz5P208RetXFHVlMiFNHKkNZd7vkPule0A8Ih23BYHTzNxOv85ZgVMpgR",
+      "_id": "694177e81c508c5d5ecd9365"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

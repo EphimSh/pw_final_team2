@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:17:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-b02mr0SfWk2Bxci0i83719obx6Q\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish94114",
+      "amount": 507,
+      "price": 11857,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-16T15:17:13.000Z",
+      "notes": "j7b0QoxaT6D3tqACuvPnGcTgDahcbIxNCVIWfUwOL8t4xHLPnhzuqTb0WG91eG7oRXU3FOhqHF77hVDxHgvgUKqZZwujvGVfKTIaX5thbbaYiZL3yTpQYujQNq7mHDjOjgEeHij6CNdLxLTejkyHWoDG309RfVN2iz9Dyt84hLCYY5ObnsBOKZqfIg82hge7joRsktTNlcVmMxBbgf3oXJNKZbZvmffu6QPKoyptDic0E91jmL5JB9h7AH",
+      "_id": "694177f91c508c5d5ecd9957"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

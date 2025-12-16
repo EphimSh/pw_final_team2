@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:16:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-aeFmnDDgfQPXh2lyrNKm3YPDqeA\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball71631",
+      "amount": 110,
+      "price": 38012,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-12-16T15:16:57.000Z",
+      "notes": "yJLrpfh7dKcjiqNu6YRRS5aTltbmHh053hEEUQwNURpOGnly3qh8G6w14P1vOuluitvJCRXfUtvfsVOHlUJDmM487u0zF4aBBzUxOfA1sy5FKc9bLpe9ciuzeohQEgvhFGHlBcPYClvPgU4pLyWeIZlFy4jYdlmxx36IFB2GlXVRPjNsevYbr55aVPj0v5ifM7aadfcVsp3ZmlxUjRSalMS3MNZ2YLp7oDAxVa38swnhxLz8Zob7XQlUy0",
+      "_id": "694177e91c508c5d5ecd93d6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

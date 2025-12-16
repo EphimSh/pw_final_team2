@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:16:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "367",
+    "etag": "W/\"16f-KlUvpNOeq9JVYTJAI88ReTqcF2M\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Donna47@gmail.com",
+      "name": "ipJsqqYwxMvhhoomOkAgxGgMvaPPoXVCPZUJqGE",
+      "country": "Ukraine",
+      "city": "gUmOQNfFqckjOfrdu",
+      "street": "mNi55bJWwCkxsEV",
+      "house": 77,
+      "flat": 4,
+      "phone": "+9635713338",
+      "createdOn": "2025-12-16T15:16:51.000Z",
+      "notes": "OIbUgtOiIa0CRogIwbUzs0405GmDnwgsVYAhthkH",
+      "_id": "694177e31c508c5d5ecd90cf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

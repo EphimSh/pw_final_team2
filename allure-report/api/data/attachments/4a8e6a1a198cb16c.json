@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:16:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "494",
+    "etag": "W/\"1ee-uLfky6qE1A8FGKXGzUUcjdXYxKQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Lindsey.Baumbach14@yahoo.com",
+      "name": "vqmyswWxjKKfurriVFBeTpCcik",
+      "country": "France",
+      "city": "titwHgdMWBFJiMUkNzG",
+      "street": "WAYhBVxH8gzxIvxviYcILlqNb",
+      "house": 195,
+      "flat": 3,
+      "phone": "+5107205908",
+      "createdOn": "2025-12-16T15:16:59.000Z",
+      "notes": "bAmYGIJgsjeFEQqraC1rF5GP3ypdipyEVY5YdEvcpa5zoc0CZkpdskBzae5gazt8rixS6p4ZmkOOXu5LhFLH5SsxYrPrjePbiXzwTa9xyvPRhhAlgA3lxSVQjrQy2XFRiTogrHA9GV7rcihCWgDV66atFhWR8",
+      "_id": "694177eb1c508c5d5ecd94b9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

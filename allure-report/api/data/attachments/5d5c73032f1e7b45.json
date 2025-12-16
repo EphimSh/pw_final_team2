@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:16:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "412",
+    "etag": "W/\"19c-hNVbM5Xtxy8KMte5nRo6FvLrSWo\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ulises.Schuppe97@gmail.com",
+      "name": "IILDyEFv",
+      "country": "Canada",
+      "city": "sQDvdsKBdtCU",
+      "street": "Res53iKv6rvIluAJV6CDDMCrZplCp",
+      "house": 175,
+      "flat": 8,
+      "phone": "+1995658567",
+      "createdOn": "2025-12-16T15:16:49.000Z",
+      "notes": "ySzK5ktcmK7BHqjVtGz9L0xBLLzp4do5URIdHmIXctHTOIRgweLghwPMbofeEVAarLrJQAJ1JmSARJeUWaDp70hiIPBKwe7uLK",
+      "_id": "694177e11c508c5d5ecd9046"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

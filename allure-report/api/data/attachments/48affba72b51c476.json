@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:16:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-bkFkU5yFv3DRiJ+yYZ1gy2K1Zs4\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Pedro66@gmail.com",
+      "name": "OEzOkjGDTzqwEqlQPzGyJHrtG",
+      "country": "USA",
+      "city": "CUzUZtCWdHQlqttmYoa",
+      "street": "MQOkesTUunPB7YsOY6S",
+      "house": 57,
+      "flat": 1,
+      "phone": "+0669212303",
+      "createdOn": "2025-12-16T15:16:49.000Z",
+      "notes": "aBCRV5T6Eh3GJB0mppP2pG5L84fOuJx8eQqCofYehwChminDYeMQ3P52dFD2zA1PJiIkN983EGCN5KMeNCMUvlCPdveBP8OeN6H9TYPCnen8lhY0ZbpSuPNK4oqtkm5kCj1FaYEd",
+      "_id": "694177e11c508c5d5ecd9025"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

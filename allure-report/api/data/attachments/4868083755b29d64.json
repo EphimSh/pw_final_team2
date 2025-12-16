@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:16:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "408",
+    "etag": "W/\"198-ySbJDW87idmtstbNMwrQrYupS2A\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Zaria.Schumm@hotmail.com",
+      "name": "ctSmlqjsAIlcIbLRVahsWcNyUQrrjl",
+      "country": "France",
+      "city": "Y",
+      "street": "qe4o8nRgqgOXNqpip8mXG6g5fhkM2q",
+      "house": 74,
+      "flat": 9,
+      "phone": "+1013222121",
+      "createdOn": "2025-12-16T15:16:48.000Z",
+      "notes": "I2du3GWsxP6TvCL7Ygxn2D8snsgEfpID1FjlEJNJWxaSBmhgcZ5sOx0wxJK97YadlxbtQEywNgrQrZh3bLyZi",
+      "_id": "694177e01c508c5d5ecd8fbd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

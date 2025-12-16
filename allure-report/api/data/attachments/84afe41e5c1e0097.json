@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:16:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "344",
+    "etag": "W/\"158-tD1hzCVKZEAGJUKPlOVluhuHTTY\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Annabell.Morissette@gmail.com",
+      "name": "zFGaSwqHhyHqqIZHwYDIYfIwQTsZgiFZyU",
+      "country": "Canada",
+      "city": "agpgRFYaPynVyqH",
+      "street": "00ZVdoG1BbbgrZGb0h",
+      "house": 124,
+      "flat": 6,
+      "phone": "+5853666389",
+      "createdOn": "2025-12-16T15:16:49.000Z",
+      "notes": "BwJMvmqaZ",
+      "_id": "694177e11c508c5d5ecd9033"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

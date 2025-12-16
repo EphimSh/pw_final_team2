@@ -1,0 +1,101 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:17:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2439",
+    "etag": "W/\"987-VraUrP12voPy/Fq6ao7qBFpK/LQ\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "694177ed1c508c5d5ecd956e",
+        "email": "Juvenal_Wolff54@yahoo.com",
+        "name": "UgXK",
+        "country": "Russia",
+        "city": "BOC",
+        "street": "yyWXNiuaIGqvwcQmeyei4JN8YEBaIfUdQ8oo75rJ",
+        "house": 180,
+        "flat": 8,
+        "phone": "+9850172639",
+        "createdOn": "2025-12-16T15:17:01.000Z",
+        "notes": "0u7G5xHDJa6JMADH6c4LMoWYTUttkRNJ"
+      },
+      "products": [
+        {
+          "_id": "694177ed1c508c5d5ecd9584",
+          "name": "Mouse60038",
+          "amount": 725,
+          "price": 25350,
+          "manufacturer": "Amazon",
+          "notes": "Opjq0bZXmZmUal35hKXxBO6HC8f6lGQeOezKDcvlQqe486tZbyeJi1HzIhQ7LFlJqN6xZxCCn9qpsUsdoRNBcmwaGgDKsy6gnzjOtTb9dcgRzong9xNbeg5fuecFYCEC3zCpRtdrvhkZ6fUcyqe3cGJQqoON4NgqiRmSay0dRV3C7UtXprxViTPzOr1aGXafmtAAdEhIHcy6Hix11GRc6ZqSh6sDAU8OnZv1qTXnBkoBai4AyfLqVw1zlk",
+          "received": false
+        },
+        {
+          "_id": "694177ed1c508c5d5ecd95a8",
+          "name": "Pants30837",
+          "amount": 285,
+          "price": 12147,
+          "manufacturer": "Tesla",
+          "notes": "zciyH1JhlnjCVuA1ihbjtTXr5nkgrdxCHMuN0yeIe3Jl4vwgYjYVFsdwL0Ei2oDeKMvHExsq2VM7p0C6FErRdh3p2Dz7EzhzLVdt8UdfMb1qOxbQpoj34385gkQrgMUxgpVpCM2vNrJAYxVuf9zznE3KE53sgROY3sAxkWg1FZdiNsxobvoL348hsPKHLHznHlbXqNAXHRdGxZ7NryLHRU1AFnoDWLhQ7kT9kTwFSxy2tDmt4GkgtUUbGm",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 37497,
+      "createdOn": "2025-12-16T15:17:02.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "694177ed1c508c5d5ecd956e",
+          "products": [
+            {
+              "_id": "694177ed1c508c5d5ecd9584",
+              "name": "Mouse60038",
+              "amount": 725,
+              "price": 25350,
+              "manufacturer": "Amazon",
+              "notes": "Opjq0bZXmZmUal35hKXxBO6HC8f6lGQeOezKDcvlQqe486tZbyeJi1HzIhQ7LFlJqN6xZxCCn9qpsUsdoRNBcmwaGgDKsy6gnzjOtTb9dcgRzong9xNbeg5fuecFYCEC3zCpRtdrvhkZ6fUcyqe3cGJQqoON4NgqiRmSay0dRV3C7UtXprxViTPzOr1aGXafmtAAdEhIHcy6Hix11GRc6ZqSh6sDAU8OnZv1qTXnBkoBai4AyfLqVw1zlk",
+              "received": false
+            },
+            {
+              "_id": "694177ed1c508c5d5ecd95a8",
+              "name": "Pants30837",
+              "amount": 285,
+              "price": 12147,
+              "manufacturer": "Tesla",
+              "notes": "zciyH1JhlnjCVuA1ihbjtTXr5nkgrdxCHMuN0yeIe3Jl4vwgYjYVFsdwL0Ei2oDeKMvHExsq2VM7p0C6FErRdh3p2Dz7EzhzLVdt8UdfMb1qOxbQpoj34385gkQrgMUxgpVpCM2vNrJAYxVuf9zznE3KE53sgROY3sAxkWg1FZdiNsxobvoL348hsPKHLHznHlbXqNAXHRdGxZ7NryLHRU1AFnoDWLhQ7kT9kTwFSxy2tDmt4GkgtUUbGm",
+              "received": false
+            }
+          ],
+          "total_price": 37497,
+          "delivery": null,
+          "changedOn": "2025-12-16T15:17:02.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "694177ee1c508c5d5ecd95d3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

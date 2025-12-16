@@ -1,0 +1,122 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:17:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4366",
+    "etag": "W/\"110e-HcvXzSwrdn4OEg5dwE1gvHTSI+k\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "694177f61c508c5d5ecd982c",
+        "name": "Samsung Galaxy S2511966",
+        "amount": 563,
+        "price": 3100,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-12-16T15:17:10.000Z",
+        "notes": "agEvKUiGiug7xwvNAmngabnCslP2xg5Uw154813pzQ72taPx0XV2T7Wa8hfG4WI9UJa1jVAxS0SbiuR37H4E3ZLikSBiSvPxs4ZjDf5Qpl3Hh6qVIUIcRs1nxdr99Hogi9g0ukHSUgtqVT5VXkBBewhFRGbySgPmBJxVszNW5VYJ9lcr5vJ3T1IDMViamX4zWTFJepD3spsEZNTF4FXiGjSEcjizdn53apLZs5ER8HfFLZ6eRr7zS4UzxM"
+      },
+      {
+        "_id": "694177f61c508c5d5ecd9843",
+        "name": "Samsung Galaxy A5580709",
+        "amount": 201,
+        "price": 800,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-12-16T15:17:10.000Z",
+        "notes": "LoVmV5tBqsvvOEmow4J1jO8vH1V0kvRfAf8TXwL0otKWQUVAeADEqLeh8eNpCRoSuohCU4BRpHF9JZWXYx81Ca8kYpBoE7ZI3zas8qGjOjUqECcCCC2fbFBNQlYFksaX86NqzjuDOp6QKd39SpEv0arMAdcWjVEamGTX0X9GXhH1SUJ08KwDJ3gUL2GY9AcOzePk294AQi3F9PvQCOqxaNJDyDIpc6hknePGu1BwlzkKU29F625VdkSmDN"
+      },
+      {
+        "_id": "694177f51c508c5d5ecd97c9",
+        "name": "iPhone 15 Pro 512GB66394",
+        "amount": 313,
+        "price": 3500,
+        "manufacturer": "Apple",
+        "createdOn": "2025-12-16T15:17:09.000Z",
+        "notes": "F6ld40F2D0BC6rD3lpjGU6QFHNozIZaS1t6AugFaW2MKBS3RTmE7CepoVupSLTRmuqvzDvjIFCAkDHRMw3LfC2pXsJZ2QUOVe3Q7O6VDZoZOOI3XLj4jRnMy87aIglVrU95E1EflI2IucWfJaG0bwpyYaiQ7IpIxmJhas9dJQUQRCYnpj0zh36sXgqRn4pbh7zDHNoKwEPH6cc4HF5scm0uCkXAvvcrtr24AeI7VLaIEj1DCcs08y6vZCZ"
+      },
+      {
+        "_id": "694177f51c508c5d5ecd97cf",
+        "name": "iPhone 15 Pro 512GB82835",
+        "amount": 899,
+        "price": 3500,
+        "manufacturer": "Apple",
+        "createdOn": "2025-12-16T15:17:09.000Z",
+        "notes": "MVXenLEz5GnQRFTDbkuFJY9RCJoDTYCMH2YisWWjvxRs3fVVkndMcRW49nC466Fo4YNdVAwnt8e4P62XebnWIoGlswdc8kb4GbyJxdoAGEMQfeGeVs6dbErmD5ueV6mfoJJSQPFRBSn9fvHLWzsu2elLvCjEP6DYDRtjgw3VJqiNJXBwEB4pTIsazUfwa787ClZXzDvoZueOIf2ZSW5kI7czsTlJhNrnCcz84Axoh8ZlWqxcyrH7be3t7P"
+      },
+      {
+        "_id": "694177f51c508c5d5ecd97dd",
+        "name": "Apple Watch Series X27161",
+        "amount": 917,
+        "price": 900,
+        "manufacturer": "Apple",
+        "createdOn": "2025-12-16T15:17:09.000Z",
+        "notes": "dhu9NtHOxah5ZEwxKXbs5B7ay7RD9YkGowYfGt3A7gmF1rGqPuGzcWE8lYnpzq9jYLvzDtrTnjF1tp7KNwrApCfwwzbSnme9ynESUMAbEy6GBYY6AnYlxUaKIXRfO6EmrYlTz8dN0HBjxKOWPv8L04xFbW0M1tM63MMQ4kAmETHJr1GVWPYw63UkZMfnCBfaPo83BwnkfjypCGPa8huMGzcHeQr2PpPnFYwFYwTzawMTtJfoYfKUorvLBh"
+      },
+      {
+        "_id": "694177f51c508c5d5ecd97e5",
+        "name": "Apple Watch Series X46701",
+        "amount": 953,
+        "price": 900,
+        "manufacturer": "Apple",
+        "createdOn": "2025-12-16T15:17:09.000Z",
+        "notes": "Yl1cnxZuZLdw7VVadxOWb5e1dEHK3Z3xodU7lW5Xg2Ll2GcMArLm245V1bBQHEppOSEe5F4jP08bYIIoHoFTAQosp4meQZxpPFdQnXt9B5mublOP6bb4emLZmSX6jrLaVPQXhRvclX2Di43biIeACutFzdXbI4bDDRPd8y9glbPtGts9H4ghDlI23vQ9Bad0m8Ju7IuRdicgbTlNRgM3grca4VKzwRc8cumszKftfhcL6TMSJATWWERRH4"
+      },
+      {
+        "_id": "694177f51c508c5d5ecd97f0",
+        "name": "Samsung Galaxy S259408",
+        "amount": 317,
+        "price": 3100,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-12-16T15:17:09.000Z",
+        "notes": "gAAU85nFzmZ9GOMauQm0P2aXlCqaVIkCZGidD9A7pYxWH8YdLeq09X0TCN1SqcY8iMV4Dd4MX1ee8NClmDk3LHlo55iL8sGqvXFRb67Fs6Yey6hJSxbepYHLw0YM00SRYRLtM4h5pPxWIf4bUEHzKXAGzm6NeUvmj7ojpnCeIp8LjImYHIfac60AGQNGv1YtjzytdzdoS8AgC3S7cLDGZCuK86wup9yDG7Eowprs9u2hc2hAhWmD3kLszK"
+      },
+      {
+        "_id": "694177f51c508c5d5ecd97f9",
+        "name": "iPhone 15 Pro 512GB43557",
+        "amount": 147,
+        "price": 3500,
+        "manufacturer": "Apple",
+        "createdOn": "2025-12-16T15:17:09.000Z",
+        "notes": "V0A5EMWeHhmRRGoKmzVyg1GJmpeMrUrjSpunn2VAj1b1gvFyYIrp1poALYBMNwxoErYSBkNMnwRiw3unSfX5c2oNvAFL2M0lgInyIgkyKQYaoECVUMB5DzNFomiYqqTOPKe2EY2u7QdWyDBxZp3pxhMAZZN22W35PocZynOPbwnux4VSCqWZVh67YgHpbbYiMluFFeAHpikSeb7wKPvlbNDuFzr8YaWCq4ngEm1U7a8kW7YCDydsSPRqVZ"
+      },
+      {
+        "_id": "694177f51c508c5d5ecd97fc",
+        "name": "Samsung Galaxy S2583722",
+        "amount": 879,
+        "price": 3100,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-12-16T15:17:09.000Z",
+        "notes": "jtpGdRQxwIzjnh3pduZgaNSIyXRtDiYo4U5bi2Rtempcc6pSwAexLsSe8IubwB9ReulOmI39tpiBa9rDLGJ24VQykmSi5UiiqmOZYLVdTc1zgSgn0opIes4iUOJll5kmIbKnwpPPzAi9yCB4Tba6Yo98fDVq5OH5xdfLlN9454rZGYzAXqJXfT7qf5o9X6BZe9vtm5LYvXc92rYHCdjssBCvn7IxoRMWkY8f9KMrN7JGo27T6GmEMOsecW"
+      },
+      {
+        "_id": "694177f51c508c5d5ecd9807",
+        "name": "Samsung Galaxy A5554400",
+        "amount": 661,
+        "price": 800,
+        "manufacturer": "Samsung",
+        "createdOn": "2025-12-16T15:17:09.000Z",
+        "notes": "3OTZQTyv0Fg0UCOSUZPdbsTiP9AFRHORR4AFprY9U3gFlyC8522xfKk40Dh2zwodfeCADYpV0ezzL654jNwjDa7Iel31XoCjbpQpsp7uyBp5DpRXvNsX7264JrCGsPYooUFLHJcFQAssUkRYh023jFdLaQdNv5VlxoIHnDyyxGZtOxtW3RTSDmRgzne8TNivkhGpr1wGWEh67R7XXc7BdALw8jEimNeXh8oxclI84hAy5ciQ8Fw13p5lG3"
+      }
+    ],
+    "total": 21,
+    "page": 1,
+    "limit": 10,
+    "search": "",
+    "manufacturer": [
+      "Apple",
+      "Samsung"
+    ],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "desc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:16:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "440",
+    "etag": "W/\"1b8-gKU7njqi//IO8f2tHBp9BpJbvGc\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kamille74@gmail.com",
+      "name": "LZrVmtxldm",
+      "country": "Ukraine",
+      "city": "nSgpPJVzNMR",
+      "street": "G",
+      "house": 71,
+      "flat": 1,
+      "phone": "+6945702603",
+      "createdOn": "2025-12-16T15:16:57.000Z",
+      "notes": "UufQZAIdx8p1bocn1mSLiDHnKc1Fs7fw7pQLEkbkci7lPPPCbdbJjhvthmiwcG2hq3QsKeJOrQgJqcsx0NdtcJf1l4N6ICcr4yeYPaBKfJMirdDux6AuaN8XTqkcFh0f8XabZM2IR4HiQLjQX8baTjizXDKHXTNi",
+      "_id": "694177e91c508c5d5ecd93db"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

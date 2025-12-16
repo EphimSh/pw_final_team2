@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:17:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-MIumvNRDdFoOFF2aD5XGVzGteU8\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra90744",
+      "amount": 208,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-16T15:17:10.000Z",
+      "notes": "GRBuMjpM573wgADS8RWfWIjgz382hH6fvHeeECx0xFd8Voi2JRzy1axnDWuzWWMrGwsNOtjGLZnI6tGh6QEYauKrxKXdFoGFJSf70aHq7GQ2Zak3uBgEgwA12nI8DcR4ZoENnAKt2XKYwqNqmma6QoAFwvXQI3572LxfdZD0R9p5YTYr2iNM24XKkGZJB2FcSFH6J9GiFZa4WGTTMaVhLBdlne8vFh2SyAhR1WuKDuO0BISDdXW5LMjg6o",
+      "_id": "694177f61c508c5d5ecd986c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:16:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "374",
+    "etag": "W/\"176-P6LRmZRiiLdZJfAZDoxxSLoITdc\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "694177e11c508c5d5ecd9025",
+      "email": "Lorenzo17@hotmail.com",
+      "name": "YQAjhnEABJENZeZGyOreLnBcLidiax",
+      "country": "Canada",
+      "city": "eyaEEgl",
+      "street": "egQLIVB",
+      "house": 182,
+      "flat": 5,
+      "phone": "+3802038409",
+      "createdOn": "2025-12-16T15:16:49.000Z",
+      "notes": "X3EOo1oF6FzgQYXuaBl8XM6hxaEnDSh0fWYKFKFo8z3sgqYQUYkZkOSH4564CQ1RprrF7s"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

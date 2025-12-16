@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:17:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-IHJ7/NRPtHl6hTUZ1VAos5RjHVQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car22909",
+      "amount": 157,
+      "price": 99339,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-12-16T15:17:13.000Z",
+      "notes": "xcxQV5NoYvnXjtYpq8w7jM8R9RlhzhghKnM3yALLxj9xixTH0ryhPjdfZICcn4fyhQDhHXFHKkCiEsVm33TbTaFKi5cGUjeXzxkFgVaihXb1cCBq409Xdzibpnz8VL8NcRsX9iwZUZyMFsPlfZETw3meN0QxrIqYn6XNu3xg40QQDUQf7zTy1FIQpghiTczokkUnVqY7k68tMU2ogblYuoOjn3GQb7EWF0o1urdZgr2v9dCBqdSvMjq2qg",
+      "_id": "694177f91c508c5d5ecd994d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

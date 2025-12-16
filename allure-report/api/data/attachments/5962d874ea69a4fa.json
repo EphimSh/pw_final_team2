@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:17:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-xAeCbzRobpvc0/0Mx+LM5cRW4m0\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car80551",
+      "amount": 999,
+      "price": 59070,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-16T15:17:04.000Z",
+      "notes": "99Am2ZbfhctLBUQ1sXSxzxp93BF8aS2omU47WCKP9jobjYMjYpDk6EUhZhgTzkuTNRcC0Q1T8O7N0wmlvEsDJIFpmoAgQloqlA4eef2roDCd98N5H2TeV8ntejrZIj1I9YNbWKxqKo6GWECWM334cis0U2jaPXexA7aigSBD5Xwol1Be1yu5uJsD2kjjRdGIiiouB1BEyhDU0YLZIJd5GHflQRE7DTGcT5w1Sr2B72ofzvsQO8ZYlclTnX",
+      "_id": "694177f01c508c5d5ecd96b5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

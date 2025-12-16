@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:16:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "392",
+    "etag": "W/\"188-qrVoQvED2vxXDF1PYx3m3VuWaqg\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "694177e11c508c5d5ecd902a",
+      "email": "Mona_Armstrong@hotmail.com",
+      "name": "OXXLVgOqWNDLPvDdMTqSuhFXqGtwxXtoKghtV",
+      "country": "Germany",
+      "city": "dazWJJCDxWuSvJWN",
+      "street": "HxFP9KQyxA1TqaO46B7t1hae",
+      "house": 119,
+      "flat": 6,
+      "phone": "+7039185755",
+      "createdOn": "2025-12-16T15:16:49.000Z",
+      "notes": "829SVaLcsUSdn0covTmvxPR0noDIW81DOzF0PnC6f5Cc8ZKT3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

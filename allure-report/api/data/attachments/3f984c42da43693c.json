@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:16:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "439",
+    "etag": "W/\"1b7-7CdK06tq5IOkjLir83ngUYcUrWI\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Keyon.Moore@hotmail.com",
+      "name": "xLxaPIIabKEJsPsZolyJVvuQlonQHSTSmN",
+      "country": "France",
+      "city": "RemDeLvxp",
+      "street": "lK0JqHR8d5yKbsbMQ90kCP8",
+      "house": 90,
+      "flat": 4,
+      "phone": "+6184777931",
+      "createdOn": "2025-12-16T15:16:52.000Z",
+      "notes": "KJ2DTHaWxEFsxe8PCSWGxoB5HhAhj10o6F6UqrS1m0ET8enlMF2H1WdovjHJwrr9QVjGk72jUbWWLl38dbfFWeTsz4TJKvCyi2ZXR1UzUDrJ7o5t",
+      "_id": "694177e41c508c5d5ecd9165"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

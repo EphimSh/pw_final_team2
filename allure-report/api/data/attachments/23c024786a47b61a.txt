@@ -1,0 +1,50 @@
+Data is valid according to the schema.
+Data is valid according to the schema.
+Data is valid according to the schema.
+Data is valid according to the schema.
+{
+  status: 'Draft',
+  customer: {
+    _id: '694177e41c508c5d5ecd9165',
+    email: 'Keyon.Moore@hotmail.com',
+    name: 'xLxaPIIabKEJsPsZolyJVvuQlonQHSTSmN',
+    country: 'France',
+    city: 'RemDeLvxp',
+    street: 'lK0JqHR8d5yKbsbMQ90kCP8',
+    house: 90,
+    flat: 4,
+    phone: '+6184777931',
+    createdOn: '2025-12-16T15:16:52.000Z',
+    notes: 'KJ2DTHaWxEFsxe8PCSWGxoB5HhAhj10o6F6UqrS1m0ET8enlMF2H1WdovjHJwrr9QVjGk72jUbWWLl38dbfFWeTsz4TJKvCyi2ZXR1UzUDrJ7o5t'
+  },
+  products: [
+    {
+      _id: '694177e41c508c5d5ecd9179',
+      name: 'Ball72404',
+      amount: 826,
+      price: 87493,
+      manufacturer: 'Xiaomi',
+      notes: 'wLsD4gqUBO3UWsnsSDzz81gXwG82XL1vo9XAEr4EqlFOL9MGVaCtrpojyhPnjaw819Qzq6YWvhGWNpEdDxJt8OsaUIoqzMjwR5SgvToednoslr3T97PcSeldE1TGq7qPPxswpaHXC6JPpShlG3FPpUVKlnsZjasR5LwliuXQUQMQ62BXTYnibYteIjRdOHLP4TXpsoQ1pgb8su7xhKSqguMhnEPqNdwF2bLoz7MiudbijrAcfsSsIWhMZN',
+      received: false
+    }
+  ],
+  delivery: null,
+  total_price: 87493,
+  createdOn: '2025-12-16T15:16:52.000Z',
+  comments: [],
+  history: [
+    {
+      status: 'Draft',
+      customer: '694177e41c508c5d5ecd9165',
+      products: [Array],
+      total_price: 87493,
+      delivery: null,
+      changedOn: '2025-12-16T15:16:52.000Z',
+      action: 'Order created',
+      performer: [Object],
+      assignedManager: null
+    }
+  ],
+  assignedManager: null,
+  _id: '694177e41c508c5d5ecd9195'
+}

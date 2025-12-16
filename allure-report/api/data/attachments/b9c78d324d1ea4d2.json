@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:17:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-QFRHjRIi7GRyfBS/X2n9uxEACHQ\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard31292",
+      "amount": 219,
+      "price": 5216,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-12-16T15:17:04.000Z",
+      "notes": "W94LSNCVMzF9jvI28sGCgeCA1MXTjaQDcbPMKW68Ft0F8U6QOGcF22DivDrnB3bJFxKKt7My4aSJwH4kjfViZZNWZdBbhISerE1WdCcBDCRtoRzrp9J7smIOlfnBLQtriNP7kBFkVJApbEQsMKRy4MkLKzHWD7RqZtjOTzecA3vdKIxzBDmSmZmlLxbh94jTHNAePI2KkMRoawrktGtagcO9oFw6WgHmDJhJwbcEVk81sLp4KT88A3iR7Z",
+      "_id": "694177f01c508c5d5ecd96bb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

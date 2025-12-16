@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:17:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "192",
+    "etag": "W/\"c0-q1yE4A+YiNEremETF5+mfGggGvQ\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table87396",
+      "amount": 257,
+      "price": 51957,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-16T15:17:04.000Z",
+      "_id": "694177f01c508c5d5ecd96bf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

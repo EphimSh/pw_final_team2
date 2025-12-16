@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:16:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "488",
+    "etag": "W/\"1e8-YruHjJfvfeihyjVNG+2z6ohAg6U\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jordy_Mills@gmail.com",
+      "name": "WVLWuhPFiVzX",
+      "country": "Belarus",
+      "city": "OaqWVNhBL",
+      "street": "SBwS5GtmnenvTGFpGosEHRxw9jkKpeCwe6qQ",
+      "house": 166,
+      "flat": 9,
+      "phone": "+3341659064",
+      "createdOn": "2025-12-16T15:16:48.000Z",
+      "notes": "v2QUFFWgNrQlrLcgUT8aS2JLKdVZsx0jhyToDNgWy58Rz5kZ9jSmcNkFURUkCexDakqeSDC6dDfxeQE9ZyZwBYSepFt6mq4ecS2W96fwzDLUzMu2RDY0wrdgPPvUZgy7oOyTVZUU2qlzRf1RDsCNM8Xr00QzII7oY6O04KHdUx",
+      "_id": "694177e01c508c5d5ecd8fdf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

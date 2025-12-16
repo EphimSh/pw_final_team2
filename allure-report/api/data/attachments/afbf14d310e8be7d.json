@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:16:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "393",
+    "etag": "W/\"189-ws+CWGfZaJeoqzqtXalwuSFi7yc\"",
+    "keep-alive": "timeout=5, max=78",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Karianne.Hand@hotmail.com",
+      "name": "XT",
+      "country": "USA",
+      "city": "egIBFukyxwIPoEcagZER",
+      "street": "NVR3Yu9INiCKonTZKekUZNIfH",
+      "house": 155,
+      "flat": 9,
+      "phone": "+0473557560",
+      "createdOn": "2025-12-16T15:16:52.000Z",
+      "notes": "4yPTgeEmC4XsuNvRFSdqEx03Oi2vbeQYYRRm8buXZTkC0IZ8PB7p4ZooJ6dSt6h7p5YtvMYAR4mapWw4h2Vmj",
+      "_id": "694177e41c508c5d5ecd91b9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

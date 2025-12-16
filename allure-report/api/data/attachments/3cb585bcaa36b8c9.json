@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:16:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-Z582Gs3GSrtnR2F0V/Z2fdDqPI4\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna18452",
+      "amount": 945,
+      "price": 91072,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-12-16T15:16:59.000Z",
+      "notes": "L1m4NC4vEhAlWPwYlKm9Xf2bpYeGxk9WULiNepF1zxe1K8up3lvvnzKSwe202fkCS7ZrJ3CfvYuvwhSWATAqZ6MKz8C0TBxIs1GPQCcNXeLh9wRSdKXXs2obBphJsEAxeXiabcHvwOWMPnq7E7KgiXI7NPmneL4JlmMYO50lpe34iSb9oJ8t90io3AwP2Hl8TT2Pv5CjSihGgDOrKmyM0c5RjtYCX7RyscXyqRTeCKnYyp5rXrnUh2ewEY",
+      "_id": "694177eb1c508c5d5ecd94cd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:17:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "343",
+    "etag": "W/\"157-6ynuJ5K1qfEiFaVS28rDOKxr8UI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Juvenal_Wolff54@yahoo.com",
+      "name": "UgXK",
+      "country": "Russia",
+      "city": "BOC",
+      "street": "yyWXNiuaIGqvwcQmeyei4JN8YEBaIfUdQ8oo75rJ",
+      "house": 180,
+      "flat": 8,
+      "phone": "+9850172639",
+      "createdOn": "2025-12-16T15:17:01.000Z",
+      "notes": "0u7G5xHDJa6JMADH6c4LMoWYTUttkRNJ",
+      "_id": "694177ed1c508c5d5ecd956e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

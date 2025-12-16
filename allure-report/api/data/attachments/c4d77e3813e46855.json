@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:16:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2803",
+    "etag": "W/\"af3-jipjMhfquj/SE8XAdwog/+TY+4Y\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "694177e51c508c5d5ecd91fc",
+      "status": "Draft",
+      "customer": {
+        "_id": "694177e41c508c5d5ecd91b9",
+        "email": "Karianne.Hand@hotmail.com",
+        "name": "XT",
+        "country": "USA",
+        "city": "egIBFukyxwIPoEcagZER",
+        "street": "NVR3Yu9INiCKonTZKekUZNIfH",
+        "house": 155,
+        "flat": 9,
+        "phone": "+0473557560",
+        "createdOn": "2025-12-16T15:16:52.000Z",
+        "notes": "4yPTgeEmC4XsuNvRFSdqEx03Oi2vbeQYYRRm8buXZTkC0IZ8PB7p4ZooJ6dSt6h7p5YtvMYAR4mapWw4h2Vmj"
+      },
+      "products": [
+        {
+          "_id": "694177e51c508c5d5ecd91d5",
+          "name": "Shirt26551",
+          "amount": 39,
+          "price": 85219,
+          "manufacturer": "Apple",
+          "notes": "A8mgGypxnA6YbW4sljXSPcVhrjNwlwyEySxaFJ4QMAJlbZViuUP02qgPm7nXXsOEX4AErrebyQhtxNeOvqDjxO11s2sA2kKUiuaFStNqzq6m9AGJDEPR6NmQp84TJOYEdI7up2enhIkB9xrjBOJksCOhLoJSavbyyhqK2R2iHzPxt4FNsNwxRNrTVyR3mCG88liwF9DSLY02cwOIGqUjoQzmTGGqgpt8fq80in3DsUNjQOM63Rhs2fw3sP",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "USA",
+          "city": "Mock City KVReXn",
+          "street": "MockStreetkbNWG52ZhBi7",
+          "house": 192,
+          "flat": 5
+        },
+        "finalDate": "2025-12-21T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 85219,
+      "createdOn": "2025-12-16T15:16:53.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "694177e41c508c5d5ecd91b9",
+          "products": [
+            {
+              "_id": "694177e51c508c5d5ecd91d5",
+              "name": "Shirt26551",
+              "amount": 39,
+              "price": 85219,
+              "manufacturer": "Apple",
+              "notes": "A8mgGypxnA6YbW4sljXSPcVhrjNwlwyEySxaFJ4QMAJlbZViuUP02qgPm7nXXsOEX4AErrebyQhtxNeOvqDjxO11s2sA2kKUiuaFStNqzq6m9AGJDEPR6NmQp84TJOYEdI7up2enhIkB9xrjBOJksCOhLoJSavbyyhqK2R2iHzPxt4FNsNwxRNrTVyR3mCG88liwF9DSLY02cwOIGqUjoQzmTGGqgpt8fq80in3DsUNjQOM63Rhs2fw3sP",
+              "received": false
+            }
+          ],
+          "total_price": 85219,
+          "delivery": {
+            "address": {
+              "country": "USA",
+              "city": "Mock City KVReXn",
+              "street": "MockStreetkbNWG52ZhBi7",
+              "house": 192,
+              "flat": 5
+            },
+            "finalDate": "2025-12-21T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2025-12-16T15:16:53.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "694177e41c508c5d5ecd91b9",
+          "products": [
+            {
+              "_id": "694177e51c508c5d5ecd91d5",
+              "name": "Shirt26551",
+              "amount": 39,
+              "price": 85219,
+              "manufacturer": "Apple",
+              "notes": "A8mgGypxnA6YbW4sljXSPcVhrjNwlwyEySxaFJ4QMAJlbZViuUP02qgPm7nXXsOEX4AErrebyQhtxNeOvqDjxO11s2sA2kKUiuaFStNqzq6m9AGJDEPR6NmQp84TJOYEdI7up2enhIkB9xrjBOJksCOhLoJSavbyyhqK2R2iHzPxt4FNsNwxRNrTVyR3mCG88liwF9DSLY02cwOIGqUjoQzmTGGqgpt8fq80in3DsUNjQOM63Rhs2fw3sP",
+              "received": false
+            }
+          ],
+          "total_price": 85219,
+          "delivery": null,
+          "changedOn": "2025-12-16T15:16:53.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

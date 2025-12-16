@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:17:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-Xvv8bTOa+m10gOzgJoA/TivQmnY\"",
+    "keep-alive": "timeout=5, max=63",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap8125",
+      "amount": 706,
+      "price": 6115,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-16T15:17:15.000Z",
+      "notes": "DdCbj2nUTcJgTlWoKTfzKtr0eCc8Fplbdb1sfUyBRSEJx2VXHxi7qwYQIEXEkVk6CfydnNel3DyFKYrY0hXgFdB24r057Hr3Rgq5HdqxHrx0bwUab8iY1Z3gGzjwleK4cKPyifbNQApsDmgkE6K9eit6fklLsc0SwbiFaXt1UwBOQNKaWGOZOytktT4J26AdyzPCYda8jLcRF2RNP1FBB5nn1jruEalAP8NqTYmlEm1Dvemc5p35WIwaOC",
+      "_id": "694177fb1c508c5d5ecd99e1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:17:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "465",
+    "etag": "W/\"1d1-1aAGtk1MALsP+fTmgGHUj4888Jo\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra71531",
+      "amount": 16,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-12-16T15:17:11.000Z",
+      "notes": "ZWKK1KPa3BCYACfMHKB62oFcNQ8KcgBFqD5Sl0jsSdbsdjaFJiW1y9tGMwuzDKP3DPRGRm5QzusXV5Ll3zGyfVYjh81PwWsflU8Sorw1V6yXdfwmuarcJtQsHt2QbLbHfFaxAxuCYsmJglOjjstmIK1VdiojmYzsGS7XA1gDNaPxY7eF224A7jcPuNMATOMUM8OsIIHmPrpuxUzLoVNzFBcrw6Rq6avvzd5Ul2JKxlZshNVwLi5I0ZQ33s",
+      "_id": "694177f71c508c5d5ecd9880"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

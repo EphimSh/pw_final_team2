@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:17:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "446",
+    "etag": "W/\"1be-ldbku7yve+dx/5z2wsy92TJZ51o\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "MYH",
+      "amount": 44,
+      "price": 11981,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-16T15:17:03.000Z",
+      "notes": "psa55MpfXfBBLqP1CBTFltYZmHRk6kbD1xJIkp9VkKRT4DISlHTEpaMqGI9QuQAbuMOsg0avqQE66VmK6b5hW0BDd6YGgrDveREQYLxYwXGBdejDVp9xz6UX8gnOyw5gDqdFj6NoAI6CTN7i0HtFBGLDq49FNssx8mg92fHEoxUtcAJcVMSiTDJvwEv8vJsGotDhyfTFSDUXgNtdENL56IcR1GA5uTQZQWzpYMIK5upj7BUdXQZcQVl4cI",
+      "_id": "694177ef1c508c5d5ecd9679"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

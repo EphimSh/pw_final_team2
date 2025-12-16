@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:16:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1910",
+    "etag": "W/\"776-oB/Eb+3xCZw1JXL+MjW4ldXxDJM\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "694177e71c508c5d5ecd92e2",
+        "email": "Gunnar_Emard20@hotmail.com",
+        "name": "ZOorEiiWdzzWSnYjbILytRUuhxIoer",
+        "country": "USA",
+        "city": "IPBhXZtInvjivTLS",
+        "street": "JMsw52gUjbmnVn1rMZDbTGDN",
+        "house": 177,
+        "flat": 8,
+        "phone": "+5536289400",
+        "createdOn": "2025-12-16T15:16:55.000Z",
+        "notes": "5SFtWsVvKRXdE5dS67XQreyEz9BJW8u1BT5qysHOwqiXTpexpGbHbqfOWq8ECUpx86TTdSLYnxw7FBs9z0zfg7nu3SHlAVsdoGFSDCWRpGtfZ9AI4ZblxlvStoSoEcMfnNAT0CGmZAXRugW0u4Gb9FXgvAmmEu1o201Tpp6k4F9cdcKMBhfkwa4rM7nzDVO44i0PVWz97VnLFtFKB8M0WIC1kUsqqPOZnduYR6xfNHQQhvu614CistZc"
+      },
+      "products": [
+        {
+          "_id": "694177e71c508c5d5ecd9306",
+          "name": "Bacon17763",
+          "amount": 919,
+          "price": 64775,
+          "manufacturer": "Google",
+          "notes": "AlH3DgzlDUN7BMj7ehOvdV9ut6CjAMURAZH7mw6NKm9qUnOuTWM0eK5swVhpot7GFelyRzxu4xsxABIVPq1opCXL9M2BSb5qTaz8hfxuLGruP9otsejcvf9RFzFlhrJidhMLiKBI3qbPyHRCOhYWgXuK2LOWDAzCsrsBE3ITFCZQYwx0ryg0pNtRAv2n9S1kAu3GxKu5btv5uJFfDUW25AWYW8cNzkUFgbpRfKsjFfPLao39Z5Sm4KcGiZ",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 64775,
+      "createdOn": "2025-12-16T15:16:56.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "694177e71c508c5d5ecd92e2",
+          "products": [
+            {
+              "_id": "694177e71c508c5d5ecd9306",
+              "name": "Bacon17763",
+              "amount": 919,
+              "price": 64775,
+              "manufacturer": "Google",
+              "notes": "AlH3DgzlDUN7BMj7ehOvdV9ut6CjAMURAZH7mw6NKm9qUnOuTWM0eK5swVhpot7GFelyRzxu4xsxABIVPq1opCXL9M2BSb5qTaz8hfxuLGruP9otsejcvf9RFzFlhrJidhMLiKBI3qbPyHRCOhYWgXuK2LOWDAzCsrsBE3ITFCZQYwx0ryg0pNtRAv2n9S1kAu3GxKu5btv5uJFfDUW25AWYW8cNzkUFgbpRfKsjFfPLao39Z5Sm4KcGiZ",
+              "received": false
+            }
+          ],
+          "total_price": 64775,
+          "delivery": null,
+          "changedOn": "2025-12-16T15:16:56.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "694177e81c508c5d5ecd9330"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

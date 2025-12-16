@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:16:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "383",
+    "etag": "W/\"17f-pNxonDrO8GY0XUaVBn1di5p25Vk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Marion98@hotmail.com",
+      "name": "Ua",
+      "country": "Canada",
+      "city": "LlhIBvEjdXbrVfj",
+      "street": "SDqtMPhiHCoGdbx5XfKnTHYdjmeyeYG",
+      "house": 71,
+      "flat": 3,
+      "phone": "+2960327358",
+      "createdOn": "2025-12-16T15:16:49.000Z",
+      "notes": "s8iu1P85QO0JxolsZy1eMu4PeSUFH2tuJITrsMf31nNy6eyoBav5UJb3qltRKfwC8Z3gQqsVKE7v9",
+      "_id": "694177e11c508c5d5ecd9053"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

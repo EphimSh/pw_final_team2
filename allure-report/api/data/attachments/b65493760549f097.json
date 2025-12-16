@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:16:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "327",
+    "etag": "W/\"147-PTtjgSrmRpPw/F4MMH8Yk7hl/5Q\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Giovanna.Rolfson15@hotmail.com",
+      "name": "R",
+      "country": "Germany",
+      "city": "tel",
+      "street": "MXovmtJEHq",
+      "house": 91,
+      "flat": 7,
+      "phone": "+1174117284",
+      "createdOn": "2025-12-16T15:16:53.000Z",
+      "notes": "vWiSKONNsAVVoIWuwoCElx9JIzpDH6ZbPF7dKSJlbOPF",
+      "_id": "694177e51c508c5d5ecd91e1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

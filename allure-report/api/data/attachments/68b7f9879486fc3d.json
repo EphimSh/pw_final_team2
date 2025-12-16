@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:17:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-BJq9rpvz1cEhK33+hIC362Ae1P8\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna55715",
+      "amount": 0,
+      "price": 53851,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-12-16T15:17:04.000Z",
+      "notes": "YhWjsbwmRuQsWQir53q4y5746nKQ7G7y6VtW12JRYLTwjtptUIm8yKVAAQgNNquqZhVsUR0bQXoGyxCJYoUqn9GnMqVPRyHI8vYJzgYHdqwaZeo7nrrkzHJe65TCa2jqji40fe5da3jvVCsNa0cXzXBt7VCbl6yR0oiugB5ibwQov64beYa32X2rEr6qEgIRFXCSa2Ko71Xe4yinMXksj2ku3X3x8qhIIXc1u8PW830MVJ7oFjvqOPSVJD",
+      "_id": "694177f01c508c5d5ecd96b0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

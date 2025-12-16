@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Tue, 16 Dec 2025 15:17:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-SV9DyKJNzaoDdrQw9Qcpb3sIGDs\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer78315",
+      "amount": 134,
+      "price": 26250,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-12-16T15:17:15.000Z",
+      "notes": "1nAjPzti58MBVKxRfzEm13Jw0ZH0U8Q93mDYwfwIoodWj8tFYIMygJDrKyj1ZlDR1G2ZAB9iP5hvQuZBh8aPlE6ts46sZwmvV1TTVUwAnjmXYrk4S4wxKfFiKkAu09YbFsYN0UR93QwXya25j6y8J93lIQCEjjxq18NZJvStyqkMH21BW9Y9AH1oJ2T5yN5m61nq6V0RSAQ2GwMD2PyhSgYBjSBz70xP7foU7G7HpokzdKhHO1b6SiWcMb",
+      "_id": "694177fb1c508c5d5ecd99bf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
