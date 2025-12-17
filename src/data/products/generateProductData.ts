@@ -27,3 +27,7 @@ export function generateProductResponseData(params?: Partial<IProduct>): IProduc
     notes: initial.notes!,
   };
 }
+
+export function generateProductID() {
+  return new ObjectId().toHexString();
+}

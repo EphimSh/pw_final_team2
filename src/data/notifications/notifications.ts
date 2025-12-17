@@ -17,4 +17,6 @@ export const ERROR_MESSAGES = {
     `Cast to ObjectId failed for value "${value}" (type string) at path "${path}" for model "${model}"`,
   COMMENT_NOT_FOUND: `Comment was not found`,
   ORDER_NOT_FOUND: (id: string) => `Order with id ${id} wasn't found`,
+  MISSING_CUSTOMER: "Missing customer",
+  MISSING_PRODUCT_ID: "Id was not provided",
 };
