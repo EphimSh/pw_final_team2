@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:54:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "473",
+    "etag": "W/\"1d9-ZhUuwTHaRXj14E2GeBZpSlWA1Tc\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Microsoft Surface Duo 31779",
+      "amount": 184,
+      "price": 2200,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-12-17T21:54:39.000Z",
+      "notes": "xLZjNvchNre8JiLGdaVImeT2jXbUUO7JcLKEgfPQeQZ3CsisqgMkj2comXCQ4G4x0VNfaIcgAJQ2rtcM2vHjvoTyTfE6GP3rOyJwEqfZ4W7dXCk1qpsq7yIAI6T8GQTnRJfJHutzjLl5qEqYMJ03ab4wU9Y46OOYX2sc8j1bQZUoOS7d7ZefqzdpnkQvfcdpoS4F2dqlDQF7o06yF7nlxtH2fs5liDf1DlXbCUq73NyEh0xZHwCeKOOpGo",
+      "_id": "6943269f1c508c5d5ed1f1ae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

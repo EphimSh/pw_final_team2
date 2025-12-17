@@ -1,0 +1,173 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:52:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3662",
+    "etag": "W/\"e4e-q47MpQO7B9jgph0o/h9i2JWqo38\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "694326271c508c5d5ed1b28a",
+      "status": "In Process",
+      "customer": {
+        "_id": "694326241c508c5d5ed1b0c6",
+        "email": "Katharina6@gmail.com",
+        "name": "pdjpqL",
+        "country": "Russia",
+        "city": "HDvuptdUVE",
+        "street": "xOa7QCvrKqeM3fj",
+        "house": 169,
+        "flat": 3,
+        "phone": "+8756666401",
+        "createdOn": "2025-12-17T21:52:36.000Z",
+        "notes": "FjhrDNs9MLA3VJUIfbQ9U2nDDK0QHxyVJCsxpaqBp"
+      },
+      "products": [
+        {
+          "_id": "694326251c508c5d5ed1b118",
+          "name": "Bacon80984",
+          "amount": 521,
+          "price": 65822,
+          "manufacturer": "Google",
+          "notes": "3IlUqwxhZtl4eXxGZ95NE8F67fU5Ks6vXC18dBW0T1zsXtEt0L981x2YMsJeyA8KUXZk6w4nkCCHyEK7SnVWmMN5FRJWe7CPpQHSeOCIqIwENa3HpgRU4Yl6bIHVoER0ff0sU6tekceAkLKOQEpTAh4HbVo93T3RbQUPl3V8URADw47SJtKJA4ssod9WmTci3SMM0aJHcpdRXKxgB6nz4lfcUxgZkbytPBzrVk5x90m5wzf5Eof8f3zUd1",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "USA",
+          "city": "Mock City LQSLZbVw",
+          "street": "MockStreetlo",
+          "house": 195,
+          "flat": 15
+        },
+        "finalDate": "2025-12-22T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 65822,
+      "createdOn": "2025-12-17T21:52:39.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "In Process",
+          "customer": "694326241c508c5d5ed1b0c6",
+          "products": [
+            {
+              "_id": "694326251c508c5d5ed1b118",
+              "name": "Bacon80984",
+              "amount": 521,
+              "price": 65822,
+              "manufacturer": "Google",
+              "notes": "3IlUqwxhZtl4eXxGZ95NE8F67fU5Ks6vXC18dBW0T1zsXtEt0L981x2YMsJeyA8KUXZk6w4nkCCHyEK7SnVWmMN5FRJWe7CPpQHSeOCIqIwENa3HpgRU4Yl6bIHVoER0ff0sU6tekceAkLKOQEpTAh4HbVo93T3RbQUPl3V8URADw47SJtKJA4ssod9WmTci3SMM0aJHcpdRXKxgB6nz4lfcUxgZkbytPBzrVk5x90m5wzf5Eof8f3zUd1",
+              "received": false
+            }
+          ],
+          "total_price": 65822,
+          "delivery": {
+            "address": {
+              "country": "USA",
+              "city": "Mock City LQSLZbVw",
+              "street": "MockStreetlo",
+              "house": 195,
+              "flat": 15
+            },
+            "finalDate": "2025-12-22T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2025-12-17T21:52:46.000Z",
+          "action": "Order processing started",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "694326241c508c5d5ed1b0c6",
+          "products": [
+            {
+              "_id": "694326251c508c5d5ed1b118",
+              "name": "Bacon80984",
+              "amount": 521,
+              "price": 65822,
+              "manufacturer": "Google",
+              "notes": "3IlUqwxhZtl4eXxGZ95NE8F67fU5Ks6vXC18dBW0T1zsXtEt0L981x2YMsJeyA8KUXZk6w4nkCCHyEK7SnVWmMN5FRJWe7CPpQHSeOCIqIwENa3HpgRU4Yl6bIHVoER0ff0sU6tekceAkLKOQEpTAh4HbVo93T3RbQUPl3V8URADw47SJtKJA4ssod9WmTci3SMM0aJHcpdRXKxgB6nz4lfcUxgZkbytPBzrVk5x90m5wzf5Eof8f3zUd1",
+              "received": false
+            }
+          ],
+          "total_price": 65822,
+          "delivery": {
+            "address": {
+              "country": "USA",
+              "city": "Mock City LQSLZbVw",
+              "street": "MockStreetlo",
+              "house": 195,
+              "flat": 15
+            },
+            "finalDate": "2025-12-22T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2025-12-17T21:52:40.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "694326241c508c5d5ed1b0c6",
+          "products": [
+            {
+              "_id": "694326251c508c5d5ed1b118",
+              "name": "Bacon80984",
+              "amount": 521,
+              "price": 65822,
+              "manufacturer": "Google",
+              "notes": "3IlUqwxhZtl4eXxGZ95NE8F67fU5Ks6vXC18dBW0T1zsXtEt0L981x2YMsJeyA8KUXZk6w4nkCCHyEK7SnVWmMN5FRJWe7CPpQHSeOCIqIwENa3HpgRU4Yl6bIHVoER0ff0sU6tekceAkLKOQEpTAh4HbVo93T3RbQUPl3V8URADw47SJtKJA4ssod9WmTci3SMM0aJHcpdRXKxgB6nz4lfcUxgZkbytPBzrVk5x90m5wzf5Eof8f3zUd1",
+              "received": false
+            }
+          ],
+          "total_price": 65822,
+          "delivery": null,
+          "changedOn": "2025-12-17T21:52:39.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

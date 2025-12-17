@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:52:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-VKFRA++aXFLFbmsk47wMn2EAcNE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad52520",
+      "amount": 936,
+      "price": 191,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-17T21:52:53.000Z",
+      "notes": "F7wR3yUK7faaRDZ8S3pj0Wa6aaLs3DV0FQnzOJxD1xpx1MzZLJ1S5bTD6WuM35aGl1JJm3hU35GDKr84cyVZXE7bSWVi3t0bIUkkEJArnqBxJh6A0mcXChDYqHxttZGgBOrC642Baup9GdCdIhPuHNxfMzyN6iJmfhgLrtA4eyVeVcHgIn3CLaIw7rC7Rb54AdAiJzTr5e0IuNLsSMZjXb1m3kszFsWMOy4l3SKCxL4pYzn6IbAr3QW2g1",
+      "_id": "694326351c508c5d5ed1b956"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

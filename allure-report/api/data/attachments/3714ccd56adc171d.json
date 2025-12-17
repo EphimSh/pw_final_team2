@@ -1,0 +1,173 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:53:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3846",
+    "etag": "W/\"f06-m2ZEs+1JkBcy9+cPFcDNsAslMT4\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "694326661c508c5d5ed1d311",
+      "status": "Canceled",
+      "customer": {
+        "_id": "694326611c508c5d5ed1cff8",
+        "email": "Blair_Fritsch@gmail.com",
+        "name": "KaezRJcxcSceGoWyhDvHBTFKhpFEpWHngdsqmz",
+        "country": "Germany",
+        "city": "Iqgmu",
+        "street": "xL3Ens4ADregIAUUlMOrOX4",
+        "house": 61,
+        "flat": 5,
+        "phone": "+0261868162",
+        "createdOn": "2025-12-17T21:53:37.000Z",
+        "notes": "wUaGldAfjrNiUvEcYFd0LWkWADPKT8ZmYNpUxBZGOZMKJrBjjfScQhbUkzHBMN2PU71MkSzI7Yaln9X5oiEeuC4HLidtWwyN60qrUv14mo2RkmYvwlmEgbej3zqMn4kXPyv2kFYFe4AgyYmHkrooswyGyvkICVkMU5E5c5vAQHNTlzSIKvO4hfh5JGlQpDZTDe7eqWGG"
+      },
+      "products": [
+        {
+          "_id": "694326621c508c5d5ed1d0d3",
+          "name": "Chips82529",
+          "amount": 5,
+          "price": 67390,
+          "manufacturer": "Google",
+          "notes": "RkFwsqaYqOey6bZl6gO3aY7Pqq1g9gw4Q8p47QSUIrAuYhoG4BZsLlwNer4qSF1cDwxameTuIFGJ4aEYzXO9r28mxItwla7cmvts5nP438JzVmt4TqpdjERsCoviEXMajR3J92ZhhAjFaEkWSF0pQs03hmQlmCwkNDPATD0bjQGkTfWLDMqcG7utFGxFWJM4EWD5r7aQ76bt9YaJUN6SgAfCAB2t5R2u76CDoc2tDo5ZXsMqWZ6i1riUND",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Ukraine",
+          "city": "Mock City EAEpW",
+          "street": "MockStreetnwnkqq",
+          "house": 36,
+          "flat": 6
+        },
+        "finalDate": "2025-12-22T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 67390,
+      "createdOn": "2025-12-17T21:53:42.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Canceled",
+          "customer": "694326611c508c5d5ed1cff8",
+          "products": [
+            {
+              "_id": "694326621c508c5d5ed1d0d3",
+              "name": "Chips82529",
+              "amount": 5,
+              "price": 67390,
+              "manufacturer": "Google",
+              "notes": "RkFwsqaYqOey6bZl6gO3aY7Pqq1g9gw4Q8p47QSUIrAuYhoG4BZsLlwNer4qSF1cDwxameTuIFGJ4aEYzXO9r28mxItwla7cmvts5nP438JzVmt4TqpdjERsCoviEXMajR3J92ZhhAjFaEkWSF0pQs03hmQlmCwkNDPATD0bjQGkTfWLDMqcG7utFGxFWJM4EWD5r7aQ76bt9YaJUN6SgAfCAB2t5R2u76CDoc2tDo5ZXsMqWZ6i1riUND",
+              "received": false
+            }
+          ],
+          "total_price": 67390,
+          "delivery": {
+            "address": {
+              "country": "Ukraine",
+              "city": "Mock City EAEpW",
+              "street": "MockStreetnwnkqq",
+              "house": 36,
+              "flat": 6
+            },
+            "finalDate": "2025-12-22T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2025-12-17T21:53:55.000Z",
+          "action": "Order canceled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "694326611c508c5d5ed1cff8",
+          "products": [
+            {
+              "_id": "694326621c508c5d5ed1d0d3",
+              "name": "Chips82529",
+              "amount": 5,
+              "price": 67390,
+              "manufacturer": "Google",
+              "notes": "RkFwsqaYqOey6bZl6gO3aY7Pqq1g9gw4Q8p47QSUIrAuYhoG4BZsLlwNer4qSF1cDwxameTuIFGJ4aEYzXO9r28mxItwla7cmvts5nP438JzVmt4TqpdjERsCoviEXMajR3J92ZhhAjFaEkWSF0pQs03hmQlmCwkNDPATD0bjQGkTfWLDMqcG7utFGxFWJM4EWD5r7aQ76bt9YaJUN6SgAfCAB2t5R2u76CDoc2tDo5ZXsMqWZ6i1riUND",
+              "received": false
+            }
+          ],
+          "total_price": 67390,
+          "delivery": {
+            "address": {
+              "country": "Ukraine",
+              "city": "Mock City EAEpW",
+              "street": "MockStreetnwnkqq",
+              "house": 36,
+              "flat": 6
+            },
+            "finalDate": "2025-12-22T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2025-12-17T21:53:48.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "694326611c508c5d5ed1cff8",
+          "products": [
+            {
+              "_id": "694326621c508c5d5ed1d0d3",
+              "name": "Chips82529",
+              "amount": 5,
+              "price": 67390,
+              "manufacturer": "Google",
+              "notes": "RkFwsqaYqOey6bZl6gO3aY7Pqq1g9gw4Q8p47QSUIrAuYhoG4BZsLlwNer4qSF1cDwxameTuIFGJ4aEYzXO9r28mxItwla7cmvts5nP438JzVmt4TqpdjERsCoviEXMajR3J92ZhhAjFaEkWSF0pQs03hmQlmCwkNDPATD0bjQGkTfWLDMqcG7utFGxFWJM4EWD5r7aQ76bt9YaJUN6SgAfCAB2t5R2u76CDoc2tDo5ZXsMqWZ6i1riUND",
+              "received": false
+            }
+          ],
+          "total_price": 67390,
+          "delivery": null,
+          "changedOn": "2025-12-17T21:53:42.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

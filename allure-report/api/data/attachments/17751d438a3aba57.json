@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:55:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-xSQUB2BJKsZ5NvEsmbMj+ePORI4\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro6192",
+      "amount": 532,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-17T21:55:23.000Z",
+      "notes": "k0rKkS0Jc8i8QYWl9kpWZGARaijyWVzO4ZE0SG039cuImlRzVWoiuQyft3a6Z3x40omeV87wgP1tmyGaJgLalRmReVONjpEtMI2PyjlJZke4rKZq0BV36adfCnSOoKvYl110pI6GiJgHrwUv6g2kmOdWGsw5veA3JTgrAEUaUaGe5uWoUMWAj3TMcgHvNpppvy5xWKSVa1Umk4LRhmuamci2yzk2qeJMjoThKVE33W6yOsnFiccGQ1I723",
+      "_id": "694326cb1c508c5d5ed20957"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

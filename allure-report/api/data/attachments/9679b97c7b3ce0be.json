@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:55:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-L1bH5qsykqYdBsHlbECmq0gVovE\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra33271",
+      "amount": 422,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-17T21:55:24.000Z",
+      "notes": "iXf5iXJJDrGMiZ5wdQpK9YRfcql28TcDMFO7X5nyWXXQNWF5KzYXfnCdELekWigyQuG3BhDdraVF8TwbvdiyQdgBNIjnkIBz3OvR5p0eiIqwSEaxq80Ty9FVF9FGzhPtU0S3IRlk79XCKKnw1vRnc9bLCwhBy9N4IwLvZEVM3R24fZmCXRNXnqKXVLxmqiyIDsJyTYJW4yAs3Kklw3ChtbTWZvkfG1mrYbSRh1Mi98WDfknPx00pWV68So",
+      "_id": "694326cc1c508c5d5ed2096a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

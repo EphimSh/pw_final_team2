@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:55:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-5AVpcrLeK/0JS54MBvxI/XO/FMk\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "694326cc1c508c5d5ed20972",
+      "name": "Computer92859",
+      "amount": 23,
+      "price": 54826,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-17T21:55:24.000Z",
+      "notes": "GYYuOPvW0HB6Ii0AqqlV8LhVBdwc6Vh0Ox1YwizWlrNzzZJCNQQ3b3FN1iNVJzwZE71J8TW8d0HHYETINhPGDLVZfwgU8adLMB1HAZ31quBaJVz0nKGEbaVZgpcR8D6growG6UMrYyeJHarf0SHMtnZnklIzrOWrf1HO9baCOhR4ydpVNkyuu6GskjAPjaXc4tDXC2M4PTyBUe91sBBC6HsaxkSaPRSgvxGqoDRQmCi0N7Rhr2a1jPM0vb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

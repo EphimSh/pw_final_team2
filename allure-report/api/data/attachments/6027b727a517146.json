@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:52:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "412",
+    "etag": "W/\"19c-jRs1Lt57y8e2VNUvCwrVEhg9fUw\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Floy_Haley@hotmail.com",
+      "name": "juqUvsscso",
+      "country": "Russia",
+      "city": "JniTmndUQ",
+      "street": "RV2A1pF5p2re255P",
+      "house": 18,
+      "flat": 6,
+      "phone": "+3677069831",
+      "createdOn": "2025-12-17T21:52:26.000Z",
+      "notes": "ulo1yrwmQc1wpOdMMIte6CAiKVj8fLeWMH4CsFtcjSArnXaaT0nBuswA1N6L2yyN4l8Vdz5vj6R2j4T4gYNHcKdy4lgAb4b3DiACBtnh5D0V1e5cerGOH",
+      "_id": "6943261a1c508c5d5ed1abd2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:54:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-ZR1BGFqA6RCdrgL9KIQMTBZfyr8\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "6943269d1c508c5d5ed1f036",
+      "name": "Keyboard24781",
+      "amount": 73,
+      "price": 90884,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-17T21:54:37.000Z",
+      "notes": "PwVHpvxZ0zGI98HycNFGyjaNV12M4ueDMWtVIckjIcdD38sKFmg2Z20KU8z9ZBas9RqU03pE9RDYEGQ9kQ7p326wFoSZOtD4w41FWrqWYMwrIAFYBxodDQsKumXfJhUKDnc0tFdfeVxIr8WpyL6INUQFBy9wmeiqugIvjs9FnxTnvEaEyGLIKBLUnNq2jkLqbgLrm8hVMTkGcyRyOWUiNa4MEqYuiJOGTKu7vaPH7tgl1jSbPCEONCKtgr"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

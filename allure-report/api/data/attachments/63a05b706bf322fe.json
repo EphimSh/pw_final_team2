@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:54:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-UtGaSLv4ku7BjLZA2iqFzUH4xZg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse25345",
+      "amount": 183,
+      "price": 99999,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-17T21:54:04.000Z",
+      "notes": "a3dXTEKhQJPo79rxlMmqqRHHGA7mWGLHaWeqgFCWkK9Uu1USloqklAjhk0CcgH4GNOMTB2SAkUtPd6ZTJjMfJ7IyC8ExTekFJMSo2FqNqatHB2kV0OSNoibrXxhp0pY9rYTWSs6gFpqqvyOThLycddploPZxXs53QvkGsKgEcEsRPaZ06KgyPq1O1tOjOiRYykygFapl4wCkvsDYdKJWESa9iSo8IW1Evg6qQVVtg5yVl0d0SGCPXOwuYR",
+      "_id": "6943267c1c508c5d5ed1dec8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:52:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-QmujwPecTrM804gcGPoV3Rp8ZfI\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat78410",
+      "amount": 908,
+      "price": 84358,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-17T21:52:23.000Z",
+      "notes": "RTI8pSQsLjDHsbF33wRdcG3WnuLK4Jvuu86dunmHshz8rw7coz3NJ0VGwVZ4Z4i0GwrX2YykqSYEYFtaYRfMBUZ5GUZF9LzeEKssC8rUy2KXLxNasEiE5DAp8Ex5L0nYz4ovIUUIJkBK25Q3a0MAuJ2Z4Zrg7dlJ1FUESBR8oOSY32Ff9HTxnoiap4bvUQCI7IWvlBXZNJtfs9KAKbkteVGleA9h4m0qmGZwVQbmGombAYqbIiLiSG6EZx",
+      "_id": "694326171c508c5d5ed1aa1b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

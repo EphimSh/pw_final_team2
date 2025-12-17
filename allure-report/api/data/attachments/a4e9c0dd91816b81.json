@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:55:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-66j/44vbkXU+HFQxUgxTeZSxDN8\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro54653",
+      "amount": 578,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-17T21:55:23.000Z",
+      "notes": "BD9w2sDaAG4jaVFo0pEMZB4ccf6n7K2XwGkOn2lYQgz26w7iAO1zdlpGl9Pmo8FLVHSOmxvP5KV6XMoI0ac51JchVHvhI5gWy9V1a71yIPb0pGEaCizLMN2aVS5VfE20ezkZRiB5UzuyMy8V4PxXwc1bAXOR1CcSeOvV9VtCudtttKBIvVrDfHqSJxuQAziToiMlXFjQtk3AN4wLNlq8PmiqQlZA04T7cDqLomRa0H1geQeUYPk71Fbw6Z",
+      "_id": "694326cb1c508c5d5ed20955"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

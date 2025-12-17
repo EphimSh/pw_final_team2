@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:55:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-ClC2ZNbswyY+HQCH3SPj8FL1k4w\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon50856",
+      "amount": 888,
+      "price": 36972,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-12-17T21:55:16.000Z",
+      "notes": "EMj4UH2agugD2J5HK6MsfCkjTQNjVMqh6EW367TYNwwrqH6PIkOIRyUWSI0VvkYVf9SM4aqolUmG0eZL4ODCnwX3PnpWPYbpB5sn5Cw6Ia9BBhtCt2TRADClFqNKqNpJsBNykCYLKiTtj6wRjhU3l3dEvr5NKMUE3GGXWMzDyGApmSdBKwHVaMGTTW6LiimyCReZHQ58nxeTrCT51mavIKM6vJfoSFcEgN61aytTB5C5Y1RHQ9k3Pd4kpY",
+      "_id": "694326c41c508c5d5ed205c2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

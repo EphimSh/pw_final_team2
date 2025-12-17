@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:55:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-a+X/HnWeHCET3XvH0EN77DCDiHk\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad97585",
+      "amount": 216,
+      "price": 39736,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-17T21:55:20.000Z",
+      "notes": "YkJW8nhyR0lRJeZABgcx7ikmWafutSdicHk3QpQdjmEgnyEKRKBz578l5qXdXj9MuuJFH334oJnmYwqT85wifij4SEB7BmGF24ptqy7qw663vmYaM37CS0sez07pp4QOCVixevkYzQ8aXdfhqI3BKBVkZfqEiTQy1AMVQ17V47D6i6stanS9P4E9SY8i0958MjVp1zsTbK3JdQHFnbPskjdCvtYdkgdRye3Eq2OqcdArx2NwRm1YpzWHBE",
+      "_id": "694326c81c508c5d5ed207e7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

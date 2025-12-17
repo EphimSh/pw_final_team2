@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:53:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "449",
+    "etag": "W/\"1c1-HGL4338kvpk2Tg8PtYZKRciCg5Q\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball54225",
+      "amount": 261,
+      "price": 1,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-12-17T21:53:58.000Z",
+      "notes": "x28bJBbc5GQlCjbnAiTSpUzeXiZAb4HlPo6LHl2Mu9KowvKrI5eu9fyw5v3IZLg4LkAmyULrx0oUnuAfsX6jgfSOW6mCAJ1yjHBoH9KEVaJv22Tu2AJAxxzXpHZkPBZaP9MZK2NFx9IUAZfzM2INKJURlArYhjH2HfFzwgzpwOU3x9rz8tfQ60mjFOWNrMPNQtL6F2mKQiaBzwFXeYX5qzsAjV8k6MRv8MPFdgEoNvZIsMtwfCB3JpcGAQ",
+      "_id": "694326761c508c5d5ed1dbf5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

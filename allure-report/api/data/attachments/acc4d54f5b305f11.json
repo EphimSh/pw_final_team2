@@ -1,0 +1,160 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:54:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4096",
+    "etag": "W/\"1000-CUMVT26Bdyg8GmMgLI0hKwPMru4\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6943268e1c508c5d5ed1e91a",
+      "status": "Draft",
+      "customer": {
+        "_id": "694326871c508c5d5ed1e4ef",
+        "email": "Merritt75@hotmail.com",
+        "name": "iHddOOpwfvRkMyhvEYgDQbphevLkbpw",
+        "country": "France",
+        "city": "fcpvcCBkaOLOnLTGK",
+        "street": "ozJWFFpsB8ssHmyZOFl9hNPiokADax04YUEuv",
+        "house": 4,
+        "flat": 4,
+        "phone": "+5682352411",
+        "createdOn": "2025-12-17T21:54:15.000Z",
+        "notes": "DPrEqpJDeLWH6SaJ1jxWa8fvT84XCaycziZE3ulw0wkx0OJJRUbgCSh1DjSsPnlnuHlbti2xQvGgNrZriWPkGmoUyYXKQ4dKkP5WOs6DlTW45dRclZePeX0eCgugepCNUwrlBP8XY8ioGdKJrNaprHJT5hA9m4bPUCMozlc0lIJ0FIs3VT99FkYT"
+      },
+      "products": [
+        {
+          "_id": "694326881c508c5d5ed1e5bc",
+          "name": "Car46542",
+          "amount": 787,
+          "price": 12952,
+          "manufacturer": "Amazon",
+          "notes": "NPAPhvZ4AouObxXGbfEG2ZI6KlS1l6sLiWQSz4fBel0IFboWLqLzjfs9VWuTJsKn3iXyzX87HWmPLgWRHcQcHiiPsCUK5FG3kOHQDdxA3sBbOCKbLt8C5S4cyxN43qYQi3PSumb31Ut30qHpCFt8Hv9CvXGk0XpX490qjcPwNhQ2GJnAKk33BQuYQ76SsRTFFwzH4tEqbSqYTXEwi0XUI1JkkqgUpLRavuWQjeH9jkVGl7KAf77O13IBtA",
+          "received": false
+        },
+        {
+          "_id": "6943268d1c508c5d5ed1e851",
+          "name": "Table68577",
+          "amount": 746,
+          "price": 76306,
+          "manufacturer": "Apple",
+          "notes": "PBfPCqicaHfTOirhTZDzNGU6WDAQqkvzHDtOTNoDafaGedbLeudp4piWvvNiklwe02dq6d3WZkCi67I66dwaR8Gv7cylsyir6J7PW8m9ss4ZNZz6Zwm13LJ3GK0EDXBPFSrC88vOJsVib9kFhmIJTMzEU4lvSzy7xTL4mefHOGyedTXdP5ogBQdSpgS2Ovf5Q68Jyn5jlAwN7IavGVwmwKkRxQMFBERqEMYKZMpNRBC2MdXMzG3rBs0rVs",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Belarus",
+          "city": "Mock City SBInXK",
+          "street": "MockStreetm5iWt90fnUiOe",
+          "house": 187,
+          "flat": 5
+        },
+        "finalDate": "2025-12-22T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 89258,
+      "createdOn": "2025-12-17T21:54:22.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "694326871c508c5d5ed1e4ef",
+          "products": [
+            {
+              "_id": "694326881c508c5d5ed1e5bc",
+              "name": "Car46542",
+              "amount": 787,
+              "price": 12952,
+              "manufacturer": "Amazon",
+              "notes": "NPAPhvZ4AouObxXGbfEG2ZI6KlS1l6sLiWQSz4fBel0IFboWLqLzjfs9VWuTJsKn3iXyzX87HWmPLgWRHcQcHiiPsCUK5FG3kOHQDdxA3sBbOCKbLt8C5S4cyxN43qYQi3PSumb31Ut30qHpCFt8Hv9CvXGk0XpX490qjcPwNhQ2GJnAKk33BQuYQ76SsRTFFwzH4tEqbSqYTXEwi0XUI1JkkqgUpLRavuWQjeH9jkVGl7KAf77O13IBtA",
+              "received": false
+            },
+            {
+              "_id": "6943268d1c508c5d5ed1e851",
+              "name": "Table68577",
+              "amount": 746,
+              "price": 76306,
+              "manufacturer": "Apple",
+              "notes": "PBfPCqicaHfTOirhTZDzNGU6WDAQqkvzHDtOTNoDafaGedbLeudp4piWvvNiklwe02dq6d3WZkCi67I66dwaR8Gv7cylsyir6J7PW8m9ss4ZNZz6Zwm13LJ3GK0EDXBPFSrC88vOJsVib9kFhmIJTMzEU4lvSzy7xTL4mefHOGyedTXdP5ogBQdSpgS2Ovf5Q68Jyn5jlAwN7IavGVwmwKkRxQMFBERqEMYKZMpNRBC2MdXMzG3rBs0rVs",
+              "received": false
+            }
+          ],
+          "total_price": 89258,
+          "delivery": {
+            "address": {
+              "country": "Belarus",
+              "city": "Mock City SBInXK",
+              "street": "MockStreetm5iWt90fnUiOe",
+              "house": 187,
+              "flat": 5
+            },
+            "finalDate": "2025-12-22T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2025-12-17T21:54:24.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "694326871c508c5d5ed1e4ef",
+          "products": [
+            {
+              "_id": "694326881c508c5d5ed1e5bc",
+              "name": "Car46542",
+              "amount": 787,
+              "price": 12952,
+              "manufacturer": "Amazon",
+              "notes": "NPAPhvZ4AouObxXGbfEG2ZI6KlS1l6sLiWQSz4fBel0IFboWLqLzjfs9VWuTJsKn3iXyzX87HWmPLgWRHcQcHiiPsCUK5FG3kOHQDdxA3sBbOCKbLt8C5S4cyxN43qYQi3PSumb31Ut30qHpCFt8Hv9CvXGk0XpX490qjcPwNhQ2GJnAKk33BQuYQ76SsRTFFwzH4tEqbSqYTXEwi0XUI1JkkqgUpLRavuWQjeH9jkVGl7KAf77O13IBtA",
+              "received": false
+            },
+            {
+              "_id": "6943268d1c508c5d5ed1e851",
+              "name": "Table68577",
+              "amount": 746,
+              "price": 76306,
+              "manufacturer": "Apple",
+              "notes": "PBfPCqicaHfTOirhTZDzNGU6WDAQqkvzHDtOTNoDafaGedbLeudp4piWvvNiklwe02dq6d3WZkCi67I66dwaR8Gv7cylsyir6J7PW8m9ss4ZNZz6Zwm13LJ3GK0EDXBPFSrC88vOJsVib9kFhmIJTMzEU4lvSzy7xTL4mefHOGyedTXdP5ogBQdSpgS2Ovf5Q68Jyn5jlAwN7IavGVwmwKkRxQMFBERqEMYKZMpNRBC2MdXMzG3rBs0rVs",
+              "received": false
+            }
+          ],
+          "total_price": 89258,
+          "delivery": null,
+          "changedOn": "2025-12-17T21:54:22.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

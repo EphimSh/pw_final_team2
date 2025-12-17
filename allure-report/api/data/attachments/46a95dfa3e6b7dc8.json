@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:52:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "343",
+    "etag": "W/\"157-Fw2tiTYewwRlG5g0U3JODenqJK8\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "694326111c508c5d5ed1a757",
+      "email": "Brielle.Abbott30@hotmail.com",
+      "name": "WacjlJCedPFUzeR",
+      "country": "Germany",
+      "city": "aZc",
+      "street": "RA62Xt3Ss3MdA",
+      "house": 25,
+      "flat": 2,
+      "phone": "+8263034490",
+      "createdOn": "2025-12-17T21:52:17.000Z",
+      "notes": "PoOk55rHWLGOZmoPvKywv9JXP2qDui3nhFSIttdX6DlAw"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

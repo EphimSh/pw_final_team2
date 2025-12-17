@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:55:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "474",
+    "etag": "W/\"1da-r+6utfQWu9aewQWBm/oT2S4+RPw\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Microsoft Surface Duo 382067",
+      "amount": 734,
+      "price": 2200,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-12-17T21:55:25.000Z",
+      "notes": "mQjpASFHs3n72DScV49kgGoZ0txPN1dLL4cQt8tJ3aqkyxTVrtUXdItl5YC5HGrKcyFGxrClw2KidgPugCggyGWc21bPYyAD7FYyppTdJw2f0YcGR8amlAGjsOF6B9E2glionNFtttSYKEmAHITGrX04jiQgvJTAUpZu5W1cC6vYArHM1UsDnip8GQb7EOO7xug2ya04qBi1nBTMV6ajr2yDgwRKLUwiOtrv90z7SR5NKWeklcPjVqNbjO",
+      "_id": "694326cd1c508c5d5ed20a26"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

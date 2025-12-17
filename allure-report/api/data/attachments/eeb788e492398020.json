@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:53:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "312",
+    "etag": "W/\"138-ODgWLMhcAT1JEE+O7AofHttD+7U\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Rebeka80@hotmail.com",
+      "name": "RCBqx",
+      "country": "Ukraine",
+      "city": "gcBiadlVLg",
+      "street": "a4jy6ryoNuY2WaVx3pqWSoEjm",
+      "house": 110,
+      "flat": 2,
+      "phone": "+3426364500",
+      "createdOn": "2025-12-17T21:53:30.000Z",
+      "notes": "TP6jV55irZ05",
+      "_id": "6943265a1c508c5d5ed1cd0b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

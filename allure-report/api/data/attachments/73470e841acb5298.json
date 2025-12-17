@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MzZmZmM3MWM1MDhjNWQ1ZTlhMzc2NCIsInJvbGVzIjpbIlVTRVIiXSwiaWF0IjoxNzY2MDA4MzIzLCJleHAiOjE3NjYwOTQ3MjN9.6vlFXEpHcxPLZg4Ru95kHru0Xnb3gw05JE8vxpjNduo"
+  },
+  "body": {
+    "address": {
+      "country": "Ukraine",
+      "city": "Mock City dYbT",
+      "street": "MockStreetJg4ZAiqH9q7",
+      "house": 83,
+      "flat": 15
+    },
+    "finalDate": "2025/12/22",
+    "condition": "Pickup"
+  }
+}

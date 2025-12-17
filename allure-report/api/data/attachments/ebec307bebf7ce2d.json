@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:53:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "528",
+    "etag": "W/\"210-YmQ7Q8xfy7oYVrWKJ+h1TxM0C9g\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Blair_Fritsch@gmail.com",
+      "name": "KaezRJcxcSceGoWyhDvHBTFKhpFEpWHngdsqmz",
+      "country": "Germany",
+      "city": "Iqgmu",
+      "street": "xL3Ens4ADregIAUUlMOrOX4",
+      "house": 61,
+      "flat": 5,
+      "phone": "+0261868162",
+      "createdOn": "2025-12-17T21:53:37.000Z",
+      "notes": "wUaGldAfjrNiUvEcYFd0LWkWADPKT8ZmYNpUxBZGOZMKJrBjjfScQhbUkzHBMN2PU71MkSzI7Yaln9X5oiEeuC4HLidtWwyN60qrUv14mo2RkmYvwlmEgbej3zqMn4kXPyv2kFYFe4AgyYmHkrooswyGyvkICVkMU5E5c5vAQHNTlzSIKvO4hfh5JGlQpDZTDe7eqWGG",
+      "_id": "694326611c508c5d5ed1cff8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

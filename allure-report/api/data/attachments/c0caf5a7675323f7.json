@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:54:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-MCrKP7+jt3zBoc7AYc+CG+CIejQ\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse2207",
+      "amount": 999,
+      "price": 49512,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-12-17T21:54:04.000Z",
+      "notes": "e4ZOwEyz9bHNpdTOljFCOpWuWHKzwXFfDuNSEifHOXKUe3K4MvyaxlI9zhEDMAlcrJozlAx80ZHQl1JL6tbfRVd3BMD69QODbW7gVlqmk8BruYPHsXybYzToG3WoXkhjRRFAZLEKysO7L2t0skQnqWRLc43U6Xl0FfRKtpdpMW9FFoJJC5zfASmhrdVfQ6yZwFyZkEFCNsoGawnNI2XSI5bPBdUJzULjbQMoow49b0umkbPZfELXY3QFC4",
+      "_id": "6943267c1c508c5d5ed1ded1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

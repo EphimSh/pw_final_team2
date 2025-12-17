@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:54:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-GXoQtP/+95XDMJW1/2yIpwQGy3s\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra58644",
+      "amount": 273,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-17T21:54:40.000Z",
+      "notes": "KhzOgZqumx2QBWnosfDCLuTe0QVr4siBYnJY3nZCBAe2QPEPiiTVHr6so4yDvHhtnzR5kpbLJIFKyq0xLzlZmoFgVRnFLIGNhvfP6qlhXF1Ln6Og0TbmB3kHb0ptFJ26Gg0G2j1qDRwuncgEbPlhYKs5NVOKQxTuFqh7AvC7QAgGxOXdKCt0x5nuF6lxwLPX8D15V2PMK0DQIm1ZOvxxUtWcnXCbLA2alWSslUQwjMzzVbjEhSeEX5syDe",
+      "_id": "694326a01c508c5d5ed1f1b5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

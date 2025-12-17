@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:52:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "403",
+    "etag": "W/\"193-oxkl0o9d7En3Ka9EyIUT4VbnOpE\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Hermann_West69@hotmail.com",
+      "name": "nPERXxiKHRWMfvlmWfTfnLrfqhg",
+      "country": "USA",
+      "city": "zUyMbmEnJyRqLjwtke",
+      "street": "G5e5cOMwCWMzZjMvGFzsRaSlZLGYnORk99pP7E",
+      "house": 7,
+      "flat": 2,
+      "phone": "+6114241309",
+      "createdOn": "2025-12-17T21:52:41.000Z",
+      "notes": "WWhNs6RnUJuUz3agx36tB6XW7IEHRE4YTUAYiuec3nwRa9BGYktCEqefG8zj",
+      "_id": "694326291c508c5d5ed1b327"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

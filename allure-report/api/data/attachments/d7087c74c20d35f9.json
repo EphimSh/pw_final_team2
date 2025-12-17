@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:52:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "422",
+    "etag": "W/\"1a6-MK/1LvlWDuv0+mZu39vP4AZv5/g\"",
+    "keep-alive": "timeout=5, max=78",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Dovie.Abshire@hotmail.com",
+      "name": "xy",
+      "country": "Russia",
+      "city": "bM",
+      "street": "ap7nfuxJfI2",
+      "house": 117,
+      "flat": 4,
+      "phone": "+2962410869",
+      "createdOn": "2025-12-17T21:52:56.000Z",
+      "notes": "ctxuV9VnyI5q38YicrN5wOxZYo6gDbklaAlgvZEWCAHxzyPi7YvjPqzefuN3SYHNN1AfugLQeWKg4KOF2YZDH284jUTlW3q6aY3r54cfGlu9e7su3A0otz0lNAitPrVmY9xvwUviY1cfvSx",
+      "_id": "694326381c508c5d5ed1bb38"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

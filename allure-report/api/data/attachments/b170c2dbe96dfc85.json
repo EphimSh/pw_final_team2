@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:54:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-V7lF2NN9GiSYJ+7qUygVfS/HNZk\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra40816",
+      "amount": 872,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-17T21:54:40.000Z",
+      "notes": "50H5A8UEIV43WXVmQUoY9MvoP8diDMBpeAaqU9HNjQhwCBHLEIzhrecMuG4QJOCcOA6zezfDgds8kC0zuc2d0HEmh4SsUm61nVNdMmo7VEIiMLhaaREUyawFXbV1QE0v4fczKFdzejPY5a4zNYHXaU7JscJxSDDnKH08GgXk5r7IGSgihgvwI3wniUl5XyXtdYZu7Q8TYZNsYn6lea7r4Sw0WeDxCxAFmA1YHlyrKxqt1c0dtMwVIscahQ",
+      "_id": "694326a01c508c5d5ed1f1c1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

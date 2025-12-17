@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:55:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "464",
+    "etag": "W/\"1d0-WUFWG6B/Wd66002i8vdIJF66ltQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X728",
+      "amount": 522,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-17T21:55:19.000Z",
+      "notes": "QmDe8avJ8qOHPX2P6Yiyvi7qhC0uFSExQ5kWuwz5FPJud3dybq8nEd7xuhj9MglYdZmrQCU0ctzvhsilX8kPL1yF5qD5LNajEVyPQclh5dCXfiOHPTBA8iomVkaFsAy7RtVnoFDa2VB3bNeC2WadqBnelBiOf4Y04jsYA9b7DUMU77gLbIPwYPAv0zNtyRJSKPr7aMhRAneb2XbHDUbLrs1ZwoX10cMU1P6PwBzEP4j9ewbiHBPtLZrlf1",
+      "_id": "694326c71c508c5d5ed20731"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

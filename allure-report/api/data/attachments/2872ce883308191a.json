@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:54:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-SVqnggQndlAr150If48RMMDTm20\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X40234",
+      "amount": 992,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-17T21:54:35.000Z",
+      "notes": "sWqtNP8L1dD7tURHKjxfbkn6FpYzD0hRtNTmpAikT6U9yJHCs1Jf8Vh4DCPdH627Sravb8ieqzZvvRs3omIPVFVQVMRfynAwv5q4tjlhuiEMtd2b1K34V5JE6HrTDi5Gv2b9Pd8iR4hXgA3Cab6lwUgLRIqh7W92T1f9Y7oTT8WeilfAe77mM0w80z4s4kUJDwVH9H4XSNdCgxmMHVebrY7sGabTEAy8PUGCSO8DbfcOBtmpXIdR2UiS5H",
+      "_id": "6943269b1c508c5d5ed1ef51"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

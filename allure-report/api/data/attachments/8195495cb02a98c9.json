@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:53:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-7fXX4PzdHhShhzY/TOLl7ehhDdo\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car72493",
+      "amount": 832,
+      "price": 88806,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-12-17T21:53:21.000Z",
+      "notes": "lbsaXoP99zMEw9pnClnydUYv7GcMcnTSjTWbOer4kBUJr4rgQPG6AA4n5nl2FQj47eZ9HRnrTtRomw1JLqSFeTQXd1zEJ6TEnZDrewsHj5fR5TgNdLEspYb2KktJWMoH556O5zysW5iiPThi0CMqjloyOuLouPsRPebhydfbDQK7lVbuj2LXlSAx1dNbp6Mo905jA6PQqKKqOYKTWmtxmBNAbLQH1vpDOy2STL0kvTmk70Wx0yPEDMn2ma",
+      "_id": "694326511c508c5d5ed1c87a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

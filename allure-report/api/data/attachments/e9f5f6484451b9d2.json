@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:54:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-F8DOnGJgYGgedk62wyoMfoMym9c\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy A5581934",
+      "amount": 213,
+      "price": 800,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-17T21:54:38.000Z",
+      "notes": "ojqQceLCPFKgcMcH4XYeqlRFQi8ZwruRqDq77bXiCiZjUnY2vdQWr303SWvg3m606FdbUKrADCJf5ffqA3KmJyrdZJdlJHlK6DWHr59XzKm3el34BOcArcCW6f2mpfhdAa0zsZHJ1WdVNVDepKBBTPDnbgKUmrlbd26akwGJmmPuwHBaxFplOcadVQbeeICPzyQh5jo9EPEWqhDzysUZcOu1FCEncLcah9p2GFBiOHundLsVPDg3MDxSVD",
+      "_id": "6943269e1c508c5d5ed1f0e5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

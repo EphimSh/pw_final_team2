@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:55:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-rPYBuPpE2zxOhhTjsi+vINpN8lQ\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra13787",
+      "amount": 178,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-17T21:55:24.000Z",
+      "notes": "LWugfNvoWA35CHs2pbZCu18AV9gdPuVpMSrIMZLB7yiABMmtkq2OxV8sBNeVPwfxjaraJo5OD4SS9tMODKcUslD05FqTycMKL4W6tbYainaTYYo8zWPYOc3lK5YuGP08Gu0Ve3Is06civlq43DeFoKrSh1N8lvVw0bcslz1wmvaq11IWGwU93G6ubAUKPrdCpnEV6JQ2ih6W6zdK7Z8y3eJExcI3IF3LPW1Aj34qpth4uwG2jnuwOvPgaL",
+      "_id": "694326cc1c508c5d5ed20963"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

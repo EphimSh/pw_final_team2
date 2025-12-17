@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:53:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-rdn4aftFEefk73AcUqKD2l2yLpU\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna16556",
+      "amount": 208,
+      "price": 74629,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-17T21:53:23.000Z",
+      "notes": "FxB1OWiws6LYrdcg4c0YEqrzxUOXXSVg7QPqHzH4k0PgsISMIU5EjKEkGcFEg0VmWTJj5kQoJOIoCsBZcANGZFFciMk1WeElStHbrmUzDt2f0YnacJgjyrzWY3mhdpvXBT7Mkj8HyAAkCydd7f9QdfajYgSG6ujInPufKzaFX8sx0EifoEvwV4QwTIkkYZ2HWrKIv4DJpkDOaHSCL1hbCI2W74lW5C8dZbdv7WCNcfsfrUisPjqMBWcHSm",
+      "_id": "694326531c508c5d5ed1c980"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

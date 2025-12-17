@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:53:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-rS2pXLJa0xjQUgQRt9ydXH/9fcM\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse56930",
+      "amount": 937,
+      "price": 48920,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-17T21:53:23.000Z",
+      "notes": "4DD2OcVsyc8fnMwG32mRoBIcridhn4cGrH48XM1uRU4bYwT2XxaqsI9U2gGHaZ5XXYonwNDjmRDqgvLPaMo9diQfTaP1J8zBDJuJEaLr6z5CjCtC2J1l1zyrtexK3ROpVvhaG8IYnQrHwmnHF81YIHuEjZR9qpqOXo2SaCmzPKKL6ZZUhUusnaTPxErJmkvtfp9HxQFX7zlKG9c8qdMESRG1rvvVstGKo2C1CElIuLSYGLRQqA8kfzqzRp",
+      "_id": "694326531c508c5d5ed1c984"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

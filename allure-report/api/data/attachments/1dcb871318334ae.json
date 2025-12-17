@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:53:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-yzwFk7H+rXhVy9eZhjW/0gFTJxg\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips82529",
+      "amount": 5,
+      "price": 67390,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-17T21:53:38.000Z",
+      "notes": "RkFwsqaYqOey6bZl6gO3aY7Pqq1g9gw4Q8p47QSUIrAuYhoG4BZsLlwNer4qSF1cDwxameTuIFGJ4aEYzXO9r28mxItwla7cmvts5nP438JzVmt4TqpdjERsCoviEXMajR3J92ZhhAjFaEkWSF0pQs03hmQlmCwkNDPATD0bjQGkTfWLDMqcG7utFGxFWJM4EWD5r7aQ76bt9YaJUN6SgAfCAB2t5R2u76CDoc2tDo5ZXsMqWZ6i1riUND",
+      "_id": "694326621c508c5d5ed1d0d3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

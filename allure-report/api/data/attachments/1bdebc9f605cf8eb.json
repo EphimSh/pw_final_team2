@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:54:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-Zf30J865cA72Speh2ku9ot6BXxM\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "6943269c1c508c5d5ed1f00c",
+      "name": "Sausages20494",
+      "amount": 793,
+      "price": 45144,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-17T21:54:36.000Z",
+      "notes": "IpCwsttF3hfQNTdnjh6VuoAZQG8nJ1zYtkzumaDJpeuuQYS4QRVwbdYQvaR4Pk3IGfKQPkZz8pb3xVTzA5GW4CmyXSTqB53FHpPYfzDgc8E9blk3FEYVZsALWlKgXDodYwLmYlFsIZKmihhPNPqPdEsBATplUqjZ1AUYGs5qRbAyiyo9EBwAYvtlN42uXPYtt7MOGkWbDgsbUG4w8EK5GcOB4Gf1ahOnZEqOdfvja6t1mhUQaFr89j8Ets"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

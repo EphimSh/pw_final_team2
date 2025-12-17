@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:52:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-nfAIgPcebJ+JcFX4edB0zSNuAPg\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese7590",
+      "amount": 209,
+      "price": 1154,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-17T21:52:53.000Z",
+      "notes": "YNOxrnegGiG0I80UbmWYVW1CppiTD8iVCmwzJ49yNWa6FbFmP1vLXkDWvwTo4JvkkV0nB0xBp6YInLGt6wXFYsDcW59ZSCtPaPcrseU0SGc09zu3rRhrV3aOWjWb2TxRUtY2BEYd5224k4QEE7DWaIMUOXyFMIEAyh5uq4EejGTe1YvSTwRreDkLH5ZhRSevCPZAvDAqto8EBT9yddZ5HXXvbXpgT2Nf29pdslne4N3IZDRWrpRu6irIzw",
+      "_id": "694326351c508c5d5ed1b95c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:54:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-OCXM9PKqB7a6fgZ/m2oOqrLt5vk\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X55662",
+      "amount": 719,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-17T21:54:37.000Z",
+      "notes": "bLKIVuhzDLNqjJ8zIAYZiD7f8tQ1catP7imgKAF4xGztARlSb8eRqgOabNQ1zn17rD77KbTQW9HePqMvNTl6AC5zTUu2vEuTrP00GDXaMq9SYXkjHX5QS4Qcs8rmkh4GgOjCQaFAfEcjOwhufLOfJr9vTATIkux3P1neYVdwJSBlEngv4N3xy20AJaHMz4DDKQ3gCYpXrFUJRYwjZUSCUSkANnFvQLNhZfRg2m2gsRqV6U7GhgJxmyUyBn",
+      "_id": "6943269d1c508c5d5ed1f018"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

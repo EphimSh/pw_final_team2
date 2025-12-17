@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:54:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-J46Z+Zmx2dONtUCP4tcOop/oUvY\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro77348",
+      "amount": 612,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-17T21:54:37.000Z",
+      "notes": "rZTq1ygpWGrc6lkHqXFpABMbN8K2sWbtBXyelqYBa7gc0XQU0oNY3dSZ3iP9IzyoQDW6HdDUWYpwT00hNu2I8KYdhxnYWKw7Tip7OnQSM1zdQcbIcANDyMnZYKxAjoIQzhUmzPqZKwrOigAFYScAZZ9holWcwVzdcLbxoZqBn3u3snEqvi4qlQJLwYzKEYemLRRCd6m6MYdEhlqPPnl1CuYmsDsnKBQL7Vq7pEso2QSwZvYovKjg3mOEVY",
+      "_id": "6943269d1c508c5d5ed1f034"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

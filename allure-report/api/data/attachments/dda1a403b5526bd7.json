@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:52:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-tstrOUa9v/rKpE+p4IoV9aieeqY\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon80984",
+      "amount": 521,
+      "price": 65822,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-17T21:52:37.000Z",
+      "notes": "3IlUqwxhZtl4eXxGZ95NE8F67fU5Ks6vXC18dBW0T1zsXtEt0L981x2YMsJeyA8KUXZk6w4nkCCHyEK7SnVWmMN5FRJWe7CPpQHSeOCIqIwENa3HpgRU4Yl6bIHVoER0ff0sU6tekceAkLKOQEpTAh4HbVo93T3RbQUPl3V8URADw47SJtKJA4ssod9WmTci3SMM0aJHcpdRXKxgB6nz4lfcUxgZkbytPBzrVk5x90m5wzf5Eof8f3zUd1",
+      "_id": "694326251c508c5d5ed1b118"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

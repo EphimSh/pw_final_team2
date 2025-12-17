@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 21:52:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-L4rivjyyZafclqAoYRH0qYRbnfE\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad46233",
+      "amount": 892,
+      "price": 39316,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-17T21:52:31.000Z",
+      "notes": "BN0qszIPwTvv9OCRAnxLpHnNZs9abDzVZhGLRTQqlNhEcJl5MkszF6lF5Yqdw5s3OXBjChVtq2b5YH9r8JsdEXVKVBsciFIW2OfCavRLl2vWEBo9U9oVB6FFCK4DCWlUw1pSMUZoA5r0Qfz6EsDu4rCNO9tgzpo8cvV2n1r5fPpfGLNUX6fspdngRrsUIYMPejgQKEiprYCwIJec12I7nKan7ngdnfz5GFhISESLiIhVBA8vuvDwiHiO0D",
+      "_id": "6943261f1c508c5d5ed1ae0b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
