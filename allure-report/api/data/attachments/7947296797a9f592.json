@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:28:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-zlp1GAQP6g0wXAur31d3pnWJBXU\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard37523",
+      "amount": 295,
+      "price": 46321,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-17T22:28:35.000Z",
+      "notes": "FMIJeSxWHqZ8uFU4JRD9HhX42StQE8tY9LGkAqdQD7CoXWtMKQ33t919z6HM5xP63R206aOAlp0qfwUMsa3ZzGpEwyuW1il33CcVyfJz78ci2vgWEKejtiCUzn9Yela1rj69BU00xm6nRz35uWcDtkss7lhmSngRkj4FoHEaQLkPYot47syXP1b6gpfABV1dLUkoldrVl5HO98gONRq45YZqK5twNLUnQwslmXNS9nqctHXimzAprBMZaf",
+      "_id": "69432e931c508c5d5ed418e9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

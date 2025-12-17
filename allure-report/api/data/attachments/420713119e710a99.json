@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:29:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-cNP+K4mhVvlgjut5KDIgvUdZbZ0\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table90100",
+      "amount": 997,
+      "price": 60872,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-17T22:29:15.000Z",
+      "notes": "GZT7PT2sUeQPwzRCHVHVsbPZKUnLEq6q8pKVGurpM0UXnIQMUEUFi3U3kzVLdLmDII7GqV0p3btvxB7O4sCUMFsTlpwwwMe4NuNRhMp8fD5pIj0QJE9BZWcBC71EepVu76GSzILHWG77wOAg1eHckS13zukklEdGNzs8DMVUfkuawdhWbq3iyC5HSdJoMeIuiwZaqQ3fRxrX6BNQiVsYJMaGB2V90BKOpsYzuAsQw0tBmCEwybnDzJHgJA",
+      "_id": "69432ebb1c508c5d5ed42fec"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

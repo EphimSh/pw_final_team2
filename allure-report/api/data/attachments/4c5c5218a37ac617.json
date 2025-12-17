@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:21:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-0C8pycxW4WzHQnjPRWCpqiD3F0Q\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt25568",
+      "amount": 66,
+      "price": 68093,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-17T22:20:59.000Z",
+      "notes": "oKsfv5AYurTDbCf7R3XlnCRG1enuYCiIvfmQdx5txfilMCyW8dsIkSBWqTywj8f4p4FNWxgsb8GYlB8s8plGbPo0d5Co8AcdS9tSDIWrHTdjkgVzoxYMXc7uwEBT4oc0QwL807GmdcHHGAHbWtDPgsGGa2LhifclB1xOw7JG23cXBJIodjeBnCvWn6q4fODyXJNVsVQGXh0hS8WaZhwt5KQfOoCTPb1mOw5XSeU3NMbE3lPJlfiSjO8tVh",
+      "_id": "69432ccb1c508c5d5ed31382"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

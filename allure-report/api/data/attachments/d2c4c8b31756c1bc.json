@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:20:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-lVr94eJIERmj4onPtqBagXoeZFk\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair28582",
+      "amount": 534,
+      "price": 87113,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-17T22:20:31.000Z",
+      "notes": "gGTrMakwddBG7WUY2jMu2d9aJVGwSNOK3EmWBk0eB1YL45v89mDNktqifUoPZYFw7eQH6xtcXztqdPHGzpAklmmbSCLDkJLibQCkAz0PqCvDwVd7MwCdxYy7q0vg2J69Db0nEDHCjIKimnmEcUNH7vs2S9CO7sfZT0QqoTpm8VGwHjsy6oGZrNtrGWVrRC81tNi1zrCP7Heh9R0k36Cm6mtuBT1oVt17SsAF5DrNT9N6v2p3A4vbHiWWxf",
+      "_id": "69432caf1c508c5d5ed30866"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

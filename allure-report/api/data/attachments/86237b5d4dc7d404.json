@@ -1,0 +1,119 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:28:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3969",
+    "etag": "W/\"f81-LraZd2bCFaRv4UJ8gD/vwqIqysg\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "694301c41c508c5d5ecfe355",
+        "name": "iPont",
+        "amount": 2,
+        "price": 1001,
+        "manufacturer": "Apple",
+        "createdOn": "2025-12-17T19:17:24.000Z",
+        "notes": "test notes"
+      },
+      {
+        "_id": "69430e591c508c5d5ecfe552",
+        "name": "Ball76571",
+        "amount": 868,
+        "price": 50779,
+        "manufacturer": "Tesla",
+        "createdOn": "2025-12-17T20:11:05.000Z",
+        "notes": "bMRqz48bJL6CPKWx7PoGOf3D0VAPZ4uuRywwKjPtD9Pf4wYbx6wuZsIQfLHxpLzwhd2HlEtvVoJttKsTL7kr4PPUiRWAP8vQzcWDoqgaXgI8Jy0FrG9phTiGz5hLKOjyLXIE7N0Xd4mhYPixoaekhOh2TRuHZ5dewPzPhd4XNd6uDEgDTbC8lOFPbozKwjyATRdF1PDdhMUouoYMOclIi2WctVFuz2l5Hlw8UqncoxTH9vYZB2JudUqPce"
+      },
+      {
+        "_id": "69430e591c508c5d5ecfe557",
+        "name": "Bike75913",
+        "amount": 869,
+        "price": 32000,
+        "manufacturer": "Tesla",
+        "createdOn": "2025-12-17T20:11:05.000Z",
+        "notes": "07LrKukrwJPTaKoqeWzJcPyRKabVAJUENTslRLrOGJg3y8Y855j3Knnw3FPSL26C41jH7cKIOoOJoZmAOjLZBU9P6EWwMJyZAshgNeFdmadyiXBXToAIGlhejH5bPQBkGlr7DCEtZW2dBROPhromngGfCnLrRQA04Z227b2ka0j8GpDZvsabNYn9bgB1MA9cdcrLj7dF3BWlcbhcd5DzZBY3fGcNGIVWcEcASru3tjqmAcF3x2ppm6TnUU"
+      },
+      {
+        "_id": "69430e5e1c508c5d5ecfe69c",
+        "name": "Bike69092",
+        "amount": 119,
+        "price": 28189,
+        "manufacturer": "Tesla",
+        "createdOn": "2025-12-17T20:11:10.000Z",
+        "notes": "UN1gE2VC878AfZ5x3cnsErR9cIvDcttjIf1MZ5gEwScDpTzvtZWUHH3kK6Ckxnljm0VkzIjFYTYbcPq1cJQ6qdkVFBBr0abyL9vxs7CYRHjtv4AC7fDK0hBcronvoSy13Kb9TqVHYxu1ncXt0Sh0KFVnG0bQBAlD1FSYO82gPEqo5FNZlmv5w7FIqM9TDjCFzAmH4GksiL7sWQjsTr7Il8iDBSsxo7hIKdxVbjJI51fLBxVZpwSIdpI1mF"
+      },
+      {
+        "_id": "69430e5e1c508c5d5ecfe6bc",
+        "name": "Shoes47684",
+        "amount": 808,
+        "price": 40420,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-12-17T20:11:10.000Z",
+        "notes": "eFg8hHHbPTiRXIR37eNKQOm8WPuc0PiwwEI5HAFpe4D4uCdzlH0gn4QL29YtCB7qJP0LRXccnVMJE5JpVJP0N2EZfQvMTMByxC8BMKNYidSeiGVNJ65FFBkNJlnTo4UBOpDJM9qNSMEU9BowivYk7riJiS07U59RDnhNv8OYSZHk71YMbVMZ46C32hPF43hP2SDy220sQVf7AETe42uhFaj4kE9mGhld5NEblfiqbr6wiFn7Rw0UAVVKr7"
+      },
+      {
+        "_id": "69430e5e1c508c5d5ecfe6cf",
+        "name": "Pants23675",
+        "amount": 632,
+        "price": 74616,
+        "manufacturer": "Google",
+        "createdOn": "2025-12-17T20:11:10.000Z",
+        "notes": "CshaAMm0ndDgfa2nL4uwNLs3hfqDFQxuDoUlpIP54RIy7Vuf5sUyXTDSLwZA07pkSLe4yi1A8qbyly72DKTcn5Z0nFVuYBBeXh2x3SaEDMFMc3PlHEeS6CoDcegFkdNjG7CHoQvDqXZxRmAbp7K1FaPOnGcL88fD3eHOzbW6cwCw3nxgHcIamKxfakoqdffmCMt3CKVpw3U2pL255acJKCkjMvu72BHcc1p7fONWXfoHPBYqcmy8FsGYEJ"
+      },
+      {
+        "_id": "69430e621c508c5d5ecfe70b",
+        "name": "Pizza61526",
+        "amount": 891,
+        "price": 25690,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2025-12-17T20:11:14.000Z",
+        "notes": "RnC9i6Hgwv2VhMZXtRo6Hqu2n9pettwYFTKCxvqZAF02qk3E6aoS0mmw2txK9A7Cz8EwShcJC3pSlYxNQug6VSd1ijYHw0WYCZibA5dckpvYIlmeE6r3xysG3MxfBWHuwN9nDG9cZGS7V0JgZgzvpO2v39ocuALglhk8UaTJUK6R9vvVOpE5zBQm8dtzk0FABl0XxMX14Ijco1gZH6LNsQqtfw7Uhnw8ZNvKKIkEStZZdzAIzq6avgJeLm"
+      },
+      {
+        "_id": "69430e621c508c5d5ecfe71d",
+        "name": "Hat50635",
+        "amount": 790,
+        "price": 14792,
+        "manufacturer": "Sony",
+        "createdOn": "2025-12-17T20:11:14.000Z",
+        "notes": "weCAAavKmOLXzSscryV2TWQeFlEDzPNvjyLz8ZI0mjKPg1TkWFVjmDTFW5V4O84f2mDPTgdwVMBC7AgGzfmKxAO1Hz0C5wfzZlWAXzqeEMYK20MBhohDNZ5vefHgbRkkPWDdqtnaYKf4LNBKD5LhIfYOD6Ql4Q5CD3tQ8bUkXJiSlFmufj26C1cou5VCvQpt92bqO00sB0AH1DyKSe0xlCdsOZqv2eeYmtmfxkEhnVPnmFeS2VlGQ1tl2g"
+      },
+      {
+        "_id": "69430e621c508c5d5ecfe727",
+        "name": "Shoes53502",
+        "amount": 925,
+        "price": 5862,
+        "manufacturer": "Amazon",
+        "createdOn": "2025-12-17T20:11:14.000Z",
+        "notes": "zDVRYYezxhro13X8ai8DfgXAdpEDcchJFQIxNvF3yOCkxwlETSs0gcFzmUXKNMUM2ARPUDkfVXxaH0xTbyuw481mz5zBLz48Bew2Xy218utrSZCbLvTp5N6yi7M34cz8MMYqUMzSK5PoLDpDDNFmNO0D4RnM9eu9zGHZIU2YA4qUVDAzMd7fIFnlKjvr3omxWmviVIhkvTpob3lSjtBu1BxSqJYK7Lc3qdxlpNHbCPNwwZBso2rXKbKk5n"
+      },
+      {
+        "_id": "69430e621c508c5d5ecfe750",
+        "name": "Chicken87518",
+        "amount": 716,
+        "price": 66076,
+        "manufacturer": "Amazon",
+        "createdOn": "2025-12-17T20:11:14.000Z",
+        "notes": "M3HhZ7WJZMaqdEgYSI25qEItWPYUX2degSm4cdnHRMdLKKl60Cql8dkWksJXABdHOhiIPUNyL6IH1LEXTE4iHfcdPOfqhjtw8aawjvWBFJCKMIRoLpzlNhGRQlVdI2ZKeT6NNRWMVhUUlC8FPB7SR9FryRlrUV8QpUQPpZqVvXXRrnfFQYMWggZIKXmPADrw7ZQlqI4kOPPnZLHH3DzZjYDUKKJfZmJdC8INPJXs44N4TnXFG61BrENy5i"
+      }
+    ],
+    "total": 777,
+    "page": 1,
+    "limit": 10,
+    "search": "",
+    "manufacturer": [],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "asc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

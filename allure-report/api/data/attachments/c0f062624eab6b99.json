@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:19:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "485",
+    "etag": "W/\"1e5-R56NVkgOTgq6elW6lLnq/frWsWc\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Emelie.Legros72@yahoo.com",
+      "name": "xCzgfmHCTYVODJlWLJXwGGYNtEwnOMKHOBQTZxg",
+      "country": "France",
+      "city": "N",
+      "street": "Bj5",
+      "house": 100,
+      "flat": 7,
+      "phone": "+5219242547",
+      "createdOn": "2025-12-17T22:19:44.000Z",
+      "notes": "oYyTd0SE4o7jKig0zxucXEnRQZWq8JgEfCimwPWER155b6CdZG8WVgC9Zr2YwmLPBhneXi5TpG8KgrXai6bXqnNEttbU2ZRHuuL0KYEJFdMBwwUCoPKAwLRDWCx5P6fyRg2CmGPr8dZynBw3OIy5PpDaWbCDxLFOyyvooFYpY5ahcrLqdf",
+      "_id": "69432c801c508c5d5ed2e81f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

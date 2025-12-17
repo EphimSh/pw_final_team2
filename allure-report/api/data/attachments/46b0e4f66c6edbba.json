@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:28:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "465",
+    "etag": "W/\"1d1-OxI9zaDG4NcLUwu23UZaSVkBSP0\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra61829",
+      "amount": 86,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-17T22:28:42.000Z",
+      "notes": "pwQpl7VFuYcYNwNZhXgJWWpQxCLAtoJvbQwAdvLucGhqar99D2OzbQqD4YXI0Ou38mAqDBG1AdUrrGSlZ8B40lpnBsz6ABbEuWro9ZIZt8QypngaRvC1eobjgGT8hU4ad7uhwPo3OUHuRd7koX7CPYZIHptXSgfTC58PHfxbPPHHmQS5c0F22v63I865knNQwowJFG9jFAgPC3ktDezEKqv2VKpX3WWrM4BSr1Kbr7Gn6yI5wQ38ef1tUw",
+      "_id": "69432e9a1c508c5d5ed41cf4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

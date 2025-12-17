@@ -1,0 +1,94 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:21:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1990",
+    "etag": "W/\"7c6-CfhJSNCOu8E380Zt1BiGxHfce44\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "69432ce61c508c5d5ed32284",
+      "status": "Draft",
+      "customer": {
+        "_id": "69432cda1c508c5d5ed31c0b",
+        "email": "Gordon_Walter@hotmail.com",
+        "name": "fGPA",
+        "country": "USA",
+        "city": "dztoLfAgghAqZfTCsS",
+        "street": "l492wsMFO3wWl0Q2Af3UzZQFw3p",
+        "house": 76,
+        "flat": 4,
+        "phone": "+9290311136",
+        "createdOn": "2025-12-17T22:21:14.000Z",
+        "notes": "mZ0Ezd0RmjOPKsxD"
+      },
+      "products": [
+        {
+          "_id": "69432cdb1c508c5d5ed31c6e",
+          "name": "Bacon859",
+          "amount": 700,
+          "price": 93309,
+          "manufacturer": "Amazon",
+          "notes": "TsnsLGgv4dxED1DG9JmpdeazVuMlSRaCpEhgBnZjjzDignx1vFEEbuTsA3PGWJ0EZa5qJFBuWNk1f5eqUe7Mdb1fLgUXaeMrTmbkZOcnTZU0c406BZxW5YTNJGskyfkOALS1vfZ9hx6CjW7Z1N2inTIRjpSfMUBY8cLzpjk1WzQipWAg6N2EgyMbKE1QDlxTek7Rq8pbGeV1xqQzmXxGwA3aLLINppuHraMZOUUxvNFMXtKGnZzOoxfgT7",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 93309,
+      "createdOn": "2025-12-17T22:21:26.000Z",
+      "comments": [
+        {
+          "text": "RnaVWL7JrQfvJYHLz0s0I8bUPTlLRtVgA6lNtNIuQ7381wUuZBxZgHdJNEZe69had",
+          "createdOn": "2025-12-17T22:21:27.000Z",
+          "_id": "69432ce71c508c5d5ed3230e"
+        },
+        {
+          "text": "raIbXjNrLQMfcuf76nDXfn4axcn8PVqZRhQBvrzIXTp6cDmTYSFhcCwigHEhtR5UzfJq5dTTggxslxS9IrqE9orHGTXSvgwEzyq88FBATjt",
+          "createdOn": "2025-12-17T22:21:29.000Z",
+          "_id": "69432ce91c508c5d5ed323f0"
+        }
+      ],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "69432cda1c508c5d5ed31c0b",
+          "products": [
+            {
+              "_id": "69432cdb1c508c5d5ed31c6e",
+              "name": "Bacon859",
+              "amount": 700,
+              "price": 93309,
+              "manufacturer": "Amazon",
+              "notes": "TsnsLGgv4dxED1DG9JmpdeazVuMlSRaCpEhgBnZjjzDignx1vFEEbuTsA3PGWJ0EZa5qJFBuWNk1f5eqUe7Mdb1fLgUXaeMrTmbkZOcnTZU0c406BZxW5YTNJGskyfkOALS1vfZ9hx6CjW7Z1N2inTIRjpSfMUBY8cLzpjk1WzQipWAg6N2EgyMbKE1QDlxTek7Rq8pbGeV1xqQzmXxGwA3aLLINppuHraMZOUUxvNFMXtKGnZzOoxfgT7",
+              "received": false
+            }
+          ],
+          "total_price": 93309,
+          "delivery": null,
+          "changedOn": "2025-12-17T22:21:26.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

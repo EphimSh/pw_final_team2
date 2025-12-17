@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:28:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-5ZqRJAEA9gJhJRbee0mvBRKrIn0\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad68391",
+      "amount": 571,
+      "price": 22478,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-17T22:28:45.000Z",
+      "notes": "YHpEvca8l7yc2i6wZQj8NTgykUR4YjmpuvgsNKttFIevL2Rk0Qo9pQzteqgtawikocmfn4BsH24f29OPcC085kEUJ1F79TnAQC90s9gjcyf9Thm7wa1V6lJbF5JkwC3nwqjITm5IUnBJZb42xVfNx0XjkavlZcNXe3IVp5B7K5Ywcdo6GpmXJHARVtondMk5dmDOg9y1bJ3FQqlLIS1qDfQzJ4PTGMcsb2v5a4p3xYklYHZmaOZbUnckk4",
+      "_id": "69432e9d1c508c5d5ed41e87"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

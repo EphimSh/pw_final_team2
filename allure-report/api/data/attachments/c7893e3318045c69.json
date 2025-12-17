@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:27:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-cNI4L630TBPOYszRWbWxtZvrEvk\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants95435",
+      "amount": 123,
+      "price": 39914,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-17T22:27:54.000Z",
+      "notes": "9GQp0Fn53qtkoQzskQHDhCwtYPbiA83mBtyrLzb0v1eNJ2V2B82QDJeVakX6j4jsjVYRQzwd6u9Rjh9xWd9T8P587Cm45VQqCNgqAxL3rb4nquQ4wHKdhvCsSpPJf3BRTqYTWwWKTJFON1MBBk89PgFmyK9uFaPr7J1sXqo85Z4WQGwtKppFPJRvx0QV2O32rKMVyQghgtFyYYZj3emAPPRjeCPK159pak45BEe90PyC1GIxi32xqWzLc2",
+      "_id": "69432e6a1c508c5d5ed401c3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

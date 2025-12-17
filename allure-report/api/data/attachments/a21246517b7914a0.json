@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:25:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "393",
+    "etag": "W/\"189-6Fap3tk9JjYZ4Idfe6c5RAXxcgk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Sabryna_Nicolas42@gmail.com",
+      "name": "xovtXeJElMHlZdKtKkfOEi",
+      "country": "France",
+      "city": "TEmCcUUWkUKBe",
+      "street": "X1smLtgzUMc0jIim2VHWn568O1oyFMHiHOEqJV",
+      "house": 2,
+      "flat": 4,
+      "phone": "+4468745338",
+      "createdOn": "2025-12-17T22:25:55.000Z",
+      "notes": "bh8HahkHKWYKh8Dx3h4Q79nTebtFX2rY0YgQXUw4Cn5jbpm9ZHq8VCKC",
+      "_id": "69432df31c508c5d5ed3bd16"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

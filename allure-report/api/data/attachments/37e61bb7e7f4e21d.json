@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:22:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-+C4mVcXK0/53RUOlD3ClZEsczH4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna9050",
+      "amount": 213,
+      "price": 13251,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-12-17T22:22:15.000Z",
+      "notes": "V24B3AYbCqFXEL7Y6CmGtGk8HhYkkBRCDmhojtqrclPrqmTeBBZpg3DhvPeYDi3oHETmCShWBM5OUDml2cjBwJjmwMnoyXBvnKaCxQ2G8MCalyhSc5YkkGsTjveRxEwX5u8HVRQiDiJ0ZIpHWVHkMgjl2VcKAeKsPC5fqZPPUbnLyXAe5yxbI3SjdJmGjMuoLmTWUOmcjTBaRb3U8bJgUKVEJMk2SSkQ5eKCGte6n6zuwv1VjXM0Fd8gSV",
+      "_id": "69432d171c508c5d5ed33e2b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

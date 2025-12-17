@@ -1,0 +1,161 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:23:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3957",
+    "etag": "W/\"f75-jHm8/WICn+t1lr4Zmq+djWEeoDk\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "69432d631c508c5d5ed36980",
+      "status": "Draft",
+      "customer": {
+        "_id": "69431b5e1c508c5d5ed0c595",
+        "email": "Lauryn49@gmail.com",
+        "name": "Shannon Turcotte",
+        "country": "Germany",
+        "city": "Metzshire",
+        "street": "Murray Forge 70",
+        "house": 705,
+        "flat": 6132,
+        "phone": "+190610059554199",
+        "createdOn": "2025-12-17T21:06:38.000Z",
+        "notes": "Aoyukj9c3Ew4DSLwaSGi3yfUEOkiqX"
+      },
+      "products": [
+        {
+          "_id": "69432bb01c508c5d5ed2777a",
+          "name": "Table83113",
+          "amount": 620,
+          "price": 76068,
+          "manufacturer": "Apple",
+          "notes": "WgR8VoLAIL4lLiraTAsXx2TvtIschCJQ9MTAAf3U1XNsu1MRJvDKsf99nnL4ob7TCnQU2b8AKh8mGnErNPEkajHnK6QtxvnfSF89v1qr9J7FAAnSPY3vY2FWTgEJoqhuJxowj6uGLQsny4GAz9UEBFD6pOM7QG78jdJJEf8Guj2ruVxHoiAdyBV1G9DAam6KYWb50G8x3eB2LE46xTY3RDMigGV5XdasQDWr8xNVzgZtQfLuFwUIb0QTgc",
+          "received": false
+        },
+        {
+          "_id": "69431f931c508c5d5ed0f361",
+          "name": "Towels29504",
+          "amount": 382,
+          "price": 92719,
+          "manufacturer": "Google",
+          "notes": "JWQM0l2DssZmv0qj71sp4kBmrAHrTmvKlGFargWaF0iLHXStxdFCbF2vD2IxhQF8tftD10ig5QvfFGhPHQHcfkeVDD8A9ry9fCCiFXNRd6RSeaN5Nud8Gx7sMrk3RtI20ErpEvRjbLv73niNz2x7I9t71H4nbZODYb5uuEkGUPTtRIoJPK9RSlYPEkNbelfpZYtztb1GCLMbvlz0vMLEwLzEauIpU9YbWWxImwnLbr1lb7ODJII0mFIYFN",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 168787,
+      "createdOn": "2025-12-17T22:23:31.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "69431b5e1c508c5d5ed0c595",
+          "products": [
+            {
+              "_id": "69432d5c1c508c5d5ed3655c",
+              "name": "Sausages90166",
+              "amount": 784,
+              "price": 19875,
+              "manufacturer": "Amazon",
+              "notes": "mmbSjktfOwrRq3u2q18E5q6e0lNmE8P93ziuPxuf4Hknw2ybyFWn7IPIFcneCyCyUgLPQsVReWqdQ5DoA02NbVofe1MW7AnyIg61HZI5AE1t72AAP4NGVrgq4WCvEWCOMjzrZ8Pghxae26jRkZO4iv135Jpxuic9yyivMHego2wB3THeNDvZZTtGvL6bBPbjxkuUoALj7iDlhCSEt79XeVpWYf9kr3pjhYDm9h6fKlmoGBsMgGwhFXKitC",
+              "received": false
+            }
+          ],
+          "total_price": 168787,
+          "delivery": null,
+          "changedOn": "2025-12-17T22:23:36.000Z",
+          "action": "Customer changed",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "69432d621c508c5d5ed36926",
+          "products": [
+            {
+              "_id": "69432bb01c508c5d5ed2777a",
+              "name": "Table83113",
+              "amount": 620,
+              "price": 76068,
+              "manufacturer": "Apple",
+              "notes": "WgR8VoLAIL4lLiraTAsXx2TvtIschCJQ9MTAAf3U1XNsu1MRJvDKsf99nnL4ob7TCnQU2b8AKh8mGnErNPEkajHnK6QtxvnfSF89v1qr9J7FAAnSPY3vY2FWTgEJoqhuJxowj6uGLQsny4GAz9UEBFD6pOM7QG78jdJJEf8Guj2ruVxHoiAdyBV1G9DAam6KYWb50G8x3eB2LE46xTY3RDMigGV5XdasQDWr8xNVzgZtQfLuFwUIb0QTgc",
+              "received": false
+            },
+            {
+              "_id": "69431f931c508c5d5ed0f361",
+              "name": "Towels29504",
+              "amount": 382,
+              "price": 92719,
+              "manufacturer": "Google",
+              "notes": "JWQM0l2DssZmv0qj71sp4kBmrAHrTmvKlGFargWaF0iLHXStxdFCbF2vD2IxhQF8tftD10ig5QvfFGhPHQHcfkeVDD8A9ry9fCCiFXNRd6RSeaN5Nud8Gx7sMrk3RtI20ErpEvRjbLv73niNz2x7I9t71H4nbZODYb5uuEkGUPTtRIoJPK9RSlYPEkNbelfpZYtztb1GCLMbvlz0vMLEwLzEauIpU9YbWWxImwnLbr1lb7ODJII0mFIYFN",
+              "received": false
+            }
+          ],
+          "total_price": 168787,
+          "delivery": null,
+          "changedOn": "2025-12-17T22:23:36.000Z",
+          "action": "Requested products changed",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "69432d621c508c5d5ed36926",
+          "products": [
+            {
+              "_id": "69432d5c1c508c5d5ed3655c",
+              "name": "Sausages90166",
+              "amount": 784,
+              "price": 19875,
+              "manufacturer": "Amazon",
+              "notes": "mmbSjktfOwrRq3u2q18E5q6e0lNmE8P93ziuPxuf4Hknw2ybyFWn7IPIFcneCyCyUgLPQsVReWqdQ5DoA02NbVofe1MW7AnyIg61HZI5AE1t72AAP4NGVrgq4WCvEWCOMjzrZ8Pghxae26jRkZO4iv135Jpxuic9yyivMHego2wB3THeNDvZZTtGvL6bBPbjxkuUoALj7iDlhCSEt79XeVpWYf9kr3pjhYDm9h6fKlmoGBsMgGwhFXKitC",
+              "received": false
+            }
+          ],
+          "total_price": 19875,
+          "delivery": null,
+          "changedOn": "2025-12-17T22:23:31.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

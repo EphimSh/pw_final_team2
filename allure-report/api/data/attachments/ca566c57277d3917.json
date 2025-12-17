@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:27:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "465",
+    "etag": "W/\"1d1-WWMkNkeiNdjPuj7r1GNYX0wuvQQ\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X8531",
+      "amount": 925,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-17T22:27:54.000Z",
+      "notes": "13yD66M0yH0s7OYKABZxQeh4pRGxRoPQIzWLL1XC8uwe7RDQQUVDaCJnlnaKeAWy2lusfvAjiZVnUxHzwVpyP89yRUw57uLCOJCU2GPbgiQ6QnxMR6Mzp71HzEkFG8S8cTonxCW0mkCgXmXIvNMmjfyvD5aQKEd2472cQ3gLz2MmqVwxxOEq3hx9Hz2ui0mPVjJnR8WFegy1Et2IagLssPMddimeEFiB29HANKbxtm8yEihCMlyNuwnpUw",
+      "_id": "69432e6a1c508c5d5ed401c1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

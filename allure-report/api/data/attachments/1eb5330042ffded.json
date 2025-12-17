@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:25:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "480",
+    "etag": "W/\"1e0-QzX4oXoiDITPfYlOoJWnqbsRHPI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Wyatt76@yahoo.com",
+      "name": "QxueJOfXImZAVNtKaHtyrQXeuqbDIldsxrlmjW",
+      "country": "Ukraine",
+      "city": "rPyxCYye",
+      "street": "oEgZts1xwNgZwqNZ",
+      "house": 34,
+      "flat": 3,
+      "phone": "+2471416079",
+      "createdOn": "2025-12-17T22:25:38.000Z",
+      "notes": "NyHIgz1erx8JcForJ2ARvGUJA1n9KlgTvLSjGCh7meVucWMZmOvYemf17473SnExsWQ3OF0uz6hW5FBBUBRtj5jpl85HafTZjzT4EDzwm43qXJ8IrE34qtbrhfZmgqBV6uqdjbMqbH94KSjPeCZGoo2a7VFoxcFz0W",
+      "_id": "69432de21c508c5d5ed3b430"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

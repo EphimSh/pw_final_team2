@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:19:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "443",
+    "etag": "W/\"1bb-CYMXoe6k7ZPaYRFuDkm/pvWL1Is\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ruben75@hotmail.com",
+      "name": "EFrSBOGqqIItA",
+      "country": "Great Britain",
+      "city": "G",
+      "street": "zu6ou2uDctrYeuEOR66fkL7HdQVH0v",
+      "house": 66,
+      "flat": 9,
+      "phone": "+1484367174",
+      "createdOn": "2025-12-17T22:19:57.000Z",
+      "notes": "akR9TfjKPdkxSCDhJabr0G2RJsxaYnw7SR16IKSrT4SmQurEmN5ik8ATzdzWavd9z5Gq7Xl6JLWenbBzKO3J147J0e0wUGyPaUJmgVCmu68vi620XiI3Koc8cUtcqfborp5XQ6X",
+      "_id": "69432c8d1c508c5d5ed2ef70"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:24:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "378",
+    "etag": "W/\"17a-p0uvi7D1WDdkK47dFToMFCVyo4I\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Gabe_Greenholt50@yahoo.com",
+      "name": "AuPnZJhPeJYP",
+      "country": "Russia",
+      "city": "pwLzlg",
+      "street": "J",
+      "house": 77,
+      "flat": 3,
+      "phone": "+6478271215",
+      "createdOn": "2025-12-17T22:24:37.000Z",
+      "notes": "GFAFscDVpIHzbAtBRPqcnU2kSdYjKh20Z2SBPkrayYcGnr4MPsSejWHiR4wMUDmqDpXI14CJgAMr2KsqXDySEH0dly49Ep0",
+      "_id": "69432da51c508c5d5ed38f3c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:25:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1913",
+    "etag": "W/\"779-zudP6tLohWKlLas6FEh3mekWt3Y\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "69432de01c508c5d5ed3b19d",
+        "email": "Keagan.Zemlak@gmail.com",
+        "name": "ghwkNjZNhVuHWEZzJNNXuDIoIQBdrkQyiBKkaZV",
+        "country": "Germany",
+        "city": "tqnCUePZrYaLFCyJyvi",
+        "street": "aXEB16KQvBURNfv",
+        "house": 189,
+        "flat": 2,
+        "phone": "+8928635091",
+        "createdOn": "2025-12-17T22:25:36.000Z",
+        "notes": "SvQCB9EaZS4fzP3ftPB7vDZ7eR6MfgMbZNFB28W48P7tcuyTJzu2ngKvzF0QWsfnUn4HqSXmG6xrp6F7OwuFYWzdIXfGLQ5bDHs8jigulX7lb6ACBgPSpxo9ZjIS1cIrKFCucpBhkRQ9I9vuF6OxPvnl0DqNdVlMriKd2nB1h0hPhCHfVG7Y9lTe19vFwyTQRwKyfgx2kWCVJQuDMp3j7HQ5gjalPjFISuMpx23iZsUiR8MgfmjLI6w"
+      },
+      "products": [
+        {
+          "_id": "69432de21c508c5d5ed3b300",
+          "name": "Gloves34867",
+          "amount": 384,
+          "price": 26952,
+          "manufacturer": "Tesla",
+          "notes": "HBimW7I0lcMDKeOSCOBgOf7pzjBOuDEWJmtYm9m1ROi8uYlvoGR2cs7ZEg2JHodXU8KsoSyXlE6eQAjIEvAFtF3CNSHbLHchYyFJqciC3oaZMJal1JHya7XhB8JsWtEQ5hAC4dMNOb42LUP6UsS21frq5bDwxmtIO6fK1qIUu7JAxKD2O0g8Il2RqF8U43aKFNCN4KQqyHvJEXi457nNfzANmEzrvUG95or3kCOTeExzcq44CUNPfiXP8k",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 26952,
+      "createdOn": "2025-12-17T22:25:45.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "69432de01c508c5d5ed3b19d",
+          "products": [
+            {
+              "_id": "69432de21c508c5d5ed3b300",
+              "name": "Gloves34867",
+              "amount": 384,
+              "price": 26952,
+              "manufacturer": "Tesla",
+              "notes": "HBimW7I0lcMDKeOSCOBgOf7pzjBOuDEWJmtYm9m1ROi8uYlvoGR2cs7ZEg2JHodXU8KsoSyXlE6eQAjIEvAFtF3CNSHbLHchYyFJqciC3oaZMJal1JHya7XhB8JsWtEQ5hAC4dMNOb42LUP6UsS21frq5bDwxmtIO6fK1qIUu7JAxKD2O0g8Il2RqF8U43aKFNCN4KQqyHvJEXi457nNfzANmEzrvUG95or3kCOTeExzcq44CUNPfiXP8k",
+              "received": false
+            }
+          ],
+          "total_price": 26952,
+          "delivery": null,
+          "changedOn": "2025-12-17T22:25:45.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "69432de91c508c5d5ed3b6e4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

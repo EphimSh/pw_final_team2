@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:24:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-YkS1IWaNFrrkwC3adPtr7czI/xI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes68598",
+      "amount": 280,
+      "price": 58070,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-17T22:24:25.000Z",
+      "notes": "8BQxGqw2PXputBqQaS9uk5GwDPT6SWLxNVzY9VgTJ1jqJdxOtQ7jnGL9HYBOMJZJ3M9YnoYkl963onvNPyvRKea15hSGHZp1ZcPWgodIRLud6Sm3UVK5RoQzEK1Ttd3QM0HDAhGYyOwlyFcVmrl5ovyTKvw3Kk8tpboxspsKS4401bNidZIH1I4MbIhISfGfyf1NpOWf7LvrOrygtTxPE5cpqCZdr8jFPFf8sgyEpmMRaZPuif4Ox10cYC",
+      "_id": "69432d991c508c5d5ed38867"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

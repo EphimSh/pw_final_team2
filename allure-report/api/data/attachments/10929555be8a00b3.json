@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:19:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "93",
+    "etag": "W/\"5d-dU1YgA4mYl98eF1/4WR02OKIcXk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "IsSuccess": false,
+    "ErrorMessage": "Customer with email 'Everardo4@yahoo.com' already exists"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:21:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "357",
+    "etag": "W/\"165-2H9+R6Aq09lvKguY8pxR3oBVcRA\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Mariana25@gmail.com",
+      "name": "ppMMKToolfDvGnMnPjlWLPSNUpwWzEtkKahAsQUz",
+      "country": "Ukraine",
+      "city": "BxDp",
+      "street": "ajAEMwcTuev",
+      "house": 60,
+      "flat": 8,
+      "phone": "+5445022897",
+      "createdOn": "2025-12-17T22:21:54.000Z",
+      "notes": "plQp7VpH79iIVGzz4Gs39QKN4Dllz2jrD6Do3wvytXVp",
+      "_id": "69432d021c508c5d5ed33229"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

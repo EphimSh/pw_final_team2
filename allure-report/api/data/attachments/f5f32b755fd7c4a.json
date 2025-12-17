@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:28:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "474",
+    "etag": "W/\"1da-B498IvSORKMg84QlGoKuJVJte0I\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Microsoft Surface Duo 330791",
+      "amount": 344,
+      "price": 2200,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-12-17T22:28:00.000Z",
+      "notes": "Z4pyn0jNrjcg6zfScQCxhrehTqK4DO0LotV1eODAXwmTSFvumIBpRhbySrIdAuwa3q1dGHjfP9LPLvMfnXtBak4dnnMr44bM9W4Z4KvWzRMH18FqUnQjt5dN35WjJCglz1AvOQhuHdkhB7876QKSbAbZQKuCDDF1caYORw5B3VMFZ2q3EGL1VqcTZdY1sXnmH0PQtbdUDhcdDVlvWVg4DN0zNHh7rklT6dXxYnMER3MhtYQzBRuPckFDq9",
+      "_id": "69432e701c508c5d5ed404a8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

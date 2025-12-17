@@ -1,0 +1,71 @@
+Failed to update Delivery Details for order with ID: 69432e191c508c5d5ed3d29d: apiRequestContext.fetch: Request context disposed.
+Call log:
+  - → POST https://aqa-course-project.app/api/orders/69432e191c508c5d5ed3d29d/delivery
+    - user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.186 Safari/537.36
+    - accept: */*
+    - accept-encoding: gzip,deflate,br
+    - content-type: application/json
+    - Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MzZmZmM3MWM1MDhjNWQ1ZTlhMzc2NCIsInJvbGVzIjpbIlVTRVIiXSwiaWF0IjoxNzY2MDA4MzIzLCJleHAiOjE3NjYwOTQ3MjN9.6vlFXEpHcxPLZg4Ru95kHru0Xnb3gw05JE8vxpjNduo
+    - content-length: 158
+
+    at /__w/pw_final_team2/pw_final_team2/src/api/apiClients/PWApiClient.ts:22:53
+    at PlaywrightApiClient.send (/__w/pw_final_team2/pw_final_team2/src/api/apiClients/PWApiClient.ts:14:12)
+    at OrdersApi.updateDeliveryDetails (/__w/pw_final_team2/pw_final_team2/src/api/api/orders.api.ts:44:14)
+    at OrdersApiService.createDraftOrderWithDelivery (/__w/pw_final_team2/pw_final_team2/src/api/service/orders.service.ts:52:31)
+    at /__w/pw_final_team2/pw_final_team2/src/tests/api/orders/updateOrderStatus.spec.ts:66:19 {
+  name: 'Error',
+  [Symbol(step)]: {
+    category: 'test.step',
+    title: 'Request POST /api/orders/69432e191c508c5d5ed3d29d/delivery',
+    location: {
+      file: '/__w/pw_final_team2/pw_final_team2/src/api/apiClients/PWApiClient.ts',
+      line: 14,
+      column: 23,
+      function: 'PlaywrightApiClient.send'
+    },
+    box: undefined,
+    stepId: 'test.step@58',
+    group: undefined,
+    boxedStack: undefined,
+    steps: [ [Object] ],
+    attachmentIndices: [ 8, 9 ],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'test.step@58',
+      _title: 'Request POST /api/orders/69432e191c508c5d5ed3d29d/delivery',
+      _parentStep: undefined,
+      skip: [Function (anonymous)]
+    },
+    recoverFromStepError: [AsyncFunction: recoverFromStepError],
+    complete: [Function: complete],
+    endWallTime: 1766010395329,
+    error: {
+      message: 'Error: apiRequestContext.fetch: Request context disposed.\n' +
+        'Call log:\n' +
+        '\x1B[2m  - → POST https://aqa-course-project.app/api/orders/69432e191c508c5d5ed3d29d/delivery\x1B[22m\n' +
+        '\x1B[2m    - user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.186 Safari/537.36\x1B[22m\n' +
+        '\x1B[2m    - accept: */*\x1B[22m\n' +
+        '\x1B[2m    - accept-encoding: gzip,deflate,br\x1B[22m\n' +
+        '\x1B[2m    - content-type: application/json\x1B[22m\n' +
+        '\x1B[2m    - Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MzZmZmM3MWM1MDhjNWQ1ZTlhMzc2NCIsInJvbGVzIjpbIlVTRVIiXSwiaWF0IjoxNzY2MDA4MzIzLCJleHAiOjE3NjYwOTQ3MjN9.6vlFXEpHcxPLZg4Ru95kHru0Xnb3gw05JE8vxpjNduo\x1B[22m\n' +
+        '\x1B[2m    - content-length: 158\x1B[22m\n',
+      stack: 'Error: apiRequestContext.fetch: Request context disposed.\n' +
+        'Call log:\n' +
+        '\x1B[2m  - → POST https://aqa-course-project.app/api/orders/69432e191c508c5d5ed3d29d/delivery\x1B[22m\n' +
+        '\x1B[2m    - user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.186 Safari/537.36\x1B[22m\n' +
+        '\x1B[2m    - accept: */*\x1B[22m\n' +
+        '\x1B[2m    - accept-encoding: gzip,deflate,br\x1B[22m\n' +
+        '\x1B[2m    - content-type: application/json\x1B[22m\n' +
+        '\x1B[2m    - Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MzZmZmM3MWM1MDhjNWQ1ZTlhMzc2NCIsInJvbGVzIjpbIlVTRVIiXSwiaWF0IjoxNzY2MDA4MzIzLCJleHAiOjE3NjYwOTQ3MjN9.6vlFXEpHcxPLZg4Ru95kHru0Xnb3gw05JE8vxpjNduo\x1B[22m\n' +
+        '\x1B[2m    - content-length: 158\x1B[22m\n' +
+        '\n' +
+        '    at /__w/pw_final_team2/pw_final_team2/src/api/apiClients/PWApiClient.ts:22:53\n' +
+        '    at PlaywrightApiClient.send (/__w/pw_final_team2/pw_final_team2/src/api/apiClients/PWApiClient.ts:14:12)\n' +
+        '    at OrdersApi.updateDeliveryDetails (/__w/pw_final_team2/pw_final_team2/src/api/api/orders.api.ts:44:14)\n' +
+        '    at OrdersApiService.createDraftOrderWithDelivery (/__w/pw_final_team2/pw_final_team2/src/api/service/orders.service.ts:52:31)\n' +
+        '    at /__w/pw_final_team2/pw_final_team2/src/tests/api/orders/updateOrderStatus.spec.ts:66:19',
+      cause: undefined
+    }
+  }
+}

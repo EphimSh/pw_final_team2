@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:29:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-ccP1MC9pm3GUgmrdL8ulUbaYxIA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants26662",
+      "amount": 248,
+      "price": 29368,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-17T22:29:25.000Z",
+      "notes": "ILIVMOmFWdes86Rsj5c2qHYEnUl3S66QDFdomqRR3glT6IGVYDFCmQ4aibpfehBZc51Z9jNIUyY4NOsa20Wxr6vuIO9PoUPpuA6BQvr9pgXtEJJW8E6FgemtvczuRMQm06sytrrPijyakL6Hd1rYAMKGK2dr2myLOsYXeCPgfze9HhPB3psx7W6zFLTJJffJiGnkWUKW8hWdEmYGJAvkssl5pLOzhKm0j5ykt6ZfQJbwe51fgF0vUqPRqD",
+      "_id": "69432ec51c508c5d5ed43622"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

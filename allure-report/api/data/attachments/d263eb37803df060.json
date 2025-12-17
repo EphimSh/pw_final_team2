@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:27:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-3wOkL0rNkB6od8AinqXfOT3ei/k\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro45296",
+      "amount": 976,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-17T22:27:57.000Z",
+      "notes": "DlfrLokSTW8xZiqIDiQe28dYFwZOb4nfLVSauAUPuT2BGAhRzPJ7pz3puNiFFz66qCBTXJYYouwtH2IxBonfDsSTF0ueJ52lISdlHCFpOrWwKZS2wmzvZeCWU7gps7DfGLlI2GYhIY2ZIlfziLUUDOE4rUq8iNmpTn4yoQhoHojAi0yT8gBPwVAsTeHOJAYyiuaEilCb8Rbd0Rqa5nlDj0cTsoajGlFLKfxUT5b2SoVweltAFnKTqnGMcn",
+      "_id": "69432e6d1c508c5d5ed40330"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

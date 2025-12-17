@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:25:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "445",
+    "etag": "W/\"1bd-kc0vTAQdmmvqyTNdiR48+dFrUsg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jessyca.Schimmel68@hotmail.com",
+      "name": "QSRTsbgMwhkPMiyiqlqL",
+      "country": "Canada",
+      "city": "qmmYQdWkcazFlOZm",
+      "street": "EsTsGoPbL8dP7r3mCfW3BAmtV7V7I51BO1",
+      "house": 14,
+      "flat": 1,
+      "phone": "+1835601327",
+      "createdOn": "2025-12-17T22:25:35.000Z",
+      "notes": "HqXsyGwVaeKIfVnxZYqBtRG6xHDuGgsJ6c3csnKMKkd61R8H46REK2SWX4A0QMiVxlvlydmJ9rCnNM0TF4pvnnjA6KcHikhpXaJgfPLotJm",
+      "_id": "69432ddf1c508c5d5ed3b192"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

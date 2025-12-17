@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:26:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-IcUIezkY72mTDCulhIEw+XF8M6s\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball32173",
+      "amount": 760,
+      "price": 19872,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-12-17T22:26:28.000Z",
+      "notes": "DtpKgIfa3dAVhToouTVFoeRu2I4vZePRgKKqIwECZoYu4oNMDIUNh2aQVUt4cfZ9pW0qPhPwbikBbuDJveM0X59msR8y22iahL9g7k0W425auY1z0i54BJ6YoVSCRr1h5TROR47O0fPkBKP6AtZpJrBLp8w0y2J0hZREzbS0njMslfA7RqHs49Qet1m4LpUkWKoj7rhn6Klz0QhSinYn08cF3uFfq0ugorvb85qZD5dqGFSdsgyiLacuio",
+      "_id": "69432e141c508c5d5ed3cffb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:19:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "414",
+    "etag": "W/\"19e-05/9/BFAvQUlI9VZbWGlZUakrJU\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Laila35@yahoo.com",
+      "name": "kGutTZiXCQUaoFqoDQ",
+      "country": "Germany",
+      "city": "W",
+      "street": "XVHN0TZ27MKuKJAZ3aahClpbSCJl4z",
+      "house": 135,
+      "flat": 9,
+      "phone": "+7921191614",
+      "createdOn": "2025-12-17T22:19:43.000Z",
+      "notes": "zNNVTHIKoLTsLRgvWF8fWK6L8JUZ1Us8uOvf1GmUtmFkTIeuqUAmgB2HZTPtdoi3xHncZLoGqPrAF5Sgy4O9KUSVEiDdgv2JQLS5Dl5UCCAu",
+      "_id": "69432c7f1c508c5d5ed2e816"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

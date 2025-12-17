@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:24:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "406",
+    "etag": "W/\"196-JsEogNPV8ucZqqktsMG1V2f892U\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Thora.Nolan67@gmail.com",
+      "name": "qfPESTlJybQ",
+      "country": "USA",
+      "city": "rwNjqpYvptGzhqE",
+      "street": "f",
+      "house": 87,
+      "flat": 3,
+      "phone": "+3745273131",
+      "createdOn": "2025-12-17T22:24:32.000Z",
+      "notes": "DoHyGnd7IL04mKUJcuBHzt2A5ROn7qZ16vEdxYHiOOFWZFq4VY3ZDQWIFuiNYs1hQMlKT3GaT10HK17IPlAyQjhiiEJie9W6Bgcn3WHZpYyORFpeZOmvT9Ljv",
+      "_id": "69432da01c508c5d5ed38c77"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

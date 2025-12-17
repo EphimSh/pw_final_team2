@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:23:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-DirX5lrzCLZfCj+QPu7bsxXQT/s\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer50378",
+      "amount": 913,
+      "price": 30483,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-12-17T22:23:23.000Z",
+      "notes": "GHLmHstdINjWVe2mHKik5k52E6frl49KYzT1Mo2I7FYJYQH1N76UTiidBaGjxKc2CSEDGevIlznOVgI34joZzCCQR8TnSZMtJZwQyrioB9aYL84vDIcasNik3iIQlq0f6HaCLLDfIDsNcubJ8g0hVdiY5uEgv5LM2go3VdX6MZ26cR0wp6Wi0nSbfL6nIjQBQsHjrcOWdtzPR2KhrNccPGtpBcfgQQwEtfXxVVISpzM7OUdb8p4we2otNQ",
+      "_id": "69432d5b1c508c5d5ed36503"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

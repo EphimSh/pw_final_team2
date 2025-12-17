@@ -1,0 +1,14 @@
+Data is valid according to the schema.
+Data is valid according to the schema.
+Data is valid according to the schema.
+Error message: apiRequestContext.fetch: Request context disposed.
+Call log:
+  - → PUT https://aqa-course-project.app/api/orders/69432d841c508c5d5ed37d66/status
+    - user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.186 Safari/537.36
+    - accept: */*
+    - accept-encoding: gzip,deflate,br
+    - content-type: application/json
+    - Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MzZmZmM3MWM1MDhjNWQ1ZTlhMzc2NCIsInJvbGVzIjpbIlVTRVIiXSwiaWF0IjoxNzY2MDA4MzIzLCJleHAiOjE3NjYwOTQ3MjN9.6vlFXEpHcxPLZg4Ru95kHru0Xnb3gw05JE8vxpjNduo
+    - content-length: 21
+
+Cause: undefined

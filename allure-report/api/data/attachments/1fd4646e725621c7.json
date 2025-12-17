@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:27:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-GIe8G9AYUo0PQePgxbs6IH/V0jw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips49289",
+      "amount": 409,
+      "price": 70527,
+      "manufacturer": "Amazon",
+      "createdOn": "2025-12-17T22:27:47.000Z",
+      "notes": "z35IBHw6nn5vEDPIgsWpfR7A04mZFn3ZMK9ytZYVX0rOLYBlGcv7UMWc8xM7VToqjaHoU6DQVwfwJ7zgx1ZYFlbnuSYYha07jAxWND396GjQkj3EHxv0CXyfa3EMHIPxP8iPOrjDcCuoFMCN0IGzGVrcB4j0xnhfchKodTVZ9p3rHcq5npC59gvTd5beCuAbtJDQJgFk9sM4idNuwxkZuBvhwAf12RUBza7wp3FRuiAlPN3I1s4GoR9YNv",
+      "_id": "69432e631c508c5d5ed3fdaf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

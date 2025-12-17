@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:24:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2782",
+    "etag": "W/\"ade-WIHVPeRzRsTZX3A+QuXCeLbB9iI\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "69432d731c508c5d5ed37388",
+      "status": "Draft",
+      "customer": {
+        "_id": "69432d681c508c5d5ed36c29",
+        "email": "Benedict.Kihn42@gmail.com",
+        "name": "wnhcvyfNQZkFddP",
+        "country": "Belarus",
+        "city": "JstLGaHZ",
+        "street": "rwt0r",
+        "house": 111,
+        "flat": 7,
+        "phone": "+3551145098",
+        "createdOn": "2025-12-17T22:23:36.000Z",
+        "notes": "uEgBmHbFI70ReEIktE948EMZqHohqILtiY9D8JouRo2p1oe8qfI1lpWzyS3Lfo0LpWQx5FktdWHQ"
+      },
+      "products": [
+        {
+          "_id": "69432d671c508c5d5ed36bca",
+          "name": "Ball94295",
+          "amount": 406,
+          "price": 75761,
+          "manufacturer": "Google",
+          "notes": "rG9kBu9WQ9IcG4x31LSiWL5B9PVEAkmnqEdb4ZWpzAsyEcAbmUvZsSqrBt4qGLleIpg1GESOIbsMmaqLmnqUyV7DFvWlhbPmV2ouuj4hjMhxDUb7DvoPgRCwdDCXUnaHXWRfsXtYyrL7l7ybytd22FnHEOv2QONbFkFStqaa9EbOIVSfkViCAT03QWLzcYfYs1KMyVLxuSKsh260oiFfuI5tQZPLia43wSDElZ1aydcKua9D3uuFmwrTT6",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "USA",
+          "city": "Mock City Xhp",
+          "street": "MockStreetWxDcadlbLHTQxk",
+          "house": 114,
+          "flat": 10
+        },
+        "finalDate": "2025-12-22T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 75761,
+      "createdOn": "2025-12-17T22:23:47.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "69432d681c508c5d5ed36c29",
+          "products": [
+            {
+              "_id": "69432d671c508c5d5ed36bca",
+              "name": "Ball94295",
+              "amount": 406,
+              "price": 75761,
+              "manufacturer": "Google",
+              "notes": "rG9kBu9WQ9IcG4x31LSiWL5B9PVEAkmnqEdb4ZWpzAsyEcAbmUvZsSqrBt4qGLleIpg1GESOIbsMmaqLmnqUyV7DFvWlhbPmV2ouuj4hjMhxDUb7DvoPgRCwdDCXUnaHXWRfsXtYyrL7l7ybytd22FnHEOv2QONbFkFStqaa9EbOIVSfkViCAT03QWLzcYfYs1KMyVLxuSKsh260oiFfuI5tQZPLia43wSDElZ1aydcKua9D3uuFmwrTT6",
+              "received": false
+            }
+          ],
+          "total_price": 75761,
+          "delivery": {
+            "address": {
+              "country": "USA",
+              "city": "Mock City Xhp",
+              "street": "MockStreetWxDcadlbLHTQxk",
+              "house": 114,
+              "flat": 10
+            },
+            "finalDate": "2025-12-22T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2025-12-17T22:24:06.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "69432d681c508c5d5ed36c29",
+          "products": [
+            {
+              "_id": "69432d671c508c5d5ed36bca",
+              "name": "Ball94295",
+              "amount": 406,
+              "price": 75761,
+              "manufacturer": "Google",
+              "notes": "rG9kBu9WQ9IcG4x31LSiWL5B9PVEAkmnqEdb4ZWpzAsyEcAbmUvZsSqrBt4qGLleIpg1GESOIbsMmaqLmnqUyV7DFvWlhbPmV2ouuj4hjMhxDUb7DvoPgRCwdDCXUnaHXWRfsXtYyrL7l7ybytd22FnHEOv2QONbFkFStqaa9EbOIVSfkViCAT03QWLzcYfYs1KMyVLxuSKsh260oiFfuI5tQZPLia43wSDElZ1aydcKua9D3uuFmwrTT6",
+              "received": false
+            }
+          ],
+          "total_price": 75761,
+          "delivery": null,
+          "changedOn": "2025-12-17T22:23:47.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

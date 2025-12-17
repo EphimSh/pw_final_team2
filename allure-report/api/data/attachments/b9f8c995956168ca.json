@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:22:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-nTAnOK573UVtO1C8XnoCi10Gxc0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table75364",
+      "amount": 21,
+      "price": 23827,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-17T22:22:15.000Z",
+      "notes": "BRwF3tm7NoGYvwfPIB0DG5klDicCmCxrtqltNmL9PMZsB59wip0mr8Z1W8pb7mZVCjXKmxnYM06WDpuhyLM2NXfmk37ClCC7LZSoj4s1bmXvZu3vT014AZ5nIBQqRvLLL4rVlD94GaHXGqd7r949mZBRAwpOF8coppBrtBgRgd6qVDeVI939dlahvCIu5UdiAKgduVJlOwMj34n3p4BNhHn2QkxjwgQHCg3RY6K4hMidtl8MGJg1k82Acd",
+      "_id": "69432d171c508c5d5ed33e29"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

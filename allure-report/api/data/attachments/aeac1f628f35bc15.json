@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:27:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-avCMmDKfDe2zPsrwbwBb59YjsJE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X43909",
+      "amount": 716,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-17T22:27:54.000Z",
+      "notes": "CyhusmU0CBtIUWEGXyIEVyVnDzSqXBSS28SDAXhttaGCENyUGZ19B3WvKzKvKeeJpp0ZKzeXR3UXr1mQ5w06rHhvBkgxYvLqM9VOz036wexSRiW4t2t1WcHTHCKJ0M9UopQhhicSiquesjPInpw3xHJfUo8xCO8YUplhtxxUtA3A26M2Xoey7zL5ym0aEonlytXFhdFaXIq5rOgBgkHpT1E19sXnQlLVB9QULaKzvFsJZ3vhETXW6UnWc2",
+      "_id": "69432e6a1c508c5d5ed401bf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

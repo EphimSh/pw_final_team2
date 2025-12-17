@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:19:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "350",
+    "etag": "W/\"15e-BZpa4LYKyN33qy3kAo7xWouA/uo\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Elvis2@yahoo.com",
+      "name": "KPkqGlNeatRpZqGyJlanEcFwteiWLHfJwlvMFge",
+      "country": "Ukraine",
+      "city": "UEJjEztcXcR",
+      "street": "q6yLOTSWSf1UAnIntS5iEwN6gvJjjfPKggzoy2",
+      "house": 161,
+      "flat": 3,
+      "phone": "+8486804511",
+      "createdOn": "2025-12-17T22:19:58.000Z",
+      "notes": "M1fmrf",
+      "_id": "69432c8e1c508c5d5ed2efd2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

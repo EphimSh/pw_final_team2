@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:28:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-5mr9hVGIshpuKRCSg0198zTthww\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X48522",
+      "amount": 992,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-17T22:28:39.000Z",
+      "notes": "thRc3QkO0HIhYDKhMrVOPvOVIpji1SlKL7Ep2qKFKnjG1Zmt7aO023JnVLqnwf8QE2Ed17E6GDdM1rVhSiLJYSWEqyxjWQBPTFz3XsXgbMURAxI0rbDqgPVmNYWFfz2lhJPbA4OnY1B65ZeYnDSS0ZMLlUpRsWigHQnzpxAuDCsnMJcdAh4oUYYNWlKZjCz5B0fw7KjRNdBEZm4csmQNZ4KMY8mJXXacz2OluvecP3yRyMbhzj7Z7Smlwc",
+      "_id": "69432e971c508c5d5ed41b85"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

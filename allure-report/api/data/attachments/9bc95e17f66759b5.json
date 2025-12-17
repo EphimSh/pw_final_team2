@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:21:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-iKe5Ci1xlVlxZZxEzsdhXA+qeSQ\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza29590",
+      "amount": 662,
+      "price": 43545,
+      "manufacturer": "Google",
+      "createdOn": "2025-12-17T22:21:03.000Z",
+      "notes": "5noB8Ci3n7WKLILtVQfbtN2iXWeykA1sxisdCa7r4eJKg5lJkQSuvyrvocnVbB6E7qTBujcMizhlqOS9snwrYRq3NkrNx52wOyLclI7Sxkj454zdZK2RhyWoGnHNfCRSOQRvAfw53YdG1l1DCgavNdKqP6owug6DPgXewYqe8ennse0VmXlf5mzXssrkb6J5ppHhR0JwqQ17l5cRSNGzj3bHhubyIIZLGUCOXCd7YXYE65Dw6icH9U1YaM",
+      "_id": "69432ccf1c508c5d5ed3150d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

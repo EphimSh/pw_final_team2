@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:21:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-uFvHnvxdNusbmBqW27EYmLzFRrA\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese70242",
+      "amount": 247,
+      "price": 27833,
+      "manufacturer": "Microsoft",
+      "createdOn": "2025-12-17T22:21:15.000Z",
+      "notes": "zFtmiQZko8jlAe01coG6qrq0VVQ2cbGmBLQQWFz1g37Ax2S5QLeypEYvyXWzrqTaIdeOFpyxfyOGAGZhTqCRLbBiOEd9iWU2Tktix9ZGtkAh1TwXkSImYkbTsUwu5uSEfD3nr5A61vZKZvgyv53NV34HsIeS0P8C6tSsot81bgOq968SDC2MV7w7KXy5loSYdhAjSnRJgaTWzF3OJak8VdpcRUr6cCNLD4Ia6l6SvJMBJtDgK1LN2ur76F",
+      "_id": "69432cdb1c508c5d5ed31c73"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

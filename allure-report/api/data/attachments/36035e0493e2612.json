@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:22:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-gOUm6uPWJJ8iy2Z+O7wdgsnxwBg\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Isaiah76@hotmail.com",
+      "name": "YgDqsdWfyQblzqrkEImGkmbszJCyumqwVqraaiKY",
+      "country": "Canada",
+      "city": "ubRaHolh",
+      "street": "K2GaNBwDv9iYB7k9AOhcLuI0QnsE",
+      "house": 165,
+      "flat": 2,
+      "phone": "+7741622645",
+      "createdOn": "2025-12-17T22:22:25.000Z",
+      "notes": "YcE2XSNaekB45OhTEbdT1o4ri4lozIrgeu6fqDayqyWDXpDspYv9yTmVJok9BbghFmHk8U3FScX16AXzfqAIrHVz1yOgUFpQF9mPB7SQBcMMtfPE7bPnzMjjTcqFgiSko1U",
+      "_id": "69432d211c508c5d5ed343b1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:27:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "465",
+    "etag": "W/\"1d1-EuRX0ZF4BbzV11YibDZtTF0/Mes\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X43246",
+      "amount": 31,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-17T22:27:54.000Z",
+      "notes": "kMAtGiqNK7dTGkXwfV8oziDkqDGOTNmI54EJQ62H2QBDV0l5aCynFrgpq0cieZ8rbmwIczGADYXxGBS4vIDcO90FtjJ0Lpa0SdJOqSpJ44O0H5pjS0D0QX6x6RoZDFvCPjzJpmEcid1rHmhnmYigxK2G25R6FYWsPQgu9qWZDdxyGat1RH1cjoOjhSeQ7Ys7KWJDuUopCxBPGarcrIIyIYEBOsmqsG58ghV3Oa9Cws8ybDTjSXFV96N1i0",
+      "_id": "69432e6a1c508c5d5ed401c5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

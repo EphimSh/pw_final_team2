@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:28:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-lq0bpAQuDGVHNl/lUSvdg7lzM7I\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra43433",
+      "amount": 725,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-12-17T22:28:00.000Z",
+      "notes": "QEKHboswvbWBK4xQcTqOeCgLvdblRkAsO44eHUZD88sxqAoZp68moBbm3WtT1mfB7U4b5KIcCUFnAKZgWIizDxVj3W1ka4k34bRsC718k6LnCI3GGsvBA7YaPUgBmAYAYIuWF8Z2OdnawkhkZhbVdCKBtCUlRmkpsEkA7c7Uy1rsGEQ3widZ2mRqb3cFOJwCFZ34NzSO3x1KsDTfiKncQIzYel5kjHrXJ61SPKFHRFxGZ8svqKTLOlEyLz",
+      "_id": "69432e701c508c5d5ed404c4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

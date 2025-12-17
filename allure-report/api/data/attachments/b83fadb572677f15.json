@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:21:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-3podp5X+/g4BXn2iAPvCOzkGZPQ\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon27661",
+      "amount": 67,
+      "price": 69968,
+      "manufacturer": "Tesla",
+      "createdOn": "2025-12-17T22:21:15.000Z",
+      "notes": "TxKdxIdVQfTQNXZDnAechaf1uYQvShU5rvEoNTKoDxy5WMjxgTcfSdu1XsDJEfiJtGgjICP2F5qlOcJQHd486JfNelrh0uOPx1uv7Np4fD6hAkJFCoKITPN2bE8fhjTnZD3wva9JsO5LkPmWPXMFmOUzDx5T4V0kxAOooD5LpPHciXx313GWEC49nQD8TIUQ24nsuXT2YXeVJukbhnz761k2l0PN2zBZmZ0Iwu16clsabEZS0VAe4atOvF",
+      "_id": "69432cdb1c508c5d5ed31c5b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

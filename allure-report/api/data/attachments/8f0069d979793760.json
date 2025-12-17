@@ -1,0 +1,89 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:22:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1842",
+    "etag": "W/\"732-W3leun7eG75uiovFVDvKsjp698s\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "69432d171c508c5d5ed33e70",
+      "status": "Draft",
+      "customer": {
+        "_id": "69432d141c508c5d5ed33cbe",
+        "email": "Katelynn_Pouros@yahoo.com",
+        "name": "bqfBWlykdOYUjVCnqluUotDUng",
+        "country": "Canada",
+        "city": "pZIjdnsmH",
+        "street": "4zZoQkmwYh35Q8krGQc",
+        "house": 194,
+        "flat": 6,
+        "phone": "+3667165663",
+        "createdOn": "2025-12-17T22:22:12.000Z",
+        "notes": "yUKUgy9tL6SPSsLtYZSQN0RZHTl83ofr6P3zXUbwcW3kn1ILkLC7xRurQkMBO66IBfR"
+      },
+      "products": [
+        {
+          "_id": "69432d171c508c5d5ed33e29",
+          "name": "Table75364",
+          "amount": 21,
+          "price": 23827,
+          "manufacturer": "Google",
+          "notes": "BRwF3tm7NoGYvwfPIB0DG5klDicCmCxrtqltNmL9PMZsB59wip0mr8Z1W8pb7mZVCjXKmxnYM06WDpuhyLM2NXfmk37ClCC7LZSoj4s1bmXvZu3vT014AZ5nIBQqRvLLL4rVlD94GaHXGqd7r949mZBRAwpOF8coppBrtBgRgd6qVDeVI939dlahvCIu5UdiAKgduVJlOwMj34n3p4BNhHn2QkxjwgQHCg3RY6K4hMidtl8MGJg1k82Acd",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 23827,
+      "createdOn": "2025-12-17T22:22:15.000Z",
+      "comments": [
+        {
+          "text": "BCLlpFlODzYvHyrUU1GYbqiJX1uexU284E3RH7iMu1A7v8",
+          "createdOn": "2025-12-17T22:22:16.000Z",
+          "_id": "69432d181c508c5d5ed33ed5"
+        }
+      ],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "69432d141c508c5d5ed33cbe",
+          "products": [
+            {
+              "_id": "69432d171c508c5d5ed33e29",
+              "name": "Table75364",
+              "amount": 21,
+              "price": 23827,
+              "manufacturer": "Google",
+              "notes": "BRwF3tm7NoGYvwfPIB0DG5klDicCmCxrtqltNmL9PMZsB59wip0mr8Z1W8pb7mZVCjXKmxnYM06WDpuhyLM2NXfmk37ClCC7LZSoj4s1bmXvZu3vT014AZ5nIBQqRvLLL4rVlD94GaHXGqd7r949mZBRAwpOF8coppBrtBgRgd6qVDeVI939dlahvCIu5UdiAKgduVJlOwMj34n3p4BNhHn2QkxjwgQHCg3RY6K4hMidtl8MGJg1k82Acd",
+              "received": false
+            }
+          ],
+          "total_price": 23827,
+          "delivery": null,
+          "changedOn": "2025-12-17T22:22:15.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

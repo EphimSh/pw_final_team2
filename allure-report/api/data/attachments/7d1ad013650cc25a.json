@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:19:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "334",
+    "etag": "W/\"14e-kgL5guXJ0jbSMfrszBucbXiOlsc\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Oscar28@gmail.com",
+      "name": "i",
+      "country": "Ukraine",
+      "city": "wzIExVNccyORGAxpOD",
+      "street": "wRN6GDlammEtkOh6xGfB0YdQSqn9a8",
+      "house": 89,
+      "flat": 4,
+      "phone": "+0735849592",
+      "createdOn": "2025-12-17T22:19:48.000Z",
+      "notes": "qrnVnWP7udfKGCGI9CJWXrFlsAcXO",
+      "_id": "69432c841c508c5d5ed2eb24"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

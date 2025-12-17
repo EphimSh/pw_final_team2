@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:19:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-busY+rmzkpGmddsc1nLa3QlRzt8\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat85639",
+      "amount": 464,
+      "price": 32407,
+      "manufacturer": "Sony",
+      "createdOn": "2025-12-17T22:19:58.000Z",
+      "notes": "v1X7HHw2EWAI0p8ZhhidN47hIWxCgyU1rv4uyJ4WtU2v5X4oBoR093y2j6ZyrSoJjbelhmniGgUb1J8Q4nVVl2SzvJbMz83bUSaQjU9lRT5AW1FlFqkPexsyCOTrbCh1gv7NOsXVfLKK8sYAWaaCyGU6D0t2jalbEHYrp3nuj08hhTFjmsn2BBPb3xTLVXZYfQRxvVdBms10cJtyfKe144MQfxyAwHboe1RsQep0UMEWqNq6nf0dMIDKmf",
+      "_id": "69432c8e1c508c5d5ed2f010"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

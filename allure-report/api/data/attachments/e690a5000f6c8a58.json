@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:28:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-4TrEJANagItBknM+fSTMZfOMffo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants73995",
+      "amount": 321,
+      "price": 85333,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-17T22:28:16.000Z",
+      "notes": "IGwaRN5D4m0lMzNktW4G7w4YuL84Tmy4awMdbM8xs9Hgwgv7S5Sj7RMe2eFRe5ZZCB2Fr8QcffmWTjTJK3rlIBFJnOwuBxwv2cspz8af9V6ZHnINNGt3r3WN6uZR5vOBkWiMJfd0ncaE5r1v1nBlKaqdfLqNKRfXCq8M0kOhYSjV9wT7w7dOBAgwDDP7PgML0c5DVORWdWDQTRhUCjQmhYPbVC5HBbNllqjEA9BYcUJoOX3g0SKvPbnSKt",
+      "_id": "69432e801c508c5d5ed40dcf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

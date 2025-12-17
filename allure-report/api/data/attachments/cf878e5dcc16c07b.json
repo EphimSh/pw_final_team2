@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:25:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-gzp3uAVIfPtdeX6qgE8NxHcATrI\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car50046",
+      "amount": 251,
+      "price": 13971,
+      "manufacturer": "Apple",
+      "createdOn": "2025-12-17T22:25:46.000Z",
+      "notes": "3KIW9lQ2HXSMp9zwJWyXmQE4XXuFc5QiThKi2b2g27vaw232BxDUSp7eGBpvLpbyvvZaLcuQIZv0gbKOTUskWorC2LvU7Klz07CR4DmUbcZbHiCz2UgADZt1Fg407oc7QlvmiYeN7PSg78xopskI9ak7JQk8NG6TKpU1IRtvNFeo1sGYCRJ9ixW2feYcC8c9B0m3xc5sU2C1DEEUpDDye0WCYTOnae01qf5UUitsBDvm3rdIkCrdmeiEZp",
+      "_id": "69432dea1c508c5d5ed3b945"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

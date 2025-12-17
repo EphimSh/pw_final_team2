@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:23:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "303",
+    "etag": "W/\"12f-0j6Z7JpgqrBhXz2rKjN/ylXhhU4\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Merlin_Heaney@gmail.com",
+      "name": "RQfyxgC",
+      "country": "USA",
+      "city": "ZfRCYMjwp",
+      "street": "t",
+      "house": 173,
+      "flat": 4,
+      "phone": "+9795928427",
+      "createdOn": "2025-12-17T22:23:30.000Z",
+      "notes": "JvkJX8aYa7CrBjXc5pazG7BaFl5",
+      "_id": "69432d621c508c5d5ed36926"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

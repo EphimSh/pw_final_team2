@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:27:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "467",
+    "etag": "W/\"1d3-iRqOUIdzSKnujXFilbHsDgv4UGU\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy S2557592",
+      "amount": 505,
+      "price": 3100,
+      "manufacturer": "Samsung",
+      "createdOn": "2025-12-17T22:27:55.000Z",
+      "notes": "3QN8duwL9kqDcpswPW7VzJG2muVqyqn0HeCOpHRcapyyh6LXWUIyR3oSyuKL9gsIEf4WRp5STBEOACVIK5zCsC5l8aIOvqpLlVowy64iiZW5lR2GqqRIauke7PqJ2aZOg5YVJPNDCbIi0ZLPheKhqiVqPucKmaYno8YiabSmuWdzbC3JVu3IvLijrF4HueWFLax0OBJVBg54RNAofUlk6jL0CxPxyfBRtQsFXv1KipCVASt6bJF7F8q7jX",
+      "_id": "69432e6b1c508c5d5ed401e3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

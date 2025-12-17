@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Wed, 17 Dec 2025 22:19:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-MsNndKh95aMueswbo1V59H8Mijo\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken20950",
+      "amount": 575,
+      "price": 77943,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2025-12-17T22:19:58.000Z",
+      "notes": "y8nISus6Sn3VaqXLIijAo592xbmSwNhmCfPK4YltuVCLWZwLltGGG6krQqKG4AqecdxK41KemOGyKku52qu3lPUI8VKUG8bsX4uXzE64U878PWleZjE1VYWmu6QX3yozzD6AdxCxELc53I1FTzqD2O9hu9fukfDXI8oo2D9pB4WzBNQlBG9fgmboQQNrPRR0dpanlQJWC52BNu6lgAcIa2pcolfYFXlcCbuAlRMRkoFLDNxpiGNOTsW7ge",
+      "_id": "69432c8e1c508c5d5ed2efad"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
