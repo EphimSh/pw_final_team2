@@ -69,6 +69,27 @@ export class OrdersApi {
     }
   }
 
+  // ("PUT /api/orders/{id}")
+  async update(id: string, orderData: IOrderCreateBody, token: string) {
+    const options: IRequestOptions = {
+      baseURL: apiConfig.baseURL,
+      url: apiConfig.endpoints.orderById(id),
+      method: "put",
+      data: orderData,
+      headers: {
+        "content-type": "application/json",
+        Authorization: `Bearer ${token}`,
+      },
+    };
+
+    try {
+      return await this.apiClient.send<IOrderResponse>(options);
+    } catch (error) {
+      console.error(`Failed to update for order with ID: ${id}:`, error);
+      throw error;
+    }
+  }
+
   // ("GET /api/orders/{id}")
   async getByID(id: string, token: string) {
     const options: IRequestOptions = {
