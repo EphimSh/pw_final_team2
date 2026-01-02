@@ -1,17 +1,22 @@
 import { OrdersApi } from "api/api/orders.api";
+import { CustomersApi } from "api/api/customers.api";
 import { CustomersApiService } from "./customers.service";
 import { ProductsApiService } from "./products.service";
 import { validateResponse } from "utils/validation/validateResponse.utils";
 import { STATUS_CODES } from "data/statusCode";
-import { IDeliveryInfo, IOrderCreateBody, ORDER_STATUSES } from "data/types/orders.types";
+import { IDeliveryInfo, IOrder, IOrderCreateBody, IOrderResponse, ORDER_STATUSES } from "data/types/orders.types";
 import { createOrderSchema } from "data/schemas/orders/create.schema";
 import { generateDeliveryData } from "data/orders/generateDeliveryData";
 import { expect } from "fixtures/api.fixtures";
 import { convertToDate } from "utils/date.utils";
+import { IResponse } from "data/types/core.types";
+import { ProductsApi } from "api/api/products.api";
 
 export class OrdersApiService {
   constructor(
     private ordersApi: OrdersApi,
+    private customersApi: CustomersApi,
+    private productsApi: ProductsApi,
     private customersApiService: CustomersApiService,
     private productsApiService: ProductsApiService,
   ) {}
@@ -28,14 +33,13 @@ export class OrdersApiService {
   }
 
   async createDraftOrder(token: string, numberOFProducts = 1) {
-    if (numberOFProducts < 1 || numberOFProducts > 5)
-      throw new Error(`Unable to create Order with ${numberOFProducts} products`);
+    // if (numberOFProducts < 1 || numberOFProducts > 5)
+    //   throw new Error(`Unable to create Order with ${numberOFProducts} products`);
     const customer = await this.customersApiService.create(token);
     const orderData: IOrderCreateBody = {
       customer: customer._id,
       products: [],
     };
-    //why the same if twice?
     if (numberOFProducts > 5 || numberOFProducts < 1) {
       throw new Error(`Incorrect number of Products`);
     }
@@ -90,6 +94,27 @@ export class OrdersApiService {
     });
   }
 
+  async deleteOrderWithCustomerAndProduct(idOrOrder: string | IOrder, token: string) {
+    const createdOrder =
+      typeof idOrOrder === "string" ? (await this.ordersApi.getByID(idOrOrder, token)).body.Order : idOrOrder;
+    const orderId = createdOrder._id;
+    const customerId = createdOrder.customer._id;
+    const productsIds = createdOrder.products.map((product) => product._id);
+    const uniqueProductsIds = [...new Set(productsIds)];
+
+    //delete order
+    const orderDeleteResponse = await this.ordersApi.delete(orderId, token);
+    expect.soft(orderDeleteResponse.status).toBe(STATUS_CODES.DELETED);
+
+    //delete customer
+    const responseCustomer = await this.customersApi.delete(customerId, token);
+    expect.soft(responseCustomer.status).toBe(STATUS_CODES.DELETED);
+
+    //delete products
+    const responsesProducts = await Promise.all(uniqueProductsIds.map((id) => this.productsApi.delete(id, token)));
+    responsesProducts.forEach((response) => expect.soft(response.status).toBe(STATUS_CODES.DELETED));
+  }
+
   async addOrderComment(id: string, token: string, comment?: string) {
     if (!comment) {
       comment = "Default comment text";
@@ -119,5 +144,13 @@ export class OrdersApiService {
     expect(actualDelivery.address).toEqual(expectedDelivery.address);
     expect(convertToDate(actualDelivery.finalDate)).toEqual(expectedDelivery.finalDate);
     expect(actualDelivery.condition).toEqual(expectedDelivery.condition);
+  }
+
+  async assertOrderStatus(response: IResponse<IOrderResponse>, expectedStatus: string) {
+    await expect.soft(response.body.Order.status).toEqual(expectedStatus);
+  }
+
+  calculateProductsTotalPrice(products: IOrder["products"]): number {
+    return products.reduce((total, product) => total + Number(product.price), 0);
   }
 }

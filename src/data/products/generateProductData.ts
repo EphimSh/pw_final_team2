@@ -29,6 +29,8 @@ export function generateProductResponseData(params?: Partial<IProduct>): IProduc
   };
 }
 
+export function generateProductID() {
+  return new ObjectId().toHexString();
 export function generateProductsDataForOrder(params?: Partial<IProduct>): IOrderProduct[] | undefined {
   const length = faker.number.int({ min: 1, max: 5 });
   const productsData: IOrderProduct[] = [];

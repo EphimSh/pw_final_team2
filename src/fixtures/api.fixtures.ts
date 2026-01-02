@@ -72,8 +72,8 @@ const test = base.extend<IApi>({
     await use(new CustomersApiService(customerApi));
   },
 
-  ordersApiService: async ({ ordersApi, customerApiService, productsApiService }, use) => {
-    await use(new OrdersApiService(ordersApi, customerApiService, productsApiService));
+  ordersApiService: async ({ ordersApi, customerApi, productsApi, customerApiService, productsApiService }, use) => {
+    await use(new OrdersApiService(ordersApi, customerApi, productsApi, customerApiService, productsApiService));
   },
 });
 
