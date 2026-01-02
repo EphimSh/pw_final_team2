@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-p5q+kMaiQmMHG0ip+aZymQTaIv0\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon75049",
+      "amount": 643,
+      "price": 56840,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-02T23:48:15.000Z",
+      "notes": "Irjd7dPdSPtUZzfznzO4aLuPOAvx0U1ruMnUdVZI4v95MJ2QSj1Rh1JEVGELQf9f3vANkf6pbkje6MRRXv3Y9jwJcsgNPIb9QqO46hp0VREe7VV5Tpl2ExZMVrJ0QCsvHyCIn3cAG2cmQk0aqRfpPmmIkYnkiuFZ2bQk4R2yFAscNmhg6XcB5PkfebtZiuL9aybesR79rLrj27p8N9576RpEO7C4DO9HSUmPFW7mOc26DnQ7JyzZrn57xR",
+      "_id": "6958593f1c508c5d5e7c4dcd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

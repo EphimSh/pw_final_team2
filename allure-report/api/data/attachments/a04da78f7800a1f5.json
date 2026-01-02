@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "472",
+    "etag": "W/\"1d8-YiTeUhZTqxEc1VkiZFSdYpHlurQ\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Alessia10@gmail.com",
+      "name": "I",
+      "country": "Ukraine",
+      "city": "IFvRd",
+      "street": "28wYE5GpHpOCZup8Ca6aY29MlrFuI5ibv9bcYaRM",
+      "house": 14,
+      "flat": 6,
+      "phone": "+2749853916",
+      "createdOn": "2026-01-02T23:48:08.000Z",
+      "notes": "I2UHYdyi0mCBpCNcoLDGLVAxXWn8OlMKsRydjTEyDQyLj4vO3YDEosBqKelne22b1PI8r65QcKWcWdkojgcO4wrg7c484PTtXpuY2yZ2fnYtbdzAQD2PV7tr4hYUOLzQj6lnIUrWL2SOQSewJllPoGt3xDvEfVLmURGEC1dH",
+      "_id": "695859381c508c5d5e7c4c53"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

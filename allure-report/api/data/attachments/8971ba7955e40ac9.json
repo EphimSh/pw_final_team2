@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "434",
+    "etag": "W/\"1b2-I7+Eo/uXys6X7Mp9pB8s0cEjf8I\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Rod21@hotmail.com",
+      "name": "gkfVxuhJFCyJehosOhtYgUjvYvhbBWla",
+      "country": "France",
+      "city": "yVIJMkiAOCLCW",
+      "street": "yD8JoLjnohhAscEzPIVnbE5tum",
+      "house": 73,
+      "flat": 2,
+      "phone": "+7836834465",
+      "createdOn": "2026-01-02T23:48:55.000Z",
+      "notes": "VrUJ4eUg2tEtpgVPIlrvHEG8BWxfaHrufdMvl2FvdX8g3V5gavrK59LguzWmrXqojKkIBgE4CUdR2mS0q5GYfTXgVIk4iKXZXXqylSVW9ApZ",
+      "_id": "695859671c508c5d5e7c5bee"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

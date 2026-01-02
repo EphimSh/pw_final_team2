@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:49:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-92EXhTfUxnhtZlo875jzqOBa4Js\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro94257",
+      "amount": 613,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-02T23:49:44.000Z",
+      "notes": "PqPe7M02SeZgLVHPj8J4z3EO3JzSz2Vzmw3FhkiQ4Z9j3qZz2HnlaGd0HI9Eu9ngmn2R6sxxsnoY0vaK5UzxxkLW3YtOinOZpKwbxrCKyQwD4JWtmiu9Pu18NfLzXoaMlwU5OFIs3RGc8fSTCoqWtTTqrvjlDRKzdnnrtuz1SYCeaeC3iutPjk5SKmbDmLr4fx0uUverWjF9GTMPXsGwMKdvkfHjQHuu93MnQDIih5wJd1o6CqxVRNsDoJ",
+      "_id": "695859981c508c5d5e7c6c54"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

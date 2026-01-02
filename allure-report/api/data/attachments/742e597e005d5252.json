@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:50:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-MyZ+4q5VtsZbAZ0s41mTCFNZR9g\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X18593",
+      "amount": 514,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-02T23:50:29.000Z",
+      "notes": "RRLFr3a6DLHEoTiKkBjUmu5UfGLCYJSmtjva9QyhLjhgPBlOM5GImB01QTj1ysnuANxRueNncGAj7IX8UofYTQmt9wf4hTRDdQu6PvIynwiCEbgqoqVMOQ32F1qDD37gsurc76IL1nrvZhPmDWSyWOni5ifyVg3bdfSzBnxFiy2vK6W9j0F3G2xjrffXMtukAhnobfMoApN9LD3xClnUEsFTeMbsVSSZbQ3Ebvxl5Ela0M6PpvofyRXVcq",
+      "_id": "695859c51c508c5d5e7c808f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:49:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-VVWMssFK/Vn5JPvNQQnm4ZdBwO8\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants2251",
+      "amount": 1,
+      "price": 51203,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-02T23:49:01.000Z",
+      "notes": "LYC0eQoD43wMEEtzUkvRzV5fT6ywDJhiG3HXU2EMjXtnlbC9gB8fMJ3b2UBD62R65pchcvXsuoAXPBRjvhYKHiWW7wIQtvPKa2wAccZDUONgDSEdgPyMf2q30wuM5ORpoJPY4vBewsSOPyAMQnMeijzkRv1HtJopx1P2OM545he1wpeeDEq0cYNTqJh3beD2dQvtnjUqChV5eS4ZyZJLsAqlTkuo8avbjZBYx16ZKKDCsEVBvKvZMon9Qr",
+      "_id": "6958596d1c508c5d5e7c5d61"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:49:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "202",
+    "etag": "W/\"ca-VUfULJtaltzSIOYSCWpyHmuYlPk\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike72369",
+      "amount": 389,
+      "price": 69861,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-02T23:49:24.000Z",
+      "notes": "",
+      "_id": "695859841c508c5d5e7c66b9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

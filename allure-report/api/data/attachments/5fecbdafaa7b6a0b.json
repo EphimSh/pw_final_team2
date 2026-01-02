@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:49:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-v7vYihn22Xa5HGQqAFpAa+9lXMY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese19496",
+      "amount": 384,
+      "price": 96049,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-02T23:49:49.000Z",
+      "notes": "83jxEfDZuWJpDyzRpyPohEKIBS6wCKkv50sZL1yAE9o3ZenYCWF7apIEtSj8LWDyligRPV1v3TZYwJ5GF0opH96oD8XG8lBR6do4R4PEFHCznfTFMp0bjiihSzTueJ0TOg41FtOr2jD24m9e52yHvAWfesUwhjCqkKjnOldPQlgvLo5HaXoQpyXQDtKrdcsiAGpVA87Rr0zQAu2aWuoFJLUUwZXkbsM0zFiD5xn6tkAOKeOuu9h8G7fiBa",
+      "_id": "6958599d1c508c5d5e7c6caa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:49:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-Be1LCgLitMNty/YNfLMe52xJjE0\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro55745",
+      "amount": 666,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-02T23:49:45.000Z",
+      "notes": "Kb6j1hib8bmvSwSk7JiMexaP6BayVDCHCiuDaRoU8BIT5Ub6C6HtwRh59PybzYuH6TK9YlbokbKG8wMRuIEH2nuJyH5m8TzCUPqt28kgyrDzFS6dYYYoIMYnFRAXCkERVXiGUOgLzpTMxz03lnnB4dhzLn8Ffjrlr6cbejXL14y7umpvg7CU0auw8caUjEw1vBxQtmm7qSsf47HHdeWfE4yt4FRxp53LVLrDwAI46P4Sbv8ZSNLTYKhN4H",
+      "_id": "695859991c508c5d5e7c6c65"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

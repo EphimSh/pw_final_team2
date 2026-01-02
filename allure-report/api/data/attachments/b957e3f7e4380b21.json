@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-WZLAdXbtpaNBbivo47ojmE8YqlE\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer56501",
+      "amount": 629,
+      "price": 34021,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-02T23:48:23.000Z",
+      "notes": "4f6Bu8hTinODyiuB72egICArCuG0MydHvVFgPfirq9smQPym144mosU18FQUks8hRS8IE8VMhyUeUH0C0JXfVrcCmk0NSyE5ErdAiHeRRZhSt42EaV5hyoTj2grtpS5XaESZRrsOvctXXyr61bDOTQlonsdGQuCg4Dh0CwiU59jhs24KQ50krC20felHjJGuX3acB8Ps0Wih4Hlm1bpfu0d719Yv9nzZBkWiKRGJ2OXPPqAY3yNGhehE22",
+      "_id": "695859471c508c5d5e7c5188"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

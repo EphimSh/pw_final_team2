@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "449",
+    "etag": "W/\"1c1-suAN54dL0CrIzGdPPkcZE4cJeo4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair803",
+      "amount": 858,
+      "price": 534,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-02T23:48:28.000Z",
+      "notes": "NuUoUI3yEDTEf22MC7YT2EZukQbGFGFnVebrawkcLRCGfEeoPIUZnCImYjv7byrQLuzLpR399gezr8sYjOhFkivAXUoPx2dB6jh4JoFX88PuEN13jFtueok5V6Ea6S24kbfjHPFRg1xHXhn7Q1L3JCXQu0eP5AcsH65b9afx6zJluJumiYF6PzNFRdPgEz7tjBfU7UPm9zw77W64Ra0CDtx5Z6IeMJvARO3Ar9DjnTZGZncllbR6bHSfP9",
+      "_id": "6958594c1c508c5d5e7c53e9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

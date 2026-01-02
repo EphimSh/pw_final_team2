@@ -1,0 +1,173 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3783",
+    "etag": "W/\"ec7-rsVaoZuESld539DF9WX4/+AYQRQ\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695859601c508c5d5e7c57a9",
+      "status": "In Process",
+      "customer": {
+        "_id": "695859601c508c5d5e7c5794",
+        "email": "Earline_Ferry45@yahoo.com",
+        "name": "IZQnSnWTmWmGKTHecEVwzP",
+        "country": "Great Britain",
+        "city": "bZkIitMNVoRPYhlJ",
+        "street": "Ior6PiDsPZmfvpsoXs8U9145",
+        "house": 3,
+        "flat": 2,
+        "phone": "+6714582200",
+        "createdOn": "2026-01-02T23:48:48.000Z",
+        "notes": "VnT4nL7pDeSlDW0sIZQPd36AhAIoRZxVZ8zC4MfpGsRoJq9RH9ruW1ixxm4p28M53cIinn6S6DDWQZas7DKyukQ1g55AlmBJyBvDsSstimK3KwIDQWeglJGBl6XkPOaDz2"
+      },
+      "products": [
+        {
+          "_id": "6958595e1c508c5d5e7c5776",
+          "name": "Mouse65157",
+          "amount": 758,
+          "price": 96655,
+          "manufacturer": "Google",
+          "notes": "BBc6EJJz6w7QH0Lem65uiteq2LdEJxp77uxLWyA5BEsCDCWLGsDnoSIlrqUWnPkQSs6HkeHVMK2vWlPqpDg3luZ7zJZFbtWf9lWKLUgZJoyq6UiCZmFKvUbEGAqjvDsfMmfx7tuuXQuPQ8BnXVdrS2ZGl6k1uF6q4vokKVrcMC8JEwiKtbabHSYc3rOpUkHN5V3f5Oq86XduR6YiAlddhYgmK2ywI0uhstSAsh7oEZWloZhRdKSa1kUX9w",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Ukraine",
+          "city": "Mock City ODqt",
+          "street": "MockStreetn",
+          "house": 6,
+          "flat": 18
+        },
+        "finalDate": "2026-01-07T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 96655,
+      "createdOn": "2026-01-02T23:48:48.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "In Process",
+          "customer": "695859601c508c5d5e7c5794",
+          "products": [
+            {
+              "_id": "6958595e1c508c5d5e7c5776",
+              "name": "Mouse65157",
+              "amount": 758,
+              "price": 96655,
+              "manufacturer": "Google",
+              "notes": "BBc6EJJz6w7QH0Lem65uiteq2LdEJxp77uxLWyA5BEsCDCWLGsDnoSIlrqUWnPkQSs6HkeHVMK2vWlPqpDg3luZ7zJZFbtWf9lWKLUgZJoyq6UiCZmFKvUbEGAqjvDsfMmfx7tuuXQuPQ8BnXVdrS2ZGl6k1uF6q4vokKVrcMC8JEwiKtbabHSYc3rOpUkHN5V3f5Oq86XduR6YiAlddhYgmK2ywI0uhstSAsh7oEZWloZhRdKSa1kUX9w",
+              "received": false
+            }
+          ],
+          "total_price": 96655,
+          "delivery": {
+            "address": {
+              "country": "Ukraine",
+              "city": "Mock City ODqt",
+              "street": "MockStreetn",
+              "house": 6,
+              "flat": 18
+            },
+            "finalDate": "2026-01-07T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-02T23:48:49.000Z",
+          "action": "Order processing started",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695859601c508c5d5e7c5794",
+          "products": [
+            {
+              "_id": "6958595e1c508c5d5e7c5776",
+              "name": "Mouse65157",
+              "amount": 758,
+              "price": 96655,
+              "manufacturer": "Google",
+              "notes": "BBc6EJJz6w7QH0Lem65uiteq2LdEJxp77uxLWyA5BEsCDCWLGsDnoSIlrqUWnPkQSs6HkeHVMK2vWlPqpDg3luZ7zJZFbtWf9lWKLUgZJoyq6UiCZmFKvUbEGAqjvDsfMmfx7tuuXQuPQ8BnXVdrS2ZGl6k1uF6q4vokKVrcMC8JEwiKtbabHSYc3rOpUkHN5V3f5Oq86XduR6YiAlddhYgmK2ywI0uhstSAsh7oEZWloZhRdKSa1kUX9w",
+              "received": false
+            }
+          ],
+          "total_price": 96655,
+          "delivery": {
+            "address": {
+              "country": "Ukraine",
+              "city": "Mock City ODqt",
+              "street": "MockStreetn",
+              "house": 6,
+              "flat": 18
+            },
+            "finalDate": "2026-01-07T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-02T23:48:48.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695859601c508c5d5e7c5794",
+          "products": [
+            {
+              "_id": "6958595e1c508c5d5e7c5776",
+              "name": "Mouse65157",
+              "amount": 758,
+              "price": 96655,
+              "manufacturer": "Google",
+              "notes": "BBc6EJJz6w7QH0Lem65uiteq2LdEJxp77uxLWyA5BEsCDCWLGsDnoSIlrqUWnPkQSs6HkeHVMK2vWlPqpDg3luZ7zJZFbtWf9lWKLUgZJoyq6UiCZmFKvUbEGAqjvDsfMmfx7tuuXQuPQ8BnXVdrS2ZGl6k1uF6q4vokKVrcMC8JEwiKtbabHSYc3rOpUkHN5V3f5Oq86XduR6YiAlddhYgmK2ywI0uhstSAsh7oEZWloZhRdKSa1kUX9w",
+              "received": false
+            }
+          ],
+          "total_price": 96655,
+          "delivery": null,
+          "changedOn": "2026-01-02T23:48:48.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

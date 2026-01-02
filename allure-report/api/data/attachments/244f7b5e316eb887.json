@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "397",
+    "etag": "W/\"18d-scUWCsVQ6AdD86GeG2hs7TVm8sg\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Lilly_Stehr-Pfeffer34@hotmail.com",
+      "name": "wLyVfjrFTzjASjqOXyHbbzGBugEBThdljHANXe",
+      "country": "Belarus",
+      "city": "yzAXsznDmFM",
+      "street": "D4UtIL7By1icZBFFdUp",
+      "house": 22,
+      "flat": 1,
+      "phone": "+4106717282",
+      "createdOn": "2026-01-02T23:48:04.000Z",
+      "notes": "0lpt12oUYYwbukJfLvxUZNhKughw1npp1J9vtpeT0rJmtakOi64WttlkC",
+      "_id": "695859341c508c5d5e7c4be3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

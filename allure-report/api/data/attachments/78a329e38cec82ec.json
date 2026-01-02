@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:49:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "193",
+    "etag": "W/\"c1-VMfQTZ97prthBJprzmtPkZGpGXw\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza56684",
+      "amount": 287,
+      "price": 47951,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-02T23:49:16.000Z",
+      "_id": "6958597c1c508c5d5e7c62e4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

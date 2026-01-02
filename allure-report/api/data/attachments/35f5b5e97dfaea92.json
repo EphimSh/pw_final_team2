@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:49:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-JK7LUU0AgzzLa5cYW/iYvuiHMAo\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard19697",
+      "amount": 315,
+      "price": 94443,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-02T23:49:06.000Z",
+      "notes": "ljrbwq2hOCB2LpmYwlhzGepzQ3FvfsDeWZvGjsPwnEk4VMrm5dIQcyOMDYhwpcEIHzB19DUiFQ8Uvf6YrgopG37E5AKgPkHqA9oAz5zrvKETeVoHl3DYm6NcG462cdUtbSEOJyDtrc8lnFBbLB4ZwgHaPpHMPgiEiq4NzaUx0voAPF225WaKdwJ5mkermlMG1UZMgajPgNzVLRwtOTkphAs2LDvStxpSGpqZ3QynwhaBnrHRoLZ9laDO3l",
+      "_id": "695859721c508c5d5e7c5ee6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

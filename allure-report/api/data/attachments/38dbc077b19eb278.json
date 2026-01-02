@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-tP77KSEeam3N5WrRuzWJ8VkzZ7A\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike23693",
+      "amount": 763,
+      "price": 74730,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-02T23:48:12.000Z",
+      "notes": "acmydw5VQcYUMxOcqXnZSpg1tb3uIZAz22R4SU4MFHliSRWgWoC6Yi4uSuFtdIdS9Fny9EGUVDQwrykCr22qYrEDn88riDfRSEGdZWmQ9W5umkXh3gFAZC1gK2HrbVMa1weRmsKHVrbRCewFurpYrnbVyjUVxsQ0qIQFLuVtiepvouRb8lbuProj9bXkwwTPcVXQYSSkcXKiJnrrUDSHR4Wej9YH4ma5hxA9NTMBDcCzADi9s2Ss6FWwhx",
+      "_id": "6958593c1c508c5d5e7c4d33"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

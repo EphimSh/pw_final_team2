@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:49:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-15K5sMS/ojQJ6AEiiQf6/a/p5HA\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro91994",
+      "amount": 32,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-02T23:49:47.000Z",
+      "notes": "aEsF7fC4EoahVUYt0K68xk0aGlqByMep51GwcMC14byMcmUVxkH5sHZrasEV4vn00JVePeXzyfLQOVPbGHPRUSM8eziuCxdHZL8QNZyQSlL8cn0ORG8NPW2yFwvtCgytr13WbTRyuZDPJ1Ebku3Y8jKiG2UpAFW7kVctgy3s9NIaQxttD21iYl6O6CAX8NabbkIRoLD6S1KnD0JXrxELI6TPzVnvrbiRaDedb0rLEy6GiFJ2AIpa1oEccq",
+      "_id": "6958599b1c508c5d5e7c6c8b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

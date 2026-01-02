@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-ab6tCIgJQaWYBG5UyioWFoZ2HKw\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard12383",
+      "amount": 610,
+      "price": 75502,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-02T23:48:41.000Z",
+      "notes": "eMFo06zOTjfQeJ0of39Kv2NTWKAgorkgSCbqfKWDL90qfwJvVkYW583JZm1KnyZBCTxcCCedEw8guAN6dpCwq53Xyz9DaM33fzBAp6cL39YlGtKcMxPiiDkm9r5HkSS4xQbzYDlYd7zR0Gz38GwXZImnJczWPElGrNakRQIXurwXT40b02t1ofaybWV0SNOz14Ma6wFfrF8v4GsBILCjcBW8lP27WJpzUdwi3Qsvh8T9cY5rSEnKNKIZ0f",
+      "_id": "695859591c508c5d5e7c56bf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

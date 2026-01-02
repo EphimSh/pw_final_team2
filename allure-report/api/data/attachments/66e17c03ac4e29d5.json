@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "374",
+    "etag": "W/\"176-0HTcz41gOwhfnNm1RJgoayrjyCo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Carrie_Ondricka@hotmail.com",
+      "name": "qheHPmU",
+      "country": "Belarus",
+      "city": "S",
+      "street": "OmGMv4Tnv2waw9imp5pUIfUBBZw",
+      "house": 70,
+      "flat": 2,
+      "phone": "+2416158382",
+      "createdOn": "2026-01-02T23:48:24.000Z",
+      "notes": "JQJfPcEBV6ckd6PXk5pl8XLg8w4Dl8QvUd0R5prOXyqCsasfRzhKxPX2eiCko0hQ6tsiBH6xi",
+      "_id": "695859481c508c5d5e7c519a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:49:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-hIH2eZ+1i1h0Q1GO2DFSPo+2IhI\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer83504",
+      "amount": 0,
+      "price": 97548,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-02T23:49:15.000Z",
+      "notes": "QYJgmXggeirKVuciYr0R22JzV1Oq28dJRKeBdjMej00xeZCTKgCmXU6bUBku9jXbJWWmIzEpDwSrmuG54o7P54Z23p6SuXf53JgOGjcjNBONLB16QbwyDLbSnmvInzV6QWvKdwsVnmvQ3h6ZxRFDBCbk4be1kwt8TDInIEMnXWeAYd1KgGQp5pS4BPQGB1qMbLYr5eCz3b82vNvU25hW3YUesUZOmz0kIb4Y3w0EGHikbEqGIVL683Jftn",
+      "_id": "6958597b1c508c5d5e7c62d6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

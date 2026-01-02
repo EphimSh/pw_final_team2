@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-0HaDo6bTdcFMODL6EwB8RBE9aI8\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike26202",
+      "amount": 156,
+      "price": 34967,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-02T23:48:40.000Z",
+      "notes": "UbcgXSrOGmMeKBdDCRJ5KiofCRxa3fLf03yUVzC3rhJs968QdhfTeYqWccKc3dTE355Nn7qyhLgxG3zVsifO4dF3OAYa4na26A3RCJ2KSE8BqDWEllo9snrlObeVfT08c6ioMuiXitEM1vcRfFqeNROkMnb4N1sJG6xINTakSGHlVQcI1DvtmFBDcAWr6Jnr3kLJ3KIHrMl8uMxVbP5aYIfB9QpGU4K5OP26rYREk2nTtyqWKA5j8AtBGN",
+      "_id": "695859581c508c5d5e7c566e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

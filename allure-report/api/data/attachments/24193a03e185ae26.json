@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "524",
+    "etag": "W/\"20c-1ZlynjeWyQ+rXLgpNOv1xOGAyHI\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Helga_Dicki33@yahoo.com",
+      "name": "xZMtxcmjsNzutaenuqhmXCEwC",
+      "country": "Russia",
+      "city": "jMHPBpCPqvhtos",
+      "street": "WQiGD5ULiTsvKAExkly9Scy",
+      "house": 97,
+      "flat": 4,
+      "phone": "+7619577225",
+      "createdOn": "2026-01-02T23:48:05.000Z",
+      "notes": "3O6h6AU9ktBBNGVxUl0k2aFazNfOisrVXXmFJGsiHbbTMRlORH24C8oPzaI3lLaCmzYevoKwQZZtaQKGdtmTgzL7lhvOrYzqfFgH1PSI8AyJOQLnA1qLvPiIPKgjMOynio68Giec0OLAKBhdL069RrFmcB2RWlORQQgYMxYBqJERPVhEq0OG35bCYDPxZ9ZeuGVLqOsiC",
+      "_id": "695859351c508c5d5e7c4bea"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-0nZDFNUDnHCIPap+F60zCcIAMtI\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish64886",
+      "amount": 720,
+      "price": 74264,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-02T23:48:10.000Z",
+      "notes": "JPOpOomyw08ntMbYNHSNziEJvEgRuotFwIe6D3esCNdj53jYOzd5DYSuq3Ta2WOFrlSxl6z2cxcqCzyWr0kufslfIdkRRTlt3J25EsDTgDgxQs1Vi13wM3lHCclZHJ8TZnjynjuXnrRh7iel75SBABRosbP9Gxq5vAD9knJiM4MaJzsGTsZBLt7EpyBUjK3ypt8zmdH4IWKOf0Whnxy6t2xcx6B9rayrl1YaIgaINoqwnxo5oRKV4KXoE1",
+      "_id": "6958593a1c508c5d5e7c4c7a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1691",
+    "etag": "W/\"69b-VIQwD8l7v/MBQUOQpDg49n/vMZ8\"",
+    "keep-alive": "timeout=5, max=64",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "6958594b1c508c5d5e7c53da",
+        "email": "Angie_Abernathy72@yahoo.com",
+        "name": "liQQJaUhebPdsMURkHKQSSMSheJjK",
+        "country": "Great Britain",
+        "city": "qnxoaYG",
+        "street": "bGEgnsn7C7JP",
+        "house": 107,
+        "flat": 6,
+        "phone": "+2911810513",
+        "createdOn": "2026-01-02T23:48:27.000Z",
+        "notes": "JHdYaa3LOd5CGh07zY1qegCl98q1NBVj04"
+      },
+      "products": [
+        {
+          "_id": "6958594d1c508c5d5e7c5400",
+          "name": "Pizza48491",
+          "amount": 221,
+          "price": 24185,
+          "manufacturer": "Microsoft",
+          "notes": "4VU48US8M6PROknzrQGr0c28vDwfCIweDOOuXilmFU1mjZV67cbLAVESWCkCybbf62lWjm5ELUdiMPnkLLy1bw4wDkSRf6twuICO9HpLpqKSHkVq8cG7XDZfLFs9adfLOPxWjMF2ZR24ng1Kgz2CDVbv30m9PgjUjSuiuC8VyJh28FFUL4BSnzXfV75flS1Kxoxn1rvvdH0uNZAAmSbCeh7Bdtelak8vuR2JyJVpWHsTyQbQqbScx5xWr6",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 24185,
+      "createdOn": "2026-01-02T23:48:29.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6958594b1c508c5d5e7c53da",
+          "products": [
+            {
+              "_id": "6958594d1c508c5d5e7c5400",
+              "name": "Pizza48491",
+              "amount": 221,
+              "price": 24185,
+              "manufacturer": "Microsoft",
+              "notes": "4VU48US8M6PROknzrQGr0c28vDwfCIweDOOuXilmFU1mjZV67cbLAVESWCkCybbf62lWjm5ELUdiMPnkLLy1bw4wDkSRf6twuICO9HpLpqKSHkVq8cG7XDZfLFs9adfLOPxWjMF2ZR24ng1Kgz2CDVbv30m9PgjUjSuiuC8VyJh28FFUL4BSnzXfV75flS1Kxoxn1rvvdH0uNZAAmSbCeh7Bdtelak8vuR2JyJVpWHsTyQbQqbScx5xWr6",
+              "received": false
+            }
+          ],
+          "total_price": 24185,
+          "delivery": null,
+          "changedOn": "2026-01-02T23:48:29.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "6958594d1c508c5d5e7c5408"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

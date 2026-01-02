@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "521",
+    "etag": "W/\"209-AfKuYCftWVA14qMomDvTeEEoZQw\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "695859341c508c5d5e7c4bd9",
+      "email": "Monroe21@hotmail.com",
+      "name": "FbZAWnZgv",
+      "country": "Russia",
+      "city": "DbTTBgsofpOCruErvrB",
+      "street": "DE2kKJyFtVGjMjvdPgzjk7Vr0rbPViQ",
+      "house": 178,
+      "flat": 7,
+      "phone": "+6859391107",
+      "createdOn": "2026-01-02T23:48:04.000Z",
+      "notes": "4FA859apHki13O3t7S7p5ZFCrHH41HAVrQ5odQVxU1K9TLM3SSexwYhKP7A92MUl2ZjKkySca25C6Z9YeqO89KoD8INaZzdaZOtbWlbzdUw1T18RFjuWcTuDW9FtMDzFuUW3BWPAb2LuLEdSmVUw60WmeEgnDoKFPQMFOgYNYzlcoqgjULEsoQ9ZPwK9xDl4CNVIPLM4JpZ"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

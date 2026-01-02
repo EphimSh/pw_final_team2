@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-VaOW36xws/GOmfGYo98mK/H+9O4\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza48491",
+      "amount": 221,
+      "price": 24185,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-02T23:48:29.000Z",
+      "notes": "4VU48US8M6PROknzrQGr0c28vDwfCIweDOOuXilmFU1mjZV67cbLAVESWCkCybbf62lWjm5ELUdiMPnkLLy1bw4wDkSRf6twuICO9HpLpqKSHkVq8cG7XDZfLFs9adfLOPxWjMF2ZR24ng1Kgz2CDVbv30m9PgjUjSuiuC8VyJh28FFUL4BSnzXfV75flS1Kxoxn1rvvdH0uNZAAmSbCeh7Bdtelak8vuR2JyJVpWHsTyQbQqbScx5xWr6",
+      "_id": "6958594d1c508c5d5e7c5400"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

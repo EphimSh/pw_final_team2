@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "414",
+    "etag": "W/\"19e-tOg32nwa+L+3aAY8DG4WKOyqHZo\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Reinhold.Greenholt@gmail.com",
+      "name": "FnzbvTnhftUOFKXrtrK",
+      "country": "Russia",
+      "city": "cjwgAglnGCMJbPTYv",
+      "street": "eWCOg0sCn",
+      "house": 169,
+      "flat": 5,
+      "phone": "+2928890326",
+      "createdOn": "2026-01-02T23:48:03.000Z",
+      "notes": "E0tbJbcrshu52UXuzdAhOykAHHv1ZeEoBIfBuRUe7mlmUUNR4tVQmLjabeeTNpGfs6kzCkDTllt0Nmccur32cEIcOoF9LhU1wP5fXH",
+      "_id": "695859331c508c5d5e7c4ba4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

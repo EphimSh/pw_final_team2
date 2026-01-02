@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-uP/vK0PAsclm+3ZKKzKmnZDtAuY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse65157",
+      "amount": 758,
+      "price": 96655,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-02T23:48:46.000Z",
+      "notes": "BBc6EJJz6w7QH0Lem65uiteq2LdEJxp77uxLWyA5BEsCDCWLGsDnoSIlrqUWnPkQSs6HkeHVMK2vWlPqpDg3luZ7zJZFbtWf9lWKLUgZJoyq6UiCZmFKvUbEGAqjvDsfMmfx7tuuXQuPQ8BnXVdrS2ZGl6k1uF6q4vokKVrcMC8JEwiKtbabHSYc3rOpUkHN5V3f5Oq86XduR6YiAlddhYgmK2ywI0uhstSAsh7oEZWloZhRdKSa1kUX9w",
+      "_id": "6958595e1c508c5d5e7c5776"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

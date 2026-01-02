@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "402",
+    "etag": "W/\"192-MBrBK0fUfWEnTxFT/YxKfmVQODk\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Grover_Kilback@hotmail.com",
+      "name": "TxqLDSmrVtwPbAPqFJjZgUHjG",
+      "country": "France",
+      "city": "uwfTy",
+      "street": "mBC4bATyMpHMOSpfL7mCVJTtb9QkYKq",
+      "house": 138,
+      "flat": 2,
+      "phone": "+4645416511",
+      "createdOn": "2026-01-02T23:48:48.000Z",
+      "notes": "FjYYTCp7sTAnN2ubfWN1nGieHIq4b2yZNNlbHX4pycPgfcCxXViopajeKSVYkmOrmf4pERi2Cgng",
+      "_id": "695859601c508c5d5e7c5791"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

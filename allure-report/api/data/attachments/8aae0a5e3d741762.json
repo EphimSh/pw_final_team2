@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-uS+DCzT2mkBJ+JhcRim0uvHAXlE\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball35866",
+      "amount": 761,
+      "price": 6809,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-02T23:48:14.000Z",
+      "notes": "G9D76YusOjnmvaO53dSh48BcV4DpjpoKx8AC1nOlY9WJqpQ6izwjmNRf1sfuFGeUwki9KXcX2JvXvlUk98PmtFBU0kDbj3kNs4U0HnUlbnzqwpoX3886VsYPg74Vd1nnKOEKyVastThpGjgSuEZRxwfAAvE7l5i72ay3cneQUSwQm54UvBzJSZeh7BMoBL0hF1DVcIjHaOmnTpU36tOzI1FTGSGOr0hyBxsdoVBzHT459Kgm8IR3FNdk1l",
+      "_id": "6958593e1c508c5d5e7c4d61"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

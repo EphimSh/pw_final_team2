@@ -1,0 +1,160 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:49:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4036",
+    "etag": "W/\"fc4-Azng+J2bFqC0tWnJpnwIje6OqZA\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6958596f1c508c5d5e7c5e3d",
+      "status": "Draft",
+      "customer": {
+        "_id": "6958596a1c508c5d5e7c5c41",
+        "email": "Janick.Kshlerin23@yahoo.com",
+        "name": "BP",
+        "country": "France",
+        "city": "chizOGHlnnt",
+        "street": "ZL",
+        "house": 52,
+        "flat": 5,
+        "phone": "+3769439544",
+        "createdOn": "2026-01-02T23:48:58.000Z",
+        "notes": "XDsIXOxHTMpLDiIutR5zXCcf0H9vW0kEphAVC9pJlkS3QkKC6bqN9KfbjHDCqwdjynTt4IseicsrfNnYY5rjfWONoM02BJ4UyNjFBWYeSnubXyGtwpTOOEMbAWobPvK9sdcKu9EVYLxD4wfxT89U8VJwy"
+      },
+      "products": [
+        {
+          "_id": "6958596c1c508c5d5e7c5c9b",
+          "name": "Cheese15613",
+          "amount": 324,
+          "price": 77843,
+          "manufacturer": "Microsoft",
+          "notes": "tSEEwVYFLtNES7xljOhNdU6SOeuYsKVQ0YVhspAepmTSTpzQC1xm7LsuZbzFYz0JpMTBnfAri3ztmzBn9jbvEnWT7GEhe4RshFbxHa8WIcs8c8IH70WPzcAPkA4KzglVrr2xBHiQWFosiVScuKa7ng6fHglb2p3H2EGU6RUdvXKKyBqw6rJ8BvvwRw00oSQtIxIMPOmD4Zx2rJbXOgC9jolLmFZ6J0sMTZFlQz5r8xq1snSBvI33tmuyJD",
+          "received": false
+        },
+        {
+          "_id": "6958596e1c508c5d5e7c5e1c",
+          "name": "Shoes49752",
+          "amount": 781,
+          "price": 26545,
+          "manufacturer": "Sony",
+          "notes": "EiWaYHK2qY59w1q9si9iiAF2sWOtTVskygEdzQR6sHIoL1FXXIKVTQhKVvuSgWLZnWhzmuRtcJYy4Go4DrlDOFioH643yeqxdt7S4kaKng3MkBbuueycngfeZybJy7dxt69qarcsj9LIr36sKbYG1AsWio5lIJICgdwgv7u4dnB4vaWsU1fF7Xq8acFE4ZGcCbDZN45nONc7moqv7lh23JPXiqyvpoER6BMBJn85fXuwJzZhacjlquVmTU",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Canada",
+          "city": "Mock City htzriSnwoF",
+          "street": "MockStreet2z8VKMs6DZmMan1N",
+          "house": 91,
+          "flat": 13
+        },
+        "finalDate": "2026-01-07T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 104388,
+      "createdOn": "2026-01-02T23:49:03.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6958596a1c508c5d5e7c5c41",
+          "products": [
+            {
+              "_id": "6958596c1c508c5d5e7c5c9b",
+              "name": "Cheese15613",
+              "amount": 324,
+              "price": 77843,
+              "manufacturer": "Microsoft",
+              "notes": "tSEEwVYFLtNES7xljOhNdU6SOeuYsKVQ0YVhspAepmTSTpzQC1xm7LsuZbzFYz0JpMTBnfAri3ztmzBn9jbvEnWT7GEhe4RshFbxHa8WIcs8c8IH70WPzcAPkA4KzglVrr2xBHiQWFosiVScuKa7ng6fHglb2p3H2EGU6RUdvXKKyBqw6rJ8BvvwRw00oSQtIxIMPOmD4Zx2rJbXOgC9jolLmFZ6J0sMTZFlQz5r8xq1snSBvI33tmuyJD",
+              "received": false
+            },
+            {
+              "_id": "6958596e1c508c5d5e7c5e1c",
+              "name": "Shoes49752",
+              "amount": 781,
+              "price": 26545,
+              "manufacturer": "Sony",
+              "notes": "EiWaYHK2qY59w1q9si9iiAF2sWOtTVskygEdzQR6sHIoL1FXXIKVTQhKVvuSgWLZnWhzmuRtcJYy4Go4DrlDOFioH643yeqxdt7S4kaKng3MkBbuueycngfeZybJy7dxt69qarcsj9LIr36sKbYG1AsWio5lIJICgdwgv7u4dnB4vaWsU1fF7Xq8acFE4ZGcCbDZN45nONc7moqv7lh23JPXiqyvpoER6BMBJn85fXuwJzZhacjlquVmTU",
+              "received": false
+            }
+          ],
+          "total_price": 104388,
+          "delivery": {
+            "address": {
+              "country": "Canada",
+              "city": "Mock City htzriSnwoF",
+              "street": "MockStreet2z8VKMs6DZmMan1N",
+              "house": 91,
+              "flat": 13
+            },
+            "finalDate": "2026-01-07T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-02T23:49:04.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6958596a1c508c5d5e7c5c41",
+          "products": [
+            {
+              "_id": "6958596c1c508c5d5e7c5c9b",
+              "name": "Cheese15613",
+              "amount": 324,
+              "price": 77843,
+              "manufacturer": "Microsoft",
+              "notes": "tSEEwVYFLtNES7xljOhNdU6SOeuYsKVQ0YVhspAepmTSTpzQC1xm7LsuZbzFYz0JpMTBnfAri3ztmzBn9jbvEnWT7GEhe4RshFbxHa8WIcs8c8IH70WPzcAPkA4KzglVrr2xBHiQWFosiVScuKa7ng6fHglb2p3H2EGU6RUdvXKKyBqw6rJ8BvvwRw00oSQtIxIMPOmD4Zx2rJbXOgC9jolLmFZ6J0sMTZFlQz5r8xq1snSBvI33tmuyJD",
+              "received": false
+            },
+            {
+              "_id": "6958596e1c508c5d5e7c5e1c",
+              "name": "Shoes49752",
+              "amount": 781,
+              "price": 26545,
+              "manufacturer": "Sony",
+              "notes": "EiWaYHK2qY59w1q9si9iiAF2sWOtTVskygEdzQR6sHIoL1FXXIKVTQhKVvuSgWLZnWhzmuRtcJYy4Go4DrlDOFioH643yeqxdt7S4kaKng3MkBbuueycngfeZybJy7dxt69qarcsj9LIr36sKbYG1AsWio5lIJICgdwgv7u4dnB4vaWsU1fF7Xq8acFE4ZGcCbDZN45nONc7moqv7lh23JPXiqyvpoER6BMBJn85fXuwJzZhacjlquVmTU",
+              "received": false
+            }
+          ],
+          "total_price": 104388,
+          "delivery": null,
+          "changedOn": "2026-01-02T23:49:03.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

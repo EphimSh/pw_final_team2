@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "393",
+    "etag": "W/\"189-I8injRpT+0MuJXwDj6vWJiv7zAk\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Hailey.OKon@gmail.com",
+      "name": "rrzYqQbNCfsegpiwYKFltCSPijLjv",
+      "country": "Belarus",
+      "city": "YmzEHkphsGIERWR",
+      "street": "hkpzuc6j3hV4Fh9R3p5DHk",
+      "house": 136,
+      "flat": 1,
+      "phone": "+2940154642",
+      "createdOn": "2026-01-02T23:48:01.000Z",
+      "notes": "pHbsgWVBjyxGsEjM0Ah7A7A6f8vEFVuP3PtVm9fPK82frmJKmUC2nDRD51mPJI7d8N",
+      "_id": "695859311c508c5d5e7c4b7b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

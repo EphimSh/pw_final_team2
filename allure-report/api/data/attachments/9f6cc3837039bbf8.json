@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:50:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "467",
+    "etag": "W/\"1d3-noGaEcglS1SccJ95USZ40Yto54Q\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy S2524654",
+      "amount": 172,
+      "price": 3100,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-02T23:50:31.000Z",
+      "notes": "fRD5DAYZln8qrhgT9SDQJEcJGelkhOqR43EFtBcFVtYgJUmSNp6pRtPVPfeTWXLhfh76n0dW56DtdH15RymZmjPd5qgsjFubCGtYYHz6qUGvb59Lkq4etDBmn7RnjSZfYAA2j46SV0CXp5iACHjFgTQQSPbybmLTN0crwjDQycDVEextOBpJYfsvju6HFVwsx5qfwSbWHadnnNY0jHk1d04ztBK7tWXgQSaed99tGKGC8B5WYdaW0DXFBc",
+      "_id": "695859c71c508c5d5e7c8213"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

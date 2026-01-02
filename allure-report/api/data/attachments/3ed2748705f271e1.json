@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "419",
+    "etag": "W/\"1a3-+9iB74Wu6z15Ee9fvRfxwir4q1Q\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Wilfred13@yahoo.com",
+      "name": "IkBzXfuc",
+      "country": "Russia",
+      "city": "XvHZlTgvgFfcwkcM",
+      "street": "bnZK2yG0ZAhgmQsskkJLniPQ0n5uHRG2DTnJ8k3",
+      "house": 91,
+      "flat": 8,
+      "phone": "+6704624024",
+      "createdOn": "2026-01-02T23:48:35.000Z",
+      "notes": "3dZ3E9zHrni7DzSIJKSS5yC2hbARUSq8feGGoBHLLDToS57n1BhqA4YfQYQb1hVubh9CRZQ0uCteWIzs1SqRk70tcbCl5oGjpRW",
+      "_id": "695859531c508c5d5e7c5586"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

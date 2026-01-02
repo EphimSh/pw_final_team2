@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "411",
+    "etag": "W/\"19b-JTDq/4Lnn3e2SZKAZ3xBd3AdL38\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Enrico.Shields@gmail.com",
+      "name": "QQrywfHkabEHkFmKGcIPxvbyaeJWQrHDsq",
+      "country": "Great Britain",
+      "city": "rmWZtvlBJQOWlIvGNzQ",
+      "street": "fe8tXWa6Ls6ezFkVPUZl8fFFVg5UljrGmJ",
+      "house": 41,
+      "flat": 8,
+      "phone": "+3540810936",
+      "createdOn": "2026-01-02T23:48:28.000Z",
+      "notes": "4psb8ycdOJYLyaQSf5WYgll1Yt5y7gXx4oBvJx7nTpLnFv8ZpnPzrYf",
+      "_id": "6958594c1c508c5d5e7c53df"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

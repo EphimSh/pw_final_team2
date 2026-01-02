@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:50:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "465",
+    "etag": "W/\"1d1-vAzAuPMMRWvMFLdCaW1F3Aecs3U\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra2144",
+      "amount": 977,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-02T23:50:42.000Z",
+      "notes": "h4lH3lyxxmRBtADgA1OBJZ5yoVVaBdjwoTsYaevwLu3cFT642Ys9FWcNcKAwuli9Zx75qL2A7TtsPhj7KaIK0Z1hOv4vjThDGEqXwqAZvD9UQ6PCFdZsazlugztE0cG36NEzhX87GFvQLzecwmhKWuLHxaEStA0504YgeLcoWPEAH2FJNI6BGePWxXWXbcewX4B9gs15TbCUg8WelI7uN37UgjdWbGyzodvJjhrSgN8nZwqY1CeGRTXThw",
+      "_id": "695859d21c508c5d5e7c8406"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

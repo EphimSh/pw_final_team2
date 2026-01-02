@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-4M4dtoAzMzFZR3yt5edksYUzYbM\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer34957",
+      "amount": 84,
+      "price": 90788,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-02T23:48:14.000Z",
+      "notes": "DcWNiaOQ114EVwuV1THcrVZZ8jYfXAybUpoz6THeC4MqsDzqqnPcglIsdxS0U6Eg8yeValAGJFYSuFhBbXSoF3F8GZj0H3XZAm4gsa8tQak7Gk6ng2FxyOTThskzngvIQTyVYZnzyKzbYRLgcqGKWYOpCYrcCK41FTloIRsaBuD1MTo093STyT9yEG6nGsgMI30AxBVJCFvrEf9vJvBbac8JVjofXzfmHuhypHpOGs5sqkSiqD710lLJUb",
+      "_id": "6958593e1c508c5d5e7c4d5f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

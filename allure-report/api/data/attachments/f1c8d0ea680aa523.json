@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-jDt/QQglQ+XUvJGpwLCBDWWq8zU\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken12052",
+      "amount": 914,
+      "price": 15247,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-02T23:48:43.000Z",
+      "notes": "cPoRHx6bSseG6fDa8uz2lOY2V42QOyaDMbTZvVVRppn0BgKHYrjQFWXJD6yxAyLbTEZ7joaTXf5VuYcrPN3EUmnju5m0tCrE8qFHTcXcK3gYcofqjbB6TIWmo1Y3WgGsUynwia4pQveWAhFRkPSTkwOz2sJ92Nz5ShKfleMwwwnz9kEHs6K2BwXOSxKptEoVhUHs5Y0BqzutG8J5fi2sIf0Jgo88PmcHc4x1Gip9BREgVbWn4ACGZ42mdH",
+      "_id": "6958595b1c508c5d5e7c56f8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

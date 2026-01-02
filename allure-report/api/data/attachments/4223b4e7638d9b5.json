@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-zKrKFtT2uNYYGkI5ZJ4AjxrmTEA\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball76931",
+      "amount": 994,
+      "price": 73989,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-02T23:48:33.000Z",
+      "notes": "pQkydCgJgfVJeISUaangCWR6AupCIQkt7ZgEkXiNSwqJJ3LxsfuJere8CUrnOLRRX3KD51E2JwnGBDrLthEDKSSQevd2W2ywGzO4cetkUQ69n0eZNYdNVrZz7n2YQbk4hEaMyYwbPAA7fM5hv4oBnmtDJHBRBqKNkUIgG7uAjYXZOblvRkom97ZB1tLTTOmGwqD726Tamr5a2rL0oPSF5XtqEOXSKjiSfN1QMHjCRtZTBXtCWZi5x1FFfs",
+      "_id": "695859511c508c5d5e7c5539"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

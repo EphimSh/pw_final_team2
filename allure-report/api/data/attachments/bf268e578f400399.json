@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:49:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "467",
+    "etag": "W/\"1d3-2Hg8z/GipEWxwmvmJ5WyjL1lxmY\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy S2593011",
+      "amount": 403,
+      "price": 3100,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-02T23:49:40.000Z",
+      "notes": "OXxPU0xb8kuV6AWPEkwgKaOiSHdlnWnzTxT76azEGqz2Ert0v1JDkcn1WXIeh3v2yBChuG3WLsk0jiTfoApphtpoZdmznRkl9HQhTAOuHw36FrJyrcJBAkZHwMK63D8W2UpiSRXu3eXx9SPJQc87P5q2Dwb4cqs1WShrqvpuKEl6zE3d1i0bYg42tjgT9VyNbfBQqtt4CiR9iPnWtFdsPUSW0mqn7VkN9zcXmYOLM09LgjQLA3X6BCk6XP",
+      "_id": "695859941c508c5d5e7c6aa4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

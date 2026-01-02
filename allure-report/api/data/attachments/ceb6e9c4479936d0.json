@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:49:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "192",
+    "etag": "W/\"c0-jL/dGctBYUJEwHnZ02k6RDoHtmA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna45622",
+      "amount": 190,
+      "price": 57087,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-02T23:49:32.000Z",
+      "_id": "6958598c1c508c5d5e7c6812"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

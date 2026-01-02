@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-UBlQ4vtU6IhW5rNXrMc/DYeR/w0\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Emilio99@gmail.com",
+      "name": "Jrewgp",
+      "country": "France",
+      "city": "dTvmrhDf",
+      "street": "JN5N",
+      "house": 128,
+      "flat": 1,
+      "phone": "+6834172914",
+      "createdOn": "2026-01-02T23:48:08.000Z",
+      "notes": "GvA74F9Hp6Mjq3I9V8WbMVluZtpCoruEOCcB1PPip7sqt7W3K5Ctdjo15seCfUMZzJKESd2cV4MZrMREBjflmi4lFyyWrz11dapmp6SXlqZWHiWs6I9RxB79xxgBYxjWwXn6mqmOxkv4x92xz3uqFrEuAETDF9snsBnJs6XEbLPWe0fQFts7",
+      "_id": "695859381c508c5d5e7c4c5e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

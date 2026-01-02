@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "528",
+    "etag": "W/\"210-2APap0HCOFos9aWGG205APwYVr8\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Christian_Schaden@gmail.com",
+      "name": "FbZAWnZgv",
+      "country": "Russia",
+      "city": "DbTTBgsofpOCruErvrB",
+      "street": "DE2kKJyFtVGjMjvdPgzjk7Vr0rbPViQ",
+      "house": 178,
+      "flat": 7,
+      "phone": "+6859391107",
+      "createdOn": "2026-01-02T23:48:04.000Z",
+      "notes": "4FA859apHki13O3t7S7p5ZFCrHH41HAVrQ5odQVxU1K9TLM3SSexwYhKP7A92MUl2ZjKkySca25C6Z9YeqO89KoD8INaZzdaZOtbWlbzdUw1T18RFjuWcTuDW9FtMDzFuUW3BWPAb2LuLEdSmVUw60WmeEgnDoKFPQMFOgYNYzlcoqgjULEsoQ9ZPwK9xDl4CNVIPLM4JpZ",
+      "_id": "695859341c508c5d5e7c4bd9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

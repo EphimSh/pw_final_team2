@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:50:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-SKoANZwH22ayc7+aLLlnQwFDIXs\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse45366",
+      "amount": 195,
+      "price": 75197,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-02T23:50:06.000Z",
+      "notes": "ZgkcyXmIMSebcWQX3qaVFcFt9JeWUFrzdhZBlobG7Tor14QUmqIvNV1XKEe28uN4q8xOUBfuvXLhjh5Uz9tTVgijN3iUNECOZBzun5epfdxRhJw7npflawWVwTHy7IYXMzcJbIE0uXCw4hoFWNQto9LryfUhVvjbJ8YcPtxpWY0UIFrwvG7drqDwExjIzJjgKjbQH4W0jSElobHlwENYuloi299UHS4fTOFFmOY32ToDPFLNpiegnnFD2q",
+      "_id": "695859ae1c508c5d5e7c73be"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

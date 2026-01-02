@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:50:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-H6587Bqa6n/XQWDXNcU9sak4ZjM\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat65853",
+      "amount": 650,
+      "price": 95588,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-02T23:50:34.000Z",
+      "notes": "a1mkC8E7gRN4diCEsx5FNatvHfSga4rt9w0LRjnvjlXdHspidFsjXc0TkFWJ6S2nMnTxeb0wad8xdzIQn8SqPR3Uf5xMin1gqFWOmE6GEeF69AytiIpzolVP1luQhcinsSfVZ72RrTsgiRpYxSSE1qn3JrAecH3h9ALgkbctQPvPucYw76azVvd4Vw5xOSJgk2ZYd52UkvNeIZdMup2UOqCo5ZjFNpbtQtI2VGmukEGjYl3c1UYq9rexDL",
+      "_id": "695859ca1c508c5d5e7c823d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

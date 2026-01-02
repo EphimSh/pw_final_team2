@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:49:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "474",
+    "etag": "W/\"1da-D7Ijd9mk9sziz8tn4i3IyZo61rE\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Microsoft Surface Duo 376920",
+      "amount": 905,
+      "price": 2200,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-02T23:49:51.000Z",
+      "notes": "IcnM6rVzKR4yjKzwku7xbprzk4q6VmK2ijEuxijQCDSozSaVNSt3VySfC3ZlCVst8iQ6RYcqX6nAyKQT5SFdKi96MM5SNFJXUp2Q6APYnjurVTM4mhNiMaxtYovwOo1EFUmzpWxt23XjXp0I4q8aKPlvk09utM90OunuhYZ0fnh8e0g1gJx6GSwAgVXiytnpvpEBcawQSwSb8q4kIIH2X1MDTDkEjFRWAR8nJbOVFS8ivNVFGjmYqAqG6q",
+      "_id": "6958599f1c508c5d5e7c6cc9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

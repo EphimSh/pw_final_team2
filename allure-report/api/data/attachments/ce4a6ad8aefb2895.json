@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:50:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-1vYgK0Q6JeJLzOwgSCtwXdksqYg\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt6339",
+      "amount": 501,
+      "price": 42132,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-02T23:50:23.000Z",
+      "notes": "8w5mQSJzYHFdzBtEMDuTXOVmQkJfUS4iyBOz03Qa4viv9S5DFvlxVC1w26ACvFcxXqV4h2kbztwEbkuGYymok9UaOdTKYAmmgw3w2dyTL6yGEW6RGafxzezczhgAlAGK0ICzXafuf49rioxbhV9YOl6p4kWMiQLkXc9L56HHl7YdopfUHrcABjW6XzNumkbcnmv2qRsyzmbw6Nmntb2uaRbDUbPHYeml5yozPDMCAHRboILsSrCAo6Bwu1",
+      "_id": "695859bf1c508c5d5e7c7eeb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

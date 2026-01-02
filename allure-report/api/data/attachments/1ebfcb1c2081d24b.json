@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:49:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-4mTVKCWWqovKd/6kVqDgjGznDNk\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra58241",
+      "amount": 872,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-02T23:49:46.000Z",
+      "notes": "B7sAuXcJE1Mglnb0mZ9bpWKrPkACCOKP3iFdS5y36SPzYaVAjvSYbj7Nw0QbZk96RnHwUgQ1E6muAjzhlsZLt4S9IAMRZbjJ0NdwG4ZDFsZYyDqFBnuPFTT94h0IyUjNAqwKOhDpwKPzNSspSIWSbtgjCPI0UoeP9hFRxwfCiGxUy3cOuq575kSOXoywiedAvoxeoiW4C0jSYqejYYUovNg8LWOLYl4wD8isOkMSEaXJigYjRdNxNu6kuj",
+      "_id": "6958599a1c508c5d5e7c6c81"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:50:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-9tpZyRttJoewOM0S/WYKptiV9zA\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra21490",
+      "amount": 628,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-02T23:50:42.000Z",
+      "notes": "fLvMytx2BIxDCD93Zb9ormmerPVkSQ8erphe16NILjD2DCsPzOqKjYbxWhOW0NLz3suC1DbECUiABNLg66dY55mdNPqoVj8OZYF3E2F1yyRNsQqHK2hwsKeSUDnVWBngkTF2JPyuL4R5ZKLWbI9do4o3z1C1qxnBg1BfZ4eN0jkhzQ3NxNqjrXt8I0DHuxY8pdsN18yb3l7hgjYY5pvrXGDhxumxIBueI61B52PG368LPpFPSU4S9OfWE6",
+      "_id": "695859d21c508c5d5e7c8404"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

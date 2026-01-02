@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "416",
+    "etag": "W/\"1a0-sH4Nq7HL6S0HkAXz9PZV7P6xDKU\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Brown_Krajcik9@yahoo.com",
+      "name": "XrAscaGKdTKtwyiFNDXlfjxNEKZhIjLteWz",
+      "country": "Germany",
+      "city": "ciuuBIFo",
+      "street": "mlDKp8YDdy7S0irG0gNWN8dr",
+      "house": 119,
+      "flat": 1,
+      "phone": "+7064095968",
+      "createdOn": "2026-01-02T23:48:28.000Z",
+      "notes": "sqCsCvXeZ2yFkciCbAvAl9RlXGHBBlEk1coTZCceKrZ4IgZ0p1IBc4bpOldLURhCqZCcbInOlLZQhqZuCUXAM",
+      "_id": "6958594c1c508c5d5e7c53e1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

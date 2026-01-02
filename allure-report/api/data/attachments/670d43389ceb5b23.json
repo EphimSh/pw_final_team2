@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:49:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-yE7z2YUL396Aby+4h7p8k/2W99Y\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike11847",
+      "amount": 326,
+      "price": 78630,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-02T23:49:16.000Z",
+      "notes": "dP0KUD3HvvXEIsrB2uwjHEsizBc3hb8d8HOSLedTz6qEkaxWegLigD0HCYaqERVzrPoy9YB3Vxjlz7C6jZjJbTmaihRzkAoj2aWnMTXYPGBq8HX3KJi5lJqG9Pv6K81TbEz4HE5h1CGG8HHYJUEVNtiZIImn5JI6SR1LoEqyunysafjspDHekDIrck5aDDc08Tj25Fi6FciRUb8xt1zg5UYF10anMlcjSbnBX8ZHux1NkO7moO5qOLDmhF",
+      "_id": "6958597c1c508c5d5e7c62e6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

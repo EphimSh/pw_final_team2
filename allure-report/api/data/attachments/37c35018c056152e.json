@@ -1,0 +1,89 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1965",
+    "etag": "W/\"7ad-DcGW8gbRz8BafGg3d4oVNSYK5qQ\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695859391c508c5d5e7c4c6b",
+      "status": "Draft",
+      "customer": {
+        "_id": "695859371c508c5d5e7c4c4a",
+        "email": "Uriah31@hotmail.com",
+        "name": "ckLTuyQeDyPzehyDnomhHbkhYizeFjZjSIxJCMy",
+        "country": "Russia",
+        "city": "QDCqSTALDbevFSX",
+        "street": "3GJqyJozUqgYAoGMRyap6ZMTduha8",
+        "house": 115,
+        "flat": 6,
+        "phone": "+0589078746",
+        "createdOn": "2026-01-02T23:48:07.000Z",
+        "notes": "WgNJ4pCgbp1G4kkzEmqZzqQoGYC"
+      },
+      "products": [
+        {
+          "_id": "695859391c508c5d5e7c4c63",
+          "name": "Gloves40810",
+          "amount": 507,
+          "price": 61275,
+          "manufacturer": "Google",
+          "notes": "WbX6A9o1FCMn0XKl8YP3eJoPAoWFLMoUd4SJUfPI7A7Z0yAgzKT1rn8V1LnF3gtJaMjxjEvXUb36DFYfNcmMWDCjdp09A4ES3wt3zVaWdJaAYrWRlTsCtYoQRA7h7F7nyGNDpiCAd42EBaU6PEcIb5iiEGgJ85Jbrh8wTyyQek8KhuGrR8bRLPITzBaaETATbsJhuGyBTCUZ8ksy4N8f7WldTXGP7QGwQFNqItdypAlzTtdHWuJqykO1YO",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 61275,
+      "createdOn": "2026-01-02T23:48:09.000Z",
+      "comments": [
+        {
+          "text": "IGOpjeOIFIHSUTIEtPLuvUUFN1iS6R9wjwegwsx5YDPv4C7AktfsTE6bnDcUL0yTqaquErtCW207PRlUFixNu3Sq0sZG49IrVNS0lqdkWHWs2tzsfTkr2b2n2kmYC6xzpNeTwsGMveYrpQRKBka9Kno6cZ76ZlQRWSuFeZrN09aKLFAzksB5Z1",
+          "createdOn": "2026-01-02T23:48:10.000Z",
+          "_id": "6958593a1c508c5d5e7c4c7c"
+        }
+      ],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695859371c508c5d5e7c4c4a",
+          "products": [
+            {
+              "_id": "695859391c508c5d5e7c4c63",
+              "name": "Gloves40810",
+              "amount": 507,
+              "price": 61275,
+              "manufacturer": "Google",
+              "notes": "WbX6A9o1FCMn0XKl8YP3eJoPAoWFLMoUd4SJUfPI7A7Z0yAgzKT1rn8V1LnF3gtJaMjxjEvXUb36DFYfNcmMWDCjdp09A4ES3wt3zVaWdJaAYrWRlTsCtYoQRA7h7F7nyGNDpiCAd42EBaU6PEcIb5iiEGgJ85Jbrh8wTyyQek8KhuGrR8bRLPITzBaaETATbsJhuGyBTCUZ8ksy4N8f7WldTXGP7QGwQFNqItdypAlzTtdHWuJqykO1YO",
+              "received": false
+            }
+          ],
+          "total_price": 61275,
+          "delivery": null,
+          "changedOn": "2026-01-02T23:48:09.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

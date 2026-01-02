@@ -1,0 +1,213 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4715",
+    "etag": "W/\"126b-jooeJSGiimBlCxu0wW04wozsk/Q\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6958593f1c508c5d5e7c4dba",
+      "status": "Canceled",
+      "customer": {
+        "_id": "6958593d1c508c5d5e7c4d42",
+        "email": "Davin.Jones@gmail.com",
+        "name": "ZMRkYmYPPGhP",
+        "country": "Russia",
+        "city": "eG",
+        "street": "xGxH5sEY6bhHV6PQbM5Q0I",
+        "house": 177,
+        "flat": 6,
+        "phone": "+6764230553",
+        "createdOn": "2026-01-02T23:48:13.000Z",
+        "notes": "20a9jyYQZyPJEikFY0zYMadrEexsucAHDDMBDIzvlb8wUDZ7ibPTZfuyYCm64D4O61evIF2Z41P28GAqc9xXYgDePwsAfql"
+      },
+      "products": [
+        {
+          "_id": "6958593f1c508c5d5e7c4da1",
+          "name": "Pizza35944",
+          "amount": 144,
+          "price": 19139,
+          "manufacturer": "Apple",
+          "notes": "kKyxkyvNiX4A7wFJJswIUsHEAxSugKyBe19N4c8QCqlkecdmTTahGm9NXWp8PzmKpwvih60iFym77nEgSkEO3Zf1iANU7XVzBEks9YoQz5hWdz1AnsCfHoT1XxnQiYN63xEMbXGG7CS6nTAHHvLUYSSLNcpzxF65zKDVkhsNPBQrr3LwdS80KIdWSG6VNiZlNsKhd05KHUAx1b98jQK4xWTTGQyez6Se0rWUpOJ2ikNmjYRcu3inTfO7Lw",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Belarus",
+          "city": "Mock City VflGv",
+          "street": "MockStreetFnzYnjSavQdPABU3y2F4NUyH7",
+          "house": 92,
+          "flat": 2
+        },
+        "finalDate": "2026-01-07T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 19139,
+      "createdOn": "2026-01-02T23:48:15.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Canceled",
+          "customer": "6958593d1c508c5d5e7c4d42",
+          "products": [
+            {
+              "_id": "6958593f1c508c5d5e7c4da1",
+              "name": "Pizza35944",
+              "amount": 144,
+              "price": 19139,
+              "manufacturer": "Apple",
+              "notes": "kKyxkyvNiX4A7wFJJswIUsHEAxSugKyBe19N4c8QCqlkecdmTTahGm9NXWp8PzmKpwvih60iFym77nEgSkEO3Zf1iANU7XVzBEks9YoQz5hWdz1AnsCfHoT1XxnQiYN63xEMbXGG7CS6nTAHHvLUYSSLNcpzxF65zKDVkhsNPBQrr3LwdS80KIdWSG6VNiZlNsKhd05KHUAx1b98jQK4xWTTGQyez6Se0rWUpOJ2ikNmjYRcu3inTfO7Lw",
+              "received": false
+            }
+          ],
+          "total_price": 19139,
+          "delivery": {
+            "address": {
+              "country": "Belarus",
+              "city": "Mock City VflGv",
+              "street": "MockStreetFnzYnjSavQdPABU3y2F4NUyH7",
+              "house": 92,
+              "flat": 2
+            },
+            "finalDate": "2026-01-07T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-02T23:48:16.000Z",
+          "action": "Order canceled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "In Process",
+          "customer": "6958593d1c508c5d5e7c4d42",
+          "products": [
+            {
+              "_id": "6958593f1c508c5d5e7c4da1",
+              "name": "Pizza35944",
+              "amount": 144,
+              "price": 19139,
+              "manufacturer": "Apple",
+              "notes": "kKyxkyvNiX4A7wFJJswIUsHEAxSugKyBe19N4c8QCqlkecdmTTahGm9NXWp8PzmKpwvih60iFym77nEgSkEO3Zf1iANU7XVzBEks9YoQz5hWdz1AnsCfHoT1XxnQiYN63xEMbXGG7CS6nTAHHvLUYSSLNcpzxF65zKDVkhsNPBQrr3LwdS80KIdWSG6VNiZlNsKhd05KHUAx1b98jQK4xWTTGQyez6Se0rWUpOJ2ikNmjYRcu3inTfO7Lw",
+              "received": false
+            }
+          ],
+          "total_price": 19139,
+          "delivery": {
+            "address": {
+              "country": "Belarus",
+              "city": "Mock City VflGv",
+              "street": "MockStreetFnzYnjSavQdPABU3y2F4NUyH7",
+              "house": 92,
+              "flat": 2
+            },
+            "finalDate": "2026-01-07T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-02T23:48:16.000Z",
+          "action": "Order processing started",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6958593d1c508c5d5e7c4d42",
+          "products": [
+            {
+              "_id": "6958593f1c508c5d5e7c4da1",
+              "name": "Pizza35944",
+              "amount": 144,
+              "price": 19139,
+              "manufacturer": "Apple",
+              "notes": "kKyxkyvNiX4A7wFJJswIUsHEAxSugKyBe19N4c8QCqlkecdmTTahGm9NXWp8PzmKpwvih60iFym77nEgSkEO3Zf1iANU7XVzBEks9YoQz5hWdz1AnsCfHoT1XxnQiYN63xEMbXGG7CS6nTAHHvLUYSSLNcpzxF65zKDVkhsNPBQrr3LwdS80KIdWSG6VNiZlNsKhd05KHUAx1b98jQK4xWTTGQyez6Se0rWUpOJ2ikNmjYRcu3inTfO7Lw",
+              "received": false
+            }
+          ],
+          "total_price": 19139,
+          "delivery": {
+            "address": {
+              "country": "Belarus",
+              "city": "Mock City VflGv",
+              "street": "MockStreetFnzYnjSavQdPABU3y2F4NUyH7",
+              "house": 92,
+              "flat": 2
+            },
+            "finalDate": "2026-01-07T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-02T23:48:15.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6958593d1c508c5d5e7c4d42",
+          "products": [
+            {
+              "_id": "6958593f1c508c5d5e7c4da1",
+              "name": "Pizza35944",
+              "amount": 144,
+              "price": 19139,
+              "manufacturer": "Apple",
+              "notes": "kKyxkyvNiX4A7wFJJswIUsHEAxSugKyBe19N4c8QCqlkecdmTTahGm9NXWp8PzmKpwvih60iFym77nEgSkEO3Zf1iANU7XVzBEks9YoQz5hWdz1AnsCfHoT1XxnQiYN63xEMbXGG7CS6nTAHHvLUYSSLNcpzxF65zKDVkhsNPBQrr3LwdS80KIdWSG6VNiZlNsKhd05KHUAx1b98jQK4xWTTGQyez6Se0rWUpOJ2ikNmjYRcu3inTfO7Lw",
+              "received": false
+            }
+          ],
+          "total_price": 19139,
+          "delivery": null,
+          "changedOn": "2026-01-02T23:48:15.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

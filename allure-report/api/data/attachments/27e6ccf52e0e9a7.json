@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "431",
+    "etag": "W/\"1af-jLapWFHh/k1TREn8xna6jKOJHCw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Terry.Jacobi-Rowe@yahoo.com",
+      "name": "KPpJxWYwangpCOXyokGWqLUAlAIRMcEufUF",
+      "country": "Germany",
+      "city": "ZQrVopULwehFOAn",
+      "street": "kypY22nBdr0vtmBmCPCLsXKXcztym",
+      "house": 48,
+      "flat": 7,
+      "phone": "+6803283368",
+      "createdOn": "2026-01-02T23:48:41.000Z",
+      "notes": "4EhhMZoNZQhdBGkDe1nAS8voWlJ4zkaStZh8ZF5NeE6a4d5wWd3QzkNY5hOHzbDXOvUHh9sM7QhP3M9lswLwPn",
+      "_id": "695859591c508c5d5e7c56b2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

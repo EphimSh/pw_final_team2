@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:50:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "445",
+    "etag": "W/\"1bd-7ehp1bnao7q2U0yD87kWY3HtRqk\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car4840",
+      "amount": 8,
+      "price": 375,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-02T23:50:02.000Z",
+      "notes": "IHyhspybOngglE8nVRMPdHtQNZhkVuMuzjqw3XGoo63GFtx9HIBuKcIiUVV89m72Gf9KUrjsNOu4K5maeXFNMymtUIk05PhhXsoceLqRbPSkcCL096uBdtlx1UlrYIjQ9DuenGrQcasGshHjmaJFlctOVoF6yczWlxr38bHy39DcqucRhiRzsGLiFxjEZDaPe5MfnNlDPIV84UBtK9VqqwJcSMYSGa6lM4wRH2W27yq5alokUVm6HwG90E",
+      "_id": "695859aa1c508c5d5e7c72ef"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

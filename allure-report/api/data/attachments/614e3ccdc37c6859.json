@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:49:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-YSXULnCdBAqUh7Jdt8sd2CuAsTU\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X90903",
+      "amount": 228,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-02T23:49:41.000Z",
+      "notes": "y62m9Ipd3I43xCJbio5qKTJPe5HuEoixWhYuDjxRLhs6hKXbUZsIbqd5lvqxb1aMQJMaCRYEJlovgkEdDal0YL40iSYP3LZNeDqZG4Z3DUQ9NWGc8MnuCr48dFmXDhnKft5SjJjNsrTTCP0XThcJbvksC90l8Keeg535o1hj2INYTda8nqkIJ3RzIbgLS5Kbgk70wU3Skz2HJBU2tkUqXSNuKDKaCc9ExMJ4m5U9p5B7FIGuAkCx5q2F9e",
+      "_id": "695859951c508c5d5e7c6ab8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

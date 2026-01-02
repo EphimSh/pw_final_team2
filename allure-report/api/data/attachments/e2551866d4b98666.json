@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:47:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "319",
+    "etag": "W/\"13f-cLlTdFzbLVM3n5AVAKWjHnETf10\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jesus16@yahoo.com",
+      "name": "aLTRachjdPFBIMhQKDqueFaHr",
+      "country": "Canada",
+      "city": "qfeRVWU",
+      "street": "74NDmju9RqeOaCnFlsqc0lxROW52acwk",
+      "house": 15,
+      "flat": 2,
+      "phone": "+4093913811",
+      "createdOn": "2026-01-02T23:47:59.000Z",
+      "notes": "",
+      "_id": "6958592f1c508c5d5e7c4b23"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

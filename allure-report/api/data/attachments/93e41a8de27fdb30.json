@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:50:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-UrvrzIItTuRKqGHusrTF1fCEbLc\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra84517",
+      "amount": 791,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-02T23:50:38.000Z",
+      "notes": "jVTzmHiPIF8WZ0RoGbFgWz2lxZ410mDZyD7KiD6qmJ5AjJqCrKdgxpzf8ImoWXSK8Tep6xieBcOobG3zifux02vpHtURvmSU1Cs9gqsIb82UJe71LHGG3KWzbctRIAWADJT6gpOM9OYmLwzTGmdjdhl84QOfRbRVQa4x6SNdIJCqXn2qQf3A87qaUEWkJSlshnaFooU8O3q1D6TrxMalUFAT18dpw0WT4RwreuT84V1F2O7iaSAtKGhpTo",
+      "_id": "695859ce1c508c5d5e7c831b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

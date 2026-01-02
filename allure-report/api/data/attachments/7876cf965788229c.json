@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-2UzURROGpV1MvaKALBEdTRkOwvg\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves40810",
+      "amount": 507,
+      "price": 61275,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-02T23:48:09.000Z",
+      "notes": "WbX6A9o1FCMn0XKl8YP3eJoPAoWFLMoUd4SJUfPI7A7Z0yAgzKT1rn8V1LnF3gtJaMjxjEvXUb36DFYfNcmMWDCjdp09A4ES3wt3zVaWdJaAYrWRlTsCtYoQRA7h7F7nyGNDpiCAd42EBaU6PEcIb5iiEGgJ85Jbrh8wTyyQek8KhuGrR8bRLPITzBaaETATbsJhuGyBTCUZ8ksy4N8f7WldTXGP7QGwQFNqItdypAlzTtdHWuJqykO1YO",
+      "_id": "695859391c508c5d5e7c4c63"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

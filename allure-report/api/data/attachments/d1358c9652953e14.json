@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-jgmTKJHrwDP3QlxA0nDTHvfHD40\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants17441",
+      "amount": 957,
+      "price": 84088,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-02T23:48:55.000Z",
+      "notes": "9bwS4IbWQG4jMnE0gS2ZAXA59FQrfY9XXFqrsxBsg1VS31yyQ59th4ajN59GGXCDs2eSWrsEZ63DW3lx0p5WvAfWHMbErMf3Ci6WF9QAMKobvgG3UPW7BgGyNh0g8MblMKLgVh0fV1vO67T7TyUlxKWDsn11WY1kKWMzKcbtZblHDV5I7jN8iZZLbPgwszY9ezhyFwa4XZZnspjA4iZoULMtR3UPDMKLrjNnoN5SkNxZdT1N8PG5IUoANO",
+      "_id": "695859671c508c5d5e7c5bf2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "368",
+    "etag": "W/\"170-4EthA6cU6zDdZgvu13Y/u/O8rtY\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Uriah31@hotmail.com",
+      "name": "ckLTuyQeDyPzehyDnomhHbkhYizeFjZjSIxJCMy",
+      "country": "Russia",
+      "city": "QDCqSTALDbevFSX",
+      "street": "3GJqyJozUqgYAoGMRyap6ZMTduha8",
+      "house": 115,
+      "flat": 6,
+      "phone": "+0589078746",
+      "createdOn": "2026-01-02T23:48:07.000Z",
+      "notes": "WgNJ4pCgbp1G4kkzEmqZzqQoGYC",
+      "_id": "695859371c508c5d5e7c4c4a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

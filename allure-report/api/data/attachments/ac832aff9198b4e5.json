@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:50:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-+c0F+Tottt0q8ufkl0cwgoN1BD0\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra51003",
+      "amount": 331,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-02T23:50:42.000Z",
+      "notes": "R1IKDNMVTXBVQ1lWDi0DOCS6Ad1xjPc9W9XNkBjwqzae9KfOEHRN2M8ZWRSmoU8phQbewmgKFybmsOkAi4CVMxmEB64Ppb7Jb8jjVkLd4GbJKvIAa2DcIoM62Qt5qdCe938zytDpMUDWEWTuWyVmu9qBxVDH2OmLF8i4MZtni5MduRHe4GfQs66KUhRLOYDNo83innhbrGTLlc5mMjtopQahL8TPwETIhG7I4P5U7JXv7dQLRkmcADOuiP",
+      "_id": "695859d21c508c5d5e7c8402"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

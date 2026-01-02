@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Fri, 02 Jan 2026 23:48:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "462",
+    "etag": "W/\"1ce-MNjtewBZ4yPzjvrZNdmQ54uKGnk\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "695859331c508c5d5e7c4bca",
+      "email": "Coty_Kling@hotmail.com",
+      "name": "worvQjatXvEDfVuUVPL",
+      "country": "Great Britain",
+      "city": "eZvaVRdbHxOvv",
+      "street": "EeZDFijZ7mnyq29YDOGV9ewwRCS9b2EhriH",
+      "house": 157,
+      "flat": 5,
+      "phone": "+6931283394",
+      "createdOn": "2026-01-02T23:48:03.000Z",
+      "notes": "VuQfmpf3asZDHWxqjZF1Qr63Qhv6sHntbrM2Qds3svNpDF991EQaCG4OOg5x2ggyJbm90ipe1dNeaONSp73TZcWMjFss81hoHwoEGn89doYwiGMvMF0hbS4mGr9oKVe"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
