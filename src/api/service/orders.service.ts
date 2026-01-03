@@ -19,6 +19,7 @@ import { generateDeliveryData } from "data/orders/generateDeliveryData";
 import { expect } from "fixtures/api.fixtures";
 import { convertToDate } from "utils/date.utils";
 import { IResponse, SortOrder } from "data/types/core.types";
+import { ProductsApi } from "api/api/products.api";
 
 export class OrdersApiService {
   constructor(
