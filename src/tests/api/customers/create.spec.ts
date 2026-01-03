@@ -75,6 +75,9 @@ test.describe("[API] [Sales Portal] [Customer Create]", () => {
   });
 
   test.afterEach(async ({ customerApiService }) => {
-    if (id) await customerApiService.delete(token, id);
+    if (id) {
+      await customerApiService.delete(token, id);
+      id = "";
+    }
   });
 });

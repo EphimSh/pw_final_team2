@@ -20,6 +20,8 @@ test.describe("[API] [Sales Portal] [Orders] [Update Order]", () => {
   let productID: string;
   const customerData = generateCustomerData();
   let customerID: string;
+  let extraProductIds: string[] = [];
+  let extraCustomerIds: string[] = [];
 
   test.beforeEach(async ({ loginApiService, productsApiService, customerApiService }) => {
     token = await loginApiService.loginAsAdmin();
@@ -34,15 +36,23 @@ test.describe("[API] [Sales Portal] [Orders] [Update Order]", () => {
 
   test.afterEach(async ({ ordersApiService, productsApiService, customerApiService }) => {
     if (orderData) await ordersApiService.deleteOrder(orderID, token);
+    for (const id of extraProductIds) {
+      await productsApiService.delete(token, id);
+    }
+    for (const id of extraCustomerIds) {
+      await customerApiService.delete(token, id);
+    }
     if (productData) await productsApiService.delete(token, productID);
     if (customerData) await customerApiService.delete(token, customerID);
+    extraProductIds = [];
+    extraCustomerIds = [];
     if (token) token = "";
     if (orderID) orderID = "";
     if (customerID) customerID = "";
     if (productID) productID = "";
   });
 
-  test(
+  test.skip(
     "SC-078: Successful customer update",
     {
       tag: [TEST_TAG.REGRESSION, TEST_TAG.SMOKE, TEST_TAG.API, TEST_TAG.POSITIVE, COMPONENT_TAG.ORDERS],

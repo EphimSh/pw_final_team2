@@ -4,8 +4,7 @@ import { validateResponse } from "utils/validation/validateResponse.utils";
 import { getAllProductsSchema } from "data/schemas/products/getAll.schema";
 import { MANUFACTURERS } from "data/types/manufacturers";
 import { productsForCreation } from "data/products/productsForCreation";
-import { TAGS } from "data/tags/tags";
-import { TEST_TAG } from "data/types/tags.types";
+import { COMPONENT_TAG, TEST_TAG } from "data/types/tags.types";
 
 test.describe("[API][Sales Portal][Products][Positive] Get All Products", () => {
   const ids: string[] = [];
@@ -27,7 +26,7 @@ test.describe("[API][Sales Portal][Products][Positive] Get All Products", () => 
 
   test(
     "SC-007: Receiving goods without parameters",
-    { tag: [TAGS.REGRESSION, TAGS.API, TEST_TAG.POSITIVE, TAGS.PRODUCTS] },
+    { tag: [TEST_TAG.REGRESSION, TEST_TAG.API, TEST_TAG.POSITIVE, COMPONENT_TAG.PRODUCTS] },
     async ({ productsApi }) => {
       const getProductResponse = await productsApi.getAll(token);
 
@@ -42,7 +41,7 @@ test.describe("[API][Sales Portal][Products][Positive] Get All Products", () => 
 
   test(
     "SC-008: Filter by one manufacturer",
-    { tag: [TAGS.SMOKE, TAGS.REGRESSION, TAGS.API, TEST_TAG.POSITIVE, TAGS.PRODUCTS] },
+    { tag: [TEST_TAG.SMOKE, TEST_TAG.REGRESSION, TEST_TAG.API, TEST_TAG.POSITIVE, COMPONENT_TAG.PRODUCTS] },
     async ({ productsApi }) => {
       const getProductResponse = await productsApi.getSorted(token, { manufacturer: [MANUFACTURERS.APPLE] });
 
@@ -62,7 +61,7 @@ test.describe("[API][Sales Portal][Products][Positive] Get All Products", () => 
 
   test(
     "SC-009: Filter by multiple manufacturers",
-    { tag: [TAGS.REGRESSION, TAGS.API, TEST_TAG.POSITIVE, TAGS.PRODUCTS] },
+    { tag: [TEST_TAG.REGRESSION, TEST_TAG.API, TEST_TAG.POSITIVE, COMPONENT_TAG.PRODUCTS] },
     async ({ productsApi }) => {
       const getProductResponse = await productsApi.getSorted(token, {
         manufacturer: [MANUFACTURERS.APPLE, MANUFACTURERS.SAMSUNG],
@@ -86,7 +85,7 @@ test.describe("[API][Sales Portal][Products][Positive] Get All Products", () => 
 
   test(
     "SC-010: Search by product name",
-    { tag: [TAGS.SMOKE, TAGS.REGRESSION, TAGS.API, TEST_TAG.POSITIVE, TAGS.PRODUCTS] },
+    { tag: [TEST_TAG.SMOKE, TEST_TAG.REGRESSION, TEST_TAG.API, TEST_TAG.POSITIVE, COMPONENT_TAG.PRODUCTS] },
     async ({ productsApi }) => {
       const valueForSearch = "iPhone";
       const getProductResponse = await productsApi.getSorted(token, {
@@ -111,7 +110,7 @@ test.describe("[API][Sales Portal][Products][Positive] Get All Products", () => 
 
   test(
     "SC-011: Sort by price, ascending",
-    { tag: [TAGS.REGRESSION, TAGS.API, TEST_TAG.POSITIVE, TAGS.PRODUCTS] },
+    { tag: [TEST_TAG.REGRESSION, TEST_TAG.API, TEST_TAG.POSITIVE, COMPONENT_TAG.PRODUCTS] },
     async ({ productsApi, productsApiService }) => {
       const getProductResponse = await productsApi.getSorted(token, {
         sortField: "price",
@@ -138,7 +137,7 @@ test.describe("[API][Sales Portal][Products][Positive] Get All Products", () => 
 
   test(
     "SC-012: Sort by creation date (newest first)",
-    { tag: [TAGS.REGRESSION, TAGS.API, TEST_TAG.POSITIVE, TAGS.PRODUCTS] },
+    { tag: [TEST_TAG.REGRESSION, TEST_TAG.API, TEST_TAG.POSITIVE, COMPONENT_TAG.PRODUCTS] },
     async ({ productsApi }) => {
       const getProductResponse = await productsApi.getSorted(token, {
         sortField: "createdOn",

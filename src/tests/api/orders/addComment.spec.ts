@@ -16,7 +16,7 @@ test.describe("[API] [Sales Portal] [Orders] [Add Comment]", () => {
   });
 
   test.afterEach(async ({ ordersApiService }) => {
-    await ordersApiService.deleteOrder(orderID, token);
+    await ordersApiService.deleteOrderWithCustomerAndProduct(orderID, token);
   });
 
   test(
