@@ -1,7 +1,13 @@
 import { IApiClient } from "api/apiClients/types";
 import { apiConfig } from "config/apiConfig";
 import { IRequestOptions } from "data/types/core.types";
-import { IDeliveryInfo, IOrderCreateBody, IOrderResponse, ORDER_STATUSES } from "data/types/orders.types";
+import {
+  IDeliveryInfo,
+  IOrderCreateBody,
+  IOrderResponse,
+  IOrdersResponse,
+  ORDER_STATUSES,
+} from "data/types/orders.types";
 
 export class OrdersApi {
   constructor(private apiClient: IApiClient) {}
@@ -186,6 +192,25 @@ export class OrdersApi {
       return await this.apiClient.send<IOrderResponse>(options);
     } catch (error) {
       console.error(`Failed to mark products as received in order with ID: ${orderID} `, error);
+      throw error;
+    }
+  }
+
+  async getOrdersByCustomer(customerId: string, token: string) {
+    const options: IRequestOptions = {
+      baseURL: apiConfig.baseURL,
+      url: apiConfig.endpoints.ordersByCustomer(customerId),
+      method: "get",
+      headers: {
+        "content-type": "application/json",
+        Authorization: `Bearer ${token}`,
+      },
+    };
+
+    try {
+      return await this.apiClient.send<IOrdersResponse>(options);
+    } catch (error) {
+      console.error(`Failed to retrieve orders for the customer ID : ${customerId} `, error);
       throw error;
     }
   }
