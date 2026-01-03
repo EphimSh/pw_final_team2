@@ -1,4 +1,5 @@
 import { OrdersApi } from "api/api/orders.api";
+import { CustomersApi } from "api/api/customers.api";
 import { CustomersApiService } from "./customers.service";
 import { ProductsApiService } from "./products.service";
 import { validateResponse } from "utils/validation/validateResponse.utils";
@@ -22,6 +23,8 @@ import { IResponse, SortOrder } from "data/types/core.types";
 export class OrdersApiService {
   constructor(
     private ordersApi: OrdersApi,
+    private customersApi: CustomersApi,
+    private productsApi: ProductsApi,
     private customersApiService: CustomersApiService,
     private productsApiService: ProductsApiService,
   ) {}
@@ -59,14 +62,13 @@ export class OrdersApiService {
   }
 
   async createDraftOrder(token: string, numberOFProducts = 1) {
-    if (numberOFProducts < 1 || numberOFProducts > 5)
-      throw new Error(`Unable to create Order with ${numberOFProducts} products`);
+    // if (numberOFProducts < 1 || numberOFProducts > 5)
+    //   throw new Error(`Unable to create Order with ${numberOFProducts} products`);
     const customer = await this.customersApiService.create(token);
     const orderData: IOrderCreateBody = {
       customer: customer._id,
       products: [],
     };
-    //why the same if twice?
     if (numberOFProducts > 5 || numberOFProducts < 1) {
       throw new Error(`Incorrect number of Products`);
     }
@@ -150,6 +152,27 @@ export class OrdersApiService {
     validateResponse(response, {
       status: STATUS_CODES.DELETED,
     });
+  }
+
+  async deleteOrderWithCustomerAndProduct(idOrOrder: string | IOrder, token: string) {
+    const createdOrder =
+      typeof idOrOrder === "string" ? (await this.ordersApi.getByID(idOrOrder, token)).body.Order : idOrOrder;
+    const orderId = createdOrder._id;
+    const customerId = createdOrder.customer._id;
+    const productsIds = createdOrder.products.map((product) => product._id);
+    const uniqueProductsIds = [...new Set(productsIds)];
+
+    //delete order
+    const orderDeleteResponse = await this.ordersApi.delete(orderId, token);
+    expect.soft(orderDeleteResponse.status).toBe(STATUS_CODES.DELETED);
+
+    //delete customer
+    const responseCustomer = await this.customersApi.delete(customerId, token);
+    expect.soft(responseCustomer.status).toBe(STATUS_CODES.DELETED);
+
+    //delete products
+    const responsesProducts = await Promise.all(uniqueProductsIds.map((id) => this.productsApi.delete(id, token)));
+    responsesProducts.forEach((response) => expect.soft(response.status).toBe(STATUS_CODES.DELETED));
   }
 
   async addOrderComment(id: string, token: string, comment?: string) {
