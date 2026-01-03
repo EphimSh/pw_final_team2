@@ -5,6 +5,8 @@ export enum NOTIFICATIONS {
   CUSTOMER_CREATED = "Customer was successfully created",
   CUSTOMER_DELETED = "Customer was successfully deleted",
   CUSTOMER_UPDATED = "Customer was successfully updated",
+  COMMENT_ADDED = "Comment was successfully posted",
+  COMMENT_DELETED = "Comment was successfully deleted",
 }
 
 export const ERROR_MESSAGES = {
