@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:49:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "520",
+    "etag": "W/\"208-zaJEzRwtzvOvl227lHTbOnialiM\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Rosalinda56@gmail.com",
+      "name": "wEEUapsWy",
+      "country": "Russia",
+      "city": "X",
+      "street": "r9qFgiiecHPeAehK42toKLe8HDbvLWx2",
+      "house": 178,
+      "flat": 8,
+      "phone": "+7940709880",
+      "createdOn": "2026-01-03T15:49:22.000Z",
+      "notes": "9BJqbJwfK3Dg1exrklPC2Cr6zbic8qEiRJBzjj92B53wOumYXPzx2Zink1rY0yPaZKoKssV05ZJoiKKNKp5bbjZGwD8XF1hbJEmVysOWiXJbEzqGpmbIZrlGMR1xLF3QkgGw9IDI5r5OxOeWNXsx7QHwpnRRc3hR1tJkxyCwYNl9fZYHyLb8zjVBlulBL174nERRjDMZZNzIXVhLk6jYQlAba1",
+      "_id": "69593a821c508c5d5e8e1950"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

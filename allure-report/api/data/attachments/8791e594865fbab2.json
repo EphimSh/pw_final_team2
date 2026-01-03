@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:53:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "520",
+    "etag": "W/\"208-xqvSNZzvEoED1P7agHyoKSeU8Rc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Vernie.Hickle@yahoo.com",
+      "name": "bFydcgoTUMNinLVTaCsXRNCfljyVIBPPmOB",
+      "country": "Germany",
+      "city": "mypwlXLOfcsqKsClBdFB",
+      "street": "nGNHNKU88dCVyWOs7Bq8z5MefWwlrwL5ln4oJ",
+      "house": 153,
+      "flat": 3,
+      "phone": "+5200680521",
+      "createdOn": "2026-01-03T15:53:22.000Z",
+      "notes": "VfG202aXqqTTUMJOUtGYyYCBMYGchpC8B3F0ZRXFfFaDcOEvs4J65QNfuQ6G4l7NyCjO42fZPw40u37wJohBR5VN4End3io0N0cO5uBBjV9s5iepi4fKbbVxDi2LYbQAmne75V6610F1a8yOpASG4el2Hfmel8wmG9WDb",
+      "_id": "69593b721c508c5d5e8e4e23"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

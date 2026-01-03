@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:57:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-3vckIo/GcNdYYd/O0cS9msdJGVc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball18821",
+      "amount": 518,
+      "price": 21009,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T15:57:17.000Z",
+      "notes": "hpi6pmvjpW9Fhhqer6h0ekF4paw8ZZWk2ULJTsJfptUvwONgrzVPAv4As8OfPmLf9CMtwjwNHhrrHGWNKQobHBrMJ1ZAnhDNRESibyTCpRrrFvbr6lHcH2gCTUTNKKnArFm0j6tjuiLQYATDU1yQt9YhBLfrUMdG9NU9cyYBn15gnRJKoRPznPdcrxnwjUOJap19WMHtYsaM3RCCU2cekQtn7ApBeAnWVO2f5ZFRNtDSr230QyTKJ79UIP",
+      "_id": "69593c5d1c508c5d5e8e7dd3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

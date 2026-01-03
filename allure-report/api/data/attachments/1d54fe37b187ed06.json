@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:57:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-9X9M/w5bMcAdnVwp0dlPvkcCqTI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves7799",
+      "amount": 572,
+      "price": 33759,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T15:57:12.000Z",
+      "notes": "K6DFOsSj1PQaGolLQIHHDTRxaLM4AWBj0HjJpwGFw12ZUYfmlGkqniPzlVnvwj71avCrLKm5WsTKDIvKXP1yKv4Ur1c17wJIL2VjxEi294owjouAUkgbkZvYInZ6hxtNTEJuHs52pkp3WdRfpGhVf06MtQkY1jfXeXJ5GdM5OBpwWm7SLV5XueJxd6Gs8bKqK92ASw2pbSLABUucCc9Dauz6bRUx60sMCqKNER1AxZadqZuMU1SDk5ou95",
+      "_id": "69593c581c508c5d5e8e7d7a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

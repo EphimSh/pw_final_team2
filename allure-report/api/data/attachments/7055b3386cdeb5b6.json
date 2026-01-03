@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:52:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "546",
+    "etag": "W/\"222-UEBsedgzHqdOkSX/Y50F1VoQnXQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Felix_Medhurst@gmail.com",
+      "name": "oxeFlVwVJqeuYcH",
+      "country": "Belarus",
+      "city": "komZPrOHDf",
+      "street": "tJj56w5QUGvZ",
+      "house": 20,
+      "flat": 6,
+      "phone": "+0068487854",
+      "createdOn": "2026-01-03T15:52:53.000Z",
+      "notes": "ZVYh30M35Hr9a6JTT15GQ8RNNbp4SRFRfy12CraKj1DT1BuO3BywAjSt0fM5PZ0fdR0TEknVGujtniOTyV5VrVpU4F8GRUphC297DSmTTI9PHoEL600hcrTfuTvpoAcMiZFl0At72rvTkSDQbUQj30rLM2oShASXMZ1EfHv2CR0tHLjOzleXdPKo5iBXKhWkgJIxyFw7f44jtEpuWQMcOAbncu0QVWqr4hEIZJ4oIXFTBspQu6a5t0",
+      "_id": "69593b551c508c5d5e8e481b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:50:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "421",
+    "etag": "W/\"1a5-ti3RkM17i1Fu4nyXHkIn4JzNSc8\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Carmel_Trantow-White10@hotmail.com",
+      "name": "mLNotMlsVgPrJxiFIyApxpmeDmR",
+      "country": "USA",
+      "city": "QeceuZaWsjLqKCZybpla",
+      "street": "Z7WEd0dEdMlUUCp71aoqhujBjVIagwouAORokU",
+      "house": 129,
+      "flat": 9,
+      "phone": "+6031605667",
+      "createdOn": "2026-01-03T15:50:28.000Z",
+      "notes": "Nnp6MmPux3MamhRtkWlllP0Oen0ynFafVR6f4p96RqR1pXJ1wWQ7njY6Hz7W0QrMu3",
+      "_id": "69593ac41c508c5d5e8e20c6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

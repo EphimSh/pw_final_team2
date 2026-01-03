@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:50:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2922",
+    "etag": "W/\"b6a-hirNmO6Ui+vpTdQvfemoFjsqCrM\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "69593aad1c508c5d5e8e1cd4",
+      "status": "Draft",
+      "customer": {
+        "_id": "69593aa61c508c5d5e8e1c77",
+        "email": "Anibal_Cremin81@hotmail.com",
+        "name": "bnZBpiIYiP",
+        "country": "USA",
+        "city": "hwkqqWIEnZ",
+        "street": "dgpdKPVQ",
+        "house": 42,
+        "flat": 6,
+        "phone": "+9182235752",
+        "createdOn": "2026-01-03T15:49:58.000Z",
+        "notes": "f8yzrHYpXL07WMy18cLUSMY1jIq9DVuF8ju73qYZBuWxbxu9PukucjaZuJZJBT80JjmQ8sch4x54O9huXW71xrh80eHt1fLdXFZOUt0Nz1pIrb6HgdIfzTc0783uoxnaQPHGH29r0jaZ4tSXLGDIUseeoKtXhjiC7YrFqdAhCE6iTBQ5dzZVRKf86vLZ2BeHO2CHfjs9sjs1vidMUwt7WvN1vszYkmoKb64g6m4e"
+      },
+      "products": [
+        {
+          "_id": "69593aad1c508c5d5e8e1cc3",
+          "name": "Chicken36906",
+          "amount": 606,
+          "price": 11312,
+          "manufacturer": "Sony",
+          "notes": "p2qG23sBlMBGfB5hAENA52V0xqLzZMDVI005KYeKXsIKCDCcdhb9WnwTNVvId6fOg8jGGP33uQoPSwRJJ3Vw1BqS1akbiiiLBYq2qRllLsIatTNV9uWsxlnnUlqGZT9GyB9kx1PAxdkFxtAo5EDKUDqBxUwfQH1h5VijLFvQrferMPbLKoWJo2SFF03VWSYo2pUexRZFMY9BxQ72vsjPDlFVi44UlcFQI9KWfmF95ojItcfYdCl1POK0pG",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Canada",
+          "city": "Mock City SwAH",
+          "street": "MockStreetjkt",
+          "house": 143,
+          "flat": 2
+        },
+        "finalDate": "2026-01-08T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 11312,
+      "createdOn": "2026-01-03T15:50:05.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "69593aa61c508c5d5e8e1c77",
+          "products": [
+            {
+              "_id": "69593aad1c508c5d5e8e1cc3",
+              "name": "Chicken36906",
+              "amount": 606,
+              "price": 11312,
+              "manufacturer": "Sony",
+              "notes": "p2qG23sBlMBGfB5hAENA52V0xqLzZMDVI005KYeKXsIKCDCcdhb9WnwTNVvId6fOg8jGGP33uQoPSwRJJ3Vw1BqS1akbiiiLBYq2qRllLsIatTNV9uWsxlnnUlqGZT9GyB9kx1PAxdkFxtAo5EDKUDqBxUwfQH1h5VijLFvQrferMPbLKoWJo2SFF03VWSYo2pUexRZFMY9BxQ72vsjPDlFVi44UlcFQI9KWfmF95ojItcfYdCl1POK0pG",
+              "received": false
+            }
+          ],
+          "total_price": 11312,
+          "delivery": {
+            "address": {
+              "country": "Canada",
+              "city": "Mock City SwAH",
+              "street": "MockStreetjkt",
+              "house": 143,
+              "flat": 2
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-03T15:50:06.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "69593aa61c508c5d5e8e1c77",
+          "products": [
+            {
+              "_id": "69593aad1c508c5d5e8e1cc3",
+              "name": "Chicken36906",
+              "amount": 606,
+              "price": 11312,
+              "manufacturer": "Sony",
+              "notes": "p2qG23sBlMBGfB5hAENA52V0xqLzZMDVI005KYeKXsIKCDCcdhb9WnwTNVvId6fOg8jGGP33uQoPSwRJJ3Vw1BqS1akbiiiLBYq2qRllLsIatTNV9uWsxlnnUlqGZT9GyB9kx1PAxdkFxtAo5EDKUDqBxUwfQH1h5VijLFvQrferMPbLKoWJo2SFF03VWSYo2pUexRZFMY9BxQ72vsjPDlFVi44UlcFQI9KWfmF95ojItcfYdCl1POK0pG",
+              "received": false
+            }
+          ],
+          "total_price": 11312,
+          "delivery": null,
+          "changedOn": "2026-01-03T15:50:05.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

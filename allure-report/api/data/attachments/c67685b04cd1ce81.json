@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:52:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "354",
+    "etag": "W/\"162-LE4HigSmFnQSJGpz96bSY6XsH7w\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Lela.Wintheiser@hotmail.com",
+      "name": "EnDpsSUSPhrQJnRAjhWIqcLpqN",
+      "country": "Canada",
+      "city": "tssUGwNeFyRUIxZCtqZU",
+      "street": "NYt5IWdmN80bApyQW",
+      "house": 121,
+      "flat": 4,
+      "phone": "+3050850226",
+      "createdOn": "2026-01-03T15:52:47.000Z",
+      "notes": "p3sWR2iwkBUaRVrJwBGz8Z6d7",
+      "_id": "69593b4f1c508c5d5e8e4544"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

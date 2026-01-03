@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:49:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-WWYOGHrhJw7ZAA+1JjoP9tTaFVk\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese12753",
+      "amount": 231,
+      "price": 3914,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T15:49:51.000Z",
+      "notes": "HHsUJ7jsYxudvcj8YcN68mImA6S2PQnavc0sir4pgMhxUDaldeMrxOj2cNE4ikrYlurq6JI5R7gl9PjXNvHlcidfAVPkNXZLzSmKqT8hBZxpoHya6bOjqTh4Ar2kbS4nuBFWcV6U0piYbk2EEt7KT1YSBrSTUGwvw2wbyu4AcwxiCUirrvyOGpx7PT30MqpsaXv81BX9PAL2r4fHL95MxiXtvjT1HMSNnoXFWN4NUFn5dqcEIqAZQaJpZO",
+      "_id": "69593a9f1c508c5d5e8e1b76"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

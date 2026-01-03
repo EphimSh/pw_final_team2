@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:55:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-xyjJSOJnm4bSsx5goqkZIw1L55k\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants99931",
+      "amount": 0,
+      "price": 57114,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T15:55:23.000Z",
+      "notes": "WIQ6rmiP7C6KfFACzNMkS84BHzvSpVYOGUiPKckoQMzQQv7AC8FR00WRaJWEyUWqKeEEb6DzoZkiv7ovrn8zsyOTPt2e0VI1hnfKnryCvUIYbNMPv8iaYLD2WFEHFajGNcsfywFAoeci11g3sgA8up5m8C2ygE2hICXDrr2c27DPdK43w7bT61mm8MdrbhDFUJR9rQkZErKDzmrmIGwvSF60LT20QeQ8YtL8SJeWYSDqp9WbpAi4WmAJcU",
+      "_id": "69593beb1c508c5d5e8e6e9f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

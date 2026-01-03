@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:52:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "414",
+    "etag": "W/\"19e-7V0zWCqYC955IsX3JI7Ew9zLlu0\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Tracy.Hand@hotmail.com",
+      "name": "cAGjAWXlKZVrqqyZokkHnQxyjEHezQPzOwksxVg",
+      "country": "Canada",
+      "city": "FlRaXEZ",
+      "street": "qnHQPT7Bz0xGTqa1eRQw9jIbYmfH1",
+      "house": 21,
+      "flat": 3,
+      "phone": "+3668658482",
+      "createdOn": "2026-01-03T15:52:54.000Z",
+      "notes": "tN6hWYMKK9n7jDT98wHRwYZymolO2NkuJxWLpWPq569IVKy37qolwPEA2DUOHzcOFIz45t3lbNr7Oqx",
+      "_id": "69593b561c508c5d5e8e494f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

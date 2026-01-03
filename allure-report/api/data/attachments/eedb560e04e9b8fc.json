@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:51:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "545",
+    "etag": "W/\"221-To146rylb+IXiH4G4Se/TuCst0k\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Dannie_Crist@yahoo.com",
+      "name": "Xm",
+      "country": "Great Britain",
+      "city": "XOPpxxdVfH",
+      "street": "nEKXP60MzN7rno4F",
+      "house": 102,
+      "flat": 9,
+      "phone": "+6283519650",
+      "createdOn": "2026-01-03T15:51:05.000Z",
+      "notes": "kS00Ob0OcNbDCJe0Hk7qCKRWUDj0Fe8KXPDj1m2Co14RCxV2MqSh5QnkD0wMMkf98kAqIX2IM5UUiw919hQ0yb4wcuQZIyBQSHCAl5lCppmCHUnsueOtt290BOHXbSvJw04aXu1WyCuDni4NZdO7UbLLgOZqGYda0ZmVEUEGfV0ahEOwQtfxTS9bgaRNEROTomHnEOgbfpqA0zHD1SbX0C0VmSMkT4S5tXdpVwa3nLjhU10kxJMKJLv5c",
+      "_id": "69593ae91c508c5d5e8e2a55"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:54:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-sxAmUlbqXP+r37bBetPhYcNjrJE\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball58734",
+      "amount": 148,
+      "price": 40859,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T15:54:28.000Z",
+      "notes": "ZuxbMwtUFcfIAvQzmu1tPElSJwb3njVRaF3ZvV8bmWZaLgty8ZPLuMsumXLP8l1C3Vgj8K8XALBEqrrAOOvzi8b4m0ihujE3KXvbEMO9t0STfWT2xHjtE2R8bmsX1vVNvINeUNuQo3Q4g0TN5Sf697khDohRlVCZNL9J0JG3KnN15qrbqyyOmAkT7Fmb4oL4UrnEEVoPp5p5LDmBZgb5cKCzdAvdYIhW4d4RzAtGQ8H94KLolttPtuIp9R",
+      "_id": "69593bb41c508c5d5e8e5fc3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

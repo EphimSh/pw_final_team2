@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:51:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "341",
+    "etag": "W/\"155-ChKNhurEzX69vDUaoPiecijl1tA\"",
+    "keep-alive": "timeout=5, max=72",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Antonietta.Gottlieb17@yahoo.com",
+      "name": "gBYOlKjprrKPKt",
+      "country": "Russia",
+      "city": "ysOndfzWEy",
+      "street": "BY1R",
+      "house": 79,
+      "flat": 7,
+      "phone": "+0013046985",
+      "createdOn": "2026-01-03T15:51:19.000Z",
+      "notes": "kfAlj8twtjm0J5SWFpaZIv0zV6UI8m7V5yjASxl6Ckk1",
+      "_id": "69593af71c508c5d5e8e2e9b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

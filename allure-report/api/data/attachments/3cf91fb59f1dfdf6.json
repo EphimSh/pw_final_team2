@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:53:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "527",
+    "etag": "W/\"20f-7B2OfAWMioq7dBZdo6yYuvs8R/o\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "69593b561c508c5d5e8e494f",
+      "email": "Jayda19@gmail.com",
+      "name": "Ivan Ivanov",
+      "country": "France",
+      "city": "tlhXDcCO",
+      "street": "ZeysVU8onABvsVbPrggCpCQKHYnTeuoD",
+      "house": 22,
+      "flat": 2,
+      "phone": "+4756993456",
+      "createdOn": "2026-01-03T15:52:54.000Z",
+      "notes": "pdyLpobloxdzEVxsEANRXzyh8KIz0qVVlWyzeHv7C92IRecSf7kJqhtaXXhAdKmp6UR2auuOvu9fHB5QWfrQebfg8TUKGx9T0sgZRJnoUBdVvJtHlddadwTENz9myUFR1i8RvIQt6f5MB2hKjma5FrmXGrdNhkGctGS5TeWegBXVRKWbI1leERX6F7Wc3YmdilLDuYfdTjBVT0fR8lLXd7wnwCrrd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

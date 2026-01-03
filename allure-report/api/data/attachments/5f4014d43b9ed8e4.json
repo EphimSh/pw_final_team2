@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:50:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "476",
+    "etag": "W/\"1dc-N+WOY1CUGqCnCJuobKLFZktWL9k\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Alfonso.Strosin@gmail.com",
+      "name": "mmozOlosdjU",
+      "country": "Canada",
+      "city": "DQImxaZxbzo",
+      "street": "voK64AvcPgCi",
+      "house": 2,
+      "flat": 1,
+      "phone": "+2397467788",
+      "createdOn": "2026-01-03T15:50:23.000Z",
+      "notes": "cXIHH8JKfudqkeNgv9mNLSiRFDiUkaHKtkohuR30UomBqDOBJ42aK6BT1ZKe1KjxAWYPiOiZJIRtIKre7ksa2Huda3f0gfiVLmaKAHIZVGvGR7r7JU71HzNSb3ne0mFhT23S8Txk048c0C2i1Gn1Zk5guuo6upjGHodlN75pYJmfEIZX2sWT",
+      "_id": "69593abf1c508c5d5e8e20b8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

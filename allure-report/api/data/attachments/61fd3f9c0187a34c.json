@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:51:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "489",
+    "etag": "W/\"1e9-COs9pATIn3p1rGxSXlpIA4gmFHg\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Julianne_Greenholt50@yahoo.com",
+      "name": "qBXBsNfYQkTUsvmXuQCTzynXjC",
+      "country": "USA",
+      "city": "nF",
+      "street": "ESGWtUpoF",
+      "house": 57,
+      "flat": 3,
+      "phone": "+1043485032",
+      "createdOn": "2026-01-03T15:51:05.000Z",
+      "notes": "XJElAJ1gDK0EE8WDhbcDlXU1knFmkrG78gCZqnpYaDDGcuvrRgJvSEw8oBvQ3CvHsbs15bpYx8URkAapO18ssAQcAM0Gm3xsk4Vytv0tv500gNFyYOF81CHWPoZmdTiJIwQbls36NTIU38nAI3BHc35cFUs9yZkXPe6eLmRRH5ntCAMdsdXCmtdigoj",
+      "_id": "69593ae91c508c5d5e8e2a5d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

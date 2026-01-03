@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:55:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "446",
+    "etag": "W/\"1be-6pUOtGuWKnee0WCwY1+aorEIbC4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "SPJ",
+      "amount": 789,
+      "price": 5136,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T15:55:07.000Z",
+      "notes": "9LoBjrl8wCgjKWVXYRxNqpkwfGmNRmNuZvCDBezYGBGk73pQPLp5p5mNaiQk9pF0NFEuRXZDdazj4eLUccpnY783RaQLK6wdHVUf26DKMVH1WhHBYfbGixKb3tmexoHjqu0kgQTqT88UvgWIW0PAbvtNQNKxbKwhHfipXEjXPofJUzbhDCr4VrJmfSKBWf1nrAmkjHPBIPdK0dlZ9jjCTSwOLvKLw2uUukU7uzF2NORWaE1uUUXshEcCwj",
+      "_id": "69593bdb1c508c5d5e8e6c80"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

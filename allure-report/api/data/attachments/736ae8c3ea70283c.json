@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:53:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "364",
+    "etag": "W/\"16c-+fDYoB74AOj0ihJjVo4kAHCmc34\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Mercedes51@hotmail.com",
+      "name": "KCnmzPYfQkfcedLiOcpxMWPhsoWGQP",
+      "country": "Ukraine",
+      "city": "SgkHuIzTeuPUTIq",
+      "street": "UK1qwKH",
+      "house": 113,
+      "flat": 4,
+      "phone": "+2341434482",
+      "createdOn": "2026-01-03T15:53:07.000Z",
+      "notes": "tfJogCBh0rSKDaJPvFxvfekbx9Q5w0Ck5RUBVE6jqJGFskFLep",
+      "_id": "69593b631c508c5d5e8e4aa0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:57:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-p5YqtQeFI/WtvRa0MinutMVxyQU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike29537",
+      "amount": 796,
+      "price": 91027,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T15:57:27.000Z",
+      "notes": "IkAW6BZTCI93c3eShjj5CKXRSV9u51MImXDHBXmZtR4ocgAIHdnYGN1UgKE57et69Oxpwn7XIoZNwP6JM2mEJHcmfUfPgPMl3YJs4Uja5v7SPC2b8KyWvoKVCw8SlBjNQFLtA9cJBRSIGSSOuCIJ2WlLU0FiD8Magav4WhsL7O91YvpGQJ6Yp2pptWGvjsiRg16eqRFPBj6svkPi8CN8Kun516ZsNBJKRYA6ExFjRk1bqXYRDZyfxyhp1W",
+      "_id": "69593c671c508c5d5e8e7ebe"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

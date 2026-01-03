@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:53:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-OOcvl0peDO0EntbC0caB6xVFOcU\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants85646",
+      "amount": 54,
+      "price": 34965,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T15:53:22.000Z",
+      "notes": "urt7kz0CLIu0iltA2ImcaaWAGmIQI91CO2K03s55DRdabWq4TPkysu8ZHhZcw7Ao0dzz5Es4opffySJFM8w5X7IOCpDfSA3JCze20aLZHoxfwgOvEbztnODOEgGLBc4ffpAwk9ZS0u8NDRtzhxZUp3ZnuBvqJwqG7S0cdu3WxkJm17hbHWVvDOV1zvRedMc7dUzeq70UQ2PltVLdMmZao1UZka4dmGdeidj7AEiSwB0OrMXp7QcYbt1oD4",
+      "_id": "69593b721c508c5d5e8e4e0e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:49:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "361",
+    "etag": "W/\"169-l4eoo+82TT/lQluqt9jC18GrdU8\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "69593a8c1c508c5d5e8e1a69",
+      "email": "Jay.Ullrich@yahoo.com",
+      "name": "sfOFVLzDOmUQwbfHtiDtCBzsJZWB",
+      "country": "Russia",
+      "city": "DzdNIquEoa",
+      "street": "a0WYL5UwOyJKYCkhnSOdix0S",
+      "house": 32,
+      "flat": 1,
+      "phone": "+6630648206",
+      "createdOn": "2026-01-03T15:49:32.000Z",
+      "notes": "TxEnAP02S8x79Rrb5IaOdxgNbRT3yS9c7JUeMLfr"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

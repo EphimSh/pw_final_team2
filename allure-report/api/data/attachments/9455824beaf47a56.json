@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:51:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-L9pCNwHkV8JLL82OPaohvYY9zvI\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt22799",
+      "amount": 838,
+      "price": 19541,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T15:51:04.000Z",
+      "notes": "SBigoRp6PHnjoLuggje6suu9rjbX8jRZ7IrBU6d3p8fnpsj6F7Y3j4LNqKzWgHIrG2SDwPNCc3mgPdEQAmQT18naAcmN2wq8J8aiJ0aEFdyRWz4711dy5S5Vk1fy5l2wYiJnregMLUN8PutGaKgut8Sm98PL0YbSmfkeJlUOkBusJCflspufC0kIz0Sspb6kL7U3fiAu2ZIlsQ7u0WfDmTiaKiiiZdYha5cBoQ6XSUU8O5EkAkF5GXvke6",
+      "_id": "69593ae81c508c5d5e8e2a37"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

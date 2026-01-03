@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:50:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-GRSZfeFIEaHdXkaR/KcAeLnK0tM\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips64551",
+      "amount": 241,
+      "price": 90781,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T15:50:55.000Z",
+      "notes": "dAukXu1rO3fnlcjcAEoeYxPt0r0Nw12fGThLaMF4TAdbyw92xA4i8FLHGIrhw3M0Pp3pztoIYlYDvKEyVyASwQdXpUYBrIuD5z8YdMJ7JoOPQWHQi4GTfrpFHWIfghQNu6KGA0pPlnqFuB4WqXaZ2zg9fIwc8p2tQqaMTgZu0lxQNrbbeTqNGI2v7FUeHGmgMdw28RvE2fbX7MXTMjhEBTQKQsj4K8qVRDSzu1ixCm4rOLAwle8mcAhhrA",
+      "_id": "69593adf1c508c5d5e8e27c8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

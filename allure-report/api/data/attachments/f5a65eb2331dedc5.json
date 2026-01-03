@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:55:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-JnOvF2uY4+3Jh5Go9PnAfrEsADA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken98150",
+      "amount": 243,
+      "price": 10774,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T15:55:51.000Z",
+      "notes": "WClPxJhatp4l8N6CnRbcz2q8LqY1B3hMSeVbhXIiZwfMnGuVa5MAAHkqTe7c1UTXlLy2psi1IdsbpRiLEU25dmtb31UL26F3U2PwwkGMjD0PkVs6sqSiu02N8oJWmLeb7PtLyQar5HuD1Q2Tu3xzW3XrScBbcSJFYDKx00lhVSRxIGIdC2WWf1T98au3vExGn6AkTnGVqOjVym0WfcM8u9faq1eo0o7nN3XPJVfLVVvCkEZA7p8zoOrWcC",
+      "_id": "69593c071c508c5d5e8e736e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

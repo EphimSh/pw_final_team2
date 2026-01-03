@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:49:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-wXJdg6FaQ9x6LbAv2N92WgN5Rss\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels8080",
+      "amount": 640,
+      "price": 67686,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T15:49:59.000Z",
+      "notes": "JeTDAEb4ZAXdDpTcwrOU8aaOZSnybHtSg2VgjJv7k6Byaa3dRRgKOPfsMwZZ048dqBFBxbzxyiu5ikqjSWcZbaqztQn1jFW4BvbZtkJMnr7dg3PFuFPQH4DPDBx80nmVoZ59ELF1ECuQOkb9mAEG2wqQz2zOCsMATx2qz3R4pBSLMykVujT8w85omKFCrR7VPaGdj27YQdTEv1PljFwYiDd8ccuTK70K3yt38dMpa0Y8vyFnfJRNdZZbWN",
+      "_id": "69593aa71c508c5d5e8e1c7f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

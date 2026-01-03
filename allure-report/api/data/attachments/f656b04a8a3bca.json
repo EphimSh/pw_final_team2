@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:55:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-C/4IGQAh69LRCC3W0ug9vbIHnBk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table51392",
+      "amount": 578,
+      "price": 24831,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T15:55:04.000Z",
+      "notes": "mnd7WtIWTi3LxIMfO15f6XZSbYKuEUU5oqvxQupY6Mh0BYjA6Zw74yb5UAJ5A1zHMMyif8lf0sO0vXM4CVn2HtWr7CUPTctojWUHlmmcEmtO84wUzZfjbMp3gjWNnCFupTdHlZtJTRzifrlUeHUwT9Nb45NtsVdyOIX0tGG3y9LMM0i7pafY97d92qEcqjbCODUnV0vVJwBvC37HYp4QQPxKi7DkHzSfegNhg9IKBgNVseO7NUDNxTm48X",
+      "_id": "69593bd81c508c5d5e8e6b0a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

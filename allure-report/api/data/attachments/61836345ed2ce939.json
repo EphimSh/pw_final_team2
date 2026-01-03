@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:56:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "577",
+    "etag": "W/\"241-7opemRjKtUMBDyjpxD7ZN1LjWCU\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "69593c321c508c5d5e8e79e3",
+        "name": "Chair99160",
+        "amount": 451,
+        "price": 66093,
+        "manufacturer": "Google",
+        "createdOn": "2026-01-03T15:56:34.000Z",
+        "notes": "rornySXUfXchTJOfdLU036zzmAlZFhImmXNKgF9G8r6vwbp7iogIBISK09fiBYrg80lBBUxCvsKRfen3QdzUrCNaoqfmJC88J4zCvegVRUfYtX5OBRUVDwqmcK5hKVDjqBWbcg4JuXGa6D5ld9Dq64fZheCQUQNEJsQ4cy0wzw9UvOcXONamg4Uy81ehyqLVOn6m9vdrVFDo2MKDd6aJxuxc58fdntQtjc0q1S6kOgJvMK1WrXXhDKxT6E"
+      }
+    ],
+    "total": 1,
+    "page": 1,
+    "limit": 10,
+    "search": "66093",
+    "manufacturer": [],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "desc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

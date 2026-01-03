@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:51:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-HTftWw3yfC1G5LuaCT8J2GYc54U\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon38379",
+      "amount": 968,
+      "price": 54015,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T15:51:27.000Z",
+      "notes": "w2QWk7TO41BjorgglY6T9woQp2h07h4AEjH3J8Gczg0hL6Da8fqfOxqi44O8FwVOlMbAG2BCLTCeepBk12LnVoaPfKgw8RT98QMHvXX4Ecue1kE98BUn4S5AQKQQAeNPHqRcOMf6O7ZcwldJgBc9ayhdGv6FkCDbo8hnjMMgqyN6Sq41LAAKNW0uI2JTFdAROk2WwT9TvqRQRjYqnHnMWSeTz3lb6xq74B5H78138t8e7fKvpPWkuoUHjc",
+      "_id": "69593aff1c508c5d5e8e3028"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

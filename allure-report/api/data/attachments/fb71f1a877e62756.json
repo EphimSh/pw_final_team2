@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:53:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "392",
+    "etag": "W/\"188-yjuBga1dOmttYHVGMamHaULe8WQ\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Hyman.Veum69@hotmail.com",
+      "name": "OIealsfCuiTJOHPd",
+      "country": "France",
+      "city": "TMULpPfyaIhBQ",
+      "street": "E6XnQUc88I8Gi3uhJ8SKrudayjoc7cz1T3YCiri",
+      "house": 111,
+      "flat": 5,
+      "phone": "+6637140339",
+      "createdOn": "2026-01-03T15:53:16.000Z",
+      "notes": "zLc1hCeTzvAxfKFeMUFKP56wBSLVnSGwriN0eZVGW4xzcEsvDyfNf3ppqLuVM",
+      "_id": "69593b6c1c508c5d5e8e4ad7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

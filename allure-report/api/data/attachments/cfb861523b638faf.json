@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:51:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-koLyQrxle4+UwqtO/zqjaHwdIaw\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza88773",
+      "amount": 161,
+      "price": 89187,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T15:51:12.000Z",
+      "notes": "XFfEPPDw9k0TZzADNLsgGElxMSonBkHxHmN7TX3vtyT9rDPIzqm2haKnz7D9kNrtsLpm9m2l04fpR9FS8eEOUtavI5L231P4llNpoKdYZfnZMcaZfA462pHXcIBjkyH1egGny8LcbKC5hYHaJU5RVxIhVzLAaGE1BwYvCUUBCFMPYuAeOWA45O4y29XMS3Q1rYQNV5YuYxH6zTO21uIkXqZ2sBmuOkOvnAvKHGFXItBpZTvlvdYNWmRAP3",
+      "_id": "69593af01c508c5d5e8e2cfb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:57:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-UEK96Lg3xPt7u9xEeVO4dhgcax8\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard95099",
+      "amount": 294,
+      "price": 83273,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T15:57:12.000Z",
+      "notes": "wnz9KPAZjROakcrZDOze7vpIurcisTLoVmxIyhyz7ySN7gNMQHYV5pvVDPBojrD5sGerGCWkZDpfX8vtauNZdx2YuPUH6gpLN2lZP6CJwfAiEkwj86GT6dST3j9ulzTsLRe4K6pUiqzUyREGhb5yUQx60Wq3b5puhOV9sXDBygtDVLl81sPfrU1OkEC3UfvrmyZAd0CvbupcBI8zzC2Zcq2uouIhKlAvIHhgN8SIlsbNFHgAimNZX0g3L5",
+      "_id": "69593c581c508c5d5e8e7d76"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

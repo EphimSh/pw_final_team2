@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:53:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "448",
+    "etag": "W/\"1c0-O/EOpWgGHzjZkW2CpwbAzMcVmpg\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kareem_Hartmann@yahoo.com",
+      "name": "bPMlhJKasqkDeSW",
+      "country": "France",
+      "city": "WiIeqzARalAcWIwe",
+      "street": "qefkgfhOewE9UTsncBA",
+      "house": 88,
+      "flat": 9,
+      "phone": "+2162007138",
+      "createdOn": "2026-01-03T15:53:55.000Z",
+      "notes": "eGkkEjUPetQnrdJRx1mjiLX8AjSVQRBfS3fiLKVqyv7CkBrEFvrvagWPIfbyYCz5CUQYpEvAlbHZwrc7h8pt8WG4udMYvP3RC7tc4UuGMX445AUzqpE6CGMYEh6okvJhY6i1qGs",
+      "_id": "69593b931c508c5d5e8e56ba"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

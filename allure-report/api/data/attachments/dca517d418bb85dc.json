@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:50:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "544",
+    "etag": "W/\"220-b/8ZKsssSmdCnGVPVe/ynXJglhI\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ethelyn.Marvin@hotmail.com",
+      "name": "CneyvedArNHQCq",
+      "country": "Belarus",
+      "city": "UClvgYXaCJRDcA",
+      "street": "gT",
+      "house": 42,
+      "flat": 4,
+      "phone": "+3094093341",
+      "createdOn": "2026-01-03T15:50:34.000Z",
+      "notes": "KvVw0xG1GEK78YnQhm453c2S2f5aIPiEFBXViHCoyAZDOYyxHjD14Din3n7AtzAjtKyfLoa1oSTw6irnNIkG7xJdXaP0IJ4PuRobC7gYg4epSR4XixQoMxYYpjkSBCn2fAKQIYJgfEBKuMFE2XSf05VKJLTtB1G3kNyDkZAlMl3f2k2m9HRDMrBA1QNhRJtw8X9jNO3JV7WKtycX1gDZ87BSOTIQFcC0GXVCEyMsLN6G7txdI84Y5qZrU",
+      "_id": "69593aca1c508c5d5e8e20f4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

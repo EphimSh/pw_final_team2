@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:54:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "323",
+    "etag": "W/\"143-qtGLglDeq9g+PpA1t+UA3Nmv7dE\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Brittany.Toy76@yahoo.com",
+      "name": "sHbEnCMmlxctpEFpKXwh",
+      "country": "USA",
+      "city": "JMTUEyZVIGfIh",
+      "street": "qo3JAcgLlFX4KdZNp",
+      "house": 19,
+      "flat": 9,
+      "phone": "+5305637490",
+      "createdOn": "2026-01-03T15:54:26.000Z",
+      "notes": "ZZam52XqGvSttJ",
+      "_id": "69593bb21c508c5d5e8e5f8e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:51:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-HSXxJIPNNP8un+UUQl2QTANFfD0\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball88807",
+      "amount": 764,
+      "price": 69337,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T15:51:13.000Z",
+      "notes": "E7JDNKCN5LwIY08Jp8ijf8B6X6VVqhQtuiFuBbAea4AjVwVm8LASPuD4K3hZiF8kSmvuFFYb3cUMdt1hustnG89y2IFnQejBm2yLlQWWVPS8yVW018E57zfgcGQ15jTPerj55XJ2OoM5KtaVHbluSLvjo5ZsoWAhIXYfAPM79yANkGGJ1BzZV3jzt2UfqJNycAqvZHB2Tuj51einkaejz49nEiQCsRls6ZJ4Cb96sNb9WOw8AUBaFZsSo0",
+      "_id": "69593af11c508c5d5e8e2d62"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

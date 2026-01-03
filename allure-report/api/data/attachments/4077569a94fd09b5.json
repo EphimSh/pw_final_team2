@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:49:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "545",
+    "etag": "W/\"221-zPAVEgZyvy8imcz+gwb3E7A3yiA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Lou.Greenfelder11@hotmail.com",
+      "name": "wiqojKqjAZTbvmnyxIcMkMyVikJZQmqytx",
+      "country": "Great Britain",
+      "city": "NaQLNTakMQQauEoYNj",
+      "street": "08A1j2KP05RH7kQqoAA4raKma82cBtAVHjbTgBA",
+      "house": 180,
+      "flat": 3,
+      "phone": "+2636689219",
+      "createdOn": "2026-01-03T15:49:28.000Z",
+      "notes": "HHZo2ItF2B0iYfUlJjQNkVlwAxD9OZnsT9VE4jMPUpSuJTjiXMDHOHefjwkmjTuUGvoz52OCT3ajoA9W9fNcc8ZfSKsNB8jYtpRrpCDLGkHT7amPgLwHIZwuleVtTETAXR95Sa9RtDYPTaK8HIx9X7Yr2sa0lzisKjXKOtDwIqVzIH5CMrW",
+      "_id": "69593a881c508c5d5e8e1a5f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

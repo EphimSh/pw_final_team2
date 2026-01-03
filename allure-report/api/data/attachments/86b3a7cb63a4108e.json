@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:57:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-gVg2frF0hov+oJki4G2yNqW2Yo8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat96640",
+      "amount": 465,
+      "price": 1654,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T15:57:59.000Z",
+      "notes": "qY9RdQMRzxtujHe5JbhMGgDxfH2nKnY43Qy3ixJOF90xtOL79oSzHLM12zr4yCNWHmUEgX8l5z0ycvprURYOrAyv6hvMLBIx1LmyFDHhFJ8akMOj0juhCZ75mkxAWvqEIv0fKcEznuVsZvp8HXEnDERyGU1ZAm41qUUrUdpunTJ7cqU5HOYWgOglGWqe6LwP8y27lcodPpQSVo2fjHOp7reFl2LSpSZiUwYY9DN8cGXE5rfjbQjc4vw6km",
+      "_id": "69593c871c508c5d5e8e8109"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

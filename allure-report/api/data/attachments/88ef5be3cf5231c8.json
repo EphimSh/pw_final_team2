@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:53:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "417",
+    "etag": "W/\"1a1-2R7a8GdvtTmjDds8OvawvZK1XBs\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Leatha8@yahoo.com",
+      "name": "GaVXDUigiRKEwihPigpwkXfIAWEFljny",
+      "country": "Russia",
+      "city": "SZttYoStfvnrac",
+      "street": "yQcce3r",
+      "house": 126,
+      "flat": 7,
+      "phone": "+4186822994",
+      "createdOn": "2026-01-03T15:53:35.000Z",
+      "notes": "hla9n5IgkDyOAMBoTOj3lTCNneQ5GiCSAkmdlFdYDYFn00u4xZ3DzbPE0ihH1dA288aah7pDBOPKGl1wumFKrpWhhAu0TUHGYd2ODbnIDtvM",
+      "_id": "69593b7f1c508c5d5e8e5366"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

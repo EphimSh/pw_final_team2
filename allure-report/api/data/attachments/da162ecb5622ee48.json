@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:55:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-CQHPsSFzyoFvAdIMr2M6H/0gDLk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car22079",
+      "amount": 559,
+      "price": 3723,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T15:55:02.000Z",
+      "notes": "b4xgsq6Hyp6zj8bf5iHFtCWkH1TH5b8l4hXUiDYoxM5pdxeKyFjjAtJDK24Eb7TSUBXr5fVyE5gxmJrl0udIUZtA4ItsrKdjCQS8vZJFuoddO5gG8W14lFx49xZ0C5UbLUeZgdNDFB1EWR7djwGgF1URpGmOWNO5Ns1Bobfx2G4hi7QowSXUPUidDZZCJYIh51D256w0iJTIrKkodDBwuRa5sIM4xC2ZJAjrRbAwfdrpPK8uVRlIkgAhdJ",
+      "_id": "69593bd61c508c5d5e8e6b05"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:49:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "446",
+    "etag": "W/\"1be-e0cysLAlCXmR/P6pJzXn3m4Pw9Q\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jesse.Windler@hotmail.com",
+      "name": "NVlkK",
+      "country": "France",
+      "city": "E",
+      "street": "G2sZRx9z41zgsmYG0dbLr0rnt8POt4phKpgHA",
+      "house": 156,
+      "flat": 3,
+      "phone": "+6713225465",
+      "createdOn": "2026-01-03T15:49:44.000Z",
+      "notes": "WYORPs0nSaQhJZRIDGTSRhy3GqNtOpJ6YQFa864N3gOrLRofCkVKl6HsgEuCP0QCo5JLKL2I9MtuV0ib6lBAZobBCj35B2J85H4FRSJ3vnqDAbiNpR8ejCMxEQQVFb8JqxK971JysW8",
+      "_id": "69593a981c508c5d5e8e1b4a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

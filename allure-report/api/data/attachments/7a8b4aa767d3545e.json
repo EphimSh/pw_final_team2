@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:57:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-WXPxX9QLuWD1edFJDEqKLqR4wRI\"",
+    "connection": "close"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat98794",
+      "amount": 907,
+      "price": 25401,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T15:57:41.000Z",
+      "notes": "RHLRMGT3Ga7EqtjQbabdfxF4LVOuzv1gFO3oudXLJO3A2RMDs6W7W62mXgHV894nHt0Dnt7cFQ3szoiWKGseIpKSsDphtS94oTQZGoHU9pBJ3GiGvveRuWYNhIuJnlep8iJuMzP8KbsVvw6gtEnID51LBeejiS0jPnw4BKnjpXucpZtiPPun7qeFzGaOVZhHZDbvSDZLbiaSpNTPqwQrYr2yqBqu7EJqF4KlfnA2UAJYD6IlkvTsgVbA76",
+      "_id": "69593c751c508c5d5e8e8003"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

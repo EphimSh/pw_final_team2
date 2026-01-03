@@ -1,0 +1,89 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:50:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2000",
+    "etag": "W/\"7d0-zW0wCz4hBrQodDUoQRe+hF4kmbs\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "69593ad31c508c5d5e8e223c",
+      "status": "Draft",
+      "customer": {
+        "_id": "69593acc1c508c5d5e8e20fe",
+        "email": "Alden40@yahoo.com",
+        "name": "dDShhPQnRtJMAVhfpnq",
+        "country": "France",
+        "city": "GWwlpxN",
+        "street": "UZjUG5QEhQTV",
+        "house": 106,
+        "flat": 9,
+        "phone": "+5969716118",
+        "createdOn": "2026-01-03T15:50:36.000Z",
+        "notes": "kBxMaZ5ulz3aL5xHEFDeCr459jh9OjFK8sW8lGjOyGz2Q27aVb4g"
+      },
+      "products": [
+        {
+          "_id": "69593ad31c508c5d5e8e222d",
+          "name": "Chicken94258",
+          "amount": 445,
+          "price": 59457,
+          "manufacturer": "Sony",
+          "notes": "HjRhFqTADjBTCmKOZ1HPnOw5jddXgXlio8EpXWqL1wc3StRX4MIV8eYufhEy6IAIED1s2BPwCRcrWkpazRKYbiMMQf4kkvnYUG7KggExWGfpHs2YnMyzSYrZPI4hWOOGyuXrxiSxt3DxDyZluXdjFH5msF93wMqZEbuJxgoPeFxHMG10FkDA6g8WMYtzCc2CPZkPus9ewkSIAij0PGxNkSGgSgho8v7DQeSM5Y0MDn0XyRUYWYtKVXMSyR",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 59457,
+      "createdOn": "2026-01-03T15:50:43.000Z",
+      "comments": [
+        {
+          "text": "ApEJB0PfYSazm4WlM0ZbbLEh7dMS4YNyryAM4Hp7kxiViH6WNtNEsGrYKLnnPwhZrEtZonMd3gJ9lN9pec5uHYHoJb4IHMjoygpyzZS4arxCIJXk0Ule8yb1PU4aPREXmO6axH4oZGFjIthhVMWsH1XaPpKgWvI4ygmbuPQMQCgYdWcTFn1EOHsPyDemxQzsJ1U06N8OGGOx4fxsZ6ot4LI3P7CwNeS04lJuCFzDYduStei5T",
+          "createdOn": "2026-01-03T15:50:43.000Z",
+          "_id": "69593ad31c508c5d5e8e224c"
+        }
+      ],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "69593acc1c508c5d5e8e20fe",
+          "products": [
+            {
+              "_id": "69593ad31c508c5d5e8e222d",
+              "name": "Chicken94258",
+              "amount": 445,
+              "price": 59457,
+              "manufacturer": "Sony",
+              "notes": "HjRhFqTADjBTCmKOZ1HPnOw5jddXgXlio8EpXWqL1wc3StRX4MIV8eYufhEy6IAIED1s2BPwCRcrWkpazRKYbiMMQf4kkvnYUG7KggExWGfpHs2YnMyzSYrZPI4hWOOGyuXrxiSxt3DxDyZluXdjFH5msF93wMqZEbuJxgoPeFxHMG10FkDA6g8WMYtzCc2CPZkPus9ewkSIAij0PGxNkSGgSgho8v7DQeSM5Y0MDn0XyRUYWYtKVXMSyR",
+              "received": false
+            }
+          ],
+          "total_price": 59457,
+          "delivery": null,
+          "changedOn": "2026-01-03T15:50:43.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

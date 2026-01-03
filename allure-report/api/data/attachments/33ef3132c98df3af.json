@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:49:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "489",
+    "etag": "W/\"1e9-tTyPgdob7A3czGzyxnQkueoa/G4\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Myrna72@hotmail.com",
+      "name": "EdkrwcpejRRbyDrauKNaLCUnosuGWBdAvQWLMiTF",
+      "country": "Russia",
+      "city": "YNiPePiiOLFzLtTqO",
+      "street": "YoucfJle1l0WMAgYGk5SCjn7ba5gze7F",
+      "house": 157,
+      "flat": 1,
+      "phone": "+8873636011",
+      "createdOn": "2026-01-03T15:49:21.000Z",
+      "notes": "OvQrtTx9ztnX5p68ZXpKR5W6qKQEkiBphiuXVeDnDlJVYMpIupxxqxxaBXArtNnl1U55IE4oGIqaTuKipXf8olggkuDhaLsOOe0KHmFbPPYJZ99n8NYKFfuSocfIwajCG5tT5WUXMs06U6",
+      "_id": "69593a811c508c5d5e8e18d8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

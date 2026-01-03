@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:55:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-le2TR7qVBbH8CriPybIQJSHEN+Q\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer23643",
+      "amount": 540,
+      "price": 35949,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T15:55:00.000Z",
+      "notes": "ttkXMJDmZkOjFpjQSxt9qhUtq9zOUmFLCcqq22PPzx478bO4CKu1At9IjouLCqHXxZlSK0p5bJpYazGXadpsZgLYaKIocC09rU4D2P2XMDDmBIP76skEowwgwbmzypo4dMQNh4fwwXa7n1MjbTxn812C1IiudFVVsWHsjTYqYSPLPVtE1Y76ihIKcPducTsjYFO55UeL2LhGTBjX57kq09EqnsbdBxPPcgtLNI1Kn519dlLSmocOugtTlx",
+      "_id": "69593bd41c508c5d5e8e6af7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

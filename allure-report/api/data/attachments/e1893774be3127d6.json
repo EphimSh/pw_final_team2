@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:51:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-//nncoz/J5Sd6AmkINExpSw4ucA\"",
+    "keep-alive": "timeout=5, max=79",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap28803",
+      "amount": 339,
+      "price": 76325,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T15:51:06.000Z",
+      "notes": "SGeaMyvQXuHvhC60fuOlds4s29cDmmBeUWSJlakbHkCxibgjG9f0sOz7IopiBCQSHcU7vgd7aa3OY2mFO12d2kyWsBbpXb3WhW3M9PK3q0ygxCtyIbp6uu36kbFuvVHEvtelTsHotTYCeE3hl2d96CqkZv351aSTjGydYr6YIGP9dOuNShN8oMRFRUxa4i6fvjKFA61Zcs5lB2bkHfsSQhPVP2Zy6DnrCaUfNwIQCstyCiY27wqKu3Tx58",
+      "_id": "69593aea1c508c5d5e8e2ac6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

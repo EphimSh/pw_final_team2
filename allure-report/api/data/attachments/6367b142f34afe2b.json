@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:54:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "365",
+    "etag": "W/\"16d-iTmz8Ycf2WyTowp0b6kGx4fq7vU\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Tatum.Becker6@hotmail.com",
+      "name": "QeDrKyiWACCCFtrDhDaYfPei",
+      "country": "Germany",
+      "city": "q",
+      "street": "RACnfbH8WXfvCxgfIGE8eCx3NBHCGfXylmrhyUmr",
+      "house": 47,
+      "flat": 7,
+      "phone": "+7997351455",
+      "createdOn": "2026-01-03T15:54:49.000Z",
+      "notes": "RZeQA0CvL4qLBssSQlcIDnlIKtmHUJuyUo4L",
+      "_id": "69593bc91c508c5d5e8e69b6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

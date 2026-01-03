@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:49:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "324",
+    "etag": "W/\"144-vyyfGZFBR2bAvoLB5Yvj7OZzsXk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Saige_Rath1@gmail.com",
+      "name": "CQogubjTfFYGZJHcFsUGDFZvwswulAkVMqYmDVsk",
+      "country": "Germany",
+      "city": "dXDWGj",
+      "street": "gbojJ3nV0",
+      "house": 163,
+      "flat": 9,
+      "phone": "+9007550298",
+      "createdOn": "2026-01-03T15:49:17.000Z",
+      "notes": "8LI7D3kJ",
+      "_id": "69593a7d1c508c5d5e8e1811"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

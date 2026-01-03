@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:50:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-4ZHWZb0ANi3SHwmPB+I/eZCajJU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels73044",
+      "amount": 500,
+      "price": 85600,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T15:50:28.000Z",
+      "notes": "iDmcZoFBIu6jEk0nw2yvUhv0WyUz3LbOoVMjXYIViIhZTM4Nc8TR4RSvLUEC2UOoxX9XsspVYeLCFBQlfhFrvw1rsxSlvthTOx8hLgsNDEmK4sYTqaMNVVEnJzZIKFaiO4hNw8qmdf64zGZUL2se5clRGoF4fF8qYuj26207YQ7uKaTheT7SgN0lM3McqWJn2sCaVfDiAh4QB9bWgxQ4EJgjavdk7xF0kGjlh0eAdoauYJ9gvCuqmxC4Dd",
+      "_id": "69593ac41c508c5d5e8e20c8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

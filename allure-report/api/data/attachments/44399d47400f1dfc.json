@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:52:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "537",
+    "etag": "W/\"219-4eIxj8fwq1moTEzmzctbfisZ718\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Teagan_Mayer52@hotmail.com",
+      "name": "IyYjBrwOfjOckjbjf",
+      "country": "Germany",
+      "city": "RwUX",
+      "street": "BfA7qsknUqTFnTRVuWNUlO3vRSJ4p",
+      "house": 120,
+      "flat": 6,
+      "phone": "+8634058342",
+      "createdOn": "2026-01-03T15:52:07.000Z",
+      "notes": "u7ndKg0EX3xxi9eBDu1yPqdZb5CtYpy3nDr57bC0U5L9xy6pVNfFD3TFSJg7KZ1Hhyx7WWTYocroSNY12rw2I0WBBw9hZlHLNnCEX5gomMtyQ03h1mQoiU5ruAWj2nDHpX9cdkZUfLdvbFoGQM9xZMc7d6mo5alxKs8CjidI9RwN2iDiWJ6Sevxc9rCyC3N8iD6cbX04O83mwI0EJO1ZSlGh1lhK8",
+      "_id": "69593b271c508c5d5e8e3a39"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

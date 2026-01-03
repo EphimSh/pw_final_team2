@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:54:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-wupdqPq8dDUavsVfiBk1lLs8x2w\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves40428",
+      "amount": 782,
+      "price": 57507,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T15:54:40.000Z",
+      "notes": "FcmvpTzzQUidGrtrmpZyDsFIMvsxCkWWl6O6zPOntUx0nnnYPbp2BO2uF2u5Ys0Lo2NwZLIQgUQ6aDxFa8KG6vIojKHsSs9ZnMPYvXVVYeGjIGV0ef3vYpa9eOthLwsXzegJrc5zgzzEkjEOXYNt8nUK7ulah316n96PyNZEAcsEvgdFA9Q59GC4Jb2VpID0Nt82heS0ELWMLEaSG4Y7TxoqZ5iqevCq9iwpDguqsYgT2exKcWViH37WjI",
+      "_id": "69593bc01c508c5d5e8e6522"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

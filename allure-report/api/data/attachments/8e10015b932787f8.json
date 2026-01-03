@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:56:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-w86fkHmq6RQuPExjfuDEne2AXY0\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt31318",
+      "amount": 953,
+      "price": 581,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T15:56:48.000Z",
+      "notes": "3N8NETiS7kIvTdGhrBH9GFueYlJC2YMbKXTTWm8tSxLFEU1TTOh3YHmfxH7xjRUpDlgd8Rm7zQFi2aVEP2csOIb54RYZvQKq3jjCYFevK8iSIU1YjkSGPLnzgOX1Z5lCnc6viLBFa7NcZQz7Kf5NDenqLXJRnvHFjbVIBLJfGcRDa6WspljN3cy33dYDHld6bs8sCHxTkLmcoxEgNcLsR0YEsLUSWMQPIk3omRDAafVn8Qo8wBwNYpOkaY",
+      "_id": "69593c401c508c5d5e8e7bc2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

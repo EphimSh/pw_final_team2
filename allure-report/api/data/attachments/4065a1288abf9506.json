@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:57:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-tQXnn/8m9xMfTE9hzuk2sSmc5QE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "69593c581c508c5d5e8e7d7a",
+      "name": "Bacon10861",
+      "amount": 190,
+      "price": 53980,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T15:57:12.000Z",
+      "notes": "rOBcGq4QzGhQGxIdc7HEtYiwuMsRNTownEuHfptPRuoYgCDg9yCOerNPTO4IcEHCKRf8zM3fLZaK4sUIoH60I2zybvNI2wcEWzHbKAYgVx4pUMW3VbbWSgiASySA7cUglF0b1xZevBm9siv1SV35pO0ADpvrj3TchBntfUODg9mNvtzFxJQbCxm8CszP3NeX8OrsYb6MBL0AuAn8EA5weGrxlDWwxKqRmGfBYE9A5NBnLY80w1DsOzt7dW"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

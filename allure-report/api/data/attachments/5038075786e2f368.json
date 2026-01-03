@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:52:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "349",
+    "etag": "W/\"15d-rwr5x+6hNl/WWd69eqsh0/LuhLw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Daisha_Considine@gmail.com",
+      "name": "onhjSmLLhtvXUjzycbSOVBWBKLapP",
+      "country": "Great Britain",
+      "city": "HooO",
+      "street": "MVVbjM2K3",
+      "house": 19,
+      "flat": 9,
+      "phone": "+5412057812",
+      "createdOn": "2026-01-03T15:52:22.000Z",
+      "notes": "m21q472T4Db4VoseJdS93feafgNuQb4tFVdK",
+      "_id": "69593b361c508c5d5e8e3fae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

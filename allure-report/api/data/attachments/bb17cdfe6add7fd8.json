@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:57:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-593HwphjBH8DHZ/QXj7LRfu180s\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish7811",
+      "amount": 467,
+      "price": 16171,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T15:57:02.000Z",
+      "notes": "NUGWMYuwEkkTEPqXaXFNWXIOztTGGJFt6bZdDnkqM7fpSVYkDo37egN0HgGNHBVjClbl7kkskDan9UFXeNmffwG6u12ztODD0uIfYreEx8E9D51hGOqnIVQm0li32hYIxAQMysYsspXXnEWrggzXMmrOJBY3jMItWzgNvLQ0ao4c2MbTUWApJsbUclvrjCB1YWTmkhYCnHHYU2TcHIG2R6yZsOyO9j8c6eY2gfql3iZ84JoeV7nKdSsnGl",
+      "_id": "69593c4e1c508c5d5e8e7d25"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

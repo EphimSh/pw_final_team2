@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:57:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-W/Wro/OQXPo1ahi9FCFHMpoOtkk\"",
+    "connection": "close"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips37823",
+      "amount": 786,
+      "price": 71635,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T15:57:41.000Z",
+      "notes": "gbQ5gJ3TnIQShVyMjhTuRVPHwtPRWALEd1U2zm00GauVq8QWg3nEVzu02kUPOGpR50gK1ffd8JsygfZmS5YFyqPpFy3G8uwW78tRzWzoivSXrWrSkobMtkChvqwx0HqpZu1dwOCfVdPqsp2ISjv4fHpTJNir0GwE7layvmAywuxFVQDBC4HXNuDVgHKzHcUzl9W37JIcGp8plQr6LACvTZCSwVfXKMbHKCcECLMIvCxA6KfZ5scdGA9oIT",
+      "_id": "69593c751c508c5d5e8e8001"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

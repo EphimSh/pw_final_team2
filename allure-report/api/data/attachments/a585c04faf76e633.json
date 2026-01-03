@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:50:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "362",
+    "etag": "W/\"16a-Hjkt1Hn6VdyXn3TeJNitoj22RmI\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jerald14@yahoo.com",
+      "name": "FNNIlyvQSVX",
+      "country": "Canada",
+      "city": "FuoLzrZSBTQ",
+      "street": "HpPeLBkS2ZvsjjQCDxeLWvk6J",
+      "house": 106,
+      "flat": 3,
+      "phone": "+2111322749",
+      "createdOn": "2026-01-03T15:50:48.000Z",
+      "notes": "KK5mrHHWqj18cYF3fno7UaJYSFFkUURbt2PdxNQdFdpEXZieS8TaLWbxBC",
+      "_id": "69593ad81c508c5d5e8e234d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:51:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-qditQSdTUOFaOxAnw5E2LHl48Ww\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car76279",
+      "amount": 453,
+      "price": 58311,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T15:51:42.000Z",
+      "notes": "oTIXMI2b5l2nEGZwpQrAifaaZBc1rphYo9RUwgCOhbwHISu8A2nr6PtAd0LAk2rtHihvv8wBXdC4m2925CbxO0GspUYLCj9VrbWi1TZ5TFYgZxjRgaTYepzOklOeZQc1NpmhtxUEbGuVg1PB6KlmVJTuQ5yKKBlQH0CQyVB8dPSBA3HNWO8hGLYijp19EKc0ObuQDcu3rGZhp7T8u350zs9WHrS3VvdbIng4XLoNechflAw93cK1ePLs0Q",
+      "_id": "69593b0e1c508c5d5e8e350d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

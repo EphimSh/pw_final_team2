@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:55:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "372",
+    "etag": "W/\"174-hSUZnXNSB2ZNZFc5Ykf75wKwyrI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Allison_DAmore26@hotmail.com",
+      "name": "oeXUptAE",
+      "country": "France",
+      "city": "gtfuo",
+      "street": "dj9xQXtvPzoDe3j7JqVCKXyxRZAHzi580",
+      "house": 146,
+      "flat": 1,
+      "phone": "+3046356016",
+      "createdOn": "2026-01-03T15:55:10.000Z",
+      "notes": "Vh59Oqwtd0IvMYl3SjkUhgxzMYUFLvZGEBrP9WntDwqZEiPbwmLrjEtRIKe",
+      "_id": "69593bde1c508c5d5e8e6d1e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

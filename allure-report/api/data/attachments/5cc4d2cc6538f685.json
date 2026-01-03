@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:52:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-bvPaMJdRpVTqWv9HjWANIeuA2eI\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Elyssa.Huel@hotmail.com",
+      "name": "QoxLrGdCjDVZ",
+      "country": "Belarus",
+      "city": "KbWacBBwPKSGPkw",
+      "street": "2GOX71FsXusl0rEHFLpIDQJxW0P",
+      "house": 40,
+      "flat": 9,
+      "phone": "+0913503054",
+      "createdOn": "2026-01-03T15:52:39.000Z",
+      "notes": "CQBwZc10sISnFkf1Tbv6wgxxi5Own3NfL6JppMiwkJWqE5RUhz1VCuvyeKGMu6qVFKMiZP8Q5dk8QBwaUw89ufs5USy07iNNV5pp0klPyYc3R25ndhRYcD53tARwC77wU8H4r9",
+      "_id": "69593b471c508c5d5e8e4353"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

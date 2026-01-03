@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:49:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "467",
+    "etag": "W/\"1d3-rojDirSHiPLf9rZ3xwzqNYVi4es\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kyra.Hodkiewicz@gmail.com",
+      "name": "vgwPgvkoKoRuu",
+      "country": "Great Britain",
+      "city": "T",
+      "street": "vJP1aD7KIqJjNVpD0dS",
+      "house": 15,
+      "flat": 7,
+      "phone": "+0668003560",
+      "createdOn": "2026-01-03T15:49:22.000Z",
+      "notes": "Kv6o18iCbtmx2UIN9eBKfc55woVVrLEF5mwMCAB8eabJKLtBueiSo3WLfsGdhMqkC9bTZSI7VdffAhHihnKFwnSyq16ka0xEvqhgDULq8KCW0jpZkoDXNccJeZGKPQFLN5kVFpqqp6pM6eaOULMiALtuaLB58I9YxDES",
+      "_id": "69593a821c508c5d5e8e1940"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

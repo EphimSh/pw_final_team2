@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:51:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "481",
+    "etag": "W/\"1e1-cDyuX5U1TRyt9oE/at4C69Q6B9c\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "General.Yost@yahoo.com",
+      "name": "vXkdNbfkUTwuswi",
+      "country": "France",
+      "city": "nfiosSLDtooJBNl",
+      "street": "tnoJGqIAnmNRMoSqCZJKCAQAmdO8is4yU",
+      "house": 110,
+      "flat": 1,
+      "phone": "+8162803388",
+      "createdOn": "2026-01-03T15:51:35.000Z",
+      "notes": "ErASK44v8ykUpOGKzJuFRUIkovEM77hYMowZLIsXSPH06FjZ9iYzcRDt0C59t6gCPLBBhriQPD9nq7fvl2pIMaF36GvGorBX2hq94pN6wlFp2T6T2ZAhkaltqpqyCm8eATbUDwHGe2LUSVvXIXnm0Qf4ceeRT",
+      "_id": "69593b071c508c5d5e8e3425"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

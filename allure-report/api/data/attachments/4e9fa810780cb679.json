@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:54:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-ZwQofk1RB4Pw9s0smlkxR+LvLr8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese26895",
+      "amount": 909,
+      "price": 3561,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T15:54:17.000Z",
+      "notes": "WzzFc8BFYKZJLK3ywIRNQoLKfNenMaWFzuLtn2xpUvdvmSNCAK0mJQRTfjq8GKYtzhwLCqvqEIC8Lsa0XaarWRc1ZvJKaJ3H0OTmPnIuWS2TCZ73R2LKlEsdEqP0dqeH6QLqap8MRXyUcsKnTxJdqBX1ypGicyXXFMO31J4DsHgxfpxZkx2JYKGNMQWzDsg6WB7JyVqs0fsyd5VjjJnwozx0UeWiJEVxjgdO3XZcYC0xJlsSvSUpwbCmN7",
+      "_id": "69593ba91c508c5d5e8e5e35"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

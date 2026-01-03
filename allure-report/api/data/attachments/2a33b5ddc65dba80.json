@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 15:54:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-v77BxYt92cq0ATR9VGZYLzAt1hY\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon39494",
+      "amount": 885,
+      "price": 10993,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T15:54:53.000Z",
+      "notes": "P4Qk8QWLhT6mWyLHrloiCTabZ7SLda30s2zlbGrNFrpaNqmlm9kv0UrAGdZ0DJhQLubVt9UJXVfdQEZHHP8bngbJsasLKtZB7mfdWqa3kLUZ7DlUZreNFfwp31boKDvCSb4KJi1YwLENBdhQcLb6WODzk79J3AQnWqmEAVFyxn0JHiGXJ4554krY6SgsNtDuPGSjV0RIxzuz68boJwvWySOhmHu3mltdLlE3MAtLqDY7OGSbOG8MSd7h0v",
+      "_id": "69593bcd1c508c5d5e8e6a07"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
