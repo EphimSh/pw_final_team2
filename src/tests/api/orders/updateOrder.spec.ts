@@ -1,13 +1,12 @@
 import { generateCustomerData } from "data/customers/generateCustomerData";
 import { generateID } from "data/generateID";
 import { generateDeliveryData } from "data/orders/generateDeliveryData";
-import { generateProductData, listOfProductsId } from "data/products/generateProductData";
+import { generateProductData } from "data/products/generateProductData";
 import { errorSchema } from "data/schemas/core.schema";
 import { createOrderSchema } from "data/schemas/orders/create.schema";
 import { STATUS_CODES } from "data/statusCode";
 import { IOrderCreateBody, ORDER_STATUSES } from "data/types/orders.types";
 import { expect, test } from "fixtures/api.fixtures";
-import { getRandomElement, getRandomElements } from "utils/random.utils";
 import { validateResponse } from "utils/validation/validateResponse.utils";
 
 test.describe("[API] [Sales Portal] [Orders] [Update Order]", () => {
@@ -18,6 +17,8 @@ test.describe("[API] [Sales Portal] [Orders] [Update Order]", () => {
   let productID: string;
   const customerData = generateCustomerData();
   let customerID: string;
+  let extraProductIds: string[] = [];
+  let extraCustomerIds: string[] = [];
 
   test.beforeEach(async ({ loginApiService, productsApiService, customerApiService }) => {
     token = await loginApiService.loginAsAdmin();
@@ -32,8 +33,16 @@ test.describe("[API] [Sales Portal] [Orders] [Update Order]", () => {
 
   test.afterEach(async ({ ordersApiService, productsApiService, customerApiService }) => {
     if (orderData) await ordersApiService.deleteOrder(orderID, token);
+    for (const id of extraProductIds) {
+      await productsApiService.delete(token, id);
+    }
+    for (const id of extraCustomerIds) {
+      await customerApiService.delete(token, id);
+    }
     if (productData) await productsApiService.delete(token, productID);
     if (customerData) await customerApiService.delete(token, customerID);
+    extraProductIds = [];
+    extraCustomerIds = [];
     if (token) token = "";
     if (orderID) orderID = "";
     if (customerID) customerID = "";
@@ -45,9 +54,9 @@ test.describe("[API] [Sales Portal] [Orders] [Update Order]", () => {
     orderID = orderResponse.body.Order._id;
     const lengthHistory = orderResponse.body.Order.history.length;
 
-    const responseAllCustomers = await customerApiService.getAll(token);
-    const newCustomerId = getRandomElement(responseAllCustomers)!._id;
-    orderData.customer = newCustomerId;
+    const newCustomer = await customerApiService.create(token, generateCustomerData());
+    extraCustomerIds.push(newCustomer._id);
+    orderData.customer = newCustomer._id;
     const response = await ordersApi.update(orderID, orderData, token);
 
     validateResponse(response, {
@@ -57,7 +66,7 @@ test.describe("[API] [Sales Portal] [Orders] [Update Order]", () => {
       schema: createOrderSchema,
     });
 
-    expect(response.body.Order.history.some((el) => el.customer === newCustomerId)).toBe(true);
+    expect(response.body.Order.history.some((el) => el.customer === newCustomer._id)).toBe(true);
     expect(response.body.Order.history.length).toBe(lengthHistory + 1);
   });
 
@@ -68,8 +77,10 @@ test.describe("[API] [Sales Portal] [Orders] [Update Order]", () => {
     const previousTotalPrice = orderResponse.body.Order.total_price;
     console.log(orderResponse.body.Order.total_price);
 
-    const allProductsResponse = await productsApiService.getAll(token);
-    orderData.products = listOfProductsId(getRandomElements(allProductsResponse, 2));
+    const newProduct1 = await productsApiService.create(token, generateProductData());
+    const newProduct2 = await productsApiService.create(token, generateProductData());
+    extraProductIds.push(newProduct1._id, newProduct2._id);
+    orderData.products = [newProduct1._id, newProduct2._id];
     const response = await ordersApi.update(orderID, orderData, token);
 
     validateResponse(response, {
@@ -90,12 +101,14 @@ test.describe("[API] [Sales Portal] [Orders] [Update Order]", () => {
     const previousTotalPrice = orderResponse.body.Order.total_price;
     const lengthHistory = orderResponse.body.Order.history.length;
 
-    const allProductsResponse = await productsApiService.getAll(token);
-    orderData.products = listOfProductsId(getRandomElements(allProductsResponse, 2));
+    const newProduct1 = await productsApiService.create(token, generateProductData());
+    const newProduct2 = await productsApiService.create(token, generateProductData());
+    extraProductIds.push(newProduct1._id, newProduct2._id);
+    orderData.products = [newProduct1._id, newProduct2._id];
 
-    const responseAllCustomers = await customerApiService.getAll(token);
-    const newCustomerId = getRandomElement(responseAllCustomers)!._id;
-    orderData.customer = newCustomerId;
+    const newCustomer = await customerApiService.create(token, generateCustomerData());
+    extraCustomerIds.push(newCustomer._id);
+    orderData.customer = newCustomer._id;
     const response = await ordersApi.update(orderID, orderData, token);
 
     validateResponse(response, {
@@ -105,8 +118,8 @@ test.describe("[API] [Sales Portal] [Orders] [Update Order]", () => {
       schema: createOrderSchema,
     });
 
-    expect(response.body.Order.history.some((el) => el.customer === newCustomerId)).toBe(true);
-    expect(response.body.Order.history.length).toBe(lengthHistory + 2);
+    expect(response.body.Order.history.some((el) => el.customer === newCustomer._id)).toBe(true);
+    expect(response.body.Order.history.length).toBe(lengthHistory + 1);
     expect(response.body.Order.products).not.toBe(previousProducts);
     expect(response.body.Order.total_price).not.toBe(previousTotalPrice);
   });
