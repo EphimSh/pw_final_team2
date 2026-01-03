@@ -1,3 +1,4 @@
+import { errorSchema } from "data/schemas/index.schema";
 import { patchAllNotificationsSchema } from "data/schemas/notifications/getAll.schema";
 import { STATUS_CODES } from "data/statusCode";
 import { TEST_TAG, COMPONENT_TAG } from "data/types/tags.types";
@@ -25,4 +26,24 @@ test.describe("[API][Sales Portal][Notifications][Positive] Get All Notification
       });
     },
   );
+  test("Succesed getting notification list", async ({ notificationApi }) => {
+    const notificationList = await notificationApi.getList(token);
+    validateResponse(notificationList, {
+      status: STATUS_CODES.OK,
+      schema: patchAllNotificationsSchema,
+      IsSuccess: true,
+      ErrorMessage: null,
+    });
+  });
+
+  test("Request without authorization token", async ({ notificationApi }) => {
+    token = "";
+    const notificationList = await notificationApi.getList(token);
+    validateResponse(notificationList, {
+      status: STATUS_CODES.UNAUTHORIZED,
+      schema: errorSchema,
+      IsSuccess: false,
+      ErrorMessage: null,
+    });
+  });
 });

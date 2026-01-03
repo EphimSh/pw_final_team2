@@ -16,6 +16,8 @@ export enum NOTIFICATIONS {
   DELIVERY_SAVED = "Delivery was successfully saved",
   PROCESS_STARTED = "Order processing was successfully started",
   PRODUCTS_RECEIVED = "Products were successfully received",
+  COMMENT_ADDED = "Comment was successfully posted",
+  COMMENT_DELETED = "Comment was successfully deleted",
 }
 
 export const ERROR_MESSAGES = {

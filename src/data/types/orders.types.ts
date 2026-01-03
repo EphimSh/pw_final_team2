@@ -100,6 +100,25 @@ export interface IOrdersResponse {
 }
 export type OrdersSortField = "createdOn" | "email" | "name" | "orderNumber" | "price" | "status" | "assignedManager";
 
+export type OrdersTableHeader =
+  | "Order Number"
+  | "Email"
+  | "Price"
+  | "Delivery"
+  | "Status"
+  | "Assigned Manager"
+  | "Created On";
+
+export interface IOrderInTable {
+  orderNumber: string;
+  email: string;
+  price: number;
+  delivery: string;
+  status: ORDER_STATUSES;
+  assignedManager: string;
+  createdOn: string;
+}
+
 export interface IOrderCreateBody {
   customer: string;
   products: string[];
@@ -109,4 +128,13 @@ export interface ICommendUIData {
   commentText: string;
   commentator: string;
   createdOn: string;
+}
+
+export interface IGetOrdersParams {
+  page?: number;
+  limit?: number;
+  search?: string;
+  status?: ORDER_STATUSES[];
+  sortField?: OrdersSortField;
+  sortOrder?: SortOrder;
 }
