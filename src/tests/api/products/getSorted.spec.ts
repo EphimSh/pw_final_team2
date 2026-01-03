@@ -2,12 +2,11 @@ import { searchTestCases } from "data/products/searchTestData.ddt";
 import { sortProductListTestCases } from "data/products/sortProductListTestData.ddt";
 import { expectArraySorted } from "data/products/sort.helper";
 import { STATUS_CODES } from "data/statusCode";
-import { TAGS } from "data/tags/tags";
+import { COMPONENT_TAG, TEST_TAG } from "data/types/tags.types";
 import { IProductFromResponse } from "data/types/products.types";
 import { test } from "fixtures";
 
 import { validateResponse } from "utils/validation/validateResponse.utils";
-import { COMPONENT_TAG } from "data/types/tags.types";
 
 test.describe("[API] [Sales Portal] [Products] Get Sorted", () => {
   test.describe("Search", () => {
@@ -28,7 +27,7 @@ test.describe("[API] [Sales Portal] [Products] Get Sorted", () => {
     for (const caseData of searchTestCases) {
       test(
         `${caseData.title}`,
-        { tag: [TAGS.REGRESSION, TAGS.API, COMPONENT_TAG.PRODUCTS] },
+        { tag: [TEST_TAG.REGRESSION, TEST_TAG.API, COMPONENT_TAG.PRODUCTS] },
         async ({ productsApiService, productsApi }) => {
           const searchValue = caseData.getSearchValue(product);
           const response = await productsApi.getSorted(token, { search: searchValue });
@@ -78,7 +77,7 @@ test.describe("[API] [Sales Portal] [Products] Get Sorted", () => {
     for (const caseData of sortProductListTestCases) {
       test(
         caseData.title,
-        { tag: [TAGS.REGRESSION, TAGS.API, COMPONENT_TAG.PRODUCTS] },
+        { tag: [TEST_TAG.REGRESSION, TEST_TAG.API, COMPONENT_TAG.PRODUCTS] },
         async ({ productsApi, productsApiService }) => {
           const response = await productsApi.getSorted(token, {
             sortField: caseData.sortField,
