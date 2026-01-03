@@ -21,7 +21,6 @@ test.describe("[API] [Sales Portal] [Orders] [Get Orders by Customers]", () => {
 
     const customer = await customerApiService.create(token, customerData);
     customerID = customer._id;
-    console.log("Customer ID: " + customerID);
 
     const createdProduct1 = await productsApiService.create(token, productData1);
     productID1 = createdProduct1._id;
@@ -36,11 +35,7 @@ test.describe("[API] [Sales Portal] [Orders] [Get Orders by Customers]", () => {
     const orderResponse2 = await ordersApi.create(orderData2, token);
     orderID2 = orderResponse2.body.Order._id;
     await ordersApiService.assertOrderStatus(orderResponse2, ORDER_STATUSES.DRAFT);
-
-    console.log("OrderID 1: " + orderResponse1.body.Order._id);
-    console.log("Order ID 2:" + orderResponse2.body.Order._id);
   });
-
   test.afterEach(async ({ ordersApiService, customerApiService, productsApiService }) => {
     if (orderID1) await ordersApiService.deleteOrder(orderID1, token);
     if (orderID2) await ordersApiService.deleteOrder(orderID2, token);
@@ -48,7 +43,6 @@ test.describe("[API] [Sales Portal] [Orders] [Get Orders by Customers]", () => {
     if (productID1) await productsApiService.delete(token, productID1);
     if (productID2) await productsApiService.delete(token, productID2);
   });
-
   test("SC-065: Search order by customer name", async ({ ordersApi }) => {
     const response = await ordersApi.getOrdersByCustomer(customerID, token);
     console.log("Orders: " + response.body.Orders);
