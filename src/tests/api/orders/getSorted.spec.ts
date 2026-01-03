@@ -13,7 +13,7 @@ test.describe("[API] [Sales Portal] [Orders] [Get Sorted]", () => {
   test.afterEach(async ({ ordersApiService }) => {
     if (!orderIds.length) return;
     for (const id of orderIds) {
-      await ordersApiService.deleteOrder(id, token);
+      await ordersApiService.deleteOrderWithCustomerAndProduct(id, token);
     }
     orderIds.length = 0;
   });
