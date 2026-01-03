@@ -19,6 +19,7 @@ import { generateDeliveryData } from "data/orders/generateDeliveryData";
 import { expect } from "fixtures/api.fixtures";
 import { convertToDate } from "utils/date.utils";
 import { IResponse, SortOrder } from "data/types/core.types";
+import { ProductsApi } from "api/api/products.api";
 
 export class OrdersApiService {
   constructor(
@@ -264,8 +265,10 @@ export class OrdersApiService {
     if (commentText) {
       expect.soft(comments.some((c) => c.text === commentText)).toBe(true);
     }
+  }
+
   async assertOrderStatus(response: IResponse<IOrderResponse>, expectedStatus: string) {
-    await expect.soft(response.body.Order.status).toEqual(expectedStatus);
+    expect.soft(response.body.Order.status).toEqual(expectedStatus);
   }
 
   calculateProductsTotalPrice(products: IOrder["products"]): number {

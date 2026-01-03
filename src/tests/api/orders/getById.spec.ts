@@ -50,7 +50,7 @@ test.describe("[API] [Sales Portal] [Orders] [Get by Id]", () => {
 
   test.afterEach(async ({ ordersApiService }) => {
     if (orderID) {
-      await ordersApiService.deleteOrder(orderID, token);
+      await ordersApiService.deleteOrderWithCustomerAndProduct(orderID, token);
       orderID = "";
     }
   });
