@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:59:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-esFL676m10EjuxLmHX67XTPHvBc\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad40144",
+      "amount": 273,
+      "price": 77722,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T21:59:34.000Z",
+      "notes": "lV9cHuOhB05RDCMKt2iIbYf4K6rV8CXGB2QjoJM2bXDxhzcwI0CN4aBzi0vfTPBLwmUr7MZgFaILgcUrCg4qIo5svjSQ2PoNMCOKoQgYclnjy6UVOeeF6HW8FRm2UkMXk9xQCEuEizdfIzpUMCg6xUpsSJQ7y378mDlxmD6G6OPVaWzgFJJgof4kzrNFEF8o79ZLC1bi8qYpvc4T0DgyGWIYPuC1hsas3vLrtn10ztMnr1MYMoE3jnOaZ1",
+      "_id": "695991461c508c5d5e9a7da4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

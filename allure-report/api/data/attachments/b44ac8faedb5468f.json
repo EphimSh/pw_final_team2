@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:53:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "367",
+    "etag": "W/\"16f-zLQE/yyc6L0EnVSMR2pKnG5aCR4\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Aleen6@gmail.com",
+      "name": "IXJITnGfqsTVqznJFVhPdGRFPWFdsvGBorFNJHUg",
+      "country": "Belarus",
+      "city": "PQoMIZWkpuFqxSz",
+      "street": "HAIvpE0wtvpTIaLqlvCtco59eDBqln5giWEegcI",
+      "house": 119,
+      "flat": 3,
+      "phone": "+9703955956",
+      "createdOn": "2026-01-03T21:53:20.000Z",
+      "notes": "W3zbplgiRx4iN58Ze",
+      "_id": "69598fd01c508c5d5e99f2c2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

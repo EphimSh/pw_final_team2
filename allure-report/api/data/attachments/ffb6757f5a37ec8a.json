@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:54:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "393",
+    "etag": "W/\"189-DNnzwZbe/3jj4gjzOlOColro8Ww\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Vivien_Jacobson@gmail.com",
+      "name": "VmeCAzvlGkgdOjruqL",
+      "country": "Great Britain",
+      "city": "UaEOkDKsfJ",
+      "street": "L",
+      "house": 92,
+      "flat": 2,
+      "phone": "+5214145159",
+      "createdOn": "2026-01-03T21:54:08.000Z",
+      "notes": "5G4RmAoBBHNzISzRKIDFFLMKG5w9eyl6x8C9Us7JGIAF4pbUV08UZvdVh52QvCUNjm6MO7ZTclRG23Te2qq17EqoCjjw3U",
+      "_id": "695990001c508c5d5e9a0304"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

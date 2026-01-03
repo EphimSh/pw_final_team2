@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:53:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "314",
+    "etag": "W/\"13a-OfSs8ldWkKMcWSe+LSAi0VFytP0\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Rowena_Fadel7@yahoo.com",
+      "name": "CPkErwBPnjECjutGsG",
+      "country": "Canada",
+      "city": "DKAqUiU",
+      "street": "Kb3A1mcY7e1h04yYIvKWFWhp",
+      "house": 89,
+      "flat": 2,
+      "phone": "+3099142002",
+      "createdOn": "2026-01-03T21:53:19.000Z",
+      "notes": "ANsO",
+      "_id": "69598fcf1c508c5d5e99f2ba"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

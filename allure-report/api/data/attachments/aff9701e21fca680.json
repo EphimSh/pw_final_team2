@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:53:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-UAnSUzVRCYaHt/o4aPYNzA3b8TA\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike76639",
+      "amount": 847,
+      "price": 63048,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T21:53:28.000Z",
+      "notes": "bf3VphQNi1iQ4AF1wWegcgh6y4WDHXlLxzTRCSiTsENZlc4mWe3KMT6UuHL7GdcQ7qSMrZF3YIxSFk5eXm30naJvx3Mm3UihnGgJR0K7gGOyTL8TEi3NOf2HhxB7McwgVY2Eda68do3zge4kcK9IJOo0I9zyI3yYlYqIKgXbJzUNS0DzZJU8mh7LlFezDZCHvszMLkfcYgKuOZfn9BJ4s76GDcHQE9qycY77cEcmn7zoQu4U87zxpij6Q0",
+      "_id": "69598fd81c508c5d5e99f44c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

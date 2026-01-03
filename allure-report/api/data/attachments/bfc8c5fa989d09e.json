@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:57:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "364",
+    "etag": "W/\"16c-tTH7w3EHvmadoj9GejDZ3+/OZoQ\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Alysson15@yahoo.com",
+      "name": "JjDnGTQTkhYEncjn",
+      "country": "Germany",
+      "city": "JYInzUmyWoSXZZCt",
+      "street": "iyyAo0tYYFN9omeqXayfvFBySZNJvXSFDUcOdRgq",
+      "house": 185,
+      "flat": 7,
+      "phone": "+8503956135",
+      "createdOn": "2026-01-03T21:57:05.000Z",
+      "notes": "d2cHtLHRdNaUxOOoguj2x4PuvgXqY7kM2",
+      "_id": "695990b11c508c5d5e9a48a2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

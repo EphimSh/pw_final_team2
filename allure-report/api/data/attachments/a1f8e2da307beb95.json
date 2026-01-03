@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:56:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "388",
+    "etag": "W/\"184-cAgwlbrlZdAZYbJrfKa5RkfyvJc\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "695990901c508c5d5e9a3b5a",
+      "email": "Houston14@hotmail.com",
+      "name": "Ivan Ivanov",
+      "country": "Germany",
+      "city": "lmxNqjlPbKBgiLRagdn",
+      "street": "OsiNX5Tkz0EY2bHnBYJ",
+      "house": 66,
+      "flat": 7,
+      "phone": "+8372366029",
+      "createdOn": "2026-01-03T21:56:32.000Z",
+      "notes": "cGnj5wcwEcaaQzCzmbPI8QGZHjWWyRuL20T41z315q3Y3s0ngPwD5utSkNUm3cPl28Oufjql6Y98gXs"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

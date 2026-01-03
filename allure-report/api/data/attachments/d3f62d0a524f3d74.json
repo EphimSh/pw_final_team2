@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:58:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "465",
+    "etag": "W/\"1d1-JaurotwVTfn3MVXms11ru0Bj8r0\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra2790",
+      "amount": 304,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T21:58:45.000Z",
+      "notes": "CB28kUP266uIWV57zi1ZpGXZ1GJSXsPfpWWjxYp082fI1Yp7AEr6qldwKoCccYZ1E4cI8STrE6YWwzSzRSdALkRhtrscHeuUnRFzfxyllmbqqn1FNWsjfUH61Rw0DGxyNrwu586lMJx4C5SoTNiZVlqT8x3a2NVL0CmMhwP2mqoZtfpNpbZkD4U9wGKMWivPfeB3YXEfrac2e31HqBY4nF6NOZtU0N78AgfyNxBwxxtFwUtIQv9o1lMFYI",
+      "_id": "695991151c508c5d5e9a6b01"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

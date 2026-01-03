@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:56:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-D7ivUbQXpKcfw4qLq51pTAzw8ps\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna86612",
+      "amount": 105,
+      "price": 14399,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T21:56:01.000Z",
+      "notes": "8tpzj9dVkyXiG1Z6Vc5jo1969Ydp2afbx5nT6pIzJAKOKhz8J9wEiOI5gjyo7VBmPwe5IKyU1scDmJUuxJcds4r0A0aPB7nQoX9CLgzWsIwkj6RJuDZdszqrJcFJwJMpkVs2ovQLv52a6zltHTDPaJGu6Wtb0t7EaTbVm12Xr8Op0Xy3m6aHYUQwo99PpElfqkKMSRkXKJonF9sFvWJwMRbf4QD0JjX9rdvhobRS191Z0BWTaPvY0LdbeF",
+      "_id": "695990711c508c5d5e9a2fde"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

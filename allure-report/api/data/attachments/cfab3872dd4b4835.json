@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:58:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "465",
+    "etag": "W/\"1d1-lb3H9Bd++C1k7QannM3FhTG+fpM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X1391",
+      "amount": 195,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T21:58:36.000Z",
+      "notes": "CaO9uolKVAqsnJBzyPvvxRzKqknjhuinQrgUaJ5uqosJm5Yb6SiVrqh3tdMMAB0lTJYW9k8Hy6kp3reZ2oXpXxVbyRLxQxwDfJMbjvpfeZCbwyTjIBycO9lZxxTSrt0evuwg0hD7dSStIx8VsGqyAgVMndq6JL64LRq1OOGZMSOb3Y6ZFeVGoHTGaUUr8jqLnMKmobpEOyBiogXyEWVSxJGPmgnDzI4AzJdKF6NOTT57HkqhOdR8iWcErr",
+      "_id": "6959910c1c508c5d5e9a69ae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

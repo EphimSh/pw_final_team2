@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:58:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-k/uzZorvwjrQrQxM5piko21SlP0\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball95721",
+      "amount": 885,
+      "price": 45934,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T21:58:26.000Z",
+      "notes": "JolflbFRnxrFg1feGBuJY6bMqZgd1GObht4wVXqmayIAjxqzQ3M0BMHaYdIrL4II5SCFLVNdAH1gXR3uMi4SI2wfcIB6kzZIl0lUbWaWIFEG9dn3e8snqvhrYQc2cIaJEvXCvweigL2cF59tFepwE4cr8KBKMz7pztX4erN1SLB5qfNYryNxzNWbViHmm4qAUPpMFoZEfz3Qrr5MR0UZCpQzYdoAdhi6yYQ73TowRf7ksPfief7P2WB0yX",
+      "_id": "695991021c508c5d5e9a65c2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

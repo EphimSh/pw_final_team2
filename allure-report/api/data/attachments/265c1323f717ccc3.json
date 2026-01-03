@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:54:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "517",
+    "etag": "W/\"205-A/5wRAJiOQbH4bubyqSdNNTf8z4\"",
+    "keep-alive": "timeout=5, max=26",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Winona70@yahoo.com",
+      "name": "jgtljvElThTi",
+      "country": "Germany",
+      "city": "BArYRqSVbENuuGiBASP",
+      "street": "AcyR7EDlNNZY8WTzmWE3LzQEEqfCbnjU",
+      "house": 62,
+      "flat": 3,
+      "phone": "+4123169842",
+      "createdOn": "2026-01-03T21:54:53.000Z",
+      "notes": "ydNCkG0hMHmR7FIJRSuHi9kSSn6jSZnmp3cLbjMZIbWOX2KkvtGlw9ZCTpAf1wNl4VHfjgIOS97HikukeS0EHHaG6RNrfIMSDJcPFVXAySOZyqFnM8c6nPVpSWqzRjovRSaacuW7JVgsKcahNFkeUC1m2uXyKPl8kOnKQtcMSTx4LtdirHkaXiQhum3Vmdw2Drs9K",
+      "_id": "6959902d1c508c5d5e9a140c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

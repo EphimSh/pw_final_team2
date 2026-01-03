@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:59:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "474",
+    "etag": "W/\"1da-jPBdh28JLnk7dKM2QkesNoQBQuM\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Microsoft Surface Duo 344627",
+      "amount": 653,
+      "price": 2200,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T21:59:48.000Z",
+      "notes": "AT0wzYUa85QAjjMvcpHSRPakJTUv7mAP2XedohBhASlAd81j2v3BductsU020AVoQmoRyleT4XsVJLXRecXw7ARDe2DoPf0xATIBlgU7fN6dOjSeV8KXEJr4oWvRixHxe13UFZt6EATPsIf2ljtYucsxjyydaqg7A0r0N15Eip6uZEwJiQUWvvr2HVKr0X0mDhtuODEqXh5nDlBuCqwtK3aLWl2ctpIyO4qJlpJMzHaT56vIONvxlA1CCu",
+      "_id": "695991541c508c5d5e9a817e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

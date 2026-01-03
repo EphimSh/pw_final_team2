@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:54:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "445",
+    "etag": "W/\"1bd-Uxj21nX3TF9+Xi3adoSC3gzFqiE\"",
+    "keep-alive": "timeout=5, max=78",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Guiseppe.Gottlieb@hotmail.com",
+      "name": "BObKCKvYmOUZCAxQZcskEykGI",
+      "country": "Canada",
+      "city": "YargNInNzOS",
+      "street": "XKs8aw3Jfu",
+      "house": 81,
+      "flat": 4,
+      "phone": "+0388416684",
+      "createdOn": "2026-01-03T21:54:28.000Z",
+      "notes": "NHlsgoMRBhBRvdddpGheDqrbeapnqprZBjpKdSd2fcCqPmKL4QgaBAe9qyL6Poyv17ig30S2qsuIKM45mpOBeV64xzPAtZdwTWyhy8LFFv8hH1TvoyacgkhbydNUiynm9DtP",
+      "_id": "695990141c508c5d5e9a0a78"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

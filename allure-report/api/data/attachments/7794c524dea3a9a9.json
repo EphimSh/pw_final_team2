@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:56:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-m4hcVnItMCh7XHb5OQIUtPVAHT4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese16070",
+      "amount": 890,
+      "price": 57140,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T21:56:20.000Z",
+      "notes": "5vNOOEZTF61K4SLTafPNJt5sEhvfq5UVU6mN2XxIANdYbQ8OqZIwuFk9ZYEa6ZpAeGKqsY5ASCgGf2QZ320MS6If3v0mJgI1P42VKmoHyq0ZBXkApTbZMBkCcsUPtgYNA72DzuQC05Mfw1CgvxzSJMAhazhXaOYK3zBEHkCDWJxYEnmrdfEW47pwJiXSPpSUlVTkEg3D5hPDWQnjLFjTgp5eLFiOh7EAMJn5Ux1iKOQ2tmTTyWgZGuYoU3",
+      "_id": "695990841c508c5d5e9a37de"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

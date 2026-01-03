@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 22:00:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-v/jLpSShnt8o23VvYye4t/ZjE4Y\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese7302",
+      "amount": 656,
+      "price": 91374,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T22:00:10.000Z",
+      "notes": "BqB5BpsKsjOVafWy04JmVLniZJHZXvjvPlKgc06UFCmdPIyQJSe2kgGYtDKUvHscWBNQfUAseGE6VaoUVQcrEzeHLJuYtVFjO0DG4k97uzkqv33nNDPLFwcWZCuPQYAfoCw4cxxbaEmq94XWuldJXjrtVAp31WqCj3goM3WKqWX8QctkiLJY5Xa2hF2OVg21V2kjxyNSGxYYCxAZRlBVUCPB535dv2wEscpYQXPkWz3vkhLSugrh4yMzSn",
+      "_id": "6959916a1c508c5d5e9a8b8a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

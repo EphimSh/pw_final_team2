@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:55:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-pLi6POw6S0jxYlmOua8zzN3WyvE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table92596",
+      "amount": 779,
+      "price": 74025,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T21:55:23.000Z",
+      "notes": "b9VcRawBSbrhb1T2Hnsc5p71Q117TfQXFRu0bRbWdGZmujxuM2gnskidDXEO0XRlVARRsD9xzPtTPwg6iak5L18eyKO1OpQD4EvnPxYLB91XiF44mHVkvWCnIO7sKDnDJv6tN8nOAWfnOHkNnr0RGGRnlQM3Twwt4fx8WsOO6ElJ08LxXFUsFVD4pF5HGn0GqFZsRSxRnROspYG0oYifL3CL674n0bhP4yhhvCduxjfkNHG2KBkkVUwQgf",
+      "_id": "6959904b1c508c5d5e9a20fb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

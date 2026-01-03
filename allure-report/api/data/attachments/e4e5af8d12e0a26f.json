@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:54:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-IhD1YA8UG+pCitTmAx/yjnE6G/Y\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes30329",
+      "amount": 520,
+      "price": 63553,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T21:54:52.000Z",
+      "notes": "5Kbf7Htb3ag942x4ySf8fLK8tEcyla5De7fCDD8RQOEd0KuDdyK5RUfKQTN3jOeNp0kIVAHiayBze8ZRF6gRPvP5KXpt3WJCD85nlfycVTVt3YlNj0GX2iAe15uQ89nK4PoE2EXSaD7uHHhqUSjS3av3TNrMF1iOtxpctQYXwrepnfbfZixguFztrzNobYAa4fmcefvBayWCaGrkMOeQ3D1fAnNJMJ6DnT6GDTw60rzrF1ABFrmdQ5xnfU",
+      "_id": "6959902c1c508c5d5e9a13fb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

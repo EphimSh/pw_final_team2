@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:55:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "306",
+    "etag": "W/\"132-xnFXtVCePnJ1qjrlfFa4Vd3I4oo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Garfield_Marvin44@hotmail.com",
+      "name": "lwDhLQnfRnfURDGGdgZvhkkkrh",
+      "country": "Canada",
+      "city": "KHC",
+      "street": "2pd",
+      "house": 88,
+      "flat": 3,
+      "phone": "+2290437093",
+      "createdOn": "2026-01-03T21:55:02.000Z",
+      "notes": "jMr7cTX",
+      "_id": "695990361c508c5d5e9a1804"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

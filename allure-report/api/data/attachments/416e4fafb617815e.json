@@ -1,0 +1,173 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:54:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3749",
+    "etag": "W/\"ea5-P4kWbwk/Q5n80YMWs6onssq82Vk\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695990271c508c5d5e9a11a9",
+      "status": "In Process",
+      "customer": {
+        "_id": "695990231c508c5d5e9a1152",
+        "email": "Kayley4@yahoo.com",
+        "name": "kpdAmAyTfIIwSjitp",
+        "country": "France",
+        "city": "eZh",
+        "street": "vmms",
+        "house": 191,
+        "flat": 9,
+        "phone": "+2334343688",
+        "createdOn": "2026-01-03T21:54:43.000Z",
+        "notes": "MMMy5dWh8CEvxafJZFKH31fCfPNPm7ak24AeUC6d3zhS7oxKjNPwePbbkpM9vzznD1XZ0ZQ4O8PSCeeiDg9Dy2JDWpOqfbRX3PDmFv7Jzlrj"
+      },
+      "products": [
+        {
+          "_id": "695990261c508c5d5e9a1199",
+          "name": "Pants28963",
+          "amount": 934,
+          "price": 28726,
+          "manufacturer": "Xiaomi",
+          "notes": "TDaUVtnLPlrlt9aBaUxYPmJzgLJP5c46svG14zoGm7XnvC9r7fQf88hhE7GUeX8H0AsLOGn0y4YRyJUzXvey8wC04ArjijOPeAumpsTqVmOoIxVxSPMYCxWPLeG2gi3zUu2UyNqwtRbplNDZqPhpdW9afS2rbA9onTzMSRbexZsQWUIwXKkBg6AP3UUwCQTfDJm05g1WswEDNKONLzrM4wRH8Ul6qlOS2agT7wHyXjOHWmiufzczcVPYib",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Russia",
+          "city": "Mock City kmdRCoXvx",
+          "street": "MockStreetSHIwNtHE",
+          "house": 114,
+          "flat": 11
+        },
+        "finalDate": "2026-01-08T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 28726,
+      "createdOn": "2026-01-03T21:54:47.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "In Process",
+          "customer": "695990231c508c5d5e9a1152",
+          "products": [
+            {
+              "_id": "695990261c508c5d5e9a1199",
+              "name": "Pants28963",
+              "amount": 934,
+              "price": 28726,
+              "manufacturer": "Xiaomi",
+              "notes": "TDaUVtnLPlrlt9aBaUxYPmJzgLJP5c46svG14zoGm7XnvC9r7fQf88hhE7GUeX8H0AsLOGn0y4YRyJUzXvey8wC04ArjijOPeAumpsTqVmOoIxVxSPMYCxWPLeG2gi3zUu2UyNqwtRbplNDZqPhpdW9afS2rbA9onTzMSRbexZsQWUIwXKkBg6AP3UUwCQTfDJm05g1WswEDNKONLzrM4wRH8Ul6qlOS2agT7wHyXjOHWmiufzczcVPYib",
+              "received": false
+            }
+          ],
+          "total_price": 28726,
+          "delivery": {
+            "address": {
+              "country": "Russia",
+              "city": "Mock City kmdRCoXvx",
+              "street": "MockStreetSHIwNtHE",
+              "house": 114,
+              "flat": 11
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-03T21:54:50.000Z",
+          "action": "Order processing started",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695990231c508c5d5e9a1152",
+          "products": [
+            {
+              "_id": "695990261c508c5d5e9a1199",
+              "name": "Pants28963",
+              "amount": 934,
+              "price": 28726,
+              "manufacturer": "Xiaomi",
+              "notes": "TDaUVtnLPlrlt9aBaUxYPmJzgLJP5c46svG14zoGm7XnvC9r7fQf88hhE7GUeX8H0AsLOGn0y4YRyJUzXvey8wC04ArjijOPeAumpsTqVmOoIxVxSPMYCxWPLeG2gi3zUu2UyNqwtRbplNDZqPhpdW9afS2rbA9onTzMSRbexZsQWUIwXKkBg6AP3UUwCQTfDJm05g1WswEDNKONLzrM4wRH8Ul6qlOS2agT7wHyXjOHWmiufzczcVPYib",
+              "received": false
+            }
+          ],
+          "total_price": 28726,
+          "delivery": {
+            "address": {
+              "country": "Russia",
+              "city": "Mock City kmdRCoXvx",
+              "street": "MockStreetSHIwNtHE",
+              "house": 114,
+              "flat": 11
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-03T21:54:47.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695990231c508c5d5e9a1152",
+          "products": [
+            {
+              "_id": "695990261c508c5d5e9a1199",
+              "name": "Pants28963",
+              "amount": 934,
+              "price": 28726,
+              "manufacturer": "Xiaomi",
+              "notes": "TDaUVtnLPlrlt9aBaUxYPmJzgLJP5c46svG14zoGm7XnvC9r7fQf88hhE7GUeX8H0AsLOGn0y4YRyJUzXvey8wC04ArjijOPeAumpsTqVmOoIxVxSPMYCxWPLeG2gi3zUu2UyNqwtRbplNDZqPhpdW9afS2rbA9onTzMSRbexZsQWUIwXKkBg6AP3UUwCQTfDJm05g1WswEDNKONLzrM4wRH8Ul6qlOS2agT7wHyXjOHWmiufzczcVPYib",
+              "received": false
+            }
+          ],
+          "total_price": 28726,
+          "delivery": null,
+          "changedOn": "2026-01-03T21:54:47.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

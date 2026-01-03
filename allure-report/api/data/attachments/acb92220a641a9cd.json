@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:55:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-26tmuyqeFifMtVvPAJXFioWtYbo\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt15521",
+      "amount": 996,
+      "price": 50490,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T21:55:47.000Z",
+      "notes": "TvNBPBftSN22KBQXQhhiONCf7gTUoxHgnT7JZeSNDs1YJz3DGBu1j5XrA3CX9gJDKkjI3Q7yjaWGF4JkdSboPrV9tGAnrUQkpL3WWBRJQhxcJ2YQUTYPlIkTdc7lai1hQQP1dCKMlvVsC8eYpQrCQD45sf2mVKKs953pDiPpZtfRVmszKmOCiY4C3HilPkM1dNjs8J2zSB5RDrXyH1ZZWC0pUj9dUjSV7tst2hDjJnkPuax78vBRvzTMgV",
+      "_id": "695990631c508c5d5e9a2a7c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

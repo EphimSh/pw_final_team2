@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:53:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-rgP9w1hlw4V2kdXn8F0u2mgmmFw\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse67318",
+      "amount": 57,
+      "price": 91810,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T21:53:42.000Z",
+      "notes": "KGSTd0a7T5vL2b8DIHqOFjg3gLNuAzKA9MjhKaMpxPuWWa5YFcAP45MjqDOUCxmMmZHKVjk6frK76K3IazSqH6d032MNGCqPSrL5pOyNtfvEJqN50sMYPLaeymIffG9hmOqY2Bk0YO5qSKnTOWH8D7UT5CNpACL7AcMJoMzZnndLWgjucLaQIUMTxtrUBWhCtC2mwrtItJBtuiNcEavP4WYRUAacWOBPVqWDpcy4aXOZPxMQArfw2fBSeU",
+      "_id": "69598fe61c508c5d5e99f9de"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

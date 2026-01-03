@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:53:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "519",
+    "etag": "W/\"207-c0Qtrdh39W5Dvlmny5c0CQi+cRQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Adonis82@hotmail.com",
+      "name": "l",
+      "country": "Canada",
+      "city": "CJDRHGLzfQa",
+      "street": "NCUR9OfQyMtxbVrwPsHbI9Nn2EmQSKmiTrLhYj",
+      "house": 120,
+      "flat": 5,
+      "phone": "+4855157119",
+      "createdOn": "2026-01-03T21:53:17.000Z",
+      "notes": "3vzD7dYH9x8CgDSQlw47ldhtR2EVRsNZc1dKxqNW7brmRd2Nl8H0y4M8Cxj0Q1jiDDz11Vf5GJamRt1dZexkxkTV9w3BfJhOvARF6gx3BC3v4d1KwJ6ZXs78KDCclsuOHO8xzkMXiF8jWNgMqYDCfx94djHvmJl6voH5oxVfkmLJBwc3IJAjsejgTiNIMgo5vd9HVlNT5u0GsYYIB7",
+      "_id": "69598fcd1c508c5d5e99f2ab"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

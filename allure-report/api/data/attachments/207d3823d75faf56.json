@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:56:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-u4v4WVNmpO44ItfyDuduhTzM5bk\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat36452",
+      "amount": 471,
+      "price": 65771,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T21:56:26.000Z",
+      "notes": "ErUyRWKbs6JmMpfTXs8jHUZyn8JwszOkQ6GZ36JPPwroYHyJgPiVQMDDql09PFbdCzkWiYuyyZV33AMXoMv2EhdtzhYKHz1nlLAbRU7WO3Fu9vhQN0HOsjtmlFWjjT6EUdj8aY2i3CIiPbuYZHGSL5WMyhVbI9SvLhM5yxnxTA7a23CQXcJBn8uwDbVAnD3wgSEaKCvhEI2sCOt4eXwStmfFORidkaidggvhz1V44nOm48ILCIqPep5C8Q",
+      "_id": "6959908a1c508c5d5e9a3a07"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:54:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1882",
+    "etag": "W/\"75a-WZz/gkOCkhcA5l5KY95VMNmW5aU\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "69598ff71c508c5d5e99ff74",
+        "email": "Burdette.MacGyver72@yahoo.com",
+        "name": "TeAC",
+        "country": "France",
+        "city": "DftPIHo",
+        "street": "x7lVsC4iCf8aV3QAwJQo3hWy5Z",
+        "house": 193,
+        "flat": 9,
+        "phone": "+5541066344",
+        "createdOn": "2026-01-03T21:53:59.000Z",
+        "notes": "4STW6DX02Ic8C5aAUXQYC8AfLteoFkJrfi94dv3eBMhaENqhmKLZvt42VWdRqNrmm9AxGY41hk9MhaDZsOddytaReYW5UyFeJGi9B86ZfxRis0KCKEPsKgqlnFbvq42l8BSVmxD2dJT5uXW4bCPBlXGAYG03SjWejF5LGsuyI23KeGGyacYBzl75LCMIYUFq5ekPJ7W8s5FWU61Ymsgm9Wys0FESolCbKLFSWPRUS62cZdQ37XCtPsCZM"
+      },
+      "products": [
+        {
+          "_id": "695990001c508c5d5e9a0301",
+          "name": "Mouse83323",
+          "amount": 271,
+          "price": 80933,
+          "manufacturer": "Apple",
+          "notes": "t2muuvkj182GxiBG4iLFHhEgwP9R8Y72iL2SiOUf1zN6OO8uxqy2i20NwTrmZigngzLr6KjgPruJ8d3HqLtyj31trUQYYpxYHKuJ0hZ4LUl0Fl5j5JpTFPDN4VYV7CJ53SGpxACrep3KiN4liqFV7gvGY7aPKQvVhI7SPg61DColkOXAOgPFIfgwkzMWBG4pQZVt64coxSCFCf4e8QCZ5mk26bP2gVaX9ueyZf2iZ8ILDjUbdBxTH3BX8x",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 80933,
+      "createdOn": "2026-01-03T21:54:09.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "69598ff71c508c5d5e99ff74",
+          "products": [
+            {
+              "_id": "695990001c508c5d5e9a0301",
+              "name": "Mouse83323",
+              "amount": 271,
+              "price": 80933,
+              "manufacturer": "Apple",
+              "notes": "t2muuvkj182GxiBG4iLFHhEgwP9R8Y72iL2SiOUf1zN6OO8uxqy2i20NwTrmZigngzLr6KjgPruJ8d3HqLtyj31trUQYYpxYHKuJ0hZ4LUl0Fl5j5JpTFPDN4VYV7CJ53SGpxACrep3KiN4liqFV7gvGY7aPKQvVhI7SPg61DColkOXAOgPFIfgwkzMWBG4pQZVt64coxSCFCf4e8QCZ5mk26bP2gVaX9ueyZf2iZ8ILDjUbdBxTH3BX8x",
+              "received": false
+            }
+          ],
+          "total_price": 80933,
+          "delivery": null,
+          "changedOn": "2026-01-03T21:54:09.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695990011c508c5d5e9a0315"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:57:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3370",
+    "etag": "W/\"d2a-PztdxiyJg0+B9fgBUrcRt7/3uP0\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695990a91c508c5d5e9a45ee",
+      "status": "Draft",
+      "customer": {
+        "_id": "695990a51c508c5d5e9a442c",
+        "email": "Jonathan.Pouros-McLaughlin@gmail.com",
+        "name": "MhSqnxTs",
+        "country": "Great Britain",
+        "city": "eovy",
+        "street": "WFWsRjt5FiIZAXxYnVPVXY2",
+        "house": 4,
+        "flat": 6,
+        "phone": "+0013825756",
+        "createdOn": "2026-01-03T21:56:53.000Z",
+        "notes": "7VS36GK5q1adF2W5jWrGuemS8nJjKdgDfH6rwKlLRDGr1FqbXFS7w3lkpE4BmVQ2TWQ6tZw8X7Dkfyxh9ya1ev1mDmgUiTTROwINWXfRAQpQq5mHqFucTOGwa7zr1LhUDc1AxJ0Hjr87rOyWAaN472tsEVxc09fvZ9ItIZaP9U8apdjJjBkfYCKeeNNIYbrb4P"
+      },
+      "products": [
+        {
+          "_id": "695960b81c508c5d5e96a086",
+          "name": "Shoes29687",
+          "amount": 911,
+          "price": 96861,
+          "manufacturer": "Samsung",
+          "notes": "hH5EIzNwUhYLuAewotlhjzi0p6A3nLXkXhCx82vEtEfPNdGvuAbxKXlIJauk6jiFofQ6SrYfbvwXUcLD3CE3CBv8YsoyjF6mvmR0e2dQuIaXSxA2UnjnxUkdMD9vLTK5HGejAEojWmdym9MMSkMDHqXDoggbC2btlDi5yUDlC2cj7dPB69UOyPk7uApuYZ13E5jT5dXN4Pgg3XU2HOqGeawpisa1Yc6GCTzZGIzAlEzaSMmNueKK9DHhCu",
+          "received": false
+        },
+        {
+          "_id": "695980cb1c508c5d5e99b9a2",
+          "name": "Ball97353",
+          "amount": 872,
+          "price": 75276,
+          "manufacturer": "Google",
+          "notes": "WWzgO5TYf7Z9KBnuvrKUbWAux97bjrF59oN4blZX3mmvEnKWNVVegk223TJYhXGHBNmm0BjJWMyZKrShVngFU6jMFFyX2ZYxJi4pgJABJJbCxR4hA36JOeBdmRIvIkNvyM32yNz1SowTTvqv3JRgYWIlqnUkxn9RIzf2zykfPvnvVeoVZ9a5jLrQSo2qmM9NazQxSzeDnMeWMBM3Yh2y0MijTo0bNlB2skDlw1ovgknQSvBjUqPQJwx2MA",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 172137,
+      "createdOn": "2026-01-03T21:56:57.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695990a51c508c5d5e9a442c",
+          "products": [
+            {
+              "_id": "695960b81c508c5d5e96a086",
+              "name": "Shoes29687",
+              "amount": 911,
+              "price": 96861,
+              "manufacturer": "Samsung",
+              "notes": "hH5EIzNwUhYLuAewotlhjzi0p6A3nLXkXhCx82vEtEfPNdGvuAbxKXlIJauk6jiFofQ6SrYfbvwXUcLD3CE3CBv8YsoyjF6mvmR0e2dQuIaXSxA2UnjnxUkdMD9vLTK5HGejAEojWmdym9MMSkMDHqXDoggbC2btlDi5yUDlC2cj7dPB69UOyPk7uApuYZ13E5jT5dXN4Pgg3XU2HOqGeawpisa1Yc6GCTzZGIzAlEzaSMmNueKK9DHhCu",
+              "received": false
+            },
+            {
+              "_id": "695980cb1c508c5d5e99b9a2",
+              "name": "Ball97353",
+              "amount": 872,
+              "price": 75276,
+              "manufacturer": "Google",
+              "notes": "WWzgO5TYf7Z9KBnuvrKUbWAux97bjrF59oN4blZX3mmvEnKWNVVegk223TJYhXGHBNmm0BjJWMyZKrShVngFU6jMFFyX2ZYxJi4pgJABJJbCxR4hA36JOeBdmRIvIkNvyM32yNz1SowTTvqv3JRgYWIlqnUkxn9RIzf2zykfPvnvVeoVZ9a5jLrQSo2qmM9NazQxSzeDnMeWMBM3Yh2y0MijTo0bNlB2skDlw1ovgknQSvBjUqPQJwx2MA",
+              "received": false
+            }
+          ],
+          "total_price": 172137,
+          "delivery": null,
+          "changedOn": "2026-01-03T21:57:01.000Z",
+          "action": "Requested products changed",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695990a51c508c5d5e9a442c",
+          "products": [
+            {
+              "_id": "695990a21c508c5d5e9a419e",
+              "name": "Shoes94599",
+              "amount": 545,
+              "price": 19868,
+              "manufacturer": "Apple",
+              "notes": "WLx2nc76FzxUpWBvT7AQAIDV4ZbPy7lY5vJHxjrdvv4GaAUwM0yJa59WCCM5QrOrUZNEm5s78ymG0DUSKI4Y2aloxzpnOH5QcgSSYurtjeADwVUmu91gGyn5GGDcdNceFLtR8dzUxq03jPhqBA8302l2ASfEX2m9QvCx2m2yhxqBKyexyMJdt2igWuYrI87AZH0yeY4S4sc3ZaNNBHbOcAvCXNOlYweRsc3iYj5xlP4kkUpgJ8uO6O126L",
+              "received": false
+            }
+          ],
+          "total_price": 19868,
+          "delivery": null,
+          "changedOn": "2026-01-03T21:56:57.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

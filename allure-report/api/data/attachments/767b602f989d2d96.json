@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:54:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "491",
+    "etag": "W/\"1eb-ameGR83zBJdYpeh/Ta3JW/V0XwY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Tyshawn.Considine11@hotmail.com",
+      "name": "PmvobeYBEUKyMJRerBHoRgmQO",
+      "country": "Belarus",
+      "city": "nPtC",
+      "street": "iWPPKqxNw2mRtQUq7vcTS",
+      "house": 131,
+      "flat": 6,
+      "phone": "+6061436043",
+      "createdOn": "2026-01-03T21:53:59.000Z",
+      "notes": "X4MFKueGxXJra6QteqddMpkCCzQEflVAZ8l7qXNe4vB4zaVYG1fxXsNLL7cdf8LLlYaniVMy93bqhPf13FbQOtlPECF7uOmMfGiKm8a6CyCQVDVk4seq167liEVeSUv76jUkvO1XX3oARthg40aGIyIi3Req3ULWPsIXi5TEzs",
+      "_id": "69598ff71c508c5d5e99ff72"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

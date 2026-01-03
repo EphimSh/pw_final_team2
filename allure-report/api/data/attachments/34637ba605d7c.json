@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:57:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-HfkzrouURvqTaZ8OSkOHY7zFurs\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard8737",
+      "amount": 690,
+      "price": 61274,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T21:57:16.000Z",
+      "notes": "5k6paz4nMYDilA4gbWECzFyrsiQt5XzmIzZ5M4jlOdUNFt8WmI41NBp9EjfU7dKHHJIUxCarMxilKgBTYasmWJJDtax1zxDsdzxrvjTE2r27zhsRnnssnAF0mGqNKy8dHVpRFgt8eMFktqkOejS4Z1726hDOQkKN881gr7I7h5XeSpUUu5Wdi3RnGV7khbisGe5lvvOZMg6rgZUEVi4qTveRu7yzi6HNKUfkuuCWZKyu5zB3Wcd42Xlxzc",
+      "_id": "695990bc1c508c5d5e9a4ccb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

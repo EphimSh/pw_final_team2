@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:59:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-J7oBnwnld5WLo0mbtFtD7eZLOK0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X55613",
+      "amount": 273,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T21:59:37.000Z",
+      "notes": "9iKWAb1pWUWsl8Hbai5q9St5KuR2SLTwZWdLYl6LZKeLNDXm9FFavqT4A6CXKG0PmNULGcHtNoyJbshYHZEgLtT3De3uDxNRiJDFNwf0fANBBvpgsrVS3eTKvEWp8GaMoHNxJiXdIC9vgyRfHJrhxV4oYSOE5Of9lbrk237ntW3eBYA4tmzQyKkzVcbzQ3Qyea7hyGFJ7eQSFfnrV8q5lvHw5nnnSg76mJtVYnlaaN2itoYRpC9RquuHRx",
+      "_id": "695991491c508c5d5e9a7e88"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

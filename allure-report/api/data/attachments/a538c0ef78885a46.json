@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:53:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "383",
+    "etag": "W/\"17f-tgh5LrLVTsvmUfhUuVRZZEaoCaw\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Otho_Olson86@yahoo.com",
+      "name": "GGVYgBvLAxVpTWREKh",
+      "country": "Belarus",
+      "city": "cIz",
+      "street": "lx9fdlKClhAcIT7QqpvZwqbFsTyZgG",
+      "house": 48,
+      "flat": 1,
+      "phone": "+5561526525",
+      "createdOn": "2026-01-03T21:53:14.000Z",
+      "notes": "4aEOlnhKImfBJDdznvK98B7pYBvfz2ir4D7kEwXkOUPCkUiqRUaXWhemY6C38YmZuOtQnRX",
+      "_id": "69598fca1c508c5d5e99f15c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

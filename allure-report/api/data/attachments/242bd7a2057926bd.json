@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:58:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "467",
+    "etag": "W/\"1d3-jKLMe7njLVeaPqOl/cWM4i+OBV8\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy S2553447",
+      "amount": 973,
+      "price": 3100,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T21:58:40.000Z",
+      "notes": "EvL5yZadcUZXGaRmzCbTFme1VTOmfMhHQXHnVVYAaT5YbfYT0SXi0Jy0UQBTpCEjVHRw1uAAXyVgdwJo2akm2SJcFV80p2VgJybpi09cnRfM5xdMv2hc66Uhp451wMd32lQYVsfC9yehKdg0Ms4zD1ovDEBOnhqdAeIMcFA5WCtYdw22frRXV3gqFEqQpzjBB1kXgEh4gBDDloqePEmVLjEQZ596wceFcJZ9zDiGcKHudTl2vV5LpPWzRT",
+      "_id": "695991101c508c5d5e9a6abc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

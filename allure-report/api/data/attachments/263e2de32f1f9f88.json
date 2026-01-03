@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:54:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "493",
+    "etag": "W/\"1ed-PZ2o6thBvSPsRYHT+OrGPx1Kz0A\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Tyson.Reynolds@yahoo.com",
+      "name": "YyLndQxPQFKRHwGqmwepzSJQciWsoIUMr",
+      "country": "Ukraine",
+      "city": "ylLCqPkpkEShnbCSuKq",
+      "street": "HzfSysdOAa4aCJbegbNX0KOtLFDtsCWusgKpUevh",
+      "house": 126,
+      "flat": 6,
+      "phone": "+3438886091",
+      "createdOn": "2026-01-03T21:54:08.000Z",
+      "notes": "MtmhtyveTRyo7PoFif8K9XKrNs57MaWRlEwmhkL9vI4F5yKzFDkpiTrKyammQbBMN3u9sq1Eka8QFBuvBEkHmJVl7hQDae2bPWlVVAQwyUxKr5H8k4xKbR7WVqcSLcoGzJnNYTILu",
+      "_id": "695990001c508c5d5e9a02ff"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

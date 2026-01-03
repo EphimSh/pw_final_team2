@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:55:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-EEFhfB24XwgYeLuCGa5SE0fBXww\"",
+    "keep-alive": "timeout=5, max=68",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse31611",
+      "amount": 975,
+      "price": 21594,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T21:55:05.000Z",
+      "notes": "IxzgMkpqx6ZAEoMDj9o4N8k8J9Pn3dEuydn1ZuvjVcOZroeJ3haoDpjwrB7yHJtlglq6Cy3O2cRV7PtqxPKzFTguRnjzzIAwm7XWE44sBTrN7Flvu2fZ7dc7VKD9SySuemv0tLNYhNDf7oeMiDjMeHuTt0XQ1evPpNQvJXu0IlIXVLZQ3x783tnkbI3MTtjEsSj1yNrDyzxakctHd6dEJI4YLAvFWT9mNOYKjxOE28P58L3AFLcUxPjjyR",
+      "_id": "695990391c508c5d5e9a1aaf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

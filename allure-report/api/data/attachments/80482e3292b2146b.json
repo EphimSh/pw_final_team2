@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:54:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-casxCsp7RUEnqyI+2j4nY/iwuIQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon62044",
+      "amount": 585,
+      "price": 25843,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T21:54:26.000Z",
+      "notes": "5KxC02HqD34hN1OeFEaUAioKA9t1t9ObrXTMtWsXtOGlqA0bZhAW90JaHIdOFCaZKzH1pv59kbGweQXhUZJfd3mQCpYMwAUmDJfuAzFhZhoAHCSHPDWaqhYJL1jhfOFxvdcZeOBW6aAxgbma3jk7uZCDwc1L50jjvLGxKEl3F0pRHODqCRbxLTBjq3wnVLLX0gmie3AEtB4rhz4tQRcaX7KPXsujBBBjZbCERTfp1bavFvg5n8FK4wjF82",
+      "_id": "695990121c508c5d5e9a0937"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:56:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-BtijN39RD51sYaLRWoO+m3quGNk\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair67592",
+      "amount": 656,
+      "price": 54429,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T21:56:26.000Z",
+      "notes": "YDh35uPXvl8moaK7u5w4Pqe9LhTdXcFOl294VwJjwMiSwp7yuukHfX78VDCuN7TujV5jzHBAlsxgqSZECb1gqkCDNR9Up8eEAuzLwaYU7cF88kw5FRz6IUbRQ4q8GjFc3o0rtyDtSaaMabb4lF6Mvi0ZqC9azi4qVwmbJG8CeJH3xKTdvvTLiKr6iQImkueJbrtkqVAfuaWpMGEzXoww93nM8Eb9sPxtvN7LM2RqQ921WZ5vPN2NqJp9qL",
+      "_id": "6959908a1c508c5d5e9a3a09"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

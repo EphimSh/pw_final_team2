@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:58:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-hJJLu639gW4z8XcZTzOcYiPiTxY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table85154",
+      "amount": 405,
+      "price": 99999,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T21:57:58.000Z",
+      "notes": "8CkGhzFcAAfbpVm8hIBvuYEUIRgnmL6wgWcf35PPu7x5yp6UTPW7i4Os0NiaywLHHeQomthIWOXpRvltT66LxNAIydXDXHJo3hJDSnd70bir2hB7cFovfAmgX2w1WUDZ2k3AaiNEv5UjNfxVyYTDEFmSX9mUMht3RpXm4qqPjKSMfil7Zf78g28M3sfh1mEYYS85Ei8otVBiKc0XjEGNW5bJSbbZw2x2WJTFlpK26y8IZhqjfLFrWVs6g1",
+      "_id": "695990e61c508c5d5e9a5fa6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

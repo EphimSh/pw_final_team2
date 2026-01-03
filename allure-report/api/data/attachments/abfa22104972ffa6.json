@@ -1,0 +1,89 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:54:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2100",
+    "etag": "W/\"834-GszQE4cU9rKLYbQj4ixacnSS1Mo\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695990031c508c5d5e9a0351",
+      "status": "Draft",
+      "customer": {
+        "_id": "695990001c508c5d5e9a02ff",
+        "email": "Tyson.Reynolds@yahoo.com",
+        "name": "YyLndQxPQFKRHwGqmwepzSJQciWsoIUMr",
+        "country": "Ukraine",
+        "city": "ylLCqPkpkEShnbCSuKq",
+        "street": "HzfSysdOAa4aCJbegbNX0KOtLFDtsCWusgKpUevh",
+        "house": 126,
+        "flat": 6,
+        "phone": "+3438886091",
+        "createdOn": "2026-01-03T21:54:08.000Z",
+        "notes": "MtmhtyveTRyo7PoFif8K9XKrNs57MaWRlEwmhkL9vI4F5yKzFDkpiTrKyammQbBMN3u9sq1Eka8QFBuvBEkHmJVl7hQDae2bPWlVVAQwyUxKr5H8k4xKbR7WVqcSLcoGzJnNYTILu"
+      },
+      "products": [
+        {
+          "_id": "695990031c508c5d5e9a0336",
+          "name": "Ball89385",
+          "amount": 799,
+          "price": 89383,
+          "manufacturer": "Samsung",
+          "notes": "4ejMpZkJzP8ckZSjTeIrka7v15qnhqsoWvukGaWLqNplKlCXOyRyIvPaWMVM7v5CvHPALUJO74wCaJL65fm3WBYH7ceC662NCEL7WjlgIaz1dPfmaum0RKhSpqQvP6mARaKMniCuLpHVGSIp9a7Pq3KscVPEFwoGH55hGbjDCXZAfpuVQvmFU9uy3C3q4tRZ54hr1xJyft8kR9tNbcf4HQoTT0800uDQy7PgVIJPcJVktOLuaOV5cRhqqw",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 89383,
+      "createdOn": "2026-01-03T21:54:11.000Z",
+      "comments": [
+        {
+          "text": "tPs6ozK3aSQLY6liC2R4ODY60xtGlkmIAFn2EAA38vsjW7LhuVC4JbNbjRXrYwGDHPNL26xWrpgEek4heqyH7lSz0roQOIVEzebpZ07M4lrVRLYp1HLv7pgMjgAgyZlDNnhYnilVcIueYCmtOmTtUbWPjeEkuoBm9lTx2g40f6dYAQqfMkXpkVxaQFgzPri0WS",
+          "createdOn": "2026-01-03T21:54:11.000Z",
+          "_id": "695990031c508c5d5e9a0379"
+        }
+      ],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695990001c508c5d5e9a02ff",
+          "products": [
+            {
+              "_id": "695990031c508c5d5e9a0336",
+              "name": "Ball89385",
+              "amount": 799,
+              "price": 89383,
+              "manufacturer": "Samsung",
+              "notes": "4ejMpZkJzP8ckZSjTeIrka7v15qnhqsoWvukGaWLqNplKlCXOyRyIvPaWMVM7v5CvHPALUJO74wCaJL65fm3WBYH7ceC662NCEL7WjlgIaz1dPfmaum0RKhSpqQvP6mARaKMniCuLpHVGSIp9a7Pq3KscVPEFwoGH55hGbjDCXZAfpuVQvmFU9uy3C3q4tRZ54hr1xJyft8kR9tNbcf4HQoTT0800uDQy7PgVIJPcJVktOLuaOV5cRhqqw",
+              "received": false
+            }
+          ],
+          "total_price": 89383,
+          "delivery": null,
+          "changedOn": "2026-01-03T21:54:11.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

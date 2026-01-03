@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:59:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-oGEMCY1QcT0xFgw2oGHjF7J/Cbw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X88706",
+      "amount": 266,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T21:59:34.000Z",
+      "notes": "DbGrYni2r0fOluG54C6CM7BmgL8DZPHPXO3ti1avqnk1S3I3GBgVTxcLDfZwaaZfZLaQvcutNO9iLkpczDrhcNSnhTMDZaYflmxR5HzymoWNgTqEQeRWXfz1Kcf79ebthoDHshVPTdd7yedP37dnQ7PT4COiMdGwqiS8CM38Asusk2gfTFUsBbOsJqC24TohlIKdMsxjCnaf8sNjcUTY98qOOAhc1Gm4P3psmfkquy3fEkXJSl0kN1PnKg",
+      "_id": "695991461c508c5d5e9a7d98"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

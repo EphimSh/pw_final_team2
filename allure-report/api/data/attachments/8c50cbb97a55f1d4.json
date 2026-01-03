@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:55:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "412",
+    "etag": "W/\"19c-+fB3DEAHI42WZMdjqbbWl2LulhU\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Sheldon.Kautzer@yahoo.com",
+      "name": "yuXMISCPRGuIJm",
+      "country": "Belarus",
+      "city": "he",
+      "street": "PHBItrBZCxPI5sHaBvhHjFqidQAJSdmqQjKb",
+      "house": 130,
+      "flat": 3,
+      "phone": "+3692223206",
+      "createdOn": "2026-01-03T21:55:52.000Z",
+      "notes": "b7Wl9VHGfDBPHCMKCe2fdoStKFZBx2sde1RreejJjwN9CkYwCwNGCHg4cBzezj236E2dHvGBROO7X8gim73yquYxHgzVsCR",
+      "_id": "695990681c508c5d5e9a2bc7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

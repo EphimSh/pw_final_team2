@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:53:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "487",
+    "etag": "W/\"1e7-y6Kx62Kik2NZD4ShyLsf7iXDiQs\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "69598fcd1c508c5d5e99f2a9",
+      "email": "Darron.Weber81@yahoo.com",
+      "name": "iPxmpcqseocMffuwn",
+      "country": "France",
+      "city": "mNjUXC",
+      "street": "2KUQmOWEgoQnWHW8uzrs11HYFltLm4Hq4ph",
+      "house": 138,
+      "flat": 3,
+      "phone": "+1357983270",
+      "createdOn": "2026-01-03T21:53:17.000Z",
+      "notes": "y5ZD7BNgnD7xcuFuyVV1RE25jQwOGkbeBQdnbxwzMYvbt8o87tFha5GZcJxgSJrj5Kk9fePrqLr2JDmzcrTa8kwJko7Q63oD3jS6lgpyug0tHQcRmzdQEfMLvhle2a83pTPJZgEEdDpquwr84BM2PAdaovccjK5r7NLDwj"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:58:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4211",
+    "etag": "W/\"1073-gkySsaM94/pSIeEFd5EkH/kEHGY\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "6959911d1c508c5d5e9a6cf5",
+        "name": "Shirt86160",
+        "amount": 87,
+        "price": 52387,
+        "manufacturer": "Tesla",
+        "createdOn": "2026-01-03T21:58:53.000Z",
+        "notes": "GeLKmUowgyMUBc3d7Z9PWma5hsyfYQdjkOSn1pyDsnBbLk4oUujCUMjVfznnLEg739zj71Eb1UzTkrkObZDTHP7lWmYhScjZiJGJu4Ariwt1XwRunl2xq1oKZ09rokk9OZXz0VASWfo0AHIpe0ZXoHgpIizzrZyRfjkarJQvCmL62XoWDEngjWOFWzrEv0r8u5vzcMpmQuGBOjTwNWvW13GvhcIJajE5DqKyrOYtrZl3SOq3cqd9AwpzL0"
+      },
+      {
+        "_id": "6959910b1c508c5d5e9a6988",
+        "name": "Fish66454",
+        "amount": 303,
+        "price": 47265,
+        "manufacturer": "Tesla",
+        "createdOn": "2026-01-03T21:58:35.000Z",
+        "notes": "ln3mkPIu6stnGevC4chiM6E4iVoYMJvZttYNFzJ0hadpz2hfGXowAdoWsza1kiAYuIA4l4tMqCpXyDglh1Sqvbtq5Cc8cYFfD8Z16s2OvdkUlMMoianNcD2Frg6SfA14Kt3VINSJnqpMdmo9Cryqh3uux2ngOwYA8B8C5cy5HgVATV2y03U5PALJ2fIMsWmL3eudQ7sG5vc2FxcySfE8K4XTVhHmAhZ1wjGJcin70FJ7BIMIy8eFhbGVfq"
+      },
+      {
+        "_id": "69598be51c508c5d5e99dbe9",
+        "name": "Mouse73501",
+        "amount": 68,
+        "price": 11530,
+        "manufacturer": "Tesla",
+        "createdOn": "2026-01-03T21:36:37.000Z",
+        "notes": "lBtL9f1ZmZIzB4yidsQXTMi4CFj1ZN7WqxW6Qlb6Pq7svCXtLydvJI5zbYRgYNe7mVghra3v7dEWo57VF6jHFm4uCZIVTSXI8B1gNgi5WTUai7zwNyAxkED7G1WegM0Q71CTY1ag04KMJVuL0UyZIfMJGxnKXvGheSj3x2iyWRHL8znEMouLatrxUfZ9c4xN0xcavcqyYmLgCTfeR27IyouL8cOO5gpWxVDp9U81G2SFLqWmffF1KonCpb"
+      },
+      {
+        "_id": "695986ed1c508c5d5e99c8aa",
+        "name": "Car84306",
+        "amount": 589,
+        "price": 46199,
+        "manufacturer": "Tesla",
+        "createdOn": "2026-01-03T21:15:25.000Z",
+        "notes": "kDvNg9mPnAh6A7f2G3ZrszAd8FRIqJcRuw8VlKHNXQOnKNG83NPO1KbTxMiatkSdXn8w8hoaVUUhRp34gIjzxZEqPTvEgZC7p7gaGwdOsKdEmV2kSkTxxSci7JqfkeRfxhZ1YAx0AZCRU2uyOQMDpVrk47fDj1EwMbyli88fSKcStJcB6lFfhcHS87MkMIEMimUBShQQlwzITLWn8R7OlIrzdyVx6uNdiQ87BEa38W9xSPg6RvhjAUvY8X"
+      },
+      {
+        "_id": "695972ad1c508c5d5e9965d2",
+        "name": "Bike23993",
+        "amount": 95,
+        "price": 94505,
+        "manufacturer": "Tesla",
+        "createdOn": "2026-01-03T19:49:01.000Z",
+        "notes": "4pZ1lhxY8KxkdQjA38ifrPZgfXJ0zdm0hqCArAx5mUpkKLLsuSrU1AX9lpSxclnBXLpSTHcmm99n6KzejZXoA2Vx384T4XBTBjsqbaaPUsMfqLGUdJKG4hF0Jq6phGrbnc1oiQrxDBEK39z28XDFpK8qHBmYILSdjKPRxVTg5sSQwqxlTHeMSnIXVwwcfXyADvPkfkWyzeU34VDehRCosQenpL3bOOF2WMybCu79FjnaUszozlzc2oaFVT"
+      },
+      {
+        "_id": "695971c11c508c5d5e993987",
+        "name": "Chair52216",
+        "amount": 50,
+        "price": 51503,
+        "manufacturer": "Tesla",
+        "createdOn": "2026-01-03T19:45:05.000Z",
+        "notes": "IiW0gNT8OH2p1P6s9ND9csIjvB4JDZ8FaBeFl5nafPevw5pzAWeR832P9l1qQsOr5KupPZ8POHgpaHLLmM4uBXXs5v13vGdXg2yb2S8RVYMSwiMa68YUQLZiftLGtLeUmdM9UcdDk6FhbhJG9W9jUVBl0x2fD3uJV9nkpNazmmyK9OKTBXBCNHS2iSilh5Aozq1TMW1AxY1SneodzLYde688Kt51Uifh7Nf6TzfHefiReeIItTimVn5zoG"
+      },
+      {
+        "_id": "695971b71c508c5d5e993941",
+        "name": "Soap69539",
+        "amount": 709,
+        "price": 91447,
+        "manufacturer": "Tesla",
+        "createdOn": "2026-01-03T19:44:55.000Z",
+        "notes": "YtvaXRUDsE3TezTpVH7gV61GrQH9r5WGQPZGxbsp9WFMV1VOhEy68bnd8eMv8yCo5Oc11OctllaksCDLbE1v4UfYmEZAz55FuaRqcxZiMESMd6kaaAW4sZxD0To0419gk9xtS3NhJxHwSYBkZiCK3UnDq7tTCvGHtmD6DiqE5vPV3hcxClUOiEsbelVuEvxOjZK9hYZVPCkT96mO7h2bR3OcjXz16JXwF4ExCobH4PEimFOEdGf3OH1cDd"
+      },
+      {
+        "_id": "695971aa1c508c5d5e99328b",
+        "name": "Car79143",
+        "amount": 520,
+        "price": 83694,
+        "manufacturer": "Tesla",
+        "createdOn": "2026-01-03T19:44:42.000Z",
+        "notes": "T917h5LGrjjPv3o0movyqgljfOznesxDnrmkgmfvzK2bRMo2tMo42s6ngc8XZHJyNQH8ePLVd52D8QK3zNdy4FzNGvOWZA8y7wSVn6QWAMYWumtVPNF5ZQqM8aseSXFMPc880V9Rh7UqVWz7xogRYZWjj51AlQaLu7xLc8xb2MfkM6yKoaY693qzgGZiTpSGOawaPV1JNg6s4Onyx4MBsC9Ra2ZWXGlPVQmFKfnlBIFJXkTl3Cwo8GnOjw"
+      },
+      {
+        "_id": "695971a31c508c5d5e992c5d",
+        "name": "Table41105",
+        "amount": 984,
+        "price": 12189,
+        "manufacturer": "Tesla",
+        "createdOn": "2026-01-03T19:44:35.000Z",
+        "notes": "wfYDLlpEQJyuEIkkDZ03OeNTs7GvRbofXdgitS14Y2fC80G6JWQShVU1D1dPsGGKWeMpWbTRs8QDF75nJgoDHQsD8IFDwOrPJlaI3b7u1qxHwkIhWliqPrDEbvSEIja6ouHyczuw4klOtSVTsoLSJn6iLeVRSImPayhYWQ5Krs7NETFxj4qboT7ovdz89ljMjh3sLAVOQNzAkZCFHqVrMEywoeIYu8dObHoVipiTjdPxnnn5UagiASAc2I"
+      },
+      {
+        "_id": "6959719f1c508c5d5e992964",
+        "name": "Chair59208",
+        "amount": 971,
+        "price": 69936,
+        "manufacturer": "Tesla",
+        "createdOn": "2026-01-03T19:44:31.000Z",
+        "notes": "teLtqxjVAIlsYLw2F1q8RYLbMMOdDSC6Q1vq9v8zjP1ltsEjo9eGInfW1G9w83vvS5Dg0yaePwRzxumrICiMBDCvO61a0HHcemFYVLfv3ss8SEerKBqDHOBMYG1N2d906I0rdXykvFMMS1Rbj0mfQT4nFQz2sN4a1xCs3ZTAgM3xKJRMGkm3ULGKfrTlSZ63nhrbSDgKTXYqi3fSjT8csX8GhxFsQ4C90gtjIDc4oSRezegg63L2u9hlki"
+      }
+    ],
+    "total": 68,
+    "page": 1,
+    "limit": 10,
+    "search": "Tesla",
+    "manufacturer": [],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "desc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

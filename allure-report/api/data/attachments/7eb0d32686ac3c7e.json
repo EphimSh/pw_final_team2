@@ -1,0 +1,173 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:55:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3734",
+    "etag": "W/\"e96-rcvac2sgAt7fOzZ/gihLAgKm2sk\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695990581c508c5d5e9a26cf",
+      "status": "In Process",
+      "customer": {
+        "_id": "6959904f1c508c5d5e9a2326",
+        "email": "Bernardo.Ernser@hotmail.com",
+        "name": "zJesoAeB",
+        "country": "Germany",
+        "city": "gqIwsVAbzegO",
+        "street": "urvmqpxjFb36s2B4",
+        "house": 94,
+        "flat": 7,
+        "phone": "+7580685846",
+        "createdOn": "2026-01-03T21:55:27.000Z",
+        "notes": "1G8WD2vcnEHCV15pZ6AxfL8Q8UHaroOEsfMBjer22uQyN"
+      },
+      "products": [
+        {
+          "_id": "695990521c508c5d5e9a2360",
+          "name": "Chips76057",
+          "amount": 496,
+          "price": 20097,
+          "manufacturer": "Tesla",
+          "notes": "mJlVqeSCcn4lQRwY7Nec1qw1b6rc2dL9TZsC4iZIEOKnYsuckymxGWGgGmZQ58yNGlElhgO7QQf88ncAX6UC2eShvDBAfd7UotGUJwOde2Im7Kr6AIhuKzsv2fKd6XnWKCX8icsMkufbxMcAdqX4Z9hbyI9dsp2Hmz6IFB0ifVEqqOdC0IvNOPf6vhALjKcySNg9FXjjShTVLZqJAh4e9RxTFxKXTpZ9fxMNNKfi0JkGK51BQBjmp52mWC",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Russia",
+          "city": "Mock City yPL",
+          "street": "MockStreetHEj9Ur48hWvd3UVqNPK0JhS8",
+          "house": 190,
+          "flat": 15
+        },
+        "finalDate": "2026-01-08T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 20097,
+      "createdOn": "2026-01-03T21:55:36.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "In Process",
+          "customer": "6959904f1c508c5d5e9a2326",
+          "products": [
+            {
+              "_id": "695990521c508c5d5e9a2360",
+              "name": "Chips76057",
+              "amount": 496,
+              "price": 20097,
+              "manufacturer": "Tesla",
+              "notes": "mJlVqeSCcn4lQRwY7Nec1qw1b6rc2dL9TZsC4iZIEOKnYsuckymxGWGgGmZQ58yNGlElhgO7QQf88ncAX6UC2eShvDBAfd7UotGUJwOde2Im7Kr6AIhuKzsv2fKd6XnWKCX8icsMkufbxMcAdqX4Z9hbyI9dsp2Hmz6IFB0ifVEqqOdC0IvNOPf6vhALjKcySNg9FXjjShTVLZqJAh4e9RxTFxKXTpZ9fxMNNKfi0JkGK51BQBjmp52mWC",
+              "received": false
+            }
+          ],
+          "total_price": 20097,
+          "delivery": {
+            "address": {
+              "country": "Russia",
+              "city": "Mock City yPL",
+              "street": "MockStreetHEj9Ur48hWvd3UVqNPK0JhS8",
+              "house": 190,
+              "flat": 15
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-03T21:55:37.000Z",
+          "action": "Order processing started",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959904f1c508c5d5e9a2326",
+          "products": [
+            {
+              "_id": "695990521c508c5d5e9a2360",
+              "name": "Chips76057",
+              "amount": 496,
+              "price": 20097,
+              "manufacturer": "Tesla",
+              "notes": "mJlVqeSCcn4lQRwY7Nec1qw1b6rc2dL9TZsC4iZIEOKnYsuckymxGWGgGmZQ58yNGlElhgO7QQf88ncAX6UC2eShvDBAfd7UotGUJwOde2Im7Kr6AIhuKzsv2fKd6XnWKCX8icsMkufbxMcAdqX4Z9hbyI9dsp2Hmz6IFB0ifVEqqOdC0IvNOPf6vhALjKcySNg9FXjjShTVLZqJAh4e9RxTFxKXTpZ9fxMNNKfi0JkGK51BQBjmp52mWC",
+              "received": false
+            }
+          ],
+          "total_price": 20097,
+          "delivery": {
+            "address": {
+              "country": "Russia",
+              "city": "Mock City yPL",
+              "street": "MockStreetHEj9Ur48hWvd3UVqNPK0JhS8",
+              "house": 190,
+              "flat": 15
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-03T21:55:36.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959904f1c508c5d5e9a2326",
+          "products": [
+            {
+              "_id": "695990521c508c5d5e9a2360",
+              "name": "Chips76057",
+              "amount": 496,
+              "price": 20097,
+              "manufacturer": "Tesla",
+              "notes": "mJlVqeSCcn4lQRwY7Nec1qw1b6rc2dL9TZsC4iZIEOKnYsuckymxGWGgGmZQ58yNGlElhgO7QQf88ncAX6UC2eShvDBAfd7UotGUJwOde2Im7Kr6AIhuKzsv2fKd6XnWKCX8icsMkufbxMcAdqX4Z9hbyI9dsp2Hmz6IFB0ifVEqqOdC0IvNOPf6vhALjKcySNg9FXjjShTVLZqJAh4e9RxTFxKXTpZ9fxMNNKfi0JkGK51BQBjmp52mWC",
+              "received": false
+            }
+          ],
+          "total_price": 20097,
+          "delivery": null,
+          "changedOn": "2026-01-03T21:55:36.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:54:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-JL/Jidkd3Syct6UdlkTDhtc7+98\"",
+    "keep-alive": "timeout=5, max=33",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon26092",
+      "amount": 503,
+      "price": 98537,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T21:54:42.000Z",
+      "notes": "MK1VRQr4c8fDskdOyQKms1SFRezXn7WfCkhcEvO4rR1HsgBwlmilPYtWqEkAJ1h0d6XMEjYDauYzpYdDXAwN1wD5LqgTFQ9MDg4c5cRjFRRYK06m4f8zJYQZicxZpIBohQk5c1FQlYr0avZv63WXQ7cizmMDPmXuTYShhCobmtxAd1HYEVANKMtsAi65NDPWjBa9AYFKn7NkPKgAYGwoi4xXUvQQVXOhKH6HLkelQsTfCuBCgkgpmUWbh0",
+      "_id": "695990221c508c5d5e9a1062"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:53:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "576",
+    "etag": "W/\"240-Wu/XgWqEHTXMGd8kA8nXcDudtuw\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Patience56@yahoo.com",
+      "name": "yclNyZOTqmjMkcrjQbjogtJEnIpauvCH",
+      "country": "Russia",
+      "city": "wDeisOmCozhyuvbJFnh",
+      "street": "MVL5ufqjDiE1YjM6PjUXp3tw114MVGI5gU3o",
+      "house": 120,
+      "flat": 1,
+      "phone": "+2908735680",
+      "createdOn": "2026-01-03T21:53:25.000Z",
+      "notes": "t8ha4E9w9aOi2a8A90mfm7e6F3amzKgHlJx2UnbwZG4Jos5Z60mO9khr4gbugcZj5G9vTxjiqc6Ly887Ct49dTRwziQlWTs4uf9H6YBnhf0cArOwuR91an8hWf4JkisqKsmT1nubawD5BEVtqpUyYYrqyfolZXN14dmEmxvIuhBftOGR8gONcjCiTnGdnoVt4TLmBB6sRH5aYfZCtSJgDfZDTEX6zwunYCvjqE",
+      "_id": "69598fd51c508c5d5e99f41c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

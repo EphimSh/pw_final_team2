@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:56:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "509",
+    "etag": "W/\"1fd-4Suy+vDWOabZaVVUfCO+jPkLhws\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jonathan.Pouros-McLaughlin@gmail.com",
+      "name": "MhSqnxTs",
+      "country": "Great Britain",
+      "city": "eovy",
+      "street": "WFWsRjt5FiIZAXxYnVPVXY2",
+      "house": 4,
+      "flat": 6,
+      "phone": "+0013825756",
+      "createdOn": "2026-01-03T21:56:53.000Z",
+      "notes": "7VS36GK5q1adF2W5jWrGuemS8nJjKdgDfH6rwKlLRDGr1FqbXFS7w3lkpE4BmVQ2TWQ6tZw8X7Dkfyxh9ya1ev1mDmgUiTTROwINWXfRAQpQq5mHqFucTOGwa7zr1LhUDc1AxJ0Hjr87rOyWAaN472tsEVxc09fvZ9ItIZaP9U8apdjJjBkfYCKeeNNIYbrb4P",
+      "_id": "695990a51c508c5d5e9a442c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

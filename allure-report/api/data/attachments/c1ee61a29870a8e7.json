@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:57:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "391",
+    "etag": "W/\"187-uMwWPsaMZey0o1kZHFkedINy1XU\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Tia.Schuppe@yahoo.com",
+      "name": "frSL",
+      "country": "France",
+      "city": "KPaTnFvQtgGJqw",
+      "street": "ODbKzLtVOa1t4ByhvtmzsHgOkTp",
+      "house": 178,
+      "flat": 5,
+      "phone": "+3735548322",
+      "createdOn": "2026-01-03T21:57:28.000Z",
+      "notes": "BpZDzl60IVfHXz8ZC73xQnQDFAfrDwOfCVkycXwazhhD0JxLBHPxsaYpDGVupZ3uKi3RM2Bxt7kAtaS3bb5Rck",
+      "_id": "695990c81c508c5d5e9a5324"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

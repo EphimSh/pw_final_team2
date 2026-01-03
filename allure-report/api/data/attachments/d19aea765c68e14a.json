@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:53:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-xNY6UfRaX53HewiWszqdvS4olBE\"",
+    "keep-alive": "timeout=5, max=59",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard45953",
+      "amount": 814,
+      "price": 84954,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T21:53:57.000Z",
+      "notes": "h0COAueo7LMhO2plCYa8nOkLUyRH4htPSdVjt4xVLwxnECLMlgS7XbvKEF1YEZF3cwEiAwKFLOGW4pC6UQFBtbs22Azcgu23eW0QDuwvSIGX2zGSXoI9iYkJuZGg88rknlwt05H2W3ru6fNfZSJj4JKgVCTYaTXspekP7FIARoAF4Sc9DTXK6YF8qfv5smQRCxvMbAJdEAvhois1HdVPt5ljpPKa3KnS3Ia2ihY9uDU2OQN3mOMCgW1ahA",
+      "_id": "69598ff51c508c5d5e99fe82"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

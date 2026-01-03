@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:55:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "471",
+    "etag": "W/\"1d7-3ZjHH8sqXCv2fAcRy9b9R9f7Uaw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kendra.OKeefe@yahoo.com",
+      "name": "gKJwLSZkFmVMenxFMcupVS",
+      "country": "Great Britain",
+      "city": "eRuPiOOzAAx",
+      "street": "LrtPwNmnLrrxxReW1zuesgfWTHgEtxjW",
+      "house": 41,
+      "flat": 8,
+      "phone": "+2707769988",
+      "createdOn": "2026-01-03T21:55:10.000Z",
+      "notes": "CXV2DzrBUGJqnZSQhtohA50z6zgTkJ75dfysA06bBDMG5pUtfYAjIbXDZEXJDN4qfA3GjSn59A7ZxXcXS9QWXTU34DqLKgUN6i17syUBnB4OLvb2amIXb3RbQS6lzQcR8XdQqYSjHd",
+      "_id": "6959903e1c508c5d5e9a1b52"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

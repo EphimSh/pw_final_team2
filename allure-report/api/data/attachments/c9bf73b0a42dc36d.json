@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:59:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-XYdS3o35m/lcEVHLNyYfTsyFLJ4\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy A5564600",
+      "amount": 397,
+      "price": 800,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T21:59:42.000Z",
+      "notes": "C5wvRDo0oPGsS3zDNYg9aXqYLWCSWPlJlSzQn26bF9VKcXx8l7JOrGKT6EI3krVIjrAouPFBYjlsFPLrpZE2Nq0pDydm7wbnyDNgV0OqMSLDcOuKbWSmQ3WLaaP2T4m6A39NvWizlNvuIhdSUsES8iKNRVXCXrqP8H8Up6NrdixafWKnu5SaZIGv1qPe9QLQE8WsnPSWoa7t9GvZZIMq491GXTOv1H4O3ZhcxC8bHijRc8dZZVLWtR5Ruy",
+      "_id": "6959914e1c508c5d5e9a8065"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

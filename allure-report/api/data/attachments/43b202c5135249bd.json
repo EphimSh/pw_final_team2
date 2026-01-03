@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:56:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "389",
+    "etag": "W/\"185-xjUwX1IdVx7HwC/ScphZtJMeRlo\"",
+    "keep-alive": "timeout=5, max=74",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Willa_Runte53@gmail.com",
+      "name": "MpHaRKSURBHlEzzgcqMgBtxlHS",
+      "country": "Great Britain",
+      "city": "FrCLMIDJMyno",
+      "street": "XDzb01z1bL8IfYi88f7mdOshaaSzpqpJ8dD",
+      "house": 187,
+      "flat": 5,
+      "phone": "+7240011424",
+      "createdOn": "2026-01-03T21:56:32.000Z",
+      "notes": "40PGTDGjU0iL2t00slnn9emw1WcM7APCxCdLDbcxlwGKKiS",
+      "_id": "695990901c508c5d5e9a3b5a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

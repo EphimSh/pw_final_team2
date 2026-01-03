@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:53:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "478",
+    "etag": "W/\"1de-gxv9Z7vJFFP8Vaa3mpvSafUErxs\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Mariane81@gmail.com",
+      "name": "ojnFIbawKoPhyTvyMpBAC",
+      "country": "Russia",
+      "city": "gIfvtCNNiPmQt",
+      "street": "EgXR",
+      "house": 197,
+      "flat": 1,
+      "phone": "+7102336770",
+      "createdOn": "2026-01-03T21:53:14.000Z",
+      "notes": "CczCxkfMnJFwCkGLnGoTzheVYfzGlLzWsUADpEK4KCww2mFotUAGo3HZEVffIZYfrsHpDdar3kyb4tKu11f1Kzjrh6MT2ipcH23YiXhwBBMuKqOkIkjKqz6D4DgOE7pTCr3SttikbmBYqUYAd9COUcD0dGSQdK5UorXxKmuLJYjaltv6Ok62SO",
+      "_id": "69598fca1c508c5d5e99f177"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

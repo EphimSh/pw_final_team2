@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:55:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "347",
+    "etag": "W/\"15b-06XIRF3m9lqaBN2NBui27IUM1wQ\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Bernardo.Ernser@hotmail.com",
+      "name": "zJesoAeB",
+      "country": "Germany",
+      "city": "gqIwsVAbzegO",
+      "street": "urvmqpxjFb36s2B4",
+      "house": 94,
+      "flat": 7,
+      "phone": "+7580685846",
+      "createdOn": "2026-01-03T21:55:27.000Z",
+      "notes": "1G8WD2vcnEHCV15pZ6AxfL8Q8UHaroOEsfMBjer22uQyN",
+      "_id": "6959904f1c508c5d5e9a2326"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

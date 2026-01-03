@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:56:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-COVlMlUzN6A1o8suvtl4viKwVdg\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table70496",
+      "amount": 695,
+      "price": 5428,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T21:56:35.000Z",
+      "notes": "Lrzu7Z1ugI2pvhVLvZsWFntMqzZ4ddL55mgUATlL6mDH4k2gEXTjqeRnc8Zsu8KnSawUvqDeQAmar5cS0jMyov7tCqww0ZHHdqwF0uA7FWSDIC12bAq8bF1nvhX9Td1NqD6vVaP1TW0oiqWv5wioTGnKBMLalnRb38IVT0ehrlx0d239WImjPpusWbSGgsTOQ3IJkWfYaNS3u8XabR9aCvRsNTTBkNJQfArd6s3fBRBLf8C0AylvXkYXlJ",
+      "_id": "695990931c508c5d5e9a3c3c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

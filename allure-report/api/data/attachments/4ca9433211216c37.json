@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:58:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-MwywydiRVQee5wGS6SMUl89guSQ\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy A5580610",
+      "amount": 956,
+      "price": 800,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T21:58:41.000Z",
+      "notes": "engacPdPojajMA1r9EBW1PNmAe0iazatTynUXEUZzrxe2ixEZ8kpgdAySPgGjUXUIEOnJz4ctU4fhpIpZX9WXpxROssPRMGid9CNtf2uqrlargLmgDeGdqQNUeUiuMiOqS3ttkjRW08N7F3rCQ9IbefIQjWLYFigOvhC6NGriqdpuKK4D8nYvSwmRMY1gP91NQ57yf1X0zybc1WnOFAbRwX7h3vUMQ7XIA00I33FS2tXBHiCsWMsASmYk7",
+      "_id": "695991111c508c5d5e9a6adb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

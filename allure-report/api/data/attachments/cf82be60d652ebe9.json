@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:57:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-q8YfrQKxnPO+0uz/RueSKE8CTiM\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse43171",
+      "amount": 83,
+      "price": 43248,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T21:57:37.000Z",
+      "notes": "0dazBfzgRMYiacRfTZ2dlWLoJdK4CfA7LuwW1Cd6AnNz0uesYeeRNTgYC1qBNE4IziW2i3gXMT098yKkWP3j6vk35CQTzNJoOiDKXVRl6srhLZD6qmfs2Ylv6cjugmpNMpLOFa3kE8IH3zJuiDjDrQZAASAuyAU4IG8qhJHZNvDYXIOy2GfGsSLs0ftfilY0AHiANYaY5OCWlUhEeHXHHs2r0DukxCEeOqWEtmiHJ4vR2TNdjrDoGYMyHp",
+      "_id": "695990d11c508c5d5e9a551d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

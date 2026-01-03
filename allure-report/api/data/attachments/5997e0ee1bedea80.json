@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:53:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-v5mPTUCAynpN2nZXMcoK0qaHT5A\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza11418",
+      "amount": 295,
+      "price": 94610,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T21:53:42.000Z",
+      "notes": "rphwyxiZ0SlxN3pTsfigY0nnQN20OqsFhjFadqUwQh1fA2KD1aVm7p4YtHDLfAB7DWt32ZDfGtMno0ic141i2cXEUHltBvbXtNZWILFVtpEc2x5QWiYiPUxevJFnAVkELi60C5CznUjraTKqukINDtYUu0G4ACh2xYuonLXvzgOyKcvTVJiYyxLD8EcJFfoqQ0qGsnXhwc3wAbiThNEdUrpm3wPkOXLt3GdNnTwv92V3FESerb6XTEPv05",
+      "_id": "69598fe61c508c5d5e99f9e2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

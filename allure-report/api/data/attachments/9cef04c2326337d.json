@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:59:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-sioiwP1doD+rYDEcYwe0Luw3cIE\"",
+    "keep-alive": "timeout=5, max=79",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard13758",
+      "amount": 499,
+      "price": 18794,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T21:59:59.000Z",
+      "notes": "5XlkwJU7oVQIjck6S6SUJqn6xVoSsEEUJQmMMWQVMrmumiNMNy22nAuiSzK3wQxX6R47Of4bZzrOckTwJwdNF1OyNeEmq4dR5rlX4Bspsqb8z0NCsACMbnPNMNON4mz83NLNMYncFWkOxmyqywHSGSOjG5bTAcsU6NLe8k5ZA238FBLH595IUHJGBn4F4ukv2HhzsoSkDcjxPMSdPy5bEigMLOvKDFslaJql457RAv1DXKb2fvWTfCtuMq",
+      "_id": "6959915f1c508c5d5e9a854d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

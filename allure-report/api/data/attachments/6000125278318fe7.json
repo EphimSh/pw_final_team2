@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:56:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "371",
+    "etag": "W/\"173-BOe5CPZjiAd0mLrT7N5ozNoUodU\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ethel.Abbott@yahoo.com",
+      "name": "ZGqxQbbloqOZQqeBHdSzhSLoqE",
+      "country": "Germany",
+      "city": "QHJla",
+      "street": "puzcSCye1huNTGtUFg1q0mnsULTqoXk6",
+      "house": 141,
+      "flat": 4,
+      "phone": "+6987894686",
+      "createdOn": "2026-01-03T21:56:23.000Z",
+      "notes": "yXPZsfkInYWJEQo4xdcFuwQyOdUE5QkoQbyRuTUpxUY4Zg",
+      "_id": "695990871c508c5d5e9a384d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

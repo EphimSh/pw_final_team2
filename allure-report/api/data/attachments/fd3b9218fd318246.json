@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:53:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "533",
+    "etag": "W/\"215-Ot3LqWYHkXEdsTmtYJJyQtuqwoU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Greg_Heathcote48@gmail.com",
+      "name": "RhzbDClcvoJPzDPAfUUpVXZHLmgSruxckKOEry",
+      "country": "Canada",
+      "city": "YcoWrPrRe",
+      "street": "Dc9qV0mVnuNl6z4dAFkz4ihdaDekU4",
+      "house": 140,
+      "flat": 2,
+      "phone": "+7839535903",
+      "createdOn": "2026-01-03T21:53:14.000Z",
+      "notes": "9qKGhaHpIeRpmTZUo0C7HNsbA8tiZDgVfPsyVY0IXruE2I4bNeEpOs82iSWAS0LKWg7PfMnzE8p2wIBjKgVU1oQgo1m4rANeA2ne9SowKhgGItjF6oY3DneDuQPWoekpMfN5WDuiTYaGUGRxRfJ06hqElpIWkV6wSwAy1AhkwrI1s6SP5Dc7IBQTFUbduoa",
+      "_id": "69598fca1c508c5d5e99f15e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

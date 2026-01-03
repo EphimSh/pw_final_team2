@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:57:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "548",
+    "etag": "W/\"224-gATGkIHkHxvPIuIe91mPww33zeo\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kellie.Schneider@yahoo.com",
+      "name": "bWTmIDjnxtJJYGRBHAMig",
+      "country": "Russia",
+      "city": "HlpxmgdHlsyYS",
+      "street": "hQwRy2QyWx",
+      "house": 46,
+      "flat": 5,
+      "phone": "+5400362130",
+      "createdOn": "2026-01-03T21:57:02.000Z",
+      "notes": "cPvkMGmR8gCT33skFXYivuDTNQcMp55YLmWYU8FPNItMBXgnnWMBwmTzL4jZ6osQ3qqMLttyGnLzpHQwiTlaoko2VHVtf55BoxgELSZNLVWNI9c67q3T9iHGfxb5dx370QCpfkLCpWAlnjJi5FXQ0V1G92v78RtIuHYazttSVtJZ8Ehd3oL2ByTY3WYvN1yjJg9V107mZNRakxAxbxIta4RTVkRyc5K8WZbTrNffbGSkoQy7",
+      "_id": "695990ae1c508c5d5e9a4737"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

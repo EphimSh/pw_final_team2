@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:56:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1703",
+    "etag": "W/\"6a7-FBbmhjIp3NXvIRQW/m6qlDiiQFo\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959908e1c508c5d5e9a3afa",
+      "status": "Draft",
+      "customer": {
+        "_id": "695990871c508c5d5e9a384d",
+        "email": "Ethel.Abbott@yahoo.com",
+        "name": "ZGqxQbbloqOZQqeBHdSzhSLoqE",
+        "country": "Germany",
+        "city": "QHJla",
+        "street": "puzcSCye1huNTGtUFg1q0mnsULTqoXk6",
+        "house": 141,
+        "flat": 4,
+        "phone": "+6987894686",
+        "createdOn": "2026-01-03T21:56:23.000Z",
+        "notes": "yXPZsfkInYWJEQo4xdcFuwQyOdUE5QkoQbyRuTUpxUY4Zg"
+      },
+      "products": [
+        {
+          "_id": "6959908a1c508c5d5e9a3a09",
+          "name": "Chair67592",
+          "amount": 656,
+          "price": 54429,
+          "manufacturer": "Samsung",
+          "notes": "YDh35uPXvl8moaK7u5w4Pqe9LhTdXcFOl294VwJjwMiSwp7yuukHfX78VDCuN7TujV5jzHBAlsxgqSZECb1gqkCDNR9Up8eEAuzLwaYU7cF88kw5FRz6IUbRQ4q8GjFc3o0rtyDtSaaMabb4lF6Mvi0ZqC9azi4qVwmbJG8CeJH3xKTdvvTLiKr6iQImkueJbrtkqVAfuaWpMGEzXoww93nM8Eb9sPxtvN7LM2RqQ921WZ5vPN2NqJp9qL",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 54429,
+      "createdOn": "2026-01-03T21:56:30.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695990871c508c5d5e9a384d",
+          "products": [
+            {
+              "_id": "6959908a1c508c5d5e9a3a09",
+              "name": "Chair67592",
+              "amount": 656,
+              "price": 54429,
+              "manufacturer": "Samsung",
+              "notes": "YDh35uPXvl8moaK7u5w4Pqe9LhTdXcFOl294VwJjwMiSwp7yuukHfX78VDCuN7TujV5jzHBAlsxgqSZECb1gqkCDNR9Up8eEAuzLwaYU7cF88kw5FRz6IUbRQ4q8GjFc3o0rtyDtSaaMabb4lF6Mvi0ZqC9azi4qVwmbJG8CeJH3xKTdvvTLiKr6iQImkueJbrtkqVAfuaWpMGEzXoww93nM8Eb9sPxtvN7LM2RqQ921WZ5vPN2NqJp9qL",
+              "received": false
+            }
+          ],
+          "total_price": 54429,
+          "delivery": null,
+          "changedOn": "2026-01-03T21:56:30.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

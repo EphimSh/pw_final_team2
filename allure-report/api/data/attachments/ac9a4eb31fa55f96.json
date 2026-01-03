@@ -1,0 +1,161 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:57:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4165",
+    "etag": "W/\"1045-nuXSR0eEjXo2kNJmExKpL5ksKWI\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695990ae1c508c5d5e9a4751",
+      "status": "Draft",
+      "customer": {
+        "_id": "695970711c508c5d5e989a96",
+        "email": "Elna.Gutkowski64@yahoo.com",
+        "name": "Ethel Von",
+        "country": "Great Britain",
+        "city": "Bartonstead",
+        "street": "Wuckert Well",
+        "house": 38,
+        "flat": 469,
+        "phone": "+15097924724",
+        "createdOn": "2026-01-03T19:39:29.000Z",
+        "notes": "sOkAkN3XI2m2lgpDwyKOtEd3kmM8hjv6jVlIXNPnopnWSvNlWSWzkWTPXBbAD6TEEIobtMeR1BRtVwoTFHH6KXaV7fc8YAUXabjdQefWDgkP9VbC53rLqlmq2QGbLiejN4jIyUsFrhfpc4vVPZ4Ejw6bUh0nZVtXPZrREB9jGPmMtZL2ZGQgpRmVL3EuSOgv0Sydq5EQVs1Y2QQKNL7yFf9Ft0IrrU3Cn2kNGIRISw26QrtCS88ksH9M9P"
+      },
+      "products": [
+        {
+          "_id": "695971761c508c5d5e99198c",
+          "name": "Computer87329",
+          "amount": 951,
+          "price": 51169,
+          "manufacturer": "Google",
+          "notes": "DSklrwipqfTfMg7uR7WKVM4qSAGG1Hq3YrWkOZq4RSAYDGZi9w1cI6uonLINaezUsRhlDiN51zrUKynyJcfkAjpVLbCssaBe1LKnAmN2jjjbvyKtIdBgNKn4CKozeM1oJvrJbtZV84WlhPnlAsH9LzaVJKv2VLbtG1ypDX7ze3Ulydibe3dpFT1EiLouDC1HvTD1aNoDjI40D1O9ynv22ThDZzK3cwL1Amp9ORX4MEVTM6K6YBvW7cwsHJ",
+          "received": false
+        },
+        {
+          "_id": "69595ecd1c508c5d5e967e42",
+          "name": "Fish6103",
+          "amount": 5,
+          "price": 62412,
+          "manufacturer": "Samsung",
+          "notes": "IN6tdkO99DTRSq9F9Kb51OhrGHLTg2yNgX7WHUH2Nrn3ULlL07r2ej7TQvsmrU8lpaacX5MuMA1hX7gAmLQQAk5pKf8cDk2L9PMA7MSUhf5ZtYef95xo4IMGzOCGRmi08pCen4aK56bCV9BpCzQkIRcsfYbe3HeDZoVtJjSTBs91Mj6XoriA9HcjkVNiIvMT2zzPEgknLtsvNWobBICEUpHzg1pmWfzCfm8Pg4COKqD9BJKvQsjoUdYEfE",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 113581,
+      "createdOn": "2026-01-03T21:57:02.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695970711c508c5d5e989a96",
+          "products": [
+            {
+              "_id": "695990ac1c508c5d5e9a4619",
+              "name": "Car90222",
+              "amount": 447,
+              "price": 51254,
+              "manufacturer": "Apple",
+              "notes": "JdcEPX46FNdoquwwQeMwyCuHdXR7BNNOAwXVA1Fg3lJb9Ia3LbvNAeAkjzmrY3h45QPPRDE7SMxZo8fMhFG62fjOjnL6d6aajbItGaU1DcPA9irZZPuCHGvDfFZ0FwCDZ1B8ddPbo2gk2tBdsBTzIV5idASY68Mm2VQs3P6i9w9exRCM126wi8wZH0gXonN7tcymDJW7BblQCoaa9lcPIbVcsPHxQ9bipYCj7RhxPz0nIKbHyLE8EI1yDV",
+              "received": false
+            }
+          ],
+          "total_price": 113581,
+          "delivery": null,
+          "changedOn": "2026-01-03T21:57:11.000Z",
+          "action": "Customer changed",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695990ae1c508c5d5e9a4737",
+          "products": [
+            {
+              "_id": "695971761c508c5d5e99198c",
+              "name": "Computer87329",
+              "amount": 951,
+              "price": 51169,
+              "manufacturer": "Google",
+              "notes": "DSklrwipqfTfMg7uR7WKVM4qSAGG1Hq3YrWkOZq4RSAYDGZi9w1cI6uonLINaezUsRhlDiN51zrUKynyJcfkAjpVLbCssaBe1LKnAmN2jjjbvyKtIdBgNKn4CKozeM1oJvrJbtZV84WlhPnlAsH9LzaVJKv2VLbtG1ypDX7ze3Ulydibe3dpFT1EiLouDC1HvTD1aNoDjI40D1O9ynv22ThDZzK3cwL1Amp9ORX4MEVTM6K6YBvW7cwsHJ",
+              "received": false
+            },
+            {
+              "_id": "69595ecd1c508c5d5e967e42",
+              "name": "Fish6103",
+              "amount": 5,
+              "price": 62412,
+              "manufacturer": "Samsung",
+              "notes": "IN6tdkO99DTRSq9F9Kb51OhrGHLTg2yNgX7WHUH2Nrn3ULlL07r2ej7TQvsmrU8lpaacX5MuMA1hX7gAmLQQAk5pKf8cDk2L9PMA7MSUhf5ZtYef95xo4IMGzOCGRmi08pCen4aK56bCV9BpCzQkIRcsfYbe3HeDZoVtJjSTBs91Mj6XoriA9HcjkVNiIvMT2zzPEgknLtsvNWobBICEUpHzg1pmWfzCfm8Pg4COKqD9BJKvQsjoUdYEfE",
+              "received": false
+            }
+          ],
+          "total_price": 113581,
+          "delivery": null,
+          "changedOn": "2026-01-03T21:57:11.000Z",
+          "action": "Requested products changed",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695990ae1c508c5d5e9a4737",
+          "products": [
+            {
+              "_id": "695990ac1c508c5d5e9a4619",
+              "name": "Car90222",
+              "amount": 447,
+              "price": 51254,
+              "manufacturer": "Apple",
+              "notes": "JdcEPX46FNdoquwwQeMwyCuHdXR7BNNOAwXVA1Fg3lJb9Ia3LbvNAeAkjzmrY3h45QPPRDE7SMxZo8fMhFG62fjOjnL6d6aajbItGaU1DcPA9irZZPuCHGvDfFZ0FwCDZ1B8ddPbo2gk2tBdsBTzIV5idASY68Mm2VQs3P6i9w9exRCM126wi8wZH0gXonN7tcymDJW7BblQCoaa9lcPIbVcsPHxQ9bipYCj7RhxPz0nIKbHyLE8EI1yDV",
+              "received": false
+            }
+          ],
+          "total_price": 51254,
+          "delivery": null,
+          "changedOn": "2026-01-03T21:57:02.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

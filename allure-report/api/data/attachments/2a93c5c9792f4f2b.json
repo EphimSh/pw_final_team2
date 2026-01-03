@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:58:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-fpHl2X+nPXgvnB3hpfWPL+HuWYs\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra90695",
+      "amount": 377,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T21:58:55.000Z",
+      "notes": "fcVAnuN1CYT3pB0SzNtnxb7tTFRWFiXZOYESR4tZHGQKtpmQv4wiIp6mZpVkIcrZOXX1lROE123UeEeEw9H7Pa5mjkdiAXly9ebVFfkTKzcmkRN1SGCmRbfySM7iSYE5oTJEuh0M7IY1Rg2bK4lTyyuXnVew3yudhhMQyoC0XWOYwLVfbwp7uTCQdtQ1Ey4kSS89R4hyRRMrIk3rSV2kCwxXGBveUJuDqP8FfTQckec8hbLloUOJN4dyHD",
+      "_id": "6959911f1c508c5d5e9a6d0a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

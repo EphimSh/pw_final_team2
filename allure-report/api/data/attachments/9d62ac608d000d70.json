@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:58:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-5sgUt86USV2AMZzaMvQm1vI6SC4\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X61420",
+      "amount": 840,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T21:58:35.000Z",
+      "notes": "GNtxRU74c5KgdjmvczN0AWjWY8IO6V1gmAiOyhQqvgi7TtfOagNQDCUsrCeOH26BLQdyLEucbJVXdJE3Jou0my0vTXhWjoM1mbbF5ZwbMO1rxgnupInvGGFMKHxEUz2HBDlKhFMOs0jnLW2sdOHIUB28NMmLMcACpgVnN1RmghklFThReNWNuAQy8ww4qYdx2lFt7mhOlPJAjlNQv4H4cN5aUmkKHzOxHWf0uJ4ahlqV1gbBh1XaFKjMqJ",
+      "_id": "6959910b1c508c5d5e9a698a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

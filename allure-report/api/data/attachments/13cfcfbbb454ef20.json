@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:59:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "474",
+    "etag": "W/\"1da-OmjhV4c2rjb2VtHNo/OHlerP2pI\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Microsoft Surface Duo 311322",
+      "amount": 789,
+      "price": 2200,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T21:59:54.000Z",
+      "notes": "uhH6MdAvkQoemWrdr1hHnCV5yuhVo66hF3TM00I5QMqbsFXQLTuTKlhvfMSTr5qvEv1GmlC1yB5j3Q8OsFqnGSTjBMvKRsCgSqhitQqZIFa8FrR8dLquqAh5cCJQtLe7XkvFYMZGV1mvWrbTnue6bZfRBSwFBmsodX2p4dNdlI6rI4ccQOlGwPIJSQvNtYLcMKQER5rqpEww5fLlnJqfbgn7sfQwKvojjAt2FhS8K89AzoDvdsRn8eVNvp",
+      "_id": "6959915a1c508c5d5e9a8450"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

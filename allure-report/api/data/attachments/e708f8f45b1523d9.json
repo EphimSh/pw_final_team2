@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:55:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-URgsJYJaX4ulbYYDcO7UrSdCnsQ\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap61470",
+      "amount": 754,
+      "price": 14746,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T21:55:56.000Z",
+      "notes": "a6vcJQZYkJYmb8oB08qkT7niD7s4Gj98TfPpzTfvFiWIhLLpdZ45BBRDispVFRnQHPd1IESecfI4aE7G33VTnWpiXCjxwTUcQY8ob3QSLNqjoIJMsOHCB3z9OU14mr0CJyL9poZoJvhpVGQIqVQnLZg6UUMeoU7D9hgQsoWGFvb0jOBiTdevT3bnmH2Q3ROBObwI6BnGTQxYiBoLSfojERVgNz3ZxJHGL6uUuApLXTOOTMfQM8Uh10yZSC",
+      "_id": "6959906c1c508c5d5e9a2d8d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

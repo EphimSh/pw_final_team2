@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:58:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-ZCX0SdNmP5Ij0unHwnHNAswZrYU\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken87588",
+      "amount": 198,
+      "price": 63091,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T21:58:35.000Z",
+      "notes": "7UIeM9yhhM3QT1ORcj3mLBXkLLQSSDwIcGcjulFTOZOLbch93ryTMzfZxCZbBvaJyISO1FAHZmIs5dTCxrTi3Y7srClGxcLlTGHDlnHjIufVzae17qBXafKB7ZnpI3ohp028VBuL3KHqRaBdVSrdRjQngAP5ufPZmEos7b6x7ZuFfjJ3xrNbucxc8poQ5TZUkcXbKcW2CScrgPEWJM3lkCitm6VqyWnTR8Y5o8w2psQ1FGCCjos1X8XxrA",
+      "_id": "6959910b1c508c5d5e9a6998"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

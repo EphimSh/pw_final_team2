@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:54:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-A+fvvpCS1PTUn52znFhXWnsViyM\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike93916",
+      "amount": 107,
+      "price": 92680,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T21:54:33.000Z",
+      "notes": "hIiKhaOYndoMsJ6ZnYBBPhsMAwzcmYyDkdJh4X6A51ZvLpgcBVkjUU9YRpxzz1xAWHaIlScvJhLi3hJsgmYvYhxqbeb0o4lkXxKUqNCibjpRD5PmqnAalZnk8IAZQaumrqnaMDdJA7hG6YLDImMLDEAezAOxqkF6eLrGcgKLvaCdLX4sZkUfQAHak3zqKFbbf7jYaEu7ObhAxd0qrqGTBt39W1NILxGn9Hn9ouIPNgea5Dm9ls3L1juQa7",
+      "_id": "695990191c508c5d5e9a0c95"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

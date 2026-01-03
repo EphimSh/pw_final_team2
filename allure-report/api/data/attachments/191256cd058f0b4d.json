@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:54:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "311",
+    "etag": "W/\"137-+PvV62utBLuY+ZjJ+U9O53jvvLo\"",
+    "keep-alive": "timeout=5, max=55",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Quentin_Volkman@gmail.com",
+      "name": "CJ",
+      "country": "Germany",
+      "city": "KlYzFTzftKQfWdq",
+      "street": "08vfO06EXOIj3",
+      "house": 82,
+      "flat": 7,
+      "phone": "+7680203342",
+      "createdOn": "2026-01-03T21:54:08.000Z",
+      "notes": "OwB5RKkuVF13k9ZrN",
+      "_id": "695990001c508c5d5e9a02fb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

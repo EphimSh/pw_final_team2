@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:55:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "538",
+    "etag": "W/\"21a-QGkJv+fdLzH5CI5CDw6M1jYuh3A\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Marques.Morar@gmail.com",
+      "name": "fYveHJZJPySnZGcHIKxwgiD",
+      "country": "Great Britain",
+      "city": "KWdYUisNDZrR",
+      "street": "KbA97fqp3eBpM58G5Dw0IBPpswsI4pMES",
+      "house": 75,
+      "flat": 7,
+      "phone": "+0008605860",
+      "createdOn": "2026-01-03T21:55:52.000Z",
+      "notes": "gMjR4vjGfGioex9FoAtMgIU4AHjbaL1mZPekaY0YJvL8xCd26KoPeOFXvcEuXGOqtx4YF0R6PtDZKZSXPzYEWJZNg9kMRweOCbC03xGleJVZ5OqfAb5NdlH3NYEPaxelu3JdUOdSKGUpgYs2Tkn8KsPoN6EbHuPCOPOwOmT2BbxefHjKopETfVuSDwkLiTlvYVbgm7RDiR",
+      "_id": "695990681c508c5d5e9a2bc2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

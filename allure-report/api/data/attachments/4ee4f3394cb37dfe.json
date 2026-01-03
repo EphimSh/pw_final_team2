@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:55:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-F3uQLsHHa7zYsVAg+6l4CdyC0vA\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish50145",
+      "amount": 277,
+      "price": 74642,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T21:55:46.000Z",
+      "notes": "q9RbkRddH58IsoJJi1w2gIMRit2xbBGoD0ugVSaUemmDO8xETky5mw9L8VqDU1n8RXkqjmNAuRsOO0QWmquePRuaYI3G4XRiE02OfnYXyIqH0YT11XtJvKw6roALKgeAwDtvfJXARQcOPr2ynYhtNbrpGlEuALc4E1YuT5UFGC2ydrZm9WABABvuhFlvEXQXbJaVGAbdsmxhhxVv01ZaerHPmSBgx9G2mzzos3QoQrmjyRUu6NcMvJeM6p",
+      "_id": "695990621c508c5d5e9a2a79"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

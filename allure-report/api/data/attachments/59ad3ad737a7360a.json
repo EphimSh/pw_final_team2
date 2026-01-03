@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:54:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "415",
+    "etag": "W/\"19f-C6fjuF6MRZ1lTgESscDB8ojqi28\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Emiliano.Hayes41@gmail.com",
+      "name": "RF",
+      "country": "Germany",
+      "city": "QinadUMNxkcQQ",
+      "street": "d6RZ2zgk81RYAbdqOachuPe3F2CEfo",
+      "house": 39,
+      "flat": 8,
+      "phone": "+1383281282",
+      "createdOn": "2026-01-03T21:54:42.000Z",
+      "notes": "QMhuAglDcThEq7IKpvfv8unGI7RZq6JSyN2FGUnslNopStAvrN0XFNhupc6796Zr6NcCET8ZPr4Pe7gtgKpAvokTZKHF00D8MpTNLJC6k",
+      "_id": "695990221c508c5d5e9a1150"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

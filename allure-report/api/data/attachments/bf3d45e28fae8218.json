@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:57:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-ydTaObYr0X5bHTviItFMZoNo7Qw\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard40977",
+      "amount": 31,
+      "price": 58020,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T21:57:34.000Z",
+      "notes": "zQoFwogdT32YAQc1OaBzW1eQAAHCuT9YdhWPVl64dsfbbk49Vt2za9AFO6i7X4DkMdFROYA0FBAb7obgmdPqA7zX7VkL14xUMF8R00aACVhf7tl5aWkeqvrh41FxK4BNK4De8QDHpsW8NQTQbL2O9KOP0ictcCHRJrZVWdX7cULljSymZSNjC4E65AMhmsd9JMglWQxM4xzf6LHGGFSzOOaEIV3loowZ3YROzNG5lCJ4ktKCo7I9urYBnv",
+      "_id": "695990ce1c508c5d5e9a5363"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

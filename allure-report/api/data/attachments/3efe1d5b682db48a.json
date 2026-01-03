@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:53:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "389",
+    "etag": "W/\"185-Oxf4lmizZXEoQr8rbGGgqzwp7YI\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Marcia_Christiansen92@yahoo.com",
+      "name": "LBeimSeB",
+      "country": "Belarus",
+      "city": "YySbwj",
+      "street": "Ez6Y3l1nRAKaw5Ch7cPQud1IGPE23AuMKY",
+      "house": 151,
+      "flat": 1,
+      "phone": "+6728874999",
+      "createdOn": "2026-01-03T21:53:40.000Z",
+      "notes": "BCVutmeWu4HZzl0pyRERkqko6Uhk10JmcBvfYSiPxMzLZf9d6U0NvE4bbqLUs8O4QQThBU",
+      "_id": "69598fe41c508c5d5e99f8f8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

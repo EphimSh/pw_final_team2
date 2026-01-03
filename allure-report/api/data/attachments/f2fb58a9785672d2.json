@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:59:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-lOnHHPixYp6NPXEg9gTTtqJhlWI\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy A5519370",
+      "amount": 680,
+      "price": 800,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T21:59:39.000Z",
+      "notes": "QBQu81UbsHbHvU4d4YNKoVzxb7P6BKDAZ5BqYjTKOj9kQXNaTwKAo6BAthpQpmnhA7UyW23wNajAinurDLM3h4h3h6eeYCvy4FUdpeDOpwIEU1845gTkVAuUOr87RdzR3pKOBLVV5Cly4JwYTfDiA5Hkm4KDUxwnhrtwYkm0si4d7yYkZCcPzFfEVrlvzFmznx94oPSjjw2NBalQhEnsxk4oXjjOdvTkfvTUCTKU5bRbHNkYB6x4iAjR7Y",
+      "_id": "6959914b1c508c5d5e9a7f76"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

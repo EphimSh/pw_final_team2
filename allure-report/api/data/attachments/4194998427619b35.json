@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:54:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1775",
+    "etag": "W/\"6ef-aMlbjg1wsdsd+CN4pTH4AEVFEKQ\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "695990141c508c5d5e9a0a78",
+        "email": "Guiseppe.Gottlieb@hotmail.com",
+        "name": "BObKCKvYmOUZCAxQZcskEykGI",
+        "country": "Canada",
+        "city": "YargNInNzOS",
+        "street": "XKs8aw3Jfu",
+        "house": 81,
+        "flat": 4,
+        "phone": "+0388416684",
+        "createdOn": "2026-01-03T21:54:28.000Z",
+        "notes": "NHlsgoMRBhBRvdddpGheDqrbeapnqprZBjpKdSd2fcCqPmKL4QgaBAe9qyL6Poyv17ig30S2qsuIKM45mpOBeV64xzPAtZdwTWyhy8LFFv8hH1TvoyacgkhbydNUiynm9DtP"
+      },
+      "products": [
+        {
+          "_id": "695990171c508c5d5e9a0ada",
+          "name": "Chair70961",
+          "amount": 425,
+          "price": 22492,
+          "manufacturer": "Xiaomi",
+          "notes": "uUIKmredIeeKlpUIJnluDSwjpSrMpqHv0xPyjx3RbZb15rvo0WzBtP1ni9peeDzeKTplCKc6ZRxGSPAw5IjJfRDDtzA4s6hiFfvMQsXs8PGcj8pxO0El7palVX6m8q3BOQ7WEU8gDB22UQEVrtbIfsl0qgJJcEqleHlWOL0gdyoj8ie4WbTFp2ImQGunMpAgwHyCI7xeyg2rord3GYZGV7S8l4iq2qiPPlwIBmK1aMMQsuJvIdblhGS4m1",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 22492,
+      "createdOn": "2026-01-03T21:54:31.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695990141c508c5d5e9a0a78",
+          "products": [
+            {
+              "_id": "695990171c508c5d5e9a0ada",
+              "name": "Chair70961",
+              "amount": 425,
+              "price": 22492,
+              "manufacturer": "Xiaomi",
+              "notes": "uUIKmredIeeKlpUIJnluDSwjpSrMpqHv0xPyjx3RbZb15rvo0WzBtP1ni9peeDzeKTplCKc6ZRxGSPAw5IjJfRDDtzA4s6hiFfvMQsXs8PGcj8pxO0El7palVX6m8q3BOQ7WEU8gDB22UQEVrtbIfsl0qgJJcEqleHlWOL0gdyoj8ie4WbTFp2ImQGunMpAgwHyCI7xeyg2rord3GYZGV7S8l4iq2qiPPlwIBmK1aMMQsuJvIdblhGS4m1",
+              "received": false
+            }
+          ],
+          "total_price": 22492,
+          "delivery": null,
+          "changedOn": "2026-01-03T21:54:31.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695990171c508c5d5e9a0ae2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:58:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-WU5L80eASoEBZ40N7Rs46IVU37Y\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna11476",
+      "amount": 0,
+      "price": 29970,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T21:58:05.000Z",
+      "notes": "HH3l6xQFXGh52uJcLptEwryRzCxpumlzbQtM0swsQAhFgn6iOmp24STC5ThsiNpKA71fKyUBUQszcse631X2Zdp0HYAqFg2NWITOEXO1Ekd6EXlc5GUjmKyAbixt0TUkrmOWHL0dwRch6IVXG18Gtwcsi5BdrY7We4pGxeax0e8qYjgEFBiUT6dAQFyFhS31Grf06JTt5f4EMAoc2MOwzaJMM8wAEGTT2Zdi0jXWDHgPSi3oxb5AvtmNYu",
+      "_id": "695990ed1c508c5d5e9a5fcc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

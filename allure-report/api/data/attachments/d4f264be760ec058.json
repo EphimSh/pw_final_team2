@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:57:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "490",
+    "etag": "W/\"1ea-QQxbUADyCjSMnlPDdUmtjYwKOvo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Wilhelmine_OKon@hotmail.com",
+      "name": "nUXyWikrFiUvTPWcjGtFZweYHW",
+      "country": "Canada",
+      "city": "lvEtkpza",
+      "street": "u96FzCzCeaVfQp46AeAWzkOO8lwhnoqexdNjO",
+      "house": 53,
+      "flat": 6,
+      "phone": "+5700599035",
+      "createdOn": "2026-01-03T21:57:18.000Z",
+      "notes": "wpbXyWxX1Z2nsmzb24lNGFomUSY6AtUX5ugPHigxJZYcPQDgs9mjnCeEsVFlZwv04MEU1dAFzP4br4HN9mRsmgHjjC6VaLMS8zZVrzFCpJDKD7CzxjS2eJem4uEIC2JcSj1Eob1VOifHDyNLMvYGolJeMt",
+      "_id": "695990be1c508c5d5e9a4cfd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

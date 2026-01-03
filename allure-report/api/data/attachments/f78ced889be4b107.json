@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:57:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-RgUbA+EYfO9nI4OCzIltIqBXA8k\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves96484",
+      "amount": 563,
+      "price": 1,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T21:57:52.000Z",
+      "notes": "zcYmat8t46MTMYxXP49Pac930DKO8EYTCcFt5jBJwBXo6NtS5fsl2cmOJ4RnKqptD522DJHlNLVXgJw2jqYwjGOFuS25WPYTyCYBbpD3qDA388loAi4whCJXPqxFg67mY639zJ4AZuzqQJvEcYnLp3LEIBWwFrf6QFhk5547DfpiW4Dj43oeWarNu0gnnn6tNmgcVeNIXk8XS14hMOMTWE4pukT8wxJbcdsmEt7MCQAYCSRasYNmRx5udq",
+      "_id": "695990e01c508c5d5e9a5a85"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

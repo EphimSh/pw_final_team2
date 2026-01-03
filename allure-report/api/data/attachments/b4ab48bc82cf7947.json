@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:53:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "362",
+    "etag": "W/\"16a-3QKzELBK4Z0ZW50mPFtL2/Rsoos\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "69598fcd1c508c5d5e99f2ab",
+      "email": "Flossie.Sanford76@yahoo.com",
+      "name": "pVGaa",
+      "country": "Canada",
+      "city": "CkowYjNskPH",
+      "street": "gYuwp7lOCi0AxNzk19c",
+      "house": 106,
+      "flat": 1,
+      "phone": "+7640653069",
+      "createdOn": "2026-01-03T21:53:17.000Z",
+      "notes": "RxZS0dN6q3bDwuRlJmJvHoe58JDSKuSP3OfyXZlNg3ExMvwn6sEJvJSqUw2eb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

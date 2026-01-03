@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:54:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-F5yoldwwF1E5QOAIt6CikDoQ4ZQ\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse83323",
+      "amount": 271,
+      "price": 80933,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T21:54:08.000Z",
+      "notes": "t2muuvkj182GxiBG4iLFHhEgwP9R8Y72iL2SiOUf1zN6OO8uxqy2i20NwTrmZigngzLr6KjgPruJ8d3HqLtyj31trUQYYpxYHKuJ0hZ4LUl0Fl5j5JpTFPDN4VYV7CJ53SGpxACrep3KiN4liqFV7gvGY7aPKQvVhI7SPg61DColkOXAOgPFIfgwkzMWBG4pQZVt64coxSCFCf4e8QCZ5mk26bP2gVaX9ueyZf2iZ8ILDjUbdBxTH3BX8x",
+      "_id": "695990001c508c5d5e9a0301"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

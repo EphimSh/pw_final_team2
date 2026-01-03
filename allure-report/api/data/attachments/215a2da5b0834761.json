@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:54:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "554",
+    "etag": "W/\"22a-+vHLRyXN58qkLG7V4f/UZh9ALk0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Burdette.MacGyver72@yahoo.com",
+      "name": "TeAC",
+      "country": "France",
+      "city": "DftPIHo",
+      "street": "x7lVsC4iCf8aV3QAwJQo3hWy5Z",
+      "house": 193,
+      "flat": 9,
+      "phone": "+5541066344",
+      "createdOn": "2026-01-03T21:53:59.000Z",
+      "notes": "4STW6DX02Ic8C5aAUXQYC8AfLteoFkJrfi94dv3eBMhaENqhmKLZvt42VWdRqNrmm9AxGY41hk9MhaDZsOddytaReYW5UyFeJGi9B86ZfxRis0KCKEPsKgqlnFbvq42l8BSVmxD2dJT5uXW4bCPBlXGAYG03SjWejF5LGsuyI23KeGGyacYBzl75LCMIYUFq5ekPJ7W8s5FWU61Ymsgm9Wys0FESolCbKLFSWPRUS62cZdQ37XCtPsCZM",
+      "_id": "69598ff71c508c5d5e99ff74"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:54:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "542",
+    "etag": "W/\"21e-0SNZMtyK2KDIhQBEshz3lJyeDeU\"",
+    "keep-alive": "timeout=5, max=72",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "David_Kutch10@yahoo.com",
+      "name": "zCjjLRCjwCSZxDAYpojlWQQathoHIrWtFdZ",
+      "country": "Germany",
+      "city": "kEszfXIAI",
+      "street": "k9NOFV",
+      "house": 49,
+      "flat": 8,
+      "phone": "+2731662319",
+      "createdOn": "2026-01-03T21:54:52.000Z",
+      "notes": "GtTHzdR0btPLkeToO0P8pfKEDJZe5C8bEeiJjoHSsNMIQIZiJBzNMx5pJXwrBpyLkmJCOoDPoEcnHStiWy7zEsU9bsVU3BF7VApytkWte8WpRtocZywbQ8wyIrO4MB6ii3kAY3mt5pXINwOSGtqaX9LH3aSzIWKphuJxGWpfN9NfoDFXV5QblXp1rGhjhFu5r4NkUjunXBqTRQIl1LMzBsV7hahlvwtVLNFsiW",
+      "_id": "6959902c1c508c5d5e9a13f9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

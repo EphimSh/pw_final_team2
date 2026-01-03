@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:53:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-dUnjz5/HPRllOC9td4tBfhXwpIU\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza97220",
+      "amount": 712,
+      "price": 87464,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T21:53:47.000Z",
+      "notes": "YZjzp7LjHU6iPOG0tpwIR3uKPQhxYItqa0dWy1ulKLb3SjIcC9M3NzJcQwRvvwtFnLjgUCQFj8L6d7F2X9wqttP61x9WBZhkfAIXL47MIHev9RvRyy7rAnwHKbOFDicg76Uvaj9f12sptgbvqMptfCfZCR2q8PA8Zoj0vRCenApn1AFK8mdkgwJXGYGA3l1DlF4MPtUZL18gxTJaVuzrGEFNYJL60oA77oxzLfGvSmLt2EHQiJgj2va8Cj",
+      "_id": "69598feb1c508c5d5e99faad"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

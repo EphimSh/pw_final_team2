@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:56:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2941",
+    "etag": "W/\"b7d-ypoA2Yxm2UkufVXouZ/6cJwVgqs\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695990651c508c5d5e9a2b6c",
+      "status": "Draft",
+      "customer": {
+        "_id": "695990601c508c5d5e9a28b8",
+        "email": "Donato_Jast@gmail.com",
+        "name": "dBuIoaVrbqjJenGeIFqgtzgcywciowAwhLYPhW",
+        "country": "France",
+        "city": "WjuQsHfurAkVbKSC",
+        "street": "jLkBkgxs9gIEr",
+        "house": 147,
+        "flat": 6,
+        "phone": "+5055372163",
+        "createdOn": "2026-01-03T21:55:44.000Z",
+        "notes": "RTSjIDMBrcwpMMmnXYfKeIVpnNG3h6WYLruYktgveCDZn0zUGr7cjVh1p3fHcqcsXeHsOtbZMqcfvZqKYsDFVezOponuBJlWVarNyxqurf1S33OaqlCVbYLx8tBrZwwWoSJjPVKDWUwYMWgJkCNC59MoUf0qZBdKtlaNbGff8p2Ygp9FOqC1CF1LDEmSwxSp8V7c"
+      },
+      "products": [
+        {
+          "_id": "695990631c508c5d5e9a2a7c",
+          "name": "Shirt15521",
+          "amount": 996,
+          "price": 50490,
+          "manufacturer": "Amazon",
+          "notes": "TvNBPBftSN22KBQXQhhiONCf7gTUoxHgnT7JZeSNDs1YJz3DGBu1j5XrA3CX9gJDKkjI3Q7yjaWGF4JkdSboPrV9tGAnrUQkpL3WWBRJQhxcJ2YQUTYPlIkTdc7lai1hQQP1dCKMlvVsC8eYpQrCQD45sf2mVKKs953pDiPpZtfRVmszKmOCiY4C3HilPkM1dNjs8J2zSB5RDrXyH1ZZWC0pUj9dUjSV7tst2hDjJnkPuax78vBRvzTMgV",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Canada",
+          "city": "Mock City wxug",
+          "street": "MockStreetOpJ0DQWRE",
+          "house": 118,
+          "flat": 19
+        },
+        "finalDate": "2026-01-08T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 50490,
+      "createdOn": "2026-01-03T21:55:49.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695990601c508c5d5e9a28b8",
+          "products": [
+            {
+              "_id": "695990631c508c5d5e9a2a7c",
+              "name": "Shirt15521",
+              "amount": 996,
+              "price": 50490,
+              "manufacturer": "Amazon",
+              "notes": "TvNBPBftSN22KBQXQhhiONCf7gTUoxHgnT7JZeSNDs1YJz3DGBu1j5XrA3CX9gJDKkjI3Q7yjaWGF4JkdSboPrV9tGAnrUQkpL3WWBRJQhxcJ2YQUTYPlIkTdc7lai1hQQP1dCKMlvVsC8eYpQrCQD45sf2mVKKs953pDiPpZtfRVmszKmOCiY4C3HilPkM1dNjs8J2zSB5RDrXyH1ZZWC0pUj9dUjSV7tst2hDjJnkPuax78vBRvzTMgV",
+              "received": false
+            }
+          ],
+          "total_price": 50490,
+          "delivery": {
+            "address": {
+              "country": "Canada",
+              "city": "Mock City wxug",
+              "street": "MockStreetOpJ0DQWRE",
+              "house": 118,
+              "flat": 19
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-03T21:55:50.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695990601c508c5d5e9a28b8",
+          "products": [
+            {
+              "_id": "695990631c508c5d5e9a2a7c",
+              "name": "Shirt15521",
+              "amount": 996,
+              "price": 50490,
+              "manufacturer": "Amazon",
+              "notes": "TvNBPBftSN22KBQXQhhiONCf7gTUoxHgnT7JZeSNDs1YJz3DGBu1j5XrA3CX9gJDKkjI3Q7yjaWGF4JkdSboPrV9tGAnrUQkpL3WWBRJQhxcJ2YQUTYPlIkTdc7lai1hQQP1dCKMlvVsC8eYpQrCQD45sf2mVKKs953pDiPpZtfRVmszKmOCiY4C3HilPkM1dNjs8J2zSB5RDrXyH1ZZWC0pUj9dUjSV7tst2hDjJnkPuax78vBRvzTMgV",
+              "received": false
+            }
+          ],
+          "total_price": 50490,
+          "delivery": null,
+          "changedOn": "2026-01-03T21:55:49.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

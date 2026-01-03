@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:56:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-ScpeXGRObm45BFKqL62FBRlgeX4\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants53418",
+      "amount": 783,
+      "price": 55988,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T21:56:11.000Z",
+      "notes": "Rb9MRcMBwRrH01HTjKkV6fQNHpndmZv05N4qXtdhya3uTkUiefMt1uTrEOuNYzaS6TfloRjQ0zQncqquHKk26lnzkxJXjdmcWdvsIoQjuz0FRR8Z6rok7mC0ya01hj9yRFVPhcOKzH6edZcaszRDA90w6GAVbnA2BG2PnveDjQo4wdTRdaMqva7r48LCAdeY6ElCDQjd0J7CR1sZ8uaN53UbeRbiUO1OeVDohJ9XZUnrbxooZzBADUfFXP",
+      "_id": "6959907b1c508c5d5e9a33d5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

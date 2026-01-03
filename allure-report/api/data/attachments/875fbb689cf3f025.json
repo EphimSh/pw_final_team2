@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:59:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-aRiolkhfN+yROUmGmZB0BMjWr4c\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X70128",
+      "amount": 293,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T21:59:39.000Z",
+      "notes": "JUQEIXP8ZzqiYUJWujDrAoevwjzdAxUs3uvlBO1UA0ewKr3l5pBfBbyG4L5TdnsRc631D6jxEOre8M0ySjM42trDbQYWUmnlrW5eD1kc2anOgwnGGTVzQYsc8rfs3iUUz50zdEA95n9dJvfTmKwAyfoFti7fzJusAedfWLskOT5CzbF7v3VOowaQg1ul4CmKxCu4ysPbFh17FLu7HvqdSFUAiLOnTnKFuVEWfvle8elGlaULEIu9U7C2Q2",
+      "_id": "6959914b1c508c5d5e9a7f74"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

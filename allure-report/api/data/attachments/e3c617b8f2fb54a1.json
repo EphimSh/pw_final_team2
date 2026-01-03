@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:54:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "504",
+    "etag": "W/\"1f8-3k8yW3kN6H6eIgc4+9nccd4yWPE\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Oma.Cole5@yahoo.com",
+      "name": "UsarWOiNAhdqzA",
+      "country": "Germany",
+      "city": "zSMgJdacAJPLmuo",
+      "street": "VoRmUF4qIVoA3VU8xzW",
+      "house": 21,
+      "flat": 9,
+      "phone": "+4744552216",
+      "createdOn": "2026-01-03T21:54:22.000Z",
+      "notes": "PO0YeFvUQL7TynNkLCxLqbjkzinJow2S597uoH01sLpZADb1X78h7uGGWfFoWe5NoZUllmlsLgcHHFzLG6Ys6tnPrINXAnXWQJBgHLz1aDxJcpvKQ6RSOiYXaEDIsK76ZyrRKMtAO254rHDc5EWqG0JLsjvVwpYXuvPfMyfJ8nTQQBZcoTL2AYf8vTOez14Q6xVHDD",
+      "_id": "6959900e1c508c5d5e9a082b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

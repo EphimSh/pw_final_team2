@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:55:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "459",
+    "etag": "W/\"1cb-QrPvHpvEAf/pt4Q1vma/l0Z/X3k\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Rory.Fisher@gmail.com",
+      "name": "AVGcNDJQoChByNLWJDUzEOELgxctnMAKEMBqbiH",
+      "country": "Great Britain",
+      "city": "YwrkIFk",
+      "street": "uOEjDl0BGTGCKf7v9ucyCEtpkHK90eUXSgozF",
+      "house": 14,
+      "flat": 1,
+      "phone": "+3901672570",
+      "createdOn": "2026-01-03T21:55:38.000Z",
+      "notes": "Z6FiT7hcyMsUWY8KLfeHMyKBpKc9Tf1JoGOR1nUXFvuP684GI2YdjJzJKnjBuvhtH0aA5t9bvb4muNn0AJNuaYkXm4ybofNYF8RMNcqDoR3IJW",
+      "_id": "6959905a1c508c5d5e9a2716"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

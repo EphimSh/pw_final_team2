@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:54:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "418",
+    "etag": "W/\"1a2-HYk/sa6RnQ3S9Bqn3qyUXK580so\"",
+    "keep-alive": "timeout=5, max=34",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Chad83@gmail.com",
+      "name": "JqivEcP",
+      "country": "France",
+      "city": "gPUbKqOqP",
+      "street": "joIVC",
+      "house": 166,
+      "flat": 9,
+      "phone": "+1248973444",
+      "createdOn": "2026-01-03T21:54:39.000Z",
+      "notes": "V3pabPKFODZQqsKuS8JwAt4CETPkHKtAzYv2jys5vFq6JrMvhHproxsFWlzvit5DYBqLtIEAE6QU3I5Xau1QMcCkCK8vmo0P0C6rsXJPOKBACugZUlQu7ZmyW6rhRuY72UDrEWDuMTsbs0",
+      "_id": "6959901f1c508c5d5e9a0e8a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:54:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "388",
+    "etag": "W/\"184-U1NwlAFCT/5/pYGzx67llOEd0X4\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kayley4@yahoo.com",
+      "name": "kpdAmAyTfIIwSjitp",
+      "country": "France",
+      "city": "eZh",
+      "street": "vmms",
+      "house": 191,
+      "flat": 9,
+      "phone": "+2334343688",
+      "createdOn": "2026-01-03T21:54:43.000Z",
+      "notes": "MMMy5dWh8CEvxafJZFKH31fCfPNPm7ak24AeUC6d3zhS7oxKjNPwePbbkpM9vzznD1XZ0ZQ4O8PSCeeiDg9Dy2JDWpOqfbRX3PDmFv7Jzlrj",
+      "_id": "695990231c508c5d5e9a1152"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

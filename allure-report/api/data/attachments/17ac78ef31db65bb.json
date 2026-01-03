@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:59:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-LDYXjujO56NdgHwoDwRHeNeGhKg\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse9223",
+      "amount": 517,
+      "price": 97903,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T21:59:44.000Z",
+      "notes": "4KGJHl5jtFcKTF4ZUVx910N7QJP9H7b8kdsQDo3yScTN1SgfnQepqcZAHJKM0cerXbvRpTPOptnQMu0zNAcX8q8t6lXy7WOkjC7LjQO9NKN5UpYAqeoLKy01jsZm97Qd6i6BCCa5X4utPSyNhJt2l5TK9RRDShbi6spOXQVMsxAouj0hjtv5gHwTg4ALWAkXRAB9TiBQo1uqwubKDBanhUVz8X1lg3fFAAIT8Vr0rmgG3QqhK494Gq307f",
+      "_id": "695991501c508c5d5e9a814e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

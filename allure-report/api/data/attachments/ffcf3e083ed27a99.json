@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:56:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-kY33PUEw7DQxToqhoMX4QgEyYjw\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car17429",
+      "amount": 807,
+      "price": 7146,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T21:56:11.000Z",
+      "notes": "P4gBkZJ4Wb7oxpK5oCdXHeSITqC0seRehto4ySQga92fJ9cAg0eIxnYxya88IVAzw17leb9I2gE48Y5wuMXKJteauco2Wonw6fBW5QjaG1GHflIRZ9jA7vHNMVzeebvqP96f1NnX6QNMaYHdksBGXmdLfTXn0ent31ggkRhb0vscN6o2MXd74bhaSan8hwUL7SDwsbTRIVheRPCs8lYZwXu3y7LaxBz4KVMvhcgPdeecTg6Hfivw0pgxYy",
+      "_id": "6959907b1c508c5d5e9a33d1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

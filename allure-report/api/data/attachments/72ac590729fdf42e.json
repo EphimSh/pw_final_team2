@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:54:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-pBKY57D0tdPH88u03gucDl4XZJQ\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair70961",
+      "amount": 425,
+      "price": 22492,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T21:54:31.000Z",
+      "notes": "uUIKmredIeeKlpUIJnluDSwjpSrMpqHv0xPyjx3RbZb15rvo0WzBtP1ni9peeDzeKTplCKc6ZRxGSPAw5IjJfRDDtzA4s6hiFfvMQsXs8PGcj8pxO0El7palVX6m8q3BOQ7WEU8gDB22UQEVrtbIfsl0qgJJcEqleHlWOL0gdyoj8ie4WbTFp2ImQGunMpAgwHyCI7xeyg2rord3GYZGV7S8l4iq2qiPPlwIBmK1aMMQsuJvIdblhGS4m1",
+      "_id": "695990171c508c5d5e9a0ada"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:54:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "516",
+    "etag": "W/\"204-abHnkGHxrTNtrcipRxMF0MyRjX0\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Serenity.Green64@hotmail.com",
+      "name": "LBhBzcmYnvzjArgWcxvMpQiNnPIVwLSfHmg",
+      "country": "USA",
+      "city": "QZHHJxVGQY",
+      "street": "4CTmZVhh19yasqSsTqCOc",
+      "house": 153,
+      "flat": 2,
+      "phone": "+3170827026",
+      "createdOn": "2026-01-03T21:54:16.000Z",
+      "notes": "gGYsjdqFQVSD0Z4tg8TxC6JfillHDVn1wwd9STF9hG9YL0ZcIKhO3pMzG4TjeuRp4xJIJsaHGxijx9H4mLo9rJnR2LfdcDCq10hLy2pfsHQ3xoVOJC2WCOBWOGgJEmU89J5ACALVRPfTZsPopt3wbhKLnoBPlnEPDTUmlhgNfXk4sebvceOR1asFi5",
+      "_id": "695990081c508c5d5e9a0706"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 21:57:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-Lfq1093yP+Pgd8e4O0xV/EJxq24\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt17083",
+      "amount": 667,
+      "price": 54724,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T21:57:03.000Z",
+      "notes": "jHPDvXI6v7QUD2R7vtUW9VzzxeX3gsCHbMZEVvH1hnVvGf1ZTo5wEPtXo5uLopuqZ4aIVCqMLTHxJS7t8GmKq0UMWYTjLf8SxPN1PqSeGfrpyarSoLSku20MFlfpPPC3hjqHgWt7fYbO4LiMGhyoV81QRrIxqbhl0vdM1YWrDKaJD4QCs7pXVyOfvZ0EwV9tlYJNCJ40TnuirJtMi7tt3dVEWoig0aoXTZPrtRdWCpQvoRlQL4vi9HPFFI",
+      "_id": "695990af1c508c5d5e9a4768"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
