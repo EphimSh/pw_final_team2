@@ -45,7 +45,7 @@ export default defineConfig({
     {
       name: "setup",
       use: { ...devices["Desktop Chrome"] },
-      testDir: "src/tests/ui/sales-portal",
+      testDir: "src/tests/ui/",
       testMatch: /\.setup\.ts/,
     },
     {
@@ -56,7 +56,7 @@ export default defineConfig({
         storageState: "src/.auth/user.json",
       },
       dependencies: ["setup"],
-      testDir: "src/tests/ui/sales-portal",
+      testDir: "src/tests/ui/",
     },
     {
       name: "sales-portal-api",
@@ -64,16 +64,6 @@ export default defineConfig({
         ...devices["Desktop Chrome"],
       },
       testDir: "src/tests/api",
-    },
-    {
-      name: "sales-portal-visual",
-      use: {
-        ...devices["Desktop Chrome"],
-        viewport: { width: 1920, height: 1080 },
-        storageState: "src/.auth/user.json",
-      },
-      dependencies: ["setup"],
-      testDir: "src/tests/ui/sales-portal/visual",
     },
   ],
 });

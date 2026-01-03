@@ -17,6 +17,9 @@ import { ProductsListUIService } from "ui/service/productsList.ui-service";
 import { LoginUIService } from "ui/service/login.ui-service";
 import { AddNewCustomerUIService } from "ui/service/addNewCustomer.ui.service";
 import { AddNewProductUIService } from "ui/service/addNewProduct.ui-service";
+import { AddNewOrderPage, OrderPage, OrdersListPage } from "ui/pages/orders";
+import { AddNewOrderUIService } from "ui/service/addNewOrder.ui.service";
+import { OrderUIService } from "ui/service/order.ui-service";
 
 export interface IPages {
   //pages
@@ -27,6 +30,9 @@ export interface IPages {
   editProductPage: EditProductPage;
   customersListPage: CustomersListPage;
   addNewCustomerPage: AddNewCustomerPage;
+  ordersListPage: OrdersListPage;
+  addNewOrderPage: AddNewOrderPage;
+  orderPage: OrderPage;
 
   //ui-services
   homeUIService: HomeUIService;
@@ -34,6 +40,8 @@ export interface IPages {
   addNewProductUIService: AddNewProductUIService;
   loginUIService: LoginUIService;
   addNewCustomerUIService: AddNewCustomerUIService;
+  addNewOrderUIService: AddNewOrderUIService;
+  orderUIService: OrderUIService;
 }
 
 export const test = base.extend<IPages>({
@@ -60,6 +68,15 @@ export const test = base.extend<IPages>({
   addNewCustomerPage: async ({ page }, use) => {
     await use(new AddNewCustomerPage(page));
   },
+  ordersListPage: async ({ page }, use) => {
+    await use(new OrdersListPage(page));
+  },
+  addNewOrderPage: async ({ page }, use) => {
+    await use(new AddNewOrderPage(page));
+  },
+  orderPage: async ({ page }, use) => {
+    await use(new OrderPage(page));
+  },
 
   //ui-services
   homeUIService: async ({ page }, use) => {
@@ -79,6 +96,12 @@ export const test = base.extend<IPages>({
   },
   addNewCustomerUIService: async ({ page }, use) => {
     await use(new AddNewCustomerUIService(page));
+  },
+  addNewOrderUIService: async ({ page }, use) => {
+    await use(new AddNewOrderUIService(page));
+  },
+  orderUIService: async ({ page }, use) => {
+    await use(new OrderUIService(page));
   },
 });
 
