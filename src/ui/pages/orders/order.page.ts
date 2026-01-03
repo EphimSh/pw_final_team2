@@ -14,6 +14,11 @@ export class OrderPage extends SalesPortalPage {
   readonly managerSearchInput = this.page.locator("#manager-search-input");
   readonly managerList = this.page.locator("#manager-list");
   readonly managerItemByName = (name: string) => this.managerList.locator("li", { hasText: name }).first();
+  readonly commentArea = this.page.locator("#textareaComments");
+  readonly saveCommentButton = this.page.locator("#create-comment-btn");
+  readonly commentContainer = this.page.locator(".mx-3");
+  readonly comment = this.commentContainer.locator("p");
+  readonly removeCommentButton = this.commentContainer.locator('[name="delete-comment"]');
 
   readonly uniqueElement = this.title;
 
@@ -35,5 +40,20 @@ export class OrderPage extends SalesPortalPage {
   @logStep("Select manager by name on Edit Assigned Manager modal")
   async clickManagerByName(name: string) {
     await this.managerItemByName(name).click();
+  }
+
+  @logStep("Fill comment area on Order Details page")
+  async fillCommentArea(comment: string) {
+    await this.commentArea.fill(comment);
+  }
+
+  @logStep("Click Save Comment button on Order Details page")
+  async clickSaveCommentButton() {
+    await this.saveCommentButton.click();
+  }
+
+  @logStep("Click Remove Comment button from Order Details page")
+  async clickRemoveCommentButton() {
+    await this.removeCommentButton.click();
   }
 }
