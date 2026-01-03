@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-n06oI7KFnT2X1f7ESu3hWjo5ePU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer95023",
+      "amount": 537,
+      "price": 30872,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T16:32:03.000Z",
+      "notes": "jiRDF1TlPoTR27Qp5DTpfOHapmXieEa5wWRXrx1tv1L7Z0G7hImnKwvkBnHZMFZ9Ozmk9vCMQ2p20gu9AW72zSndiLnXG3SIheRgGE3yrysc7vzl8hUZxKE7VuZX046bfUa26xNe01ktawrtqcv5cXJCd2y8NtyWUv1NdJ8TytkRD7S751FVpeoZofnKFMul1KugRvI0MXxXj2ja4uao2ieW6zVnea5a48uYyHI7u8KucBqXa6MdwQxGwM",
+      "_id": "695944831c508c5d5e9046a5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

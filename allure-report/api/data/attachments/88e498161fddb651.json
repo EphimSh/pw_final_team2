@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "538",
+    "etag": "W/\"21a-WaRNXVMcYLp3uRmtEgTrar9WLuw\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Alek_Rodriguez@hotmail.com",
+      "name": "oyzbLpkGEBMOo",
+      "country": "Belarus",
+      "city": "xSsSOHwh",
+      "street": "i2BVll1ONvN3AIFv0qtm",
+      "house": 63,
+      "flat": 6,
+      "phone": "+1146141138",
+      "createdOn": "2026-01-03T16:31:02.000Z",
+      "notes": "IcBXrhrnf0K3fhTQmagGy5oyt2oZqHLHDqwnbCAhuy0FjH76wQxvovpa4rBZDiq7cFaz6sBeT8CMQ7ahfVfCPkfJjV7KoQ46rRi6xw0FNuBevhpYIA4azAnvbe3ShPUGkCIQwtblVPhVppDEOWu0Bhjs3iI8qjZLr8jfbuEVDkSdacu0NzGAyXe38Q9GjDWPxGWgGs0pdg49JWaKH1oIGQnWkbWE0jFzCB9burJv",
+      "_id": "695944461c508c5d5e903644"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

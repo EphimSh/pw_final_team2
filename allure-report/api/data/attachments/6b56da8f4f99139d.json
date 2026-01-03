@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-UD8r7M+5HBsMliaTLl14uql9fmo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes52348",
+      "amount": 166,
+      "price": 2076,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T16:31:39.000Z",
+      "notes": "kgeGtaeXSnCtGTjOTkA6VXiRetcBw7zaGZDQwTMwUgfJuY2TlpaIiTTtGB0yfG3NNVyCHLM85DMO7NxN6QJo3ckBiJQY6OC05ttaT84HGDvJqADA96rnCRPy7P38ckzPJOrjmreF95bdisoQRkWgNPlIKhIpCzTVssY3vblDqVcHBNXlHVcLEiTT0DivtsfFS2suE4w7ALGgcH7ynvJSvxnM1qosvgh6Ocic9Kw1FbO8SrWtRvxzbVEoAy",
+      "_id": "6959446b1c508c5d5e903fd5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

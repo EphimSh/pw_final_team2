@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "446",
+    "etag": "W/\"1be-Tc1V6MZNGiDVPtLch4EJgqLIBGM\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "tbn",
+      "amount": 730,
+      "price": 28235,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T16:32:41.000Z",
+      "notes": "qfc8t38ADcSVV4XLm8gnPL7W6aDVgv7E8ocAINWl5e7iKT2gLicE1RyuCkrLKTtBYlgQWY7xJYqMRhjT6Ds2Cn2aFTBi0lBfQiDCI6aohHU5nJJuvFXPU8xl6k9ZmGkEGbofBInenQ1s4TOsVLz2ZYrkk4Zi36W0ZOsvoWLlE8ukeoYnCviX3EUpaPBewCObH5WtBorCCZhQYOhHOhL0lcgLeZVkWbaoYAzVZIHTCznfsdbChdendqnPgb",
+      "_id": "695944a91c508c5d5e905347"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

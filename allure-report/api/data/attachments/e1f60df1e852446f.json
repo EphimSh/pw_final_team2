@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "431",
+    "etag": "W/\"1af-HJi1/JgvIS18q7Cc3c5aAKZ0FTY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Junius.Mitchell40@gmail.com",
+      "name": "apQEAY",
+      "country": "Canada",
+      "city": "kUEsvPVaZhgXy",
+      "street": "OwItbvtXknKwfqCkVaXGd",
+      "house": 103,
+      "flat": 3,
+      "phone": "+3883887046",
+      "createdOn": "2026-01-03T16:31:02.000Z",
+      "notes": "a4WUy1WFv2BZFLT98XuWvQv1i80YKzsi21ejHaoaRGPAPj3sOAQkUgpDjVUec3mWeoZYIkxt5Z80paq8KFMPguK73Q61eLH85rmgYHkTB3sOh6Dg81bCfWMrV4yNu",
+      "_id": "695944461c508c5d5e903646"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

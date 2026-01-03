@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-bWgjotLS5803UrvDJRjuo4XuXWo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad90432",
+      "amount": 497,
+      "price": 70216,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T16:32:41.000Z",
+      "notes": "AtgJqQr9V9t8Z5vCaBJKpFJfNzEaOI06VPNHIDa94HFLO8FCepJpHnsVvCZLkPpzNd1pmNqhzxMdUamsY8Iq8YZLhzKdT6yz57NPJ8jpPQ2cY6ZOliCR9ftxmtpdrX7D40JY9Hg5H1CTbhdQ5HFB6zCxbfQr8v40e9tCez5vGtiVyEwOwYukAM3aflUyDjLfDD4JwxM3mH73clyBAAzfqfKTMAS8lzBE1wHZtH5ZIYpLuIKvI1neN3xMBC",
+      "_id": "695944a91c508c5d5e905343"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

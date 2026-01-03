@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "474",
+    "etag": "W/\"1da-Jfp08w6rs+jKPv1t/4qkQjiRXvI\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Microsoft Surface Duo 380076",
+      "amount": 684,
+      "price": 2200,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T16:32:53.000Z",
+      "notes": "hoEsj4W114dByJ9qz8GNtytaj0a8mBV77oCeGlGkJVbrV9ESeNHpKPgqbDT9h82IzSvPzNv7O6cat5uIIdYhikJUmKyV6e2dBiX1KCrqG2UmIwrVJea6wKxfHyGzFuv489npPNAEzSo9sP8qfEbZWVbeiKn2yWip9l3st3yz3ybxAfLri06j8cia8Xnn3W6myFBto18IfvI6mZTSKgyjKGl5rYf5c9Co6TbO9Ub51nWl7aHCSpIbgjE4ao",
+      "_id": "695944b51c508c5d5e90581e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

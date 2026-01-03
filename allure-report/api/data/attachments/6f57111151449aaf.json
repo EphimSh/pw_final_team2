@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "358",
+    "etag": "W/\"166-r1J2i7xattAvX93Y9Z3gjMFEjTQ\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "695944741c508c5d5e90429c",
+      "email": "Jaunita5@yahoo.com",
+      "name": "Ivan Ivanov",
+      "country": "France",
+      "city": "qDXhCUw",
+      "street": "akxY",
+      "house": 50,
+      "flat": 6,
+      "phone": "+3871357521",
+      "createdOn": "2026-01-03T16:31:48.000Z",
+      "notes": "Tjy4Tk3hTQSIdcGCLjvrNE2kIdJ0xqArqSR9vCVrsXvmClqSl3ri8tD8nzhovGVhh8koLUH8v8qMt6q1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

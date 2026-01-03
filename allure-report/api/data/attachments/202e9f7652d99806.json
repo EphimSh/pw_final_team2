@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "499",
+    "etag": "W/\"1f3-SiLfCF+3BXpHC1p/wppDccyoqNM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Gina71@yahoo.com",
+      "name": "RcRdWKdbFftlOiiQotZEN",
+      "country": "Belarus",
+      "city": "xqyYbMZcXDibXliGGF",
+      "street": "00MZ2zfhW8Yz4wimNxEzEhx9dpyIHH9uVHBs",
+      "house": 61,
+      "flat": 1,
+      "phone": "+6193511336",
+      "createdOn": "2026-01-03T16:31:05.000Z",
+      "notes": "f7HgwRlWrHZ4Ebaza3Cydd4iRHm2pn3RvEPKwpVPcn9pAwRQjFcIk7GO9KUZKAUEVy5RPp1YOPOUt6hWXWBGc2er57Y62EAT30SHbG1awnjxg3q8GmPKnBy07EDhylk5W41qiWEbnYswt8q0vgKvITo4OBpbqxCQi1eDQp7dV",
+      "_id": "695944491c508c5d5e903732"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

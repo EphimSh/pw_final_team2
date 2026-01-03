@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "313",
+    "etag": "W/\"139-2Gw9NBAD2YdOCFNK0aZxyZbcFIs\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Sidney38@yahoo.com",
+      "name": "nCnYlSlJytXdskkoBKjFHvSIZYjClKkcAFHE",
+      "country": "France",
+      "city": "BpEhxZJK",
+      "street": "o2I7v",
+      "house": 88,
+      "flat": 3,
+      "phone": "+8170184586",
+      "createdOn": "2026-01-03T16:31:49.000Z",
+      "notes": "O48nYa9g",
+      "_id": "695944751c508c5d5e9042b5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

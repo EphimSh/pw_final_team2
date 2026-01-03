@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-0tmj8Qc08MC3HXuskQ1upvO6dfc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad38527",
+      "amount": 780,
+      "price": 77398,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T16:32:29.000Z",
+      "notes": "KKrDKxtmGc1bza9z2XWJcyqc9WE7qunZ9l6H8AAh3tKB0eYadajgtaVoUTKHzFaYrS5DFNfiyKF1F8qowTafM0w59JhSnKYVBeKh0m9wdmDp9hZJCiEI59pPuEwecHJFbAPYRim6o2aAIlKyxYqxYXRgXGXGvM29Ib6UCrMd6PSd45cqWZ9EQufQeslaCK1dY8Kht9VLTEkoBgerOIxb38pjL3FP9pvozK7ow3zJfvSZ6dHkOQNf4CNZRF",
+      "_id": "6959449d1c508c5d5e904f51"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

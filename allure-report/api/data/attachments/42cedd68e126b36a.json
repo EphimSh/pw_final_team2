@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "547",
+    "etag": "W/\"223-7yYom2WxDmOaX0U016Tjae0L5zE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ewell_Aufderhar@hotmail.com",
+      "name": "yJLyfRXCniwIPgRQymAbXh",
+      "country": "Great Britain",
+      "city": "LlfZ",
+      "street": "EVSu0",
+      "house": 134,
+      "flat": 3,
+      "phone": "+7618633530",
+      "createdOn": "2026-01-03T16:31:59.000Z",
+      "notes": "SUIRfgPLo9ZpvkYNbqItWmZ4bT6AIEOxqpDCyy7cskDHmSI2dOJZ8EeM0TCx5fbrcOG0CjM1L8OeZfLWDgvTBAHw30FHIh4KMnLMpPVCe4J9T8GOf7bvygEmJBmo6SIUNtyCaslGfFPeBoXo7SpmmW9GxdzWBfRcowm4AzoqyBhaj8I7t6OaJq7r8pM0ava8JtJVIufqNL2muKGFIWrWoZta2qeB2vZHTHwrs2hwQ75Q1KvGLp9",
+      "_id": "6959447f1c508c5d5e9045ac"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

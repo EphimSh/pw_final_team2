@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "459",
+    "etag": "W/\"1cb-tYUaJWzv0NQIzXz28oc9g0b05DQ\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken25184",
+      "amount": 589,
+      "price": 13953,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T16:31:35.000Z",
+      "notes": "rtGiF8suQ9WIatJ55xcL7XgDHyepZBuaD3Qb91HLoEA8fFI6D6wePUYPu9OJao813rYCviHeyxOdudQaaQXnaBdg1fUwQ0Rws95GkMCzwhDX8VxH78ysCv6pK2Rbh99xVJutg34hWp0e0CM8x617IHNNdLWV0202Dn5llgBeeyKsGbZ9zcKRodQE1QeDFYr9C2pthHUVeFVWnc5qjCPTCqc2Dy3ZwC8MPsF2qJccurla2zbUNBi2XicCtG",
+      "_id": "695944671c508c5d5e903e8b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

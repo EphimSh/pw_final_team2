@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "509",
+    "etag": "W/\"1fd-5TFMWFGHObVIRYcyMXG0pNG6FIM\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ashly31@yahoo.com",
+      "name": "tQhRuztyPXcBuPZDaGGXIlDemd",
+      "country": "Great Britain",
+      "city": "MLPdGzgVcLa",
+      "street": "Ohm0M2h4qQth70bYjdUhUEb4ae5no7kw",
+      "house": 6,
+      "flat": 4,
+      "phone": "+5843972594",
+      "createdOn": "2026-01-03T16:31:15.000Z",
+      "notes": "U0jf0IVGNGQfYGcqLxlgG9n8WocGAY9w5MuTVXMG1WxVNni2XpMLXxRVDu7yuxCmJhsPWMVTLTVYm8N9ZFemXfjkx3rzj9b9X6W6PPXeiPE5LhN32XF8Wwtng6mVzTNAa9W7gbjQ0DjLi5SK8Am3Smp97DZYU6TwcrAI0FIrYnbN74gmnYP",
+      "_id": "695944531c508c5d5e9038fc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

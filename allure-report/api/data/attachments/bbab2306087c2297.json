@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "205",
+    "etag": "W/\"cd-DHypPfNuRanY1HFieXHfTLmoQPM\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips75005",
+      "amount": 440,
+      "price": 12704,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T16:32:45.000Z",
+      "notes": "",
+      "_id": "695944ad1c508c5d5e9054a2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

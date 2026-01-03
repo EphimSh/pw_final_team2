@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-h0fMuuHsViPlYFMwfZFFUGc9XWU\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes46851",
+      "amount": 763,
+      "price": 76394,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T16:31:15.000Z",
+      "notes": "8bIztQ3JhSjhqqwNpIMYCz546oPJ4dortXYlJZTQ20ltiAYIxytG8ruxrnxpXPflt6CmCYXyQFEhi4BwhideWef6cakOdo29PuhLsPgBQ5Pw8H7mqlr69KHvgcgLG7RwWGBzpAqnkeVOCZJUHRf66BCcAGleskj6AO5xoU1iq5Mi9n0Q0Ddo2iTAr6V3Wfkje1t64BprZIoI6Y2lGWMFNZkj4xVzmwZffLC9LGpDE43FIkiT7kkRMWXJXt",
+      "_id": "695944531c508c5d5e903930"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

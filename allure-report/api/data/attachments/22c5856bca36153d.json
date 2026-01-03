@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-aN93qqPaHzZa+8R8qb16r8iRajs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes67253",
+      "amount": 892,
+      "price": 67576,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T16:32:19.000Z",
+      "notes": "Bl9jGBhg6RBrwPKWCLRPwIDwgFEK0wtRszL36ZjmpHF3sZAro6Hyeg0JTM67jb9zPwNKGMD7jqmOpcTl4MxIFLaCSSYrqqe9XhbgBlHm7v6z7ES6m2ttiqyavmT47lB97HSeKUYOFl3D0JkwWb3ptkFUqqUSAKwymfFShn7o3UvsU9tfLflyvU8uiIszBctCZ2AYdExuSwMTn5E0EUrIylDvHrN6l7AyS5wCg7WAJq4EFBI0tZfxW8sTcP",
+      "_id": "695944931c508c5d5e904bbd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

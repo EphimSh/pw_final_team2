@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "489",
+    "etag": "W/\"1e9-eQmEys31K1AknmRSGCFkPEZVAqU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Arturo_Bednar53@hotmail.com",
+      "name": "eJQiDAnSALT",
+      "country": "Russia",
+      "city": "ZsyTztrhCUxwE",
+      "street": "Bn4Ej6EaB1mL",
+      "house": 108,
+      "flat": 7,
+      "phone": "+3088696301",
+      "createdOn": "2026-01-03T16:32:24.000Z",
+      "notes": "73Q1trifTiBWmefi1zoqothLy4MSFX7ZqYeKQStLS7eqhldi7G1AE6Y4fz8ozDimPsiePMu7oQh9fhbJ59cxjHbR6UJOCQaRYM968iI4Rc0S4cxpWUMz8t8EcE2LkSxwklMHAo7Pfvv9P792vuoLdZPwEX3JqtwYCQv5DntanciWz75FDrCVOC2xClZ",
+      "_id": "695944981c508c5d5e904d72"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

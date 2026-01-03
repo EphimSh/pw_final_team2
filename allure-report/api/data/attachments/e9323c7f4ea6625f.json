@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "326",
+    "etag": "W/\"146-EMwdI84gBbr1Jq4tdFyo74aMj/g\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Delphine5@gmail.com",
+      "name": "bsxPHNvmDyTm",
+      "country": "Belarus",
+      "city": "RpaTriQewKsztXONj",
+      "street": "i8nwL4IA",
+      "house": 3,
+      "flat": 3,
+      "phone": "+0331459415",
+      "createdOn": "2026-01-03T16:31:48.000Z",
+      "notes": "sKzlkHPEVqtxhMAfaGOmWRFADd29VGvP",
+      "_id": "695944741c508c5d5e90429c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

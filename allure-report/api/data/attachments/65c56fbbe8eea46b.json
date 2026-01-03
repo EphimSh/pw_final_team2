@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-J7ntouECNys+LLJQjjmU4zSV5rg\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "695944ba1c508c5d5e9059e4",
+      "name": "Soap86200",
+      "amount": 884,
+      "price": 55975,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T16:32:58.000Z",
+      "notes": "p0Nr3tsWDzQhFNg3wK9qSa6sDjftMFfD37KAEZb1OTeoxRzYOb7bFqanc5AVOLmHIlyPdVmK8vbgxTwAwdsd84TpfMqDWH88eTn7bWNOO4ChtJ8QOfCuG7Aoxss9wjyUk1rGIyWLDA50QTfDTItfia7a97y1I2RtSU5iXmCpMFjgX1yMDA5ATDOM4rt6gNQNN9h2VwUlp61n63b7aPtpsIxBcxQSBVQfgrfYUFfovvIuiDra2tBLxEvlJv"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

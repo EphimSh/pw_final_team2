@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2882",
+    "etag": "W/\"b42-8PmcBHChAH+bJKXmxWfjSupvEKQ\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959448e1c508c5d5e904a6b",
+      "status": "Draft",
+      "customer": {
+        "_id": "6959448e1c508c5d5e904a23",
+        "email": "Jaleel.Mosciski86@gmail.com",
+        "name": "QbJAWiNQlAPxTsDMbfGPt",
+        "country": "Belarus",
+        "city": "EXrmGohNYPDsROXDm",
+        "street": "rYJXXpqcrSdAjbVz6v3m",
+        "house": 79,
+        "flat": 1,
+        "phone": "+4325900220",
+        "createdOn": "2026-01-03T16:32:14.000Z",
+        "notes": "dQv7UULifkoh20trUBu9rZIMl4tfSvilPuBYcGx9wS8zxYSRsY2XAYBO7sIUoqr62K7WgQZESSrKEWkm3adCE3XHICTwaMn6kLDGXMr"
+      },
+      "products": [
+        {
+          "_id": "6959448e1c508c5d5e904a4e",
+          "name": "Pizza10312",
+          "amount": 456,
+          "price": 58321,
+          "manufacturer": "Samsung",
+          "notes": "nRi78a6BA6fCqHqPzd470lLvKtcha0Mu2fwp7rcSMFsr2Lg5IkHcQg9qwNuJWZaSRdWIeZcDUQ4A9m2obgxf2QgmyDQbpXKN7Q8T0kIlCfOB9U291uswc1pCnTWvDkKwUNVgNe86Yodjy16leVP6hSPt4lUobpnVvIKHO9NbaY71IMvSQvvWzmcladrQdu0gq4NnwD9agryNFggRNsXCWisi6BpUkk33ZS2icMWbv1zPebieAcVURfvvCv",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Canada",
+          "city": "Mock City iBftus",
+          "street": "MockStreetxpNFQTmjGWBdHP7r37SyiWWAG",
+          "house": 33,
+          "flat": 19
+        },
+        "finalDate": "2026-01-08T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 58321,
+      "createdOn": "2026-01-03T16:32:14.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6959448e1c508c5d5e904a23",
+          "products": [
+            {
+              "_id": "6959448e1c508c5d5e904a4e",
+              "name": "Pizza10312",
+              "amount": 456,
+              "price": 58321,
+              "manufacturer": "Samsung",
+              "notes": "nRi78a6BA6fCqHqPzd470lLvKtcha0Mu2fwp7rcSMFsr2Lg5IkHcQg9qwNuJWZaSRdWIeZcDUQ4A9m2obgxf2QgmyDQbpXKN7Q8T0kIlCfOB9U291uswc1pCnTWvDkKwUNVgNe86Yodjy16leVP6hSPt4lUobpnVvIKHO9NbaY71IMvSQvvWzmcladrQdu0gq4NnwD9agryNFggRNsXCWisi6BpUkk33ZS2icMWbv1zPebieAcVURfvvCv",
+              "received": false
+            }
+          ],
+          "total_price": 58321,
+          "delivery": {
+            "address": {
+              "country": "Canada",
+              "city": "Mock City iBftus",
+              "street": "MockStreetxpNFQTmjGWBdHP7r37SyiWWAG",
+              "house": 33,
+              "flat": 19
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-03T16:32:15.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959448e1c508c5d5e904a23",
+          "products": [
+            {
+              "_id": "6959448e1c508c5d5e904a4e",
+              "name": "Pizza10312",
+              "amount": 456,
+              "price": 58321,
+              "manufacturer": "Samsung",
+              "notes": "nRi78a6BA6fCqHqPzd470lLvKtcha0Mu2fwp7rcSMFsr2Lg5IkHcQg9qwNuJWZaSRdWIeZcDUQ4A9m2obgxf2QgmyDQbpXKN7Q8T0kIlCfOB9U291uswc1pCnTWvDkKwUNVgNe86Yodjy16leVP6hSPt4lUobpnVvIKHO9NbaY71IMvSQvvWzmcladrQdu0gq4NnwD9agryNFggRNsXCWisi6BpUkk33ZS2icMWbv1zPebieAcVURfvvCv",
+              "received": false
+            }
+          ],
+          "total_price": 58321,
+          "delivery": null,
+          "changedOn": "2026-01-03T16:32:14.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

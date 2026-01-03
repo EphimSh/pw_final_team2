@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-VnrOzxZo4gH3K7pKlwVoWuJIdD8\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair19924",
+      "amount": 190,
+      "price": 73390,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T16:32:59.000Z",
+      "notes": "QTeLcg24IFNgyjmjMFUnMZsmEMrnCXept0FFReQl6y2fMfSqekfKmgdT0STpUbfBWPODbSzbxZJj4cJCBYlt1QacmsxrkrG74sJsBrZ5GxDbzE0jZUoPrPNH0EIxqTdx6zHoojXX23pBFcJixEQpsqQMt4ytCquOzNpbheHzhIlSxusjIz4JRquTtFjsIFhem6ooTDzFOfVMmkvRZIS0E3IkJlIyqUiH9ul5m1fl2y7XV0IUpUAxlHNKJz",
+      "_id": "695944bb1c508c5d5e905a80"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

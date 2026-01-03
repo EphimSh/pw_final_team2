@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "411",
+    "etag": "W/\"19b-l7OLCyYLHw8UCdBZctVc9JEbJ58\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Emery33@yahoo.com",
+      "name": "RURiFqOavyNuXZHoK",
+      "country": "Russia",
+      "city": "LqnvRxtoCDvGe",
+      "street": "kKWUcs4z3XkSqD3RIuC8titeBA9GEhHpLpxK",
+      "house": 75,
+      "flat": 8,
+      "phone": "+2441822790",
+      "createdOn": "2026-01-03T16:32:27.000Z",
+      "notes": "FbH1qtLXlewU6YFVfOtk7mub1mFP3s9RsZHISHCG6tTMSnJO45pqtfPvRHNwwwRpZYGO4bJ1GTPZbwGXBxw8xOlHcs",
+      "_id": "6959449b1c508c5d5e904eae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

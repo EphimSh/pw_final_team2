@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "530",
+    "etag": "W/\"212-ZeW3LFZ8bgWn/yoxV01hvDR2Fns\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Unique.Medhurst81@gmail.com",
+      "name": "MRmhPxbcpSVlEBPVJqEKFloN",
+      "country": "Ukraine",
+      "city": "lrYHtRhpqfwpGGuWGSPw",
+      "street": "ddcpnlV6T63e74Fy87tTb4TpSYinKauzgE1Jmif",
+      "house": 127,
+      "flat": 2,
+      "phone": "+2159684130",
+      "createdOn": "2026-01-03T16:32:22.000Z",
+      "notes": "BKz7lDYEVIJAxWQAxOCRYGCKkcwCE8HYR5Kw8ko1t6f5Aofc2kv19AnLCEF7p2JuWbtxRYnuorPWxfaZy6G7z260n8NJsZwOEU0vrKkw0ZT8YBXMFf9NzpHG8p5V1kmbbZw245wX7YQnLDj2265GwQeMzHB1aRxgo2tLQoEn5gd8vrpCfv3k",
+      "_id": "695944961c508c5d5e904cd2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-2E4USr2wF4PPRX7qajlSpFbhG0Q\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves29759",
+      "amount": 649,
+      "price": 97098,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T16:32:12.000Z",
+      "notes": "TKhHR3QpYKwpYPbCVFk4D92X4Eaw5MYFxo7swYNuRJcqFu06dHI9y3XxC6bFW3sC9Ne9bv6NXuP9CxTUbTCaVzgxftLHY9e4cUjstsHeb84yGUEZiOutdsmIOG0P0VzAaV4K7rAqH6M1yh3Q6PAswyxuyBcLGYnOHzAz96iuVtRBwFbKr8zZMQhw0tsoLfwg4cxfg9KYnPMeKItCYYR1eQfCgQI2KsGSmNd3aLSsgXUuW2M2cJ2NBqPKD2",
+      "_id": "6959448c1c508c5d5e90495c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

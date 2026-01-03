@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-s4nTP3FMV4ZPQKxYZN+qkipa4a0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves28046",
+      "amount": 794,
+      "price": 68440,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T16:32:02.000Z",
+      "notes": "INTUeWL5mhy81pEzJuweYBSg79taBhocfzE4ECCV9XR0wh5WSp2Az7Z1ocoUfwiu9t2zePU1FbVXsmF7zv6oubyzPWftZCmQJVVfaWWnHzT946a2Uo9dTX1l9OgpAOQTRQNPRBavZt73Q29PhtHTNOPcUKRWI79MWizm28B7x33vW2thGnVuBTqcUxdqDFPJiPeZD66kKQPayvnnuhe0XYLWgu2reoGDzxE0RB8fOdaA9S1peebLOr23Pl",
+      "_id": "695944821c508c5d5e904676"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-4trSGGMTwSYb+KAsjZfH8hOd8k4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad98319",
+      "amount": 333,
+      "price": 30036,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T16:31:20.000Z",
+      "notes": "UIhj69MCrPF0G00xwgKUwUiJ7qgzbEJ4GF9qZc6wyd20I8hOVQOGFYmIIp3sxiHsoqypq2HXIpJjBBtyh4LSbdHjGhcmwVETkiuq7DCmitBx57MlZ8OYbLy8PIixmyInRAJiMqI0BgWIag8MKXNN1tLPQcCFURx4fwHzerVKfr0JDqMoadOxOViXBZrdcfKOPIbqtngxIr9n3KDW7lwa93K99O2ayNtsCJDvPSxmYi9YdsazLefu1r3v4k",
+      "_id": "695944581c508c5d5e903ac4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

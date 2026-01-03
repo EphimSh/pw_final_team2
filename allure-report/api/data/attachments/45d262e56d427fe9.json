@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "397",
+    "etag": "W/\"18d-UnZsEjLsjJlPmDS7YreWbt1kt9E\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Johnathon52@gmail.com",
+      "name": "JoJofSBRZeGtCpAgfMegJJPBmwzlEhLSVNIAqm",
+      "country": "Belarus",
+      "city": "MDQf",
+      "street": "h5spHQ61QCFZnphMJ6U5mIGlws8OcPDE8YHmlJ",
+      "house": 56,
+      "flat": 5,
+      "phone": "+6834009704",
+      "createdOn": "2026-01-03T16:32:20.000Z",
+      "notes": "I3baRRZhWXuRDXpoaUdyvSAr8GHmhYUldOwX3P9o31R7JGAq8il4N3u0u",
+      "_id": "695944941c508c5d5e904c33"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

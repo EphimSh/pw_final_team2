@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-2eKZHwnS1d4HYlrHYTirrtISoBM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "iPhone 15 Pro 512GB73308",
+      "amount": 796,
+      "price": 3500,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T16:32:51.000Z",
+      "notes": "Wv5vmxlfH05eJhyfQv7vJPRCFtrNMfzLeSxdUpXO0jb1hxuoU7Jr3mJ5deTJaomzjq6ttLQ7qenOKSFwQ1DMgFgjD7YyqF8oqiGBfOWBm7H9yqJnMvN1dpXpeauBygf5vhASezMhyApqME534wNSrC5t4Obbyd4fLjBBi51QjeAMTuT6lq7GKvrwLMEt24PWErOly02cbqTAkG5NfHQszMiECPWXUuDTZkWMzfdlKlUd94HdJ2TQucu551",
+      "_id": "695944b31c508c5d5e905706"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

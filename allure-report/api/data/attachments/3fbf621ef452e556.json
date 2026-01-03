@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "421",
+    "etag": "W/\"1a5-Gsi+eTJJQkm7bs5ihzt/p4K3oDU\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Velva_McLaughlin45@hotmail.com",
+      "name": "bVYIbrRiAaXyNUHOrf",
+      "country": "Russia",
+      "city": "isFFAapCXgxY",
+      "street": "ZIvDSulZ9oYrI9XliGg7PzGLu",
+      "house": 186,
+      "flat": 8,
+      "phone": "+8675303153",
+      "createdOn": "2026-01-03T16:31:07.000Z",
+      "notes": "YIvPjQl3yEO12NJLAyeWUPEuFDzcErE9nlaDrzkGGHlVFaiGOU2v8dREj1WS2c9tw5WbLDoMnybdx58NZHLP0dMfgePYDz70d",
+      "_id": "6959444b1c508c5d5e903765"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

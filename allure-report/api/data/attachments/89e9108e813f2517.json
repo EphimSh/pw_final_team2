@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-ou1ZipY6XSY2vDl/mmCTzWQ3yMY\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro3844",
+      "amount": 268,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T16:32:52.000Z",
+      "notes": "f60ujwWR1Eph8y6S9NFA9FUaxKYTdze6T9P7RvfyjFRUqK8TQ9UB1oQlDhZo0PtWfWOZGQDlvfRW2foHNaYccq5hDcCqHlGv2KURIzOsQfaaiCQnj6pwXrF9s7OPtEL5P4iuS5iff0naVCm0UdKs3wIA935RyBYpQA8Wdo3n276XJ3SDoFJ01ssUwxmXcAQ267R4LRi68tLRpGR0gL1lcrrffZ12GuuK7E7r3O5CmN3f86Ji2esNwAai7Q",
+      "_id": "695944b41c508c5d5e9057a5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

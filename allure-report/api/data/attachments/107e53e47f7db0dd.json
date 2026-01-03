@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "578",
+    "etag": "W/\"242-dGeIkHng27rtkBjNe4J/x/tY+Xs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Leslie.Harber58@hotmail.com",
+      "name": "hJVVEQMAwbPLfxeiHpNqLWMtjJ",
+      "country": "Canada",
+      "city": "KFvOqqompuwDxOLV",
+      "street": "LMHITQv7QBENSnMMSY3uJ",
+      "house": 51,
+      "flat": 1,
+      "phone": "+5026318653",
+      "createdOn": "2026-01-03T16:31:21.000Z",
+      "notes": "UlXarcIqygWd5NbgP2b1vjn4rXo7BEaEtaUWsGOi4fiJcYTXsGMtmVquQVNpbYSTk2XcPbZZX20YZBSZtTuQZtly5jXAig9MpEUgEQoKhAhxbMNeBjJi40uzzVMl8JCqUcsWIWGOMYASkR4zJiEtT8yBfLgk9oMGsltBJcKmAT5EQzKI9RhUPFwVQ4LtbaJhF3dv06r7FKAP9vQyTmB4VdxtHX0cgcSumnXXrOvuHapdOOUkjnszK6AbB1",
+      "_id": "695944591c508c5d5e903af8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-dd7yAt+EELqZHT17QxSpx7ft+Jk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza60942",
+      "amount": 821,
+      "price": 15131,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T16:32:29.000Z",
+      "notes": "82A0B16vK9ECuqQTCwWgsaszBwAsa0BCOesugI2UmCwfVGOQNcZ6Y5f1k3ZZ95PsrEaKTGTY9kvPcAhT7j3quKEc68OrT4dIgYAAJnStgY8uUxmWBGjp6RDRdTvRvT48TWpkE5ahZG6vDKi2vmn3xnRFwABYPAK8IqOVQBaMtA89kGcEplOM1oqQHwvgq0RHBpx74mbMLpW4tkd6WVWfjOl7J0INiImlnibbQQ5CvWfq6dQqyQ9gEOOGe9",
+      "_id": "6959449d1c508c5d5e904f54"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

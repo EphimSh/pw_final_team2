@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "330",
+    "etag": "W/\"14a-BudKq4V8fmgpCTIMVRcUbcuDFIo\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Brock7@hotmail.com",
+      "name": "gIagBdQOgfFmeyp",
+      "country": "France",
+      "city": "JjDc",
+      "street": "GVrCUXgl7Z89fkW4nO",
+      "house": 99,
+      "flat": 5,
+      "phone": "+6852772138",
+      "createdOn": "2026-01-03T16:31:02.000Z",
+      "notes": "rOkGTAdveGKfWWAVxh5rdjGn8aFerBEKd0zts",
+      "_id": "695944461c508c5d5e90365f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

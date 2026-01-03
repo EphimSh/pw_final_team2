@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "390",
+    "etag": "W/\"186-9GFwN14/PPY3GhKfhyVjdPL1vuc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Mertie_Rutherford46@hotmail.com",
+      "name": "RAbvUxQjzaTYjeXBWJZMviWIpVu",
+      "country": "Great Britain",
+      "city": "aXgfmwEZhqjUDN",
+      "street": "z6M5NNUt6cgt5zCgFbsHX",
+      "house": 98,
+      "flat": 9,
+      "phone": "+8663967138",
+      "createdOn": "2026-01-03T16:32:19.000Z",
+      "notes": "LlQ99CnNbMhUt6DmurtcPuWATXOqOUMlrz5oigWMg9TehilLXH5b",
+      "_id": "695944931c508c5d5e904b92"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

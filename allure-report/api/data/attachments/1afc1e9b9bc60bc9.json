@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-iMc5R/JG4KO/1B5gXuJNhD5FYtE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna61425",
+      "amount": 295,
+      "price": 11208,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T16:31:54.000Z",
+      "notes": "beA5fgwGuzDMiWejoPQp51QtafBnKPJMRwO4B5X9kwtnf0Wa5cLnaYniF3HUZpqqOC1erJt0sYPuyn5zkx6uxpgo35qRjMocpv2XrihjsNLemI0UvRCNB1GqmgmxHJLCPZT8Y7ik1jLaphGgqVAsWUEMfwY4YzZH59KOITZBdz8ajTqongHVk4v0hPXkwsJaQzoYs3Op00mqenhCXjDDdaF2R5lElvuyLYRgpKJHoBZ0qOrL4DfLcVyS6V",
+      "_id": "6959447a1c508c5d5e904421"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-08lr+wRLGJ3ilmgNP+JKF7YfyWA\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad17377",
+      "amount": 506,
+      "price": 50627,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T16:32:58.000Z",
+      "notes": "p9F1SAAipOt7HDjDp873ENiqBM7LEnSwjkdeIiWqejcyKAK3afk4lpRZgQ0uXEgLN5stoQcT3xYdi3YOIW0gmcDOc65nf1ktCMEFqbQtVchsPoSWYzoTzYUn20iqVkaCnqFLl8cXQG10T3MdTCbf000gAbyNbpEZgclvJeebxXbK5kzNDy6BkyQuxr6b9Qd2mkIM7B3AuiM4HwToytkzMk950uA8CXdpeKCHaNzfe6jOoE39DZifs3mP0G",
+      "_id": "695944ba1c508c5d5e9059e4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

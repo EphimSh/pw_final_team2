@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "422",
+    "etag": "W/\"1a6-RmaypSRoWwipmUEENhCGYf53ktE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jeanette.Nitzsche@gmail.com",
+      "name": "bQZnmDANipDkKKfLiUfgUJHofbNKv",
+      "country": "Russia",
+      "city": "tzAJRQENuKjzvBS",
+      "street": "FivdCMDyYbZJc2NsNdO5heTOIVFtwSkcTA6rVM",
+      "house": 144,
+      "flat": 3,
+      "phone": "+1923313163",
+      "createdOn": "2026-01-03T16:31:24.000Z",
+      "notes": "peHD7cRsBCWMAmnxD8GmCs2n9ZL0FqKKRzmQfBNApo9ktE2pcmS7Qpz8hQsi0Sby9vpIMxxyiS",
+      "_id": "6959445c1c508c5d5e903bb8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

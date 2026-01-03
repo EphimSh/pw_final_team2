@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "367",
+    "etag": "W/\"16f-+ifGhhmFDwkXOokjedBiCzxae2E\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Nathan.Zemlak@yahoo.com",
+      "name": "aJhgYaeh",
+      "country": "Belarus",
+      "city": "vTDigcMc",
+      "street": "L2Jffqw26T2niFjDEcgN8s",
+      "house": 102,
+      "flat": 9,
+      "phone": "+4266121085",
+      "createdOn": "2026-01-03T16:31:43.000Z",
+      "notes": "2kxKC977pt5Ug8ZrEy5XLrOlCdtCPhoOEu3yeNiaG455hHXtSFCiyVfDtR96vnMVB0",
+      "_id": "6959446f1c508c5d5e90413a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

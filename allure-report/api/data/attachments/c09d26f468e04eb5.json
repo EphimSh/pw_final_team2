@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-nMxIQrIiuuZoJ7iDMQ7c/Xi11TQ\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon1167",
+      "amount": 681,
+      "price": 1281,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T16:32:25.000Z",
+      "notes": "bfmY0wPqrkROpu8mOwNLpfmMtybu3oUizTLBBehZtKJHqCFy1JwkcxYKmV1YqPMEwCmU2r4V08JpfPsLc4VecdW0yrIw21ooClos1X2fAamFgxGpWo1bom63hYHKqGfrixSFA1SP3VswnIbPvw3uTiWaSejRIk79rFdjeswmgCvfOqk6qFoJU5jduWnTr9FHIQNY5guDhEadoP9azUZ30nnHe5sdSL8oyvSEby50ZrEu6oduJLArtl2h7e",
+      "_id": "695944991c508c5d5e904dc1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

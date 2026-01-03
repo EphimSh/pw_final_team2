@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "459",
+    "etag": "W/\"1cb-uKr4Kp4IIcrMpz81EgmpkDeiUSM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken75979",
+      "amount": 859,
+      "price": 16599,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T16:32:49.000Z",
+      "notes": "LH7Tb398zRV61b0q4TfgxQJIVbDbQAgDPCP9tVkqdcSYMInCHxoIvWDMBvznBjUnat1MAlWJIAz49DVIidQYYf7VEsLCTOidInnFWAOcYUfR86migilnHevvLLrDUtUGgz3GP5oDv6cc4YnMHeFWqrX0qlRvedIz59wwhXmoNEsOdNBnkmEDL1CcSjbdnGkAvxfktr5difEIEnLrFxLwkuGr96izINMvm2v1qnFmwKYWtAcUCIl7QLonZP",
+      "_id": "695944b11c508c5d5e905645"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

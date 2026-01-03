@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-mkYK94H0xc/xflXtehqPAoqCQuE\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves4890",
+      "amount": 414,
+      "price": 91978,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T16:31:51.000Z",
+      "notes": "EzMZVuHtYyuSiFHpQCesOocLXVKPBk9sq98qffG9DjG4jnozEUg6468MaYn7KKFE4WhZmTn65vosDDAqCEYgojtoglExxj3Jio7pGx1ePUGxBu71LPe3079FYktl16WYlEcIWdsaH6WyedK40RiruyfRgqzpkJfHqXkCzPb4icdweEejmwL2WGuH0kbVwWEGBrg925SMkj6GowgnfjbDSmuQzc4XeBt40CGgM9G9Ggk4Jcb9niCE0SD4zJ",
+      "_id": "695944771c508c5d5e904380"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

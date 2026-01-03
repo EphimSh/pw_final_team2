@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-4OK8LKIEA7Jz+DgqIme+ijNiJjE\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra87482",
+      "amount": 997,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T16:32:53.000Z",
+      "notes": "rdFXRiYJ1pz2EiOuohxPqCvAhP8AT0r6dv18SwbOShJJbXD9tFzbFc45hKscimRyQRRVZcj7pOBBs5NSMfu2wfa4LT9xHzpE1UCaOrlNFOVlT07K4kGUWfjLS8JKaUGjhnh5aX3J5M2Q4uXjJ5c5LHfYoUg6AF6f8lxG3ikySfv3TL14nMrxKeVbQXajeuCE9teSX3qHzV0aemPCNwy0MS7sqrvChDZoVOiTymUAbR8Y6fJaHdpnpocGgj",
+      "_id": "695944b51c508c5d5e9057f7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

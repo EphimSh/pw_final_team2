@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "361",
+    "etag": "W/\"169-wDSIWiuu2DLudJMvB+/yc15cXzU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Myriam_Smith52@gmail.com",
+      "name": "WTRiqFGVAHuoeLAkjMlaOKCxSUcNYpAEKmPPxDX",
+      "country": "France",
+      "city": "cpXxmFivfIEILYGQ",
+      "street": "j8OuaIJiXgPgbC6vxr3zPMMm0m",
+      "house": 43,
+      "flat": 9,
+      "phone": "+6333070388",
+      "createdOn": "2026-01-03T16:31:45.000Z",
+      "notes": "TuuiOkJWOjBbJXv39r",
+      "_id": "695944711c508c5d5e9041b6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

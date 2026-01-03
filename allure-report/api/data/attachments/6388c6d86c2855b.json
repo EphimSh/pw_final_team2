@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-q+AGqgsKVo+nuiysHt22VgU6LkE\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse38473",
+      "amount": 406,
+      "price": 49924,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T16:31:15.000Z",
+      "notes": "gTttfmtNqormPnudsynUS1WxcYE39XDSHIdHj0QqvoRKa6M6XQeH6A7lVgjHpH61ORmizqVqiXF462f4J5tguPNtojmn9NZRGKfulYfpmaZAlwbdZ6WPvf3p25g8EYgpM0txOkSSClkOGnIjJwb2WW6d7XUYdl7l4nE1jLvPksOfcNeZL1qvOxPGvXtfu7nZ5jnvEFOLxg4s9lMbxmsDvW8a4vwoRUxrctdTHs63sD68hF1f888MDKurmH",
+      "_id": "695944531c508c5d5e903905"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

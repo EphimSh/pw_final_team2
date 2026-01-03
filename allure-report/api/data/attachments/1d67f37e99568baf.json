@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "365",
+    "etag": "W/\"16d-pFF/JR0zaGC1V4t9eUtv8ur8nuY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "6959444e1c508c5d5e90381e",
+      "email": "Noemie_Mohr88@gmail.com",
+      "name": "yXtgnpxmsFilAYckQXsOWwUjXHypxlRlqlhb",
+      "country": "Russia",
+      "city": "MGxNzshHonCeM",
+      "street": "tj5XCq6QwlbXx9jAHQNIxzlvLyMm1oHTL2IOXm",
+      "house": 87,
+      "flat": 7,
+      "phone": "+7305840541",
+      "createdOn": "2026-01-03T16:31:10.000Z",
+      "notes": "yt5CAp6ZELRcUgdoh"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

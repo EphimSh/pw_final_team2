@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-bAtn60afj79pPw/Z5G9EfnL8z3g\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer90756",
+      "amount": 451,
+      "price": 1115,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T16:32:35.000Z",
+      "notes": "5k0OJZBagvmvNS0dIm20pqocKIZtOer49tZZtmzOlim2H6TCbfMvnsnuOsio3Gp1O2XDVcfufyLo9FqaeNK49h8s9usnNROhlsiAbj2LgEiP4jRcSpFEJ4AMGS8MjCBN7KQzeYLpO8GD1TOmhOURGLEWzRAUxmgdccV2P74XGWDn2xSEt8aqdI1kV4w0yr52jgFY1Bm7NHOr2Ik6ed0IQrzVBYC0v06gFUGw9gbznGdcPYglD4oGkgDL9c",
+      "_id": "695944a31c508c5d5e90515a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

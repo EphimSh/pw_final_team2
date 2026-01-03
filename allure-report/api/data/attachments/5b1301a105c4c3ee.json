@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-fVE0z/l0v4v9Otpno95redlBK88\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table13422",
+      "amount": 62,
+      "price": 60099,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T16:31:19.000Z",
+      "notes": "v8FT1H8abaZAhfTEi335prmSe0ZWDR2gRp0yCkPbtczzzbXUU0CRRyBMGbPFeORgLhXXPGEIa3XNPUc2on24HKxxPglbgE5k3iakafLhsKnwZN5H7Qb25BSirJqzAyJaobS33H2IFrdLBuaE3KDcb0skaAvRTQTOG35QyAvCeW6af3u5WgVWiaPhTEQpW5i96oSd9iV4I9uQ550VBSTbJiTYiTZGDVe6kFkQxf2bx5DzudH1rl4qzci7KQ",
+      "_id": "695944571c508c5d5e903a7b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

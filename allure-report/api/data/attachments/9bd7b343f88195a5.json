@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "331",
+    "etag": "W/\"14b-5G3gTFSoOgJwohGWbMpRSkXMuFs\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Camren38@hotmail.com",
+      "name": "VhXMHJRVwcmQISzIoQOz",
+      "country": "Ukraine",
+      "city": "ZjWvAdpqrvQ",
+      "street": "Jo5DzjIKjVEOhLl51RUmzcHM",
+      "house": 92,
+      "flat": 3,
+      "phone": "+7503274450",
+      "createdOn": "2026-01-03T16:31:58.000Z",
+      "notes": "DU7Fj2lh256bbHkhQ",
+      "_id": "6959447e1c508c5d5e904540"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "295",
+    "etag": "W/\"127-CNq6hZvp23Uz5mX2fDo/+QofuPY\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Marc_Zulauf51@yahoo.com",
+      "name": "XpzWcra",
+      "country": "USA",
+      "city": "qpTZ",
+      "street": "1ShKtEI2kuZY8",
+      "house": 194,
+      "flat": 3,
+      "phone": "+2436651977",
+      "createdOn": "2026-01-03T16:32:35.000Z",
+      "notes": "HHJbiBhvg6P8",
+      "_id": "695944a31c508c5d5e905136"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

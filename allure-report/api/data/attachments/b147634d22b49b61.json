@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-PYJXr7wmI1fH76dgrFaj5RP4jLQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese44821",
+      "amount": 341,
+      "price": 92450,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T16:31:22.000Z",
+      "notes": "Hzs8whPg5EwvkI4M7yswspyGbVq2Pe1mVrn91vL543hXTauXVSBykk6CjnwLvOgDSqH3T2hdwSirkRv33fsy2mAiYUx62Q5CDixA6n7XVwiyj49rRlsgt0TfSsxfWxtFPtdmJCbIpCURTQyB5fYVfluhjWfDagRxtIOrSVlH0QS5sqfbwRBp3WLnvJgNctdXUSeTbflvANl48LGz0DeNafNrYACo2M9gGOr77YoqNHqPiwTppWH0iEZRH1",
+      "_id": "6959445a1c508c5d5e903b40"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-gZSXGVIwbQtUZIGRBepcGGiUMVE\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table61703",
+      "amount": 626,
+      "price": 83657,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T16:32:14.000Z",
+      "notes": "fEP15VnjhatMT0WQjrDLZ6ex3Sc0jTY5Jvt60DF9grfLcJzhPW3mieUdKfLR9Miw7iQeHCDUFUwBNVRrh9IPLSN0BIVzvyL10e6VkZESeqhVKAkc2TeGiJOAzC8o9bbrDOhUw9RVbgeS3z9MRBwua8Rr0s8sfVLqc9PKcM1Wd5OhODANrrFy2mFAxPL3mHunzsBhP05mxTOeCCur9N5HeYtrWS5llMwNbKPGgpFbuHEFbDurxhxxHNvKKo",
+      "_id": "6959448e1c508c5d5e904a07"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

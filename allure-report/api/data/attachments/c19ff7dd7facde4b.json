@@ -1,0 +1,160 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4117",
+    "etag": "W/\"1015-UWvzyhTIht9Dubjsp4QiOMEfnVM\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695944a51c508c5d5e9051cf",
+      "status": "Draft",
+      "customer": {
+        "_id": "695944a41c508c5d5e905175",
+        "email": "Domenic_Labadie84@gmail.com",
+        "name": "yfNJROaGjz",
+        "country": "USA",
+        "city": "hDZMGTinKOHwohWJwvIB",
+        "street": "0x7NYNkkGvZ4CoxKpfOK1e",
+        "house": 135,
+        "flat": 8,
+        "phone": "+4814904726",
+        "createdOn": "2026-01-03T16:32:36.000Z",
+        "notes": "cNbN4SD489POkd12iVXrfDYtQzdyRFDz1ibvQ5zktSfiXsjWtGQjNb72SYT0juM98VCmWnENQDnHNNSNbMbnr6K5Cuf8muFgGUXdmHCxgxpNJujDkBkwgRhvs5QRhjwEa02p7UUyLLuar4RdlCWYh86fT0cKFSJ3HoKAoUdyUVIkIaP2h5XqbcCh8pSzbzGktrMKQAYFxVNr8rul94YFEMK"
+      },
+      "products": [
+        {
+          "_id": "695944a41c508c5d5e905195",
+          "name": "Keyboard67130",
+          "amount": 379,
+          "price": 83608,
+          "manufacturer": "Amazon",
+          "notes": "kGgFCCxp5encXYelyA9HWT7vafEnzGmyf8FPSTjzL45UxEhWRNioEOwGIb4IamW3nGOFV1HZ6xMlW6I2AybxSchqJSrLJSgbyV61G11l9oE00PLQ4zL8aqlkzisQItq8h4RbhnFo64Pq8dv1yXB5wcjAbnbq8IM502H9toDzxhIcvvIbKoJfOkXiKVVb8oDGJoWiiJvHv5AIbhExb9KD6rdxGeiTt4pBMqFAuSVoBSQYfwVQJutSu8fMfF",
+          "received": false
+        },
+        {
+          "_id": "695944a41c508c5d5e9051b8",
+          "name": "Pizza87383",
+          "amount": 312,
+          "price": 36908,
+          "manufacturer": "Samsung",
+          "notes": "dXumr87maDjMht7fA008e6kULMbcxYGNw2hug8IABdSiWgiyERFpgS2cVCIhC54m2JzSytfwZlCJjTEYW0pAr4y8U1ZRJsgsrKTbUeDEJpL1rNQpbX6uVOJUoDx6xOmFA6UMSSFI4xEqbbmqfGc9sCVTnRdjja6sk2cw6QtoRqh4kQ57MLpJ8iuZwAfCrkl2HXf2XUU0M2OO3YskAOKBVORt2LrvD8vl9IM7hDxmsFCv8M7rTg43kVqb6d",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Germany",
+          "city": "Mock City tvjMym",
+          "street": "MockStreetNM201SLP",
+          "house": 85,
+          "flat": 10
+        },
+        "finalDate": "2026-01-08T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 120516,
+      "createdOn": "2026-01-03T16:32:37.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695944a41c508c5d5e905175",
+          "products": [
+            {
+              "_id": "695944a41c508c5d5e905195",
+              "name": "Keyboard67130",
+              "amount": 379,
+              "price": 83608,
+              "manufacturer": "Amazon",
+              "notes": "kGgFCCxp5encXYelyA9HWT7vafEnzGmyf8FPSTjzL45UxEhWRNioEOwGIb4IamW3nGOFV1HZ6xMlW6I2AybxSchqJSrLJSgbyV61G11l9oE00PLQ4zL8aqlkzisQItq8h4RbhnFo64Pq8dv1yXB5wcjAbnbq8IM502H9toDzxhIcvvIbKoJfOkXiKVVb8oDGJoWiiJvHv5AIbhExb9KD6rdxGeiTt4pBMqFAuSVoBSQYfwVQJutSu8fMfF",
+              "received": false
+            },
+            {
+              "_id": "695944a41c508c5d5e9051b8",
+              "name": "Pizza87383",
+              "amount": 312,
+              "price": 36908,
+              "manufacturer": "Samsung",
+              "notes": "dXumr87maDjMht7fA008e6kULMbcxYGNw2hug8IABdSiWgiyERFpgS2cVCIhC54m2JzSytfwZlCJjTEYW0pAr4y8U1ZRJsgsrKTbUeDEJpL1rNQpbX6uVOJUoDx6xOmFA6UMSSFI4xEqbbmqfGc9sCVTnRdjja6sk2cw6QtoRqh4kQ57MLpJ8iuZwAfCrkl2HXf2XUU0M2OO3YskAOKBVORt2LrvD8vl9IM7hDxmsFCv8M7rTg43kVqb6d",
+              "received": false
+            }
+          ],
+          "total_price": 120516,
+          "delivery": {
+            "address": {
+              "country": "Germany",
+              "city": "Mock City tvjMym",
+              "street": "MockStreetNM201SLP",
+              "house": 85,
+              "flat": 10
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-03T16:32:37.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695944a41c508c5d5e905175",
+          "products": [
+            {
+              "_id": "695944a41c508c5d5e905195",
+              "name": "Keyboard67130",
+              "amount": 379,
+              "price": 83608,
+              "manufacturer": "Amazon",
+              "notes": "kGgFCCxp5encXYelyA9HWT7vafEnzGmyf8FPSTjzL45UxEhWRNioEOwGIb4IamW3nGOFV1HZ6xMlW6I2AybxSchqJSrLJSgbyV61G11l9oE00PLQ4zL8aqlkzisQItq8h4RbhnFo64Pq8dv1yXB5wcjAbnbq8IM502H9toDzxhIcvvIbKoJfOkXiKVVb8oDGJoWiiJvHv5AIbhExb9KD6rdxGeiTt4pBMqFAuSVoBSQYfwVQJutSu8fMfF",
+              "received": false
+            },
+            {
+              "_id": "695944a41c508c5d5e9051b8",
+              "name": "Pizza87383",
+              "amount": 312,
+              "price": 36908,
+              "manufacturer": "Samsung",
+              "notes": "dXumr87maDjMht7fA008e6kULMbcxYGNw2hug8IABdSiWgiyERFpgS2cVCIhC54m2JzSytfwZlCJjTEYW0pAr4y8U1ZRJsgsrKTbUeDEJpL1rNQpbX6uVOJUoDx6xOmFA6UMSSFI4xEqbbmqfGc9sCVTnRdjja6sk2cw6QtoRqh4kQ57MLpJ8iuZwAfCrkl2HXf2XUU0M2OO3YskAOKBVORt2LrvD8vl9IM7hDxmsFCv8M7rTg43kVqb6d",
+              "received": false
+            }
+          ],
+          "total_price": 120516,
+          "delivery": null,
+          "changedOn": "2026-01-03T16:32:37.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

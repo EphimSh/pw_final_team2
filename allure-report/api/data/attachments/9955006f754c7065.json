@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "514",
+    "etag": "W/\"202-0qXae0syakGCBZfhXOKUn/e95tE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Bert_Hauck85@yahoo.com",
+      "name": "gsHFRcEoRIigkLYzGfAKiSpuwxUUyXWqNCbeLQo",
+      "country": "Great Britain",
+      "city": "uXKkCcSixYGjyQIxpej",
+      "street": "0",
+      "house": 191,
+      "flat": 8,
+      "phone": "+9490937357",
+      "createdOn": "2026-01-03T16:31:56.000Z",
+      "notes": "hCgWvhdeMzCpuAlN0JTbmqjsvCPlf3X8uZav3KWRxAaDJpq9huI0iHcUKTioPhLdwrWZej2KXJ7XSR6w58PR4qaYJpWsKLtXsI75dM8Zsqg5NN5kKamf56cVU7KtWGppACahZERypCW51KP7YwxrxzJwwUQpJYbLHHc8LtMWDSy5M0utgkhBO2IetYX",
+      "_id": "6959447c1c508c5d5e90447d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

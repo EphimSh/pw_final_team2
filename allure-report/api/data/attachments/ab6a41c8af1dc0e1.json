@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2663",
+    "etag": "W/\"a67-mGf5H1M+dRZZCbRsxEaK2KQFKAU\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "695944b81c508c5d5e90593b",
+        "name": "Tuna15118",
+        "amount": 591,
+        "price": 71957,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-03T16:32:56.000Z",
+        "notes": "gz8c1jhjDpBuWterUFo1EZj8GsDDvj9u3k10H61zH8t2EwWNrHpI3ginmlUEYefcDmlDH6pWdTAD4PbCknWuhUrhHozzVHv9LLXO1bt7VyCjTsGZBcBMsiZ78pE0XLNMIfevib67DHguQnPkLpTUA92K180PBnhn6hLWZiXU9jHv8bRTz8HCspOaXzh1eCu0L3olBzbpoN6U6JPm0JF5xxB1T1Wynh2H2ZFrh282PMS6lAjQAkJoyLPdcJ"
+      },
+      {
+        "_id": "695944b51c508c5d5e905817",
+        "name": "Microsoft Surface Duo 393368",
+        "amount": 850,
+        "price": 2200,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-03T16:32:53.000Z",
+        "notes": "ZPmAtI8qPVGVzV3WuWmAG26aDzGFfB9qPNDfBW3ZDh6eW7iXxoVKCTDrPPNdEt3AE7euSxTMsiolpSQcfBuU2Db6R1g45kUwsFkUPPjbpJXAQsem4mxPTTDBp1Uu0dlmYMAtuSXgxNBa6RVvDCcH49dZQzMXXA16mgPsaYv9AjTfcQcDdqP9RaaxsQDNj0DOgXEgy3yDmXhVyIQkF5IKjkRXx8dzWAGKYgusrbldnNiKozWT6blUfz7D1P"
+      },
+      {
+        "_id": "695944b51c508c5d5e90581e",
+        "name": "Microsoft Surface Duo 380076",
+        "amount": 684,
+        "price": 2200,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-03T16:32:53.000Z",
+        "notes": "hoEsj4W114dByJ9qz8GNtytaj0a8mBV77oCeGlGkJVbrV9ESeNHpKPgqbDT9h82IzSvPzNv7O6cat5uIIdYhikJUmKyV6e2dBiX1KCrqG2UmIwrVJea6wKxfHyGzFuv489npPNAEzSo9sP8qfEbZWVbeiKn2yWip9l3st3yz3ybxAfLri06j8cia8Xnn3W6myFBto18IfvI6mZTSKgyjKGl5rYf5c9Co6TbO9Ub51nWl7aHCSpIbgjE4ao"
+      },
+      {
+        "_id": "695944671c508c5d5e903e8b",
+        "name": "Chicken25184",
+        "amount": 589,
+        "price": 13953,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-03T16:31:35.000Z",
+        "notes": "rtGiF8suQ9WIatJ55xcL7XgDHyepZBuaD3Qb91HLoEA8fFI6D6wePUYPu9OJao813rYCviHeyxOdudQaaQXnaBdg1fUwQ0Rws95GkMCzwhDX8VxH78ysCv6pK2Rbh99xVJutg34hWp0e0CM8x617IHNNdLWV0202Dn5llgBeeyKsGbZ9zcKRodQE1QeDFYr9C2pthHUVeFVWnc5qjCPTCqc2Dy3ZwC8MPsF2qJccurla2zbUNBi2XicCtG"
+      },
+      {
+        "_id": "695944601c508c5d5e903cc3",
+        "name": "Gloves93136",
+        "amount": 979,
+        "price": 62277,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-03T16:31:28.000Z",
+        "notes": "Ni8Lu11BCVHmrhGx8F74z1u8ZURBPxCWzjzymYKV4J7JSfr5jtZXAIpb8T5oQLLBq08NQD88xlWtNlU9i6gzErvyaObXpCaWPvNwvGmYe6wYlxqyvoltF2rzwSyWttUyYpJdhLvBtBsfmYPv4ccrSl0jXB7qW7wLG9QEVOtrhlHWeWHJb2i9445dag7EqnChX4fZrL29yM51yByIi5prVdXq9BKeUvvSobuUZy4FQ3kN3vFxySEF5oDyMy"
+      },
+      {
+        "_id": "695944511c508c5d5e9038b5",
+        "name": "Car55574",
+        "amount": 538,
+        "price": 76881,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-03T16:31:13.000Z",
+        "notes": "CXHfldGNtOHREnNMPtNbtIsCPLksUXfVp6Was77ugUGCmKXm9eToH8P5obSO5Xn5sHfqpOgB6n6fs2rmjSgUXBjsrz66c0IBYwbUtvhEL74KnEUnWSNVnhQvsQdUy5ZypJwkr4tEFBpecyDYbBsGEGXw770flAUJgk2TrRS7cFwLBFnDjDHKhkaoU8ayO7RCcnsjwjmQf7Ro2vpNVMu11JME2T82VcX3CgMTo0Cy9JNIANNgoJi3ImL3u4"
+      }
+    ],
+    "total": 6,
+    "page": 1,
+    "limit": 10,
+    "search": "Microsoft",
+    "manufacturer": [],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "desc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

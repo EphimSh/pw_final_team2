@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "307",
+    "etag": "W/\"133-MsXqRF0M9uyDH+EvCn/DxM8C7Js\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Loyce48@gmail.com",
+      "name": "LUmwscBcdTeGSUEbZyEvmPVbceQ",
+      "country": "Belarus",
+      "city": "hqMusIoveXe",
+      "street": "j1TIRiqoFr3",
+      "house": 108,
+      "flat": 9,
+      "phone": "+7855919273",
+      "createdOn": "2026-01-03T16:31:35.000Z",
+      "notes": "8",
+      "_id": "695944671c508c5d5e903e7e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

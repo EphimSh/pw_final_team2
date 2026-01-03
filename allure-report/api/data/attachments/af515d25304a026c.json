@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-MhWoqY93G7xYgbBYEXF3h0zJh34\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra16622",
+      "amount": 699,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T16:32:54.000Z",
+      "notes": "b2GxSO5uSFfSUUCUl9jM0Ri57gt5APCaoAfmyX3RXSOtdA0Hx1PR43FyTVAE6mTowNR6RENinYAOZTbv8qxyRGD8lg09IUGTq55rJWRybzMlfmiyoXZ5D7e4FRDWitjYGeinMYlDhTMu1bsWw1xR6VX8P8loywhlkbIavPvHF8Ug0SiXbr0jjGQ9IG1jhg5H42AyA5FF4UiGe4jv0Dbr47cOUIEkOQjGL5hABDHaWENnKQozqFz3LNGbcu",
+      "_id": "695944b61c508c5d5e905858"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "346",
+    "etag": "W/\"15a-wIyGhjE1Z3QBgIWrgWBtF++2Tu0\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Margarita.Schroeder86@yahoo.com",
+      "name": "EGnccNCrCWPEsRLi",
+      "country": "Germany",
+      "city": "cLoAUGUNElRszUtL",
+      "street": "f3Q9Nw5kyZHteaUdgBG",
+      "house": 3,
+      "flat": 3,
+      "phone": "+7879091001",
+      "createdOn": "2026-01-03T16:32:41.000Z",
+      "notes": "bnGbZcC9zAFxVxY0LgG5bRQrWn",
+      "_id": "695944a91c508c5d5e905321"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

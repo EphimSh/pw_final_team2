@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-IxwCaBgxAv1fVJ+P3e2vn8lFFlQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves11458",
+      "amount": 482,
+      "price": 55009,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T16:32:46.000Z",
+      "notes": "o4N6stBtSo0SsLnkGvLHA1YhWbYngLXuVBhFYU1XygCqWdu6pMzqradod4qehTk1SrN42DfXSmfNNZSub1MceoOEAHp7zRrZyUbTEa8qvULxAt7JKBlH5mPpBIhc6ensQA8W35u1b9rnQ59SIojhG7vPD8VDS8WGxACQMp0cbH817DC7PIjl8YbM7ISv7xk4FhVa66HYw99mFsBZHJ6uKma15SGt7avoOdvVyXNlhruFAjV1qHMDyCCzpc",
+      "_id": "695944ae1c508c5d5e9054f9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

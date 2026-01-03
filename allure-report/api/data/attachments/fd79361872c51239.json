@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "419",
+    "etag": "W/\"1a3-oUIl8TwlqMTf7/qba73XQMIWvlw\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kayden.Cole20@gmail.com",
+      "name": "n",
+      "country": "Russia",
+      "city": "VVFEZZXqMBOzPx",
+      "street": "LKqzRYYKNK",
+      "house": 101,
+      "flat": 5,
+      "phone": "+2645507873",
+      "createdOn": "2026-01-03T16:31:27.000Z",
+      "notes": "ZN2jcxO7BbmhkXu9DQlf8Tz8g8QNsdd4IZQXu3lfBf8rf8XQklaa071APz31ONiWlHfOFbW5zF0x7rt5m0a19uJqKUQ3o5feSac1lm7CyXs8jtOpDYQowyUoTfJfObsLeprK",
+      "_id": "6959445f1c508c5d5e903c93"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

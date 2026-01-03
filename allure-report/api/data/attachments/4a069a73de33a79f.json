@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-Y7MFKZf2ovSy8cR7YKMeCRpSu8I\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X71556",
+      "amount": 292,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T16:32:51.000Z",
+      "notes": "QLT06v0WSHsZzrmlVqfxnRH5n8o8mvqUEAhlAceHdJaP9KlygUkeF7BVtT15iVOdeYzaXFmKhbR6O2CkalVHBHBUvTMVRjU36zKxwGtUN7F0roA8dUkGsRmdKdVSdtQLzRFeRpQ2Fbl4ZrKRlEP3mYusLhAT2nByG6ZVD0xFfSyWfBpNINBNuRN92TYHikHuTgpMMYIfa6VMRdNLrFdU4PKR93BShmehfpjvDRc4LZJL11N3cHaxoIBuam",
+      "_id": "695944b31c508c5d5e905733"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-8USwNG0ujetJHmp135VB2V1+oWc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish3315",
+      "amount": 362,
+      "price": 47824,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T16:31:53.000Z",
+      "notes": "bDoD8n3CUECMeS1TFyW7uUNXFqLwVrqJEmbKb78yazxYc9OG1Kn0q1nAi025xgwXuVgKTYVLVE4EInPoPcebq3t506kSNa4NrNg4ITOKyFNXWquR32pTDoJBER08lNiaQQK7mAmpFyEUVhCClbiqvIBStmMAt1J1pAmJuWkZ76xmF4MF0mJPKP26ICiLMTfw5BfUfO8QVjXfzHlMYfpjEWRuSS1ld3orwFjRV8rZgaWhbYVdQfgOKaQKle",
+      "_id": "695944791c508c5d5e9043f4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

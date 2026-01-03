@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "358",
+    "etag": "W/\"166-uUJWUDbiOO4EJX3IRmB5WNGa/C4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Lelia80@gmail.com",
+      "name": "DLYQDkOQdnWbmFutXDAmkeHqgOxRTBycrh",
+      "country": "Ukraine",
+      "city": "dxKiuGYcIHxBoVtcLnJf",
+      "street": "VYAHjHRvLsn1vcRv3kxL",
+      "house": 122,
+      "flat": 4,
+      "phone": "+4501342712",
+      "createdOn": "2026-01-03T16:32:28.000Z",
+      "notes": "0BOPj1T8BmGvftjucS5fp0LlGmO",
+      "_id": "6959449c1c508c5d5e904edf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "465",
+    "etag": "W/\"1d1-dnT7JEmeg9Xp55w8SFFr0ez9E9o\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Karianne34@hotmail.com",
+      "name": "EZyuXpmNDvCnJrDgcBmbhsIqKeULG",
+      "country": "Russia",
+      "city": "IcIqOKVPcIugawc",
+      "street": "LuYc6x0FT",
+      "house": 159,
+      "flat": 4,
+      "phone": "+3245870794",
+      "createdOn": "2026-01-03T16:31:49.000Z",
+      "notes": "2sK8ugzAeOTOQ4tefqYxbnqIG0RUHnabbowA4z2gHxcGbgHIWRIh7UEW4LI5sb65KSvColvZk5pfvxQCySSPpogXwV0F80IEuozHXeQFrnVWDAXxUSPznmQJpF4WHMtTg4peZU4ueV2ucGXJjGmT6t1",
+      "_id": "695944751c508c5d5e9042c9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

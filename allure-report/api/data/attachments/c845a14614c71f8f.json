@@ -1,0 +1,213 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4755",
+    "etag": "W/\"1293-J8hE/WgLfvWp3mYcwz4047IuhqQ\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959449f1c508c5d5e904ffd",
+      "status": "Received",
+      "customer": {
+        "_id": "6959449f1c508c5d5e904fd6",
+        "email": "Emerald.Walker27@gmail.com",
+        "name": "OqEKtjnRovSPeoYVFLzrCjlknCIrvv",
+        "country": "Canada",
+        "city": "bgSFpRYlTVnCPiY",
+        "street": "Z2XzeCLHQkx0Q9D41seOczvtdriVgJ0FbPTr",
+        "house": 117,
+        "flat": 9,
+        "phone": "+0911817014",
+        "createdOn": "2026-01-03T16:32:31.000Z",
+        "notes": "Do274l9yhkZlSq8L05WW18efEDynPJufW2ZuDamMBUmbn7QGtEh7qTiymvPV7K2Xa6vqJG3uvUqpDcYF4B0ohpsrZo0HpU8gW8i9TziFt5vKEEPifXcqAoSiOd4XJYFeAb7Yu7E"
+      },
+      "products": [
+        {
+          "_id": "6959449d1c508c5d5e904f54",
+          "name": "Pizza60942",
+          "amount": 821,
+          "price": 15131,
+          "manufacturer": "Amazon",
+          "notes": "82A0B16vK9ECuqQTCwWgsaszBwAsa0BCOesugI2UmCwfVGOQNcZ6Y5f1k3ZZ95PsrEaKTGTY9kvPcAhT7j3quKEc68OrT4dIgYAAJnStgY8uUxmWBGjp6RDRdTvRvT48TWpkE5ahZG6vDKi2vmn3xnRFwABYPAK8IqOVQBaMtA89kGcEplOM1oqQHwvgq0RHBpx74mbMLpW4tkd6WVWfjOl7J0INiImlnibbQQ5CvWfq6dQqyQ9gEOOGe9",
+          "received": true
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "USA",
+          "city": "Mock City ulcaz",
+          "street": "MockStreetxnWpwNZTjNS9q",
+          "house": 162,
+          "flat": 2
+        },
+        "finalDate": "2026-01-08T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 15131,
+      "createdOn": "2026-01-03T16:32:31.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Received",
+          "customer": "6959449f1c508c5d5e904fd6",
+          "products": [
+            {
+              "_id": "6959449d1c508c5d5e904f54",
+              "name": "Pizza60942",
+              "amount": 821,
+              "price": 15131,
+              "manufacturer": "Amazon",
+              "notes": "82A0B16vK9ECuqQTCwWgsaszBwAsa0BCOesugI2UmCwfVGOQNcZ6Y5f1k3ZZ95PsrEaKTGTY9kvPcAhT7j3quKEc68OrT4dIgYAAJnStgY8uUxmWBGjp6RDRdTvRvT48TWpkE5ahZG6vDKi2vmn3xnRFwABYPAK8IqOVQBaMtA89kGcEplOM1oqQHwvgq0RHBpx74mbMLpW4tkd6WVWfjOl7J0INiImlnibbQQ5CvWfq6dQqyQ9gEOOGe9",
+              "received": true
+            }
+          ],
+          "total_price": 15131,
+          "delivery": {
+            "address": {
+              "country": "USA",
+              "city": "Mock City ulcaz",
+              "street": "MockStreetxnWpwNZTjNS9q",
+              "house": 162,
+              "flat": 2
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-03T16:32:32.000Z",
+          "action": "All products received",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "In Process",
+          "customer": "6959449f1c508c5d5e904fd6",
+          "products": [
+            {
+              "_id": "6959449d1c508c5d5e904f54",
+              "name": "Pizza60942",
+              "amount": 821,
+              "price": 15131,
+              "manufacturer": "Amazon",
+              "notes": "82A0B16vK9ECuqQTCwWgsaszBwAsa0BCOesugI2UmCwfVGOQNcZ6Y5f1k3ZZ95PsrEaKTGTY9kvPcAhT7j3quKEc68OrT4dIgYAAJnStgY8uUxmWBGjp6RDRdTvRvT48TWpkE5ahZG6vDKi2vmn3xnRFwABYPAK8IqOVQBaMtA89kGcEplOM1oqQHwvgq0RHBpx74mbMLpW4tkd6WVWfjOl7J0INiImlnibbQQ5CvWfq6dQqyQ9gEOOGe9",
+              "received": false
+            }
+          ],
+          "total_price": 15131,
+          "delivery": {
+            "address": {
+              "country": "USA",
+              "city": "Mock City ulcaz",
+              "street": "MockStreetxnWpwNZTjNS9q",
+              "house": 162,
+              "flat": 2
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-03T16:32:32.000Z",
+          "action": "Order processing started",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959449f1c508c5d5e904fd6",
+          "products": [
+            {
+              "_id": "6959449d1c508c5d5e904f54",
+              "name": "Pizza60942",
+              "amount": 821,
+              "price": 15131,
+              "manufacturer": "Amazon",
+              "notes": "82A0B16vK9ECuqQTCwWgsaszBwAsa0BCOesugI2UmCwfVGOQNcZ6Y5f1k3ZZ95PsrEaKTGTY9kvPcAhT7j3quKEc68OrT4dIgYAAJnStgY8uUxmWBGjp6RDRdTvRvT48TWpkE5ahZG6vDKi2vmn3xnRFwABYPAK8IqOVQBaMtA89kGcEplOM1oqQHwvgq0RHBpx74mbMLpW4tkd6WVWfjOl7J0INiImlnibbQQ5CvWfq6dQqyQ9gEOOGe9",
+              "received": false
+            }
+          ],
+          "total_price": 15131,
+          "delivery": {
+            "address": {
+              "country": "USA",
+              "city": "Mock City ulcaz",
+              "street": "MockStreetxnWpwNZTjNS9q",
+              "house": 162,
+              "flat": 2
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-03T16:32:31.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959449f1c508c5d5e904fd6",
+          "products": [
+            {
+              "_id": "6959449d1c508c5d5e904f54",
+              "name": "Pizza60942",
+              "amount": 821,
+              "price": 15131,
+              "manufacturer": "Amazon",
+              "notes": "82A0B16vK9ECuqQTCwWgsaszBwAsa0BCOesugI2UmCwfVGOQNcZ6Y5f1k3ZZ95PsrEaKTGTY9kvPcAhT7j3quKEc68OrT4dIgYAAJnStgY8uUxmWBGjp6RDRdTvRvT48TWpkE5ahZG6vDKi2vmn3xnRFwABYPAK8IqOVQBaMtA89kGcEplOM1oqQHwvgq0RHBpx74mbMLpW4tkd6WVWfjOl7J0INiImlnibbQQ5CvWfq6dQqyQ9gEOOGe9",
+              "received": false
+            }
+          ],
+          "total_price": 15131,
+          "delivery": null,
+          "changedOn": "2026-01-03T16:32:31.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

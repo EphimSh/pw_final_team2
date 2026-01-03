@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "279",
+    "etag": "W/\"117-JFnVOhUqU7+XJ/qmAj0O0cdZseM\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Camron6@yahoo.com",
+      "name": "syOs",
+      "country": "Germany",
+      "city": "WoNdlkVBucI",
+      "street": "5t",
+      "house": 113,
+      "flat": 4,
+      "phone": "+4618373013",
+      "createdOn": "2026-01-03T16:31:07.000Z",
+      "notes": "5QD3x",
+      "_id": "6959444b1c508c5d5e903760"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

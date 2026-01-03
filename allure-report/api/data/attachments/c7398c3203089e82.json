@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "533",
+    "etag": "W/\"215-Iy5up+3Vl58Qipw+2y4c/Vwxvog\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Nikita_Wilderman-Wiza@gmail.com",
+      "name": "RteZRXvxyjSQSSfyeKLMlFHdEpqxwBRQNnjGIwq",
+      "country": "Germany",
+      "city": "dwVe",
+      "street": "3SySJeaHy",
+      "house": 7,
+      "flat": 6,
+      "phone": "+1509252252",
+      "createdOn": "2026-01-03T16:31:22.000Z",
+      "notes": "PA1LNRFjRgHOym5fAUV0jxXYCbR867RJFfCtV0Iv727omn04j3jyefNou7CRj5buE25m6dKsTtWcOWYxKjeZW8mxBJChbX5hGulEtCeX0tukujeJJ5aTGlKB82pp3B8Gin21QXPysirXHDY7AC0EMpWFSyRveEdEN6gvV5KYq6VIxUPwIzwBNmzz1dxqyAoGdSMk2xsr55aS28gzbumf",
+      "_id": "6959445a1c508c5d5e903b32"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

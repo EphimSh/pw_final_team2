@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "355",
+    "etag": "W/\"163-WA2ghlxIKbyw5YoQ5x8wyhVV/6I\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Daija_Berge92@gmail.com",
+      "name": "wmkgixOidEiZ",
+      "country": "Germany",
+      "city": "eIzPHG",
+      "street": "3q9nINattV8i7frSnG",
+      "house": 178,
+      "flat": 5,
+      "phone": "+1312743258",
+      "createdOn": "2026-01-03T16:31:13.000Z",
+      "notes": "8fdUJNtuPiS7PHBlRgm12c0q30N7vvhsHIrGJKz6QiMkXFssa77NaEmj",
+      "_id": "695944511c508c5d5e903882"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

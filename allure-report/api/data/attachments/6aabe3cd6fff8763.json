@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-+xIPtVsjgFNoEXDONk7HbynGhfU\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra66632",
+      "amount": 599,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T16:32:53.000Z",
+      "notes": "V4d49Ms4NFMWacKyoaDCCJrZ4UXSsakkOwqjH9rv7pHrtK9cdHmdO0xy6zMhXJ0om0Ou4RYWSP9mOAAvf5LzbaDaEDevkjAh5oVWwqUtWtu9cnHQDizRUOIbhSO0NqEZfn5Twi15JaLcfWR4AWC9rfeUoSNSAuTC7MMYPJciULgT7dduCeaYCTbxrDgpqd8w5O9yCyYkkdmmWlcl7vLzmz5Cos5113JYA0XCaKs1iOuED2DhL6N9iGcCeq",
+      "_id": "695944b51c508c5d5e9057dc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

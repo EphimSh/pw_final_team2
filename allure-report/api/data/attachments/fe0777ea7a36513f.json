@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "509",
+    "etag": "W/\"1fd-nPr7eZ5Plcz4FLkewNqwavC96Kk\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Felicia38@yahoo.com",
+      "name": "VtUihOPbzKCbVMV",
+      "country": "USA",
+      "city": "NIkBkMdpyMQcusLbSvy",
+      "street": "MAJlZhweWQRgNq",
+      "house": 11,
+      "flat": 5,
+      "phone": "+6819539564",
+      "createdOn": "2026-01-03T16:31:39.000Z",
+      "notes": "mdOLLNN5A22maiGZuxL4SiUxCHiXOdjMnd9qwCqYZoXrnt34ZfuGabvCf4cbYoDwsVpSVxRliLj9mr4mFVMblslFmpxYOncFNbEcqWd7uvQI5f4Mmykh0t7Id2IHy4QZTzA4BMTKf8ppuAt7S38cwzk7TLNq4mb835va6W6LCqp3F6tpWwmz8OA954EGiqumMWMSTYD5tYqtlF8",
+      "_id": "6959446b1c508c5d5e903f98"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

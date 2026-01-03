@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "408",
+    "etag": "W/\"198-wDBdk8PSzklFpMV1A+5AjjRhBFY\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Rahsaan.Bauch@gmail.com",
+      "name": "oBEo",
+      "country": "France",
+      "city": "VhHWBHgkZPwQWqFgK",
+      "street": "RPEFygkbE9RHiJlr6cL7Rm0r",
+      "house": 136,
+      "flat": 6,
+      "phone": "+6216524048",
+      "createdOn": "2026-01-03T16:31:51.000Z",
+      "notes": "hUaTE6Wj6coEfzApe2nkwFOdJEvgTWZPB9wF2Gqr20825CDIBji11JeBuMoSZlUNnvt7twzQlnzYtJ7kOU9MPwjU90kqz6gtSZtCC",
+      "_id": "695944771c508c5d5e904360"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

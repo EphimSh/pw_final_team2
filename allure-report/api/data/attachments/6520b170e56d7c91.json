@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "536",
+    "etag": "W/\"218-tbuwIjJsEnrul+3HVNsYjSzAeAE\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Eloise.Littel1@gmail.com",
+      "name": "SJwFMfapPKZeqYBglcoSTGE",
+      "country": "Germany",
+      "city": "Ayaz",
+      "street": "NW75IqK6XEq2uSEIKV7BmeZrWL2NImBqZexrc",
+      "house": 196,
+      "flat": 2,
+      "phone": "+6134543021",
+      "createdOn": "2026-01-03T16:31:16.000Z",
+      "notes": "IO2uPUjapn74MfqILc8csZ3VGYKtzZEaSXd7LBcqKCpqCym7vlB2kZ5kMnuIcP2h2gGowV93fR3XPJC7z39QzlsgCKaGSv13iNKisbSWyTdw8aiHPP4Kuw7Z3eY1Vdki324kxJInwoD5LYapdkcoWeDrHYWLiHoI8Sx3nZ83S4BzHjW00TAn22wZ2SOcviqlntZkbMyZVetXkkWq",
+      "_id": "695944541c508c5d5e90398f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

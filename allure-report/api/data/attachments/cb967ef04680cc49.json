@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "481",
+    "etag": "W/\"1e1-PvhxIUrFODOkTtvF+201HpiBxlQ\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Emerald.Walker27@gmail.com",
+      "name": "OqEKtjnRovSPeoYVFLzrCjlknCIrvv",
+      "country": "Canada",
+      "city": "bgSFpRYlTVnCPiY",
+      "street": "Z2XzeCLHQkx0Q9D41seOczvtdriVgJ0FbPTr",
+      "house": 117,
+      "flat": 9,
+      "phone": "+0911817014",
+      "createdOn": "2026-01-03T16:32:31.000Z",
+      "notes": "Do274l9yhkZlSq8L05WW18efEDynPJufW2ZuDamMBUmbn7QGtEh7qTiymvPV7K2Xa6vqJG3uvUqpDcYF4B0ohpsrZo0HpU8gW8i9TziFt5vKEEPifXcqAoSiOd4XJYFeAb7Yu7E",
+      "_id": "6959449f1c508c5d5e904fd6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

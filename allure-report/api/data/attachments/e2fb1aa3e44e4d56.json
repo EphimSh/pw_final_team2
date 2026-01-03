@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "364",
+    "etag": "W/\"16c-uFiECiM4CZe54IX8F80e6Ry0v/Y\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Rocio56@hotmail.com",
+      "name": "Qqv",
+      "country": "France",
+      "city": "WZiyvfLPhuZPTx",
+      "street": "MAvQURn69No8eEamyM3LC",
+      "house": 190,
+      "flat": 5,
+      "phone": "+2784774238",
+      "createdOn": "2026-01-03T16:32:02.000Z",
+      "notes": "vhButk7sacsilHEpPx6Q9CqQZIVgUG6cMKNbFi6VeacxygrqMN59MfAj2LIpsAlPJDp8",
+      "_id": "695944821c508c5d5e904681"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

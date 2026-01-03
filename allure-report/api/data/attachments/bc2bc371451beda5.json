@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "563",
+    "etag": "W/\"233-h5ja1IhZ+egVGXJKHe7TQz8+e1Y\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Janet67@gmail.com",
+      "name": "JrrJKBWIQnxHqZIJbEuzahtEY",
+      "country": "Canada",
+      "city": "IdnMpFjdAkTRlUSdiK",
+      "street": "s3VOhq5gfHtwxtptAxAqatLWejHsf",
+      "house": 25,
+      "flat": 3,
+      "phone": "+4216941314",
+      "createdOn": "2026-01-03T16:32:07.000Z",
+      "notes": "tLYtWfPbAAZgNuD41sANoV9gQndC3XVwEQNpTFvhcmnnSypiiaW3XuCl3JazLdPqkH6GpPjCFp3kXH5Vlg5wJmWxxxg4nXDa0nhs5oeWWFswE6mXJIWbHRGzC2iBOQl8JK8KtJLneTSbTcpEugQLUczYHqgBIkgh1PFoQJoReQeDYvs5gkiQTQpdnCeLPjedZslWJEdzPEqATcNXLI3J7wypL9viXLkmdPxAnyHONkc7",
+      "_id": "695944871c508c5d5e90481a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

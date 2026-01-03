@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-H1xLe8B/tBu8OjkMDajm9oQQdOg\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro99264",
+      "amount": 417,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T16:32:53.000Z",
+      "notes": "NnRc5FIvhCQ6Arjgok2WdXYlh605TPfwxR8pFDsV5BgIfoYq07xo3TmV6Lf6a8AxX832ETwq1C94QS9fNlc8wRkYZb1g2mZAhB32gt0TMOAVKpYrVOK0D0lEeo08W1CUu2P1Tn6Eqmn4zIEAHjJ3RGzcKhmLvkW2OP0WhaE4PEDCgfS6z0e2Q3LL7XZxAfriOwecR5PB1q6NDrgp0Jx9blSBFCVQCu1sIK46YDAUgGSy2SqXdQ0UPuhmhI",
+      "_id": "695944b51c508c5d5e9057c9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

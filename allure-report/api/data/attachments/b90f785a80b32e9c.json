@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-z+oNT1OMSnUMme3PJYIx8RU4T6w\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad55422",
+      "amount": 52,
+      "price": 41660,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T16:32:24.000Z",
+      "notes": "hFwUrN9ZClhFzfetBFnvNYyBfaZYuVhR4NkQnbGmtAQT8Id6rxYPRf0VXybYK0AtAOp5UlsEc6bndWil2botLe8DRNd6IkGyEWEvLWfY0C6kZtcmVvnNg1IL6c6MUC977m9pj89v8MQfKoxC3ioMurardyhuXeERJ7R9nJdIgIwmDLfEXx5ZI9byqJTmjpfN1u6vZlUKBVgQ0SCVs3J4Q2bqdjgN9qjbO6ARJMMam4XWnh2LAgew2z6E6g",
+      "_id": "695944981c508c5d5e904d8c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

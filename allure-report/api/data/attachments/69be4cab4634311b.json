@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-YkXQN7FxOtq/37cI6MOtWRrnBCc\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard7058",
+      "amount": 327,
+      "price": 49937,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T16:31:44.000Z",
+      "notes": "JVBckUs8IVCIVeZBeptS37fVS336PjjrQmZDHBDgpfPFjYkQ7mbWO1vAmwEoJwwiPQpMxeoYIj4YeGbNVflSEg0dNcIYlEpINjrOUYDv4JQBGyal6jrj8Mws0BDiFip4tcCm5VKQnZdBXZMO66pcEY0Zb5TiELydv9XKpxoUHCYHRbR8momDmT4SXkxY2KdPKcBefiXoCU7G17psTHS7BnWhV1o60dtTp8aVLfBhj7vu7D9tT1muNInQuW",
+      "_id": "695944701c508c5d5e904187"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

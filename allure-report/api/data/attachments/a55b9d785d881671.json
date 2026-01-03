@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-1OH/R5JhHvWBFrjseuT3ig2ofxs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball2214",
+      "amount": 284,
+      "price": 67876,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T16:32:45.000Z",
+      "notes": "UvTcfKsjQx81e9NusUAjbCJfzDQCVHLQLBmyD5PMf0FemcEssZmURLotGfoEUZIa5UF1XP91ejjgkkUsfGWJuqRn9jVPSpncIPIzwbqdYJYpjufATQeEAXygDE4IITGGRhuPlkBfMa4QALf9ydgUOJqQ0QiGR9kanlEVkzSaeRzvBs8g0Wd5yrRjYIrc6IapeTZLduj0eq0gcoluDtj8nTcID3tveceDJ4e22JgSQLBuhFfCotBYaFJiCg",
+      "_id": "695944ad1c508c5d5e9054af"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

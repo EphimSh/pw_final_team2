@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "448",
+    "etag": "W/\"1c0-9Enq3qPnUdatOKtCzMJURPd7w54\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna91913",
+      "amount": 0,
+      "price": 2563,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T16:32:44.000Z",
+      "notes": "NUF18Q1TANqDLRBRivK9wEggxyczCuvhJnVzISTBEUO9QWOk1ZJvGsTEpf2x7X2vjXyaUOcqCeDveUCElGvJ9hNmnVE0RaP7vpLX06JYNcUyGfddJrP4vzlabkEwPKaTu9iRACd3sgxN75AqgCvHCgUObI4kWe0Dq3jjeWYSpd2m1QRBFO2EsnmcxASOZbJaVVNxPwVMYKEyGvx8IYercSpVd5ATlDua9J3dZcXvuEXj887jyxmPXExKLt",
+      "_id": "695944ac1c508c5d5e905445"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

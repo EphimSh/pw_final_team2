@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-ZsiqA62FfUKzeE9KEJGyeH5BaRE\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants70877",
+      "amount": 193,
+      "price": 55916,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T16:32:57.000Z",
+      "notes": "q2YbMwjBAs1JmtRKoLo4iYtUekAqMWaTKaoKZuJU0AoOi7TyOhk8pDw9vZdfehKKbFtqgqCrIuUz1EJO0uIoyIUtU3A5xJF28xYELAgwyJGfZ9ERbYjhBlwXPnCXmV2Nbeu3E8QYOErIiFMUrAMR2OckpZvM4ti916b3mDusO9h0XepqaTWbspvSp2hsP2tUuzEyyoa0WgCp2qGK4L4QZD9TVPPg0FBKYgH7kfFPuDjO4uFrRU1k0azkwj",
+      "_id": "695944b91c508c5d5e9059ba"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

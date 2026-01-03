@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-7R+L9Oi+oA3dm8DEsn3DIy0F3VA\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "695944b31c508c5d5e90572d",
+      "name": "Salad72402",
+      "amount": 674,
+      "price": 5603,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T16:32:51.000Z",
+      "notes": "Sdyhgj5j4PRtbzYFRRjr9TyZ7jUDz55OZHB84UNPfO6IVQJZnnt9lpjARHdJyZJp3FN60hCpeanmEd5BlFvPOiSHeaWTz23HpB2aMYPRw9GVTkaKf5oevbKAQKUejZmtuH2w1pVcWvS6oszTA4cvpTHHdVHaZ8OkuP2mzstDCFolyPXEMjNw91xWvcgp83yjRrTto8ovdXS3fQaG7k2jhGS9CS3366M6eVki9asxJ71FlytBIfSpSVUCqK"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

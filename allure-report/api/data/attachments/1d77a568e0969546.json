@@ -1,0 +1,139 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3066",
+    "etag": "W/\"bfa-00T8CkQN9cCRuSDzjrtZ1M0NBQ0\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959446b1c508c5d5e903ff9",
+      "status": "Draft",
+      "customer": {
+        "_id": "6959446b1c508c5d5e903fb0",
+        "email": "Beulah_Romaguera@gmail.com",
+        "name": "zcACASlRAQUbsYkIJVbzmFiUHFGpV",
+        "country": "Germany",
+        "city": "VMj",
+        "street": "LQTBmM9b47OhHxYpCDaek88R9",
+        "house": 32,
+        "flat": 8,
+        "phone": "+3529766172",
+        "createdOn": "2026-01-03T16:31:39.000Z",
+        "notes": "h52hB6VRAcwpzNX0lhSSXFEShRnVUhnNcXuYmV1j5XqheRw1372wLhrvW5RtDarmljERIBnno7Oy6MiNifC8k2MwsNggiu2jcN9JiMme0jtNXlVHrhlGWq5XWD0iFRtNkL2wdOkZqE9LnwBWr8WeaegZXrvbO1eCs2h3zmMQLOwwArspKpcnOmCFBN"
+      },
+      "products": [
+        {
+          "_id": "6959446b1c508c5d5e903fd5",
+          "name": "Shoes52348",
+          "amount": 166,
+          "price": 2076,
+          "manufacturer": "Microsoft",
+          "notes": "kgeGtaeXSnCtGTjOTkA6VXiRetcBw7zaGZDQwTMwUgfJuY2TlpaIiTTtGB0yfG3NNVyCHLM85DMO7NxN6QJo3ckBiJQY6OC05ttaT84HGDvJqADA96rnCRPy7P38ckzPJOrjmreF95bdisoQRkWgNPlIKhIpCzTVssY3vblDqVcHBNXlHVcLEiTT0DivtsfFS2suE4w7ALGgcH7ynvJSvxnM1qosvgh6Ocic9Kw1FbO8SrWtRvxzbVEoAy",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Belarus",
+          "city": "Mock City SAmIDoW",
+          "street": "MockStreetvD3Kqx8tNYzxuOo7m2pn6hftdkCdS",
+          "house": 43,
+          "flat": 15
+        },
+        "finalDate": "2026-01-08T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 2076,
+      "createdOn": "2026-01-03T16:31:39.000Z",
+      "comments": [
+        {
+          "text": "Test comment",
+          "createdOn": "2026-01-03T16:31:40.000Z",
+          "_id": "6959446c1c508c5d5e904060"
+        }
+      ],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6959446b1c508c5d5e903fb0",
+          "products": [
+            {
+              "_id": "6959446b1c508c5d5e903fd5",
+              "name": "Shoes52348",
+              "amount": 166,
+              "price": 2076,
+              "manufacturer": "Microsoft",
+              "notes": "kgeGtaeXSnCtGTjOTkA6VXiRetcBw7zaGZDQwTMwUgfJuY2TlpaIiTTtGB0yfG3NNVyCHLM85DMO7NxN6QJo3ckBiJQY6OC05ttaT84HGDvJqADA96rnCRPy7P38ckzPJOrjmreF95bdisoQRkWgNPlIKhIpCzTVssY3vblDqVcHBNXlHVcLEiTT0DivtsfFS2suE4w7ALGgcH7ynvJSvxnM1qosvgh6Ocic9Kw1FbO8SrWtRvxzbVEoAy",
+              "received": false
+            }
+          ],
+          "total_price": 2076,
+          "delivery": {
+            "address": {
+              "country": "Belarus",
+              "city": "Mock City SAmIDoW",
+              "street": "MockStreetvD3Kqx8tNYzxuOo7m2pn6hftdkCdS",
+              "house": 43,
+              "flat": 15
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-03T16:31:40.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959446b1c508c5d5e903fb0",
+          "products": [
+            {
+              "_id": "6959446b1c508c5d5e903fd5",
+              "name": "Shoes52348",
+              "amount": 166,
+              "price": 2076,
+              "manufacturer": "Microsoft",
+              "notes": "kgeGtaeXSnCtGTjOTkA6VXiRetcBw7zaGZDQwTMwUgfJuY2TlpaIiTTtGB0yfG3NNVyCHLM85DMO7NxN6QJo3ckBiJQY6OC05ttaT84HGDvJqADA96rnCRPy7P38ckzPJOrjmreF95bdisoQRkWgNPlIKhIpCzTVssY3vblDqVcHBNXlHVcLEiTT0DivtsfFS2suE4w7ALGgcH7ynvJSvxnM1qosvgh6Ocic9Kw1FbO8SrWtRvxzbVEoAy",
+              "received": false
+            }
+          ],
+          "total_price": 2076,
+          "delivery": null,
+          "changedOn": "2026-01-03T16:31:39.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

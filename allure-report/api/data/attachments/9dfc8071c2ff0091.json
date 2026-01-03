@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-NB5eCOY7csy0j3QCgntZ0ahljRY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish31947",
+      "amount": 272,
+      "price": 95625,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T16:31:49.000Z",
+      "notes": "vg00DDaogSjb9SQB6IUzPoPqxJpvFPlcUS1MdWw6NT1q5nRvSZEAhXNEYXPeZSTfwV9nMPKGjhSRZegzoaVNNJQfpWWgG8Nw6ztz9TQnV2d8nNiCDvNAPseJIlIuIVerMfiBJtXziTCwXxqlOvfba3K1dgmy1oA64U1ASWimJYHqyRJd18S3jOAJNqgTr1KzEQpzjni02B5fyKgPxELWpgeUbGeizjQKEF7fVWEss5tOn1CwTUe5041kCU",
+      "_id": "695944751c508c5d5e9042e1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

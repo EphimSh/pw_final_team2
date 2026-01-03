@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-lpmgQxJF/BQmJ7mwaDKP/sQ1HbY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes63844",
+      "amount": 394,
+      "price": 77724,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T16:32:13.000Z",
+      "notes": "ycQo65GL2j4c8XxNZU3YOZmPeLMnOxw7vZYFKUiQZBFHMGVL6BNd9ha0QXNncQbxWrDReUDYPXsn5XCbTSOE16xecr0eG6tEnR2H2HBrfFLwOkYyZwmoQkbABpbtNTfH76h8xlcMnPNTXzNi8aEPR4qPptVhniMopqm0AQF1qnC6hFS5Yf66z5VFbZx0se584RsJbi7DL6tbj4ZfZ7h2GjR8B83Qi0edQHNMVacXIqDKxwkPYhSCHHmGyN",
+      "_id": "6959448d1c508c5d5e9049a6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

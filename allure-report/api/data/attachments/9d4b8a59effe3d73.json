@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-lImJPBlK0oJVcgdlCLIEfTDqznE\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Nikko.Lubowitz20@hotmail.com",
+      "name": "kAzvLlKtxiSNqYMkrTmSnNYVqYIeUgEgo",
+      "country": "Belarus",
+      "city": "He",
+      "street": "AD9ANhY5ae3o8dw0CfSCbEWlHbhzk7u0U4",
+      "house": 15,
+      "flat": 4,
+      "phone": "+5768383204",
+      "createdOn": "2026-01-03T16:32:26.000Z",
+      "notes": "mpT2q5HxDDod6HDYzHaypAu9qHs1XSMnZwDiPBpT5dJKJlrC50aBy9Z9BsNFls4Pb5pQZhaWj3Y7YpctHUe245xAuLBOXsFFk6JntjN8gm1P5k56UuIAjbjm0",
+      "_id": "6959449a1c508c5d5e904df3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

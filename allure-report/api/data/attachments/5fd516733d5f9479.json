@@ -1,0 +1,131 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2760",
+    "etag": "W/\"ac8-/2dI38rEtfsM8I6ULpX2c4wTC7w\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695944891c508c5d5e9048b0",
+      "status": "Draft",
+      "customer": {
+        "_id": "695944881c508c5d5e904868",
+        "email": "Milton30@gmail.com",
+        "name": "vzdIyxiqGv",
+        "country": "Ukraine",
+        "city": "eQqAdmn",
+        "street": "SPbgDrdMi2i7s",
+        "house": 86,
+        "flat": 3,
+        "phone": "+7888755368",
+        "createdOn": "2026-01-03T16:32:08.000Z",
+        "notes": "vFX6AHclwzRcX69xxR2S3URvTeq8d4ePPfIu8wnGCs3iNX"
+      },
+      "products": [
+        {
+          "_id": "695944881c508c5d5e904896",
+          "name": "Gloves66689",
+          "amount": 91,
+          "price": 95641,
+          "manufacturer": "Apple",
+          "notes": "0tZd15jVyidLXjeByjhKsdsIJV3c4lnsSfx5zeIlgWm6YOYv9Xb5f3tvhaU7XKxw34ZusDiUQIZoe7NAAazH3csTHByBT8islavyLbxnuZYvAN2wrOsxWZrVgNDMpZRSSRHmlHg41aIAMf8JOyCZyac5lTGhNN4dwgtaGFVBfXnsNe2apENETtCGw3GrNMTpmakbYPVL8PePa4jQuJgPgzFHixeLMI43JU5PvRPSWAT2MZKOeXvTofcxRc",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 95641,
+      "createdOn": "2026-01-03T16:32:09.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695944881c508c5d5e904868",
+          "products": [
+            {
+              "_id": "695944881c508c5d5e904896",
+              "name": "Gloves66689",
+              "amount": 91,
+              "price": 95641,
+              "manufacturer": "Apple",
+              "notes": "0tZd15jVyidLXjeByjhKsdsIJV3c4lnsSfx5zeIlgWm6YOYv9Xb5f3tvhaU7XKxw34ZusDiUQIZoe7NAAazH3csTHByBT8islavyLbxnuZYvAN2wrOsxWZrVgNDMpZRSSRHmlHg41aIAMf8JOyCZyac5lTGhNN4dwgtaGFVBfXnsNe2apENETtCGw3GrNMTpmakbYPVL8PePa4jQuJgPgzFHixeLMI43JU5PvRPSWAT2MZKOeXvTofcxRc",
+              "received": false
+            }
+          ],
+          "total_price": 95641,
+          "delivery": null,
+          "changedOn": "2026-01-03T16:32:09.000Z",
+          "action": "Manager Assigned",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": {
+            "_id": "695944871c508c5d5e9047f2",
+            "username": "testmanager_oBoVIoLi",
+            "firstName": "ManageroBoVIoLi",
+            "lastName": "ManageroBoVIoLi",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2026/01/03 16:32:07"
+          }
+        },
+        {
+          "status": "Draft",
+          "customer": "695944881c508c5d5e904868",
+          "products": [
+            {
+              "_id": "695944881c508c5d5e904896",
+              "name": "Gloves66689",
+              "amount": 91,
+              "price": 95641,
+              "manufacturer": "Apple",
+              "notes": "0tZd15jVyidLXjeByjhKsdsIJV3c4lnsSfx5zeIlgWm6YOYv9Xb5f3tvhaU7XKxw34ZusDiUQIZoe7NAAazH3csTHByBT8islavyLbxnuZYvAN2wrOsxWZrVgNDMpZRSSRHmlHg41aIAMf8JOyCZyac5lTGhNN4dwgtaGFVBfXnsNe2apENETtCGw3GrNMTpmakbYPVL8PePa4jQuJgPgzFHixeLMI43JU5PvRPSWAT2MZKOeXvTofcxRc",
+              "received": false
+            }
+          ],
+          "total_price": 95641,
+          "delivery": null,
+          "changedOn": "2026-01-03T16:32:09.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": {
+        "_id": "695944871c508c5d5e9047f2",
+        "username": "testmanager_oBoVIoLi",
+        "firstName": "ManageroBoVIoLi",
+        "lastName": "ManageroBoVIoLi",
+        "roles": [
+          "USER"
+        ],
+        "createdOn": "2026/01/03 16:32:07"
+      }
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

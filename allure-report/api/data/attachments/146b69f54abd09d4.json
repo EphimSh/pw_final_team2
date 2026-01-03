@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-kN5G73g3z6uvhuWAvsdRKX8RBTA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza34310",
+      "amount": 307,
+      "price": 14246,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T16:32:05.000Z",
+      "notes": "S1mk5uZM8MFlw6ewKYVUt33aewndaeiSxfEMgJhFu13y0zuiYeF6pWtbOl8sPK0i25PbTIxwmI5duKTlen71vDZTAbbpUZX7iH0bcQkY8UNpnXHkxyBq6BNhhVDwaOf8FYtnhXqOLGF5LW4yGoIBAgCHYvy3xZpnfOtHVR2OK4UzPc7O5XqzY9erjz4AkiTrcFQBTLgjijwh1j1XZFzqY3efqVJmVEZGNSEYINawq0TBxO5YCTC3p2qxFv",
+      "_id": "695944851c508c5d5e904763"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

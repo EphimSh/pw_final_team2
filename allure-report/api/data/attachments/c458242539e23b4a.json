@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "552",
+    "etag": "W/\"228-Bhghu1mW1nGST7g/NmJX2Lv3H3s\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ramon76@hotmail.com",
+      "name": "nLDsRlooVDLeSe",
+      "country": "Russia",
+      "city": "EUJpYENNHoboWMrGISf",
+      "street": "rAlO1QGcnHMduZ0dZ1tAAB",
+      "house": 67,
+      "flat": 5,
+      "phone": "+0032807100",
+      "createdOn": "2026-01-03T16:32:36.000Z",
+      "notes": "E39yshTHKVnSLeoFjZl4FzbXHKc3REkbJeqJiz9cLCM1up4pWjsfpffWMAjrMAxI5RhSD4swMwl6pNH40V93obTrg68G3BOpv8Qi4YMH2F3TC348Skj0QdAUGBEJ5gIUNEjpBmPZmfBE8q9Q11mgBmFGNhRIceRsaPCVcXG7H99VkspInUayHUJAkD83JTiZoc7B704X29NuwVebwa4LSSApN56WfwXTNS73ZDgnuGXXYwUt",
+      "_id": "695944a41c508c5d5e9051ab"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

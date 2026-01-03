@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-nUDuexLU83Gt1C4ewCA2FBT5/3g\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike39175",
+      "amount": 10,
+      "price": 38210,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T16:32:07.000Z",
+      "notes": "wWLVclVW2kuVaNr0ukMfMymS7IPi2VsrrNBqDLgwL8c8RiY34SAqiIO5QHKlZTruVR5NhiyOzZ7EbXlBgfoG2QqOLRJ624X0cwAkpiStRA8GTKhhFm6OPFhE6r58vX5YCcQAEuSfmj1VcRZ6gnR36rZNUH0A10oNhb8UIox11E1enMu4UPDOx08HQqP3mlXCTxjjJWVKX5VUXSeu0ffyujYBuNsgT5ArULGOLGGYCu4KKBfn23Ppe9fNW4",
+      "_id": "695944871c508c5d5e90480e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

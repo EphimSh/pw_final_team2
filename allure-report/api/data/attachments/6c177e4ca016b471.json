@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "506",
+    "etag": "W/\"1fa-EYPvGKniGjMlKn3QjN4pudP2nzY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Madison_Huels@hotmail.com",
+      "name": "oZXaMQFmJW",
+      "country": "USA",
+      "city": "XrAPPvgMEagaTAR",
+      "street": "QAYnSoXFu4XLo6fX4m6cyBtLio5w2e",
+      "house": 155,
+      "flat": 7,
+      "phone": "+2386183284",
+      "createdOn": "2026-01-03T16:31:34.000Z",
+      "notes": "FZYG6pdMGtsfpdKn3pGZDv5razYWRNzLLPr3oR6W8c1qQfZUy47avbE8XddxzsFD3pChhzDQX7TiawAQF0IY3qremwZOfMXotKUIhClHrvplmIjJJP1HgsEtS9tJpgK8A1WPsEEa4sb7V2Q6il8VD3UbPZHv90lCz556giBuRLEZ5haqUVeSoiQB8ZIRJv",
+      "_id": "695944661c508c5d5e903e36"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

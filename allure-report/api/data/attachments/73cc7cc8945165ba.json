@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-ZDbUa43FweMhy0/2gOPUyF+A3aU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table69946",
+      "amount": 116,
+      "price": 2479,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T16:31:49.000Z",
+      "notes": "bDe4hP8bOAaCKenB8Uk33BdhR49jPz7CesT82wFBgDuhujhiJceGPMIeOeYuUeQdXSUhfNmLTA1xZfDEjeLokdfmKI19vkOZzYoedy0PvDYXmaDk4VchaMB4oUqooK97irteb1ZLRTgwcoluECsc6jPlC1YDNAHeFWdzEtWj1fsFu1yeTwyuU8KbpisySJy6rGG4QaIywwvJFWXnwoKhozl8FCszovCaKUy8aOLrsv2yBiJc1UyL2baULx",
+      "_id": "695944751c508c5d5e9042cc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

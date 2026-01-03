@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "192",
+    "etag": "W/\"c0-lvy4CGtVwxpl1sBBGYAN9A+aF80\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips11564",
+      "amount": 133,
+      "price": 40382,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T16:32:50.000Z",
+      "_id": "695944b21c508c5d5e905693"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:31:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2198",
+    "etag": "W/\"896-4rquB55nOK7DtIAs6dbkqnra+1s\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695944531c508c5d5e903916",
+      "status": "Draft",
+      "customer": {
+        "_id": "695944531c508c5d5e9038f6",
+        "email": "Emmitt.Kiehn19@gmail.com",
+        "name": "TskaUJqqWpwWwyPuyEElYHTMjHVgPeCNe",
+        "country": "Ukraine",
+        "city": "jeIWkwcEPlN",
+        "street": "Yuv7Ive",
+        "house": 108,
+        "flat": 8,
+        "phone": "+8632365629",
+        "createdOn": "2026-01-03T16:31:15.000Z",
+        "notes": "Pb3AVhEHK7U9LTHySfMTTfSCLPtCQNspkPC9EUy88lw86WsXm0UsORYZx9BwmhdMronGvInWKDK8"
+      },
+      "products": [
+        {
+          "_id": "695944531c508c5d5e903905",
+          "name": "Mouse38473",
+          "amount": 406,
+          "price": 49924,
+          "manufacturer": "Tesla",
+          "notes": "gTttfmtNqormPnudsynUS1WxcYE39XDSHIdHj0QqvoRKa6M6XQeH6A7lVgjHpH61ORmizqVqiXF462f4J5tguPNtojmn9NZRGKfulYfpmaZAlwbdZ6WPvf3p25g8EYgpM0txOkSSClkOGnIjJwb2WW6d7XUYdl7l4nE1jLvPksOfcNeZL1qvOxPGvXtfu7nZ5jnvEFOLxg4s9lMbxmsDvW8a4vwoRUxrctdTHs63sD68hF1f888MDKurmH",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 49924,
+      "createdOn": "2026-01-03T16:31:15.000Z",
+      "comments": [
+        {
+          "text": "HwVvQxAIzJNeKGwnb7kMsRkH7f99NiV20RJwE5sdNAi7HhZ4dzgE1z9qpI8OZeAgJwFsclljqNHMxNicz7Wkuj37ICByZ0f4Yor6UiODCqwSKdJiPpzrPBxpo2gcfLl8QE9bgrPmULlC7isbYETI6okRtTKMnewpcW",
+          "createdOn": "2026-01-03T16:31:15.000Z",
+          "_id": "695944531c508c5d5e90393c"
+        },
+        {
+          "text": "lezga8lZw67Qzgc9L5Xj4GwYqnpNx0A9DqcMHZxtO1OP5TAR9vbhRsuxVPzSg7ci0ne1E2V8wBDZOHymzWZKMRlUUQi4zRMSkYBjpxdgIyJO6cf8RWLg9b69kAw4pfrT2kPbhdD87RgDr2GxvpXkr2",
+          "createdOn": "2026-01-03T16:31:15.000Z",
+          "_id": "695944531c508c5d5e90395e"
+        }
+      ],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695944531c508c5d5e9038f6",
+          "products": [
+            {
+              "_id": "695944531c508c5d5e903905",
+              "name": "Mouse38473",
+              "amount": 406,
+              "price": 49924,
+              "manufacturer": "Tesla",
+              "notes": "gTttfmtNqormPnudsynUS1WxcYE39XDSHIdHj0QqvoRKa6M6XQeH6A7lVgjHpH61ORmizqVqiXF462f4J5tguPNtojmn9NZRGKfulYfpmaZAlwbdZ6WPvf3p25g8EYgpM0txOkSSClkOGnIjJwb2WW6d7XUYdl7l4nE1jLvPksOfcNeZL1qvOxPGvXtfu7nZ5jnvEFOLxg4s9lMbxmsDvW8a4vwoRUxrctdTHs63sD68hF1f888MDKurmH",
+              "received": false
+            }
+          ],
+          "total_price": 49924,
+          "delivery": null,
+          "changedOn": "2026-01-03T16:31:15.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

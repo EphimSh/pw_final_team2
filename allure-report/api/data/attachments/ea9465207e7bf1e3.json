@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:32:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "334",
+    "etag": "W/\"14e-BgJ08fFtOmNvOg1/sHxHv1bJXdU\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Alexie.Parker10@hotmail.com",
+      "name": "DiVspkCrCfFSsrdZfyYkfpl",
+      "country": "Belarus",
+      "city": "FYIQIGRdka",
+      "street": "xLn6d2h5TN8A0mxyH4MI",
+      "house": 40,
+      "flat": 6,
+      "phone": "+5549993552",
+      "createdOn": "2026-01-03T16:32:05.000Z",
+      "notes": "Pf9WTKLX292vKqN",
+      "_id": "695944851c508c5d5e904749"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
