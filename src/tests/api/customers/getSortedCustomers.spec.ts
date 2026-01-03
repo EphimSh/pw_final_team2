@@ -3,6 +3,7 @@ import { getSortedSchema } from "data/schemas/customers/getSorted.schema";
 import { STATUS_CODES } from "data/statusCode";
 import { SortOrder } from "data/types/core.types";
 import { CustomersTableHeader, ICustomerFromResponse } from "data/types/customers.types";
+import { TEST_TAG, COMPONENT_TAG } from "data/types/tags.types";
 import { expect, test } from "fixtures/api.fixtures";
 import { validateResponse } from "utils/validation/validateResponse.utils";
 
@@ -34,23 +35,27 @@ test.skip("[API] [Sales Portal] [Customers] [Get Sorted]", () => {
     const searchOprions = ["name", "email", "country"];
 
     for (const option of searchOprions) {
-      test(`Search Customers by ${option}`, async ({ customerApi, customerApiService }) => {
-        const searchField = customer1[option as keyof ICustomerFromResponse] as string;
-        const response = await customerApi.getSorted(token, {
-          search: searchField,
-        });
+      test(
+        `Search Customers by ${option}`,
+        { tag: [TEST_TAG.REGRESSION, COMPONENT_TAG.CUSTOMERS, COMPONENT_TAG.SEARCH] },
+        async ({ customerApi, customerApiService }) => {
+          const searchField = customer1[option as keyof ICustomerFromResponse] as string;
+          const response = await customerApi.getSorted(token, {
+            search: searchField,
+          });
 
-        validateResponse(response, {
-          status: STATUS_CODES.OK,
-          IsSuccess: true,
-          ErrorMessage: null,
-        });
+          validateResponse(response, {
+            status: STATUS_CODES.OK,
+            IsSuccess: true,
+            ErrorMessage: null,
+          });
 
-        await customerApiService.assertProductInSortedList(response, {
-          customer: customer1,
-          searchField: searchField,
-        });
-      });
+          await customerApiService.assertProductInSortedList(response, {
+            customer: customer1,
+            searchField: searchField,
+          });
+        },
+      );
     }
   });
 
