@@ -16,7 +16,7 @@ test.describe("[API] [Sales Portal] [Orders] [Update Delivery Details]", () => {
   });
 
   test.afterEach(async ({ ordersApiService }) => {
-    if (orderID) await ordersApiService.deleteOrder(orderID, token);
+    if (orderID) await ordersApiService.deleteOrderWithCustomerAndProduct(orderID, token);
   });
 
   test("Add Delivery Details for Order", async ({ ordersApi, ordersApiService }) => {

@@ -19,6 +19,7 @@ test.describe("[API] [Sales Portal] [Orders] [Create - Positive checks]", () => 
   test.afterEach(async ({ ordersApiService }) => {
     if (orderID) await ordersApiService.deleteOrderWithCustomerAndProduct(orderID, token);
   });
+
   test("SC-054: Successful order creation", async ({
     ordersApi,
     customerApiService,
@@ -69,13 +70,34 @@ test.describe("[API] [Sales Portal] [Orders] [Create - Positive checks]", () => 
 });
 test.describe("[API] [Sales Portal] [Orders] [Create - Negative checks]", () => {
   let token = "";
+  let orderID = "";
+  let customerIds: string[] = [];
+  let productIds: string[] = [];
   test.beforeEach(async ({ loginApiService }) => {
     token = await loginApiService.loginAsAdmin();
   });
+
+  test.afterEach(async ({ ordersApiService, customerApiService, productsApiService }) => {
+    if (orderID) {
+      await ordersApiService.deleteOrderWithCustomerAndProduct(orderID, token);
+    } else {
+      for (const productId of productIds) {
+        await productsApiService.delete(token, productId);
+      }
+      for (const customerId of customerIds) {
+        await customerApiService.delete(token, customerId);
+      }
+    }
+    orderID = "";
+    customerIds = [];
+    productIds = [];
+  });
+
   test("SC-056: Missing required field customer", async ({ ordersApi, productsApiService }) => {
     const productData = generateProductData();
     const createdProduct = await productsApiService.create(token, productData);
     const productID = createdProduct._id;
+    productIds.push(productID);
     const orderData = { customer: "", products: [productID] };
     const orderResponse = await ordersApi.create(orderData, token);
     validateResponse(orderResponse, {
@@ -89,6 +111,7 @@ test.describe("[API] [Sales Portal] [Orders] [Create - Negative checks]", () => 
     const customerData = generateCustomerData();
     const customer = await customerApiService.create(token, customerData);
     const customerID = customer._id;
+    customerIds.push(customerID);
     const orderData = { customer: customerID, products: [""] };
     const orderResponse = await ordersApi.create(orderData, token);
     validateResponse(orderResponse, {
@@ -102,6 +125,7 @@ test.describe("[API] [Sales Portal] [Orders] [Create - Negative checks]", () => 
     const customerData = generateCustomerData();
     const customer = await customerApiService.create(token, customerData);
     const customerID = customer._id;
+    customerIds.push(customerID);
     const orderData = { customer: customerID, products: [] };
     const orderResponse = await ordersApi.create(orderData, token);
     validateResponse(orderResponse, {
@@ -116,6 +140,7 @@ test.describe("[API] [Sales Portal] [Orders] [Create - Negative checks]", () => 
     const productData = generateProductData();
     const createdProduct = await productsApiService.create(token, productData);
     const productID = createdProduct._id;
+    productIds.push(productID);
     const orderData = { customer: customerID, products: [productID] };
     const orderResponse = await ordersApi.create(orderData, token);
     validateResponse(orderResponse, {
@@ -130,6 +155,7 @@ test.describe("[API] [Sales Portal] [Orders] [Create - Negative checks]", () => 
     const productData = generateProductData();
     const createdProduct = await productsApiService.create(token, productData);
     const productID = createdProduct._id;
+    productIds.push(productID);
     const orderData = { customer: customerID, products: [productID] };
     const orderResponse = await ordersApi.create(orderData, token);
     validateResponse(orderResponse, {
@@ -144,6 +170,7 @@ test.describe("[API] [Sales Portal] [Orders] [Create - Negative checks]", () => 
     const customerData = generateCustomerData();
     const customer = await customerApiService.create(token, customerData);
     const customerID = customer._id;
+    customerIds.push(customerID);
     const orderData = { customer: customerID, products: [productID] };
     const orderResponse = await ordersApi.create(orderData, token);
     validateResponse(orderResponse, {
@@ -155,10 +182,12 @@ test.describe("[API] [Sales Portal] [Orders] [Create - Negative checks]", () => 
   });
   test("SC-062: Check delivery field in response", async ({ ordersApiService }) => {
     const orderResponse = await ordersApiService.createDraftOrder(token);
+    orderID = orderResponse._id;
     expect(orderResponse.delivery).toBeNull();
   });
   test("SC-063: Check order history creation", async ({ ordersApiService }) => {
     const orderResponse = await ordersApiService.createDraftOrder(token);
+    orderID = orderResponse._id;
     expect(orderResponse.history[0]?.action).toBe(ORDER_HISTORY_ACTIONS.CREATED);
   });
 });

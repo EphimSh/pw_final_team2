@@ -13,7 +13,7 @@ test.describe("[API] [Sales Portal] [Orders] [Update Status]", () => {
   });
 
   test.afterEach(async ({ ordersApiService }) => {
-    if (orderID) await ordersApiService.deleteOrder(orderID, token);
+    if (orderID) await ordersApiService.deleteOrderWithCustomerAndProduct(orderID, token);
   });
 
   test("Update status of Order to => InProcess", async ({ ordersApi, ordersApiService }) => {
