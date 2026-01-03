@@ -1,4 +1,4 @@
-import { DELIVERY_CONDITIONS, IDeliveryInfo } from "data/types/orders.types";
+import { DELIVERY_CONDITIONS, DeliveryLocation, IDeliveryInfo } from "data/types/orders.types";
 import { SalesPortalPage } from "../salesPortal.page";
 import { convertToDate } from "utils/date.utils";
 import { expect } from "fixtures";
@@ -26,7 +26,7 @@ export class ScheduleDeliveryPage extends SalesPortalPage {
     if (deliveryData.condition) await this.deliveryTypeSelect.selectOption(deliveryData.condition);
     console.log(await this.getDeliveryType());
     if ((await this.getDeliveryType()) === DELIVERY_CONDITIONS.DELIVERY) {
-      // this.selectLocation("Other");
+      this.selectLocation("Other");
     }
     if (deliveryData.address?.country) await this.countrySelect.selectOption(deliveryData.address?.country);
     if (deliveryData.address?.city) await this.cityInput.fill(deliveryData.address?.city);
@@ -50,9 +50,9 @@ export class ScheduleDeliveryPage extends SalesPortalPage {
     await this.saveDeliveryButton.click();
   }
 
-  //   async selectLocation(location: DeliveryLocation) {
-  //     await this.locationSelect.selectOption(location);
-  //   }
+  async selectLocation(location: DeliveryLocation) {
+    await this.locationSelect.selectOption(location);
+  }
 
   async clickCancel() {
     await this.cancelButton.click();
