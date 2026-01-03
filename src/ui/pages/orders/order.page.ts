@@ -1,5 +1,9 @@
+import { expect } from "fixtures";
 import { SalesPortalPage } from "../salesPortal.page";
 import { logStep } from "utils/report/logStep.utils";
+import { ICustomerFromResponse } from "data/types/customers.types";
+import { DELIVERY_CONDITIONS, IDeliveryAddress, IDeliveryInfo } from "data/types/orders.types";
+import _ from "lodash";
 
 export class OrderPage extends SalesPortalPage {
   readonly title = this.page.locator("#order-details-header h2.fw-bold");
@@ -19,6 +23,12 @@ export class OrderPage extends SalesPortalPage {
   readonly commentContainer = this.page.locator(".mx-3");
   readonly comment = this.commentContainer.locator("p");
   readonly removeCommentButton = this.commentContainer.locator('[name="delete-comment"]');
+
+  readonly deliveryTab = this.page.locator("#delivery-tab");
+  readonly tabContent = this.page.locator("#order-details-tabs-content");
+  readonly scheduleDeliveryButton = this.page.locator("#delivery-btn");
+  readonly deliveryInfo = this.page.locator("div #delivery");
+  readonly deliveryValues = this.deliveryInfo.locator("div.c-details span.s-span:last-child");
 
   readonly uniqueElement = this.title;
 
@@ -55,5 +65,43 @@ export class OrderPage extends SalesPortalPage {
   @logStep("Click Remove Comment button from Order Details page")
   async clickRemoveCommentButton() {
     await this.removeCommentButton.click();
+  }
+
+  @logStep("Click Delivery Tab btn")
+  async clickDeliveryTab() {
+    await this.deliveryTab.click();
+  }
+
+  async openSheduleDeliveryPage() {
+    await this.clickDeliveryTab();
+    await expect(this.scheduleDeliveryButton).toBeVisible();
+    const buttonText = await this.scheduleDeliveryButton.textContent();
+    if (buttonText === "Schedule Delivery") {
+      this.scheduleDeliveryButton.click();
+    }
+  }
+
+  async getDeliveryData(): Promise<IDeliveryInfo> {
+    const spanTexts = await this.deliveryValues.allTextContents();
+
+    return {
+      condition: spanTexts[0] as DELIVERY_CONDITIONS,
+      finalDate: spanTexts[1]!,
+      address: (await this.getDeliveryAddress()) as IDeliveryAddress,
+    };
+  }
+
+  async getDeliveryAddress(): Promise<IDeliveryAddress> {
+    const spanTexts = await this.deliveryValues.allTextContents();
+    return {
+      country: spanTexts[2]!,
+      city: spanTexts[3]!,
+      street: spanTexts[4]!,
+      house: +spanTexts[5]!,
+      flat: +spanTexts[6]!,
+    };
+  }
+  async getCustomerAddress(customer: ICustomerFromResponse) {
+    return _.omit(customer, ["_id", "createdOn", "email", "name", "notes", "phone"]);
   }
 }
