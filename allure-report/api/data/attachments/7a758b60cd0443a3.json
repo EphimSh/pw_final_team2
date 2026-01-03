@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-pwgUuRl0Iq1U3P/hv248liGqZBE\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad31315",
+      "amount": 840,
+      "price": 82591,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T12:18:48.000Z",
+      "notes": "yQY1uvChJaSO0qENIao5eChRflmHXGSnbgGyioSJRqjxpLSOkYKvMhw2TLbRwqLxJj7EodGjplbjMhzY46a3s5wyowXkQ0OZwkfzFdfeVPpW6KsxZ2ym8BgnIGyS8eUnmRCNPiY8iAW3nnipzYf4Kd51w9aR5GaN4NcDaRHzpjfmOsNSpiCQsPKJnTl99r946ylrTPnbzGy2rMza7cMlk6ixR7mAXibyWtqdEvEbNdGkASlABvftckYr3Z",
+      "_id": "695909281c508c5d5e85e31a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:20:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-xIR78uNGHxAMjBaFEDJtMCkJidM\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra59728",
+      "amount": 673,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T12:20:06.000Z",
+      "notes": "2Oekxx9cWH0WQywGavAcwdkqSSDmvFrgQvcc0Ock2Qk1G9qry1QrnCHuKkYPjkqdAg05JZPYPbAhG70ifRyoxIhk8Vof53zwdvqfdnYrgwPbsa4Vwm5V6EnUNaSalZ2X1oEi0a13H1VVq6FEAuCYQhUypMu2DDqb4btRJdKx0TqOrKgvxFzNVUV97M3eKwXqxNnCcI4a6FIT6erhNbE9yFGItsFLOis60qvCrhiNlSfQp8Jrp3DrRpM62V",
+      "_id": "695909761c508c5d5e85eac6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-s22mfdZ6ltlv0vRjU5nAKTQzM+c\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard36416",
+      "amount": 580,
+      "price": 57067,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T12:18:26.000Z",
+      "notes": "TTFbq1fFTTKD3aLPWqqSsp1jAkSsn9zNyXX9N2WW65donNLC8al0PEXuGDLNWdiy64xtYKJqxuXs1Y3KTSWYiRMbBDROjxhG850eh5nvkTQIO9vfRBjESJi3TORfFeEL0wjEpV0arWAYRShyKNjSGUSlxnTuyoVMQgJvgCOyGoLehgbpDjzc2sv0VDf2hISC1YGGl4BOrPvtsDxDsAEGi36TcbiW2O2dAVPihHUOjzxQKMN7LrD1WRog5H",
+      "_id": "695909121c508c5d5e85df2e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

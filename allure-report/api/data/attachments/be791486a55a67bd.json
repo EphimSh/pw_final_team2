@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-4twaJ4hANwMJOWsDdR0hiRDjNww\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat94811",
+      "amount": 927,
+      "price": 75092,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T12:19:16.000Z",
+      "notes": "f1yxLpz7OY1Q5x33wWNDzGKQw5mRHrUaRvLmAMKxkFzJL9CM4HB7kN6T4Lmbxs3oT4HaIglBdRgTdXMsvmrqMIgPCA4d1aM0RQBcw9TLbVihyP43C94p5V4JG4Wr162lMd4twfeIx3An8o6lcuboyuVcRH1EsGu1L1wPvnm5oe7RgUZ5wFS9oJmX4nhTYugpjW7GdmpDfbWb1Q929vHXdXK649u7MndN52FnyWsvy18mXbYNUzlqRIqpsE",
+      "_id": "695909441c508c5d5e85e6be"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

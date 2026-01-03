@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "471",
+    "etag": "W/\"1d7-e2xu0LfbSdLIJbAyfg8gbTAwANs\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Mabel.Smitham@gmail.com",
+      "name": "qNBRnygTszHZmPXbURWAVUgELHspCDQsNv",
+      "country": "Germany",
+      "city": "Dgdzo",
+      "street": "O5PZevb39UYGzvsUXSt214fjRDymucLCwfsgrpy3",
+      "house": 124,
+      "flat": 8,
+      "phone": "+2890830067",
+      "createdOn": "2026-01-03T12:18:51.000Z",
+      "notes": "gqosQuISwPrPiQK2rQpxNF82dXaTSn1UjFSGXeVLvUVg9GTW6UuG4voSu7KJXISW9mhYKBRZR98WxxCaMnBhg8qVG24DSnPFdEqCUAqijJ5OCBP5j6CrzC54XiXKV1Hoq",
+      "_id": "6959092b1c508c5d5e85e357"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

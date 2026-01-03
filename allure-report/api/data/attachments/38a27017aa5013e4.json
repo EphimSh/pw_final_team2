@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-naeqzwQWN9azWdXxBoXSKycm3Bo\"",
+    "keep-alive": "timeout=5, max=68",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese3568",
+      "amount": 501,
+      "price": 71407,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T12:18:39.000Z",
+      "notes": "n8pFM9UAjCq6T8KMtABPfnxIQ3TU0v9p0BSCsugQ4cZhWzNaZAd40YWiwXevhE1cTyfcZivdRZOWijr8ZzISxBxZHFBiC5Osi7tSYQTrVXkklLJ27sYFMW9YGyOtYtLnGkTrjGj1l0LgknheGVJ1BDdROj9ahmJSMXTTr0AzhzfAQmxTCPZgmm61HBEuvmIY45PxDBKcXB18AAkwqd7wnUy3Ji0lKvlcfe6oGv0RLj1GbTDx7R4GQnFwkP",
+      "_id": "6959091f1c508c5d5e85e168"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

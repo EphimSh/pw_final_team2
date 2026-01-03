@@ -1,0 +1,131 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3328",
+    "etag": "W/\"d00-odWjQpADJO4HZnQUpT5FYwNXnLc\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959093b1c508c5d5e85e55c",
+      "status": "Draft",
+      "customer": {
+        "_id": "6959093a1c508c5d5e85e554",
+        "email": "Gilda55@yahoo.com",
+        "name": "PmWPoXbKKKqhDCeLWeMgAOvGgBkbPlUKHceUBaA",
+        "country": "Great Britain",
+        "city": "AeXVE",
+        "street": "7sgTFZvotBhiMjqXsd3GRdjbYL14KLE",
+        "house": 54,
+        "flat": 6,
+        "phone": "+1433598452",
+        "createdOn": "2026-01-03T12:19:06.000Z",
+        "notes": "PYnpCIEc7WAW2arpuNZ2x9CIvT4VsfHjQBcxvsiNtjheTS3I5QLlIVSBJm5JXC9NERg8Ai6aFgcXclKSzJ8S9JlY27b5P07uSnSNURazn000V86W3om7PuNODnofdWTbUeaIHw"
+      },
+      "products": [
+        {
+          "_id": "695847181c508c5d5e78b734",
+          "name": "Mouse77276",
+          "amount": 892,
+          "price": 32595,
+          "manufacturer": "Amazon",
+          "notes": "d4SFctIpIGzV3LbHbprXtbyr3BWBm9R24EXPOWoWhgk55L69nPAIbnhJEIT5YU4GlQSEBvtGAXf9yDSxgJ5UZex4XhXxOQvbUftyzxBJiRPy6nHU5KLLcH9qt5pxz1CO7Q10bY161zBAXCnzxvkxhRqXowPTb3dOsDJqTzlWBTeeM5j0UmfuybXMu4ceY0q0wqBVZqHWdmfkkt7JftGodIHsiLyc4lOn5ZstuJRVBJoFDEMwcq63FjqR6M",
+          "received": false
+        },
+        {
+          "_id": "695852ed1c508c5d5e7a6bb3",
+          "name": "Pants67870",
+          "amount": 18,
+          "price": 53435,
+          "manufacturer": "Xiaomi",
+          "notes": "oVgD6LOfoKe6gG1DNQQ37hbKDeaT6EYDLsHluSAJ9L8fW5cjbI6xfIuOo14ItoqB4t0rPzJkTfcZaM2NeRzdW1C9RfakBMij3uYYtRibtQmp81kjhJJ2fn89ZYsThV95oqnc2D0NcBKlyJXS066W0MszArzyPsLAjwq7UQxcq68aWoIfcX60q15uaLveaPvnvESu90viTQy65p7Zt8xp0lffeCXVz2hqcZfPW0klywn3ZVyL1s97JfImic",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 86030,
+      "createdOn": "2026-01-03T12:19:07.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6959093a1c508c5d5e85e554",
+          "products": [
+            {
+              "_id": "695847181c508c5d5e78b734",
+              "name": "Mouse77276",
+              "amount": 892,
+              "price": 32595,
+              "manufacturer": "Amazon",
+              "notes": "d4SFctIpIGzV3LbHbprXtbyr3BWBm9R24EXPOWoWhgk55L69nPAIbnhJEIT5YU4GlQSEBvtGAXf9yDSxgJ5UZex4XhXxOQvbUftyzxBJiRPy6nHU5KLLcH9qt5pxz1CO7Q10bY161zBAXCnzxvkxhRqXowPTb3dOsDJqTzlWBTeeM5j0UmfuybXMu4ceY0q0wqBVZqHWdmfkkt7JftGodIHsiLyc4lOn5ZstuJRVBJoFDEMwcq63FjqR6M",
+              "received": false
+            },
+            {
+              "_id": "695852ed1c508c5d5e7a6bb3",
+              "name": "Pants67870",
+              "amount": 18,
+              "price": 53435,
+              "manufacturer": "Xiaomi",
+              "notes": "oVgD6LOfoKe6gG1DNQQ37hbKDeaT6EYDLsHluSAJ9L8fW5cjbI6xfIuOo14ItoqB4t0rPzJkTfcZaM2NeRzdW1C9RfakBMij3uYYtRibtQmp81kjhJJ2fn89ZYsThV95oqnc2D0NcBKlyJXS066W0MszArzyPsLAjwq7UQxcq68aWoIfcX60q15uaLveaPvnvESu90viTQy65p7Zt8xp0lffeCXVz2hqcZfPW0klywn3ZVyL1s97JfImic",
+              "received": false
+            }
+          ],
+          "total_price": 86030,
+          "delivery": null,
+          "changedOn": "2026-01-03T12:19:10.000Z",
+          "action": "Requested products changed",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959093a1c508c5d5e85e554",
+          "products": [
+            {
+              "_id": "695909381c508c5d5e85e516",
+              "name": "Tuna30226",
+              "amount": 500,
+              "price": 15404,
+              "manufacturer": "Amazon",
+              "notes": "7j3YoX47H8pgoaVQbrZHSk7Do6Y9dWofNoCFRQD0nxqQF7Xn9LdjIyg6L21GUEgCt5T7u1M7dt9KruLzt21ef7CPcQiwlTMm8z34DT56AbyPeH87wGfH0bL9GeS2cQVTQNvQImosbFIkSLfVHNvhlIloVGKZXiNCu6dB1Scv44kUZwQhEe1ouhTr5t5PxAeg7lkJFL8GiQQXVICXgqAg11iAItt9PGlUVaoz7TmKSGFlFLg3S4j4dwK6yL",
+              "received": false
+            }
+          ],
+          "total_price": 15404,
+          "delivery": null,
+          "changedOn": "2026-01-03T12:19:07.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

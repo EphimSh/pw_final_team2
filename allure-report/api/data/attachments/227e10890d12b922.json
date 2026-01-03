@@ -1,0 +1,113 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2501",
+    "etag": "W/\"9c5-FRBfsxWhGM17XQprSlnaSsdLaqo\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695909431c508c5d5e85e695",
+      "status": "Canceled",
+      "customer": {
+        "_id": "695909431c508c5d5e85e68b",
+        "email": "Alicia_Paucek@hotmail.com",
+        "name": "IqOBiniUqmlyUBOwRWOX",
+        "country": "USA",
+        "city": "gh",
+        "street": "D0Xoi",
+        "house": 80,
+        "flat": 5,
+        "phone": "+4634857334",
+        "createdOn": "2026-01-03T12:19:15.000Z",
+        "notes": "nERJ6iSJNZYUp1hIPRwfgc6tNYqwULSSt98hJUZVqQ1KSr2HMkWJX9ZvOWcylHTLrKgrbjdx0zxFgDHuN4wDft5bt2wZfAxwSn9EWvmnKdq1tzLSteEuY7vXc2xUqiPKyp2Zdm"
+      },
+      "products": [
+        {
+          "_id": "695909411c508c5d5e85e659",
+          "name": "Car79811",
+          "amount": 658,
+          "price": 17531,
+          "manufacturer": "Google",
+          "notes": "aa9uSH3L0ExPT9E3BiCtkY9GdRGF9scBWNdnSxcGhu9TTZ5ouauudzrcoaNWI15GhhdUMXnjfccAHTiHUcoA0cqSYjhX5FqGMQsw1xqatajcaBN0hFFuaGYqkSHBrAOGE5QWofHoX74Y9LR2bbJiIOj10fRB6x8Dwz4Kxszwk33xw6bXEdFeGDexoaOg5MmaRmrnvl8xibuQ1orRl7HsQTflledTwKF0J3NMikEn6dpF4hQwscpkvbSd7r",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 17531,
+      "createdOn": "2026-01-03T12:19:15.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Canceled",
+          "customer": "695909431c508c5d5e85e68b",
+          "products": [
+            {
+              "_id": "695909411c508c5d5e85e659",
+              "name": "Car79811",
+              "amount": 658,
+              "price": 17531,
+              "manufacturer": "Google",
+              "notes": "aa9uSH3L0ExPT9E3BiCtkY9GdRGF9scBWNdnSxcGhu9TTZ5ouauudzrcoaNWI15GhhdUMXnjfccAHTiHUcoA0cqSYjhX5FqGMQsw1xqatajcaBN0hFFuaGYqkSHBrAOGE5QWofHoX74Y9LR2bbJiIOj10fRB6x8Dwz4Kxszwk33xw6bXEdFeGDexoaOg5MmaRmrnvl8xibuQ1orRl7HsQTflledTwKF0J3NMikEn6dpF4hQwscpkvbSd7r",
+              "received": false
+            }
+          ],
+          "total_price": 17531,
+          "delivery": null,
+          "changedOn": "2026-01-03T12:19:16.000Z",
+          "action": "Order canceled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695909431c508c5d5e85e68b",
+          "products": [
+            {
+              "_id": "695909411c508c5d5e85e659",
+              "name": "Car79811",
+              "amount": 658,
+              "price": 17531,
+              "manufacturer": "Google",
+              "notes": "aa9uSH3L0ExPT9E3BiCtkY9GdRGF9scBWNdnSxcGhu9TTZ5ouauudzrcoaNWI15GhhdUMXnjfccAHTiHUcoA0cqSYjhX5FqGMQsw1xqatajcaBN0hFFuaGYqkSHBrAOGE5QWofHoX74Y9LR2bbJiIOj10fRB6x8Dwz4Kxszwk33xw6bXEdFeGDexoaOg5MmaRmrnvl8xibuQ1orRl7HsQTflledTwKF0J3NMikEn6dpF4hQwscpkvbSd7r",
+              "received": false
+            }
+          ],
+          "total_price": 17531,
+          "delivery": null,
+          "changedOn": "2026-01-03T12:19:15.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

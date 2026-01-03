@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-5hT+8cYnLwoivv4EcywqKQ7Zj00\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad10646",
+      "amount": 499,
+      "price": 34103,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T12:18:54.000Z",
+      "notes": "etzxmBRkKdfWC859Nd0Q5KWPN8Q8i3zZkVZadv2ZccEN3i7UjVrFRTW1ck2A6s6yEhLuJVIUQCy9dFMtlGxhfu87puHMDu8FYOHBg1s57XATaOAPtN51tTa7An6uhQZCCLaZhfjYoJGo7CpmEPHuCBn8CPIoOOc2vFJvN1d3LmfyVnGXLNK4LLVvA1KV0LWUZCVqi0viF4C78I0iMODFm1eksCWnTRMG3XWntZxgKKbB1oMJBk9obOu8QQ",
+      "_id": "6959092e1c508c5d5e85e3e3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "191",
+    "etag": "W/\"bf-ezdCrxMrYZ6FIWkNQcdu/ax9qB4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair46826",
+      "amount": 670,
+      "price": 18998,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T12:19:41.000Z",
+      "_id": "6959095d1c508c5d5e85e957"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

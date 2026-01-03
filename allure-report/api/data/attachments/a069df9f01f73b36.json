@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "546",
+    "etag": "W/\"222-kaFy8JqTMJIOskr8hfzD6EQGuVY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Lafayette51@yahoo.com",
+      "name": "AOzotKXBsbLMzCvhcYPYGffUtYDdK",
+      "country": "Belarus",
+      "city": "SaPBXmAIeNtLApw",
+      "street": "hFXy80qpgT4j",
+      "house": 48,
+      "flat": 2,
+      "phone": "+7518547125",
+      "createdOn": "2026-01-03T12:18:30.000Z",
+      "notes": "2lBntIFftpkI0qZ6VaRPjLfubcPkP8nw6WYG3GBT0DCLlhLACD7Q9oEu8SUhN7KyUFmsGqvIut9jMoEtqYv3nBFuoShsryefAC5jl07Ih62aqhkx9TcSq7AJWvxQqFOfSwdCn0JLDzZ4O4AawawWAp0lMfbY57FjA6DS87mP5bUrFzoPVG6sBEEyhQ6B9RSwHwQj3L98qPAo8BudgDOAqYkKhOIniaBKp9TT0z",
+      "_id": "695909161c508c5d5e85e005"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

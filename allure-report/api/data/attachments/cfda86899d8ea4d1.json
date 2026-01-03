@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "448",
+    "etag": "W/\"1c0-8XYEwh02023V6aNV2wAlWTjeHqM\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat10041",
+      "amount": 417,
+      "price": 1,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T12:19:26.000Z",
+      "notes": "KENPWn7VWB1SwpUWZGXmwhX4c9nMdiETRn2oTYOEYhljnWK7qncgyjZ51LhmiAMoHMpY8OryXg6M31xwlRDB9WblC0CGiVYDUipaWoxX9ivlNHslWIli37RNIwGIK6rEqi9P2SipfzmdZHAFv1eJK2tULhvTjBqtV66tO82fzdxi8OOli9mNAKbYl18sQ47hymNXjpoZJBlhmn9EjlUO8LAcHU9svj4zgvkJEbhseKD6ZQEGGQhVngUlUU",
+      "_id": "6959094e1c508c5d5e85e843"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

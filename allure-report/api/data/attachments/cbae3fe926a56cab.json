@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "573",
+    "etag": "W/\"23d-416vKKDMBMDMwnjuXcyVAwKG764\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Willa_Marvin54@yahoo.com",
+      "name": "lSrPDjUSZaSiKrjkQPKRhcTBvthNb",
+      "country": "France",
+      "city": "ttOAeOlkqbzXedTshen",
+      "street": "U3aAJPmNYMIwi7TW8jjHA",
+      "house": 12,
+      "flat": 8,
+      "phone": "+3188907623",
+      "createdOn": "2026-01-03T12:19:10.000Z",
+      "notes": "R6iaTmO85nTIUhgssNntDAdDvMZFnHczVxRtuCFsLveNGhiMAqsUjPkN5HVzlu0vbvMty2WwmeUZrwi18h1aofrnFl5zEDf7B5B0r79OSM9o1sQw3a4E4iVkLdoVv841n8YB7njjNIyQsTtGt89gKkA43apKPviD12H05jSeSDLZTrLnI8yxLVxH4Syc74dbX3sGNMp88TRWps16RoaYVYCuO3UlIVjUZOpy3XD4EsBsCYBeyL",
+      "_id": "6959093e1c508c5d5e85e5cb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "396",
+    "etag": "W/\"18c-z/9O7HNNwb0WVP17Of8KrnHNTX8\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ebba_Abshire@yahoo.com",
+      "name": "HInRsydRthFBqintxatClZqPHLKVTH",
+      "country": "Great Britain",
+      "city": "XbbpMtopD",
+      "street": "nT2A56WSFyeYkvVtFq2HlujtXyl",
+      "house": 154,
+      "flat": 2,
+      "phone": "+4565599155",
+      "createdOn": "2026-01-03T12:19:13.000Z",
+      "notes": "hiPNM5OgFko9RGZrZF3doAGwV6OdLhyjfv9kHrtYzVe6N0DGvJ38hZiLfRcbNb",
+      "_id": "695909411c508c5d5e85e66e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

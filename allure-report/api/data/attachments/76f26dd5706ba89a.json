@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "363",
+    "etag": "W/\"16b-rNGK9PWclwIf6VMM1cAGdmPiJ78\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jerrell.Stokes72@hotmail.com",
+      "name": "UzmRhHBFPMvskEfyVzdUPuBcMkuvF",
+      "country": "France",
+      "city": "cJPl",
+      "street": "YOzgyyGtCiaPTKmSw3TToyAheh0R3",
+      "house": 144,
+      "flat": 8,
+      "phone": "+8056370408",
+      "createdOn": "2026-01-03T12:19:01.000Z",
+      "notes": "AxuuLylLBnn7AxZ0dWww7FdjX10tcCJCJz",
+      "_id": "695909351c508c5d5e85e4e4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

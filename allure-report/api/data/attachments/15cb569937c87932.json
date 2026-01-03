@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "444",
+    "etag": "W/\"1bc-Xh1ZIvaWa0cQl03Rrknuz5l4HpI\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Elta47@gmail.com",
+      "name": "ZJlqYPLKASxNHyPVfDzJnRcaOFRkRmJxbx",
+      "country": "Russia",
+      "city": "HsV",
+      "street": "shWi422wUtOIgqWTs6oAgmEN4ac6jcF",
+      "house": 194,
+      "flat": 3,
+      "phone": "+8270521088",
+      "createdOn": "2026-01-03T12:18:51.000Z",
+      "notes": "tGCFK01Z7H4GCCoO4qv7742DzSTsSPebBWguRbQBHqGFxLvQ4XVkwOEWd77a8QGZ7Je3XWIwZ5Wey6lNao7ttZiPvOLbnqNS0NqehbdPtU8FsZBfKeu0rK9hp",
+      "_id": "6959092b1c508c5d5e85e367"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

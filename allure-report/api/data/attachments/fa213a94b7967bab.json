@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "398",
+    "etag": "W/\"18e-U9jfeY8Q18AYu4xfmDcYPOaNOh4\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Tommie35@hotmail.com",
+      "name": "fjTqNsrdOBYMUvBeAzmmUdBlk",
+      "country": "USA",
+      "city": "KassKMpAIfsDk",
+      "street": "1pzFmcDODC84ywGu2JeCldm1YoBLf1gAEWq1F6ar",
+      "house": 145,
+      "flat": 2,
+      "phone": "+2025855791",
+      "createdOn": "2026-01-03T12:18:18.000Z",
+      "notes": "j2eqKuRSpu5eXRQQVClmyA5xZZgqMTky3OSrsH3D1XCMYppLV9BWYie72i5xQpLN",
+      "_id": "6959090a1c508c5d5e85de9c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

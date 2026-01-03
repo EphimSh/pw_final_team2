@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-BEDRFX45HHJzmFOCXwv/tHMUFPU\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra58075",
+      "amount": 516,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T12:19:59.000Z",
+      "notes": "Hqg1RQKAO3SDfhOVQGCwBGPXXVKLvyOGBDvhQnHcVKk8FfpK9JLNyhADvnrn2aKjFMxmwcIiyJtYnXZZnHvfiBGoSdnl25OsAA1jczfc2aiF6XutcifbYl38H0oBf48KjfLW9M8w8awmDgVoDZl01wb0ePTvLVpmuBay2VjKCqkKxPRJdKjIJtqeLIww88uA7BvA9MlD3i3g0PAvPfxVf5Ysoc3buwnwMsulPtDPIpdKJuQGYHvke3LBer",
+      "_id": "6959096f1c508c5d5e85ea89"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

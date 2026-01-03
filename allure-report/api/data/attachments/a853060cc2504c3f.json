@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "561",
+    "etag": "W/\"231-BFWR9uw+MRsSuXoIHaGxhGPu290\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jarred_Dibbert-Beier51@hotmail.com",
+      "name": "mADeaB",
+      "country": "Belarus",
+      "city": "spnLRsMxYEpAVLQ",
+      "street": "uCGIJNsNsAWoI8jxC1RuPENK1CQz7ddFXi7Dkh8u",
+      "house": 61,
+      "flat": 2,
+      "phone": "+4735394169",
+      "createdOn": "2026-01-03T12:18:24.000Z",
+      "notes": "xEaNbRinRvsNkqGKa01OhCVcOpOzDHkqXpvtlYxu8ab3JsAOc0RGM8hfdxzBB0fDCofEZUj0u5VTwZT8k80He93HySqwNumcwFASETxRwjGtg6pSh6QotdN2p4SAQZcjqs7THXMVnSqxRQT6dPcBLbZlTxTVxEF1GZZwqCxuHIwHTiDArmwq233N6r3qLHhQMv4T52KE3eGk8Dw8jl7mja4q2GJcP0wUE5e",
+      "_id": "695909101c508c5d5e85df21"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

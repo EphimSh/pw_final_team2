@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "407",
+    "etag": "W/\"197-uZHYD8/WFPwRV4HpesdnEDV4hSQ\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "6959090a1c508c5d5e85de9c",
+      "email": "Cindy.Hettinger99@hotmail.com",
+      "name": "fjTqNsrdOBYMUvBeAzmmUdBlk",
+      "country": "USA",
+      "city": "KassKMpAIfsDk",
+      "street": "1pzFmcDODC84ywGu2JeCldm1YoBLf1gAEWq1F6ar",
+      "house": 145,
+      "flat": 2,
+      "phone": "+2025855791",
+      "createdOn": "2026-01-03T12:18:18.000Z",
+      "notes": "j2eqKuRSpu5eXRQQVClmyA5xZZgqMTky3OSrsH3D1XCMYppLV9BWYie72i5xQpLN"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

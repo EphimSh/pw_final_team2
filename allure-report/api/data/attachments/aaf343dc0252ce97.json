@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "329",
+    "etag": "W/\"149-e0C/FhpoIe7KzQajio6GgxoRDVs\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Shane.Marquardt56@gmail.com",
+      "name": "XXENSABuZkRRXRrDWEt",
+      "country": "Russia",
+      "city": "TY",
+      "street": "0256rpiKZqXyJBcTKQnXbjRoOK5wsr4qYXNcvgV",
+      "house": 149,
+      "flat": 8,
+      "phone": "+4802622307",
+      "createdOn": "2026-01-03T12:18:54.000Z",
+      "notes": "toT",
+      "_id": "6959092e1c508c5d5e85e3ee"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

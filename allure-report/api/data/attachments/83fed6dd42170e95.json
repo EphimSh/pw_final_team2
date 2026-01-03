@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "403",
+    "etag": "W/\"193-3zWuZdQXSrz8Rpr1Wx43BL2ISh0\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kelley.Pfannerstill17@yahoo.com",
+      "name": "mYjTZpTCcOzXNpjLhQSPVV",
+      "country": "USA",
+      "city": "huaFtAkjCgKLNxhZaofy",
+      "street": "ArYJcFFZvWmuduRowl39OQ4JtxBwKm37IOaD",
+      "house": 179,
+      "flat": 4,
+      "phone": "+6990718469",
+      "createdOn": "2026-01-03T12:18:24.000Z",
+      "notes": "geBwAV3s9GgY6RX2TGDKXVxjkJle9oswzCjZNgwhDGha2Ae984eSMspDoz",
+      "_id": "695909101c508c5d5e85df1a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

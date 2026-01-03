@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "559",
+    "etag": "W/\"22f-PtOLcWWC/p0h2y6EB1xagVdf1Yc\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Aletha26@yahoo.com",
+      "name": "NwkeueFNMJTpBBEYKlyG",
+      "country": "France",
+      "city": "sWlJPhmVXCiBYavQFc",
+      "street": "0ExrWtUwbvjFDGIzW0tHKNkqFWQfg",
+      "house": 128,
+      "flat": 4,
+      "phone": "+6281296456",
+      "createdOn": "2026-01-03T12:18:55.000Z",
+      "notes": "fCeG7otSl8ZZrBQnHbqrYOEqGCZl1cNX9Yjgs8p2PAQaI6m3lD0oMiiNgsJ5H8ehna6I9lYWXmUknrzZdKMzPnighjVI6kWCAWF2f7IVe2bDQuPE1ecg0LRHUkXUszwR1DcMYXvH1SnDNDpTjVKAjxmON7UQ2Q2augMouyWbsmnEBb8E17nGnasJLv5rLo152yF6YH5CNNY1neMfZLC4TJMDKROyc8YbOzrpnWbDZhj",
+      "_id": "6959092f1c508c5d5e85e428"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

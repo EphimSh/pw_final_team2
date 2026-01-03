@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-0MujX4/hPrGt0YLG2kiD2R4Y+Ho\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball64205",
+      "amount": 705,
+      "price": 53850,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T12:18:27.000Z",
+      "notes": "NE3shw0AJAQu2hSL0JEyhK9vuJT4EmPHlhRYlmisSkAZH9yzeFJF0TlAhRMi8iBheO1DaJWzMX7unymbNTSNUTeyyMbPQkcV0pDj5ecARZdfFZSXhHBVGBc9oZ1CCHLLuvP29Atg7BhkZlHR128NOSLwaKkJyO9rTQMoMbcty9ldqESg4ZKTLu3Eg5ic3nEb7QtfCirAn6scDjsuWYdrmWbLFqFBiWwedg6yE9zjHr55HHFCOZVdMERz4V",
+      "_id": "695909131c508c5d5e85df4e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

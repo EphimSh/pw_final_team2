@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "446",
+    "etag": "W/\"1be-DYkuzpSjMpualD/97wrqjZooFQ8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ray20@yahoo.com",
+      "name": "JKcslwCFPweYlxiYWFwibGBoKb",
+      "country": "Germany",
+      "city": "fyAxR",
+      "street": "YkGQk2cf2jgm9194BsHETCSPQ4Tt59dV6N999",
+      "house": 175,
+      "flat": 5,
+      "phone": "+8880436697",
+      "createdOn": "2026-01-03T12:18:30.000Z",
+      "notes": "m4PgKVuugWVkjwAYJOhDPi8wYnYIVhNyZOIRDB36fvFgMFqyZYvm7wMYykCOHITCvkqg3WoJewZfhBGx21ROXWqbRe3xJLlRyXJNaXm2iDpkMH04LHUPczn92f4",
+      "_id": "695909161c508c5d5e85e003"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

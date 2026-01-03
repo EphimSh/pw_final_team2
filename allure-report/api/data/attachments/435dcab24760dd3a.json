@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "285",
+    "etag": "W/\"11d-PmZOby8wBpLJ/IMTJu6YZeukR3o\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Concepcion80@hotmail.com",
+      "name": "CH",
+      "country": "Russia",
+      "city": "aX",
+      "street": "Sd8xrgmYQUdDpN8B",
+      "house": 143,
+      "flat": 9,
+      "phone": "+0190409958",
+      "createdOn": "2026-01-03T12:18:17.000Z",
+      "notes": "PC",
+      "_id": "695909091c508c5d5e85de79"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

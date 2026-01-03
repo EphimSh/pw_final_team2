@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "378",
+    "etag": "W/\"17a-mMMj4qGDRm7Pov9GLhNHkxMNNPg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ramon_Emard20@yahoo.com",
+      "name": "ja",
+      "country": "USA",
+      "city": "xIfpuakYNiQyFjUtMUz",
+      "street": "MQ2cFjanfw4vMrkoGrIoZ0kfuzkMZScz",
+      "house": 22,
+      "flat": 2,
+      "phone": "+7768912390",
+      "createdOn": "2026-01-03T12:18:42.000Z",
+      "notes": "uzZ27Rg85Nu0NfkZGSiX9P5QaBGyfdMDaz28iTvxt1ITo7S87tJaK5VJVlVLftq6sJr",
+      "_id": "695909221c508c5d5e85e1bd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

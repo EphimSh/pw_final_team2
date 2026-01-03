@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-UpAbYynmeX+Vdd65+Fe3YygbiR0\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza4166",
+      "amount": 794,
+      "price": 46979,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T12:19:00.000Z",
+      "notes": "AbdOJ5EjQqCzAIArzWEkwo98gKjLr1BC2YPk0oaISggnRBNV9IJDWZSxBvCkghNQ2gA5BhXsnXeFQ80SFZUePnBpP1vRwGcqPvjU6t5J0Mt7HkVsSAaVvMWXlMcHBMgKeArXXq0Ln60GJWM0LuShSm6jIlPUrKGVGtmZHOsWbgGEMxoZw5Mb22ZY2GOZuy9ciLMqzYO7cuGgwX0LJuQ5mx7ffsD0yeIdFZNrtAfIwwhDWOsPQrtaB6va2r",
+      "_id": "695909341c508c5d5e85e494"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

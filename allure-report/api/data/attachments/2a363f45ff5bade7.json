@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-QdoHetndYxpeuP1ivihpys9uY0s\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair1284",
+      "amount": 136,
+      "price": 80130,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T12:18:33.000Z",
+      "notes": "ICUE9FjUpaQ4wk4kmBoMykofYSYQaiHMAWA4pSN0hUfvwrRjwgl3LAP9OcB39PmhmCxFaY6bMQoTCwVLGJbvP0bC6XBTjvqfZiOqBZnoYluVFVCB0sCR9UGhmc2UEngFRmH1EKugaiVZjZUDXSI1NxAwgCRSkY8YuhY3NVWTgvJ3wdTH0QA7xlsk0oUuFbHyqV5kkrtMYiGWsy2VTPNbAcceuj47ecskPXtXGdsm6SILLlQUoqnVUs3h7r",
+      "_id": "695909191c508c5d5e85e03c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

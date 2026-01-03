@@ -1,0 +1,161 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4028",
+    "etag": "W/\"fbc-srW1I3MaLu5jSjvU4CE6LXF9i34\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959093b1c508c5d5e85e56a",
+      "status": "Draft",
+      "customer": {
+        "_id": "695859511c508c5d5e7c554b",
+        "email": "Betty.Stiedemann@hotmail.com",
+        "name": "ImpAoVXvIEKCQfDOImKpamjBYwNGtjimFjtxH",
+        "country": "Great Britain",
+        "city": "EcbhPtvwiZVKutfYJOAR",
+        "street": "yUUg08dIKouddy2zrYGlb5Q1b7QpMRELPcv0",
+        "house": 178,
+        "flat": 4,
+        "phone": "+1560433201",
+        "createdOn": "2026-01-02T23:48:33.000Z",
+        "notes": "yPkGnxRe6B3NkoOos7rswGAfVOBK2S8TCm4r1flwQc4hfQ15gAe"
+      },
+      "products": [
+        {
+          "_id": "695843f31c508c5d5e77483c",
+          "name": "Pants19114",
+          "amount": 21,
+          "price": 17318,
+          "manufacturer": "Xiaomi",
+          "notes": "fqzT9Y58NYfvBxUZ4Fdy8LJN1rCaKatQjGglc9Oa8c9dQ4aqyuwnF4o92qn8F3fnFMzpcN8wen4uAJv7m1RjYRP6d1yw3sO4I9wZzDwfyyeKqNvR1PEZBaqvrqj5p0nAvc9RtrXOjBzjUh8OaxL6rGzstnrTmuhRahKItk30tcMGFUQqiOBGmvRe2hUIZckQpWr3GOO25aglY4mX4zCZSErH6Q1sHwRhthg8398gLUit6T6c9AbUGxuBkC",
+          "received": false
+        },
+        {
+          "_id": "6958589c1c508c5d5e7c3316",
+          "name": "Chicken34831",
+          "amount": 307,
+          "price": 43864,
+          "manufacturer": "Apple",
+          "notes": "65c230aln7bw8sZkbUcTKSQDUe6hv4xjp7vof3nAngjORGOP1QmNcvaUgfv6Rd9yMKMlVGBx8xuCepzunLM7vmC0UxZkt3GhoVUcBrTHdgYVFeO9ITggyQ73fXOSxNRq4UU9C0cVKHN7krYPVbuXpaFc793MXUpVPu8aKvZcscoNw1cB9mQ284be71AOhYwYZ79mW3AnJeemcqzsvxX1etC7kTSw6y0EvDCXEFE0BroqeXmzoUIZdLrNN0",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 61182,
+      "createdOn": "2026-01-03T12:19:07.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695859511c508c5d5e7c554b",
+          "products": [
+            {
+              "_id": "695909381c508c5d5e85e527",
+              "name": "Salad92330",
+              "amount": 524,
+              "price": 45361,
+              "manufacturer": "Apple",
+              "notes": "JRzSrRzO2pxN9NvZw1uMikRI1O12xUaOd0vIAZVwcUVbzWqSLoYUhDnimV1bJ36qF9DHMWj0pXqryfORgouQub7UysdIasx35NjSY9BtnYErCbKaHT9aYS5vajDesTvtnu3xXnvchBPctZDNqN8TcyX0gjBsoeukD0PRqdBSASfyWW09xpN60JgFU2hKnT6RTbBORUXqEojcmtuYXnX1MRVxYjhbJIP5NH8zX8lRh3GUfd1Iv96V3QlKJH",
+              "received": false
+            }
+          ],
+          "total_price": 61182,
+          "delivery": null,
+          "changedOn": "2026-01-03T12:19:13.000Z",
+          "action": "Customer changed",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959093b1c508c5d5e85e55e",
+          "products": [
+            {
+              "_id": "695843f31c508c5d5e77483c",
+              "name": "Pants19114",
+              "amount": 21,
+              "price": 17318,
+              "manufacturer": "Xiaomi",
+              "notes": "fqzT9Y58NYfvBxUZ4Fdy8LJN1rCaKatQjGglc9Oa8c9dQ4aqyuwnF4o92qn8F3fnFMzpcN8wen4uAJv7m1RjYRP6d1yw3sO4I9wZzDwfyyeKqNvR1PEZBaqvrqj5p0nAvc9RtrXOjBzjUh8OaxL6rGzstnrTmuhRahKItk30tcMGFUQqiOBGmvRe2hUIZckQpWr3GOO25aglY4mX4zCZSErH6Q1sHwRhthg8398gLUit6T6c9AbUGxuBkC",
+              "received": false
+            },
+            {
+              "_id": "6958589c1c508c5d5e7c3316",
+              "name": "Chicken34831",
+              "amount": 307,
+              "price": 43864,
+              "manufacturer": "Apple",
+              "notes": "65c230aln7bw8sZkbUcTKSQDUe6hv4xjp7vof3nAngjORGOP1QmNcvaUgfv6Rd9yMKMlVGBx8xuCepzunLM7vmC0UxZkt3GhoVUcBrTHdgYVFeO9ITggyQ73fXOSxNRq4UU9C0cVKHN7krYPVbuXpaFc793MXUpVPu8aKvZcscoNw1cB9mQ284be71AOhYwYZ79mW3AnJeemcqzsvxX1etC7kTSw6y0EvDCXEFE0BroqeXmzoUIZdLrNN0",
+              "received": false
+            }
+          ],
+          "total_price": 61182,
+          "delivery": null,
+          "changedOn": "2026-01-03T12:19:13.000Z",
+          "action": "Requested products changed",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959093b1c508c5d5e85e55e",
+          "products": [
+            {
+              "_id": "695909381c508c5d5e85e527",
+              "name": "Salad92330",
+              "amount": 524,
+              "price": 45361,
+              "manufacturer": "Apple",
+              "notes": "JRzSrRzO2pxN9NvZw1uMikRI1O12xUaOd0vIAZVwcUVbzWqSLoYUhDnimV1bJ36qF9DHMWj0pXqryfORgouQub7UysdIasx35NjSY9BtnYErCbKaHT9aYS5vajDesTvtnu3xXnvchBPctZDNqN8TcyX0gjBsoeukD0PRqdBSASfyWW09xpN60JgFU2hKnT6RTbBORUXqEojcmtuYXnX1MRVxYjhbJIP5NH8zX8lRh3GUfd1Iv96V3QlKJH",
+              "received": false
+            }
+          ],
+          "total_price": 45361,
+          "delivery": null,
+          "changedOn": "2026-01-03T12:19:07.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

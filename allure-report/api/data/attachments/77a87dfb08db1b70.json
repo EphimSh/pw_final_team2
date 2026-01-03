@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-25DfSc635ZbOLhHEf2Q7Ks69apI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer36917",
+      "amount": 834,
+      "price": 79915,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T12:19:07.000Z",
+      "notes": "9EdDoYKuR7RMZgunpx2uvo4w3IOpeD4iwgHzoQ3VJ1plLEgEFUyKp0VdRm8swnlbC4WiYePx5y7JYyb1QQuwlfC8GZZwDpwrUi0zac4aTE9LRvDZ3pSsjurP1HPBzSRGhzDzVslbvWxKSmUVXihg5ee7MqRgCkD3c5V3fZf5G82xdw9k0NEX9Rgt8vMQDx6QdAWPbu8juszcvgMI8KjOG7dbtuOmy0QAKZE8CbFKeTpsmmeKe9pA3HPaGJ",
+      "_id": "6959093b1c508c5d5e85e570"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

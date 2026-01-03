@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "353",
+    "etag": "W/\"161-hA8oqra8IyMbuA5J2W8wCa2H73Y\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Vladimir.Oberbrunner56@gmail.com",
+      "name": "f",
+      "country": "Germany",
+      "city": "NlhTbOWrpxhoHKj",
+      "street": "aB4gSB",
+      "house": 52,
+      "flat": 3,
+      "phone": "+5371219614",
+      "createdOn": "2026-01-03T12:18:49.000Z",
+      "notes": "hn3uyoVMspkKg6w2Jm0B9Mm9UFSg4mDYthyeNtyjZXopNsyIT1dSY2QfhO6n",
+      "_id": "695909291c508c5d5e85e31c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

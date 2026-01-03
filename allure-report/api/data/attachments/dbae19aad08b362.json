@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-bL8P0DULHID4P56nmS7x7kowoM4\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna69390",
+      "amount": 733,
+      "price": 71237,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T12:18:35.000Z",
+      "notes": "nBwza9dtvQtdchrkHHZcY51Abt4v2mufW2DWFEwMCoMoBZn5dhlldbQJec7j8hqD3OogZxV8BPRtlPay2WNs8FB9EZUBeVo6wk1cqU8I4sgy5rnNPDvY5r3RT6jElYqcnj3oMZfK6Xt0EaV4uhoxlHoIMDZaiF5SbAAzY3LmqLxxjBAeDHfxjBiKhp0VikKLOQoWzvX5cOxRmL8w1qyJAgjnwcLLobLGpjf4STNoVs4XH7HCmg5G01KJoc",
+      "_id": "6959091b1c508c5d5e85e0ef"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

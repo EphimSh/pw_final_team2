@@ -1,0 +1,119 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4230",
+    "etag": "W/\"1086-jUfuOmG3L6e21K7uFatEHdTYkj4\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "6959096c1c508c5d5e85ea5c",
+        "name": "Bike98561",
+        "amount": 572,
+        "price": 4177,
+        "manufacturer": "Amazon",
+        "createdOn": "2026-01-03T12:19:56.000Z",
+        "notes": "QfWCbjruoFQMVXjvSsu35RtBlXPM7ATyDfvjQPbsoZ0iKz01wXCdY6q2BdCHrcJyqevpsXU9mWAlZLh1afns6YO0MntvzSRDEsfpJeIvNlGo4VeQBHv1cDGhCeyGcmlaFF8nV2CBnnLcdywLLignRx2kOfNNwn95TavV3ZvIIjBSnm5jJT1qUJ9lJAy06e0WxJPAlQDrGZORdGOWntGcqbJIkPT3kAH4wtcomvbxRQBhHJDaVYO39orDws"
+      },
+      {
+        "_id": "695909251c508c5d5e85e1f0",
+        "name": "Cheese80946",
+        "amount": 910,
+        "price": 93806,
+        "manufacturer": "Amazon",
+        "createdOn": "2026-01-03T12:18:45.000Z",
+        "notes": "22PA3oP3sY9dNlQjRl09hkSBLvWg1dhgWQS9uJDuR0S1qIZc6vhMS9COFF5e8MpAzwTJHcgvILAGJSV8rS0qDZbn8HlxEvSisFo3PXllp1nDYXorevpSzqf0NdHqI02kDBXzuK8gJZt1tUdEz8iyDAXmT0jJGad7Xpu3nmTporBtkS7HB1ANVKevT4DVcjvCHgiEaaK4EcUPoElpXVZMDCCC4HHuReuQV8ZzvtaCWpyQ2qavGwS6iOrlzm"
+      },
+      {
+        "_id": "695904811c508c5d5e85db5c",
+        "name": "Keyboard34937",
+        "amount": 43,
+        "price": 31701,
+        "manufacturer": "Amazon",
+        "createdOn": "2026-01-03T11:58:57.000Z",
+        "notes": "w1Km24lQSkTRGWn5bewGO6ygWC61UdcFYWALFcB0uioS2Uy9AxU0qTcUyvgJ9immAGgnwND3eVuH6cGOYEuQVdBKmHaj5ZdXHMwaHIu3CEzfc4v9S11ifWcLohdzfsnX1jDhMKh4LOLGsLwbAHE2baxG77zj53QS6YzyeVLuUSepG4j4BkKNOHG57DZ2PRrBrIQbWLqCiQVrw5BUZ4QVBBZjC1uRNUq1SQbYdWGUD7pAZ2aezgc6U8kSWA"
+      },
+      {
+        "_id": "6959047c1c508c5d5e85db0a",
+        "name": "Bacon61891",
+        "amount": 267,
+        "price": 98994,
+        "manufacturer": "Amazon",
+        "createdOn": "2026-01-03T11:58:52.000Z",
+        "notes": "8p1NJLoN7f9Hql9kxiFEGsHmpF3yc3C1694efzfFxoz7VtfYr3aLZqP5s6ge2FK7irCmN2iLAPL9s3OrxTK4HYDzGZw2QWFLSFBX3JWyoWlrynaYbFpDyu4jmIjaW9HRhwcTLP4jrdCsjdHHSUcDQihsK2duZ8I0JopEJszjTD4d2XxZOTvfXJYqwxPIm4rJEvqgOwjHwtMlrPCTzCuQdWUbHtDsnuHRGtTOodb27ktxlzKKIlVgixdosL"
+      },
+      {
+        "_id": "695904751c508c5d5e85dabe",
+        "name": "Hat78007",
+        "amount": 458,
+        "price": 94910,
+        "manufacturer": "Amazon",
+        "createdOn": "2026-01-03T11:58:45.000Z",
+        "notes": "fmvNFxZIf5k4gK7clPube5XfWQ06XLqOESJJ9AGHju8k943awNWh6OFUF6NGTE0UpiLXTOXnxEEhZmBYPL3YOP8463vEEv8kV8z0xQTPMjbIhlycQscPGrsa0FTdKO7nu2i5abAtLkhwTswrAQgKUYUXwAnO7QTFAaJ3ibHJOK34Mg98N0paylG8hVIzIbCwTTX3kPBNQuzAeEFzxlGZcLXAFVPZx5BwKE3sBVfJTFWqnzVMulk1ldXrOo"
+      },
+      {
+        "_id": "695901901c508c5d5e85cc3b",
+        "name": "Soap53901",
+        "amount": 699,
+        "price": 90893,
+        "manufacturer": "Amazon",
+        "createdOn": "2026-01-03T11:46:24.000Z",
+        "notes": "i7ARvfC79rvI6gnGohnIfLm0DkaFeNmv1dAVIR361JF2bniC3qPWIyzP1jspNVFGKNFUM5Pr5rrpoNGtZkxX4kZzjoiFWizSs7u3nNsntikX0rDk0dLLcmtTt1XmASbjXa0SwY8lvoM9WOcQQ1uR9NJ2cF7MYcJlOnJYP1jOor5YmsY82M4K7cbM9N0xHu48hjMg0zOobjVDdhgbOsTahLGoQpeXY8qYKQF3gyzmChvIxissf6kVTRji7d"
+      },
+      {
+        "_id": "6958ff861c508c5d5e8555ac",
+        "name": "Ball32466",
+        "amount": 294,
+        "price": 17841,
+        "manufacturer": "Amazon",
+        "createdOn": "2026-01-03T11:37:42.000Z",
+        "notes": "qgKlAGhxAlhn11MUSqXusimRSCpHss9oCNuiJ4ehIGEwVZfzIISXRzXaH0w6wZc7Q1wEKLwsoKcuj6ZVIu5aZQe0Bi8l6vgizahkX5qqmhYCrsM92y9oDGl0ujkezNcBo9c5HwUAE5WaQKmfN9aJ2xDd7rRobFR7mBD9yMHdHM1is1TZh9mk5ZVw1ic6qsvSz1s2jFbjT5jNrSQuhKwaBsuGs1yjhSs8Z6zPxMdXDM9oA1ca6ZLd7pd1oJ"
+      },
+      {
+        "_id": "6958ff781c508c5d5e854f51",
+        "name": "Ball77279",
+        "amount": 682,
+        "price": 42953,
+        "manufacturer": "Amazon",
+        "createdOn": "2026-01-03T11:37:28.000Z",
+        "notes": "6cNTDlEKupqU5KnQSwyLabnjp3HfVQyW2YqccGiIBdaBYOUhH7z60G5E8fNtCwVbEYLPHXig5k2J8f9hLNHIsVmOqb8ceqsGhKIXgwNE61wwdnduaDy05MkreaZzbqTZkGTXSD9T6sbP91s16bUg0t7KOv6rgJeY1oIPFzfWJDYiyLkZsspWKekifCR9FxPLKTnk3eQSHO7N2zHz61lTfXW6aruTQE4FNQHuXmph2jR0Ou5gCjCrZNCe7q"
+      },
+      {
+        "_id": "6958fe611c508c5d5e851068",
+        "name": "Shoes39920",
+        "amount": 368,
+        "price": 62092,
+        "manufacturer": "Amazon",
+        "createdOn": "2026-01-03T11:32:49.000Z",
+        "notes": "ATeEnvcvpMrIa0x2uHyrRTj2PszZLDGgtxNfr1oiLxTSxMZTnh9yyJK0mJ1VYmnFUceOGNstM1wBjncCgjcdKIOPnniC6uWzxqYg4a41uNUzm9wxS7ilJLJ4n40pLHroVcbD2Z08pd2PXuEkhhsaovKTLcllnGkCO6Yfk59sHdedxBoLQq4km7M56Z3UMEnI6OaEM71B3loRP7zEGsPGMPj0UlBjhfxAO4azmI1jn9PqNB6hTvvlV6Lqum"
+      },
+      {
+        "_id": "6958fe4d1c508c5d5e85097f",
+        "name": "Gloves16000",
+        "amount": 492,
+        "price": 7214,
+        "manufacturer": "Amazon",
+        "createdOn": "2026-01-03T11:32:29.000Z",
+        "notes": "Lxg7cMZzveovirDo6hMOdxjQkHrEgnBDz87gHS9uzgFPNlkcjLx2uFCRsqxU1B1Hf9x8gV2nm39GhFKKp5tKBgwAN4cVGDOjdFYkJjVM2zRpnZfMaN9Xg0h3KSZ4aMkhggxbHjEqyVyzb85xIBF6S0s2iU3ohkwapt50kDD2zshAdWDKXLBTr2zpUh2Foho4g4PpF6Z0RX1ns8nH8BM3SA7oSoIjJENJV96JxGmOvNgk0offCgBWLZhPKJ"
+      }
+    ],
+    "total": 103,
+    "page": 1,
+    "limit": 10,
+    "search": "Amazon",
+    "manufacturer": [],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "desc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

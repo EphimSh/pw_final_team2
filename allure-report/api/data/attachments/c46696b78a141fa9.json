@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-G72yfoeTIt2qflNoZ2xLBrW4SqE\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse14975",
+      "amount": 778,
+      "price": 72024,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T12:19:22.000Z",
+      "notes": "JuPzZVI0KE59SKZV9YjDe58YcWDYKS2xzozKBhcKKJrbmi6XEM2zRfn1uOWYtxikOGyYAiP8AERNGwYITwMjFzqJlqsgD9zAPf1UYlx8210dsIYX4rz9UCru5C8CmzdkrYFewE4RcZRupVRJOedsj8XcVk1PZg9wUiYmHB3IwE7IGUumscK57noQBGGuSO8MjStWTsXWdBEaAWliKdMvM0LSWDmorq2HIufgIABXboubM7ODYcLLS9apkR",
+      "_id": "6959094a1c508c5d5e85e780"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

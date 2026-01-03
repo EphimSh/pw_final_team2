@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "405",
+    "etag": "W/\"195-o46RjYcVhWrOCP6pMF4s/fHEJIk\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kayley.Boyle98@hotmail.com",
+      "name": "umTTWvxU",
+      "country": "Great Britain",
+      "city": "niMwCrqpCahqgCCXlX",
+      "street": "ePGHFMR1",
+      "house": 93,
+      "flat": 2,
+      "phone": "+9161750366",
+      "createdOn": "2026-01-03T12:18:20.000Z",
+      "notes": "uwYxnpp1ms4qNFYYugEw9CMlY2llPVBU1BTlCBWhWeFxUAD7J6OGPjCubYJoxajaocUUvXeXX7ymvA7e6YEmmaPGL7zh3S6MhwjF",
+      "_id": "6959090c1c508c5d5e85deb1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-5leM3C1s6oVT0I2HH4J8TRVhW6M\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball52684",
+      "amount": 515,
+      "price": 13063,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T12:19:03.000Z",
+      "notes": "K6VcYlmOlB0bKixT6kRHcig6GuxLQjqyhafY4l3E9LBEcThPL89IfR1IBgC5Q4lTi3sqN6WSgKoxGnRwnMKmHO80jdaVZmrpjX1AeL4L4N0jVpknSzr33hKYH8C1XvDfGV1s7upw60D6tZNdkvlEjvTpg1xNS11UvRUuKJhb3DbFyjIlnODQczL4EH8iwaCtJVZ1r16AMaXGWCQkBmMgHpctDUvu9JqXlH21hJTOJ1zV9O8PbHJCpSbmpA",
+      "_id": "695909371c508c5d5e85e4f5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

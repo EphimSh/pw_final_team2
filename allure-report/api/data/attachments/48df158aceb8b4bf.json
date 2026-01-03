@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-9QSjvfG3LPsCangaQ5IEMleuH3g\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra76730",
+      "amount": 757,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T12:19:59.000Z",
+      "notes": "sCKhMq4GSj9jO2VqlZWjsdncCsMirYkwo8O9u3h2d1KH8LzxcMvaObYovlBCBK9WjcVx1kvO6MvqssTLac8Y0CIsREV6vLpSSWd014fktuIGQB9LshfcG3UM2jn7JVCuN2stUVbQj1xxamAWHgsNAyXCNUMzkae5rNminqrf67q32HQpiDVTgbFMKXAePHITW21ZGMQQaHelnXnVyoTumOsydObMMaslIG2xMoWpc1GWleKwtigXFcQcuD",
+      "_id": "6959096f1c508c5d5e85ea84"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

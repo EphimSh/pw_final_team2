@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-lZ5BpBwUC5mXftJv15r02XEkzkc\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy S2571923",
+      "amount": 70,
+      "price": 3100,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T12:19:50.000Z",
+      "notes": "6KvGjknWaIMx5fUROgHC4WML8S369IZ6lbZZmYkS20IvQaLot5oCeaiTtnljuDzKmrU2ltw8seSDe2P4cjfKSDvhwtVYusquIMzq4WHNT14R52Tbgi0eNCPOr3mXVAZ39ty2BlpJZcaiNlg49Yry1N5sztu9qZnNnwyN5fSwrDOembsHg6sAqkSKM5Q52yFmcHS1wThwtQiKEr75EJXKOIW1ZyYpn5u730VpO35XMnomjyoo2ZlLrTvrJL",
+      "_id": "695909661c508c5d5e85ea0f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

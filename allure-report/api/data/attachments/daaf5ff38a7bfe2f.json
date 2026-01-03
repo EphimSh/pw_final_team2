@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "518",
+    "etag": "W/\"206-ThdDMQwFy9xpAPj1C8hqQygwgg0\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Domenico.Price@yahoo.com",
+      "name": "rOxaRIzqXxysIhwskISQToftUoWicF",
+      "country": "France",
+      "city": "fCRTbRGESusIIz",
+      "street": "s",
+      "house": 61,
+      "flat": 5,
+      "phone": "+7196827570",
+      "createdOn": "2026-01-03T12:18:32.000Z",
+      "notes": "6PpOZ8WPHiFT5KGVOPFRP6ulBhyx6rfJrAEoKcsHuwD0Md4iplyx6aNARADSEAaUV0CiFXuh1CebaIttm87ClC8UoUHcsIQIWgx3PZtz6WD2LYq4uHKOygYxR62fmhAsJEHIjpXRqpWVUliQpmjxzv1kAqyxuAd682j5TVHrJ0plVe4vKgTgsDg8cWO6853LLRZ8ZuggX78EqJAYdQ7",
+      "_id": "695909181c508c5d5e85e012"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2404",
+    "etag": "W/\"964-gp/fmrb6q4Q73XmmPDT0/rGDfXc\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695909131c508c5d5e85df5f",
+      "status": "Draft",
+      "customer": {
+        "_id": "695909101c508c5d5e85df1a",
+        "email": "Kelley.Pfannerstill17@yahoo.com",
+        "name": "mYjTZpTCcOzXNpjLhQSPVV",
+        "country": "USA",
+        "city": "huaFtAkjCgKLNxhZaofy",
+        "street": "ArYJcFFZvWmuduRowl39OQ4JtxBwKm37IOaD",
+        "house": 179,
+        "flat": 4,
+        "phone": "+6990718469",
+        "createdOn": "2026-01-03T12:18:24.000Z",
+        "notes": "geBwAV3s9GgY6RX2TGDKXVxjkJle9oswzCjZNgwhDGha2Ae984eSMspDoz"
+      },
+      "products": [
+        {
+          "_id": "695909131c508c5d5e85df4e",
+          "name": "Ball64205",
+          "amount": 705,
+          "price": 53850,
+          "manufacturer": "Tesla",
+          "notes": "NE3shw0AJAQu2hSL0JEyhK9vuJT4EmPHlhRYlmisSkAZH9yzeFJF0TlAhRMi8iBheO1DaJWzMX7unymbNTSNUTeyyMbPQkcV0pDj5ecARZdfFZSXhHBVGBc9oZ1CCHLLuvP29Atg7BhkZlHR128NOSLwaKkJyO9rTQMoMbcty9ldqESg4ZKTLu3Eg5ic3nEb7QtfCirAn6scDjsuWYdrmWbLFqFBiWwedg6yE9zjHr55HHFCOZVdMERz4V",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 53850,
+      "createdOn": "2026-01-03T12:18:27.000Z",
+      "comments": [
+        {
+          "text": "OH3SQ0xjp4Mmu1ZGFVbKPnZan7keCFusAXMcil78RpHUD5lXZ4tpX6wJ8ZZAYIVZ28Ryf2CraSlUgfhKbjw6yVlcHfpFm53tT",
+          "createdOn": "2026-01-03T12:18:27.000Z",
+          "_id": "695909131c508c5d5e85df78"
+        },
+        {
+          "text": "LMRX6ynLNbfWggCr23oYlsGIfDXbUcObzrUPq8uNQD8xVqmezHZJprp5eVMS5TDvK0sQt44TsUSjI",
+          "createdOn": "2026-01-03T12:18:27.000Z",
+          "_id": "695909131c508c5d5e85df95"
+        },
+        {
+          "text": "2qML6uC8fo61EqNd34kyKWMFnOhNG6M7wYaXNy0gRkmGAJnziOl7jif5CPekg1yVAlpWvVct0X1CMvrMzQANJFYJhSa2xwn8rozCo9VvU6BakzQlLmAnaakKsbIihxisFBpGuY5dvtYnqRFC3GHMuzu288CbqLleMV98oSL8njiCwMGRRiQReP2QzRlgb2ZmCf3TmgSc9Av2fjTneJyMsUHhLiN5XsJlB0s7gl6iqjNvaLqLBTMq3FyOM3",
+          "createdOn": "2026-01-03T12:18:28.000Z",
+          "_id": "695909141c508c5d5e85dfb5"
+        }
+      ],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695909101c508c5d5e85df1a",
+          "products": [
+            {
+              "_id": "695909131c508c5d5e85df4e",
+              "name": "Ball64205",
+              "amount": 705,
+              "price": 53850,
+              "manufacturer": "Tesla",
+              "notes": "NE3shw0AJAQu2hSL0JEyhK9vuJT4EmPHlhRYlmisSkAZH9yzeFJF0TlAhRMi8iBheO1DaJWzMX7unymbNTSNUTeyyMbPQkcV0pDj5ecARZdfFZSXhHBVGBc9oZ1CCHLLuvP29Atg7BhkZlHR128NOSLwaKkJyO9rTQMoMbcty9ldqESg4ZKTLu3Eg5ic3nEb7QtfCirAn6scDjsuWYdrmWbLFqFBiWwedg6yE9zjHr55HHFCOZVdMERz4V",
+              "received": false
+            }
+          ],
+          "total_price": 53850,
+          "delivery": null,
+          "changedOn": "2026-01-03T12:18:27.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

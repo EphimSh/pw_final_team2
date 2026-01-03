@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-4Sk/usUJPQbX5M9dm7+Ks6VuAr4\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Pamela.Ondricka@gmail.com",
+      "name": "oXcSnNIrPX",
+      "country": "Russia",
+      "city": "YoUbuDkDyVJUTIaTn",
+      "street": "S231sc1f",
+      "house": 25,
+      "flat": 4,
+      "phone": "+5274315547",
+      "createdOn": "2026-01-03T12:19:07.000Z",
+      "notes": "NwmcgTWQiHD7lwRBGvR7PCpQ6Wy1FHvmpJEszWW3YsBrrvA2XMeO9SY44MftQTzKCSxaZzfEq0c546gcWuYo3sJJJcx6IKxDg5VauaNxxMx4q0zjBOQy66UeqMoAeYNs2DT1EzCbi9JQ8reYPZu4cOeYD1SM1G",
+      "_id": "6959093b1c508c5d5e85e55e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

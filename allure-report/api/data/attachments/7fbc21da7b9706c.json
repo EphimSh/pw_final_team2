@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "194",
+    "etag": "W/\"c2-VEroksWsL2JEFx3+4F1Kc7bYg/I\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza14766",
+      "amount": 472,
+      "price": 43083,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T12:19:30.000Z",
+      "_id": "695909521c508c5d5e85e898"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

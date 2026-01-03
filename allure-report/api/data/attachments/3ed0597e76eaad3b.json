@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "459",
+    "etag": "W/\"1cb-6ZL2vxSGWKqLDRQgvt5R/Imne20\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro198",
+      "amount": 672,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T12:19:56.000Z",
+      "notes": "Vfmy7zFk1HtUFwYf2vi5LrGwHBEgNYbKIJUN0hmoC6v66S9kuBU0JSUY9Xt3qV5anU0dNXqxq8lkO6qtRggM0k5AgRuPnv892juXYcx3fxvD7OWZppdObwS1s4uu5NORzTkrXlXP6WmxFqjVWljT0LwbtItFWOF2Czdl4gHoK0iwAKrtoQ4Wkgn8pXeyylHaMLa3ADGE0H4dwzfjLLBwADyn3uBmS1PYXDlW30iHOvL5EcOaSUI2vB4Jti",
+      "_id": "6959096c1c508c5d5e85ea66"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

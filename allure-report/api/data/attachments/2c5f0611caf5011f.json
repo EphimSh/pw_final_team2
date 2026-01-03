@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-5XIuSX+YORCHcQOIgE3skeplhnc\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon58605",
+      "amount": 340,
+      "price": 59368,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T12:18:38.000Z",
+      "notes": "WG3I2pLeZBfAV4FT0mAaHqI5Tw20c4zKZOdEubHx65lrAi9ZQnHFJgJZ8kTZGCF3BGwnLEX1UG25h98wz6HcCvliZxD3vcVysB8lvL8VEPqStPNd97fKUpWD1EY2L1TGl0BKCZGBIjsuDXbxgxlrGxCBWWu3dA4XnUbfKtWDsjftnO4Xn9FT1cVRkZ3vXuHpU81pghG1RLgBZbQk3O2OZcev7ovInfH62UtCf57xzRUxGYeWEPKy02rm3e",
+      "_id": "6959091e1c508c5d5e85e13e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

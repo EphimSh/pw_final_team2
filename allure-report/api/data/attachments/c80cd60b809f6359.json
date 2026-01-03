@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "203",
+    "etag": "W/\"cb-T9Od+tC1EBY23kBZ5ihSQ7KruBo\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair15641",
+      "amount": 96,
+      "price": 56394,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T12:19:30.000Z",
+      "notes": "",
+      "_id": "695909521c508c5d5e85e89a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

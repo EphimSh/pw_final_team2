@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-qY/paFowIgCx0C4CY0e2bcpSm9s\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro93111",
+      "amount": 257,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T12:19:56.000Z",
+      "notes": "C3j6qJLWqCyGTunJ4L9FcLYJRxIHd7u6PIxwidvdDT24Y1TvfaBW4AZRShxnzEWaMwPp0r8efUysve3rdgXVCZKVx5Yw2ozMBXrD7X6QqYpqWGUFR4nAaDhCREB2AVcQY529HegzuJ6gu24M36r9RnLkVrKmuE6Em4VzicIV8p0M5hijWSgUUOlu2rXBRdyyHe4EPxUxMuJEE4eBWlVMZHYJWcOdD1AN2Jor7t4T7ljeEwKXFaP5gFpTKO",
+      "_id": "6959096c1c508c5d5e85ea68"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

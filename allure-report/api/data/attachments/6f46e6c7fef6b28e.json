@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "465",
+    "etag": "W/\"1d1-nk2pLoMox2U/+dtVTYvUL418lb8\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X7292",
+      "amount": 622,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T12:19:47.000Z",
+      "notes": "qNCDnu7Vj23k8ATPOSnWIh2DMqJgQqZhV3xqRkvlNB9CKnAa5dDR7huQsltxzDiQwkX2BZyJf4YtXTTCqdt4Lqf1Z4GGakdriK2DrtR3Er2bXVs1WjHJPjSyNNkqAeCi7JauwD7pt3ayF3q4XxYdAg35Oi0o4wnkF73FRvQIqklJnAgsEE42rik0SfoFQgqplTcRdFPlhDibr27ScCnLEH6TLI9uZ1kKrsIfWJc3kN6ngELofDs19vobkC",
+      "_id": "695909631c508c5d5e85e9e5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

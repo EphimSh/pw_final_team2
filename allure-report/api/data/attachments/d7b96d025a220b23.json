@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:20:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-/SaLsoI29qUu97YHw352hiCCjDA\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "6959097c1c508c5d5e85eb97",
+      "name": "Gloves1261",
+      "amount": 736,
+      "price": 10000,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T12:20:12.000Z",
+      "notes": "8AMh1WnlF6zAmgA1qVZzqdrxzQVkwrXrbNAfFD4m57vjaO4Dj9NqzB8yMaA4yz2IUgKXjKKQHfzLH6eZEpgWK7F4xLCunWMVp5nclEh9zo6Vcyoa08uYG0hLuJ0jM22X03LeyI3bi7mJ0pRcuCawRrpDmgLKErAQLlZF9TtpCRNQtzOnSJ1twVQJtU55AL9Uc7XErmG3B8Jg6W4DwGyLLdp3DVeDkj5vHtzg1GDDyow2nyDtTFcrE8spyX"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

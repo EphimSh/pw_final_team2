@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "436",
+    "etag": "W/\"1b4-NMAbHdJ3vj9EvPjZjXqN+kjY5BY\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Arianna.Kerluke@hotmail.com",
+      "name": "XWCxUvkuRdHrfVfCKCPWLYrarQKVoXdebXjzphQJ",
+      "country": "Germany",
+      "city": "MivrSxEBuP",
+      "street": "cs1LkueSmpDZh1S8vhfvqXCSOC1",
+      "house": 189,
+      "flat": 1,
+      "phone": "+2794449439",
+      "createdOn": "2026-01-03T12:18:42.000Z",
+      "notes": "RcQlqbXjqmNAF8DP4rb0UccFabtIoRdmzyC8knHrMUlhH45tAOYGjhFbNeFaJlb9w6kzf4uMlMOPbvoEIf98IguA3D4G",
+      "_id": "695909221c508c5d5e85e1bf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

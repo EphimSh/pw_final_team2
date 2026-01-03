@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-FSknkcISlXLUHU2klc/23Q3L+Rk\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna2730",
+      "amount": 972,
+      "price": 81661,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T12:18:52.000Z",
+      "notes": "ke84j1JV5sSOP8WVgheqoopDvNlyJJoqjdq40JD4MVt4PU0dGfIpS1UoEw3ybhVzb8FamQCXpgornxzaR7wJ0SyrH0ozp1BVAj1gOpqTZ8I0Jo0B8X9xfZI1nNdzyPYgdIaLsBjhkAe1ZFSO8nR9OHQKp2hLNqzkjdkPeTkfEAVWaORgmGu1arDE9zl5arY2SvUzraYQWgDHsKmk0Akkrm0ilX1PBx1zVuRJczfPBtk17pSteNCq47lTQS",
+      "_id": "6959092c1c508c5d5e85e372"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

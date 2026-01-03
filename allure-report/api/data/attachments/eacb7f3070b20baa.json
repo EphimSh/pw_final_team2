@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-P7Bt+6COL+jGAc30HowHfh3+Bhk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt75077",
+      "amount": 880,
+      "price": 39657,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T12:18:43.000Z",
+      "notes": "Ihahw6ogA7CjarsvFGmq05TwNRQqolDCXxxcTMJZ4tNR87Gatf62AMPsdTWVATRN7mt07cpEN9FFdYEdOw7hxB3kWb6Zfrd6BSWg5yFEzEHgmeiOUlH4x2URs4rQmMNLXGRDZ6C662D4vyFklECQF9LCQjugyiQFZJyZduwVPswXSBsaPKfUcM1nD6j6F6ZUqEs3S5cNroGWzJ12C7dHeZ4xJdX0mo1fP7AiTXwsXJAJy3eyJhbbId6luy",
+      "_id": "695909231c508c5d5e85e1cc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

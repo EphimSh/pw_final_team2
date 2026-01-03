@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "471",
+    "etag": "W/\"1d7-bTibtuLYBcgd2aFC2Jwmi1GxLsQ\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Gilda55@yahoo.com",
+      "name": "PmWPoXbKKKqhDCeLWeMgAOvGgBkbPlUKHceUBaA",
+      "country": "Great Britain",
+      "city": "AeXVE",
+      "street": "7sgTFZvotBhiMjqXsd3GRdjbYL14KLE",
+      "house": 54,
+      "flat": 6,
+      "phone": "+1433598452",
+      "createdOn": "2026-01-03T12:19:06.000Z",
+      "notes": "PYnpCIEc7WAW2arpuNZ2x9CIvT4VsfHjQBcxvsiNtjheTS3I5QLlIVSBJm5JXC9NERg8Ai6aFgcXclKSzJ8S9JlY27b5P07uSnSNURazn000V86W3om7PuNODnofdWTbUeaIHw",
+      "_id": "6959093a1c508c5d5e85e554"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

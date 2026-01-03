@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "431",
+    "etag": "W/\"1af-X1DfZnlgKtNDEq13qY6xa0BX2LM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Wilburn65@gmail.com",
+      "name": "BxAZ",
+      "country": "Belarus",
+      "city": "UrJyUDsVncKRw",
+      "street": "PTINaNwp3UVTNdaL5Lb2Vwi2XS5N4cHrKHSGDmJR",
+      "house": 18,
+      "flat": 7,
+      "phone": "+8665954870",
+      "createdOn": "2026-01-03T12:18:40.000Z",
+      "notes": "AXYiGFNmdxibErrJQbxI4ONozQ30nGu4fSuGv9hEsADFa9o8yJsuyWUNiVhdxJWcCT9yh1M7abiyhUgw4jcL7rVMA0QIdPhjnekrcWP4vnUJGhRyDE3n",
+      "_id": "695909201c508c5d5e85e18a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

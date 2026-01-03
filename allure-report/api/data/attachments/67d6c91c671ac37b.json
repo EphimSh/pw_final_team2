@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "490",
+    "etag": "W/\"1ea-wfbyFfjtLTRPHKvYbpWPH7QeUAY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Louisa.Hintz4@gmail.com",
+      "name": "gAodfqhutnOOfdIvqEDhkxFKkdOFTnhTflOifF",
+      "country": "Germany",
+      "city": "TbBCphHK",
+      "street": "HK7MqkSFn8GKUTgXZOO",
+      "house": 10,
+      "flat": 8,
+      "phone": "+7202681798",
+      "createdOn": "2026-01-03T12:18:12.000Z",
+      "notes": "XpV7Z0ScqRZnrQULcjdqidA2GdfISWT2iDqvIXqee5Q9LQAsaPSmZAu2tbROTWAcODu0qdtI5jUlHbyplMGq8l4WG5bt9IqbJdcKpWhKFV2qKSpVH7rPLldwETz6RBGd4RIdSt7bAiB4Wzzk8F851stJmZM06tCCnvO",
+      "_id": "695909041c508c5d5e85de0c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

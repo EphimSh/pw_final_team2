@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "421",
+    "etag": "W/\"1a5-IN6NinZH4L3XbIuaqrTydNmAYpA\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Alicia_Paucek@hotmail.com",
+      "name": "IqOBiniUqmlyUBOwRWOX",
+      "country": "USA",
+      "city": "gh",
+      "street": "D0Xoi",
+      "house": 80,
+      "flat": 5,
+      "phone": "+4634857334",
+      "createdOn": "2026-01-03T12:19:06.000Z",
+      "notes": "nERJ6iSJNZYUp1hIPRwfgc6tNYqwULSSt98hJUZVqQ1KSr2HMkWJX9ZvOWcylHTLrKgrbjdx0zxFgDHuN4wDft5bt2wZfAxwSn9EWvmnKdq1tzLSteEuY7vXc2xUqiPKyp2Zdm",
+      "_id": "6959093a1c508c5d5e85e546"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

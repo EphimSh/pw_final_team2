@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-bj88biIPt58usSKR4+N+Uxqp28I\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X46997",
+      "amount": 765,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T12:19:47.000Z",
+      "notes": "YU5vQf4npXNmhT0qIrzpHkIa7KLKQfcjjGH5KUPLgN7lZWKdmgkzAm3ulnZNOME5tgAIiCVH2PVh2bwwdzmHHTNHkd5ZtyRj6p8BAPubwrEM1CCIT5OosTTA4rI5KqgFv16b9iyBP4cuyQfZrVRKsn8eWSziLsiNKNjE4damJD2HpP85KoBlOuUStbseCBKDnrgBpRLVFZUwbcODvjCWeCeswYwpWATQOi1QiLCMoBqO6LBecR7aGxqvkF",
+      "_id": "695909631c508c5d5e85e9e0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

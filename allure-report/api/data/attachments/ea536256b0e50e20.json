@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:19:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-1AbuHDKD1oUV9GZMnYNIb2wKaZM\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy A5599626",
+      "amount": 123,
+      "price": 800,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T12:19:53.000Z",
+      "notes": "NfuBwJZVY6sSzzvtYMLkVfxtJXwbFESA4fAE592WdyYq5GzfgFo3KId3dZ5zQSflJGT2t8RCvEalUhGXqAI2D8iIuszPZfkDAfB6FGm3biykv7ADqoqzHuuTw0Wp3ihhlXZu2hPptXFLU7hvzjuHSjN32PzUogOIZ6SiYCCruB7BwPYx819LT2T6NiNhfQcXbiEoND03K4MLDyVSdkD1PuZEuwWahw41FaRyEE6Ut4CzOlrXNt7Nm0IZKX",
+      "_id": "695909691c508c5d5e85ea40"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

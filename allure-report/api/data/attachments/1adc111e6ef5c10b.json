@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:20:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-vCdp0Yr5HsoB6s085OEdj7lyPjU\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat21125",
+      "amount": 537,
+      "price": 42274,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T12:20:00.000Z",
+      "notes": "SdOkcVT4p9SkRf592VLS73xiuLrO8Xi6t9sNi2i7oIEIKpk4nLNxfdoynrCdAsHA8fITLxjsnMKm3KhBJ5si7pW3WRChRDJIe03btcms28HKWwHq5VJA2SySyvvNnbyZr4p6QzsEIHdqR2QY5iaRxHVOxF3f4lrwDi53t1rACWhFLZei1ph27NXOyV3efzzw4zJLyG88g3CJKyxe6vHCCF17JBtYLJUlymGuC3wxtJAdUaMaTYOues2K7L",
+      "_id": "695909701c508c5d5e85ea93"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 12:18:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "418",
+    "etag": "W/\"1a2-S937eMl49Nlbl1EceXHpYI6ZgK0\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Deion_Mohr@gmail.com",
+      "name": "QdltytrVthSEkOrxkEKZaWgENQHmXr",
+      "country": "Russia",
+      "city": "aXVeuBS",
+      "street": "X009a5lOT7wrnhO6UCdCWkKvn9yqSX",
+      "house": 77,
+      "flat": 3,
+      "phone": "+2873357933",
+      "createdOn": "2026-01-03T12:18:17.000Z",
+      "notes": "dIGXLsSDHHZrYivvGYhb9QwYM6PLflpJaAGrC8ZiR5C6IcyU2nbX5qGI1qa94ryfxOq5HASsseKGQMHXU0mp9JEnd6Cln",
+      "_id": "695909091c508c5d5e85de74"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
