@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:22:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "444",
+    "etag": "W/\"1bc-49okjBVzFaTTG+EbDIP3nW8k/9o\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Tracey_Bartell74@hotmail.com",
+      "name": "uBasHWnPoQWnvJHnJfCRVBIHsqvchQboMSZJPH",
+      "country": "France",
+      "city": "RWxFFFOfUAS",
+      "street": "PJx7ZOi5Lj4pGkyK",
+      "house": 109,
+      "flat": 8,
+      "phone": "+4229170569",
+      "createdOn": "2026-01-03T14:22:05.000Z",
+      "notes": "m3c9iudqwhZc3zxJkDK1CRxNZ29UI683rrZblkBT3oiWZnWkLcDxWFwIfoItw6Vimc06stKD36O1AvrWGZyYlIujdLkS3meTwybs3rH77CWNwzPK",
+      "_id": "6959260d1c508c5d5e8bc379"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

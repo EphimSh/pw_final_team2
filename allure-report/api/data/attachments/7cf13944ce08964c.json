@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:22:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-5n4CgMY97WYWSxNqVjhuzvmHd7Q\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike15383",
+      "amount": 136,
+      "price": 20641,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T14:22:32.000Z",
+      "notes": "qXtp8r8BFjt3BaBhAeQLaVQTKnNI7Uv4xLAEFIFPfAX60wMaGHSZST41SUqQ3zAlBgDoIpRMyZvz8vPqkhGV1C0V4tcV1r6G43d5ZMvlUdu6xMzH3KrHQG4iuR1WA1b8PiPwYDTcacph43ox56oaOtDeNjc27tcpVqamzYIuPaDvWTt2yTtlNhEtVOwAubsmpPhNs3EWOBGPKUMyuGcXSSDtvs9jN9z59gHpK6xRC55Upk5xQ27xS2q5sM",
+      "_id": "695926281c508c5d5e8bc8f3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

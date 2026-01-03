@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:21:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "334",
+    "etag": "W/\"14e-fVJvh4nPfo7ym9Vfr1wLeRouDOs\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Hal93@gmail.com",
+      "name": "mcIWjDTMBjxJhRXnVnk",
+      "country": "Canada",
+      "city": "hgjENV",
+      "street": "Fjdjvo2RptUNUyYslUpewt53VTuf",
+      "house": 39,
+      "flat": 3,
+      "phone": "+9904216939",
+      "createdOn": "2026-01-03T14:21:21.000Z",
+      "notes": "HJ5DcwYLTQfmDvvLUH7eRklZivm8",
+      "_id": "695925e11c508c5d5e8bb24a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:21:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "433",
+    "etag": "W/\"1b1-0nDyPRC9epq1wG/2N7I0tRYLK3c\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Cielo80@yahoo.com",
+      "name": "ltxBPivSXMolCRIRVqCgsOXAeBYGEeHxtlnOKy",
+      "country": "Germany",
+      "city": "yov",
+      "street": "kvhDepvRAW3B7dchuNE7to2JiKN",
+      "house": 121,
+      "flat": 9,
+      "phone": "+0215810236",
+      "createdOn": "2026-01-03T14:21:00.000Z",
+      "notes": "1pj8KnZQFT2dfykBEOiARqbHHRD6ka91BCMDsaZvdgDe0St3in0x75A7qsz9C7cQIQnoRV1uSbqeQD5bS3opvy6vpAZ0qBrm4iec6x5AhPoU",
+      "_id": "695925cc1c508c5d5e8babc3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:21:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-q2J4v/fgEL19nKZAdk44m/2kKUQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball45496",
+      "amount": 503,
+      "price": 47552,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T14:21:48.000Z",
+      "notes": "VHbcleOttk2LObioCoLZtkXTEE0b77S3eyzPBzlTz3bkUfR9TaW0GH0URlubiXwtAWDbAWwBf31Vxr4dKQxrpoMnJ5WsK6LLJT4ANibAkn7PtLqMQasf4n6naVzJ6vXHwFwXHoFOcwbufmhKOsJT7WM3owr19QYIcCFIN2xaPoH1YbDi0A6ygJ8tPkvQ0KY7uaiuoVZcYThvjiKhJ4y8WWDw7MzgOfDgqh50SZlNtZ9odQtkQmOKipRwSw",
+      "_id": "695925fc1c508c5d5e8bbc28"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

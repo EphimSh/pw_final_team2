@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:22:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "329",
+    "etag": "W/\"149-+o3hOJeBqc546BNzE3ZF8gXwsOY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Daphne_Paucek66@yahoo.com",
+      "name": "kdoZvyAucjyPZDgwsuv",
+      "country": "Ukraine",
+      "city": "bbWCTvVEgT",
+      "street": "vXS96UHz",
+      "house": 105,
+      "flat": 3,
+      "phone": "+8108055748",
+      "createdOn": "2026-01-03T14:22:19.000Z",
+      "notes": "Tr6GbEi7l7LLdq1IP0uMVdy3gUY",
+      "_id": "6959261b1c508c5d5e8bc628"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

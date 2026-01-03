@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:22:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-eJdkOPBFPWcccLIM6lcTvZR3P2E\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer60134",
+      "amount": 597,
+      "price": 63901,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T14:22:47.000Z",
+      "notes": "SKnzEArROZUcRKiPK34c9ER3FLfttjuStqn1aLGY31SukV6kb4AZBrx4lvw7ulBWO1Co8cZAbX1CCkK5gplx2SYv0Ijxdq7F338kVwUMJG1Dmv8tsqXjzzlsjjvtqKA8XJwkVjcVckRXimR54xPhikidRbYsGD6MXsL1VUq7NWV1HtO3sbdGTLpCbiDuXHGU73FamxmmNaDTzffurjbMyc2eKWvleCmSMx7DbmLMwPbv1tQMgpHb8j3mjT",
+      "_id": "695926371c508c5d5e8bcfa4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

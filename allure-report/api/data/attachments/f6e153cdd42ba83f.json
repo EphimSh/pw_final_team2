@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:19:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "384",
+    "etag": "W/\"180-AClh87pwePWAdl6mtAxXxHGrgCI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Twila2@gmail.com",
+      "name": "nCwHmiCYToZO",
+      "country": "USA",
+      "city": "NaFJqX",
+      "street": "bfCeNNsYtLHoLbXgnf9kmK2dvJcnW3tuECLV0UaW",
+      "house": 108,
+      "flat": 1,
+      "phone": "+4225631067",
+      "createdOn": "2026-01-03T14:19:40.000Z",
+      "notes": "8RujpDEYp9qalojPI1RHk7M3MbhXkdNVWWa0EK0UixFRjj212s30Wld0XV1haIC4oVzkOjPBVJ",
+      "_id": "6959257c1c508c5d5e8b9377"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:23:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "494",
+    "etag": "W/\"1ee-osQuxW7ZFFH2jADLrFp0TgTTFFQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Maryse48@yahoo.com",
+      "name": "RQb",
+      "country": "France",
+      "city": "loQ",
+      "street": "JNo1Zj0MLFpRqjp",
+      "house": 110,
+      "flat": 3,
+      "phone": "+6708131734",
+      "createdOn": "2026-01-03T14:23:40.000Z",
+      "notes": "We7TOhJKNvTpe2t9mt3MJZwGuPRlf2zB1pxAeibcinCccB6veUIHeqh6P4dx1sQDVuiMMtm1RakmMvzvbvuRBT42Df1OcNBeAOgEo7E9Bdu8YaoRYo61RIy6IIRUePlLlV6VbIXtouFC4jIphM2CztZQ2Upd4C3vwSoHK3nlR18G1JAPJ7CV55hd0I2qOt32aeQCCZX7FYyBVMqnabyrLbdp",
+      "_id": "6959266c1c508c5d5e8be9fc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

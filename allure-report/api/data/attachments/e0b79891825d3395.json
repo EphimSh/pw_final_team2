@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:21:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "325",
+    "etag": "W/\"145-3kEXPmpoU4b1KtGyFeZfZyZahMs\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Lennie_Morissette@yahoo.com",
+      "name": "AnFKoLEiRDPzmfFuakxHzQdEHliPszzPjbxx",
+      "country": "USA",
+      "city": "XmsKcvaGXkfhodVMwgWh",
+      "street": "AsyF",
+      "house": 53,
+      "flat": 3,
+      "phone": "+2188630429",
+      "createdOn": "2026-01-03T14:21:00.000Z",
+      "notes": "Z5n",
+      "_id": "695925cc1c508c5d5e8babc5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

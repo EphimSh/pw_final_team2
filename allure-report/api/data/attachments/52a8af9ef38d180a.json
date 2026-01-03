@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:19:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "379",
+    "etag": "W/\"17b-nsoRM5rocN88Nt1mF3Bhz0VJYdk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Verona.Von@gmail.com",
+      "name": "AoigHLFhiFzWFc",
+      "country": "Ukraine",
+      "city": "UUyDYLEIlxUOs",
+      "street": "R6Qi",
+      "house": 60,
+      "flat": 4,
+      "phone": "+8011253968",
+      "createdOn": "2026-01-03T14:19:53.000Z",
+      "notes": "StBtdknBT3jhx3nSG11kTvaLxsnMLwgvXnk5CUx9mqfmlhb128s70AV4Ck8qUnE0dBnBrIPLBCL16pNgV0MkLd3TS",
+      "_id": "695925891c508c5d5e8b9406"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

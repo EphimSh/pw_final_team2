@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:27:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-E4VhzQouZv1ObmBekbX9LcDWFEc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish60161",
+      "amount": 659,
+      "price": 6566,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T14:26:59.000Z",
+      "notes": "LdYxjntj7IqY0JcwDq3UUSnYouRWMsVki8qACpvqf07Ymo26KrFotYPjS5zid4hukUIuP8J9o6sZavoKCymX8JkxSMyJPM2CScTWoASbVxbdqwTDySWeoVbUhfiNRo133oOQYTadBkUPmwZh5I44VEYPpDgsbMJSV5f9RtufDS7Df85qr0wO35fnF7C436FahIB42dIseR6OKqZGl64816SjnPrnz8MyCDu7MWRwOt9Hl0ZYym9F9ot255",
+      "_id": "695927331c508c5d5e8c331b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

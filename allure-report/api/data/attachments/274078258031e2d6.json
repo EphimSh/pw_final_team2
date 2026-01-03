@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:21:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "583",
+    "etag": "W/\"247-f5Fs4V+64wBg7MPf6o0+HTempck\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Liliane.Stracke@yahoo.com",
+      "name": "FLzqvAoPCOgeEWawFZzPeWpGTPGSXCGUcAMlVO",
+      "country": "Great Britain",
+      "city": "SNCSnUQcSFQalhEBddb",
+      "street": "blEpP77QuZCBHoFti",
+      "house": 194,
+      "flat": 9,
+      "phone": "+0731712973",
+      "createdOn": "2026-01-03T14:21:29.000Z",
+      "notes": "LIS9IHigufLPY80IFG6vHp58QSrMtDeK0oeB2GakIAvOamWIogFvNlfZamXKuNyLlJVOy4QL4os24H7S7g1NJ7dYOPTtLxqRQRPFDljJdxszj3w164d5xDYps8Ykh0woa2eVEHuZ7Nb0XDMp3joYBZ63VP1qgoRBVmKRq6dmyvWZ54Jr2QP4OF3rEXU4Y4HpG1trntAFZWpEXb5OYlrIXkVS1JAFhicerPXblocdlLJhya",
+      "_id": "695925e91c508c5d5e8bb2c6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:20:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "401",
+    "etag": "W/\"191-GN8aSZqyMONqfIn22iDKITcD74U\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Rebecca_White-Halvorson10@hotmail.com",
+      "name": "pTbKfGvCJTDLkSgQmioWZCpiHK",
+      "country": "Russia",
+      "city": "DTZIkCjyCBHK",
+      "street": "o2z4",
+      "house": 29,
+      "flat": 9,
+      "phone": "+3814155027",
+      "createdOn": "2026-01-03T14:20:57.000Z",
+      "notes": "2rpupF97OG7Xgs6OsBcWLLRuGEAhC9wtFrHMBrnonDc50L0kRGmuXFcI33eHY6vQU1HVPZKRUkHLzKg0iRNq",
+      "_id": "695925c91c508c5d5e8ba660"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

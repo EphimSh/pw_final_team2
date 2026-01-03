@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:26:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "193",
+    "etag": "W/\"c1-iIESEz6sPcmsXGJwulzfSuwnOdc\"",
+    "keep-alive": "timeout=5, max=74",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table46022",
+      "amount": 319,
+      "price": 76858,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T14:26:13.000Z",
+      "_id": "695927051c508c5d5e8c2326"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

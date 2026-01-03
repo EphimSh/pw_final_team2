@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:17:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "357",
+    "etag": "W/\"165-I67lqOiEyzq1K7TgGXlR0hXi8Uc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "6959250a1c508c5d5e8b6b5f",
+      "email": "Rosa91@yahoo.com",
+      "name": "LXAlNdnZIfeMVVuTmSXqhRcdvSVVkLGdhslyW",
+      "country": "Canada",
+      "city": "oJRaWjTU",
+      "street": "rqM3yh5GgdUqOACnfRTLmBhfIyqZpF",
+      "house": 66,
+      "flat": 2,
+      "phone": "+1030770081",
+      "createdOn": "2026-01-03T14:17:46.000Z",
+      "notes": "xfCoyTsQTFWqnSrr4zlzHHtfZqq7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

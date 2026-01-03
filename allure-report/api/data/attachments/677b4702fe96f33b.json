@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:20:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "586",
+    "etag": "W/\"24a-iHCRDZoDx92YlUhuzBHppwD3pSE\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Juvenal.Rodriguez65@gmail.com",
+      "name": "sJhIGPVNNWiIrmYgezByBbpXsfn",
+      "country": "Belarus",
+      "city": "CxcZudjgQQCKeWyL",
+      "street": "sBZsGQL0IRuPy1j6lnMKnfjo2GIaJOxkpNLKyOA",
+      "house": 149,
+      "flat": 5,
+      "phone": "+5892603758",
+      "createdOn": "2026-01-03T14:20:32.000Z",
+      "notes": "qPKqAAkyZyU1AVn9VcnwMaQa4rJlckyJylsQU433NO60JPnAXLIrtHDvZyuG64CN5qe4lQO8xIrggQNWfLDlzBqMnbJNpSsuC8wwQ4RUfLJio6O9od3e1uHlvipmFssGalNAZ6B0QlIPeOiW3xEhxPeSpwmQAeNXgzJjG9SqrJg030XtQqAe1iHMbVUVkOFnuwPq7BpwCV2NhBFhqFdznQbuWm1id3r6lFW9XI7HeZ5",
+      "_id": "695925b01c508c5d5e8b9ff8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

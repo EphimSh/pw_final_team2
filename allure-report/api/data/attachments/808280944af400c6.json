@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:27:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-3FuawGIU1Q4yAK9bvpMEOs13yOw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X34908",
+      "amount": 428,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T14:27:52.000Z",
+      "notes": "tcripZFHtrT54eS1dUhbWrp4zbUUgg83Z8ntelW0mHGKHHFAaKmN0pvF28JOP2FKwmVmmZlDoh0l6nuZ6YFdwydNaDLZfT1IB3CN7blFsRCc1L2U3Jki8TIUxvTmV6GcStttTSFDa5dJlgpQWzYWyKkG8K69eiE6HOesxhrXngM9IP07EhA5buewQsWqNbWJPd7Gaf6SqzYePbzvGEQgxa47omG3rmUMWEB19OcddbbdbSwaOQwAbuOzRn",
+      "_id": "695927681c508c5d5e8c3798"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

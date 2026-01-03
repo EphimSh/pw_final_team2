@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:18:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "468",
+    "etag": "W/\"1d4-CRJsBaejz9psvGK/6qxgz+2rMOY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Milan92@gmail.com",
+      "name": "gZjrhQRMaJcgpHFPYezlOoETkOdKHSAe",
+      "country": "France",
+      "city": "T",
+      "street": "GdoYoz7t",
+      "house": 16,
+      "flat": 1,
+      "phone": "+7320022128",
+      "createdOn": "2026-01-03T14:18:34.000Z",
+      "notes": "CwKRAeyR1ccyBFIupf8vy0UdCO9dFkAbXPKiSFVrC25vbqFYggjUnPkkigixaY4oTfJtp8Q3sqHcGzlCNiZVTFb4qKjiFhV64QWgCV0tMavZG8sbt6F9gTENdPuEWpR9gK7AFgCy2nUIwxfjxqk1J51T1Fj2nr9YSTZdrhEeqHGs",
+      "_id": "6959253a1c508c5d5e8b7a79"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

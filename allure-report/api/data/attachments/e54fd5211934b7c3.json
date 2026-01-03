@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:24:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "363",
+    "etag": "W/\"16b-GagdIqZq7zpHybVDzYHKguO+vuo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Cleveland.Wisozk@yahoo.com",
+      "name": "yzFYCIuWVDIdQcVilYmiESEduqMqybCCnT",
+      "country": "Great Britain",
+      "city": "iRMKXAFSTUOcTdl",
+      "street": "KmX8NDWeVeQBKmt8zUDLi",
+      "house": 94,
+      "flat": 9,
+      "phone": "+5164651268",
+      "createdOn": "2026-01-03T14:24:33.000Z",
+      "notes": "fQCKORQKjsHq7tKu9jtBCD",
+      "_id": "695926a11c508c5d5e8bfc45"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

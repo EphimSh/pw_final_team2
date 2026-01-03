@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:27:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "467",
+    "etag": "W/\"1d3-nQAh4w6uKP9Hegi+pPoBX3mlI9Q\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy S2534277",
+      "amount": 106,
+      "price": 3100,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T14:27:25.000Z",
+      "notes": "NIiR9xVTM640ggNIgkv97rOLFvDJ9OGjVNkhtzib9DnVWNPMJFBgRHYG8nUP8EYRRfnhTtGEzRcP20PjSPg9NFcDetVAQA8ye0GWHlvkiBBLiVtzWsN1HilKPwAvmmr62GpgPHgB5s2ZEWJnRYAY9UalGniqG3J6N2CYm6SX2PSGZAzz60ZjG3IdQk2Fxaqf67YyC0jpqyNP44rbK9uqtNGhDvHvRvJhmX3yggBbjr4Esp0NS1CmpEjLT9",
+      "_id": "6959274d1c508c5d5e8c3537"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

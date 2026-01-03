@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:23:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-r0YeqBPXkezm9RTd55HraFepVkw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat88455",
+      "amount": 662,
+      "price": 81345,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T14:23:12.000Z",
+      "notes": "T6V72pL1QXsXDpqqMBJgxho9POqMeE5lZh46TIK1coXPAhoq4FQKjbNDLjV4S0BfI4ptTbsT2Ztk08Eowx2xIra3rjOYXmDp43Ajh0EFmrsnl3chwAnBvFfeHNNDrJHkqfKvKzCqVjOM9vo5nvdBP0ioku1bQCjI64VWjB9065JcnFV1cFOiCsFYUGzRWs0VnRrLWp1Qbuwtk0bmH0m3AMPG0hBGSIfdJsQQikGLHFMVfrEiwKUG379p8v",
+      "_id": "695926501c508c5d5e8bd8ac"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

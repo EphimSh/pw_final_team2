@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:21:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "526",
+    "etag": "W/\"20e-iUCmLxW8TpcKGo64U2XvQDMDD7w\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Alisa30@yahoo.com",
+      "name": "VDMCHeftFEiglrksqtVKvSHe",
+      "country": "USA",
+      "city": "aYwYOJLFf",
+      "street": "NKtmklQBS6wSeMswOL9jmazHbpKv",
+      "house": 187,
+      "flat": 4,
+      "phone": "+4204277067",
+      "createdOn": "2026-01-03T14:21:35.000Z",
+      "notes": "otosB0Bls0Js8zA1X2qaeSUMz9qL6iU8tNbGH7TbOBRcg0h6P59Gz3pASCXU4ViIW7mLkBGUnwwQwJpTf2BB9hydUxUIaHY0mFPRSzYII9pWPv0gaOTztVC4ZDfBidDN4zIUm7Tr6OWKgFav29zINTkOXrd2W0XWNSvJChtJb4XlR9lb5RmEVeRjRZyG2xDP3hulgaBFLlI56Uq8Qw94",
+      "_id": "695925ef1c508c5d5e8bb402"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

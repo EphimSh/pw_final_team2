@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:27:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-nRgqkBAsnRUql4wxwj6fRULKz4o\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants73623",
+      "amount": 158,
+      "price": 68336,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T14:27:48.000Z",
+      "notes": "dJWsKug8wbgBVXlsK2s4QL7zOZWUVFMVDjBi7URIkBKiusDvJXALRA4rEDQ8J33fFCHLkLV2QZmIyRWdN6LCS2ydvxKyKKG5DGDMXUmruLjxSqhNce3Kuz8PwDFE4EpecJ95iKsBNlD5zQYhfSds9hnJ3JC27weNnJGq0mhMzXVs6Hmqm1nQduwzjTwRKqGcqa3MBXK1fAohgBV5RtF1m13h7fu79DteLCkITiQr2reaD9JpM9vQJoy1vT",
+      "_id": "695927641c508c5d5e8c3744"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

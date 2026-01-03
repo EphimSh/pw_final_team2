@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:17:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "385",
+    "etag": "W/\"181-Bu9HmFjNNQOW/ZyMothlRMrgW20\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "695924de1c508c5d5e8b55de",
+      "email": "Joan2@gmail.com",
+      "name": "aeHLNpCJzJVxgxZJXDAYNU",
+      "country": "Ukraine",
+      "city": "x",
+      "street": "bsNg96lz9TAa96XbvKl",
+      "house": 71,
+      "flat": 8,
+      "phone": "+8480586438",
+      "createdOn": "2026-01-03T14:17:02.000Z",
+      "notes": "Zy5IvW5y8oh3IuZrnBGTGdaykAuB17X0d4yIJxGQujOwSXtb2JiHmdKsepkfeqE85K1d6Mcw4rEjy633kFGSg4DtU"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

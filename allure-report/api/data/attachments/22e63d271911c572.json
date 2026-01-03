@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:19:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "442",
+    "etag": "W/\"1ba-rOS1u2FPkjmO/UscXab5jsOlck8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Greyson92@hotmail.com",
+      "name": "ATjGIKFvdW",
+      "country": "Belarus",
+      "city": "hDNagEGsEncUsWu",
+      "street": "kh8yS2DtLfX",
+      "house": 62,
+      "flat": 4,
+      "phone": "+0553153448",
+      "createdOn": "2026-01-03T14:19:37.000Z",
+      "notes": "PZL2lKRz3ABGWH93zxgUo3HUBJ6S3fuzpmPBn31F5GI8krQ0WybjeTGQu4HuWlKWrDWEup4KIAJS2ZK1Rhsz1GCWMmGFhltfdUaNetagMBWjnamCkOC3cFcNq9ggv1DKQwtl8Sg3XaJWMco3W4",
+      "_id": "695925791c508c5d5e8b936b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

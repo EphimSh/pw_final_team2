@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:27:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-VBGhpaxvOOQBqMXZaPVy3X8zfVI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X21074",
+      "amount": 363,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T14:27:52.000Z",
+      "notes": "Nr4KpVrkjbv0pHo2swoJdZ6tJRUP3hCoPNGP01MxxXiX2nRoZOoczU7zJcsD8VitLHdb0BAf9xuWvfvMOAXMtMZEdbpEoELtNNBP8yhYBkoAVE9Ru1zVerV8DcT7QDkjZdLDgW11zBo7ExKtdFM0fdq8VS8cNthReFzCNVdI7CLLeY1H3N2DPVPlzpIoQNQJYoZkjWoXDwl9SeB22PKkaG9KkyUtidWi4vDTUkKCllkMihdy6rJ08Xb4Jo",
+      "_id": "695927681c508c5d5e8c379c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

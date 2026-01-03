@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:28:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-dlk9cyo8DKJUdobGG4LzxVGnDIU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes47517",
+      "amount": 929,
+      "price": 68331,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T14:28:51.000Z",
+      "notes": "g9IVyGrqG1OJNMiI2v30NhFbotT0ctJJiutxSCnVnhsALlDI1creSpLOojjVX2mRiXKqykHptwkfFNxKDEANzg20RCZruSoaoM4dhvz3V484QTv5yk6zIytQuGdQOIhQSE97L1K1XNBQMPXtliuNNd6JQpj1Dcm4yIyV0XsVg7iLe1k94jf1SCuOK8UXORw0z5jwNu4uE7PILZ0KP4SQsamKPlc6m6LWgjkWP4d7DJ4QmyIOtzocKG8JO5",
+      "_id": "695927a31c508c5d5e8c3cd1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

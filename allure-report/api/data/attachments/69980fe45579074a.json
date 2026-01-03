@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:23:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-HjnIor452QfWcR3IkoCX16hky44\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt24106",
+      "amount": 378,
+      "price": 38863,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T14:23:32.000Z",
+      "notes": "uKxF9tHKgVgTTshgX57U7XsYU8zwJhlthh9ZjIJlyErTtyWYrBGIyJNtJ4UhV9TunEim5bUDOE3au4xqw4eEVAE8OZOeYkIejVEvMvQkH7Jgct2zML0RfL8iNdPa76z24nyLzxEXipUt7mSvvNlu7CssSmBwrgCu7y8KPafTRrv5wZYcrvxokarUIqDLPBDoJTnpveTxzpc0yJ0iqdUGXhS7HHalE7mFaC2iSZrOiio6LfkFbT98FM7TjS",
+      "_id": "695926641c508c5d5e8bdf42"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

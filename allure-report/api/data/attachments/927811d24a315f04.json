@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:28:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-WGQfQRkhbth8Sa6fCW13+NlamYM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish17138",
+      "amount": 261,
+      "price": 54312,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T14:28:17.000Z",
+      "notes": "bZMnfjskonYXFAfY2glZLHDfuM8wAy63rvKNrabXKp2C7C1K75DC8xHftuMBCanlq3kC8ImOQzag2I0Y63GGP0pbAN9UjuQGFz99sYOGifQhZ4ND8Cnj1q1Hqhy0tZBZwXP7uJ2Fvki1H0F2IbfpVsTzcuOrriZMhLTQCKNa2jz8Wo2XT4x1lJeO08684TXBF2QqGSwpQhxDTr5UkBjht5AK4nwu31vg48oWB0MVoH1PJFKkBZjNrTxCO5",
+      "_id": "695927811c508c5d5e8c3981"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

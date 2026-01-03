@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:28:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-W+NShGu+b+fxhOHsVoNqWtLvjm4\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken31080",
+      "amount": 242,
+      "price": 68007,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T14:28:17.000Z",
+      "notes": "4iFhRm2uXKgE2dx7fluD4gJ9K8nT8p4s7jA6APLlmo2gHn3Ih1mDaEGvjsKFvR6VqoPBk7nQo7hAeljTCTm77yikeXc8knBlHKtUvOPZp3Iqyo8gP0sjNWF4HgCnt2NVfp5JkJxOO2VkbQl7JjpzccPby699cqfM4ZB6MNNen23B2PD0mzIQgtevRMdvXXBzyH3Ups4dYHPFvphmdqFC2Kqe1YuRejGXth0IByGvSGdZWqWEo2Igde0qZa",
+      "_id": "695927811c508c5d5e8c3977"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:27:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-0RN8wUypV8tQrNk6C+bMEpTZIn0\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball34778",
+      "amount": 618,
+      "price": 18900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T14:27:12.000Z",
+      "notes": "MzZHPvXRZNS7b3knK8EKIU5x6ktOMlQI6LIc2DTbu3KIqR9iLBWYe1eRqk083vWJTMwP6tqhNqKypHI8oOKt4G9mgXHFMnUMXrgLew4AcfaaawiX16YAckivw1ckSaEhyBXSrKXbXKR6IMX0ew54aq5QoriGcu7hxD6p4adJjVNIqftrf4I7hHgaSNy9Bh5A4QFjO4ZpEQswxlKRoaUx08YJvpPcjEwE2s8t45m6kLL85Zd1kC8rJuO1ma",
+      "_id": "695927401c508c5d5e8c343b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

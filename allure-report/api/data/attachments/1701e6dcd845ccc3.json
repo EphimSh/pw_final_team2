@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:16:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "560",
+    "etag": "W/\"230-cnhJwqPJ8fieu/xPbi48gKpaZIQ\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Shea.OKon3@yahoo.com",
+      "name": "wYiLFwwjmiSpWfhpGeyfvspMaYUioovhW",
+      "country": "Great Britain",
+      "city": "cMEHfWPsHLIDG",
+      "street": "uaHJNAxPuG",
+      "house": 97,
+      "flat": 6,
+      "phone": "+6433000583",
+      "createdOn": "2026-01-03T14:16:48.000Z",
+      "notes": "Y3DTxrShK5tqini7sstekoOWboIFfiagOmYFSgW3ZuqxeuN1LtggT1RIOW7vNaWOOgVIRiJF9mxS4y5WjppMw5eCxwkS8qgtwHKNWMQn1C99DMGQ7Isfobf2XY7mjRFADza5a5OfNpA2wHW2EBrGjlIEMey9ePUjNFAcwp2cixahFzSxmjhXCclFBmvuPxwXD84gp2DYZvmvF5LsR9FQrCX0nvQbkXiVBOMLJL4xh0v5AMt",
+      "_id": "695924d01c508c5d5e8b53b6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:22:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "347",
+    "etag": "W/\"15b-KJuIwU3gcrb/xG5b5HFI0X5CA44\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Cleveland93@yahoo.com",
+      "name": "rZYiErZ",
+      "country": "Germany",
+      "city": "hMtfLXOREzRpY",
+      "street": "NLtiblhXfNTP4qG7nf8gBwGrhJ8nw2GZVtdbLyIG",
+      "house": 152,
+      "flat": 5,
+      "phone": "+9862245599",
+      "createdOn": "2026-01-03T14:22:18.000Z",
+      "notes": "vZDU4EcYitrxBRaViEMhE4IkEW",
+      "_id": "6959261a1c508c5d5e8bc615"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

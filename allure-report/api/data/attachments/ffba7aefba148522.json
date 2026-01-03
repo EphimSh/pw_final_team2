@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:25:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "405",
+    "etag": "W/\"195-AhpEXaUellJrfva34mHR48qtAdM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Sven0@gmail.com",
+      "name": "AMUIRODOUgewidCWUBhDnfGql",
+      "country": "France",
+      "city": "LOUlWHRqDrDd",
+      "street": "2ZIWNlQ3j0m",
+      "house": 9,
+      "flat": 8,
+      "phone": "+0150992484",
+      "createdOn": "2026-01-03T14:25:00.000Z",
+      "notes": "f88avSowREwKPCAKklLDH0IaZCChpKwYf4Z7nb9t2MO0W0VIL2C6NNwnlDfR1bUn3IhZuyUEVnippVuxPslC6tjTPjol3PHOrND3colSB",
+      "_id": "695926bc1c508c5d5e8c082c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

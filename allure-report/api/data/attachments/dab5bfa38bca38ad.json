@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MzZmZmM3MWM1MDhjNWQ1ZTlhMzc2NCIsInJvbGVzIjpbIlVTRVIiXSwiaWF0IjoxNzY3Mzk3Njc3LCJleHAiOjE3Njc0ODQwNzd9.ihQK4jiUfGV-trfUoSYLeNyBDYVWCxNBN9h8Oxq9JoI"
+  },
+  "body": {
+    "address": {
+      "country": "Great Britain",
+      "city": "Mock City sFv",
+      "street": "MockStreeth8Qnirq0",
+      "house": 188,
+      "flat": 14
+    },
+    "finalDate": "2026/01/08",
+    "condition": "Pickup"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:16:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "327",
+    "etag": "W/\"147-7o8nisvX+DhJepiYeIG1SWOYhyg\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Brycen.Bartell@gmail.com",
+      "name": "FvHaxZelpaDoDHjpykIXRRbRb",
+      "country": "Canada",
+      "city": "KepBhs",
+      "street": "TetdOGu",
+      "house": 198,
+      "flat": 9,
+      "phone": "+8173622247",
+      "createdOn": "2026-01-03T14:16:49.000Z",
+      "notes": "bdGPxQf0iWNHpQBMEiWBv2QVPr",
+      "_id": "695924d11c508c5d5e8b53bc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

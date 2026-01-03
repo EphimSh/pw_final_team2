@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:20:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "351",
+    "etag": "W/\"15f-lsfEV6WB8Gs0oFa3YqbP6Mtd/qE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Davin_Ledner@yahoo.com",
+      "name": "ubGHbrHvmwfrcEXuyeIZZazqZkznuPaZDyb",
+      "country": "Great Britain",
+      "city": "IO",
+      "street": "RTGa7mbUvQyUsyaHtLiLSizjHv5E07J76E8",
+      "house": 178,
+      "flat": 8,
+      "phone": "+2589712547",
+      "createdOn": "2026-01-03T14:20:28.000Z",
+      "notes": "6I9VchynQk8",
+      "_id": "695925ac1c508c5d5e8b9fe6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

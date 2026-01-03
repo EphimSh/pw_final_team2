@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:22:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "515",
+    "etag": "W/\"203-4WKavNBojfWf46vxQ9oYRu7NmBk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Nicholas_Romaguera@gmail.com",
+      "name": "oEZnRitRMaVwqajrkatnNn",
+      "country": "Ukraine",
+      "city": "TzDOBDRyPtQo",
+      "street": "8V2eRtGdZmtwXEmSF5273nO12eTDSqVVHfHdBl",
+      "house": 110,
+      "flat": 5,
+      "phone": "+8866884162",
+      "createdOn": "2026-01-03T14:22:35.000Z",
+      "notes": "Go9JSLuo2jE92oJAUI0WcPwPKx1rG4LK2vSIc1FJVSp1QRU8fDlSOeWl6Ck7yoZfWjXhfr2xLm7dSAhq99aSllOIzP13XtgquJ4gzw7y5qTrW2LRCC0wzWZQIVPYbON3orzfuGyR23KRjvbObUgqBUOvMRcXYOGXAfHd8g9mcpGeVS5",
+      "_id": "6959262b1c508c5d5e8bce8e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

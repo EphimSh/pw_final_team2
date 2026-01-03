@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:26:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-ZCJOw0SmgpRNojfCeo1AOMILrbA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese72065",
+      "amount": 522,
+      "price": 34532,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T14:26:57.000Z",
+      "notes": "hDK7qHlhboswsFKlibtAd5yxShBrOGpvCy5mQtymoJIUioRtT2FXvUcjdhIiqjeUUkJNh1YQVCbGu2P1LzUfku5lI7ienSm1loqFkCwsk7Cs4ni3ifK8pF5WavyUcg5Usv44DzATz3qyyB7jmlOpMiFnWfJzQG9DUQpApV179I1Uhc3jCmCFFnN1gAbYsHKDaufmB0bIRDbJSOAvOHvZX6e1EBHtY8ssH4bDmeRRz4Di75lZRsjdAK3tNE",
+      "_id": "695927311c508c5d5e8c32c6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

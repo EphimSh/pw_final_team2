@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:21:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "405",
+    "etag": "W/\"195-D11K7VH8h/zQHqSkA00iQzxTlGY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Claudia_Marvin72@yahoo.com",
+      "name": "eJvkgWEmVTNpKtyszlNEehmndesCBPQgeaS",
+      "country": "Belarus",
+      "city": "Xq",
+      "street": "aA0RQ9TxqPY7NqJU3QDyQCO",
+      "house": 148,
+      "flat": 5,
+      "phone": "+6940161703",
+      "createdOn": "2026-01-03T14:21:35.000Z",
+      "notes": "xys2QDdfSsUTsiwxd6dWVJz6Lle2ay51hQQYntedlL6RTs6Vdyl8XDz39UKsvyI7pTjIZzH6l7vDOxp",
+      "_id": "695925ef1c508c5d5e8bb400"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

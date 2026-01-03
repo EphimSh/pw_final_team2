@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:23:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-c//rOQgyMiTmCU1vtvYZk0TCnIY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza23496",
+      "amount": 186,
+      "price": 86080,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T14:23:56.000Z",
+      "notes": "QuvpQMw8VfoFcnMkketuvnLbrnghHmIFpsxmjWKnilbVVGygocjIpDR9rKoyqPyLJ0gwqFtWrIdYoQw9N5ejt7k8fuC4JiVqXZFbumyqrzwAiV1EUhAE7PshgM1YInIp5a3iuod2z9nNwzwW2Yz69mN7E2Kwr9Xt7VRZS3bdnuCzHdtPngtrT4T8V7nEPXY42GMfeTKOFRvM9A5Ta0B9Hij4GlAOX0rYKXCp7oEW1fMQ1tCaJR7y0cT4aG",
+      "_id": "6959267c1c508c5d5e8bea3e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

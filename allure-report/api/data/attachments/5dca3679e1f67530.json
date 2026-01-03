@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:19:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-EfRq8iQkPSXLcdXfDPrGN5nGem0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap73912",
+      "amount": 430,
+      "price": 80012,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T14:19:13.000Z",
+      "notes": "cysfTtfSApl3ou2tSYZP0xluWbnFf4ia6deyKQ0VDlU0Jz9S4dIVn729p4yxtxg0ajyZ1yd7qSl3WsmtAg0OcN58HKhhc4iQ2zm6P91TxrzxeTf94ZCjthDeTwa2jBHu2R8wDxZMt8OyWPgkDHkypvjhvU9xS40F6R6Avj0zYz4gAaY87iO8IAgQqYt2NZkm3t2I56xW14dZig5nvm5Vjj93zwIvNURKFN0ezNYctniNVzGBv1FOoCkRT0",
+      "_id": "695925611c508c5d5e8b83e6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

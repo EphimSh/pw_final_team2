@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:25:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-utIcM0Ms4C27mrf6YOBRhVumFUI\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard65563",
+      "amount": 536,
+      "price": 95829,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T14:25:30.000Z",
+      "notes": "wsfhHaqYm0jL4x5ocs7fWgqK1o0iEFv69S2mJaxL3p1aOmtZlUxsDpWpnpCjpIL3bVPougMKGTCI7O7n2ba4drP0m0JEV9jWQkxxWz0xtSk4li2Z2Vadv6S56VAN7dxnFSPgcH6Cevw4fDuKUixLtsjfBFzDfOitxVSLUflfJJQjrB11VdwBI5fJ1846bv6WxhKyCL4T9OXDVLD5kc8uD3ZVS0bEem8atFN6rrzzQlDJnVuoBUQKv79wmf",
+      "_id": "695926da1c508c5d5e8c137f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

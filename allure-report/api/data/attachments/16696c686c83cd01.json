@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:22:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-k/QAlHSPzi9T9lVro9Mb+4Z1T+Y\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball98498",
+      "amount": 954,
+      "price": 82143,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T14:22:19.000Z",
+      "notes": "ylkgtjlkyxYSTy0Ry2qRnArl08PkasWM63YdCcfT9aAM7i3l3mtSNIPDnD3jlByWSNzHM25oDQXNdmAD6q5OiMTs3gBRSBzE6VvYYUVFSzsOsgE6AFsJcPGTZl3LdYAxbLHvn0g1TaYwQsVjmxiZaQs0jvENCx0dqdGJuRx58Ct065qeaep4qGG1lhGWbGDVCyastoVDEUO3koBzElNvuPSwBzYv9975xsaqeScVXISo5FaKLkzUC0PzrE",
+      "_id": "6959261b1c508c5d5e8bc624"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

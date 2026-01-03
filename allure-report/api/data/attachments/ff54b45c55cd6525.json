@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:27:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-ySHdWIgfCYvBr6wUkHyfgjUQh5w\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "iPhone 15 Pro 512GB79032",
+      "amount": 932,
+      "price": 3500,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T14:27:08.000Z",
+      "notes": "G8hUBU9hmtCpYgikB5JFS2hECmrijhBtUQpKQ4lzpL2c5XSpbSRZXc4inLhxJbZYhXVzXKe7GkYwoIyPhCHKGlQDgsBSkmXMm2kIMKbNFM1GZaM5LkrIYyM40NNJcCj3j95SiXjmsTIERvtPtRDcWYlGBmuKWcAWPoKvY8SKjddrB7vYDju7nn7vJ7HE46y7WLU7lKY1K3vPji5zvFKaSvXU4KpgCaezB0vkRoMDfxsXAuiVmUlXI29ARn",
+      "_id": "6959273c1c508c5d5e8c3362"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

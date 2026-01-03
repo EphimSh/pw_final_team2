@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:24:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "427",
+    "etag": "W/\"1ab-tqCwTkZeelQYA0Gk7S8UQtQMWCM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Rick_Wisoky32@hotmail.com",
+      "name": "CWNZfxdSlFaNqW",
+      "country": "France",
+      "city": "JZsAwQAuLYEvGS",
+      "street": "AJIn0",
+      "house": 85,
+      "flat": 9,
+      "phone": "+1897577733",
+      "createdOn": "2026-01-03T14:24:00.000Z",
+      "notes": "i6HDf0cFfaAFro3ppNYXpgh6EFhxJ0ALc4Fd7tx1WopXdJkfreWavRlpR86AfgqjfPXeRAiD84x1k70QkuxjDKaV1k0PusgS56JJwHERy8yeMq0P0rqnt8AnH6j5t69xUYb",
+      "_id": "695926801c508c5d5e8beba5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

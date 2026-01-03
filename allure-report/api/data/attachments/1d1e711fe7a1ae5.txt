@@ -1,0 +1,69 @@
+Failed to update for order with ID: 6959264f1c508c5d5e8bd89b: apiRequestContext.fetch: Request context disposed.
+Call log:
+  - → PUT https://aqa-course-project.app/api/orders/6959264f1c508c5d5e8bd89b
+    - user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.186 Safari/537.36
+    - accept: */*
+    - accept-encoding: gzip,deflate,br
+    - content-type: application/json
+    - Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MzZmZmM3MWM1MDhjNWQ1ZTlhMzc2NCIsInJvbGVzIjpbIlVTRVIiXSwiaWF0IjoxNzY3Mzk3Njc3LCJleHAiOjE3Njc0ODQwNzd9.ihQK4jiUfGV-trfUoSYLeNyBDYVWCxNBN9h8Oxq9JoI
+    - content-length: 79
+
+    at /__w/pw_final_team2/pw_final_team2/src/api/apiClients/PWApiClient.ts:22:53
+    at PlaywrightApiClient.send (/__w/pw_final_team2/pw_final_team2/src/api/apiClients/PWApiClient.ts:14:12)
+    at OrdersApi.update (/__w/pw_final_team2/pw_final_team2/src/api/api/orders.api.ts:92:14)
+    at /__w/pw_final_team2/pw_final_team2/src/tests/api/orders/updateOrder.spec.ts:51:22 {
+  name: 'Error',
+  [Symbol(step)]: {
+    category: 'test.step',
+    title: 'Request PUT /api/orders/6959264f1c508c5d5e8bd89b',
+    location: {
+      file: '/__w/pw_final_team2/pw_final_team2/src/api/apiClients/PWApiClient.ts',
+      line: 14,
+      column: 23,
+      function: 'PlaywrightApiClient.send'
+    },
+    box: undefined,
+    stepId: 'test.step@67',
+    group: undefined,
+    boxedStack: undefined,
+    steps: [ [Object] ],
+    attachmentIndices: [ 13, 17 ],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'test.step@67',
+      _title: 'Request PUT /api/orders/6959264f1c508c5d5e8bd89b',
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    recoverFromStepError: [AsyncFunction: recoverFromStepError],
+    complete: [Function: complete],
+    endWallTime: 1767450214118,
+    error: {
+      message: 'Error: apiRequestContext.fetch: Request context disposed.\n' +
+        'Call log:\n' +
+        '\x1B[2m  - → PUT https://aqa-course-project.app/api/orders/6959264f1c508c5d5e8bd89b\x1B[22m\n' +
+        '\x1B[2m    - user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.186 Safari/537.36\x1B[22m\n' +
+        '\x1B[2m    - accept: */*\x1B[22m\n' +
+        '\x1B[2m    - accept-encoding: gzip,deflate,br\x1B[22m\n' +
+        '\x1B[2m    - content-type: application/json\x1B[22m\n' +
+        '\x1B[2m    - Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MzZmZmM3MWM1MDhjNWQ1ZTlhMzc2NCIsInJvbGVzIjpbIlVTRVIiXSwiaWF0IjoxNzY3Mzk3Njc3LCJleHAiOjE3Njc0ODQwNzd9.ihQK4jiUfGV-trfUoSYLeNyBDYVWCxNBN9h8Oxq9JoI\x1B[22m\n' +
+        '\x1B[2m    - content-length: 79\x1B[22m\n',
+      stack: 'Error: apiRequestContext.fetch: Request context disposed.\n' +
+        'Call log:\n' +
+        '\x1B[2m  - → PUT https://aqa-course-project.app/api/orders/6959264f1c508c5d5e8bd89b\x1B[22m\n' +
+        '\x1B[2m    - user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.186 Safari/537.36\x1B[22m\n' +
+        '\x1B[2m    - accept: */*\x1B[22m\n' +
+        '\x1B[2m    - accept-encoding: gzip,deflate,br\x1B[22m\n' +
+        '\x1B[2m    - content-type: application/json\x1B[22m\n' +
+        '\x1B[2m    - Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MzZmZmM3MWM1MDhjNWQ1ZTlhMzc2NCIsInJvbGVzIjpbIlVTRVIiXSwiaWF0IjoxNzY3Mzk3Njc3LCJleHAiOjE3Njc0ODQwNzd9.ihQK4jiUfGV-trfUoSYLeNyBDYVWCxNBN9h8Oxq9JoI\x1B[22m\n' +
+        '\x1B[2m    - content-length: 79\x1B[22m\n' +
+        '\n' +
+        '    at /__w/pw_final_team2/pw_final_team2/src/api/apiClients/PWApiClient.ts:22:53\n' +
+        '    at PlaywrightApiClient.send (/__w/pw_final_team2/pw_final_team2/src/api/apiClients/PWApiClient.ts:14:12)\n' +
+        '    at OrdersApi.update (/__w/pw_final_team2/pw_final_team2/src/api/api/orders.api.ts:92:14)\n' +
+        '    at /__w/pw_final_team2/pw_final_team2/src/tests/api/orders/updateOrder.spec.ts:51:22',
+      cause: undefined
+    }
+  }
+}

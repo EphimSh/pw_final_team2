@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:24:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "374",
+    "etag": "W/\"176-xVuhq4ExVeyQJFSGuGciHbTiPj4\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Raina_Langworth86@yahoo.com",
+      "name": "duykmsxUSNJcpwVImmsGffJvWUv",
+      "country": "Belarus",
+      "city": "oKjQUQGTCMKTXWwyIsXx",
+      "street": "w5tJ2LPaNR3OBgJyyrnq",
+      "house": 67,
+      "flat": 3,
+      "phone": "+4648215715",
+      "createdOn": "2026-01-03T14:24:32.000Z",
+      "notes": "Uri5AfwkvyAC6Vqf6JnKKNWOHlAbpWZRwm57Ro8N6",
+      "_id": "695926a01c508c5d5e8bfb37"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

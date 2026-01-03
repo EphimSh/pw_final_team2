@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:29:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-yPbF+8tP3GmfpUKYMVZthH2U6TA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese58131",
+      "amount": 829,
+      "price": 9633,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T14:29:05.000Z",
+      "notes": "SPFalvX8l4k0UjB4roDjxvCccggaGxIWdO4DVpkzD5GNA1h4mwTVPkmAqJOle54octvwujaOnbh92Tjk6KOqazr0ksX8uTlt01pHceuZslZYhYJOjptuSz27FjpfcDXD4s2IvLT4HocTOXMSCp2GMsWtJl49VmyKPCrLQ4OiPPBFPeSumPK7aVBqp5xGnmXZNAcG3tmh2BvOYgE2SRfLyhhUuUhhes3znDd683zGXIiaMBQBuGHhHUtfsO",
+      "_id": "695927b11c508c5d5e8c3de1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

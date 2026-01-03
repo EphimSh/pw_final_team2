@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:17:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "479",
+    "etag": "W/\"1df-IJBEYyJpGYU1e900OHhyOYpNtVE\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "695924d21c508c5d5e8b53ca",
+      "email": "Maximillia_DAmore@gmail.com",
+      "name": "pybfyWnt",
+      "country": "USA",
+      "city": "ruNs",
+      "street": "6C0IfVDXiBnHp2kRO6iPaiU3ZepW1xqSR1Hn",
+      "house": 126,
+      "flat": 5,
+      "phone": "+2653669805",
+      "createdOn": "2026-01-03T14:16:50.000Z",
+      "notes": "1yp4hb5Z1uUhpGTtQ8ci8TdmgD5Jpt3vbJoMlw6ZuqnTfsONVeSbNJC2u73LDHcauIwu7iL3H5momOCyDRfdEnPnDGD1ERI8d0mYo69H1iyXPd8yVfQ9jbUXiOJIdxH8IfxAeIkXEk3ADJ9jEMaaIED7vJKzueaLOag3nwn7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

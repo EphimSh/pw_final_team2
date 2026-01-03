@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:26:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "191",
+    "etag": "W/\"bf-SFg/1qGRCuW6duPnGVjlWZl9PL4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna45124",
+      "amount": 180,
+      "price": 56852,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T14:26:57.000Z",
+      "_id": "695927311c508c5d5e8c32c8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

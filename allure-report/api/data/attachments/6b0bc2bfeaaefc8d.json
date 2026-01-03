@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:27:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-tEj5DQ3MDOPLKOunOwLP9v32sQ4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "iPhone 15 Pro 512GB80247",
+      "amount": 203,
+      "price": 3500,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T14:27:40.000Z",
+      "notes": "qFAN1IoHhEoNQDAz3CD1jgjHPHmXPhlSWHBiapMBdmHgiWrVM0CgRb4wk5BlAS5Vy1EiTiWBdlZbVMBo1sYgFIptPQqYx4KBNf2NOX8eRoq7HX8VNAdputHxVit0mUFXDLcGFpKUWZ21QoxEDZYUp0Oh5qm15s5uDLuh7PKj9WZFTNbgCguDOjU1wTpe0mcVmwHrGX4NdzgdLVoHwXPkreCtNC93mvATxIMwWzXTnNC4j6IPfTIiPY5SW5",
+      "_id": "6959275c1c508c5d5e8c3681"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

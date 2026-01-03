@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:24:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "520",
+    "etag": "W/\"208-rl1RMcLW27qVc22m6eTxYsZnbVQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Marjorie.Jakubowski58@gmail.com",
+      "name": "zASfVNTIdIWnATKvctdlPQITnSRGANaEv",
+      "country": "Germany",
+      "city": "aaRwRqGrwtQ",
+      "street": "QVKV9dLS47qB5bmQRwKrce4NdDk693P",
+      "house": 72,
+      "flat": 9,
+      "phone": "+3854509374",
+      "createdOn": "2026-01-03T14:24:50.000Z",
+      "notes": "RC2009wBONbp5UXwp81wPbVgJkwTUVfEohogSBKXRt4kPfWc56se2c6ioippFkPZsYSLJovhAl4T6p4uDOl1iX3yx6yvDMh1xhuIU5JACg5PgD1TtKw0o8LedRFDfOiYYeDdk80oiz3LSyelHdYhroywdKxMETs4BKTV8w0je86avUQ",
+      "_id": "695926b21c508c5d5e8c069e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

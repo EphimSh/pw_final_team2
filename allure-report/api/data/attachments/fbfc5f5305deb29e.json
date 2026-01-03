@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:25:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-nPqMmYk7K0wcAqqXtV/uukhJHFc\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza88274",
+      "amount": 264,
+      "price": 99999,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T14:25:54.000Z",
+      "notes": "nIo4U3tD6svIDqHYkBZlaZ3NQx6HypnRhtXdLUUwnuT8w0rWpwJRRKpwptzZpX2qZVlxmCxwVCUNS2F2cUTQNolQpc7AVA6JvSvSdBXVijCq6CJTM3Y4KJF7pbABoSaSg1oUXxA2MJr0Zrg38KxY0TMtQHJ60CXqqPSWyxoyFM826QyH9wJSnt3Wlnda6I5sCrkI6pSRRbUQ0loDrfjeWSUm0K5qkYU6uCbjfIQwXZeR0KBpgxNpBF33J1",
+      "_id": "695926f21c508c5d5e8c1be5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:20:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "360",
+    "etag": "W/\"168-rn06pP/n6gzPfBYVnrNOAhxcpZg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Shany30@hotmail.com",
+      "name": "BGQRuCFWZNiEaqrUjsCaPsOvYSVcRLpGgc",
+      "country": "Germany",
+      "city": "AkjQAjw",
+      "street": "NztiGmzEC5II",
+      "house": 111,
+      "flat": 3,
+      "phone": "+2822379734",
+      "createdOn": "2026-01-03T14:20:09.000Z",
+      "notes": "Fmpp2UhuYr1ZI3F5U5cex0mf6Gz0J0DT01ucCWrL62VpbEW2",
+      "_id": "695925991c508c5d5e8b9615"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

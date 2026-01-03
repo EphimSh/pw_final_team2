@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:23:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-uRZil9H37vtWdwinLMVryvn+uOo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Bonnie15@gmail.com",
+      "name": "H",
+      "country": "France",
+      "city": "TVLzZBWSQQF",
+      "street": "6BDELK",
+      "house": 194,
+      "flat": 4,
+      "phone": "+5472210316",
+      "createdOn": "2026-01-03T14:23:10.000Z",
+      "notes": "oOfGw3byd8BHOyl0bIEPmWIKJ6bqalRssa6nKyiRtl5ZCCrecRI2FrBAovKklsTRiKFauRBnlJTxydh6cU4N10sSIHNZYqbQy7azODkPQwObtPpDH3bcIDlDlZqrf9QdXrqvAs3iOoPKjhBpAqCya2EwAr5hzoMZ1CwhN8ICO8I2IVs48",
+      "_id": "6959264e1c508c5d5e8bd88c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

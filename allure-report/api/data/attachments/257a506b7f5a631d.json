@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:19:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "355",
+    "etag": "W/\"163-4SnP5hgWDx+ND8N25Wpnz2QeIa8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Damien75@gmail.com",
+      "name": "SZelrspAtASLuSYjfvMxRADBEJqYlpEKqxc",
+      "country": "France",
+      "city": "y",
+      "street": "fNIbD7cR2xN0",
+      "house": 58,
+      "flat": 6,
+      "phone": "+0509249271",
+      "createdOn": "2026-01-03T14:19:17.000Z",
+      "notes": "pAReI4N00amSNsXNLW5h2OSZ0kecLKdUqFAokUXOatmf8x9JMTw",
+      "_id": "695925651c508c5d5e8b8c38"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

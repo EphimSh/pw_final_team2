@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:23:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-Uy5K2VwxgCpeO+guhW2phTNTerA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes17382",
+      "amount": 439,
+      "price": 83910,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T14:23:35.000Z",
+      "notes": "ICUHKbiCLCxNJD6seE2nhfz82IqKgh1yNCjf09J6NhgrQFxSMWBpTnMYKBEzkFINQo4Q9JJ0yws4Z0TbjBTHRHFsoHi3RiO2qmrmPjvIayLbMv6Yz3yNgLJCZ1TOathxCFsQkHAwO3COmdOdwkxiNKVMvOIJl6FmFRTAFSZmOl46VJJyrHlG5SURocfJfKHEhFGL5Q8cnClYZhmt0wahlm9rozesT3p2t9ECfPuGuXuvrhJhsVhfoHc4Rz",
+      "_id": "695926671c508c5d5e8be0c2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

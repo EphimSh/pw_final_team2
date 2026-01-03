@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:20:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "341",
+    "etag": "W/\"155-/HcYB1k/KS/8nVKZdOhV3P0ZyPQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Susana15@yahoo.com",
+      "name": "dbfluBqRfcEwjUXZF",
+      "country": "Ukraine",
+      "city": "MswaANINpohr",
+      "street": "kWwticcaFUdAayNUMciyX2",
+      "house": 170,
+      "flat": 7,
+      "phone": "+8644601054",
+      "createdOn": "2026-01-03T14:20:45.000Z",
+      "notes": "wzUbhxnWtK6M2REazmV0FITdZ1YSunIA",
+      "_id": "695925bd1c508c5d5e8ba4c1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 14:27:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-A1zpC7HOsJgHNRt9EYedW/1XIZo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X34901",
+      "amount": 817,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T14:27:52.000Z",
+      "notes": "WQnACkvn9focs39LitRLw3sESgppR3m3MvEb6Va98vftoiKymvJfiRetl4s51ZrQfzFVzza1KS5yM3jRbhYYAB1dO9ca1h8DGIoyAxo6yPYEjygBp1XIP0mvdfZjKTEbLP9b9CVR0hsBAQxCRw5gttj6WDpjTPuHbEqXu7aY35zSVEdu4CpkVR3DgTHpOh9vxFemtHIYyrB5VilapdEf0G4KkMSn95p3AP7AHMvGfPXAusY0JIf11gN9r3",
+      "_id": "695927681c508c5d5e8c379a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
