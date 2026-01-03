@@ -52,3 +52,7 @@ export function generateProductsDataForOrder(params?: Partial<IProduct>): IOrder
 export function listOfProductsId(params: IProductFromResponse[]): string[] {
   return params.map((product) => product._id);
 }
+
+export function generateProductID() {
+  return new ObjectId().toHexString();
+}
