@@ -273,18 +273,4 @@ export class OrdersApiService {
   calculateProductsTotalPrice(products: IOrder["products"]): number {
     return products.reduce((total, product) => total + Number(product.price), 0);
   }
-
-  async deleteOrderWithCustomerAndProduct(idOrOrder: string | IOrder, token: string) {
-    const createdOrder =
-      typeof idOrOrder === "string" ? (await this.ordersApi.getByID(idOrOrder, token)).body.Order : idOrOrder;
-    const orderId = createdOrder._id;
-    const customerId = createdOrder.customer._id;
-    const productIds = [...new Set(createdOrder.products.map((product) => product._id))];
-
-    await this.deleteOrder(orderId, token);
-    await this.customersApiService.delete(token, customerId);
-    for (const productId of productIds) {
-      await this.productsApiService.delete(token, productId);
-    }
-  }
 }
