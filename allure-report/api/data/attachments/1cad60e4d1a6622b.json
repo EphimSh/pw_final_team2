@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:33:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-C3clq3OdkPkopZJtmSeJCYoZ8eQ\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike39211",
+      "amount": 821,
+      "price": 22411,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T23:33:54.000Z",
+      "notes": "XjL33nalpqgueqEK6p36ljcrLXvcnFl5Du7WcwvM2PaK7hGNBbRfF2HVkUeHpMgmPcXSf1iCTKPO47szrbvZZfUBl46u3hHDI0CnDpzEQxz6QVQV73Nq6DikYAL1x3Sv1jXYOemTCZG3W9jBcKKWrVVfEPxAjbaSRb8zMfYx58zLewGZU06g2MJLzfqclAJqqiIJ0zR9LsQkUNhTKV5CsgZWKsrAZa8wiBHnisxfgyMJwY0oavrmvZiLTN",
+      "_id": "6959a7621c508c5d5e9e065d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:36:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-krmEut79FKC9XIpS69rk/wWZjT8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball54935",
+      "amount": 956,
+      "price": 39005,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T23:36:16.000Z",
+      "notes": "BEEGnmVZDO03OcpfuK1GVwTQcpMsrs8nqWiL1KG8ssqE4yqUXkozTOk1Qlil1nkSDVGrEbx5Jdg2JkRyUx6hxPmIQMyFo4ukzPgQI4D9JNcO1x7C1JkiKaqqD7fZkX3HcrCTK0QUVhNOG7OiCajbXRhsu9REfNqP4C6yOPpCJBxzGv4zrql24Sj4azDplfnE19cC3P4pH0BDm6WGf1MQrIfctTl9xa6MSuwBvqBn28Mb7D5zJeJ4tUXck0",
+      "_id": "6959a7f01c508c5d5e9e3a77"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

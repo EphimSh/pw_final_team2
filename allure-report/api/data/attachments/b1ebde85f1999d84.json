@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:34:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "536",
+    "etag": "W/\"218-XgwcKDYjWs4BX/qTk+pa8X4FZCo\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Janiya.Kozey@yahoo.com",
+      "name": "kkvtMDtwRD",
+      "country": "Ukraine",
+      "city": "bFlofD",
+      "street": "F9MukMH2a25fzmPL",
+      "house": 100,
+      "flat": 4,
+      "phone": "+8218993721",
+      "createdOn": "2026-01-03T23:34:49.000Z",
+      "notes": "gRZGEVRm1veAnTh9PLp9sKIydEEUgVqJrqAG5uqB07eBbMQhHWnQQM832aaunk8nw3isNm3PJClvzzLvJyDSiC0KD66qBOe1d3q7ahBjZ1x8u7gZRUiPgs68fsnXuVlvHt5ayGSMn4oSk9azw4IMKsgbaUeP2nu0B4YuGkexsikEA4TMbKDH7H5tdU9Ts5NLqdhJQM8BmQDTwmODujVp9pm3ex14Lfe8ASX6gMARtTOXhzTOQc",
+      "_id": "6959a7991c508c5d5e9e1980"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

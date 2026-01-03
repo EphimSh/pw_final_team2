@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:37:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-f6QRK4do881IflPXVnn0byQurbw\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels94141",
+      "amount": 684,
+      "price": 10239,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T23:37:25.000Z",
+      "notes": "OqRHa5ogJoZdTmJLPWkelrcTLnbkQqcqkYxzqDGcxQgzDAHV2Ull3oFE2SpP1eivSGuHUpRBdfU7y64Y3Icl2J5jb8gCrv9xv5R0qrpPKL5E21JPlxYWErOWCQvYKjVpODcKpoc08O0BVn1vZSNnZ5IySMV7WpZzKK5WasMVDz6WpihRefuGcdNWlMJC5GlSTPzT9OZD5cpJLHUk9wQXJhLAbAOloPcslgUUbF7PzBhRbOOJTQ0I5nAdRo",
+      "_id": "6959a8351c508c5d5e9e51e5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

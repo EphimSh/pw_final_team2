@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:32:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "370",
+    "etag": "W/\"172-z6dTV17Ig6JP/BPpTla+gqzeWGQ\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ramon23@gmail.com",
+      "name": "pjlhNdUIfbTLpfZiFBXSvPdcqXsbBwSfb",
+      "country": "Canada",
+      "city": "KDywSEsuPCNlld",
+      "street": "9BsNGe",
+      "house": 2,
+      "flat": 8,
+      "phone": "+3664814173",
+      "createdOn": "2026-01-03T23:32:55.000Z",
+      "notes": "IYJas6I8QTZYqVJR10B32zQZxPGnQ9cBp8Yvm5yeBC5W9F8aoVwHc1v3rMNVAHO",
+      "_id": "6959a7271c508c5d5e9df408"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:37:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "524",
+    "etag": "W/\"20c-eiVvgDeW6VDQn5xQRu0EAxF4eZU\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jo_Langworth13@yahoo.com",
+      "name": "a",
+      "country": "Belarus",
+      "city": "MPxenZFma",
+      "street": "Xv7v77JrplfcptuoWOmYcj0ODvifuhL",
+      "house": 190,
+      "flat": 1,
+      "phone": "+1189348666",
+      "createdOn": "2026-01-03T23:37:32.000Z",
+      "notes": "qMVVetCfXH9qaPjBpRmM7KjDRC1HCJl80nllQHr6qRMYqTpjWadM7HPz9z1MV4ROpl1MaLX82g7EljXCVzamprR7DvvQvSM7HgSsFHez1A1Is3SUJmlTZEZFdxRgVWrPgnxDcMBpvsOOfnHx0zgvZ2xRY631OzTItO2Iw0o77VmDqam5X74fqmJBdRjYuQ3SI2PStjNsWTXMsAFc7pvm6xfUCM4",
+      "_id": "6959a83c1c508c5d5e9e5485"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

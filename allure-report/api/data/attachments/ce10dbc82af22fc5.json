@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:36:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "335",
+    "etag": "W/\"14f-7xj1GAiHiBw+mqGNo2f52qUkZF8\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "6959a7e11c508c5d5e9e344e",
+      "email": "Judson11@hotmail.com",
+      "name": "Ivan Ivanov",
+      "country": "Belarus",
+      "city": "ngoScDXrPgFGizJGw",
+      "street": "aukMBPS9AhiI4Gt2kTakukzefoudATtD",
+      "house": 148,
+      "flat": 7,
+      "phone": "+0549678059",
+      "createdOn": "2026-01-03T23:36:01.000Z",
+      "notes": "C33lqW0c4W1U6rr"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

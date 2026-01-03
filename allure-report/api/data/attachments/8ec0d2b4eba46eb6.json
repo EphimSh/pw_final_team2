@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:33:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "432",
+    "etag": "W/\"1b0-GDkzd+qR7/+QG0iWCdfDIeunSJI\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Mike28@hotmail.com",
+      "name": "BAavfqcVoHHSVUaHEmrHHo",
+      "country": "Russia",
+      "city": "WkYeJXmzkPJgzsb",
+      "street": "5M",
+      "house": 21,
+      "flat": 2,
+      "phone": "+5700810958",
+      "createdOn": "2026-01-03T23:33:15.000Z",
+      "notes": "EEizfuSSWhawFVeXezhot7UiPSYoDVtDtIZ5sYBxp47gRLcvJ6twQP9jHo2TspmxS6m64tjcAolzAUGf1wbUx7k2htonlOZ106ULnf1XKTmpok4vMxEgGV6VMCXfvVRLERagyyzeP",
+      "_id": "6959a73b1c508c5d5e9df9a9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

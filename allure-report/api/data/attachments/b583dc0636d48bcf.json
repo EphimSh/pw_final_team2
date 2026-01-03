@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:40:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-zoY4E5w0/86Gzyp9sXdUk1uLH2Y\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro50566",
+      "amount": 273,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T23:40:50.000Z",
+      "notes": "4QGFCJsFG0lmO2JPTyjaZyLUy9v7Qfjjq5FVPyoE9l5m4wI2wZtJnddKFe1gUalHmYaRzY9vRONX8O2ININt9CjiSeCRyaUwWUXVZgBunVYH0fqQDs48SauV1ECxJaYtVlTGAF5fVoNWt6jspfwA9I68ViWFdoJ9VC1UzSOxJyhB1GbnBnPf3ZdwAWXb3tZSHhOhamoqNnv6Cv8OhlMEjNLkMM3w5jt7RPYrVuWMzUOB072VVntwUrkWv6",
+      "_id": "6959a9021c508c5d5e9e9250"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

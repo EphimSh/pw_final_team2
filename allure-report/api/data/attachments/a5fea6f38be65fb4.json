@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:37:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-wBIAg5glCyQJ3ZqdMCY/t6lP2uo\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap30648",
+      "amount": 529,
+      "price": 90186,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T23:37:25.000Z",
+      "notes": "ZDY81KeISAhXfo8B6sQXVV4d0cmB03puVLLtsDtH6l9AWGJoWOoddZ0R9EqwGqNhjAwYnuH76qUWv2Iq72bXRj2phZm8acXiptc09utDvndxfkj797Mmcy4Q3qTm4ipE6t67QVzHJ0nhWKn1zmS8VZnWBY8S9sOqCXIpWhVj3aoB3GMqX9bqIiPAeWEku9VvLaR6wEEkG9dhefHmqm9jciWNN6t5TtWERXS9majNppvq7KQPUxIcPrvN1N",
+      "_id": "6959a8351c508c5d5e9e51e7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

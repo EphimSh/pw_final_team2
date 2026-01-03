@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:35:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-lZWJlchVF6P+R7HeF2okrkyd0Yc\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer53936",
+      "amount": 653,
+      "price": 28228,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T23:35:38.000Z",
+      "notes": "aPuOC2BT0YPN1bCqE8adWGziHYp4Woa9j5J75XjGbm9qsZXGkqvVCILVQe62gLRVGMSgHlhWHiNfSZz4mkjch91M5XjdzcxtJU0llpcs2uuf82a8RDd5m6ImeL8QueVqFTxCROTlMgUYzetM6vyyU1ImiLyhDUIXjNYnuGiJEudkUpoCPC8Dsgbq3CSNNcr459UVFId2cXiv1oIc1goLDPFbEkIwTGxrPbssjlaQNl67GLNuUDTt5qz3ZV",
+      "_id": "6959a7ca1c508c5d5e9e2c60"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

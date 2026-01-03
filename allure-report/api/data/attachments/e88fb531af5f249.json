@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:34:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-qwfR6Mp7588wWJTwGW7VR3Nozkk\"",
+    "keep-alive": "timeout=5, max=50",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes96917",
+      "amount": 563,
+      "price": 56533,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T23:34:22.000Z",
+      "notes": "p16BQ9jNkcHRiwbIQTIgswZpLSGicD6JuAdh9Ib7hqluDcdPRupkeMvSSI0Wgk6ER7oH4cHfvHEz2GB9KKm1uHd7EPvlx7u5Wq0blZddS8I3oL4IbyYcRL5Qp1jr8R5S8x9BQpmKPmcxMH5upHgmXYALisMBymlWG6ziKb7qDWxeFnxLLmEc3fWdNNgvPY158xO9tIdqf3pJTM8csIZ40t5dCGnieISyHOQOJ3S84zsr7Gr9Nv90JQOH98",
+      "_id": "6959a77e1c508c5d5e9e11aa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

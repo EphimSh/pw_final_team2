@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:37:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "336",
+    "etag": "W/\"150-kB45cztdkn4yPpgbx3eOOPyZHD8\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Philip_Kuhic@gmail.com",
+      "name": "efyVU",
+      "country": "Belarus",
+      "city": "CHjRSckVEmOUyusjBc",
+      "street": "tkNQ3LpQujh0G",
+      "house": 137,
+      "flat": 9,
+      "phone": "+7645720929",
+      "createdOn": "2026-01-03T23:37:35.000Z",
+      "notes": "rzN4VFuQZz85pCTJikzmxyIevQ2MhpwhSNLuVF",
+      "_id": "6959a83f1c508c5d5e9e55b9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

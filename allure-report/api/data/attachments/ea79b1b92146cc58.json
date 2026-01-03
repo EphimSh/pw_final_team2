@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:40:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-0fB/kSVPn6MPJx9RSzf+PqdGKLM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X44455",
+      "amount": 697,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T23:40:31.000Z",
+      "notes": "m1PcTvxtao6Tog091iFtckGrSHK534tfv8ZG8HonDvT0RBsiOZtUj1WcoVgwqAqt4QpcoXyCIi8EdwRcVHCvzj31V0uDv6spYIesHbBKAMlpSarnuCSTMH8lTK17LEAvxeNNj07C3ZdQKyHJwPxuwLOUrbAiY9pgT71AiOInwyhGJYHNMpyUNsFmGajqZ1jjVcE3cbEdeKi5vkB2tJRngrr6FMfLbx6EhIO2hYLrDpb75YZa7oSgLzsq33",
+      "_id": "6959a8ef1c508c5d5e9e8d8b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

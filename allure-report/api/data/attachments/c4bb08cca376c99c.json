@@ -1,0 +1,89 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:33:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1829",
+    "etag": "W/\"725-FRZyHiKu+Hqw9BZobBxlY4XhrGM\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959a72b1c508c5d5e9df429",
+      "status": "Draft",
+      "customer": {
+        "_id": "6959a7271c508c5d5e9df3f7",
+        "email": "Dawn.Nikolaus-Corwin7@hotmail.com",
+        "name": "ZrTXtzDatfzBVES",
+        "country": "Belarus",
+        "city": "HRthCnPxdvFUrPFOi",
+        "street": "iNhdCvJuHor9F3yy4YoX",
+        "house": 164,
+        "flat": 9,
+        "phone": "+4802885476",
+        "createdOn": "2026-01-03T23:32:55.000Z",
+        "notes": "g1dDsAS405JvckNjiO9R9"
+      },
+      "products": [
+        {
+          "_id": "6959a72b1c508c5d5e9df421",
+          "name": "Gloves60979",
+          "amount": 705,
+          "price": 79878,
+          "manufacturer": "Apple",
+          "notes": "w5BRXvvCF3WVqNlyM7gnhF7MpufMnUYGGijpHm1yF4qZ6lL1r4vEj863t0EzPfypf0TqJ107ofjLTdVR9rqBLlUcI5IOQs3jGEMHHqy63bLFp4gd8kd1YkonzQXs2zFIEvuGPvyk9FmReoxxFwZcHAJkwT22il7UQwYb9uUwSmpgFAILWNIm7dVPMtQY3gHyVWwuI6pjzmYqhcxCxJZUPxGSkv5sinlsn2l2hkHL2HpL8w6ULqRbmyOgm3",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 79878,
+      "createdOn": "2026-01-03T23:32:59.000Z",
+      "comments": [
+        {
+          "text": "NWOrO6CMI8SZARxqNexLqvre5LZpRZnOIivxJEptUsraFw9YTMvzXkgeFlWP03m4iouTEE",
+          "createdOn": "2026-01-03T23:33:00.000Z",
+          "_id": "6959a72c1c508c5d5e9df444"
+        }
+      ],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6959a7271c508c5d5e9df3f7",
+          "products": [
+            {
+              "_id": "6959a72b1c508c5d5e9df421",
+              "name": "Gloves60979",
+              "amount": 705,
+              "price": 79878,
+              "manufacturer": "Apple",
+              "notes": "w5BRXvvCF3WVqNlyM7gnhF7MpufMnUYGGijpHm1yF4qZ6lL1r4vEj863t0EzPfypf0TqJ107ofjLTdVR9rqBLlUcI5IOQs3jGEMHHqy63bLFp4gd8kd1YkonzQXs2zFIEvuGPvyk9FmReoxxFwZcHAJkwT22il7UQwYb9uUwSmpgFAILWNIm7dVPMtQY3gHyVWwuI6pjzmYqhcxCxJZUPxGSkv5sinlsn2l2hkHL2HpL8w6ULqRbmyOgm3",
+              "received": false
+            }
+          ],
+          "total_price": 79878,
+          "delivery": null,
+          "changedOn": "2026-01-03T23:32:59.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:35:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "411",
+    "etag": "W/\"19b-FTD3lSfqD2n6eAg0GnKxxjU/Wg0\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jacky76@gmail.com",
+      "name": "edZQXQEFlMjMvfvZ",
+      "country": "Russia",
+      "city": "drsmHHn",
+      "street": "hKpVFVszHhjOs3wrJsI0VxRPpjZO",
+      "house": 112,
+      "flat": 9,
+      "phone": "+9949194622",
+      "createdOn": "2026-01-03T23:35:46.000Z",
+      "notes": "2XYU2CNHX5mZYCDMJRK4xwjP6jcjq3AkMGLbL73SIDXx2hp6b5A3WgyzorOpSZpZ50xtOBHP5zgvEnoqAprRFolkWs0jHD7z4wed7p82",
+      "_id": "6959a7d21c508c5d5e9e2f24"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

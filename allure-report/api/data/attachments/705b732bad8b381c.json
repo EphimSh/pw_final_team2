@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:33:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "370",
+    "etag": "W/\"172-kLLxCYNgpEEugpaWT9DDGX/lMqU\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Cristobal21@gmail.com",
+      "name": "cFzQPUCMoZumQelceJJyOFHEDniGGnqcCgwy",
+      "country": "Belarus",
+      "city": "ZyuNac",
+      "street": "7vT7jJGwsgR1qf3Gq",
+      "house": 30,
+      "flat": 6,
+      "phone": "+3337498347",
+      "createdOn": "2026-01-03T23:33:15.000Z",
+      "notes": "Tx14l0HmvwLiuQoAUGRWTPCCSf0UAVzQhNtpzGLZ9gfV51j29JM",
+      "_id": "6959a73b1c508c5d5e9df9b3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

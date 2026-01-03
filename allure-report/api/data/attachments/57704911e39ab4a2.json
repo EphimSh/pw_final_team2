@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:34:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-Z3Arr38h2OO2h8+ZgXB9udltvI8\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike48451",
+      "amount": 966,
+      "price": 14695,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T23:34:22.000Z",
+      "notes": "zbtxiQQj1IMaDX0J2v7de94YzzmXbn9brKwNwh3DJusrmRhvLV6MxTLPWyigdhy4xktROv143WQ5d3cn09roSwlaPlhWr6n3ckzxfnd0XtdJnpF9PY6CJbDaLYQuTTTW8NeEbcCeDeYP8UQfC1cw3LTee4SG0oRGD02h44hiUSIk7ld8AZWk6XipauLIKIudPY89Cu7HLSaaFUJaslOg3KKxTbAH2obCyU8SoSALQpoBN0zgvZc0KDpCXW",
+      "_id": "6959a77e1c508c5d5e9e11a8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

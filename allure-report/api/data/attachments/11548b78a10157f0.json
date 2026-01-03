@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:39:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-9+1wPq0AOuZ2C6M72wRZPqmdhhU\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "6959a8af1c508c5d5e9e78b5",
+      "name": "Shirt12981",
+      "amount": 539,
+      "price": 38655,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T23:39:27.000Z",
+      "notes": "7Shq2Ph9PGs4vGKIgR1MgJ5tdveXjtOnKirh5aAYrocRMt2OOeMq00BxGUJv8vdlqu75cpEeRH7V6oU7dJqiev51NuSsDdzc02kTCfx0OajZEIQK1OT5pgksNfiGlFtezUAxe67D2H5l8fmaMvFc3kvu5lYqBm1qv0yBWzAnioROCtRNgeSdnQZXMwBcMJ1KavQLMyIcXjgRpAVwILUDbw2TfnxoJhAzPRgUEnvJP7RNJMboLP3TktHwex"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

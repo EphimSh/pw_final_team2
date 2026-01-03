@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:39:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-0iC27I1oZB78t6gE1vowF1OLh5k\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy A5567471",
+      "amount": 753,
+      "price": 800,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T23:39:35.000Z",
+      "notes": "80OEQ7QKtffYWsjTnlM7UfUkKZCEgQaZ7LowX7B7NUW4mwAGLLVdKK6845PgFPeyGarCtlketzleRLoc6puhxt0OpBClTeLXhhr8Wru8jbOvx8nnZrx773MqydSptRTL1hVctikoZC3bnPSSRhHI4lQKekhfoOFtueXq3SCk2v8Cz66hnJMktikw6gMwFItq1Ux9LFBxfdP2KciWgDPDaGFc0C57l5yYBCnLwrN3hq5WyFaLH1hQuMVpk2",
+      "_id": "6959a8b71c508c5d5e9e7a09"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

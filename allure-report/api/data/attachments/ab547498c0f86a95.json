@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:33:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "373",
+    "etag": "W/\"175-x7e3x/XWZSOKMsxwpvQsouPn/Fs\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Michele_Parker76@hotmail.com",
+      "name": "CzKCkoleHEgLNngTPEbEKzoBRPTOXp",
+      "country": "Russia",
+      "city": "KCUigdiUKYYHgwrLzt",
+      "street": "W",
+      "house": 167,
+      "flat": 1,
+      "phone": "+5310991003",
+      "createdOn": "2026-01-03T23:33:47.000Z",
+      "notes": "DZuIVRMPTL8GmLWLiRhVjISfZdcQJMK9AzN0BHOEElkWXVM1FbiOhjWim",
+      "_id": "6959a75b1c508c5d5e9e0616"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

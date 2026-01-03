@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:36:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-eLZuATL1SUNFSTK+G77OZsnliWc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car77822",
+      "amount": 625,
+      "price": 13364,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T23:36:07.000Z",
+      "notes": "iEYPJ9xcpzIl1zdTLoTS0ST8ogZD645igBfH3w0SIBLbUJyfjWmPjXJTYb8f5XT7gRuKr6xNoPfHdODGRAbF01dk2FqEkUNwhK8N7GlVJAHCM22QQWWjcEvx8DamI1vH8us1AOpd1wLwnh1Le8rr5Pqc2jnKFGuHP5HYG38kWlvTWMLIzg7HSk7BNjPt4BBNpdWZFatCedOmur5JJ5n7TxcpyArXBqEwhuv83hjr0ReLbMFff9lwJ5ZklJ",
+      "_id": "6959a7e71c508c5d5e9e37a8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:40:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-qucMoEgRrWnp1RgjmaS8m/jF0CE\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra94400",
+      "amount": 470,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T23:40:55.000Z",
+      "notes": "dT47hhLY2WD26nKq0JY3D1U5y6bK3q7QcLmvgZTby7Zg3d0udpGJYiqmA8oDHGlBIAmfFj3QGXbyY8uWm98qnA5OiSvpfcHHJbxelsoOBjZBbn70GBOp8JaT4Eeyr8wURz4Jmo04RiIdIlls5EvgaQOsgABKAFwWPsROdYGMUvqq2mLoxC1g31nCcJblRBhiphWiw8Hiz9ApDjPYdIJ28eAC22atfqeEyrZz6qyTSuOuvUKYyowymPYRZZ",
+      "_id": "6959a9071c508c5d5e9e938a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

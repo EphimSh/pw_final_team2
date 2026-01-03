@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:36:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1908",
+    "etag": "W/\"774-7c7uehA0UyN+eEcdX9be5/ir9CQ\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959a7cf1c508c5d5e9e2cb9",
+      "status": "Draft",
+      "customer": {
+        "_id": "6959a7c91c508c5d5e9e2b43",
+        "email": "Odell_Lesch-Effertz43@yahoo.com",
+        "name": "vmQowGhTjzqEDj",
+        "country": "France",
+        "city": "fGMVZwaFAqEKEZebCv",
+        "street": "k83zKPBPR9R6yMeEsp9cgvA9XTAUWS9q4UuLbMxV",
+        "house": 183,
+        "flat": 9,
+        "phone": "+6813541702",
+        "createdOn": "2026-01-03T23:35:37.000Z",
+        "notes": "3jHVriRLN7flTDJfS0YwlvxQKbjaWUiA4gFkxodX6GnRDfDO2tAe8ZbapEXd3jDOI5T2JfI4dK3pkxS6fPPA8Dxk3HQOTlCAkCx5ubaJ1ZuXHQIMHp0VUvETP3U8NNJ87ssEFC8a1Z02n7SObq44f5YEJtcFnWIUH7aBvRQQOtafcmmmUjd6XLZJNdLoWVLyVOz7emOwY8hEqpZ2Mn87Ig1uyz7UWneWNpV4tckEpBI9Xo"
+      },
+      "products": [
+        {
+          "_id": "6959a7cf1c508c5d5e9e2caf",
+          "name": "Bike2750",
+          "amount": 480,
+          "price": 81080,
+          "manufacturer": "Samsung",
+          "notes": "fgkvb2rVoRxETjMJiIAKOY0jVjNAVLUpWQz1vEJDQaCdNIK4l3MFczswLdJhjJVcVjEfliaA3e6vlhtukmZemoerbnAbWO9EP2B2LZpUyV4FKXaSTC6wTOOoxudavAFRpy8w5ss0c9Hf5qgx3K6BGy5sOYyadlKmCz5NbqLkpjeC8qs5Vov9WDotyAvlnPJBDilz4lqUORr5LVhtLDVBL2Zzcftc7kfoAL87yCQn5g06aqIatqDhaQeyCd",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 81080,
+      "createdOn": "2026-01-03T23:35:43.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6959a7c91c508c5d5e9e2b43",
+          "products": [
+            {
+              "_id": "6959a7cf1c508c5d5e9e2caf",
+              "name": "Bike2750",
+              "amount": 480,
+              "price": 81080,
+              "manufacturer": "Samsung",
+              "notes": "fgkvb2rVoRxETjMJiIAKOY0jVjNAVLUpWQz1vEJDQaCdNIK4l3MFczswLdJhjJVcVjEfliaA3e6vlhtukmZemoerbnAbWO9EP2B2LZpUyV4FKXaSTC6wTOOoxudavAFRpy8w5ss0c9Hf5qgx3K6BGy5sOYyadlKmCz5NbqLkpjeC8qs5Vov9WDotyAvlnPJBDilz4lqUORr5LVhtLDVBL2Zzcftc7kfoAL87yCQn5g06aqIatqDhaQeyCd",
+              "received": false
+            }
+          ],
+          "total_price": 81080,
+          "delivery": null,
+          "changedOn": "2026-01-03T23:35:43.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

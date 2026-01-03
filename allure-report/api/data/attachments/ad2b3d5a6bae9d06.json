@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:37:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "480",
+    "etag": "W/\"1e0-BIbXv5lbCVXvc4mEsvjsGrGb+g8\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jarrod_Green@hotmail.com",
+      "name": "YnAinbSidhnWkA",
+      "country": "Germany",
+      "city": "uGiQeCOMTGqzYz",
+      "street": "NJuNsxQNRcztc0uEpY2Uw6yW",
+      "house": 167,
+      "flat": 8,
+      "phone": "+8409754867",
+      "createdOn": "2026-01-03T23:37:15.000Z",
+      "notes": "1L00bU8ZqdFTNsN4lF2ERx5xtIDcCogyUkab0BMFe58Jm6mKbDD1tMs9zqvi4EKdGJmfxvq5zRHyNl4XK5aFbkv4h8vPkkzugywCIqswVOh2TlUi00eNWgbJ9rJe2ShUW0XkbwlouYGAlD1q8EtpHLQEgjC1jqjA7hnl",
+      "_id": "6959a82b1c508c5d5e9e4f43"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

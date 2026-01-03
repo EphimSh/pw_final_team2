@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:39:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "190",
+    "etag": "W/\"be-NYdANP+Joi+FdC5JSNyUBkTuyWA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat1074",
+      "amount": 164,
+      "price": 60649,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T23:39:13.000Z",
+      "_id": "6959a8a11c508c5d5e9e7507"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

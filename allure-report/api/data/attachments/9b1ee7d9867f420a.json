@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:33:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-S1xMoEt+4iZkM10ih5pJWSfTafM\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair99783",
+      "amount": 83,
+      "price": 11265,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T23:33:19.000Z",
+      "notes": "BrA3IxqwSvxwM8oDJ5qgHTYbSPVNMkc6slGacedlkDxO686pjRhPs6GvsseWjv5uCDtDFn0aJaiXEsaTMjgI6ZLIsg5vRWPxyO8vYKWMimZvMaikj8Fnx0MsGbu8CNOyphcEwXnjaQCQv11EUwF5sh0rT47UjiPnHoSrPnAkcamfT1yNBiJVMhxdCCwWXvayxpTdoZ0CE4EuhKGQfnnEMWVDdrJygICApFP8M2OLd9D9nSRV9GmRP0RmI5",
+      "_id": "6959a73f1c508c5d5e9dfad4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

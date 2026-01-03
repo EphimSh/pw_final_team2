@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:39:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-9rp1JLEAyeaOg/gT5w9vWRLINnw\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes12652",
+      "amount": 363,
+      "price": 12021,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T23:39:45.000Z",
+      "notes": "rAZg7vF9m5298Q2FK8ryPZ0mHXrbS4VPGftPnXvAMDHwWUcNdZjjlJMPSXYxupdoOihXQHPn1dyAvvFQtUXSZ0Ls9TVCvqWuGMo4g7bPGq2mKd3ggBuBrWr35xlA0BOz8eF5xSo6IzB6ESF8gk2rIbHFSz6kBx4csmyTNSMm6Zi2TXMnaKbgIVrTvq3Zsr5IXEyEHBVoWKYgtFoucR5UiWMBRYSr9KEG32rTdqVqTEWTZyJmD8Bxy1PWGO",
+      "_id": "6959a8c11c508c5d5e9e7c8e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

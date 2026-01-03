@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:38:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-kChMdnMSIILVbaFzkmTtngd7zj8\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat67789",
+      "amount": 399,
+      "price": 71061,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T23:38:10.000Z",
+      "notes": "aSTatTKCXRWJo9R8m4oehGbP2b5ZSuwmSNDnDn7DQv69ggPCcZa783wtzFz9VcCw6dqUqmbA4jxZ5ekjnNEJWmdCrnEw0i7WjCcMHstWiI65VaWjl6kX6ikQDgZ5wquNnyVJa0UYZTu4qFSBuO8jzNZnLXNPAuD51YDOlIt2qq2lhCGD7rtCwCCCrJVz2DPidkrrZanYseAK4DOxtLk2wyyTtWrBcQfcECIwL9g3mDamkuLlQdVixAEdez",
+      "_id": "6959a8621c508c5d5e9e60c9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

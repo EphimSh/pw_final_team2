@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:40:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-llegd8fIfap4IXKUPPeFM0CyP5I\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X42211",
+      "amount": 636,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T23:40:37.000Z",
+      "notes": "VwSpuDGa6Yazci4NG1eEwnpLkfulNlOxOZybAWrMOTmoiHVjSV4JPUcdmTQH4IzCOs6gEwB8VhPu84KMnpbVctzwOn08FckmuZILVoJ5FXJu4Ayz9BnTXGWdJq1zUbfiAJav2VSipt6ZJA7hSiegSEFjx3e6W0fL2jUmzNj1JHnPJ2ArmWVCtSJ2zl3pYvCPvBbyMOLgrniIOHH75R9VRnS8m389TWFBCgB4ppiPTEGgerw0UPso5NOnsF",
+      "_id": "6959a8f51c508c5d5e9e8ec0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

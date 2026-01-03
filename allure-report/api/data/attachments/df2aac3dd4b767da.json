@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:35:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "300",
+    "etag": "W/\"12c-g5KjXgTC9MdKVL4n6wT4Gjx1aWM\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Eino_Stehr44@yahoo.com",
+      "name": "pHYrDWAMWxswxNIT",
+      "country": "Ukraine",
+      "city": "AhvRnWI",
+      "street": "wcxyYDf8nc",
+      "house": 93,
+      "flat": 1,
+      "phone": "+7995853186",
+      "createdOn": "2026-01-03T23:35:27.000Z",
+      "notes": "XWbLzq",
+      "_id": "6959a7bf1c508c5d5e9e27ca"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

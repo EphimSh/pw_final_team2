@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:40:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "467",
+    "etag": "W/\"1d3-SFPNpx0ZV3SmhPhrnvY7hHDtKnI\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy S2573290",
+      "amount": 839,
+      "price": 3100,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T23:40:41.000Z",
+      "notes": "N5iIOOdnkZdRguzyHNhNPN2rPLZ1Qz8fVc8UMOFZ2VB5bKNQzMEQbq9f9DKADehT69zcWX2m7tD11ETM1R5Z2zj9PoM7UcMoMAoM3zZi0D6kqsdr4krqyzjIW5sqxlbQ2jF06aAIEq1okGp9BXacYCb6fIn82dLbxy9Co56Yj9c0imuWpT778a5wusH9USABiOOoFBfLbepQGWlzQ5ucNVnFVI8U7s4aU2tr3SNalKLcbFrwjaVkGFAKxc",
+      "_id": "6959a8f91c508c5d5e9e8ed9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

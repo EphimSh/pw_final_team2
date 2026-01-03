@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:36:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "406",
+    "etag": "W/\"196-F4Gkf07sjBt+vX7S3lW+DIA37eY\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "6959a8001c508c5d5e9e3fe1",
+      "email": "Lauriane_Crona38@yahoo.com",
+      "name": "Ivan Ivanov",
+      "country": "Ukraine",
+      "city": "hVILzItF",
+      "street": "qsFDSftHzOxxg2iVaSumKJYzf027h5",
+      "house": 135,
+      "flat": 5,
+      "phone": "+2742715811",
+      "createdOn": "2026-01-03T23:36:32.000Z",
+      "notes": "LU8qjmC0XUA5MJSqQXBmB6NerPg4ruQNkep1UQmTQKKG7zG9DFGU2DxoWgKVt9N2neUguzIKrBDePGUt7QXCq9SlSDo"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:34:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-sZWtJK5Oy31REge/MBqJaUMd3AI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sausages98800",
+      "amount": 808,
+      "price": 31465,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T23:34:13.000Z",
+      "notes": "6zLYNYUyXvxYmdhGtq83xIIMixx7uairEsJTFYuN8zOx0yUKjamjy8pLJDgJBnQDvBYZq1RLt8nbdDvnGPA3KhmXokwjrjAv7j1Zms6rm8wfbU8oYeD23dCps8OqM9yE1xUqcM2rWPCoiX2nk7LnAS7prfhFK7am1xJJs1vCCaNjiumQnjf1Lm7m53JJvxxpG3yR0mpzeO8b88jqzhJFy3orYikcMnx2gUlITRmr6rau2zmcMwb5CFnujR",
+      "_id": "6959a7751c508c5d5e9e0eac"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

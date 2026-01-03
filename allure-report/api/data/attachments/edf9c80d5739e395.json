@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:40:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-wTw0TUSWN6ruXw6qyGAZel/f4ZU\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro92244",
+      "amount": 936,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T23:40:45.000Z",
+      "notes": "sBBsnrZhK8UvOVG3VXSDeQHE4IBkAE9PK337HfowHxLkvmlphBEHyyJwI9UkLpekbNXgc7f6fZumNh3GUaKPa49ahWtFLRT5ChNLhmXAdhsPuZhGuDCXChJzD5MSmDJvXrHoUES8vefOlnYQPMP0CKvapUW99HSns2F4WF7kxC2fzT7K7pUwGiLYGPLeBzyfWzpEBl9E3xFCknfkPfPjIRXdhdALpwneNeSEG9Dfk1Z4tS3G5pFN35AQK4",
+      "_id": "6959a8fd1c508c5d5e9e8ef6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:39:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-PFdIInUkZhO9shYCjv1rEM645wo\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro61081",
+      "amount": 806,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T23:39:35.000Z",
+      "notes": "FCCrBTIv2vcrvxgSTeM6VV3thVFfI4SXyn5RzqZRs1Zm1Ufn77QZfKlEdQgsnp66jBOoRm27vtsaDERECjIsqliVdILzFQemHkhl0UbxyCwdUYouo9elATXVcjuJCbejXmIzmXKDEzrtGCpUWg7UuQTvKdYitXMl9N3liM5nhFbiCboV42CetQ7mteLjJ9M0KSNQ6pcx9ggtqSKvmUeZat7goLNNZuC5SoJKvMGKXUgZhpphotu2x3M3nH",
+      "_id": "6959a8b71c508c5d5e9e7a0d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

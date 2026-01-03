@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:39:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-Tr+gIakDpMZy5aStKuUqQWp4YLg\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy A5518970",
+      "amount": 592,
+      "price": 800,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T23:39:41.000Z",
+      "notes": "uQbs1nGQAER3pijIKkQbmB7Fw5rvjDR9VHR2HyNmHHuuyycnB6r9GZMN5cCAlzn185IEUIpxfZ7m8d62sToNpqbTS0MdFucaqhHmbWtQsjHLfrndDlLKnU0GYAV6mOjlEQOQw6h0z2Q2TOvBYJxNN7BvnFkF5knTDSEOwtiWaLymf46HvcvAoYMp2PMkMhwzlygurerdPNQ7EfKaOj3RazPOZSUPSw9QNL8RUnRemWwa070Uafc8uS0CL0",
+      "_id": "6959a8bd1c508c5d5e9e7b4b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

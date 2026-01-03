@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:32:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "495",
+    "etag": "W/\"1ef-NiMfcErwTHOyBOQXCDBkGs36RWY\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Koby.Rutherford23@gmail.com",
+      "name": "rOnmocZJ",
+      "country": "Russia",
+      "city": "yBlXGGMysZwqfG",
+      "street": "NW",
+      "house": 46,
+      "flat": 7,
+      "phone": "+0468343131",
+      "createdOn": "2026-01-03T23:32:46.000Z",
+      "notes": "upIuzQ8OXj8gzqSgOKn28ffmthkzmFV6P3IgzJ0PEtdSBQYvKeWHXHP0bsqqioK0BstdBcvYjkSubnhtLyInImNGu0pg8hxH9tEC3aOcQLCY4gpELlsG4Qags56iLxBpFswwi1mKIM6ULjO80IHsY16ywY7fuervknetjPtlb0IO8ckQnwWeupQkSYiI9Ur0IWioMtqs31MCUw",
+      "_id": "6959a71e1c508c5d5e9df337"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

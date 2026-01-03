@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:36:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "361",
+    "etag": "W/\"169-0y4MMdEMx4fSk5TChVHxCCtA8H0\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Rocky_Nader31@hotmail.com",
+      "name": "qLgE",
+      "country": "Canada",
+      "city": "XqXPfGBwAonkltHmFyM",
+      "street": "pvgzVXzD",
+      "house": 114,
+      "flat": 4,
+      "phone": "+4281517490",
+      "createdOn": "2026-01-03T23:36:22.000Z",
+      "notes": "K4Gnp1fpukVgruOVj6a2Ye0iUGjlavQI9hkpAh9MqLgjN3uog5udxF8YEasx72oYLX",
+      "_id": "6959a7f61c508c5d5e9e3c25"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:33:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "408",
+    "etag": "W/\"198-sduo8gddNoiNtUeFARnjlufZKyA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Timmothy_Flatley46@yahoo.com",
+      "name": "bJjvfRbRlUNYUEBajzqVsfBgXWeTWfhOzribbTe",
+      "country": "Ukraine",
+      "city": "FGpceJwmLAgWgaKciy",
+      "street": "osELZrhGv4aZHfZN3Q2XkJG43RKp0VUScxdmc",
+      "house": 178,
+      "flat": 1,
+      "phone": "+0532441254",
+      "createdOn": "2026-01-03T23:33:39.000Z",
+      "notes": "kU4KsjdvxvRelE8SCubrEzUJtesrMja62qxU3mSJ4On3RL",
+      "_id": "6959a7531c508c5d5e9e03cb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

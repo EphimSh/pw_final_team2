@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:32:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "385",
+    "etag": "W/\"181-cSY8wHmt+9NJMnt6RjPaHV4Emrc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "6959a71e1c508c5d5e9df363",
+      "email": "Jonathan_Brekke54@yahoo.com",
+      "name": "WUdImKnzlnqSAIBTyKrvAZVkHlz",
+      "country": "Great Britain",
+      "city": "xKiaXhmIpBjxxXI",
+      "street": "Hp9MQZSstSIlB",
+      "house": 128,
+      "flat": 1,
+      "phone": "+5140683815",
+      "createdOn": "2026-01-03T23:32:46.000Z",
+      "notes": "ybQNcbY6VgZYRLtEu2FubO556F901L0NfHQapdqHhgWqVJUwldkz7lH1u"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

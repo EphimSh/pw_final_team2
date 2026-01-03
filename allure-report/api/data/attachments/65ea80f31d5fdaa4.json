@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:39:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-SAd+mP7DXmdrOlqEWEzD72tFFt8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X46516",
+      "amount": 391,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T23:39:26.000Z",
+      "notes": "4mGMi6gZRhH673gHP1ySDnsBQigRQpoMFq153hzBLy5QDs92hqMGL6LOH3lVC62S2YWgJibzYdgI8RLK8fJY9jPTvaP4MM1UTt768s9kGUW7AwrCW4ZvCKqup9fXQ9eG1BckBh90VZHu9nGSYsKU6ofEVcNa7uCpyh0HDMo7P4gtEUUv2AbPQIu6gy7bU3qXHhLPRpAvW46OQlgRM9Gyl1xrNotdzCaF5kVT5tvvvKGJTFN0jXm5K8nFzp",
+      "_id": "6959a8ae1c508c5d5e9e78a9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

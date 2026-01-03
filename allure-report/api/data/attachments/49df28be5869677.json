@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:40:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-rGzXfOrfH/i2IKhHeAf7g6vHe5c\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy A5515805",
+      "amount": 929,
+      "price": 800,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T23:40:45.000Z",
+      "notes": "Ccgf9zltXd8KSMbgtTuSTo0H5VG2Q52XTZnpzHnn6dngS52ij5EvS9voPIhOy8JLYR06sv6PYqjwxSWiIZ7SkewOCFpXRUMYgRHASKVekAwwvBi4kmZBcHlUdAocm3UswrK2TRdxoxOuyf40RNs9Sx6FUemYIV6BSawFoSyoBai9ZjlopTWwvvNZWBnLUumw2XbiZZn3Y5wMk4zod5Fq9lQecQbHQRkmVqScLbI4sbSRg2uHZGE555qqus",
+      "_id": "6959a8fd1c508c5d5e9e8efa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

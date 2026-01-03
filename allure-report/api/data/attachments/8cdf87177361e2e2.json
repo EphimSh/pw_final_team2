@@ -1,0 +1,173 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:37:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3828",
+    "etag": "W/\"ef4-XV15dCDzjrslTXOc+R+Z5FK3Ppc\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959a8551c508c5d5e9e5d82",
+      "status": "In Process",
+      "customer": {
+        "_id": "6959a84f1c508c5d5e9e5a0e",
+        "email": "Wilhelm_Halvorson41@gmail.com",
+        "name": "LE",
+        "country": "Russia",
+        "city": "xqMHgo",
+        "street": "2mG",
+        "house": 33,
+        "flat": 1,
+        "phone": "+9694482266",
+        "createdOn": "2026-01-03T23:37:51.000Z",
+        "notes": "5bJDyRBHgjxKTs84w6KwvQa0wAuEntBvmw7UtqoqcmzniLetXLVwl7dPJUA6V3yfSsS6CSwUhmvffK3d75xeViMXXZBwDWJW8WHcBUjc6aS2QYavq6W6yXySVw9bjmBbpiTJvR7X6yhKrEtfuz7HiCClW"
+      },
+      "products": [
+        {
+          "_id": "6959a8531c508c5d5e9e5d64",
+          "name": "Hat67410",
+          "amount": 411,
+          "price": 88347,
+          "manufacturer": "Tesla",
+          "notes": "faCU1akvRsWJf4VEzswO0DfTF9tx46Lnb0UJnrKsf4N8q4VQzzJzeNBr0vTtUiexESWCSpZCyWaySwaCJ3ghjJ2NwlgEjT9J7ZfGSAW8jINwxSYj58FcnlRoKYd4t9zRpmkDWgoakEJATXml9PHsg9UtXh8GVPd5pwo1XSMAOvZkDF0WCHMiwB4Q0XrEcypiMcRc3YyxFaWrZWrZzY3zXcQPSOWlnXWQ46dZZQbeCpTGbaX3A5BQuIFF0P",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Ukraine",
+          "city": "Mock City hhHHHNGlK",
+          "street": "MockStreet9Gqk6kd8ravBon8d423VB6",
+          "house": 85,
+          "flat": 17
+        },
+        "finalDate": "2026-01-08T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 88347,
+      "createdOn": "2026-01-03T23:37:57.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "In Process",
+          "customer": "6959a84f1c508c5d5e9e5a0e",
+          "products": [
+            {
+              "_id": "6959a8531c508c5d5e9e5d64",
+              "name": "Hat67410",
+              "amount": 411,
+              "price": 88347,
+              "manufacturer": "Tesla",
+              "notes": "faCU1akvRsWJf4VEzswO0DfTF9tx46Lnb0UJnrKsf4N8q4VQzzJzeNBr0vTtUiexESWCSpZCyWaySwaCJ3ghjJ2NwlgEjT9J7ZfGSAW8jINwxSYj58FcnlRoKYd4t9zRpmkDWgoakEJATXml9PHsg9UtXh8GVPd5pwo1XSMAOvZkDF0WCHMiwB4Q0XrEcypiMcRc3YyxFaWrZWrZzY3zXcQPSOWlnXWQ46dZZQbeCpTGbaX3A5BQuIFF0P",
+              "received": false
+            }
+          ],
+          "total_price": 88347,
+          "delivery": {
+            "address": {
+              "country": "Ukraine",
+              "city": "Mock City hhHHHNGlK",
+              "street": "MockStreet9Gqk6kd8ravBon8d423VB6",
+              "house": 85,
+              "flat": 17
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-03T23:37:58.000Z",
+          "action": "Order processing started",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959a84f1c508c5d5e9e5a0e",
+          "products": [
+            {
+              "_id": "6959a8531c508c5d5e9e5d64",
+              "name": "Hat67410",
+              "amount": 411,
+              "price": 88347,
+              "manufacturer": "Tesla",
+              "notes": "faCU1akvRsWJf4VEzswO0DfTF9tx46Lnb0UJnrKsf4N8q4VQzzJzeNBr0vTtUiexESWCSpZCyWaySwaCJ3ghjJ2NwlgEjT9J7ZfGSAW8jINwxSYj58FcnlRoKYd4t9zRpmkDWgoakEJATXml9PHsg9UtXh8GVPd5pwo1XSMAOvZkDF0WCHMiwB4Q0XrEcypiMcRc3YyxFaWrZWrZzY3zXcQPSOWlnXWQ46dZZQbeCpTGbaX3A5BQuIFF0P",
+              "received": false
+            }
+          ],
+          "total_price": 88347,
+          "delivery": {
+            "address": {
+              "country": "Ukraine",
+              "city": "Mock City hhHHHNGlK",
+              "street": "MockStreet9Gqk6kd8ravBon8d423VB6",
+              "house": 85,
+              "flat": 17
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-03T23:37:58.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959a84f1c508c5d5e9e5a0e",
+          "products": [
+            {
+              "_id": "6959a8531c508c5d5e9e5d64",
+              "name": "Hat67410",
+              "amount": 411,
+              "price": 88347,
+              "manufacturer": "Tesla",
+              "notes": "faCU1akvRsWJf4VEzswO0DfTF9tx46Lnb0UJnrKsf4N8q4VQzzJzeNBr0vTtUiexESWCSpZCyWaySwaCJ3ghjJ2NwlgEjT9J7ZfGSAW8jINwxSYj58FcnlRoKYd4t9zRpmkDWgoakEJATXml9PHsg9UtXh8GVPd5pwo1XSMAOvZkDF0WCHMiwB4Q0XrEcypiMcRc3YyxFaWrZWrZzY3zXcQPSOWlnXWQ46dZZQbeCpTGbaX3A5BQuIFF0P",
+              "received": false
+            }
+          ],
+          "total_price": 88347,
+          "delivery": null,
+          "changedOn": "2026-01-03T23:37:57.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

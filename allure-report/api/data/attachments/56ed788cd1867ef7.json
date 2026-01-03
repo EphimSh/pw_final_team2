@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:39:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-AMaCNdM1er0DsC4VSd8OQDh/O0Q\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball29139",
+      "amount": 68,
+      "price": 95848,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T23:39:49.000Z",
+      "notes": "nEWM0n08P8w83EIcQTiD6saHuS5Xbpwmh2P3xPTTrzOReJLuBOjGihZGNicfPzDkNOIT1N3gDzTwiL2N1EI8ggq1wlBzisorAvOJNIXZUVgNCaZdt9FzrJ17RzumyUbp0b8SOeMXGS5rFucjmaT7W6Z0R5vzFD0cfCfMBQ3Nno2G41F4u5iwRwx3YOCUjtTTtcsWRsBbWYAA8vStPsz86SKGsMfTfQZpWaeI19XuD63LTImZddG5EfuH7h",
+      "_id": "6959a8c51c508c5d5e9e7eca"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

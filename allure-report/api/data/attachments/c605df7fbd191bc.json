@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:33:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "320",
+    "etag": "W/\"140-LkMmAQHjIOXh0vliw4vPebZSfME\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Dayne_Harris@hotmail.com",
+      "name": "zMnVEYpaCmDfGwtbjQryNXlWWenwghzUYguf",
+      "country": "USA",
+      "city": "Ok",
+      "street": "REhN48",
+      "house": 190,
+      "flat": 4,
+      "phone": "+2195894176",
+      "createdOn": "2026-01-03T23:33:52.000Z",
+      "notes": "9Z0k8HbX4AzfzGd9",
+      "_id": "6959a7601c508c5d5e9e0651"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

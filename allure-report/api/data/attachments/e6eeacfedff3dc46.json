@@ -1,0 +1,126 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:34:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2781",
+    "etag": "W/\"add-VL33uc2GccTOp36TbBxYuRKSsc0\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Orders": [
+      {
+        "_id": "6959a7761c508c5d5e9e0ec9",
+        "status": "Draft",
+        "customer": "6959a7711c508c5d5e9e0c7b",
+        "products": [
+          {
+            "_id": "6959a7751c508c5d5e9e0eaf",
+            "name": "Soap25764",
+            "amount": 185,
+            "price": 98753,
+            "manufacturer": "Microsoft",
+            "notes": "qHisqMrxaAprnwQdC4pbxh0ykntDNC4iYZruJQaujzK1qYhyldskFCqPGuDdLzy9MzUibnBHnIgrbWEct6QHMc8x0KSwO5WFkGVsCY4gSFjuhy7fi7NRYAs3oBFgeUG2waO4hCcLKKkAFjvJjmYQoqCvvV8ApbnoPY95QSkeyclERKGb1VQHSWJVkqmETqu5pr2nIVDQVjWzTfm4XW1I69jOpZRAmCLEl3B22bSyv7Sys1luTNtYAGt9CI",
+            "received": false
+          }
+        ],
+        "delivery": null,
+        "total_price": 98753,
+        "createdOn": "2026-01-03T23:34:14.000Z",
+        "comments": [],
+        "history": [
+          {
+            "status": "Draft",
+            "customer": "6959a7711c508c5d5e9e0c7b",
+            "products": [
+              {
+                "_id": "6959a7751c508c5d5e9e0eaf",
+                "name": "Soap25764",
+                "amount": 185,
+                "price": 98753,
+                "manufacturer": "Microsoft",
+                "notes": "qHisqMrxaAprnwQdC4pbxh0ykntDNC4iYZruJQaujzK1qYhyldskFCqPGuDdLzy9MzUibnBHnIgrbWEct6QHMc8x0KSwO5WFkGVsCY4gSFjuhy7fi7NRYAs3oBFgeUG2waO4hCcLKKkAFjvJjmYQoqCvvV8ApbnoPY95QSkeyclERKGb1VQHSWJVkqmETqu5pr2nIVDQVjWzTfm4XW1I69jOpZRAmCLEl3B22bSyv7Sys1luTNtYAGt9CI",
+                "received": false
+              }
+            ],
+            "total_price": 98753,
+            "delivery": null,
+            "changedOn": "2026-01-03T23:34:14.000Z",
+            "action": "Order created",
+            "performer": {
+              "_id": "6936ffc71c508c5d5e9a3764",
+              "username": "student21@gmail.com",
+              "firstName": "Jillian",
+              "lastName": "Lynch",
+              "roles": [
+                "USER"
+              ],
+              "createdOn": "2025/12/08 16:41:43"
+            },
+            "assignedManager": null
+          }
+        ],
+        "assignedManager": null
+      },
+      {
+        "_id": "6959a77b1c508c5d5e9e0f5e",
+        "status": "Draft",
+        "customer": "6959a7711c508c5d5e9e0c7b",
+        "products": [
+          {
+            "_id": "6959a77b1c508c5d5e9e0f56",
+            "name": "Keyboard10618",
+            "amount": 923,
+            "price": 38680,
+            "manufacturer": "Samsung",
+            "notes": "2feACdgjJHM1aSotnmEccUXML5a6J2zGpDkb05rHNQbi0ysmZO2tMVXU7t1Ihtb9xt2vKXivXoz4Cp16n4IZFjcoU3oY3I8WBcbNrgHbG3A5saKNlF2kPqU8ZG70yxPz8ydGEmDrXnO6IF5bVJxPG5JKXNJpeLdr8qouGlyWWnPet8zj7uCtTUPl5GTQAw3lzKzJCiTmFGKo3mj6p13QtFcVANqI1iMjdpzOI6mfz16QIjf1wajXJQ9dhZ",
+            "received": false
+          }
+        ],
+        "delivery": null,
+        "total_price": 38680,
+        "createdOn": "2026-01-03T23:34:19.000Z",
+        "comments": [],
+        "history": [
+          {
+            "status": "Draft",
+            "customer": "6959a7711c508c5d5e9e0c7b",
+            "products": [
+              {
+                "_id": "6959a77b1c508c5d5e9e0f56",
+                "name": "Keyboard10618",
+                "amount": 923,
+                "price": 38680,
+                "manufacturer": "Samsung",
+                "notes": "2feACdgjJHM1aSotnmEccUXML5a6J2zGpDkb05rHNQbi0ysmZO2tMVXU7t1Ihtb9xt2vKXivXoz4Cp16n4IZFjcoU3oY3I8WBcbNrgHbG3A5saKNlF2kPqU8ZG70yxPz8ydGEmDrXnO6IF5bVJxPG5JKXNJpeLdr8qouGlyWWnPet8zj7uCtTUPl5GTQAw3lzKzJCiTmFGKo3mj6p13QtFcVANqI1iMjdpzOI6mfz16QIjf1wajXJQ9dhZ",
+                "received": false
+              }
+            ],
+            "total_price": 38680,
+            "delivery": null,
+            "changedOn": "2026-01-03T23:34:19.000Z",
+            "action": "Order created",
+            "performer": {
+              "_id": "6936ffc71c508c5d5e9a3764",
+              "username": "student21@gmail.com",
+              "firstName": "Jillian",
+              "lastName": "Lynch",
+              "roles": [
+                "USER"
+              ],
+              "createdOn": "2025/12/08 16:41:43"
+            },
+            "assignedManager": null
+          }
+        ],
+        "assignedManager": null
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

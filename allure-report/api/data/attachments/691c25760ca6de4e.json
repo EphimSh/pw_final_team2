@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:35:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-FW5xiYor6VH7AgidQx6tTu14uF8\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard34677",
+      "amount": 7,
+      "price": 6568,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T23:35:25.000Z",
+      "notes": "ZlLMEh3LX3Proy5jbz22iDiu1dsYfdMbCsMzdtTxk8I1ncYuDDzQNolMgl2nkiyFwdjA0CK9uPN5kAZReyxPkSp1MUE8SRJYrtxhWnG9j8E3TksyOFiTes8BHJD2sOA0vUZ0NLu6aUVViWZI0WFXSoMGpmCapynuAnV4jaH5UD3vEqRqgdqrHJwTMBi7eWjNaYNfrd1UJD2WVwN2eoL1mW1JJShUHWj0Q8KKh7YUicHD2j9Ffmz3E5rhHN",
+      "_id": "6959a7bd1c508c5d5e9e264a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

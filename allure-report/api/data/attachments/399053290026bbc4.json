@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:35:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-2WDgtquFX+9GRsV1lGXlOfjv0Io\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt67690",
+      "amount": 92,
+      "price": 34843,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T23:35:43.000Z",
+      "notes": "uvF19LulLMcgNN9uR1cWZgcFdPTCeC04bWCGcSMeegNnEoJQnJOiIFEdD6k7wXVRNx8n04P35DnwMbUG2fiT4DLcfL8d3VW8KwYhRVuJw8k02EpIYGeK4Km50EScSEUdllns3WOtSqr5GNaS398KG7poPO1XfSuYdkGQxJmtMLv2XfgaX8NQLaUihK2FWZRkELT8TStJ0d2BNlBkXhulM3Auz6btbab7NOrM7wyO3N7IEcrzPlUMyts1dx",
+      "_id": "6959a7cf1c508c5d5e9e2cb1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

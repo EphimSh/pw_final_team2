@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:32:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "333",
+    "etag": "W/\"14d-O5+O0xTboEXYok1FRnSkdpDKoqM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kaylie.Thompson@gmail.com",
+      "name": "SCpReVzdAzwEqHU",
+      "country": "Belarus",
+      "city": "LIkDiYPJfUWwHa",
+      "street": "AenQIaDBCpXDSyCWtxbPDqY20oQuZNZr3CNh6S4",
+      "house": 125,
+      "flat": 6,
+      "phone": "+4879153441",
+      "createdOn": "2026-01-03T23:32:39.000Z",
+      "notes": "",
+      "_id": "6959a7171c508c5d5e9df2b3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

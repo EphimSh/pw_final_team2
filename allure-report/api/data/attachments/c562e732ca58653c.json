@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:36:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "345",
+    "etag": "W/\"159-aOyM9m3nrqPyAlZFhEb0A8A3miw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Cedrick.Ratke@yahoo.com",
+      "name": "wOGLnORHvnTXmnQBrqqgdkd",
+      "country": "Russia",
+      "city": "pjNvj",
+      "street": "flMD68CVsKb2UwKhUrSkRk",
+      "house": 6,
+      "flat": 8,
+      "phone": "+4909743391",
+      "createdOn": "2026-01-03T23:36:12.000Z",
+      "notes": "btCIZBamE791XsxIM991UurmNJRA6779oou",
+      "_id": "6959a7ec1c508c5d5e9e3830"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:32:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-QUmwYdlHlmsKQYpwQ4EQBLTmdKE\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "6959a71e1c508c5d5e9df361",
+      "email": "Nickolas.Mertz@yahoo.com",
+      "name": "YLHeHSxdymsGPgsEPX",
+      "country": "Germany",
+      "city": "dpCRxYcklFVBAtkEeop",
+      "street": "YpwKI1zY8zCSDppkJFGrzHp7oOQVukjlwt3be7t",
+      "house": 61,
+      "flat": 7,
+      "phone": "+9828776273",
+      "createdOn": "2026-01-03T23:32:46.000Z",
+      "notes": "MDC1A7TwQt1JBhsOEGjLtHLiOMzyoKY2lZNdk8p0uOpYkKp9xWxH0UoBQvpJF0cf4BHsTFLavnMzMIZJKl4MMCj0oMoD9mxkElbhnJ5Ab0hjppoytR"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

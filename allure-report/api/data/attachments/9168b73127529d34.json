@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:34:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "526",
+    "etag": "W/\"20e-VZSzB1owPlGhff1bDUgD2BmZ0XQ\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Janessa77@hotmail.com",
+      "name": "ejMkUmPnCOttnBAxdYsjFPSiZlfgSksczZO",
+      "country": "Canada",
+      "city": "FidTLxAUx",
+      "street": "nqFh",
+      "house": 23,
+      "flat": 3,
+      "phone": "+6602858263",
+      "createdOn": "2026-01-03T23:34:42.000Z",
+      "notes": "aRDNvUGi3qzeriscTI3PFAClYGiZTktjqED2dJiFrQRWIZtmm1XgxJKNe85jq73O6f1wSnj4Vhy2MFYX30v1Z7DL9yagSDADSEZOCNfLOrMN6qIbQiHldLLsTV0SZq22eUYAzCaewqEfszV2QU2H0DzO4xIuqswZf8z3etLb2aejgcb3aF5NLDqXola7xvFNVMZp58rMv5cWVPFP4adyZA4clWc",
+      "_id": "6959a7921c508c5d5e9e17d0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:40:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-B/G0pIUqj9j7SDhL95w0MBZ6Ad4\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball26811",
+      "amount": 540,
+      "price": 35920,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T23:40:37.000Z",
+      "notes": "1x3xyaAgZRUxZV3vVaZxKxDG2et7DYRzwOBQaVSRdiLExwWmMnSmO26SzLQ8ecbah3cOMiXndRz0C1yiZw8QmZtRWswFLnDyec2X0zYJMwc7ucxrHDLgE2B3yg0XIazC2FWOeZHjP72bAo8hqun9DNM6PPiHFOfJy2eGOsRQbWBPmqAV2yi9erJQRlLInCKvokjwRc0SpClXoo1G99MBIZR9PFxd0RSxl8MZAHDjfMNRsJAkuzUnRR9htN",
+      "_id": "6959a8f51c508c5d5e9e8ecb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

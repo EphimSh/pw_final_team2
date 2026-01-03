@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:33:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-Gg7oPyDS2N5WXlyLLFL+m4BWBWo\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves91630",
+      "amount": 780,
+      "price": 69991,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T23:33:19.000Z",
+      "notes": "4hjI7kdDjLBgaj8fXYAV3NdUmDGN1ToqOfyvgv2RjwrBzE3XbcaL9i9U5Mlc1ZkQg7Np69OCVEijFCHugbB6cXNjH913viXKB2nFGczKHQCaJ7c69cyPUmOCHB3yZ2FojUKgARUpubc8o0oyLQdOcHlqV0rW3SOCmIXroPVuw1x8FeMvQ3znNBG5EUhmVPqUTQUHtIj9vdokFeNtxa0ev3d97zFjTGo6q0766T6SEY36fTJqfUFb5z0A9t",
+      "_id": "6959a73f1c508c5d5e9dfad0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

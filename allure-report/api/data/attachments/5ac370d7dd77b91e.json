@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:38:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "203",
+    "etag": "W/\"cb-BENURFWK4LqqeEW4rO43obiriBQ\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table6523",
+      "amount": 485,
+      "price": 38056,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T23:38:57.000Z",
+      "notes": "",
+      "_id": "6959a8911c508c5d5e9e733e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

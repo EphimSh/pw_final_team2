@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:35:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "370",
+    "etag": "W/\"172-yJ/DtBi2Ke9FTS+ZQ9a7mNjtMEQ\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Yazmin.Armstrong@yahoo.com",
+      "name": "WeUKRxIHzivQrwNLUa",
+      "country": "Great Britain",
+      "city": "FKLy",
+      "street": "nFSlnriN2fQhsbzMi1wGhaP",
+      "house": 190,
+      "flat": 2,
+      "phone": "+0994880920",
+      "createdOn": "2026-01-03T23:35:18.000Z",
+      "notes": "k7s1eeJq6aHKl2XCwpwPy4W44qIC6EGgoKfWF72o7nmwQm1QsuUP4",
+      "_id": "6959a7b61c508c5d5e9e23bd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

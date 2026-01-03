@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:40:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-qiXbL59mLRyB7XqF2RzMWDeib9g\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy S251704",
+      "amount": 532,
+      "price": 3100,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T23:40:36.000Z",
+      "notes": "xNF0WrOU0vVUo46Eo35h46BwnVzeA18RiSK0ztWBkS6bo6ns2Z8R3zHxmqeaNfO4FGmKvgZK9HMkPzA2r1batumr0ikAJUhhkgSZpwbQEXnXnsrg9Vt2DBpktfxx8nHmVYhF8mMew3SFWxnl11TnjAwKLoXaShyzNXUgesJJeVl01GJ4xHr33BMYeIflnZXk3lLJND3BiZjLCBcAdKaTIQNbI4b3uidlSCqkaTvwelLVCZ2hkEw67OJtSB",
+      "_id": "6959a8f41c508c5d5e9e8ebe"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

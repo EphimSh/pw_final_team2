@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:37:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-zEXcYUQnRKD5XELCQhO0Xfypk/Q\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat45985",
+      "amount": 541,
+      "price": 70445,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T23:37:19.000Z",
+      "notes": "Q4i3gv2aNLghDt9Qxoqzc7p6jYzfrT1IAZdIPCHnJzDBIht18UYwpNlWwBWtm9tdLbkvQuOubJ2hCSosICvlLnFScNy8hIUiixQDMMmXjG55lObHvpip4gpHf20ghYpT6JR7MoYvSX6oyEghoF9cyY4W5KKE2bmp4FqHLbYmaRYXuqqGyLvalXF3TRDGUy9FoB2458Wm8sI1ZS3O8h6uweqoJZ7hMeh0YtMMLA8v3zveNfmNuqxcufR6nu",
+      "_id": "6959a82f1c508c5d5e9e517b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

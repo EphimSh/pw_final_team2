@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:37:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-HodMJirxmyMfwNuZsKpByCUseDA\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish7997",
+      "amount": 848,
+      "price": 16639,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T23:36:58.000Z",
+      "notes": "0jc7aCD9LXwEv4CsCVzMRuUTaKl6xX0o6c3bUUKYGW0W0vl4xhKV0FBzItFJDCYdJ9r5r0b8EExTLQj3k2Cx2tiCAm651hx6pIhZ8NJ5X1l1c8hW8ynmzfx7Mgvlz972TXTwxFmGHyC40nz4Q0W53LseMh7FHJIancbmNuAjALdGIL02qu8YPE855PkxO0eXa6YXDHgXvcxQKYnHwRcUQFTQLS17XcXfZ2rcNWY7lmtP60plgxTZzWvOKT",
+      "_id": "6959a81a1c508c5d5e9e4b02"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

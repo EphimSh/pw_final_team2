@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:34:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-xSwVOo040uf5NzZJ/1r9tcwlqm8\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese24459",
+      "amount": 439,
+      "price": 52312,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T23:34:52.000Z",
+      "notes": "ftrR9Llc8IYvPLNhV1Z7bVCXx7AOuOK5B93jS9tVKTeWTEso8RA2vAvRwcswJJIYAGeKvvDAKn9sGCQw45lzNgF5e2YVBoB9S12eLnkV4HBCUnKOfrHX1SBMtXCj6fBnQf6YWQIJ1DOgOsxhUe5sKWnol4pNN1Xm1tp2cfMg1iJQHdhSsITVhCS5X6CrqL052TU64HKrXpkI1xI0scVgSAHhIyDDZD71LU4fv2IWDyXRrEMOiaFxy8jPiV",
+      "_id": "6959a79c1c508c5d5e9e1bb9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:39:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-EpiumfTIwXE7qQH/N9oXpfLkyqk\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro33436",
+      "amount": 874,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T23:39:45.000Z",
+      "notes": "rGnFdJd8FJjDBt7XHVUXjGwRUor4kjXuyCJSCOkvDbn9fawIKF4L3FeGFkszYpWiiy3L4IDVjgEznbtwGTOOXldwfh8QUX3XcImg3qNNWutye54gdQBpIb6XQ397JIGvwrMHaEOpOcDqmrDoXbNboeXSPDfnLH0ReQ0Mu7rNLlvCEdsNow8ExPvcIGX1cp6EBWwZGVGbvJ0wGddIzqI47dD3VKqM8Rbi4wQzqtBNGjFhZ6tm9XzbEzOurV",
+      "_id": "6959a8c11c508c5d5e9e7c89"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

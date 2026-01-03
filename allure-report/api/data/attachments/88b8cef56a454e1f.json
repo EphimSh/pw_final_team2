@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:35:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "428",
+    "etag": "W/\"1ac-u+jmFv3oDNFXYjnT1DdRXPwD3TY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Nathanael.Satterfield-Kautzer@gmail.com",
+      "name": "aSSciZkNunQeyZVdm",
+      "country": "Russia",
+      "city": "jx",
+      "street": "lUfnSTh36cn8WzMi6VIS9bfAWcKFGlGAAQa0RyZ",
+      "house": 173,
+      "flat": 3,
+      "phone": "+9400272293",
+      "createdOn": "2026-01-03T23:35:19.000Z",
+      "notes": "ap2RXfSGjRKZbzJz5zZbMLtzDagvFD32CcSOzBSDcR0WvVuKjUlg4DMLMICg5wlGqqPos4lTpTl4KMrN1q0cVnjnTBbD",
+      "_id": "6959a7b71c508c5d5e9e23c2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

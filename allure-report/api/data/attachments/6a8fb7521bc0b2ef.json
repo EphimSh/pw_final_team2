@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:33:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-I0ubyF/RvKuRTJOKUyfeRi3/cr8\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse99216",
+      "amount": 773,
+      "price": 82865,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T23:33:03.000Z",
+      "notes": "AP9G3dis1B2SxQwIMibZ0CwBI0YXBGcwYMF5yQjvrSkC5REfztZLX9sz3qgdmzI742wYCcFyc4Zhc3vnv1f7lM7sWtUblHTcSmAqZ7x8Ut5zP8tg1M65kzc5XeNuGM9UbvZDtGSIorNOddaB3KZj56lUSmrSy6XU6vgMcB79syIYJKBB3yTf7BxqTu7sLLbgsd2oQvUoahj1iW1i0PaAmBBUMXR1fxZ4XlmU0cl7xb2GRUovFJ5qYjCFsD",
+      "_id": "6959a72f1c508c5d5e9df50b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

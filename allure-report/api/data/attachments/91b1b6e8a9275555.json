@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:33:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-VKgdgNsWs6Xh/TL2N+OHTOYM7QA\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Alexandre66@hotmail.com",
+      "name": "eEMNhxTnDNfCSiczvvvmpxBqZVNvn",
+      "country": "Ukraine",
+      "city": "u",
+      "street": "hAiACKUlpiHaJwtxZOBkWfzBqPYb",
+      "house": 54,
+      "flat": 5,
+      "phone": "+2687955063",
+      "createdOn": "2026-01-03T23:33:06.000Z",
+      "notes": "Y4vRCQppdyDEs9Saq5ZiMVvhnIhTo9kfZKrcfPxkWpD4qByZDOF6cDPm7GRqtZqMJdki5R8cjjNZi7P2sQQKKsOKbQZsvGmfmnmBSUPsk4YLidjLzYN5hKzWvKl6xBrvvVk7nA3K",
+      "_id": "6959a7321c508c5d5e9df84f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

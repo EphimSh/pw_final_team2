@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:35:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-JGXNsfejuMP1mhSV5EUIMZkT5UI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike2750",
+      "amount": 480,
+      "price": 81080,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T23:35:43.000Z",
+      "notes": "fgkvb2rVoRxETjMJiIAKOY0jVjNAVLUpWQz1vEJDQaCdNIK4l3MFczswLdJhjJVcVjEfliaA3e6vlhtukmZemoerbnAbWO9EP2B2LZpUyV4FKXaSTC6wTOOoxudavAFRpy8w5ss0c9Hf5qgx3K6BGy5sOYyadlKmCz5NbqLkpjeC8qs5Vov9WDotyAvlnPJBDilz4lqUORr5LVhtLDVBL2Zzcftc7kfoAL87yCQn5g06aqIatqDhaQeyCd",
+      "_id": "6959a7cf1c508c5d5e9e2caf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

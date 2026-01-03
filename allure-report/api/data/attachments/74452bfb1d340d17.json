@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:36:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "354",
+    "etag": "W/\"162-tzZZFBjqY/Yuxq6n9KGYo2fj7Sc\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Haleigh.Ziemann12@gmail.com",
+      "name": "TlnXEHsbjoDNQecGSZstRISsNjVADrvDDND",
+      "country": "France",
+      "city": "cGQbcV",
+      "street": "QfHS1785TBx3iPJH39LUZ0KzCXvI6G2u",
+      "house": 28,
+      "flat": 2,
+      "phone": "+0005065469",
+      "createdOn": "2026-01-03T23:36:11.000Z",
+      "notes": "a7JTYPQsA0v5EpUV",
+      "_id": "6959a7eb1c508c5d5e9e380a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

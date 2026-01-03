@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:33:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-ywTvCX9TPjFfoJkF5/AdVMKGaYU\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips37554",
+      "amount": 629,
+      "price": 20825,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T23:33:19.000Z",
+      "notes": "yICL9EJAw1Qo7qKhQzgrGceDCBTNNuB9gMcShtrqskXwhVIKHdOESzbuA3JsV46hpUBEpv6YoRT8kWtU6wOIDBhjcaGODUO6nGIIJ7Xx5JDGZmODVY1uyRH5RZDzSL48ogip1N2DTeGMhK6CJvKmffJLw4ZiOC2uxw6pp6kjcO3hL4Pnjztr1b2RVaGQG6KxwkW8tnZ4CvYH9DXwf5CNHWfZl1H4ecyj7kaEY919TgxTpAJAaskbj67ans",
+      "_id": "6959a73f1c508c5d5e9dfad6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

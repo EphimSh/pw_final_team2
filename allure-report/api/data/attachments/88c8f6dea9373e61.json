@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:36:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "475",
+    "etag": "W/\"1db-3yl4BTLVTRglDDGjgXHQ8Fd8c9E\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Angel_Stracke52@yahoo.com",
+      "name": "FsabEQvwIndpVtGlXaVXqACXXnOHgZBlsIsfitGW",
+      "country": "Great Britain",
+      "city": "kitHdUr",
+      "street": "MQk2FnIPkpDboZSxjbMcLrmXMh3J",
+      "house": 10,
+      "flat": 4,
+      "phone": "+8829888462",
+      "createdOn": "2026-01-03T23:36:03.000Z",
+      "notes": "CcTYNUpLjnC2l1tovQOOw3WxKpSeezgrGWTLvTnCqGYQosvPufInVfE1MXzkqC4Q6SUk5XWni6KXUoLXPawpal1Oe6JX9bccGqHQZIZeoFrEueu7CbQL6X4J8zRfCk6Ihe",
+      "_id": "6959a7e31c508c5d5e9e3453"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

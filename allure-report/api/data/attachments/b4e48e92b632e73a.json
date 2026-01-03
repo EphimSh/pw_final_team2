@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:33:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1745",
+    "etag": "W/\"6d1-Io4h2q6uzO/MSIOpDTl7jEtW1GM\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959a7621c508c5d5e9e066d",
+      "status": "Draft",
+      "customer": {
+        "_id": "6959a75a1c508c5d5e9e0614",
+        "email": "Shanny_Streich@gmail.com",
+        "name": "dqqdFTKhJMwQZuIkbqZiiFisJNYRvrQ",
+        "country": "Germany",
+        "city": "ejUYmYM",
+        "street": "eR0rfSH",
+        "house": 115,
+        "flat": 3,
+        "phone": "+5651673076",
+        "createdOn": "2026-01-03T23:33:46.000Z",
+        "notes": "0w3czl1sdqH3nphbdvSh24P3UNEoaFMh6akQOla7pg7UL1lfgtMq6oohimTUhIT86oaGkP7KSnWsN2OiCPSuedzNs8xEak1xBbVWFB0stT6K"
+      },
+      "products": [
+        {
+          "_id": "6959a7621c508c5d5e9e065d",
+          "name": "Bike39211",
+          "amount": 821,
+          "price": 22411,
+          "manufacturer": "Amazon",
+          "notes": "XjL33nalpqgueqEK6p36ljcrLXvcnFl5Du7WcwvM2PaK7hGNBbRfF2HVkUeHpMgmPcXSf1iCTKPO47szrbvZZfUBl46u3hHDI0CnDpzEQxz6QVQV73Nq6DikYAL1x3Sv1jXYOemTCZG3W9jBcKKWrVVfEPxAjbaSRb8zMfYx58zLewGZU06g2MJLzfqclAJqqiIJ0zR9LsQkUNhTKV5CsgZWKsrAZa8wiBHnisxfgyMJwY0oavrmvZiLTN",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 22411,
+      "createdOn": "2026-01-03T23:33:54.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6959a75a1c508c5d5e9e0614",
+          "products": [
+            {
+              "_id": "6959a7621c508c5d5e9e065d",
+              "name": "Bike39211",
+              "amount": 821,
+              "price": 22411,
+              "manufacturer": "Amazon",
+              "notes": "XjL33nalpqgueqEK6p36ljcrLXvcnFl5Du7WcwvM2PaK7hGNBbRfF2HVkUeHpMgmPcXSf1iCTKPO47szrbvZZfUBl46u3hHDI0CnDpzEQxz6QVQV73Nq6DikYAL1x3Sv1jXYOemTCZG3W9jBcKKWrVVfEPxAjbaSRb8zMfYx58zLewGZU06g2MJLzfqclAJqqiIJ0zR9LsQkUNhTKV5CsgZWKsrAZa8wiBHnisxfgyMJwY0oavrmvZiLTN",
+              "received": false
+            }
+          ],
+          "total_price": 22411,
+          "delivery": null,
+          "changedOn": "2026-01-03T23:33:54.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

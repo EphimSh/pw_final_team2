@@ -1,0 +1,209 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:38:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "5336",
+    "etag": "W/\"14d8-8Olr0Z28as7OZPjIW+HwHiET7Fc\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959a8621c508c5d5e9e60d3",
+      "status": "In Process",
+      "customer": {
+        "_id": "6959a8581c508c5d5e9e5dda",
+        "email": "Mustafa7@hotmail.com",
+        "name": "k",
+        "country": "Belarus",
+        "city": "kvKWusLHMeZPJBU",
+        "street": "gshsU4LrhlFWL9xw5xkZlt9U0M6JR4p6w6pj9FIo",
+        "house": 43,
+        "flat": 2,
+        "phone": "+0443170115",
+        "createdOn": "2026-01-03T23:38:00.000Z",
+        "notes": "SINcZkLNuXDpgBLxA3krE8nJdT5FMtJPekObVDLB2mJejVVJBXUmQ59IqKHPSBgy7eJQyPczAr1oQS5lLCsN6FSGRUStEkftk7K8FcjefiKcggdLlCkLpNI1FI8l7QZmooG0khBH9vZ4V9qHi8Jbgp"
+      },
+      "products": [
+        {
+          "_id": "6959a85c1c508c5d5e9e6046",
+          "name": "Fish3590",
+          "amount": 842,
+          "price": 4736,
+          "manufacturer": "Tesla",
+          "notes": "eoYSk4K3qw0MHncXDgTozAuNYYwib3kKvQsFAFrw02fhFHMOtMtUzFGFauHwxGxuW67LVTxafM9PBMI3w92N7l8i6KMKIb15yxfh1bLTEfEY3tDWCLoXQ2PlxRdGadCONprlQFUq9pwlEdobz2VGlQyipYIMWTRGGpFe66xIdTQIA5A7h3dn3NK6iJB3bCNTGZTOWAp8OvDrKys1XnZd1oRC2rxTzuhGYBsEK53w0a0uHQwFc9WkvvIOsS",
+          "received": false
+        },
+        {
+          "_id": "6959a8621c508c5d5e9e60c9",
+          "name": "Hat67789",
+          "amount": 399,
+          "price": 71061,
+          "manufacturer": "Samsung",
+          "notes": "aSTatTKCXRWJo9R8m4oehGbP2b5ZSuwmSNDnDn7DQv69ggPCcZa783wtzFz9VcCw6dqUqmbA4jxZ5ekjnNEJWmdCrnEw0i7WjCcMHstWiI65VaWjl6kX6ikQDgZ5wquNnyVJa0UYZTu4qFSBuO8jzNZnLXNPAuD51YDOlIt2qq2lhCGD7rtCwCCCrJVz2DPidkrrZanYseAK4DOxtLk2wyyTtWrBcQfcECIwL9g3mDamkuLlQdVixAEdez",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Germany",
+          "city": "Mock City nbAyzXCN",
+          "street": "MockStreets7duH",
+          "house": 88,
+          "flat": 12
+        },
+        "finalDate": "2026-01-08T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 75797,
+      "createdOn": "2026-01-03T23:38:10.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "In Process",
+          "customer": "6959a8581c508c5d5e9e5dda",
+          "products": [
+            {
+              "_id": "6959a85c1c508c5d5e9e6046",
+              "name": "Fish3590",
+              "amount": 842,
+              "price": 4736,
+              "manufacturer": "Tesla",
+              "notes": "eoYSk4K3qw0MHncXDgTozAuNYYwib3kKvQsFAFrw02fhFHMOtMtUzFGFauHwxGxuW67LVTxafM9PBMI3w92N7l8i6KMKIb15yxfh1bLTEfEY3tDWCLoXQ2PlxRdGadCONprlQFUq9pwlEdobz2VGlQyipYIMWTRGGpFe66xIdTQIA5A7h3dn3NK6iJB3bCNTGZTOWAp8OvDrKys1XnZd1oRC2rxTzuhGYBsEK53w0a0uHQwFc9WkvvIOsS",
+              "received": false
+            },
+            {
+              "_id": "6959a8621c508c5d5e9e60c9",
+              "name": "Hat67789",
+              "amount": 399,
+              "price": 71061,
+              "manufacturer": "Samsung",
+              "notes": "aSTatTKCXRWJo9R8m4oehGbP2b5ZSuwmSNDnDn7DQv69ggPCcZa783wtzFz9VcCw6dqUqmbA4jxZ5ekjnNEJWmdCrnEw0i7WjCcMHstWiI65VaWjl6kX6ikQDgZ5wquNnyVJa0UYZTu4qFSBuO8jzNZnLXNPAuD51YDOlIt2qq2lhCGD7rtCwCCCrJVz2DPidkrrZanYseAK4DOxtLk2wyyTtWrBcQfcECIwL9g3mDamkuLlQdVixAEdez",
+              "received": false
+            }
+          ],
+          "total_price": 75797,
+          "delivery": {
+            "address": {
+              "country": "Germany",
+              "city": "Mock City nbAyzXCN",
+              "street": "MockStreets7duH",
+              "house": 88,
+              "flat": 12
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-03T23:38:11.000Z",
+          "action": "Order processing started",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959a8581c508c5d5e9e5dda",
+          "products": [
+            {
+              "_id": "6959a85c1c508c5d5e9e6046",
+              "name": "Fish3590",
+              "amount": 842,
+              "price": 4736,
+              "manufacturer": "Tesla",
+              "notes": "eoYSk4K3qw0MHncXDgTozAuNYYwib3kKvQsFAFrw02fhFHMOtMtUzFGFauHwxGxuW67LVTxafM9PBMI3w92N7l8i6KMKIb15yxfh1bLTEfEY3tDWCLoXQ2PlxRdGadCONprlQFUq9pwlEdobz2VGlQyipYIMWTRGGpFe66xIdTQIA5A7h3dn3NK6iJB3bCNTGZTOWAp8OvDrKys1XnZd1oRC2rxTzuhGYBsEK53w0a0uHQwFc9WkvvIOsS",
+              "received": false
+            },
+            {
+              "_id": "6959a8621c508c5d5e9e60c9",
+              "name": "Hat67789",
+              "amount": 399,
+              "price": 71061,
+              "manufacturer": "Samsung",
+              "notes": "aSTatTKCXRWJo9R8m4oehGbP2b5ZSuwmSNDnDn7DQv69ggPCcZa783wtzFz9VcCw6dqUqmbA4jxZ5ekjnNEJWmdCrnEw0i7WjCcMHstWiI65VaWjl6kX6ikQDgZ5wquNnyVJa0UYZTu4qFSBuO8jzNZnLXNPAuD51YDOlIt2qq2lhCGD7rtCwCCCrJVz2DPidkrrZanYseAK4DOxtLk2wyyTtWrBcQfcECIwL9g3mDamkuLlQdVixAEdez",
+              "received": false
+            }
+          ],
+          "total_price": 75797,
+          "delivery": {
+            "address": {
+              "country": "Germany",
+              "city": "Mock City nbAyzXCN",
+              "street": "MockStreets7duH",
+              "house": 88,
+              "flat": 12
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-03T23:38:11.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959a8581c508c5d5e9e5dda",
+          "products": [
+            {
+              "_id": "6959a85c1c508c5d5e9e6046",
+              "name": "Fish3590",
+              "amount": 842,
+              "price": 4736,
+              "manufacturer": "Tesla",
+              "notes": "eoYSk4K3qw0MHncXDgTozAuNYYwib3kKvQsFAFrw02fhFHMOtMtUzFGFauHwxGxuW67LVTxafM9PBMI3w92N7l8i6KMKIb15yxfh1bLTEfEY3tDWCLoXQ2PlxRdGadCONprlQFUq9pwlEdobz2VGlQyipYIMWTRGGpFe66xIdTQIA5A7h3dn3NK6iJB3bCNTGZTOWAp8OvDrKys1XnZd1oRC2rxTzuhGYBsEK53w0a0uHQwFc9WkvvIOsS",
+              "received": false
+            },
+            {
+              "_id": "6959a8621c508c5d5e9e60c9",
+              "name": "Hat67789",
+              "amount": 399,
+              "price": 71061,
+              "manufacturer": "Samsung",
+              "notes": "aSTatTKCXRWJo9R8m4oehGbP2b5ZSuwmSNDnDn7DQv69ggPCcZa783wtzFz9VcCw6dqUqmbA4jxZ5ekjnNEJWmdCrnEw0i7WjCcMHstWiI65VaWjl6kX6ikQDgZ5wquNnyVJa0UYZTu4qFSBuO8jzNZnLXNPAuD51YDOlIt2qq2lhCGD7rtCwCCCrJVz2DPidkrrZanYseAK4DOxtLk2wyyTtWrBcQfcECIwL9g3mDamkuLlQdVixAEdez",
+              "received": false
+            }
+          ],
+          "total_price": 75797,
+          "delivery": null,
+          "changedOn": "2026-01-03T23:38:10.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

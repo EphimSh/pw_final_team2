@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:40:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-tDwlHI87eP49e1+QIjOqOKZGwxM\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "6959a8f51c508c5d5e9e8ed0",
+      "name": "Bike84298",
+      "amount": 250,
+      "price": 4772,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T23:40:37.000Z",
+      "notes": "5tRe2ewXNE5MocOqAIxERC6qrPfICz56HgJUQlIbwhGkuR8FduUvYQ980gKhCWTyEeKlqjYftuUxByt4CuChEYbj3bNuDncGCW0hqGspZhrgMP82qlF1U0nzEF1xmoTDhcqVE3QQWf2z2Vz3PP9KFfsiWDwcJ0xjFaGHNFnmrnNVLJm1DeEd8nfKg4pxkMIYCs4HxK8TvwtfXB6AWjVwJRtWyxoscq3IYJgRGqSxeiieZJSoyEEj3yYBLK"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

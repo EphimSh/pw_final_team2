@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:32:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "347",
+    "etag": "W/\"15b-AxBLRR8rQv2YVJCoEbi4GGRxOvg\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Randi_Stiedemann@gmail.com",
+      "name": "gAGuqYdfvyuwxPkiKTDnI",
+      "country": "Great Britain",
+      "city": "jyqYWDyJPQryv",
+      "street": "7b1ZlouP9LJt9zbTiQOf2O",
+      "house": 135,
+      "flat": 5,
+      "phone": "+8623696597",
+      "createdOn": "2026-01-03T23:32:49.000Z",
+      "notes": "AIZywnO3Ajdo5pCkFJZ",
+      "_id": "6959a7211c508c5d5e9df370"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

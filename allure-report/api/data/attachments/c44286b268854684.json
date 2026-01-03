@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:34:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-TN6ubap4PAZ4LhxCRufnwp2OnDk\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap25764",
+      "amount": 185,
+      "price": 98753,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T23:34:13.000Z",
+      "notes": "qHisqMrxaAprnwQdC4pbxh0ykntDNC4iYZruJQaujzK1qYhyldskFCqPGuDdLzy9MzUibnBHnIgrbWEct6QHMc8x0KSwO5WFkGVsCY4gSFjuhy7fi7NRYAs3oBFgeUG2waO4hCcLKKkAFjvJjmYQoqCvvV8ApbnoPY95QSkeyclERKGb1VQHSWJVkqmETqu5pr2nIVDQVjWzTfm4XW1I69jOpZRAmCLEl3B22bSyv7Sys1luTNtYAGt9CI",
+      "_id": "6959a7751c508c5d5e9e0eaf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

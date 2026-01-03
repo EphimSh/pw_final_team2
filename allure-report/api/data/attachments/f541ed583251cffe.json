@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:40:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-rsJOlKM1CXcwAvdfp8NYSbEwzP8\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra82413",
+      "amount": 437,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T23:40:49.000Z",
+      "notes": "OeRKXJ3Ob3ZClmDhgDAa7w94yM8XJC3SR2kepWjCu8fM7epOry5fVZDoFzvmOPnZuCQ0u8GBP31D6gB1tDNsJ6PWEN6rtomZ4zQcKHoeigBR8W5NTOBBXhjSJ32akBUDEIJtPXwN6jYYhs6n7V9pncXW41voncQfqdbvfp2b6YI0EWfmoT8o6YDM4CuPV2E8ELo3ZZfa3Qt2y22fbQjyyP5yu5BECj5waTV6aWq3DDD1WFIRgyzBQWGLfQ",
+      "_id": "6959a9011c508c5d5e9e924c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

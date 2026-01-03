@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:37:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "405",
+    "etag": "W/\"195-D3FLgURiwuh/w5shO9KXHZ6U2P4\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jany45@gmail.com",
+      "name": "wUtMOmArCCBqSWOM",
+      "country": "Great Britain",
+      "city": "OOKgFRuLmNgahCYgVaR",
+      "street": "6qInN6VXf0ifwq5JVy2uqmlAX5Hd",
+      "house": 164,
+      "flat": 8,
+      "phone": "+6210916858",
+      "createdOn": "2026-01-03T23:37:51.000Z",
+      "notes": "YyKF2wCpht5qHOwEdtyVDHPVlMpzH3jNcQ2Xbvmj5RtF8m0aKfVgVwC3jDDyoENvNjXpaZj0NcXguSu4",
+      "_id": "6959a84f1c508c5d5e9e5a12"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

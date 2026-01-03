@@ -1,0 +1,94 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:33:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2075",
+    "etag": "W/\"81b-/9e7uMtas/7R/bWFS9XyB0J+i0I\"",
+    "keep-alive": "timeout=5, max=66",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959a7651c508c5d5e9e07fd",
+      "status": "Draft",
+      "customer": {
+        "_id": "6959a7601c508c5d5e9e0651",
+        "email": "Dayne_Harris@hotmail.com",
+        "name": "zMnVEYpaCmDfGwtbjQryNXlWWenwghzUYguf",
+        "country": "USA",
+        "city": "Ok",
+        "street": "REhN48",
+        "house": 190,
+        "flat": 4,
+        "phone": "+2195894176",
+        "createdOn": "2026-01-03T23:33:52.000Z",
+        "notes": "9Z0k8HbX4AzfzGd9"
+      },
+      "products": [
+        {
+          "_id": "6959a7651c508c5d5e9e07e7",
+          "name": "Hat81439",
+          "amount": 601,
+          "price": 88522,
+          "manufacturer": "Sony",
+          "notes": "MrxIVsaLGYKomH2gDwVpDGaGOsUDH4h2ByyBFbQpx0D1xTIDe63mdjsxDbndy4xMBn3vr6xi1If7vCTgxgLEvPdGRXs8PaFWdRm7QEBSY6yDuKYPXhQtUtFYjk1nyup84b96uWugzLgA8rghTpDWegrTfRM3tTyGdv2DSi4WdtWGjJpyGTmL0H5hv93WQyi8jv0BLBMbseB69TWrLTlxG9FVMxLJFnCWqIhwuk67lsvohQ3zaYpbz7bkn2",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 88522,
+      "createdOn": "2026-01-03T23:33:57.000Z",
+      "comments": [
+        {
+          "text": "HD33FwfSRppsbs75fCwzSJ8AqS9DXTHiU4UVzXz01CfV3MNqwDLMji3njSnSZJvKy02FEpjmI7kghDfR2sLHxe703iBcROoWvwW8qpxV7AJaRmF0WLwZUdGBJZZqwzDB0I8R",
+          "createdOn": "2026-01-03T23:33:57.000Z",
+          "_id": "6959a7651c508c5d5e9e0811"
+        },
+        {
+          "text": "deLmWgM1VTuHjAnqPcnQVD44DpUnTabMl2ceTSOac8hGDODEOxnyAsIQB3t7VormVlXmU5wzgzo3utR1Em1zSZlBqmSfm0tNV1IZGh1dJBABIvlLn7HMqj0pw2DfLMa0KwAMb4",
+          "createdOn": "2026-01-03T23:33:58.000Z",
+          "_id": "6959a7661c508c5d5e9e0834"
+        }
+      ],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6959a7601c508c5d5e9e0651",
+          "products": [
+            {
+              "_id": "6959a7651c508c5d5e9e07e7",
+              "name": "Hat81439",
+              "amount": 601,
+              "price": 88522,
+              "manufacturer": "Sony",
+              "notes": "MrxIVsaLGYKomH2gDwVpDGaGOsUDH4h2ByyBFbQpx0D1xTIDe63mdjsxDbndy4xMBn3vr6xi1If7vCTgxgLEvPdGRXs8PaFWdRm7QEBSY6yDuKYPXhQtUtFYjk1nyup84b96uWugzLgA8rghTpDWegrTfRM3tTyGdv2DSi4WdtWGjJpyGTmL0H5hv93WQyi8jv0BLBMbseB69TWrLTlxG9FVMxLJFnCWqIhwuk67lsvohQ3zaYpbz7bkn2",
+              "received": false
+            }
+          ],
+          "total_price": 88522,
+          "delivery": null,
+          "changedOn": "2026-01-03T23:33:57.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:40:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-dyMV1LtYNk+sjE4K2sZTmmloxVI\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball53749",
+      "amount": 462,
+      "price": 77095,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T23:40:56.000Z",
+      "notes": "yPguDlY1RiVRRcy2yiMNNCvnE1HtgEBu9PIEiAZd2ZtMHq3smit4MhVyNAYILDto5TxhI20OOGORAqRCMbRsaVOcOgz15EDmF2Pz68Aad7sowSqwJbBWd9WepN8M7a3bnwDObBKNfmuzDQH4ANyaMvpI6QFK9ExaZErvsXgAbZl0Xc91adTlGc3ql4pZWNdGKzHYVh6Yb85HK9AVdWJpFACCJsxDTpSIbJRdUT1pq7J0f6iBlGnOENH1s6",
+      "_id": "6959a9081c508c5d5e9e938c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

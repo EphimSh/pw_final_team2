@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:39:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-YikdDztz9otIsKYLmJel4c2PqpA\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra63491",
+      "amount": 238,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T23:39:45.000Z",
+      "notes": "CXoD2lTXR2YjrKkPxIhRlRfapu9Vd9na3QZFZD0GgpVRqpP8G9wtYK9VensXfP5yrnMWTLa22isUx0tQCKrYgLF32XuNeaiYwekhV2WdxFUQkld6Baok2nOeKrCj0wh8XtHBddwQSpLL6PA3OYqqWO3A5AAX1U7XPmn8KKrq1bK7B0BsLlL5wauQWk8lF83ZHAz04eV69wgbq2rF5j8gQ3foe5k9V8GZmgNR6sS3uwDE22rvqP8CBaEJxx",
+      "_id": "6959a8c11c508c5d5e9e7c7f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:39:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-4kPPmKCXhmGfW2xLOqKPn5liPLA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car56730",
+      "amount": 301,
+      "price": 3257,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T23:39:13.000Z",
+      "notes": "SSGCklzJIqmGdj0gSIF7h36LYk9QAzJnKfj0l9xkaE4LGaQQsUebeztQxCKgay9nk39iUzKtRkCwbZPthltuf5ufun0TY1w7UiqNtuUcuGUQN30HFBKGzzqQoe6iyXj0Yfi6KUy5r0mKrjj9bcTst75zISZpkqegfDIA2ozG1QbR2U8JTZ3GyfslFhIHElPT2dbYEFlK0ix0sy0ub1HAOYMJ8qfbgHu7Ea5ouXYDDzEDx5O4bnljX03Aps",
+      "_id": "6959a8a11c508c5d5e9e7505"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

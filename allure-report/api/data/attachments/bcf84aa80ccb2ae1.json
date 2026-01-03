@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:37:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-GMBrrrlkKO2B3C+83gOsQOhZY7Y\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard10067",
+      "amount": 555,
+      "price": 45063,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T23:37:37.000Z",
+      "notes": "Cp3wem7iczKIiUbk9Z8hh0mwc0tWTFbTJmmDqdIjIpG7MVanydttcawUNhs3cy9rgEJLH0wSD6w53lc73QHXs9UBRnZ3Sq4HbnEwizkI9DONJ2R2cXoaDmWJXWS79hGDh6QvWy3FRznl7DuUrN66Tv8tpPu5ezETDoJ17OHI2668tZYvuDQOlcIfuKqUyIOK1TMn3GUcg6onBMLHJOcLBGBAciSYRk40DENfCrgrW2iryZgzR9kHWgkmi9",
+      "_id": "6959a8411c508c5d5e9e55f3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

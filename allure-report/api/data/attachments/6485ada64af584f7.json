@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:38:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "414",
+    "etag": "W/\"19e-3rjxBrbSB6UrqZd8pBytVQ8UvCw\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jordan97@gmail.com",
+      "name": "fPKuilvIRtshNAsgLQDwlDw",
+      "country": "Russia",
+      "city": "NTnGIxczxSXOKboTch",
+      "street": "MNtyD1th36gPRzEdma8Ussc",
+      "house": 89,
+      "flat": 8,
+      "phone": "+8360574290",
+      "createdOn": "2026-01-03T23:38:00.000Z",
+      "notes": "3E4kncV5nWyxpm7DI9mfuyn7d3TMtPCLZxcjoWz6DnGtrNrSa9KtZLy332Jh4v1slyq24WQtnoLz2fT6nwWS3xFxju4aKN",
+      "_id": "6959a8581c508c5d5e9e5ddc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

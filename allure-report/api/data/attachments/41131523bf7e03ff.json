@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:33:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "350",
+    "etag": "W/\"15e-HCnVfwopB6KiA4eb4TZ42i++ZWo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ottis53@hotmail.com",
+      "name": "NCaMHgVitFpmOjvPrpjLPXXjKtgmGb",
+      "country": "Ukraine",
+      "city": "RaQhHvSiJ",
+      "street": "EDWPIFxYnCyZakF9nF7ZbzWXFDkbx2X8",
+      "house": 51,
+      "flat": 6,
+      "phone": "+2633444985",
+      "createdOn": "2026-01-03T23:33:39.000Z",
+      "notes": "fMWE5gips0Br4foXxDR60",
+      "_id": "6959a7531c508c5d5e9e03c9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

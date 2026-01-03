@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:41:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-C2qKwMO6lrJtdNbDDTGdef2zLUg\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra23417",
+      "amount": 405,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T23:41:05.000Z",
+      "notes": "9ixXRX6EqIKVRDyQHkeuLYAVgD3vuJSUa8A01PZkn97v09OMWQcWJOe44j9VKIl72JfHj0vNkFChphON7fAtzMrS83uRsKuZUanQDQvl9M5CjmUb1Uwu5tgsmMlVFjWeuF5mrzcPxZ303KNvYax8QuAFfWSzTvi2R1nkvx0nBNs1ZbNfD2lBhpjd6Q3u5Mnv3es1G89qSmfP4zLctgMER0V2DpO8uU9qbcu8HQynZ7XKrcQ4C5HBMRSrQS",
+      "_id": "6959a9111c508c5d5e9e96fb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
