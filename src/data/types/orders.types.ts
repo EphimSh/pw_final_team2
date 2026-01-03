@@ -110,3 +110,12 @@ export interface ICommendUIData {
   commentator: string;
   createdOn: string;
 }
+
+export interface IGetOrdersParams {
+  page?: number;
+  limit?: number;
+  search?: string;
+  status?: ORDER_STATUSES[];
+  sortField?: OrdersSortField;
+  sortOrder?: SortOrder;
+}

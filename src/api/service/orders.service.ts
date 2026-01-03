@@ -3,11 +3,21 @@ import { CustomersApiService } from "./customers.service";
 import { ProductsApiService } from "./products.service";
 import { validateResponse } from "utils/validation/validateResponse.utils";
 import { STATUS_CODES } from "data/statusCode";
-import { IDeliveryInfo, IOrderCreateBody, ORDER_STATUSES } from "data/types/orders.types";
+import {
+  IDeliveryInfo,
+  IGetOrdersParams,
+  IOrderCreateBody,
+  IOrdersResponse,
+  ORDER_STATUSES,
+  OrdersSortField,
+  IOrder,
+  IOrderResponse,
+} from "data/types/orders.types";
 import { createOrderSchema } from "data/schemas/orders/create.schema";
 import { generateDeliveryData } from "data/orders/generateDeliveryData";
 import { expect } from "fixtures/api.fixtures";
 import { convertToDate } from "utils/date.utils";
+import { IResponse, SortOrder } from "data/types/core.types";
 
 export class OrdersApiService {
   constructor(
@@ -25,6 +35,27 @@ export class OrdersApiService {
       schema: createOrderSchema,
     });
     return response.body.Order;
+  }
+
+  async getOrderById(token: string, id: string) {
+    const response = await this.ordersApi.getByID(id, token);
+    validateResponse(response, {
+      status: STATUS_CODES.OK,
+      IsSuccess: true,
+      ErrorMessage: null,
+      schema: createOrderSchema,
+    });
+    return response.body.Order;
+  }
+
+  async getOrdersList(token: string, params?: Partial<IGetOrdersParams>) {
+    const response = await this.ordersApi.getSorted(token, params);
+    validateResponse(response, {
+      status: STATUS_CODES.OK,
+      IsSuccess: true,
+      ErrorMessage: null,
+    });
+    return response.body.Orders;
   }
 
   async createDraftOrder(token: string, numberOFProducts = 1) {
@@ -59,6 +90,15 @@ export class OrdersApiService {
     return orderWithDelivery.body.Order;
   }
 
+  async createOrders(token: string, numberOfOrders: number) {
+    const orders: IOrder[] = [];
+    for (let i = 0; i < numberOfOrders; i++) {
+      const order = await this.createDraftOrderWithDelivery(token);
+      orders.push(order);
+    }
+    return orders;
+  }
+
   async createInProsessOrder(token: string, numberOFProducts = 1) {
     const createdOrder = await this.createDraftOrderWithDelivery(token, numberOFProducts);
     const order = await this.ordersApi.updateStatus(
@@ -81,6 +121,28 @@ export class OrdersApiService {
       token,
     );
     return order.body.Order;
+  }
+
+  async assignManager(orderId: string, managerId: string, token: string) {
+    const response = await this.ordersApi.assignManager(orderId, managerId, token);
+    validateResponse(response, {
+      status: STATUS_CODES.OK,
+      IsSuccess: true,
+      ErrorMessage: null,
+      schema: createOrderSchema,
+    });
+    return response.body.Order;
+  }
+
+  async unassignManager(orderId: string, token: string) {
+    const response = await this.ordersApi.unassignManager(orderId, token);
+    validateResponse(response, {
+      status: STATUS_CODES.OK,
+      IsSuccess: true,
+      ErrorMessage: null,
+      schema: createOrderSchema,
+    });
+    return response.body.Order;
   }
 
   async deleteOrder(id: string, token: string) {
@@ -115,9 +177,69 @@ export class OrdersApiService {
     expect(orderComments.find((c) => c._id === commentID)).toBeFalsy();
   }
 
+  async assertOrderInList(
+    response: IResponse<IOrdersResponse>,
+    order: IOrder,
+    withStatuses?: ORDER_STATUSES | ORDER_STATUSES[],
+  ) {
+    validateResponse(response, {
+      status: STATUS_CODES.OK,
+      IsSuccess: true,
+    });
+    const found = response.body.Orders.find((el) => el._id === order._id);
+    expect.soft(found, "Created order should be in response").toBeTruthy();
+    if (withStatuses) {
+      const allowedStatuses = Array.isArray(withStatuses) ? withStatuses : [withStatuses];
+      const onlyAllowed = response.body.Orders.every((item) => allowedStatuses.includes(item.status));
+      expect.soft(onlyAllowed, `All orders should have status in ${allowedStatuses.join(", ")}`).toBe(true);
+    }
+  }
+
+  async assertOrdersInList(
+    response: IResponse<IOrdersResponse>,
+    orders: IOrder[],
+    withStatuses?: ORDER_STATUSES | ORDER_STATUSES[],
+  ) {
+    for (const order of orders) {
+      await this.assertOrderInList(response, order, withStatuses);
+    }
+  }
+
+  async assertSortedResponseMeta(
+    response: IResponse<IOrdersResponse>,
+    sortField: OrdersSortField,
+    sortOrder: SortOrder,
+    expectedLimit: number,
+    minTotal = 1,
+  ) {
+    validateResponse(response, {
+      status: STATUS_CODES.OK,
+      IsSuccess: true,
+    });
+    const { limit, search, status, total, page, sorting } = response.body;
+    expect.soft(limit, `Limit should be ${expectedLimit}`).toBe(expectedLimit);
+    expect.soft(search).toBe("");
+    expect.soft(status).toEqual([]);
+    expect.soft(page).toBe(1);
+    expect.soft(sorting).toEqual({ sortField, sortOrder });
+    expect.soft(total).toBeGreaterThanOrEqual(minTotal);
+  }
+
   assertDeliveryDetailsAreEdited(expectedDelivery: IDeliveryInfo, actualDelivery: IDeliveryInfo) {
     expect(actualDelivery.address).toEqual(expectedDelivery.address);
     expect(convertToDate(actualDelivery.finalDate)).toEqual(expectedDelivery.finalDate);
     expect(actualDelivery.condition).toEqual(expectedDelivery.condition);
+  }
+
+  async assertOrderRelatedDataLoaded(response: IResponse<IOrderResponse>, commentText?: string) {
+    const { customer, products, delivery, comments, history } = response.body.Order;
+    expect.soft(customer).toBeTruthy();
+    expect.soft(products.length).toBeGreaterThan(0);
+    expect.soft(delivery).not.toBeNull();
+    expect.soft(comments.length).toBeGreaterThan(0);
+    expect.soft(history.length).toBeGreaterThan(0);
+    if (commentText) {
+      expect.soft(comments.some((c) => c.text === commentText)).toBe(true);
+    }
   }
 }

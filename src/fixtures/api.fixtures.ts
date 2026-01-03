@@ -10,6 +10,8 @@ import { NotificationsApiService } from "api/service/notification.service";
 import { PlaywrightApiClient } from "api/apiClients/PWApiClient";
 import { OrdersApi } from "api/api/orders.api";
 import { OrdersApiService } from "api/service/orders.service";
+import { UsersApi } from "api/api/users.api";
+import { UsersApiService } from "api/service/users.service";
 
 export interface IApi {
   // api
@@ -18,6 +20,7 @@ export interface IApi {
   customerApi: CustomersApi;
   notificationApi: NotificationApi;
   ordersApi: OrdersApi;
+  usersApi: UsersApi;
 
   //services
   productsApiService: ProductsApiService;
@@ -25,6 +28,7 @@ export interface IApi {
   customerApiService: CustomersApiService;
   notificationApiService: NotificationsApiService;
   ordersApiService: OrdersApiService;
+  usersApiService: UsersApiService;
 }
 
 const test = base.extend<IApi>({
@@ -59,6 +63,12 @@ const test = base.extend<IApi>({
     await use(api);
   },
 
+  usersApi: async ({ request }, use) => {
+    const apiClient = new PlaywrightApiClient(request);
+    const api = new UsersApi(apiClient);
+    await use(api);
+  },
+
   //services
   productsApiService: async ({ productsApi }, use) => {
     await use(new ProductsApiService(productsApi));
@@ -74,6 +84,10 @@ const test = base.extend<IApi>({
 
   ordersApiService: async ({ ordersApi, customerApiService, productsApiService }, use) => {
     await use(new OrdersApiService(ordersApi, customerApiService, productsApiService));
+  },
+
+  usersApiService: async ({ usersApi }, use) => {
+    await use(new UsersApiService(usersApi));
   },
 });
 
