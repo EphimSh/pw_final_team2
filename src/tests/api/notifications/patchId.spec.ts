@@ -1,6 +1,7 @@
 import { errorSchema } from "data/schemas/index.schema";
 import { patchAllNotificationsSchema } from "data/schemas/notifications/getAll.schema";
 import { STATUS_CODES } from "data/statusCode";
+import { TAGS } from "data/tags/tags";
 import { IResponse } from "data/types/core.types";
 import { INotificationsResponse } from "data/types/notifications.types";
 import { test } from "fixtures/api.fixtures";
@@ -21,16 +22,20 @@ test.describe("[API][Sales Portal][Notifications][Positive] Mark one notificatio
     });
   });
 
-  test("Succesed one notification mark", async ({ notificationApi }) => {
-    const needId = notificationList.body.Notifications[0]?._id;
-    const notificationMarked = await notificationApi.markById(needId!, token);
-    validateResponse(notificationMarked, {
-      status: STATUS_CODES.OK,
-      schema: patchAllNotificationsSchema,
-      IsSuccess: true,
-      ErrorMessage: null,
-    });
-  });
+  test(
+    "Succesed one notification mark",
+    { tag: [TAGS.REGRESSION, TAGS.POSITIVE, TAGS.NOTIFICATIONS] },
+    async ({ notificationApi }) => {
+      const needId = notificationList.body.Notifications[0]?._id;
+      const notificationMarked = await notificationApi.markById(needId!, token);
+      validateResponse(notificationMarked, {
+        status: STATUS_CODES.OK,
+        schema: patchAllNotificationsSchema,
+        IsSuccess: true,
+        ErrorMessage: null,
+      });
+    },
+  );
 
   test("Request without authorization token", async ({ notificationApi }) => {
     token = "";

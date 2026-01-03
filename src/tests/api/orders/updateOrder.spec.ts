@@ -75,7 +75,6 @@ test.describe("[API] [Sales Portal] [Orders] [Update Order]", () => {
     orderID = orderResponse.body.Order._id;
     const previousProducts = orderResponse.body.Order.products;
     const previousTotalPrice = orderResponse.body.Order.total_price;
-    console.log(orderResponse.body.Order.total_price);
 
     const newProduct1 = await productsApiService.create(token, generateProductData());
     const newProduct2 = await productsApiService.create(token, generateProductData());

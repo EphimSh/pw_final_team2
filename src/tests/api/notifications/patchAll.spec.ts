@@ -1,6 +1,7 @@
 import { errorSchema } from "data/schemas/index.schema";
 import { patchAllNotificationsSchema } from "data/schemas/notifications/getAll.schema";
 import { STATUS_CODES } from "data/statusCode";
+import { TAGS } from "data/tags/tags";
 import { test } from "fixtures/api.fixtures";
 import { validateResponse } from "utils/validation/validateResponse.utils";
 
@@ -11,15 +12,19 @@ test.describe("[API][Sales Portal][Notifications][Positive] Mark all notificatio
     token = await loginApiService.loginAsAdmin();
   });
 
-  test("Succesed all notifications marked", async ({ notificationApi }) => {
-    const notificationList = await notificationApi.markAll(token);
-    validateResponse(notificationList, {
-      status: STATUS_CODES.OK,
-      schema: patchAllNotificationsSchema,
-      IsSuccess: true,
-      ErrorMessage: null,
-    });
-  });
+  test(
+    "Succesed all notifications marked",
+    { tag: [TAGS.REGRESSION, TAGS.POSITIVE, TAGS.NOTIFICATIONS] },
+    async ({ notificationApi }) => {
+      const notificationList = await notificationApi.markAll(token);
+      validateResponse(notificationList, {
+        status: STATUS_CODES.OK,
+        schema: patchAllNotificationsSchema,
+        IsSuccess: true,
+        ErrorMessage: null,
+      });
+    },
+  );
 
   test("Request without authorization token", async ({ notificationApi }) => {
     token = "";
