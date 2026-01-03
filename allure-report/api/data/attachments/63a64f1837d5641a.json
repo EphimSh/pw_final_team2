@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:26:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-EJxync7ml7z3NJUluoAPXg5C2AM\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair59429",
+      "amount": 288,
+      "price": 22532,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T23:26:37.000Z",
+      "notes": "FPnys3iKxRwisbg1jfLHwK54GObunZYJKtYRJ4fNgWNBfMmD3OLRgx13OzNvCZKt25RTzFSHdtqV8zofBpvrmCwSHaPDKLv8Od7BUGyig4HpNYFme02jItL3pg2l6PIuiQKo6UllsSUlipDu1Fcq1DMbUgkH0y3JXX0HJjjsL1TtIEG4jCkUNE1C1BcpBXoCqP9mE9AkWs300vBIZLvF3oOKRxR4GBc9wJ2NmnWkH7nGSAeLbpytHGIgjy",
+      "_id": "6959a5ad1c508c5d5e9d86ed"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

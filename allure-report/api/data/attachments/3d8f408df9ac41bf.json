@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:31:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-XiAJgnJeEk+JC1ahKd99XA6Y2eA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X71053",
+      "amount": 304,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T23:31:00.000Z",
+      "notes": "4qa0lzspRMC19znh91tI0hQMUbGigyBUDZuapq91pUt7qGkMwau1qWryQ9UrCaPOxvZDmVXZlyePMroa5KFfkoPvOvQN5xryGfBlHW25IJO9mCEQnkapOTrxQSxJblfjXt7wiMIeh6dUfWzkPLLSuFNdl3w7rZ90aDnSrMg1t3vFlKG11zmUaEnk7VajtO2b5awotvrGT4Rr60xA3nQGjj3FbRVPJdmKwLKKo5oB5eVAiYJTsQrBmthFDe",
+      "_id": "6959a6b41c508c5d5e9ddd02"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

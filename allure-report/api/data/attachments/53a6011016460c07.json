@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:22:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "495",
+    "etag": "W/\"1ef-ufUgQJCyry0iWImNTArN3KBFPIk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Gussie93@gmail.com",
+      "name": "KGzc",
+      "country": "Ukraine",
+      "city": "JJoSGfFu",
+      "street": "TEtV6eV8Xvjpd6PGQoTcY3SvaTL",
+      "house": 189,
+      "flat": 2,
+      "phone": "+5917073253",
+      "createdOn": "2026-01-03T23:22:56.000Z",
+      "notes": "VTP2EzWFoZ24brd3cpCxEnFMffqSUZbuRg79b6PQwM2ZDHsUgtlJGu2smj4Dp62J7UsJYz2NUdGyntUxhVbDNwBY5iNd3eW6oRs2k1vMKxSmDqC3hGujJ6z9QolXQMky4A5MvHg7dAH9YjDNhH06U6q6UvCOgzfXPmfS3GOISMNCjt87ATxNpIdDckaVnTyUNPRF3t",
+      "_id": "6959a4d01c508c5d5e9d393e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

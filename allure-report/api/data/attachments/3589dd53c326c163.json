@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:30:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-9qptt0ad3LxfnP8R/8ZQv+akQk4\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse86296",
+      "amount": 335,
+      "price": 69328,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T23:30:56.000Z",
+      "notes": "OTnCiJYdgH3y26mnidU4aZI9iYY4hWMdcj16AiZwg73vmgMPq8tDfeYPyL2RQlV7mUJaWRCF2Ul5wqAxK4dlFaJjeK1uoNLidTxMTT6oSZcNrNbwz3ZgMmXJcTH4B68vs8to2791BceoQGi8ZFcRv9UyuM8zOSM4K4xf8rzdjNPBLGbUqFTImp7yYHv7tqe0dEKrlLEoewXNKalDkHiY0pB2JWXXUuNwwJgDpQTcRHcKHIES7J60ANxFj4",
+      "_id": "6959a6b01c508c5d5e9ddbe3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

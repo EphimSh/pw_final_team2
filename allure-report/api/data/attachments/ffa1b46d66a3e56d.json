@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:25:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "494",
+    "etag": "W/\"1ee-iJ9P4kmHeOWjPFvtGmIUNqhPlH0\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ettie.Cassin@hotmail.com",
+      "name": "PdVRU",
+      "country": "Canada",
+      "city": "IWcVCcaHO",
+      "street": "FiNBVII67",
+      "house": 40,
+      "flat": 8,
+      "phone": "+5499403141",
+      "createdOn": "2026-01-03T23:25:07.000Z",
+      "notes": "Jia6bncPY38j4wx2cmfpbZ6xl4i2CTNQXdXCPdV0TLDQgkiXjkHrUApiKN1WkVjGSlfwrUpYfWI73dquQkuSkoNGZwyQEhqXIG2oTmPIjIDracCUojpi1gv4tbpzmGeE8KHspagMX9bjmZ6YrAGDw8UPzoKN1HyrXdC2d15Y6zvarhaVPhqbutzd8994qXfQ8TYjmv3DArULgjEmS",
+      "_id": "6959a5531c508c5d5e9d64c8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

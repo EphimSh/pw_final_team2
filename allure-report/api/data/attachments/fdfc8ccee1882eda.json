@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:23:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2961",
+    "etag": "W/\"b91-A3pT7jhJrfyr/Dnfqguj/Ua8Sd8\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959a4f71c508c5d5e9d429c",
+      "status": "Draft",
+      "customer": {
+        "_id": "6959a4f21c508c5d5e9d4153",
+        "email": "Frances74@hotmail.com",
+        "name": "rVbKOnRWptncuGOrcBDlmyvLPyykXnojDTg",
+        "country": "Ukraine",
+        "city": "dZExfqR",
+        "street": "MiW9lo6",
+        "house": 23,
+        "flat": 8,
+        "phone": "+8275143307",
+        "createdOn": "2026-01-03T23:23:30.000Z",
+        "notes": "jVJWlhRLdX4xo0I2TqGQ9xc0F6hOEH5ZuhGplZXxNnw9HphEF2fMLHgwalFAsDNcCwWtqlFEhL0Y0sgh4gYApoEZSwSpXo45rjlwqwpOJQgZoHUNcr6WMjOmudjcBdyQd6R7x4Ya22EGajjKIiORr2iQyZPwbfRg9kCOSsHmTqSnD3MkdA0VQGAcemFTOw0zC191w3RHfcI0OL5JWhYRudNcSb2uc4BRQjj5"
+      },
+      "products": [
+        {
+          "_id": "6959a4f61c508c5d5e9d427d",
+          "name": "Tuna24910",
+          "amount": 365,
+          "price": 24191,
+          "manufacturer": "Samsung",
+          "notes": "IfgUZeEUjGAkN25D3wP856TNInwpHl1bgbZHj2Fk1pKTPWs4zJFfYZKqmjyw0oMcKDj15v0LH6VlU0L8YdjraIZ6udiksKR97u2Xc6mNUcI97mKNJbPW3Q7aSsKjW57kXRg9lE3wkm8SBiKakogBva70I43cBTeEXogovkq5k7BuqS4Cx8t60YtprtSBIWgAyLPrITRghUBRdPYehOe5xgJN07d3g7vyVqmIHrMWkHp8SEP3Yd8qqc1i3C",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Russia",
+          "city": "Mock City ZvmTp",
+          "street": "MockStreetdcoQKaENLMg",
+          "house": 139,
+          "flat": 13
+        },
+        "finalDate": "2026-01-08T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 24191,
+      "createdOn": "2026-01-03T23:23:35.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6959a4f21c508c5d5e9d4153",
+          "products": [
+            {
+              "_id": "6959a4f61c508c5d5e9d427d",
+              "name": "Tuna24910",
+              "amount": 365,
+              "price": 24191,
+              "manufacturer": "Samsung",
+              "notes": "IfgUZeEUjGAkN25D3wP856TNInwpHl1bgbZHj2Fk1pKTPWs4zJFfYZKqmjyw0oMcKDj15v0LH6VlU0L8YdjraIZ6udiksKR97u2Xc6mNUcI97mKNJbPW3Q7aSsKjW57kXRg9lE3wkm8SBiKakogBva70I43cBTeEXogovkq5k7BuqS4Cx8t60YtprtSBIWgAyLPrITRghUBRdPYehOe5xgJN07d3g7vyVqmIHrMWkHp8SEP3Yd8qqc1i3C",
+              "received": false
+            }
+          ],
+          "total_price": 24191,
+          "delivery": {
+            "address": {
+              "country": "Russia",
+              "city": "Mock City ZvmTp",
+              "street": "MockStreetdcoQKaENLMg",
+              "house": 139,
+              "flat": 13
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-03T23:23:36.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959a4f21c508c5d5e9d4153",
+          "products": [
+            {
+              "_id": "6959a4f61c508c5d5e9d427d",
+              "name": "Tuna24910",
+              "amount": 365,
+              "price": 24191,
+              "manufacturer": "Samsung",
+              "notes": "IfgUZeEUjGAkN25D3wP856TNInwpHl1bgbZHj2Fk1pKTPWs4zJFfYZKqmjyw0oMcKDj15v0LH6VlU0L8YdjraIZ6udiksKR97u2Xc6mNUcI97mKNJbPW3Q7aSsKjW57kXRg9lE3wkm8SBiKakogBva70I43cBTeEXogovkq5k7BuqS4Cx8t60YtprtSBIWgAyLPrITRghUBRdPYehOe5xgJN07d3g7vyVqmIHrMWkHp8SEP3Yd8qqc1i3C",
+              "received": false
+            }
+          ],
+          "total_price": 24191,
+          "delivery": null,
+          "changedOn": "2026-01-03T23:23:35.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

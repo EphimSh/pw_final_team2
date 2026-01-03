@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:29:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-8k/ITSa0Ha7kdLhwJ0PECV3zf/o\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X20406",
+      "amount": 859,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T23:29:49.000Z",
+      "notes": "xdhO0O7FrvhoocRTTKUtHv1AWTdlEcx1n3M39jvHdGKGWQUF2Ey7ZbGrPEe3WRrgmTwaLvUGnplMG4Yul0lyoQXY6OkafgDtDaKOARkWDrrhztArqMmUq57zUBfChyURMAlgpQIzXxG9GRTX4GuV8APIsIw3znXGH0ZBatInIyffFnik3TffpAYGqsz6g0TL7ach0adkGFm84xWa4iajkmtEJW24U6lgme5ShXdHeNJrPPCtN4utZsTkqt",
+      "_id": "6959a66d1c508c5d5e9dc6ee"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:24:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-KzVfVTp/uzSj8vgKIO4J9XCnI4c\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels10880",
+      "amount": 538,
+      "price": 20535,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T23:24:38.000Z",
+      "notes": "GMDZWZ8qnWBd942Xth595GKyJfmnpPDVQOzIHnGCtv6yyDG0Hw4qyRmXpBRt3DGeljPLC2vQG2S7c8Jrw0rNr1SR41TukWpjxtDPTi72f7avUej0rRWE998F5uvASCLgoPQQChgzqr0TLrL5Gy6wv0qEUgMC979cRFlhcm0COeZxerEohw9JO8ZmcFRBTQqTljh0710rUlo2H58RhnrchuEqN5spSBy66F5bGdPOTl6uKH3xK8ehYjP5l5",
+      "_id": "6959a5361c508c5d5e9d5986"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

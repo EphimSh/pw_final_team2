@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:23:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "433",
+    "etag": "W/\"1b1-0efSLUPAQaWBN5R/042zpEaheto\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Lindsay_Hartmann36@gmail.com",
+      "name": "MkJMam",
+      "country": "France",
+      "city": "rJyOFNEBOAGQiSGrWgd",
+      "street": "WcDtolqq7SeeNDTGSjWTLxB",
+      "house": 60,
+      "flat": 2,
+      "phone": "+2033946362",
+      "createdOn": "2026-01-03T23:23:09.000Z",
+      "notes": "vzcrCfGZhpuGU3kOQclJOKdP3a8B2lNKjXDS0gj2EL05v6RKOZaOmnAXmZjfZqlhf7DmUNeYpAg8FeHbr96rD3zlYvFc7TldLG4WFz2yfvqqNyu7HLGrKUe",
+      "_id": "6959a4dd1c508c5d5e9d3a47"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

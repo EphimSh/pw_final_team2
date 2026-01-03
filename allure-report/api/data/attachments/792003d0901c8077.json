@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:26:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "498",
+    "etag": "W/\"1f2-02ANWK4gKfvHY9cZRw6x8hDsvZA\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Lonny.Fahey@yahoo.com",
+      "name": "WHyuLyjHBruUZBWYDjIrANtn",
+      "country": "France",
+      "city": "odZpGWAPU",
+      "street": "KcKSwJAr8VSCzJzdfILRV5eq3XQ",
+      "house": 52,
+      "flat": 5,
+      "phone": "+2423481354",
+      "createdOn": "2026-01-03T23:26:42.000Z",
+      "notes": "Etw5kHBDywanRtQ30gwst9HWvLzfYM2jGUnmepDhUHdM6axr2zxFTup0SBx7RDmLz2K9EJsIgiHTD23IXL174UIaBakMXA7mlqUPw8x2Uj2phyucVkT1JH04VTj20dJV9Ql4xllleEgMkDkyFxBB02YFdONkYYjFPBjjBKIQza2IpMKS0Rj",
+      "_id": "6959a5b21c508c5d5e9d873e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

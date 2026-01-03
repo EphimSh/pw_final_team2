@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:24:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "381",
+    "etag": "W/\"17d-UiIZrTPeSgYWZ6aRIeH70vsFpZo\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jeanie10@hotmail.com",
+      "name": "mrUwYgtSczryyqJvLLLhcVXVzikcbqsYcVVU",
+      "country": "Canada",
+      "city": "CgFQgMCWmj",
+      "street": "fSwxKHdMNplUtcrk",
+      "house": 79,
+      "flat": 8,
+      "phone": "+3385045074",
+      "createdOn": "2026-01-03T23:24:10.000Z",
+      "notes": "Y1KwFcX2dPfgoDoNaKym0PzdYUppomjhfYizcTP9YpwPV4kFUdjF2n5gKqzF0",
+      "_id": "6959a51a1c508c5d5e9d4f55"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

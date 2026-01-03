@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:30:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-atH2hj1Nps3fCDr8FePNPVIWhVs\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra49010",
+      "amount": 851,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T23:30:13.000Z",
+      "notes": "V0Ijyg3xET9qV8ilLIeSFk7gJYdXC59Dba1l4fZVuIEhCjKnDUKpyZZ60kbqcXbSvG02aThICUhjKOE6UyjqBhjzxGbq7L8LkWFDTxVvdlxG47YyUd0qHSISPaQNwVLuYw0AKAGBn0sNISBhObEnjMS0dm7HKFMgO4rmHZCimpB2vVhRrCXxj77b5UgbioVbzUsJSD0X0aBrElXwuxun9FDuFa8hDIrKWcqKXXNrxlPyVQmRgjAfBELnY3",
+      "_id": "6959a6851c508c5d5e9dcc11"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

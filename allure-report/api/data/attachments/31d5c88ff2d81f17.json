@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:30:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-iwBHGw9/FSKS0fieMnKmLct40So\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra37946",
+      "amount": 973,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T23:30:20.000Z",
+      "notes": "YwVr4u4G3EXYuN9CsIGgAROsI2DzhQ9cEEwOCDEocwKFzMYDb6EMtWXJJwe2zTNm6K5p5F9BL7um3DI5u57LH2qAxpzEgCUqMpPRW7NMmGE2ydIPilQCUMls7wyJruUHLgJL9n6SxhIrKApDdzokZhnpCfZqe1Vo8wwrVkCjsDDu5DzAL1dGQMAjfOzyPGWhW6zNFZaCyXe7Nt63Zsdzem1iGsAq74gwMMD7nlH1TKiF1wHzKqaVADRwhE",
+      "_id": "6959a68c1c508c5d5e9dce68"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

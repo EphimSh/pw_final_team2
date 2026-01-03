@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:25:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "415",
+    "etag": "W/\"19f-wH3iEsGm4z5JELFWwThfrJlc9Sk\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ayla42@hotmail.com",
+      "name": "mxRljbWGDTquNqPtntzwfCiGdavoAWH",
+      "country": "USA",
+      "city": "BFLhArnZEdFBLXJzLW",
+      "street": "xKt4B0ieEmnemrI9Oe8MhXCmh",
+      "house": 33,
+      "flat": 9,
+      "phone": "+6445553258",
+      "createdOn": "2026-01-03T23:25:00.000Z",
+      "notes": "hAaPZGJudDPCPYQjRFY7UZysy0jSa0uBrZBGrNEymecI2OpIvN0RQcTxjxIVQDVKvxGIZwZ8n4yCOa8IJgj9MP3K",
+      "_id": "6959a54c1c508c5d5e9d6243"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

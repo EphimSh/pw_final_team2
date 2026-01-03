@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:30:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-bV6bPZrQOp2AIdMcHzoN/B9EGc4\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants67343",
+      "amount": 273,
+      "price": 5415,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T23:30:21.000Z",
+      "notes": "mZ6T5OhbxtK4NggfLm7iVoHlYoqD5LVYMg0RAsFo3kpoIcCYJls3pLQTwvyDb9NxC7Bytd8HbnxQyyJRsmvNF56YxzxkRXSZiBkigBf27VTVU937nGrKAjKACeXNUONZkbpkQT2Zz0ikysUiXpIsuB0XTPUTG5W2hjQRzXjCvrhEVmKJ4GPYtbPKhZS2HgxlcNaaUmrB0g859vr5KHizzfp3DkjqnZTaavyzKvZqaGTRPckPMZsgEfWwrh",
+      "_id": "6959a68d1c508c5d5e9dce6a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

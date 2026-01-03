@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:24:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-tvBAbglImslCe/x6Hv5t1JDEfAE\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse88070",
+      "amount": 724,
+      "price": 39809,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T23:24:11.000Z",
+      "notes": "05gTn79ZMgsbtWQKHc4w8e1jl58uygt8DdQyRsCl5ilvokKIiXGuPR9s2Bhwp9diVFoPP41YNxavRtPpA5zajhQVz8WXJEZhMwDJ3PQ9Mw4GmNK6kXZvAzWueLLQogGIZxmD83HAMMULJNlXQL6jqaiuA9eERnuwiBdmhDI9av9cgpX0pr1TTgxVQJEeBWTtelcXL48CIwOmzTlO3xfOjcBDmW8ApxFDgxo74Vql7OVv90SMTpJw91dV5b",
+      "_id": "6959a51b1c508c5d5e9d4f5f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

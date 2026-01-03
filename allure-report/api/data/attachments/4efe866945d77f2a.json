@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:26:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "407",
+    "etag": "W/\"197-poTheaWE2250tNc6TSEbkcQYtMk\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Dorcas79@gmail.com",
+      "name": "INLsj",
+      "country": "Canada",
+      "city": "vjVLjwsppiTnkb",
+      "street": "FSn9xULFZjBUcdJYgAcWzqPY60pPyy4Kg",
+      "house": 34,
+      "flat": 7,
+      "phone": "+4139770478",
+      "createdOn": "2026-01-03T23:26:23.000Z",
+      "notes": "vtgws00tJsHQSEEMlWIaV7H2EJ6xmrMtNVmLb12f4RJhydPthaz2m2mvxU7e3GpO22mrTA0LKFNYSCzFcGHFIOv77eDPWeBubL1",
+      "_id": "6959a59f1c508c5d5e9d81d1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

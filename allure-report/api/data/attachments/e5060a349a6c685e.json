@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:23:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "556",
+    "etag": "W/\"22c-cA7Af+DVL5wL2CPLj/HzkBex7P8\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Verla.Heaney@hotmail.com",
+      "name": "sxoKrdAlPpjqGNTKSledvqmegYdwlqHl",
+      "country": "Great Britain",
+      "city": "fSyxwbtaXsMVY",
+      "street": "aRJbE055PCwImUaWini3B8",
+      "house": 155,
+      "flat": 3,
+      "phone": "+5039068150",
+      "createdOn": "2026-01-03T23:23:51.000Z",
+      "notes": "ibd1ytXFOBJHKobTEFqCSi4Bm18ZNsP5E689uPN3fKTPTPIgO4O9g1BmO2cVMnM0GvAPLIPXkwJ187dwdGJ422LnfAK8Huw36hqdvHrSlJOyL0tw2e187wPKSFq4Dn8AknBBHn6U8g9EpYi1r9ZNlnU3pJy3x6THVXa6S8tBDUMv1B2MkitNA23IpfSXP7Ch0vGOaUwcrkkT4eRdunFPMk8Vai7",
+      "_id": "6959a5071c508c5d5e9d480f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

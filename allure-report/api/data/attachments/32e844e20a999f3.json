@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:29:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-77drjpDV7bC2igNwsCzOPNTh6LE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X55551",
+      "amount": 153,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T23:29:53.000Z",
+      "notes": "t1bfkAA22Xd4m1VCs97bVmSHjkL5yRTlS9W71Rvb7uOEogBxy8daJaJznwLXJNcPqrObub5WYjzMF8zMxbLgGN44zNLwDW6p9zbKPtesCg51zvoC6OQdu6beG7rVUg5MGb5IcuCYLmfWBQy9BhqvVEt6VvamIIBj4rYWGvGigeKcJXC38MOHustNSy0J31FjkfetEQq1M1c2EuqYKIw6S8FaSUcTTYnHT7Qvzteq0BYQCNM1YkCyMmi1ir",
+      "_id": "6959a6711c508c5d5e9dc834"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

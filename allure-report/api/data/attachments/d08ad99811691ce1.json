@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:25:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "474",
+    "etag": "W/\"1da-9GQg88cogwWa1HR0YN/ftv+Z0rE\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Elmore17@hotmail.com",
+      "name": "AFj",
+      "country": "Germany",
+      "city": "tCOGg",
+      "street": "pHSbCYEgHlO3MC7dWiM9Cma38wLLKNVtPQrdrwHH",
+      "house": 59,
+      "flat": 1,
+      "phone": "+3306853702",
+      "createdOn": "2026-01-03T23:25:43.000Z",
+      "notes": "vzFu1Vs42T38u4zJRzGyXL4XqnJn5sxA2ouP3A9KytMu8WczeoU5XZ6MJk1kPeufXeHf12JEX4CTMv00mD1KW3V3E7ONUsYqLzGbbSpvAo65jbRqOKkc0P8Vo41rPMDAuggqe2dfFhq8ewr6jkNmhgK5eNGNdCNyFptPBJR",
+      "_id": "6959a5771c508c5d5e9d7252"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

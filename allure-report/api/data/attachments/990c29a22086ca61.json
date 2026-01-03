@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:29:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "194",
+    "etag": "W/\"c2-mUbaZjfIAuY3f6y+JSGasEUD5Uw\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels31134",
+      "amount": 785,
+      "price": 67053,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T23:29:37.000Z",
+      "_id": "6959a6611c508c5d5e9dc47a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

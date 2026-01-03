@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:22:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "379",
+    "etag": "W/\"17b-MEy6riM87XEhvy+ZEw1E40oPShM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Wilfredo_Hagenes@yahoo.com",
+      "name": "XEEpw",
+      "country": "Great Britain",
+      "city": "MjxRkfZVXeU",
+      "street": "k261RhVEzNdAPnt16Y1EOmuBb32GXO",
+      "house": 27,
+      "flat": 3,
+      "phone": "+9605126574",
+      "createdOn": "2026-01-03T23:22:53.000Z",
+      "notes": "8UryaaIj0Ps1oXmAJwAQfJaYjE0wDjcPr2X5aYqnZ2OswengZDcZHoE0puvER0",
+      "_id": "6959a4cd1c508c5d5e9d3928"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

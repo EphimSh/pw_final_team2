@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:26:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "351",
+    "etag": "W/\"15f-VrW8EUnJsmq+85nG1CLsmoAt1nA\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Chelsea.Reichel@hotmail.com",
+      "name": "UmYZzeaLKRpeyym",
+      "country": "Germany",
+      "city": "YdleGMlHTIgchCtdg",
+      "street": "280vBkVU0wJuLOaxINGWhL",
+      "house": 172,
+      "flat": 1,
+      "phone": "+8990611112",
+      "createdOn": "2026-01-03T23:26:49.000Z",
+      "notes": "7foww86RG5Tn4qeugE3HcnvAeFd7sQ",
+      "_id": "6959a5b91c508c5d5e9d89fd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

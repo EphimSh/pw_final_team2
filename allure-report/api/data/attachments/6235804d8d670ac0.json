@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:27:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "84",
+    "etag": "W/\"54-RtMJmohsSOujHejpXbLRuAMt8P8\"",
+    "connection": "close"
+  },
+  "body": {
+    "IsSuccess": false,
+    "ErrorMessage": "Cannot read properties of null (reading 'name')"
+  }
+}

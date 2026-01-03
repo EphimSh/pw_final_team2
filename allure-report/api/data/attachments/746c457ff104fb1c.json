@@ -1,0 +1,173 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:28:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3745",
+    "etag": "W/\"ea1-K6H4i6mJWO+vl8C8Z0X5fSxygek\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959a6041c508c5d5e9da5d5",
+      "status": "In Process",
+      "customer": {
+        "_id": "6959a6031c508c5d5e9da5bc",
+        "email": "Louie.Mayer@hotmail.com",
+        "name": "Xapv",
+        "country": "USA",
+        "city": "zcRkyUSFUc",
+        "street": "wpMbjTkJwFjzka00KruGV1NaDBxlSRfqqtisMx",
+        "house": 168,
+        "flat": 9,
+        "phone": "+1997423196",
+        "createdOn": "2026-01-03T23:28:03.000Z",
+        "notes": "lO0zrKeMRpxjPcMNgRZXJtZH8agZyn6UnWa39x2pKNE51ABNXC34yis5olRjIjZbV1a3PxITC27"
+      },
+      "products": [
+        {
+          "_id": "6959a6011c508c5d5e9da480",
+          "name": "Bike87640",
+          "amount": 970,
+          "price": 61986,
+          "manufacturer": "Tesla",
+          "notes": "yZpYKt74jXrYnL65lBOspr3AyyPCFfAvZvdmTq9p4YQ0269Hie7fUYHD0EeEyx2yO82Z0CnLjjG15ORpasWt7lITfEmYV201VvqdBeXLdVmlaSK2fsnBP64Rzf7edgaUfEaEZqiTUR2892YN7TwoSproGaBmCV9SpJ9mIj3cCT462mlgdKXS5HZ5M03anX8x2Afj9twUNHadhRKxgGwar5fIyFWzv8JXxygrEDkfWxrbHP0UvD5PGGXQQE",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "USA",
+          "city": "Mock City sWD",
+          "street": "MockStreetwlHY8xjGZGBkUaTJlf",
+          "house": 46,
+          "flat": 11
+        },
+        "finalDate": "2026-01-08T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 61986,
+      "createdOn": "2026-01-03T23:28:04.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "In Process",
+          "customer": "6959a6031c508c5d5e9da5bc",
+          "products": [
+            {
+              "_id": "6959a6011c508c5d5e9da480",
+              "name": "Bike87640",
+              "amount": 970,
+              "price": 61986,
+              "manufacturer": "Tesla",
+              "notes": "yZpYKt74jXrYnL65lBOspr3AyyPCFfAvZvdmTq9p4YQ0269Hie7fUYHD0EeEyx2yO82Z0CnLjjG15ORpasWt7lITfEmYV201VvqdBeXLdVmlaSK2fsnBP64Rzf7edgaUfEaEZqiTUR2892YN7TwoSproGaBmCV9SpJ9mIj3cCT462mlgdKXS5HZ5M03anX8x2Afj9twUNHadhRKxgGwar5fIyFWzv8JXxygrEDkfWxrbHP0UvD5PGGXQQE",
+              "received": false
+            }
+          ],
+          "total_price": 61986,
+          "delivery": {
+            "address": {
+              "country": "USA",
+              "city": "Mock City sWD",
+              "street": "MockStreetwlHY8xjGZGBkUaTJlf",
+              "house": 46,
+              "flat": 11
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-03T23:28:04.000Z",
+          "action": "Order processing started",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959a6031c508c5d5e9da5bc",
+          "products": [
+            {
+              "_id": "6959a6011c508c5d5e9da480",
+              "name": "Bike87640",
+              "amount": 970,
+              "price": 61986,
+              "manufacturer": "Tesla",
+              "notes": "yZpYKt74jXrYnL65lBOspr3AyyPCFfAvZvdmTq9p4YQ0269Hie7fUYHD0EeEyx2yO82Z0CnLjjG15ORpasWt7lITfEmYV201VvqdBeXLdVmlaSK2fsnBP64Rzf7edgaUfEaEZqiTUR2892YN7TwoSproGaBmCV9SpJ9mIj3cCT462mlgdKXS5HZ5M03anX8x2Afj9twUNHadhRKxgGwar5fIyFWzv8JXxygrEDkfWxrbHP0UvD5PGGXQQE",
+              "received": false
+            }
+          ],
+          "total_price": 61986,
+          "delivery": {
+            "address": {
+              "country": "USA",
+              "city": "Mock City sWD",
+              "street": "MockStreetwlHY8xjGZGBkUaTJlf",
+              "house": 46,
+              "flat": 11
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-03T23:28:04.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959a6031c508c5d5e9da5bc",
+          "products": [
+            {
+              "_id": "6959a6011c508c5d5e9da480",
+              "name": "Bike87640",
+              "amount": 970,
+              "price": 61986,
+              "manufacturer": "Tesla",
+              "notes": "yZpYKt74jXrYnL65lBOspr3AyyPCFfAvZvdmTq9p4YQ0269Hie7fUYHD0EeEyx2yO82Z0CnLjjG15ORpasWt7lITfEmYV201VvqdBeXLdVmlaSK2fsnBP64Rzf7edgaUfEaEZqiTUR2892YN7TwoSproGaBmCV9SpJ9mIj3cCT462mlgdKXS5HZ5M03anX8x2Afj9twUNHadhRKxgGwar5fIyFWzv8JXxygrEDkfWxrbHP0UvD5PGGXQQE",
+              "received": false
+            }
+          ],
+          "total_price": 61986,
+          "delivery": null,
+          "changedOn": "2026-01-03T23:28:04.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

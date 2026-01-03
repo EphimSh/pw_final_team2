@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:31:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-Bwt9qnM6wLZTt5UTcm7edTc7kXk\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy A5532508",
+      "amount": 170,
+      "price": 800,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T23:31:05.000Z",
+      "notes": "5DI8mjVZDEzpHm5GtJzv7Z4BFNZkpH5S30aVxEEECAgH0QDjqcUiv6bC3gM1xWkoExfesLVJEBWf2dTU9QL4NoyGIbdWZXYfDjzhw541Eh5B3afp4V6ajGMq98uFpdDGXoujNyz4fCBek09ISggSNVt7V16exmzIn8LDhkRiemtgAOAvq32Q8U1PveAZcWMiWqXAMzRXmXhqpY5dQjWUZM6MNhHJEgbWpgOfTPZI2jkD5Ye9qqE5Wqhmay",
+      "_id": "6959a6b91c508c5d5e9ddd18"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

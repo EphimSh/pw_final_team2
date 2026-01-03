@@ -1,0 +1,258 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:28:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "6787",
+    "etag": "W/\"1a83-6LpFhN/gz97NUtC530WmrfWqtZs\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959a61c1c508c5d5e9dadc8",
+      "status": "Partially Received",
+      "customer": {
+        "_id": "6959a6141c508c5d5e9dac1b",
+        "email": "Alva_Hyatt97@gmail.com",
+        "name": "cEVZaz",
+        "country": "France",
+        "city": "iMrWXhePucGZGxMpSZQ",
+        "street": "PG6NvPINi",
+        "house": 161,
+        "flat": 9,
+        "phone": "+9030888699",
+        "createdOn": "2026-01-03T23:28:20.000Z",
+        "notes": "3KxPUCjSFQigjINw25rBh1noizzsh3V3rKw9ZrQWLCp2qitwLD4TPvktgVMxQVQlY3QaXDXOX5opNsHraRYzAQA65uCbUhezYAIDYKTZXq7i8B2VwV2tfzS71soMwFs29kLZY1XIfTWvxCO8aqrEMEDwQKq1yAYpD1wgpDzE8ANWmT0iG8eR1smusx0f83Laiih43H4"
+      },
+      "products": [
+        {
+          "_id": "6959a6181c508c5d5e9dad4c",
+          "name": "Table21985",
+          "amount": 382,
+          "price": 85903,
+          "manufacturer": "Sony",
+          "notes": "QXR3qG6OkErZ2XILfd986HXlOOdczv2EOwrXMjjnxkrvq1UaiSRhLZscCuAfyNFja1u7CTeM8dAMcVVDRJnsB9UoqVuWzp9rZ2GEa2fcMlwQiQDt8UEJbPdESO1p4bmj6EkztOSy6sOMN2uhklEY8JRFetKm0V5Tvyh4vmlGwBWLEYypfm5SQBuX7qtckHvryc51a5okxn8aLYrqasmVVtaip74e6gbUeNrfoMozs21QxdV5BxJXCfEVy2",
+          "received": true
+        },
+        {
+          "_id": "6959a61c1c508c5d5e9dadb4",
+          "name": "Towels14269",
+          "amount": 293,
+          "price": 74690,
+          "manufacturer": "Google",
+          "notes": "IRpeJF0obMjSZt3VRcj9SXdwsB6KaBwlkjBCdpkkSpOgMcUrX6HejQQIgUQaADktP74PjWy36VO4xD1f8BzM2Tc4mFXPNoHP9HSsetKlufBrn6NqqrLk7lDOUlB5R7jn1OAR4anVk1iaKC4IFsiJYiz0nBHsTP7yOVO7wgwxnGT9sPDZ3BXpYY6kJPSNDAoGstSimKXYRPq0UVg9fe9rRhTg9sxjIup4Oe9AnVeT5FlowA8TOlGuvMNpkt",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Belarus",
+          "city": "Mock City NscyiTani",
+          "street": "MockStreetTHsEl1BCU3hCLBa3PZo1LIIGZ",
+          "house": 156,
+          "flat": 12
+        },
+        "finalDate": "2026-01-08T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 160593,
+      "createdOn": "2026-01-03T23:28:28.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Partially Received",
+          "customer": "6959a6141c508c5d5e9dac1b",
+          "products": [
+            {
+              "_id": "6959a6181c508c5d5e9dad4c",
+              "name": "Table21985",
+              "amount": 382,
+              "price": 85903,
+              "manufacturer": "Sony",
+              "notes": "QXR3qG6OkErZ2XILfd986HXlOOdczv2EOwrXMjjnxkrvq1UaiSRhLZscCuAfyNFja1u7CTeM8dAMcVVDRJnsB9UoqVuWzp9rZ2GEa2fcMlwQiQDt8UEJbPdESO1p4bmj6EkztOSy6sOMN2uhklEY8JRFetKm0V5Tvyh4vmlGwBWLEYypfm5SQBuX7qtckHvryc51a5okxn8aLYrqasmVVtaip74e6gbUeNrfoMozs21QxdV5BxJXCfEVy2",
+              "received": true
+            },
+            {
+              "_id": "6959a61c1c508c5d5e9dadb4",
+              "name": "Towels14269",
+              "amount": 293,
+              "price": 74690,
+              "manufacturer": "Google",
+              "notes": "IRpeJF0obMjSZt3VRcj9SXdwsB6KaBwlkjBCdpkkSpOgMcUrX6HejQQIgUQaADktP74PjWy36VO4xD1f8BzM2Tc4mFXPNoHP9HSsetKlufBrn6NqqrLk7lDOUlB5R7jn1OAR4anVk1iaKC4IFsiJYiz0nBHsTP7yOVO7wgwxnGT9sPDZ3BXpYY6kJPSNDAoGstSimKXYRPq0UVg9fe9rRhTg9sxjIup4Oe9AnVeT5FlowA8TOlGuvMNpkt",
+              "received": false
+            }
+          ],
+          "total_price": 160593,
+          "delivery": {
+            "address": {
+              "country": "Belarus",
+              "city": "Mock City NscyiTani",
+              "street": "MockStreetTHsEl1BCU3hCLBa3PZo1LIIGZ",
+              "house": 156,
+              "flat": 12
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-03T23:28:30.000Z",
+          "action": "Received",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "In Process",
+          "customer": "6959a6141c508c5d5e9dac1b",
+          "products": [
+            {
+              "_id": "6959a6181c508c5d5e9dad4c",
+              "name": "Table21985",
+              "amount": 382,
+              "price": 85903,
+              "manufacturer": "Sony",
+              "notes": "QXR3qG6OkErZ2XILfd986HXlOOdczv2EOwrXMjjnxkrvq1UaiSRhLZscCuAfyNFja1u7CTeM8dAMcVVDRJnsB9UoqVuWzp9rZ2GEa2fcMlwQiQDt8UEJbPdESO1p4bmj6EkztOSy6sOMN2uhklEY8JRFetKm0V5Tvyh4vmlGwBWLEYypfm5SQBuX7qtckHvryc51a5okxn8aLYrqasmVVtaip74e6gbUeNrfoMozs21QxdV5BxJXCfEVy2",
+              "received": false
+            },
+            {
+              "_id": "6959a61c1c508c5d5e9dadb4",
+              "name": "Towels14269",
+              "amount": 293,
+              "price": 74690,
+              "manufacturer": "Google",
+              "notes": "IRpeJF0obMjSZt3VRcj9SXdwsB6KaBwlkjBCdpkkSpOgMcUrX6HejQQIgUQaADktP74PjWy36VO4xD1f8BzM2Tc4mFXPNoHP9HSsetKlufBrn6NqqrLk7lDOUlB5R7jn1OAR4anVk1iaKC4IFsiJYiz0nBHsTP7yOVO7wgwxnGT9sPDZ3BXpYY6kJPSNDAoGstSimKXYRPq0UVg9fe9rRhTg9sxjIup4Oe9AnVeT5FlowA8TOlGuvMNpkt",
+              "received": false
+            }
+          ],
+          "total_price": 160593,
+          "delivery": {
+            "address": {
+              "country": "Belarus",
+              "city": "Mock City NscyiTani",
+              "street": "MockStreetTHsEl1BCU3hCLBa3PZo1LIIGZ",
+              "house": 156,
+              "flat": 12
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-03T23:28:29.000Z",
+          "action": "Order processing started",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959a6141c508c5d5e9dac1b",
+          "products": [
+            {
+              "_id": "6959a6181c508c5d5e9dad4c",
+              "name": "Table21985",
+              "amount": 382,
+              "price": 85903,
+              "manufacturer": "Sony",
+              "notes": "QXR3qG6OkErZ2XILfd986HXlOOdczv2EOwrXMjjnxkrvq1UaiSRhLZscCuAfyNFja1u7CTeM8dAMcVVDRJnsB9UoqVuWzp9rZ2GEa2fcMlwQiQDt8UEJbPdESO1p4bmj6EkztOSy6sOMN2uhklEY8JRFetKm0V5Tvyh4vmlGwBWLEYypfm5SQBuX7qtckHvryc51a5okxn8aLYrqasmVVtaip74e6gbUeNrfoMozs21QxdV5BxJXCfEVy2",
+              "received": false
+            },
+            {
+              "_id": "6959a61c1c508c5d5e9dadb4",
+              "name": "Towels14269",
+              "amount": 293,
+              "price": 74690,
+              "manufacturer": "Google",
+              "notes": "IRpeJF0obMjSZt3VRcj9SXdwsB6KaBwlkjBCdpkkSpOgMcUrX6HejQQIgUQaADktP74PjWy36VO4xD1f8BzM2Tc4mFXPNoHP9HSsetKlufBrn6NqqrLk7lDOUlB5R7jn1OAR4anVk1iaKC4IFsiJYiz0nBHsTP7yOVO7wgwxnGT9sPDZ3BXpYY6kJPSNDAoGstSimKXYRPq0UVg9fe9rRhTg9sxjIup4Oe9AnVeT5FlowA8TOlGuvMNpkt",
+              "received": false
+            }
+          ],
+          "total_price": 160593,
+          "delivery": {
+            "address": {
+              "country": "Belarus",
+              "city": "Mock City NscyiTani",
+              "street": "MockStreetTHsEl1BCU3hCLBa3PZo1LIIGZ",
+              "house": 156,
+              "flat": 12
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-03T23:28:29.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959a6141c508c5d5e9dac1b",
+          "products": [
+            {
+              "_id": "6959a6181c508c5d5e9dad4c",
+              "name": "Table21985",
+              "amount": 382,
+              "price": 85903,
+              "manufacturer": "Sony",
+              "notes": "QXR3qG6OkErZ2XILfd986HXlOOdczv2EOwrXMjjnxkrvq1UaiSRhLZscCuAfyNFja1u7CTeM8dAMcVVDRJnsB9UoqVuWzp9rZ2GEa2fcMlwQiQDt8UEJbPdESO1p4bmj6EkztOSy6sOMN2uhklEY8JRFetKm0V5Tvyh4vmlGwBWLEYypfm5SQBuX7qtckHvryc51a5okxn8aLYrqasmVVtaip74e6gbUeNrfoMozs21QxdV5BxJXCfEVy2",
+              "received": false
+            },
+            {
+              "_id": "6959a61c1c508c5d5e9dadb4",
+              "name": "Towels14269",
+              "amount": 293,
+              "price": 74690,
+              "manufacturer": "Google",
+              "notes": "IRpeJF0obMjSZt3VRcj9SXdwsB6KaBwlkjBCdpkkSpOgMcUrX6HejQQIgUQaADktP74PjWy36VO4xD1f8BzM2Tc4mFXPNoHP9HSsetKlufBrn6NqqrLk7lDOUlB5R7jn1OAR4anVk1iaKC4IFsiJYiz0nBHsTP7yOVO7wgwxnGT9sPDZ3BXpYY6kJPSNDAoGstSimKXYRPq0UVg9fe9rRhTg9sxjIup4Oe9AnVeT5FlowA8TOlGuvMNpkt",
+              "received": false
+            }
+          ],
+          "total_price": 160593,
+          "delivery": null,
+          "changedOn": "2026-01-03T23:28:28.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

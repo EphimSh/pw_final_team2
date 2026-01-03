@@ -1,0 +1,161 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:28:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4158",
+    "etag": "W/\"103e-78N6/7FvGXen/0PE4pAiEG5cpSM\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959a5f51c508c5d5e9d9fda",
+      "status": "Draft",
+      "customer": {
+        "_id": "69596b171c508c5d5e97a4c8",
+        "email": "Sonya_Ledner55@hotmail.com",
+        "name": "Lucius Rempel",
+        "country": "Russia",
+        "city": "Carrollton",
+        "street": "Scot Ford",
+        "house": 13,
+        "flat": 451,
+        "phone": "+13117098764",
+        "createdOn": "2026-01-03T19:16:39.000Z",
+        "notes": "tdYJDNLUp9eyRJTfpKJdTl5YZmWXoD2DKF5FqUJYqjACfh0Vc9sX72piSLBq5AKOYQab7BLLmwJEqn6L7twseibPdxwgbiYINngVzSkr90IUvcIpfWOFBQhDhNU3EMuufqojoE5VzJaGz02Bw7gJRffLoJKjS5cvZh8DZkCGt4DXc8f7EAFnFWUY9Ufp6xd1D9dCyNZ2QlhTwhKAHtfm1rdUDGbDuwAnUMhqHbdMCxXqn2qBL2VWD6d36u"
+      },
+      "products": [
+        {
+          "_id": "69595d5d1c508c5d5e96526e",
+          "name": "Chips17572",
+          "amount": 855,
+          "price": 60973,
+          "manufacturer": "Sony",
+          "notes": "AeuI0Ncus2ZSF71gXtq6dbrF5Ee6atbyGb43s9vKT3uJpApTV4SkZ4qmoi1sYJTUobJIag15q8wQzRsV33sCf8cijz5fWA85kDxmJFNCzB8isDGAZI94MzY2NVTIs0tlKJTHHWM4QM5y4yFePogBKtF75Dy9UL3fGVf899Sx6wI7ODudE0Whe74GhOMQfxd58hOFgb5CCG0GAPKSey6xXP1NpH8cECCG7jyA0RbLUosmOxAddiZroO5uJu",
+          "received": false
+        },
+        {
+          "_id": "695971701c508c5d5e991880",
+          "name": "Bike57004",
+          "amount": 931,
+          "price": 82986,
+          "manufacturer": "Sony",
+          "notes": "SIyHjjaYBHTzCktJeGXLQGrXWIFAR9RaKC5jqS0ffUJytJb8XeyfEFHnsO6VeHpBC9dMMiv9Dsle7YJvdqDOaNIbAyLXtEzsCToexmHfaG3yPtNikfBAt30f4WvSg3kICSggJfptNy1p6T35WIT2ywa7RuB0vDsAFZ7ZeEXvUMGQuruRtaiqd6kHItfTZzHaWIuL5cCGKqEDNF5JOXWdXGgNZGy64btI6OQChG7GmLikbl1ld8bYxWIbQo",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 143959,
+      "createdOn": "2026-01-03T23:27:49.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "69596b171c508c5d5e97a4c8",
+          "products": [
+            {
+              "_id": "6959a5f21c508c5d5e9d9fb2",
+              "name": "Chips3406",
+              "amount": 922,
+              "price": 63362,
+              "manufacturer": "Microsoft",
+              "notes": "NrATDqttJuegz0fsSUbXeCWXFar09B4J8vkZYAXwRZfMMSvPUBSKvfTUnrkcnkia5RjKCIlbzY3vgGMlvp7YipeKPAWTMwZ6z7W0NhVee0Cma46mHVz6o8H0VWerSDjvheIxCYFSQr8w0waDfKJjgSJdVNDGvExXVerAwfd43Hzf3Tmy0diSFEY3maKydA7wnxUYsVOAGhQgbgcl3n44pAjkOK9byeKWnwF3DnvYTvVwin9pndXwOQ8ZLK",
+              "received": false
+            }
+          ],
+          "total_price": 143959,
+          "delivery": null,
+          "changedOn": "2026-01-03T23:28:01.000Z",
+          "action": "Customer changed",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959a5f51c508c5d5e9d9fd2",
+          "products": [
+            {
+              "_id": "69595d5d1c508c5d5e96526e",
+              "name": "Chips17572",
+              "amount": 855,
+              "price": 60973,
+              "manufacturer": "Sony",
+              "notes": "AeuI0Ncus2ZSF71gXtq6dbrF5Ee6atbyGb43s9vKT3uJpApTV4SkZ4qmoi1sYJTUobJIag15q8wQzRsV33sCf8cijz5fWA85kDxmJFNCzB8isDGAZI94MzY2NVTIs0tlKJTHHWM4QM5y4yFePogBKtF75Dy9UL3fGVf899Sx6wI7ODudE0Whe74GhOMQfxd58hOFgb5CCG0GAPKSey6xXP1NpH8cECCG7jyA0RbLUosmOxAddiZroO5uJu",
+              "received": false
+            },
+            {
+              "_id": "695971701c508c5d5e991880",
+              "name": "Bike57004",
+              "amount": 931,
+              "price": 82986,
+              "manufacturer": "Sony",
+              "notes": "SIyHjjaYBHTzCktJeGXLQGrXWIFAR9RaKC5jqS0ffUJytJb8XeyfEFHnsO6VeHpBC9dMMiv9Dsle7YJvdqDOaNIbAyLXtEzsCToexmHfaG3yPtNikfBAt30f4WvSg3kICSggJfptNy1p6T35WIT2ywa7RuB0vDsAFZ7ZeEXvUMGQuruRtaiqd6kHItfTZzHaWIuL5cCGKqEDNF5JOXWdXGgNZGy64btI6OQChG7GmLikbl1ld8bYxWIbQo",
+              "received": false
+            }
+          ],
+          "total_price": 143959,
+          "delivery": null,
+          "changedOn": "2026-01-03T23:28:01.000Z",
+          "action": "Requested products changed",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959a5f51c508c5d5e9d9fd2",
+          "products": [
+            {
+              "_id": "6959a5f21c508c5d5e9d9fb2",
+              "name": "Chips3406",
+              "amount": 922,
+              "price": 63362,
+              "manufacturer": "Microsoft",
+              "notes": "NrATDqttJuegz0fsSUbXeCWXFar09B4J8vkZYAXwRZfMMSvPUBSKvfTUnrkcnkia5RjKCIlbzY3vgGMlvp7YipeKPAWTMwZ6z7W0NhVee0Cma46mHVz6o8H0VWerSDjvheIxCYFSQr8w0waDfKJjgSJdVNDGvExXVerAwfd43Hzf3Tmy0diSFEY3maKydA7wnxUYsVOAGhQgbgcl3n44pAjkOK9byeKWnwF3DnvYTvVwin9pndXwOQ8ZLK",
+              "received": false
+            }
+          ],
+          "total_price": 63362,
+          "delivery": null,
+          "changedOn": "2026-01-03T23:27:49.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

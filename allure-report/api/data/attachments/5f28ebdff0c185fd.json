@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:25:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "470",
+    "etag": "W/\"1d6-HNqx4hxkCsOcamrLmhlLBa5QStk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Mittie_King@hotmail.com",
+      "name": "E",
+      "country": "Ukraine",
+      "city": "jMzQSUFqMBvY",
+      "street": "DJRe1tVu6",
+      "house": 141,
+      "flat": 2,
+      "phone": "+0909828711",
+      "createdOn": "2026-01-03T23:25:44.000Z",
+      "notes": "r0EfpOAtqIHgzkx1ZdO9g3afI72EjoE5RKBK5OpPxA9KRK4ex3GpMz50ASq8Ie2ELAKOmyinBREhdSBDBQYLkeXqCA3p5Icu2AuIUyHcgRel8dnXBOHv4euLlrjkn6t2gOr8gulAyJm3kRPxBzsyPG6Z0gykwGFYoFZJ2MU1saCgG2qQVrvDKRPim",
+      "_id": "6959a5781c508c5d5e9d7265"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:25:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-4QTfmbv7NxaHnjtSpVSPvRQcpEY\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jacklyn95@hotmail.com",
+      "name": "CBDpVOqrnDdNpP",
+      "country": "Canada",
+      "city": "tdpQNYrENAIjDLAry",
+      "street": "8MRQO7ZYNRgBZiNWvYpdtwoHtWxILHu8",
+      "house": 173,
+      "flat": 2,
+      "phone": "+3901228536",
+      "createdOn": "2026-01-03T23:25:02.000Z",
+      "notes": "Imecqi2KT4pRp96Q3iD0ii2z842TAZotic2XfkpiY1LwYTKx3nJo10pPOVUpZxZckAqth6WOo13kiIjNgZPKfAZUlhnpG1z2xC1KjtMsPNe7v4WWFFwMkuhCIkPYaTqTocV",
+      "_id": "6959a54e1c508c5d5e9d6369"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

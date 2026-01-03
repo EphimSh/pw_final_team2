@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:28:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-2EtJP+V6NyKLMv/5ESh2TsT5Gc0\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat73164",
+      "amount": 557,
+      "price": 18988,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T23:28:24.000Z",
+      "notes": "YrGQ3ZpnCJVEJvywb9HPtArrO9eJMUI3Fl8NJIT6rMtofzxDVRPZH9WHkCqPA7rONKJWzbK1QG31XIRRulu3oq9Di3EHc3HuMBWHQ5bhCHUIpMD9h1Y7UyFKxVHAGtS4sxQcQDCPv8swb04qSNVro0jXuUl8ShLpE3i9pB9yFoC4IsEzescH0ijEdel1P5qmUes5VOss9iKcQ675uSGaOkWpSDt793JDzlKSB4hMVxjAuejQ5NEduXqKAB",
+      "_id": "6959a6181c508c5d5e9dad48"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:24:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-4PH2HUJXMek3WBn/HUdX7gcmL9Y\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball49782",
+      "amount": 252,
+      "price": 55291,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T23:24:30.000Z",
+      "notes": "9UPBSIFBZqoddm5QSMfaWb8AUXn3zs5UaV512c8KfTAS2gnuRnKu1LZ07BxxZAzhln2tRxOrCNANglY628QsOwWfshXkmZ4dGF81zTiiAtKLOsnbxqW7WgYKGDNpr5UnsNHjx40nuzx00g0B5tZZ8GCxrWARCZAmfzrfk12xW6y9GwVdILrHLcKM3ihcz4z92FQB8KXDHqctDGKre1TEg5E8C7P2orhpeAJSLqHfP0loXp9HsgLSTqoH5j",
+      "_id": "6959a52e1c508c5d5e9d57e6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

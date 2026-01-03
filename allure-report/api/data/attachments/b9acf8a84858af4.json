@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:25:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "342",
+    "etag": "W/\"156-C9HFxP/kh9NOUL3bv6A2/T9iPuk\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Lauretta82@yahoo.com",
+      "name": "wWo",
+      "country": "Germany",
+      "city": "sTjXCsakNtBvsda",
+      "street": "vhedo5zqhCTSSUNVvYw",
+      "house": 37,
+      "flat": 2,
+      "phone": "+7802419730",
+      "createdOn": "2026-01-03T23:25:56.000Z",
+      "notes": "NymgB4RuJN0YseRGO4bdm2QLH3UfBELtYrSZ40oQssMGkO",
+      "_id": "6959a5841c508c5d5e9d7897"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:24:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2009",
+    "etag": "W/\"7d9-oo9INhYj5RXAk9APEGowiBf17Dg\"",
+    "keep-alive": "timeout=5, max=72",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959a51f1c508c5d5e9d5107",
+      "status": "Draft",
+      "customer": {
+        "_id": "6959a51a1c508c5d5e9d4f55",
+        "email": "Jeanie10@hotmail.com",
+        "name": "mrUwYgtSczryyqJvLLLhcVXVzikcbqsYcVVU",
+        "country": "Canada",
+        "city": "CgFQgMCWmj",
+        "street": "fSwxKHdMNplUtcrk",
+        "house": 79,
+        "flat": 8,
+        "phone": "+3385045074",
+        "createdOn": "2026-01-03T23:24:10.000Z",
+        "notes": "Y1KwFcX2dPfgoDoNaKym0PzdYUppomjhfYizcTP9YpwPV4kFUdjF2n5gKqzF0"
+      },
+      "products": [
+        {
+          "_id": "6959a51f1c508c5d5e9d50f1",
+          "name": "Chair2084",
+          "amount": 736,
+          "price": 95937,
+          "manufacturer": "Apple",
+          "notes": "KhYeYSKEoAs0TeMo7G0wQvaxCkcblOORqWArjdvQAN7wpDft7oVW2B9R7nEFvwZUUmZhwkLcC5TL2GeczOT5w99XyPYSaLv2QUv2pQcuZpMmwlU9RpLzpwFbKK82sBx4mnlJTjbRKgycZTRY42P8hxrCm9x5WruFsdo7kgvRWX79pmAIliGcRhPdX6TqTAhGPmQohqiWmav2OjJCnPYF4LNfy9f5ZXKPxuvmkT8bQ6QYlyhluOHc7UnNAy",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 95937,
+      "createdOn": "2026-01-03T23:24:15.000Z",
+      "comments": [
+        {
+          "text": "CEeOKiIWrG6BEE2KCyf4nFpq9BMSLimAYrKp1gkuSswHk5wJG2yLWN2qOnCooRd0ulhHAMmXDtOoYaeBfMnp55BzGSLXLeDmlHIY3GTQMCyzIlx9R0CzAhzTH1FJqqNX78sqw8zqtglRgdw9jgMXwBKGgEjF3xbyYGMikobP89OQL2oCBUi16dG0TcjkoK2vvGSpPQ4ixAd25dkyhynhu5TZG2F",
+          "createdOn": "2026-01-03T23:24:15.000Z",
+          "_id": "6959a51f1c508c5d5e9d511f"
+        }
+      ],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6959a51a1c508c5d5e9d4f55",
+          "products": [
+            {
+              "_id": "6959a51f1c508c5d5e9d50f1",
+              "name": "Chair2084",
+              "amount": 736,
+              "price": 95937,
+              "manufacturer": "Apple",
+              "notes": "KhYeYSKEoAs0TeMo7G0wQvaxCkcblOORqWArjdvQAN7wpDft7oVW2B9R7nEFvwZUUmZhwkLcC5TL2GeczOT5w99XyPYSaLv2QUv2pQcuZpMmwlU9RpLzpwFbKK82sBx4mnlJTjbRKgycZTRY42P8hxrCm9x5WruFsdo7kgvRWX79pmAIliGcRhPdX6TqTAhGPmQohqiWmav2OjJCnPYF4LNfy9f5ZXKPxuvmkT8bQ6QYlyhluOHc7UnNAy",
+              "received": false
+            }
+          ],
+          "total_price": 95937,
+          "delivery": null,
+          "changedOn": "2026-01-03T23:24:15.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

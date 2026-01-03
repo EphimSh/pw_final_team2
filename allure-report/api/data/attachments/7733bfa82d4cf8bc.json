@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:29:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-XRYJ06fs9OeCZfdJgxKpaJmgL0g\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike33393",
+      "amount": 422,
+      "price": 80490,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T23:29:42.000Z",
+      "notes": "G6OD8SBWlvUFmGas5sCs8tBBb5lGexnrRvrTiKDMt3jsXVuxtWF6ajsLk4pN8Am95UNeKS2FQPytawc1UJtZ3QswxbqRKE7a28FAffMApt12vuiNsdRSeheIzAcrL0lzGnAObefl0oYHem9UebKBpwnvhhNKy7bJgX5hxkJkGIw6pltiuRBCO5ZyUJjYzZVISLh1678ePubfFL9YcDmbYM2uPyBz5asTuDuC0GRX0ywOF3Xhb5XDtTdnCa",
+      "_id": "6959a6661c508c5d5e9dc6ce"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

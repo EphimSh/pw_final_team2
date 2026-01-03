@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:26:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-pgm0r/L5zu6iNtQGJfEvezV8ZWA\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants42929",
+      "amount": 478,
+      "price": 33224,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T23:26:46.000Z",
+      "notes": "OiH1LnR1xbRXU3TmoSTWZsttQpbUGfOSxwXjlXetbR4mtf2Ia2RMYWAG6pkfgSUUB5bpkGEASShUOhJ2LHW66Fpu1rXB5tqd4DTuydIiFeFS6dN3X4x6xYpWhgujyTLYFNzoVPTdU5OwjvS8b0LaRVIPrYmrYApbmOG8XSLPurO2JQVEWTcxoFc5UeLI8ALbV2gYlVNCsxjfYpiJCcSOQg37KlSrqfBSvDvP4oUuyOh3j4W2YjMLZJB1ai",
+      "_id": "6959a5b61c508c5d5e9d8981"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

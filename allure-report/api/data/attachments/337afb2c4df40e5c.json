@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:31:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-hTFK2/KgQXieIHaY+25hglgBnSA\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra13932",
+      "amount": 288,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T23:31:15.000Z",
+      "notes": "ia7IViso9FpHeGCyFINpzjDZkcqaEr68QKDwceGwy9Pf9sCwUbTe7oDxF51ypQlAHLfcZlK0z0PaVUjILoSaOIvyMY7Rys7o7TgvRjGlrQUXWf7hQsZsQnSm57hXNpZqnSmlE5zohZdGOcIp3owECvLxb25MonA6zjE8Dda067ZpNn8mrMcnLB4MFmwJEb1oC5QJxP6lpfFBprii4AL8oaG5MhxJxG5pedK35NgI0dXwHsxUgahagug9qh",
+      "_id": "6959a6c31c508c5d5e9de091"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

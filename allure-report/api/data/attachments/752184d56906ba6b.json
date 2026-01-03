@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:26:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-X9b/O9NaPvOMOo3cuLg3qHyT7h4\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard47756",
+      "amount": 372,
+      "price": 35601,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T23:26:27.000Z",
+      "notes": "S89TRhjxqc4ydyj9z44TXuYYA7aQBQd1AUcOlJycJzh9Y2BzwqbhgPnqc4E1ZssPcikIJLfAlofn3deW2DIDel4gKBwjbHsvOSOGfm9GA1UsppWjiP4LCx0YMM62hRZUFNRx8voxOBTEBsZormpXKVUOwCrcYN03SuEtmE7ECVxxQxO1WdlboWLhZbAmbWKI308pwmQFgubmtyOT5oedPBWktnb5x1t5n9uJzxpCJmLDdK6cmO0AoCdirF",
+      "_id": "6959a5a31c508c5d5e9d8302"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

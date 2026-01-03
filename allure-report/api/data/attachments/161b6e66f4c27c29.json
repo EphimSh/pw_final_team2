@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:23:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-gfcWnQ4YfEpymaHOfRtHnqEWQGk\"",
+    "keep-alive": "timeout=5, max=64",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish36905",
+      "amount": 556,
+      "price": 24410,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T23:23:53.000Z",
+      "notes": "aZPrUylOX9L6NfNArWEIvRbb1LrDgqfKyxzp1QApILJc3UYqYIzMcgd0mBORW1XY1dDj0XVhHzrtZoBap7Sj2SAWqyGgNFZ3VhCOkL26bxDklh9W9JAWzeO5RIVM6gWEJFEnSY9gA8wJV0cnc7O20LnKLcnuYbuqafLqzzHEIyUpVGTflFoZHsmUMI0RrzbC2RbNjdUbTSKFxpYoFvLVZcp7gCiQqkmmtZj12caJ6Ao1krqBSurBmMpPHf",
+      "_id": "6959a5091c508c5d5e9d4832"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

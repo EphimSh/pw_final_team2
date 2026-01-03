@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:24:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-MlMGVUY8Z5NmUAmSLx9z7hrhC/I\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish44043",
+      "amount": 643,
+      "price": 93402,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T23:24:49.000Z",
+      "notes": "Z02KrFbI0Oc3wZSyDbEMFs5KTlxPpXaOZn25tyeXw0CLwHM7iQ4bxa0pJcifcteZilT24IGxqOvRZA96ttxT7aFQA0kgTryxtmV7odyBW0vkp5nHczUIIhGyeL9XeKJkGp8StOstxd8sqAWkYPszoRNyGFwn8NO0JTk9RieKXtzwwqOAyq9nKixbS6pGcPQsBk01vEIJ9mLQRE6DZiox8J4lDTnIRpWoRESP1tL0U5iBqjN4kYojmXgXO9",
+      "_id": "6959a5411c508c5d5e9d5e42"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

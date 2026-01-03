@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:30:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-ncV2yIlcwsAGO8ciwFkrA9OLId8\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra69210",
+      "amount": 778,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T23:30:09.000Z",
+      "notes": "e8VLyiRrI1QKQOdmbyE8GwozmefolU8nmmnO14ccMOGw9xeAV53fP9GFw79XxeU3y96An9GvmLVecmutAjdD3nUgN46sETNHet8lze6lp0AlH26TsaY3JXGKl2yUeXDMsxgJwMFmhm24ZyjEDPATEQtdrpFv5fjpeAot9pPFra1eLwiU1phdKidapBoo00QoYyANKmB2cdsGGRU1GFrAkjB7SUFKuUvKFXpHU345NgHV8go3euUKXkQsFy",
+      "_id": "6959a6811c508c5d5e9dcbf1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

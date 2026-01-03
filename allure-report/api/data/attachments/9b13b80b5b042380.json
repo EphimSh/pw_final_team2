@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:22:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "351",
+    "etag": "W/\"15f-DYEtOY4h7EbHwq8zDC0L9ujGzek\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ephraim24@hotmail.com",
+      "name": "X",
+      "country": "Ukraine",
+      "city": "ELBdom",
+      "street": "2v7qtL6PxT6nuTZtHMO6nZK",
+      "house": 108,
+      "flat": 7,
+      "phone": "+4970307759",
+      "createdOn": "2026-01-03T23:22:56.000Z",
+      "notes": "aEolZahYQLKsWp2ifWlEJTZzx3iqyjdTv0ReVlldXK5ZzaboveRVkkZdNuHE",
+      "_id": "6959a4d01c508c5d5e9d3940"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

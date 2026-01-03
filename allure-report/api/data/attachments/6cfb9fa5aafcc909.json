@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:23:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-MMVjhrNG8gtGGFHjV9s9Z+iLUV8\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer23700",
+      "amount": 497,
+      "price": 84103,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T23:23:34.000Z",
+      "notes": "EIzU3ptyoOngrZYSlv5OCXPhm6OQsszGfLDdGu8Fl7JHW1PXfqfruuyVRw5zZYlgPlfQaKGcnMhurO0PrG7du0ARab06jT5IticfSibtihRerWgCVxL5M8Y9iotyS2H9KQqhF2tOS9Z1COEZ6HlqpZyhTij62rRVwP6BpRf7ua3pv8UIMXI7xohZpBcOS3j162UwJG2PLDeDieNE5YM6FnBnZC79euwqSGas7vZWAOUYfMXN8Q2URgMR2D",
+      "_id": "6959a4f61c508c5d5e9d4279"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

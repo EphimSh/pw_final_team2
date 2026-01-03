@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:25:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "464",
+    "etag": "W/\"1d0-r3lXo5GiUX8DN9S79yvlEwD7dco\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kobe_Lynch@gmail.com",
+      "name": "iGuiaZpU",
+      "country": "Ukraine",
+      "city": "tLZGxKZjfty",
+      "street": "irJlxBgu",
+      "house": 103,
+      "flat": 3,
+      "phone": "+6006213376",
+      "createdOn": "2026-01-03T23:25:33.000Z",
+      "notes": "c4jBPlbR0ALN7xK20z7FgdD2pVZkjZDuwOQ0iic1ko8QZHgLraK7DZTVxDwTnI9ACfXTcUbrNkciH5PAuoYMX2wEK3GVPB9do3KOOWmT50Thab5l4pTNu6dtHkNl0tamg0oypQX11M3AKw67Npj5lwMpQq3JAmVEVn73PQEoP9jCugMgY",
+      "_id": "6959a56d1c508c5d5e9d6ebb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:24:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "431",
+    "etag": "W/\"1af-BzVaBqdkmozRI+x9jzeW6n9ht90\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Zachery.Koelpin@yahoo.com",
+      "name": "gKjdtMAeDolNGQZiEehrRaBiCnXpr",
+      "country": "Canada",
+      "city": "qySwdimoIyrZ",
+      "street": "W4xmfFSrIf20qQo6NdH2d",
+      "house": 83,
+      "flat": 2,
+      "phone": "+9732677786",
+      "createdOn": "2026-01-03T23:24:53.000Z",
+      "notes": "sCX6wkKp9RELIj2RJ58vdoCrFdK0RIHJmcTSTPhqgIShyxbMZ9x7xalrX7wJi7XnG5jlJfnoHMq8Lna7ipNLQIYa20PeYElgvS6FX62UJL",
+      "_id": "6959a5451c508c5d5e9d5f9f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:23:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2004",
+    "etag": "W/\"7d4-VO14ALTIp7fFmXVwDNpXuUA1eY4\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959a4e11c508c5d5e9d3a91",
+      "status": "Draft",
+      "customer": {
+        "_id": "6959a4dd1c508c5d5e9d3a45",
+        "email": "Fabiola_Schuppe@hotmail.com",
+        "name": "AGbBgcNVjpThDxbJdrfQidaecvjyALsD",
+        "country": "Belarus",
+        "city": "VqDNGTQnPemZnjmx",
+        "street": "G",
+        "house": 54,
+        "flat": 9,
+        "phone": "+6532478263",
+        "createdOn": "2026-01-03T23:23:09.000Z",
+        "notes": "iTV1Hu1i5yyI577Ayie0bElrvNcXzM31KYHPW7inZi4NlwQbAoDVyevzCzQshMiyohXcDsA0MXGRB32BRBioC8g"
+      },
+      "products": [
+        {
+          "_id": "6959a4e11c508c5d5e9d3a7a",
+          "name": "Shirt98846",
+          "amount": 492,
+          "price": 54108,
+          "manufacturer": "Microsoft",
+          "notes": "G9fY6yB9trRjXdjxNX7Ai79vqq0RaJ2gwGnIuQCV09TODkuAspFoq7FPvesdakPdOYA1XWA0To7gibff8vvA8jkOitBPXgd6z2TLphaZ5XV4ZCSolcIj34VzG3CH81pzqUd0OeHqmMqTtL4htVYdK8N183yTQZxJDq5qmYl88wLL5eerOBM0dfs3FNFAAAN7UwP0QGE7m5jKkfrMUgSalpXWX8WxwDLhplpQX9jowVHk3mZy8VpnmsU67t",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 54108,
+      "createdOn": "2026-01-03T23:23:13.000Z",
+      "comments": [
+        {
+          "text": "EeXiYcn94PZj6HpYa2h71U1oJ2ZK9MAtiIgODNvCarhwm2ec0V99mhqx33Yq3WV0XRT5XLdlKYS5LYWHrqCGZ1jWdrnPz4NNohrIUy0f0cdyF5BzkGP5C8wpeiXxdmRxtiKBpPfwUpYeslqwFK2OgSXFeo33dIaLbz0OaVJqDEXK83NL8Tyfj2G",
+          "createdOn": "2026-01-03T23:23:14.000Z",
+          "_id": "6959a4e21c508c5d5e9d3abc"
+        }
+      ],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6959a4dd1c508c5d5e9d3a45",
+          "products": [
+            {
+              "_id": "6959a4e11c508c5d5e9d3a7a",
+              "name": "Shirt98846",
+              "amount": 492,
+              "price": 54108,
+              "manufacturer": "Microsoft",
+              "notes": "G9fY6yB9trRjXdjxNX7Ai79vqq0RaJ2gwGnIuQCV09TODkuAspFoq7FPvesdakPdOYA1XWA0To7gibff8vvA8jkOitBPXgd6z2TLphaZ5XV4ZCSolcIj34VzG3CH81pzqUd0OeHqmMqTtL4htVYdK8N183yTQZxJDq5qmYl88wLL5eerOBM0dfs3FNFAAAN7UwP0QGE7m5jKkfrMUgSalpXWX8WxwDLhplpQX9jowVHk3mZy8VpnmsU67t",
+              "received": false
+            }
+          ],
+          "total_price": 54108,
+          "delivery": null,
+          "changedOn": "2026-01-03T23:23:13.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

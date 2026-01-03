@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:24:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1781",
+    "etag": "W/\"6f5-nQu+a3scSvB2EF5QFM1WLEk9I7Q\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "6959a5211c508c5d5e9d53c7",
+        "email": "Hillary_Sanford53@yahoo.com",
+        "name": "E",
+        "country": "Canada",
+        "city": "aQJRRhnoh",
+        "street": "ciQalBnu74IfPj1TntApPY",
+        "house": 113,
+        "flat": 8,
+        "phone": "+3059881045",
+        "createdOn": "2026-01-03T23:24:17.000Z",
+        "notes": "KFs3H3RwJ1aMuwGlCNjnPQ688sxx6a6RIV02Trsj3uzKkmtOeE1fC3Avq6x1w35qiGzwCTsvjmpuBzxw3dIyU0bUHehPAAWbuCt4phLzMrtklZcER1xjYPRVMPlUTkzg6GsxpXV6PMEk9GKkSfDFIoU2Z"
+      },
+      "products": [
+        {
+          "_id": "6959a52a1c508c5d5e9d5677",
+          "name": "Gloves58222",
+          "amount": 31,
+          "price": 64234,
+          "manufacturer": "Google",
+          "notes": "nGt0H4bjFpqUdMHUtuns0bhY8lE9EkLxdU7Fj8gJOQoHz16vhN2ds22W6bvn7scvgeZQoEH6aqk1tEnOQa6cS7JlqDmf4E0hutkSdK709zLV1XuIDbSH9PULS0yiWleSYgMXR2ZrDSLAlxT4iuY6yeMaokMvUgSE9H5pOvMaj70yPII1fW25fQOGl0l616zoyL61IoWV1Jjnc71ePS60jBxdXYbse4srULRnmGvG0ftjlNCHQwLpC5y91D",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 64234,
+      "createdOn": "2026-01-03T23:24:26.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6959a5211c508c5d5e9d53c7",
+          "products": [
+            {
+              "_id": "6959a52a1c508c5d5e9d5677",
+              "name": "Gloves58222",
+              "amount": 31,
+              "price": 64234,
+              "manufacturer": "Google",
+              "notes": "nGt0H4bjFpqUdMHUtuns0bhY8lE9EkLxdU7Fj8gJOQoHz16vhN2ds22W6bvn7scvgeZQoEH6aqk1tEnOQa6cS7JlqDmf4E0hutkSdK709zLV1XuIDbSH9PULS0yiWleSYgMXR2ZrDSLAlxT4iuY6yeMaokMvUgSE9H5pOvMaj70yPII1fW25fQOGl0l616zoyL61IoWV1Jjnc71ePS60jBxdXYbse4srULRnmGvG0ftjlNCHQwLpC5y91D",
+              "received": false
+            }
+          ],
+          "total_price": 64234,
+          "delivery": null,
+          "changedOn": "2026-01-03T23:24:26.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "6959a52a1c508c5d5e9d5688"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:30:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "465",
+    "etag": "W/\"1d1-e+WeCPyEeD0Svh6OdP8GTGEZyWw\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra35735",
+      "amount": 62,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T23:30:07.000Z",
+      "notes": "YvGnUo8572GF6Hz1FV7uSejiVRHgGosBpRw2AAWdRsJJIGimiG4G3r3s9eHGKkdq2yiNzX2hgXvp2ZuTMTwupnZ0g5wvKHzG4uNWPvAkLpHuQkAb2D6wq5Pq7imnWON943XvS6pJ2dAvgroRrv0LPAYEf5HdAMcV57MT4Iqw8FyRanipyrPxARIYMpFIgZSKyfHqxSGLNbg9N6WbvIvaAsVRvC17kjXX1V3YtMxa4CppkB702oz1ZNOK6j",
+      "_id": "6959a67f1c508c5d5e9dc9bb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

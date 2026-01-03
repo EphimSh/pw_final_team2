@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:25:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "359",
+    "etag": "W/\"167-bczOFG3QcJ9E7XWpn0R9/H1b0iA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Hyman.Jacobson@gmail.com",
+      "name": "xijxSHDNmaHYhxMPjgFEI",
+      "country": "Great Britain",
+      "city": "i",
+      "street": "sW3sh89NwK4pFO",
+      "house": 35,
+      "flat": 8,
+      "phone": "+9211163034",
+      "createdOn": "2026-01-03T23:25:33.000Z",
+      "notes": "OXYvPhFJua7vBz4LXrWwkSEQg52o2vlt18yqbuEUE7jatrlQdPHCP4",
+      "_id": "6959a56d1c508c5d5e9d6eb9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

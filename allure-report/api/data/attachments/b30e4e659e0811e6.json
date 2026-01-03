@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:28:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-t6K8+wqlDhtf92E90D+YEWMsKRw\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad23867",
+      "amount": 645,
+      "price": 1,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T23:28:51.000Z",
+      "notes": "vKHQDQ0IqMqpMxUkwt6277ThEjdH1E58eZWcnQA7Cv7eVRaAzev0pFNe5neajr5i86Z7iafwmOUuPtsxU41kxTrAIdqXVaEmpLAcKkKNfBhj1I076ddFtyHs4FOHuv8Ta39Ba6W6GWsDYUoJu2BHCWCU4dLpX4dTcWGSnGzqJMH5CS6lxfXtdPEfOlRJDE67WTLREg60m0bUH0SPNKU9eNbLEOdGoyjKXWbhH3D7QXnbeCmTdJaNF3tah9",
+      "_id": "6959a6331c508c5d5e9db9ab"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

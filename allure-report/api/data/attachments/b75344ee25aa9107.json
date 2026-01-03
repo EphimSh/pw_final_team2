@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:26:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "475",
+    "etag": "W/\"1db-kSYzOGVzEx0HBLAAAJm7y/968W4\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Chadd_Dickens3@gmail.com",
+      "name": "knTFwENZZwDYoXksfU",
+      "country": "Ukraine",
+      "city": "QCcpVZ",
+      "street": "zTuC5PMIrOZcatrbhc4Tc",
+      "house": 172,
+      "flat": 6,
+      "phone": "+2215022336",
+      "createdOn": "2026-01-03T23:26:42.000Z",
+      "notes": "aVx8LT6twKPitMgsQbyBV0NA7tGaXoeBrLwzTHDpbQ3pmidOtTfWVRTaxPWGT2TfGUgQOAXBwEXtSZYwoxO2Dapn7Nq0IHF8MwKiDXEQYMOQp1BtVtwc0kodx6EpBAJhCej01a6Qkyh8EHdJ9ALNBUvqwSRw1dUxdrDvJT",
+      "_id": "6959a5b21c508c5d5e9d8740"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

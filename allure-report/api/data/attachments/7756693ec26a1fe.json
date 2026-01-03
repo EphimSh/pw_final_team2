@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:26:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "489",
+    "etag": "W/\"1e9-8Ll11+Kqb4V97T3r0fHxqAZv2sc\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Keenan.Watsica@yahoo.com",
+      "name": "JLIZc",
+      "country": "USA",
+      "city": "vmJs",
+      "street": "XbaqBynhBKtFcWI3RK",
+      "house": 40,
+      "flat": 8,
+      "phone": "+7341248698",
+      "createdOn": "2026-01-03T23:26:08.000Z",
+      "notes": "E5vJfLH6lXjPirgm5LBC7jlILPu29ynv1PJUTavoewT0n21RVYNRvTWMGomn69TdrEOKO9LycwQBvMOsvzvP6ANx0AP4eq63GjgXOVDtppad9k8F33DxSryGK7s12pUAlP2nQaPBuTSBZauNPnTOlC7AVOT73LVHyi6DSH7nH5loPQ7CQUquQK5F2FDLdMD9KTkZ3kNOW8J",
+      "_id": "6959a5901c508c5d5e9d7b53"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

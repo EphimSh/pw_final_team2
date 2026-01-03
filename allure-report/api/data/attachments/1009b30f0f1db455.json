@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:23:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "311",
+    "etag": "W/\"137-rHy9+S1b3sTDtz7Do0cWsXOySaU\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Nils25@hotmail.com",
+      "name": "Hz",
+      "country": "Canada",
+      "city": "MxjrYJuwYHTvssLymEl",
+      "street": "tqPVsuvJbx77gGBWF4nb2q1Z7DV",
+      "house": 173,
+      "flat": 1,
+      "phone": "+6235929591",
+      "createdOn": "2026-01-03T23:23:30.000Z",
+      "notes": "07wUHB",
+      "_id": "6959a4f21c508c5d5e9d414d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

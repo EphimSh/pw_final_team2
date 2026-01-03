@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:24:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-7AUM9kn9SQNTCvHUzDmI0E66w24\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Hillary_Sanford53@yahoo.com",
+      "name": "E",
+      "country": "Canada",
+      "city": "aQJRRhnoh",
+      "street": "ciQalBnu74IfPj1TntApPY",
+      "house": 113,
+      "flat": 8,
+      "phone": "+3059881045",
+      "createdOn": "2026-01-03T23:24:17.000Z",
+      "notes": "KFs3H3RwJ1aMuwGlCNjnPQ688sxx6a6RIV02Trsj3uzKkmtOeE1fC3Avq6x1w35qiGzwCTsvjmpuBzxw3dIyU0bUHehPAAWbuCt4phLzMrtklZcER1xjYPRVMPlUTkzg6GsxpXV6PMEk9GKkSfDFIoU2Z",
+      "_id": "6959a5211c508c5d5e9d53c7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

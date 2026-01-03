@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:26:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-ZQh49aNoQq0VwcxRy9dfMyf5Zsc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike94566",
+      "amount": 759,
+      "price": 87298,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T23:26:53.000Z",
+      "notes": "YK7VJu55hc3YXWm6W7RnH5iS8gGjaATtg6sFaLniASpuci83aCJKI0Daf3ExYUDOR3r1R1lSUsoysyLXOcnlOjJasy4OtBgi4JUoGEqxJRZjIHuashP0GqDZjNQE8Wkc61Yz07F2vF8pZJXV1hI3NOteNBjnSeLo3xLe5ut6zOjJfSjuPIC7cDWkGWkuiGej5DiQd0g7B17EuCzlVcIhLdG50vV3ETQB1ucyBb0cEEBL73T0Qx35YwoWWy",
+      "_id": "6959a5bd1c508c5d5e9d8d68"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

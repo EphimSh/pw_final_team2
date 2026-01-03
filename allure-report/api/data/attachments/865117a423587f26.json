@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:30:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-Dfnc0Kb4Qt6DqjVUXDp8xjJmIFg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "iPhone 15 Pro 512GB40130",
+      "amount": 958,
+      "price": 3500,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T23:30:44.000Z",
+      "notes": "poPLtWwKZMuR3EpPqAXqBtWgCxrcgxJmIFFrn6O43gZM3TIY8RTLOVUZvFuQ5OEIvHjF12ltqbxFCval16hxn6XUyowI8tcaNeNXmnaAy9PY83xbuK7At3MsX7jEfvCxTP18gO1TUo7G3lkufz9Uynf3vqNZpPamwtholTTP4Ra8QQfaTrjNAOlG6sbE6HyAnux9ykVa1MAuQikflGIEHnDIOGYWOiU8xrAtgSqY3Am22XCrYKemEjGVRf",
+      "_id": "6959a6a41c508c5d5e9dd760"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

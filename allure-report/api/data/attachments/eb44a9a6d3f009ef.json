@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:30:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "474",
+    "etag": "W/\"1da-5l1VIwxpxXSlZZMeyH41rCOILjM\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Microsoft Surface Duo 394013",
+      "amount": 524,
+      "price": 2200,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T23:30:18.000Z",
+      "notes": "P24udhkdbjo8w5Lac3Sp0xf7STrSQAbLHtOBBIWSJfnOk3uDM89eUtOZdGMidEjmH9BpUXpxxwvPEd4buBzbffnbiqpwXx1Gp07MxhwnexAHWmCvxGvTshDQtlmkPEcWaiHOx6ZHk7ERWFijsEkLj8hGFcbPtOsqBDVt4YCIjH6oZVoNGUPkp99OxYaRVN612iPz0pN8iSzykh4E3HjNuy74X26wG6gDHE74AkeffN07fH81xnops9jeOz",
+      "_id": "6959a68a1c508c5d5e9dce5f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

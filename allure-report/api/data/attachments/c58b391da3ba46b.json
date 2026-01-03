@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:27:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "436",
+    "etag": "W/\"1b4-GWZTQvPokrT6MKF0sXvDfGhsh4w\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Aiden.Bruen@yahoo.com",
+      "name": "CjPamHquczhvpeYklAMVvIu",
+      "country": "France",
+      "city": "ABMsqFttsWj",
+      "street": "xKRvY5gbzRclz",
+      "house": 50,
+      "flat": 7,
+      "phone": "+4165131532",
+      "createdOn": "2026-01-03T23:27:31.000Z",
+      "notes": "bVadWd5KLvNmcMUHKi9NEvfZdoE4gHM2LZLoXRqpcklQa3WAPtCvsMnp1l32aI4p6sfHolWBauiiBCtEdH8bsuiDMQXvOc9nrgAnm2jJoKGnsZqj7sCe8moOMtnUug8F1g",
+      "_id": "6959a5e31c508c5d5e9d9a47"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

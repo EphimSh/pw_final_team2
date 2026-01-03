@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:27:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "411",
+    "etag": "W/\"19b-IiKrUwiE4jUZeab27Wc6bXIpB04\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "6959a5b91c508c5d5e9d89f8",
+      "email": "Merritt_Goldner11@hotmail.com",
+      "name": "Ivan Ivanov",
+      "country": "France",
+      "city": "MmTbbG",
+      "street": "g6X0DPQ2DlTwWdx5x6P5334lofTaLoHd3KG3",
+      "house": 10,
+      "flat": 3,
+      "phone": "+0993191659",
+      "createdOn": "2026-01-03T23:26:49.000Z",
+      "notes": "eIKWgEwOvyhAZqQHIDDB2h8pUOCXJ2mPjzxYrZ0I5qGUrVJowf1VXH2LxMGkeo6K0MfmJRRki84p1qZdy8c7Fwm4V04"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

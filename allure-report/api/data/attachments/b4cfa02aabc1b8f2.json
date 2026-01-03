@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:24:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-4VyjrOg1Re65Y//6LbgaKyfVrrQ\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese2548",
+      "amount": 160,
+      "price": 44475,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T23:24:15.000Z",
+      "notes": "u8ChrPASNMaj0N3Ockql87iqiXVzYb2WzUoOM5SPc3esfUpI2jx1sIixoqAnZyJpR3U1JXA8Ce2ABrahde7PLXIF6bY0Jr6IL5wFeAHKD84Mz4n1aZYEFb6xDSQW9rlidoNjDjXoUPklhjgCenILub7VlBeeg6KHLVs1Ew2NqZSiBnrLQ042X12a8Dpj9HbMD39PXKlAPsG2zF02VN84ku27tTaMDKrkpNF8XrbRxM2xhXT1INRpP8jFiT",
+      "_id": "6959a51f1c508c5d5e9d50ef"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

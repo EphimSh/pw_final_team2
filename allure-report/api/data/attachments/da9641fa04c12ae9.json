@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:26:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-ew02sJkkBt25/Z2bbvk1NERtrRk\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table95685",
+      "amount": 187,
+      "price": 63158,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T23:26:09.000Z",
+      "notes": "Pw4sPogbdSj74nYtZ6ayhmL9uxjOwKvsCDF4bYtFr3R8a0beDGH6KnJUDIvkm7XOk7W4XNCGoufgAFXuyYl1IqhgrO6rKmQA3gRhAZbJLt6AoTvJP8xyZsNrrnnGg1eOeyn8ZHQpy3xVZWPXIFjNXwjQacphRxExN2rZTCciKVtT3IxuM0uftCtHYbo0auLtCC6zA3edvyYwXBXlsowqqdzKxTtiJBUxzsQoYKgV7dN6eiNIeKwenj30eb",
+      "_id": "6959a5911c508c5d5e9d7bb0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

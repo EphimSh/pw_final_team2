@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:25:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-RVFEebCwBk+vV40Jk0HjJVnqhvY\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat58892",
+      "amount": 198,
+      "price": 44287,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T23:25:47.000Z",
+      "notes": "I3PQysdAlJAM4y1xgY52JNh4jR3pr09a37FJjtTEyhBmf4VslKZC0Zp9fUPAxHvG4sctY3sSkLpywy8KWddVPfyUHspugGou017WP3l1yQSJ3TeqHosRcxsSYb1eCK30MmPPYinwDrwIP5aXnuOVmECafIYZTDi2EhCsGEHmATy3agv6OivhWbVOBvzv8nX3RryLooZSHukkGEL5J14yG7gxhGIu1YNhFVcIqZX6W4IE97urIssUAn8f7v",
+      "_id": "6959a57b1c508c5d5e9d7383"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

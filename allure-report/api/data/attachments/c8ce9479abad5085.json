@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:24:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-cdmLjYmE+GnG1UBKTT+bz8Q5GRw\"",
+    "keep-alive": "timeout=5, max=74",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish19788",
+      "amount": 236,
+      "price": 83538,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T23:24:58.000Z",
+      "notes": "KAafPg4qyDkiEDspSakaLriQ1G3Zcd0YurrxwviYK5umB1QMPnJWR5rmz9jnCwK4YZ66iseBYkkWSVKfrAKMXzcdoZeNZCh43QBD7bZ86Jf10CVRZkEVZih4mWRJozMJT4rrgSPTUgNEOs54siBROzYCE0UjA7pjfE7Gz4Pv6m0egxAfnm4bO0vLTcSFQzydXJiI5A3DSPckefnYVyhct4P7rVtgM8rRpF4H7Q98CEOua43iUyDw7HfNZx",
+      "_id": "6959a54a1c508c5d5e9d6201"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

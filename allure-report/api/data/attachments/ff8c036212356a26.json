@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:25:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-2TFqGBgoxRXHch/nKkHIutc+fzg\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap18036",
+      "amount": 313,
+      "price": 81339,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T23:25:47.000Z",
+      "notes": "Zt2DoNBhFcKoXOgLsbI9uJ32fZJONFh4tqYbFcVJ7ofk2k2OqdEIN0pMSGXa6oAR9nmarxfXfH3HuiZ2PUjVG8OBV4qeyoMGveqqmJ8ym8ECZOruCjPXCwF6CkO7AVvNejBTv6G8iaMSS9Q6QJt5jNGU3CjhWTlTk1K3XHWrJbQ4Tbm23LZB2l4quAm1GzC67BDXtm4vjNZDpP0RLSDIMfvWXarBbvotAnn9Cn5jTZgzridMBvEpuNNegN",
+      "_id": "6959a57b1c508c5d5e9d7385"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

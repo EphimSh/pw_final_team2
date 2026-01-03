@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:26:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "390",
+    "etag": "W/\"186-K19VvvTMc24vcF8+Ri21vKRti2I\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Adelle.Paucek@gmail.com",
+      "name": "gbPEirm",
+      "country": "France",
+      "city": "gNDsneWRdcCHGeg",
+      "street": "klfgCb9oZkKYFfNWeVbxLPsaZaqqTQoShjNhc4I",
+      "house": 19,
+      "flat": 4,
+      "phone": "+2158639354",
+      "createdOn": "2026-01-03T23:26:23.000Z",
+      "notes": "6wWXTfPybLTrxpH6cksC0BOZAcDd8NCvOQ7yIKf0A5bXJXCoEzB3TtDzpIs5iZneSUjQ",
+      "_id": "6959a59f1c508c5d5e9d81cf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:27:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "354",
+    "etag": "W/\"162-3XSA/gflZzzNrNM5cRn2wwd506g\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Frances_Lubowitz-Murray@hotmail.com",
+      "name": "Wpx",
+      "country": "Canada",
+      "city": "pToxnuRX",
+      "street": "GYGHLMToNBvGtsqa",
+      "house": 63,
+      "flat": 4,
+      "phone": "+6800011376",
+      "createdOn": "2026-01-03T23:27:23.000Z",
+      "notes": "kjz6ps84lXoGF9vAePs3OG4Ch3ZmmX383A9caTtgNktpP2qwOdV42w",
+      "_id": "6959a5db1c508c5d5e9d9789"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

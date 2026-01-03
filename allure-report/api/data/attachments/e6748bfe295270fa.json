@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:25:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-JGsxqpTQC83zUicx/rxJryFWXbA\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat55388",
+      "amount": 142,
+      "price": 7972,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T23:25:55.000Z",
+      "notes": "gjov3gmrYvVXimVpTl7RrIzprCI6IpM1zzxZFxQKRbIVxpIkGXxMI8fZLBqeK298gyXOnZQDJhHjqoyRZxUmDYO09sxdEoJ8qN02MSydXFe0YzZS3nIPYq9YkqNgGq3Qt4294iCGoffYQ9rLelGKrha2w5vLElXkgzLQHFKoqVaE5e1zsIYX4oe9rFfHlJLGyYVPj5W1e6E8qcNWHbd1k20nCASE2wPO5wiReM1H04oocFVUQyuh7NMCFs",
+      "_id": "6959a5841c508c5d5e9d7895"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

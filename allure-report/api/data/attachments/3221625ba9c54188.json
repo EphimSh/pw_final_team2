@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:24:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-I+DiJr4LXIuAlCbmQxw1PqbhF8s\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat5119",
+      "amount": 112,
+      "price": 59533,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T23:24:41.000Z",
+      "notes": "Pp5gEzxwzw2A3GKZbG8aFWBWHVIU3sIcSzmpFcM0VxA2tH0QhWZt8q2cNSsg9bzl0PViAbCqyYQgkl6EcnA08ltgt5flrUwRjop6XvcYBEpvjGkXTAlA0ec0BHPOiq9Jj7lVaLS94NsFy1RSOobPOqYW7BgALXtI1SnNYm4p4hxqpf0veRxflqBjj45mjVw4gZNsH4LN1XP1EWAwO1FrstV18TjN2OxV2DJGJHedBbntoHWXZFNWStcdnK",
+      "_id": "6959a5391c508c5d5e9d5bd2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:31:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "459",
+    "etag": "W/\"1cb-pehkvsnd9ync/v6keAzDp9zLXkA\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro4486",
+      "amount": 28,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T23:31:15.000Z",
+      "notes": "DbuvHE30qbc9v5bPPz8IbAVW1Y6xFJjkO7UTA1tEbuMJXXwis51qeNuLtHxJpJdOYr4Lih51La1NDx1xONAThiaT0yVY0dFF9CT9UsUWLR9DXRK4d05xuOjyZjCERENBSJCRAoToXWJGnCIlkq4hPgxa9UKce3227nwsKNQWNpGCVgWZt9JvYtVRUmHdyY71PClcWGaVbFBDDV7dc0TTxoa08nm5PuMYNjU0acK6fbGbLidmu68hRTaW20",
+      "_id": "6959a6c31c508c5d5e9de093"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:25:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-2SHRnWi+WqEjqUxE+OooBlcbwMk\"",
+    "keep-alive": "timeout=5, max=79",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt36323",
+      "amount": 992,
+      "price": 62263,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T23:25:07.000Z",
+      "notes": "skDDIRdsTETV95fCxa6LlnCuT6xM9tl1VXQqQEERW7gME0q8v8zQx8OyV1D1gAeXQb4IFQGq9sBKX9CHZW0f2HmacUfz1VJh12ulrmTQQj4uJBHUbNr0TRX7IgxZRMhXr1avkkAAOWMlvzINcaqjoxgHQ0d1x7bdZfBwTKiYKa5zCiWQuV8XEZ097vmZuNYjcf3w9NGz1p6sGTmZsKQv5qfPU4H3z6dNqauAQfqNW6psx1T7d4GClyqSq8",
+      "_id": "6959a5531c508c5d5e9d64c6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

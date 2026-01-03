@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:24:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "335",
+    "etag": "W/\"14f-tYRsrQBrqJTBJujYUBgg9BffI10\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Alisa.Rodriguez4@gmail.com",
+      "name": "TRPM",
+      "country": "Ukraine",
+      "city": "URsagadZrUBvVvN",
+      "street": "WJPfRNlZJ",
+      "house": 44,
+      "flat": 2,
+      "phone": "+6861106511",
+      "createdOn": "2026-01-03T23:24:45.000Z",
+      "notes": "HNFK4aXHbjgahHCLsq7TQa55vDirndljmFHYjLoW8Z",
+      "_id": "6959a53d1c508c5d5e9d5c0a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

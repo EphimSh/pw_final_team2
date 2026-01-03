@@ -1,0 +1,173 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:26:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3740",
+    "etag": "W/\"e9c-h3+3XtNUJf7UdCoPdLw5I+jTbVY\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959a5a51c508c5d5e9d842e",
+      "status": "Draft",
+      "customer": {
+        "_id": "6959a59f1c508c5d5e9d81d1",
+        "email": "Dorcas79@gmail.com",
+        "name": "INLsj",
+        "country": "Canada",
+        "city": "vjVLjwsppiTnkb",
+        "street": "FSn9xULFZjBUcdJYgAcWzqPY60pPyy4Kg",
+        "house": 34,
+        "flat": 7,
+        "phone": "+4139770478",
+        "createdOn": "2026-01-03T23:26:23.000Z",
+        "notes": "vtgws00tJsHQSEEMlWIaV7H2EJ6xmrMtNVmLb12f4RJhydPthaz2m2mvxU7e3GpO22mrTA0LKFNYSCzFcGHFIOv77eDPWeBubL1"
+      },
+      "products": [
+        {
+          "_id": "6959a5a31c508c5d5e9d8300",
+          "name": "Computer91410",
+          "amount": 164,
+          "price": 84213,
+          "manufacturer": "Samsung",
+          "notes": "1Vt8XzpI0kefQxmIMsKD7IM9uhqefmd1Rnp9aIlWIbcM7rcYuLVEDKoszCHiwDULbrFMPLl5399QMkvf7hV7igIqXQOzmHOsIbhAolHzjlOLdDTgNz5dOmcn4alRjotsAsiYXLDo54rkGSqgLsq58eOgCzp9ngKKk3uBHEFkmPParSPqgvvyG8nJiRDdlSIndAOIeOfjw9c0VAAeWW52apMYmLHsdcx8zqmPXF82uN7GqfirKXRF6oTtuI",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "France",
+          "city": "Mock City rmzEzWGooz",
+          "street": "MockStreetL2SU",
+          "house": 78,
+          "flat": 3
+        },
+        "finalDate": "2026-01-08T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 84213,
+      "createdOn": "2026-01-03T23:26:29.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6959a59f1c508c5d5e9d81d1",
+          "products": [
+            {
+              "_id": "6959a5a31c508c5d5e9d8300",
+              "name": "Computer91410",
+              "amount": 164,
+              "price": 84213,
+              "manufacturer": "Samsung",
+              "notes": "1Vt8XzpI0kefQxmIMsKD7IM9uhqefmd1Rnp9aIlWIbcM7rcYuLVEDKoszCHiwDULbrFMPLl5399QMkvf7hV7igIqXQOzmHOsIbhAolHzjlOLdDTgNz5dOmcn4alRjotsAsiYXLDo54rkGSqgLsq58eOgCzp9ngKKk3uBHEFkmPParSPqgvvyG8nJiRDdlSIndAOIeOfjw9c0VAAeWW52apMYmLHsdcx8zqmPXF82uN7GqfirKXRF6oTtuI",
+              "received": false
+            }
+          ],
+          "total_price": 84213,
+          "delivery": {
+            "address": {
+              "country": "France",
+              "city": "Mock City rmzEzWGooz",
+              "street": "MockStreetL2SU",
+              "house": 78,
+              "flat": 3
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-03T23:26:31.000Z",
+          "action": "Delivery Edited",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959a59f1c508c5d5e9d81d1",
+          "products": [
+            {
+              "_id": "6959a5a31c508c5d5e9d8300",
+              "name": "Computer91410",
+              "amount": 164,
+              "price": 84213,
+              "manufacturer": "Samsung",
+              "notes": "1Vt8XzpI0kefQxmIMsKD7IM9uhqefmd1Rnp9aIlWIbcM7rcYuLVEDKoszCHiwDULbrFMPLl5399QMkvf7hV7igIqXQOzmHOsIbhAolHzjlOLdDTgNz5dOmcn4alRjotsAsiYXLDo54rkGSqgLsq58eOgCzp9ngKKk3uBHEFkmPParSPqgvvyG8nJiRDdlSIndAOIeOfjw9c0VAAeWW52apMYmLHsdcx8zqmPXF82uN7GqfirKXRF6oTtuI",
+              "received": false
+            }
+          ],
+          "total_price": 84213,
+          "delivery": {
+            "address": {
+              "country": "Belarus",
+              "city": "Mock City Xr",
+              "street": "MockStreetU",
+              "house": 38,
+              "flat": 9
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-03T23:26:30.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959a59f1c508c5d5e9d81d1",
+          "products": [
+            {
+              "_id": "6959a5a31c508c5d5e9d8300",
+              "name": "Computer91410",
+              "amount": 164,
+              "price": 84213,
+              "manufacturer": "Samsung",
+              "notes": "1Vt8XzpI0kefQxmIMsKD7IM9uhqefmd1Rnp9aIlWIbcM7rcYuLVEDKoszCHiwDULbrFMPLl5399QMkvf7hV7igIqXQOzmHOsIbhAolHzjlOLdDTgNz5dOmcn4alRjotsAsiYXLDo54rkGSqgLsq58eOgCzp9ngKKk3uBHEFkmPParSPqgvvyG8nJiRDdlSIndAOIeOfjw9c0VAAeWW52apMYmLHsdcx8zqmPXF82uN7GqfirKXRF6oTtuI",
+              "received": false
+            }
+          ],
+          "total_price": 84213,
+          "delivery": null,
+          "changedOn": "2026-01-03T23:26:29.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

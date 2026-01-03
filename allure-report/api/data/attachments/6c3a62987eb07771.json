@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:28:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "394",
+    "etag": "W/\"18a-MxUiF3NOdOaCIQCUGdwRswZ111o\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Chad.Orn62@gmail.com",
+      "name": "VoutVoBfMatTrcgNmRfLdfYylKSjlcjVBRI",
+      "country": "Canada",
+      "city": "ZrWBgbKloFFoQY",
+      "street": "4L1aNi5yrZtx",
+      "house": 84,
+      "flat": 9,
+      "phone": "+7003247702",
+      "createdOn": "2026-01-03T23:28:06.000Z",
+      "notes": "S1xtJncWhpRAbW0iqajyGQR1zkIEm76El724fbphkHrt0tSdMabMVOGMoCzmDkyCP47RaOkpT5Q",
+      "_id": "6959a6061c508c5d5e9da625"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

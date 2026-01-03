@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:23:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "537",
+    "etag": "W/\"219-oxm0Y5uYoRTUkct34xP+gpYMpXs\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Frances74@hotmail.com",
+      "name": "rVbKOnRWptncuGOrcBDlmyvLPyykXnojDTg",
+      "country": "Ukraine",
+      "city": "dZExfqR",
+      "street": "MiW9lo6",
+      "house": 23,
+      "flat": 8,
+      "phone": "+8275143307",
+      "createdOn": "2026-01-03T23:23:30.000Z",
+      "notes": "jVJWlhRLdX4xo0I2TqGQ9xc0F6hOEH5ZuhGplZXxNnw9HphEF2fMLHgwalFAsDNcCwWtqlFEhL0Y0sgh4gYApoEZSwSpXo45rjlwqwpOJQgZoHUNcr6WMjOmudjcBdyQd6R7x4Ya22EGajjKIiORr2iQyZPwbfRg9kCOSsHmTqSnD3MkdA0VQGAcemFTOw0zC191w3RHfcI0OL5JWhYRudNcSb2uc4BRQjj5",
+      "_id": "6959a4f21c508c5d5e9d4153"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

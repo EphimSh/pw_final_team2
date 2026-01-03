@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:30:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-p0XfQXJmPQafA3ScE3sj9q2Dt/s\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra11012",
+      "amount": 401,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T23:30:22.000Z",
+      "notes": "jMrttGhgY9xXxgr8IhAwHBay4RMyIrBblvIDdjwVEV89pVEJMIdXsOccu38Y3inWgwPiHPkoyc1khc34nAOacnlbDpdrM8KfY33HcAs1ZOl7eoauPjNZSG0tiYvdgu5w60HKaeL3woianbnDhjBIV24NhM9bgOqGcqLBTfjb7p8mQZOI7j8MnN1UiBmIyXvcjj5tzXIgiqucIylAfLoxCbmc3f3nfo5TuqVQLLgtERxAdR0JN1c7BpGrvv",
+      "_id": "6959a68e1c508c5d5e9dd1ae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

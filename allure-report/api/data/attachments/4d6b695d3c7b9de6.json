@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:24:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-qk8W249/9mhyQP5JShCTKr8Dqyc\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair25747",
+      "amount": 580,
+      "price": 59651,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T23:24:32.000Z",
+      "notes": "DWCSOEl0XuTvxPApf9PrVCKhar7xApPMwZGebcAlrxYuwleHBP2DixzrlKjGSAPFy07DNLsAxqftzPgxvTVeGpEqyE3PtzamJMAiwL6tedLgNyzcmLdPmdFdI2m0zW4exloEdAv8KyfAceyigdqArtepMA9SHcxyN2T7vuRnzIzU8vf2HI8yrM3eq0d1RY9neMXae80JdXD74aQpNrweLmoG2RtpXMiRcoP4HRzz77uULsks0Ssfs76NEL",
+      "_id": "6959a5301c508c5d5e9d5900"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

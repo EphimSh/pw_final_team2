@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:26:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-Zzb62YW1DOQeFubAK3cEkiALZSE\"",
+    "keep-alive": "timeout=5, max=79",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer91410",
+      "amount": 164,
+      "price": 84213,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T23:26:27.000Z",
+      "notes": "1Vt8XzpI0kefQxmIMsKD7IM9uhqefmd1Rnp9aIlWIbcM7rcYuLVEDKoszCHiwDULbrFMPLl5399QMkvf7hV7igIqXQOzmHOsIbhAolHzjlOLdDTgNz5dOmcn4alRjotsAsiYXLDo54rkGSqgLsq58eOgCzp9ngKKk3uBHEFkmPParSPqgvvyG8nJiRDdlSIndAOIeOfjw9c0VAAeWW52apMYmLHsdcx8zqmPXF82uN7GqfirKXRF6oTtuI",
+      "_id": "6959a5a31c508c5d5e9d8300"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

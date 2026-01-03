@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:23:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "356",
+    "etag": "W/\"164-vzhsO+M2nOR8NS72pjSql2ufMSk\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Lucile.Mraz48@hotmail.com",
+      "name": "iKcVJvUp",
+      "country": "France",
+      "city": "UxjMqP",
+      "street": "ix",
+      "house": 62,
+      "flat": 8,
+      "phone": "+5472276497",
+      "createdOn": "2026-01-03T23:23:00.000Z",
+      "notes": "7Wc8dU4nrP1NkdtyyBMqNeYNgqTplbHyn6QxUrzsWJfCgf339Xpg0AKdOLpJUIAVnN7t4xJnaovHD",
+      "_id": "6959a4d41c508c5d5e9d39b7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

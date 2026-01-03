@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:25:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-gBkTu/F5rq/QVx+OYaOfNiKabqc\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna95209",
+      "amount": 571,
+      "price": 26339,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T23:25:04.000Z",
+      "notes": "G7mgcagxPpVv9g2IfHr8ostltXGA7shyaM4Y9aKj8YOE77J1ggrO7aERSR8YtzHoKjKpjXOX5aPdlAtwfusuWNJTln7BKe44OFp34nPxrGh130bY6H6Q6u5TNlv2kgzDcv0qgP3SPTqTEpTDAWCE21JeT2LcFmkYycfm0TaoXhzd14MgsFXNilnFTVIdwxPYk378hLCPaiPusj69EkPfMxHcALtwmGvT2xAnrh6oVVdB9Z4xbG845x3QrA",
+      "_id": "6959a5501c508c5d5e9d636f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:28:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-0zmtdMzEdop2auRXGs/rR4oSEV8\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table21985",
+      "amount": 382,
+      "price": 85903,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T23:28:24.000Z",
+      "notes": "QXR3qG6OkErZ2XILfd986HXlOOdczv2EOwrXMjjnxkrvq1UaiSRhLZscCuAfyNFja1u7CTeM8dAMcVVDRJnsB9UoqVuWzp9rZ2GEa2fcMlwQiQDt8UEJbPdESO1p4bmj6EkztOSy6sOMN2uhklEY8JRFetKm0V5Tvyh4vmlGwBWLEYypfm5SQBuX7qtckHvryc51a5okxn8aLYrqasmVVtaip74e6gbUeNrfoMozs21QxdV5BxJXCfEVy2",
+      "_id": "6959a6181c508c5d5e9dad4c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

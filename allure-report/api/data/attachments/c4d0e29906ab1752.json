@@ -1,0 +1,186 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:27:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4043",
+    "etag": "W/\"fcb-id23Ff4Ck633E6IIPnbCS1EttZI\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Orders": [
+      {
+        "_id": "6959a5e71c508c5d5e9d9c91",
+        "status": "In Process",
+        "customer": {
+          "_id": "6959a5e21c508c5d5e9d9a42",
+          "email": "Gregg_Rodriguez46@hotmail.com",
+          "name": "Ivan Ivanov",
+          "country": "France",
+          "city": "dy",
+          "street": "uHWrahxzO",
+          "house": 76,
+          "flat": 1,
+          "phone": "+4994175382",
+          "createdOn": "2026-01-03T23:27:30.000Z",
+          "notes": "IeI0k41AMBWyelWzqMrny33CQOVzVmjgoIlTyRJcwC8alFgkELC2Y5x9fh74xWQz0POu21d6Se8VVmx3kLFlb4HMaQCrXFzpR6bnNg48KJErJPoZt4CeKJq8ATtZAtVL90lcyqvaaFyzH9v1GLd6Sjw033X33OERHA2QXZWyKf4Eac1CT5VslTUzfjcsBH1DUpLTBnHO87yhIv9NxB3tylzryeZ6MU11DqQ0fC4G3BGr"
+        },
+        "products": [
+          {
+            "_id": "6959a5e61c508c5d5e9d9c7c",
+            "name": "Keyboard83024",
+            "amount": 475,
+            "price": 22436,
+            "manufacturer": "Xiaomi",
+            "notes": "zS0yc077zcVqLtWtsEjw2zEqoTLpxeIV9FvFScMolUwZBkwFx3zZJ3ojA4pocDpAyzEAKgyGJ8FsQhHlcLDxCtXDkHTWpJMckS6Id5SKYXNibDZKSxxqUnVkOsT6r9PzVVA2XjuYPbgPUczKaCx5ePdFoykhofRxLn2GTQzWmVDtHiL3euABCzeW3oHbMFHofgX6gf2hvuywBgQyf1GCOWMMSlDoc1CR6xydZcMl9m3Ik6Xya2oKUPKlj6",
+            "received": false
+          }
+        ],
+        "delivery": {
+          "address": {
+            "country": "Belarus",
+            "city": "Mock City P",
+            "street": "MockStreetgngyhkqBVs8HvZWbYOPct",
+            "house": 45,
+            "flat": 8
+          },
+          "finalDate": "2026-01-08T00:00:00.000Z",
+          "condition": "Delivery"
+        },
+        "total_price": 22436,
+        "createdOn": "2026-01-03T23:27:35.000Z",
+        "comments": [],
+        "history": [
+          {
+            "status": "In Process",
+            "customer": "6959a5e21c508c5d5e9d9a42",
+            "products": [
+              {
+                "_id": "6959a5e61c508c5d5e9d9c7c",
+                "name": "Keyboard83024",
+                "amount": 475,
+                "price": 22436,
+                "manufacturer": "Xiaomi",
+                "notes": "zS0yc077zcVqLtWtsEjw2zEqoTLpxeIV9FvFScMolUwZBkwFx3zZJ3ojA4pocDpAyzEAKgyGJ8FsQhHlcLDxCtXDkHTWpJMckS6Id5SKYXNibDZKSxxqUnVkOsT6r9PzVVA2XjuYPbgPUczKaCx5ePdFoykhofRxLn2GTQzWmVDtHiL3euABCzeW3oHbMFHofgX6gf2hvuywBgQyf1GCOWMMSlDoc1CR6xydZcMl9m3Ik6Xya2oKUPKlj6",
+                "received": false
+              }
+            ],
+            "total_price": 22436,
+            "delivery": {
+              "address": {
+                "country": "Belarus",
+                "city": "Mock City P",
+                "street": "MockStreetgngyhkqBVs8HvZWbYOPct",
+                "house": 45,
+                "flat": 8
+              },
+              "finalDate": "2026-01-08T00:00:00.000Z",
+              "condition": "Delivery"
+            },
+            "changedOn": "2026-01-03T23:27:38.000Z",
+            "action": "Order processing started",
+            "performer": {
+              "_id": "6936ffc71c508c5d5e9a3764",
+              "username": "student21@gmail.com",
+              "firstName": "Jillian",
+              "lastName": "Lynch",
+              "roles": [
+                "USER"
+              ],
+              "createdOn": "2025/12/08 16:41:43"
+            },
+            "assignedManager": null
+          },
+          {
+            "status": "Draft",
+            "customer": "6959a5e21c508c5d5e9d9a42",
+            "products": [
+              {
+                "_id": "6959a5e61c508c5d5e9d9c7c",
+                "name": "Keyboard83024",
+                "amount": 475,
+                "price": 22436,
+                "manufacturer": "Xiaomi",
+                "notes": "zS0yc077zcVqLtWtsEjw2zEqoTLpxeIV9FvFScMolUwZBkwFx3zZJ3ojA4pocDpAyzEAKgyGJ8FsQhHlcLDxCtXDkHTWpJMckS6Id5SKYXNibDZKSxxqUnVkOsT6r9PzVVA2XjuYPbgPUczKaCx5ePdFoykhofRxLn2GTQzWmVDtHiL3euABCzeW3oHbMFHofgX6gf2hvuywBgQyf1GCOWMMSlDoc1CR6xydZcMl9m3Ik6Xya2oKUPKlj6",
+                "received": false
+              }
+            ],
+            "total_price": 22436,
+            "delivery": {
+              "address": {
+                "country": "Belarus",
+                "city": "Mock City P",
+                "street": "MockStreetgngyhkqBVs8HvZWbYOPct",
+                "house": 45,
+                "flat": 8
+              },
+              "finalDate": "2026-01-08T00:00:00.000Z",
+              "condition": "Delivery"
+            },
+            "changedOn": "2026-01-03T23:27:38.000Z",
+            "action": "Delivery Scheduled",
+            "performer": {
+              "_id": "6936ffc71c508c5d5e9a3764",
+              "username": "student21@gmail.com",
+              "firstName": "Jillian",
+              "lastName": "Lynch",
+              "roles": [
+                "USER"
+              ],
+              "createdOn": "2025/12/08 16:41:43"
+            },
+            "assignedManager": null
+          },
+          {
+            "status": "Draft",
+            "customer": "6959a5e21c508c5d5e9d9a42",
+            "products": [
+              {
+                "_id": "6959a5e61c508c5d5e9d9c7c",
+                "name": "Keyboard83024",
+                "amount": 475,
+                "price": 22436,
+                "manufacturer": "Xiaomi",
+                "notes": "zS0yc077zcVqLtWtsEjw2zEqoTLpxeIV9FvFScMolUwZBkwFx3zZJ3ojA4pocDpAyzEAKgyGJ8FsQhHlcLDxCtXDkHTWpJMckS6Id5SKYXNibDZKSxxqUnVkOsT6r9PzVVA2XjuYPbgPUczKaCx5ePdFoykhofRxLn2GTQzWmVDtHiL3euABCzeW3oHbMFHofgX6gf2hvuywBgQyf1GCOWMMSlDoc1CR6xydZcMl9m3Ik6Xya2oKUPKlj6",
+                "received": false
+              }
+            ],
+            "total_price": 22436,
+            "delivery": null,
+            "changedOn": "2026-01-03T23:27:35.000Z",
+            "action": "Order created",
+            "performer": {
+              "_id": "6936ffc71c508c5d5e9a3764",
+              "username": "student21@gmail.com",
+              "firstName": "Jillian",
+              "lastName": "Lynch",
+              "roles": [
+                "USER"
+              ],
+              "createdOn": "2025/12/08 16:41:43"
+            },
+            "assignedManager": null
+          }
+        ],
+        "assignedManager": null
+      }
+    ],
+    "total": 1,
+    "page": 1,
+    "limit": 10,
+    "search": "Ivan",
+    "status": [
+      "In Process"
+    ],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "asc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

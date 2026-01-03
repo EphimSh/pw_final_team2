@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 23:25:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-0sOdbIdEC3C1gM5D/Z2JPXhjcEs\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Hobart_Champlin@gmail.com",
+      "name": "WfiLRdcCbwwDtMfUeHWFzSYLoowlYesrpxpBghq",
+      "country": "Belarus",
+      "city": "dtSpjFrRfKxVYEqSQn",
+      "street": "le38Oq7dlY5hPr3Gbz0",
+      "house": 3,
+      "flat": 6,
+      "phone": "+1263737978",
+      "createdOn": "2026-01-03T23:25:42.000Z",
+      "notes": "Tb4p5hWDXaS9aUEjat9WaFurt2w7dL5or6hszhwigpOzhWbO6PTUTFHOlxSI77XBlrxpRFu8PgojdrFuj6agYjAB8WiL2eSKZKy4hAnQtUveTPb",
+      "_id": "6959a5761c508c5d5e9d724f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
