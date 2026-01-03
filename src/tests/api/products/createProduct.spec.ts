@@ -6,6 +6,7 @@ import _ from "lodash";
 import { validateResponse } from "utils/validation/validateResponse.utils";
 import { IProduct } from "data/types/products.types";
 import { errorSchema } from "data/schemas/core.schema";
+import { TEST_TAG, COMPONENT_TAG } from "data/types/tags.types";
 
 test.describe("[API] [Sales Portal] [Products] [Create]", () => {
   let id = "";
@@ -37,62 +38,82 @@ test.describe("[API] [Sales Portal] [Products] [Create]", () => {
     expect(_.omit(actualProductData, ["_id", "createdOn"])).toEqual(productData);
   });
 
-  test("SC-002: Создание товара без опционального поля notes", async ({ productsApi }) => {
-    if (productData.notes) delete productData.notes;
-    const createdProduct = await productsApi.create(productData, token);
-    validateResponse(createdProduct, {
-      status: STATUS_CODES.CREATED,
-      schema: createProductSchema,
-      IsSuccess: true,
-      ErrorMessage: null,
-    });
+  test(
+    "SC-002: Создание товара без опционального поля notes",
+    { tag: [TEST_TAG.REGRESSION, TEST_TAG.API, TEST_TAG.POSITIVE, COMPONENT_TAG.PRODUCTS] },
+    async ({ productsApi }) => {
+      if (productData.notes) delete productData.notes;
+      const createdProduct = await productsApi.create(productData, token);
+      validateResponse(createdProduct, {
+        status: STATUS_CODES.CREATED,
+        schema: createProductSchema,
+        IsSuccess: true,
+        ErrorMessage: null,
+      });
 
-    id = createdProduct.body.Product._id;
-    const actualProductData = createdProduct.body.Product;
-    expect(_.omit(actualProductData, ["_id", "createdOn"])).toEqual(productData);
-  });
+      id = createdProduct.body.Product._id;
+      const actualProductData = createdProduct.body.Product;
+      expect(_.omit(actualProductData, ["_id", "createdOn"])).toEqual(productData);
+    },
+  );
 
-  test("SC-003: Отсутствует обязательное поле name", async ({ productsApi }) => {
-    productData.name = undefined!;
-    const createdProduct = await productsApi.create(productData, token);
-    validateResponse(createdProduct, {
-      status: STATUS_CODES.BAD_REQUEST,
-      schema: errorSchema,
-      IsSuccess: false,
-      ErrorMessage: "Incorrect request body",
-    });
-  });
+  test(
+    "SC-003: Отсутствует обязательное поле name",
+    { tag: [TEST_TAG.REGRESSION, TEST_TAG.API, TEST_TAG.NEGATIVE, COMPONENT_TAG.PRODUCTS] },
+    async ({ productsApi }) => {
+      productData.name = undefined!;
+      const createdProduct = await productsApi.create(productData, token);
+      validateResponse(createdProduct, {
+        status: STATUS_CODES.BAD_REQUEST,
+        schema: errorSchema,
+        IsSuccess: false,
+        ErrorMessage: "Incorrect request body",
+      });
+    },
+  );
 
-  test("SC-004: Невалидный manufacturer (не из списка enum)", async ({ productsApi }) => {
-    productData.manufacturer = "Huawei";
-    const createdProduct = await productsApi.create(productData, token);
-    validateResponse(createdProduct, {
-      status: STATUS_CODES.BAD_REQUEST,
-      schema: errorSchema,
-      IsSuccess: false,
-      ErrorMessage: "Incorrect request body",
-    });
-  });
+  test(
+    "SC-004: Невалидный manufacturer (не из списка enum)",
+    { tag: [TEST_TAG.REGRESSION, TEST_TAG.API, TEST_TAG.NEGATIVE, COMPONENT_TAG.PRODUCTS] },
+    async ({ productsApi }) => {
+      productData.manufacturer = "Huawei";
+      const createdProduct = await productsApi.create(productData, token);
+      validateResponse(createdProduct, {
+        status: STATUS_CODES.BAD_REQUEST,
+        schema: errorSchema,
+        IsSuccess: false,
+        ErrorMessage: "Incorrect request body",
+      });
+    },
+  );
 
-  test("SC-005: Отрицательные числа в amount и price", async ({ productsApi }) => {
-    productData.price = -10;
-    productData.amount = -100;
-    const createdProduct = await productsApi.create(productData, token);
-    validateResponse(createdProduct, {
-      status: STATUS_CODES.BAD_REQUEST,
-      schema: errorSchema,
-      IsSuccess: false,
-      ErrorMessage: "Incorrect request body",
-    });
-  });
+  test(
+    "SC-005: Отрицательные числа в amount и price",
+    { tag: [TEST_TAG.REGRESSION, TEST_TAG.API, TEST_TAG.NEGATIVE, COMPONENT_TAG.PRODUCTS] },
+    async ({ productsApi }) => {
+      productData.price = -10;
+      productData.amount = -100;
+      const createdProduct = await productsApi.create(productData, token);
+      validateResponse(createdProduct, {
+        status: STATUS_CODES.BAD_REQUEST,
+        schema: errorSchema,
+        IsSuccess: false,
+        ErrorMessage: "Incorrect request body",
+      });
+    },
+  );
 
-  test("SC-006: Неправильный Content-Type", async ({ productsApi }) => {
-    const createdProduct = await productsApi.create(productData, token, { contentType: "text/plain" });
-    validateResponse(createdProduct, {
-      status: STATUS_CODES.BAD_REQUEST,
-      schema: errorSchema,
-      IsSuccess: false,
-      ErrorMessage: "Incorrect request body",
-    });
-  });
+  test(
+    "SC-006: Неправильный Content-Type",
+    { tag: [TEST_TAG.REGRESSION, TEST_TAG.API, TEST_TAG.NEGATIVE, COMPONENT_TAG.PRODUCTS] },
+    async ({ productsApi }) => {
+      const createdProduct = await productsApi.create(productData, token, { contentType: "text/plain" });
+      validateResponse(createdProduct, {
+        status: STATUS_CODES.BAD_REQUEST,
+        schema: errorSchema,
+        IsSuccess: false,
+        ErrorMessage: "Incorrect request body",
+      });
+    },
+  );
 });

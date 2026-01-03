@@ -11,6 +11,8 @@ export enum NOTIFICATIONS {
   ORDER_CANCELED = "Order was successfully canceled",
   ORDER_UPDATED = "Order was successfully updated",
   ORDER_REOPENED = "Order was successfully reopened",
+  COMMENT_POSTED = "Comment was successfully posted",
+  COMMENT_DELETED = "Comment was successfully deleted",
   DELIVERY_SAVED = "Delivery was successfully saved",
   PROCESS_STARTED = "Order processing was successfully started",
   PRODUCTS_RECEIVED = "Products were successfully received",

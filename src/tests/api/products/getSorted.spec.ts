@@ -7,6 +7,7 @@ import { IProductFromResponse } from "data/types/products.types";
 import { test } from "fixtures";
 
 import { validateResponse } from "utils/validation/validateResponse.utils";
+import { COMPONENT_TAG } from "data/types/tags.types";
 
 test.describe("[API] [Sales Portal] [Products] Get Sorted", () => {
   test.describe("Search", () => {
@@ -27,7 +28,7 @@ test.describe("[API] [Sales Portal] [Products] Get Sorted", () => {
     for (const caseData of searchTestCases) {
       test(
         `${caseData.title}`,
-        { tag: [TAGS.REGRESSION, TAGS.API, TAGS.PRODUCTS] },
+        { tag: [TAGS.REGRESSION, TAGS.API, COMPONENT_TAG.PRODUCTS] },
         async ({ productsApiService, productsApi }) => {
           const searchValue = caseData.getSearchValue(product);
           const response = await productsApi.getSorted(token, { search: searchValue });
@@ -77,7 +78,7 @@ test.describe("[API] [Sales Portal] [Products] Get Sorted", () => {
     for (const caseData of sortProductListTestCases) {
       test(
         caseData.title,
-        { tag: [TAGS.REGRESSION, TAGS.API, TAGS.PRODUCTS] },
+        { tag: [TAGS.REGRESSION, TAGS.API, COMPONENT_TAG.PRODUCTS] },
         async ({ productsApi, productsApiService }) => {
           const response = await productsApi.getSorted(token, {
             sortField: caseData.sortField,
