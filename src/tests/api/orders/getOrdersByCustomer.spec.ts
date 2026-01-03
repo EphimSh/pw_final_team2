@@ -8,46 +8,48 @@ import { getOrdersByCustomerSchema } from "data/schemas/orders/getOrdersByCustom
 
 test.describe("[API] [Sales Portal] [Orders] [Get Orders by Customers]", () => {
   let token = "";
-
-  test.beforeEach(async ({ loginApiService }) => {
+  let orderID1 = "";
+  let orderID2 = "";
+  let customerID = "";
+  let productID1 = "";
+  let productID2 = "";
+  test.beforeEach(async ({ loginApiService, customerApiService, productsApiService, ordersApi, ordersApiService }) => {
     token = await loginApiService.loginAsAdmin();
-  });
-
-  // test.afterEach(async ({ ordersApiService }) => {
-  //   if (orderID1) await ordersApiService.deleteOrderWithCustomerAndProduct(orderID1, token);
-  //   if (orderID2) await ordersApiService.deleteOrderWithCustomerAndProduct(orderID2, token);
-  // });
-
-  test("SC-065: Search order by customer name", async ({
-    ordersApi,
-    productsApiService,
-    customerApiService,
-    ordersApiService,
-  }) => {
     const productData1 = generateProductData();
     const productData2 = generateProductData();
     const customerData = generateCustomerData();
 
     const customer = await customerApiService.create(token, customerData);
-    const customerID = customer._id;
+    customerID = customer._id;
+    console.log("Customer ID: " + customerID);
 
     const createdProduct1 = await productsApiService.create(token, productData1);
-    const productID1 = createdProduct1._id;
+    productID1 = createdProduct1._id;
     const orderData1 = { customer: customerID, products: [productID1] };
     const orderResponse1 = await ordersApi.create(orderData1, token);
-    const orderID1 = await orderResponse1.body.Order._id;
+    orderID1 = orderResponse1.body.Order._id;
     await ordersApiService.assertOrderStatus(orderResponse1, ORDER_STATUSES.DRAFT);
 
     const createdProduct2 = await productsApiService.create(token, productData2);
-    const productID2 = createdProduct2._id;
+    productID2 = createdProduct2._id;
     const orderData2 = { customer: customerID, products: [productID2] };
     const orderResponse2 = await ordersApi.create(orderData2, token);
-    const orderID2 = await orderResponse2.body.Order._id;
+    orderID2 = orderResponse2.body.Order._id;
     await ordersApiService.assertOrderStatus(orderResponse2, ORDER_STATUSES.DRAFT);
 
-    console.log(orderResponse1.body.Order._id);
-    console.log(orderResponse2.body.Order._id);
+    console.log("OrderID 1: " + orderResponse1.body.Order._id);
+    console.log("Order ID 2:" + orderResponse2.body.Order._id);
+  });
 
+  test.afterEach(async ({ ordersApiService, customerApiService, productsApiService }) => {
+    if (orderID1) await ordersApiService.deleteOrder(orderID1, token);
+    if (orderID2) await ordersApiService.deleteOrder(orderID2, token);
+    if (customerID) await customerApiService.delete(token, customerID);
+    if (productID1) await productsApiService.delete(token, productID1);
+    if (productID2) await productsApiService.delete(token, productID2);
+  });
+
+  test("SC-065: Search order by customer name", async ({ ordersApi }) => {
     const response = await ordersApi.getOrdersByCustomer(customerID, token);
     console.log("Orders: " + response.body.Orders);
     validateResponse(response, {
@@ -63,5 +65,9 @@ test.describe("[API] [Sales Portal] [Orders] [Get Orders by Customers]", () => {
     const orderIds = orders.map((order) => order._id);
     expect(orderIds).toContain(orderID1);
     expect(orderIds).toContain(orderID2);
+
+    orders.forEach((order) => {
+      expect(order.customer).toBe(customerID);
+    });
   });
 });
