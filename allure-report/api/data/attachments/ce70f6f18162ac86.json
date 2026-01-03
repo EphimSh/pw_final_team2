@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:19:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "480",
+    "etag": "W/\"1e0-VWvVXYKzq0g422VsH6Qs7hOIKxA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Lina_Wilkinson@yahoo.com",
+      "name": "PwMabCamschifKOQFXkXsxgObVexAPsnOBkIleSV",
+      "country": "Russia",
+      "city": "nN",
+      "street": "FOuMJWGK68XainfRu",
+      "house": 99,
+      "flat": 7,
+      "phone": "+1105386163",
+      "createdOn": "2026-01-03T16:19:51.000Z",
+      "notes": "YKv1mLQHhUE2Gd8i8e6WM5qErFr1baUzeMC2iztUOLzebm6kf2ziIMDzFr7jMqXieaslCEDuG9R2NZxjzocJ4tbNVMnEZcjnM4kxAPETFL25O1jKsqO9ERfiXA6EQPtC9zrpHwrQpzQ1dwQx1PGKEFs8sBUCMjV",
+      "_id": "695941a71c508c5d5e8fb33c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

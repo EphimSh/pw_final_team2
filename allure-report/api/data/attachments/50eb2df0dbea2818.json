@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:18:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "475",
+    "etag": "W/\"1db-XF0PI/ptmbwS+D/V9iEZlTEI0JA\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Frida_Rowe@hotmail.com",
+      "name": "xftQACbBNmnLuICwEyvlrPwheJvxByzEo",
+      "country": "Ukraine",
+      "city": "RNRRCB",
+      "street": "oPdfGOCO2CoPbpRAqEuHvlqHPwtaE1aT",
+      "house": 53,
+      "flat": 8,
+      "phone": "+1748225887",
+      "createdOn": "2026-01-03T16:18:13.000Z",
+      "notes": "l9ywnAeSKEreeHxNAQfWVzoj4V2yoZXDkD7A6jTBvoWHJ7riobs2usSWGaOuUGHuChEAfCLjTwTYtftCzwfydOfmwilQhhUwBstNvEn9GXemZwLsaq0SUfi0xOzT4I2QLFCEqm7vWoTuFY8",
+      "_id": "695941451c508c5d5e8f9702"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-BkLIVxbR6OIg5f2/OjwUr1Q0FlI\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes84368",
+      "amount": 109,
+      "price": 35761,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T16:20:32.000Z",
+      "notes": "y4NXiyQMN1EmtfYv1vLPsEI3042tAGUvVzvhMWWwW5tzYwuuOBwJfiLtQomLs1ZmqhIxrx79siQvqZfWMVD7v3k6mPttRfEE8SrKFt3RfRSFcxwaMyFsSMyZogAx8weNX8zYjaJ3ukPXN7kM82wn6tZ9tkRhTHURpTOUQsMV4GGVhDH8INmDC0WGvqO37kLnhOQn6LHO3sX8HfgdimWJzl8qKJ5RXZncqlenIBQt6pA3p9o8JI6PJdFxJr",
+      "_id": "695941d01c508c5d5e8fc06b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

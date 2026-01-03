@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:17:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-B7kWfaqdIH/Bf9AQYfbEcv2049o\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken232",
+      "amount": 720,
+      "price": 99634,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T16:17:52.000Z",
+      "notes": "IElEYa34Mpj7KwyyHhcfmUaEOuxiQx2f1sCqP4LLaaMshDyyTFsTLjdzslpMTcoztvbuqyonZuOVoE7u0TIpzBMeJ3YpbW3Sh54apZ4G6X4ypiLjLcfuplW31flCdN41DOWsEZLOStxKYm3fYOQ3tyGDYP14x88xM0NxJoz5keKTTYDRhympXSO9T3X9bnZULLob3T6YN1OQlb4Www2zPmOdICjJuiK6Cr5F7qHJHXFs4VuMYtj8IdzA6y",
+      "_id": "695941301c508c5d5e8f919f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

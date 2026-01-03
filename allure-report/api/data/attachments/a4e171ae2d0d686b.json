@@ -1,0 +1,121 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4300",
+    "etag": "W/\"10cc-ING0/G743zuesFoWYbW4hM+v8CQ\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "695941e01c508c5d5e8fc668",
+        "name": "Apple Watch Series X15482",
+        "amount": 24,
+        "price": 900,
+        "manufacturer": "Apple",
+        "createdOn": "2026-01-03T16:20:48.000Z",
+        "notes": "KHgIOaciRmUW3l37bVJ0JoQ57xzoRnoQdqQnIGRlVXo8iQZEpanAx0RuNw0DlBfBlDRB8q5xFOa2aKQuZ9NmCFkWvqWRCstyBWy464472GM9P0eEy8iaHF656xkguKuB2nFdDdaXg9VwyWRFXKyQCwveCy11E2Jn3ZjkNmDc7M7hzjlyPyShGILYs4W7NKND9ZRROkBsYcX24erVw7pu7EOkBpHlwSB8NjYaZ2MVTV97iJVf4g7Y7s49Rd"
+      },
+      {
+        "_id": "695941e01c508c5d5e8fc66c",
+        "name": "Apple Watch Series X97137",
+        "amount": 369,
+        "price": 900,
+        "manufacturer": "Apple",
+        "createdOn": "2026-01-03T16:20:48.000Z",
+        "notes": "YXeiJXsjL9yPrXwGT3O7iQKFJJ9FXWjC4rnIWRLaH2ufhW9Ckh5xg4SsVJFqRYOiYoFIPyaywp78I4I7zCS6wecGn4ZFNoDxU9fqkO09uYBpDppowHFhrVsDBKASrUgrdgplelqlpiDL0KWUG9m1EaLIOT3KRERtX4DSyPXaoYJQw87Kc9dnkTqGg2x7O4lpzVl64OlBctzeoM0UBPiOWiYSGLcHQONNanWhRhQxhCY8FnhZgxDg6TNSe7"
+      },
+      {
+        "_id": "695941df1c508c5d5e8fc61b",
+        "name": "iPhone 15 Pro 512GB96650",
+        "amount": 669,
+        "price": 3500,
+        "manufacturer": "Apple",
+        "createdOn": "2026-01-03T16:20:47.000Z",
+        "notes": "JPnRDR5uNR6CbFGd9iXpUaAp2JCpWw2qCy31yiGysPwglCPG2vAQ19A6DspMoudvuUmFNJ6SqUhhiutFDCYTA6dSzXU00t9vyLLO43z6FGm7EEBikDoHV1mi3EDqve8VWgE8JCx3FSACzzXi5DERhI8YAh7dZG2QepfK2nIp91MIFMhtjgh08YUCocp99Wv5HcINauAgiKVu03lz2OdNvSEWHwRfx2FZNJKNxrJoWo1UA0eSx0KF9PnnoG"
+      },
+      {
+        "_id": "695941df1c508c5d5e8fc641",
+        "name": "iPhone 15 Pro 512GB77381",
+        "amount": 967,
+        "price": 3500,
+        "manufacturer": "Apple",
+        "createdOn": "2026-01-03T16:20:47.000Z",
+        "notes": "M4jKjjncoNerNF9yGbmOF8w57KwYppuDLlHlM8Z3828nzG5BRWIn9KBLNG6rlzqF11X7OSNTHlgCw2Zpq9E9FKvTfwof94PQJbJbBuUC6PJjEHqjeGWQWuu32WiXEUYORGBuoHnTmTZ8JO4npReBgdZSiboT0X0USaqaOZ2jaFrjmtbCxSV8CG9Hd2N25OqgjT2n1njswm0OAD69E3vQXEvwskeDQdZvp8frzOxPxAUwE71pZndgZg3Cbi"
+      },
+      {
+        "_id": "695941df1c508c5d5e8fc645",
+        "name": "Apple Watch Series X64197",
+        "amount": 999,
+        "price": 900,
+        "manufacturer": "Apple",
+        "createdOn": "2026-01-03T16:20:47.000Z",
+        "notes": "1g3QLFZUeKSEMXFOOoVEXeHniM3ZsXS8rF7VfQfcW0ZwAarCfXXpJNX4s7EXhfPZSkeQ0s7IQaXUmxt8Pv8GPcPkNZyyPtnQNmR3S9jx3W9lPiinPB0jUa1zNeu5onKujF1x6Xh6VsGI9tHkJv9DjK4zxu4ZwowUPHktYOQMgRc9mxhgVtZFaNKphPbtQPMi7jfzPzfaMAFrr0DuR3nvu05jQmU7FFMcccVOcdJse4jz7ZCd1XV6R79cG2"
+      },
+      {
+        "_id": "695941df1c508c5d5e8fc649",
+        "name": "iPhone 15 Pro 512GB42316",
+        "amount": 359,
+        "price": 3500,
+        "manufacturer": "Apple",
+        "createdOn": "2026-01-03T16:20:47.000Z",
+        "notes": "ybIibZTcLPCABvQmKlVKb1j3QBNaLAeq1OPMsXkAQKHqMSGMMrfyPlzOpJX1GpqnUsVQaPMlKVZs81lBV05mB0KI20AF7gUh2gKlVSJz1ipagJTJxDRpJr6qvko5ojuXMAlAq4LHjZPwxhrKnuK4xY33QOcCZpcqQgJTA3nchc372tcTfhHNMSIX5PGexuhGaSABuus9dDFIphE2kapuli63HaRBrCeaMdm5f1kLfTYJkUTps31BW5G5RR"
+      },
+      {
+        "_id": "695941d51c508c5d5e8fc25d",
+        "name": "Tuna43301",
+        "amount": 443,
+        "price": 74313,
+        "manufacturer": "Apple",
+        "createdOn": "2026-01-03T16:20:37.000Z",
+        "notes": "oITTaWqTgUJ3oyQ1fZ5sqo6xnIEad2EgR5FrCGobxeAT91OzDJ69CvwR0IAa0j00BTb3qrB6QIHpyIaHeQfPIvQOMCsJSa28a6GXsYai0qd7sNdkqWqSvBMNMAthGVjxOM5UVhb1pTSNLXY5jDcbDdCAJjiO81pmbtEN168E4NhusSgKVloF0k71cPVyQrzGZ8q6E0eoHBn7UwfvPkSyo7y9fGekobP3y9ox46cRq18waWw20DtvcWBYTV"
+      },
+      {
+        "_id": "695941d31c508c5d5e8fc16e",
+        "name": "Pants63355",
+        "amount": 479,
+        "price": 95914,
+        "manufacturer": "Apple",
+        "createdOn": "2026-01-03T16:20:35.000Z",
+        "notes": "2XOaiLZ3Wvokrc1Vv2JxuHe4uPgH00Z59RXZdJl4bVdfGKLxXqRZ6hG1NmxJXY0Dn7HWoI1Qz9yq4jAQ95MSxsgAKcp0sOETUCFvxa7FDUbipvCmsVktYkYTvKQrSYyVkd9UamxwzNAh8OumpSZr7LC1wGddcjfOhI07Judc3QPe6pJjk6LHWd0FYeLt121iZG9BVzgnabcwz7jBOnqjF4m5HZliHuIACw3aOQfZwqqPSlbV9pgbGkjMI0"
+      },
+      {
+        "_id": "695941d01c508c5d5e8fc067",
+        "name": "Chips84676",
+        "amount": 303,
+        "price": 55155,
+        "manufacturer": "Apple",
+        "createdOn": "2026-01-03T16:20:32.000Z",
+        "notes": "H9WQfOe9BIWjLAvetPZRzVJioPbCbKl6cJsC69zvGA2j3K6z1Isvb1HQYk32ng3bcBzJNfjMfzkvNirC7ZRMCjF9Sn5AHrPtFJhN9pFboQH9vhTRai2Q3HIA81JlDeS04saQp4DC1jTPuQoj1rWmmT4qGApSMOQTSffuTme9DJTShcuQ4WNsEpYwJJKt0mSQnEUadpAl6oLbwzkVlkAYURjUrLAZ8sbIesVD4ft474QyOOR0Uh5spekY8Y"
+      },
+      {
+        "_id": "695941b11c508c5d5e8fb676",
+        "name": "Shoes70765",
+        "amount": 944,
+        "price": 67005,
+        "manufacturer": "Apple",
+        "createdOn": "2026-01-03T16:20:01.000Z",
+        "notes": "ktL6Zgz7AvHiKGLmrze1fBYul0NPQcFtsNJMOLCb64iCmv2nDTihvc3vW6njlbyFPk9TLaNXW8dbuxhm8sDlsNo903W0AS1KuLiy5MGCnpHCoAtKjBN98U29EtrraCj4TL4PMHg2uckH2IqQqluUBdprbtitfSJCqqnwM78M2EowQ3KRqyQjRHaXuM7pkOA1f1rxeXQjfoBGdO9TqaJ1wCmWTvTGImUT5hHFZkUF9Gl0pp8CwaBWmEN9pR"
+      }
+    ],
+    "total": 12,
+    "page": 1,
+    "limit": 10,
+    "search": "",
+    "manufacturer": [
+      "Apple"
+    ],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "desc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

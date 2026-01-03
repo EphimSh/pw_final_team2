@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "406",
+    "etag": "W/\"196-Acd8tp5jT37kIQjsisPVBTKyGSU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kaley.Bergnaum@hotmail.com",
+      "name": "ZrfbyatRHpaWTxUWIdDV",
+      "country": "Canada",
+      "city": "ydxDwKpbhCzIv",
+      "street": "g4VDSTDi1Zo8S8DGxUEFUkYhUYhrE0B",
+      "house": 47,
+      "flat": 4,
+      "phone": "+1716349642",
+      "createdOn": "2026-01-03T16:20:38.000Z",
+      "notes": "66cgKzhzxpZwH8rlIx1xIXVnKCSLWDacSvKAfyYaKtQZAskyg5t9xdqVQyZWhFpn6e3RQTTDoahj89",
+      "_id": "695941d61c508c5d5e8fc2c7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

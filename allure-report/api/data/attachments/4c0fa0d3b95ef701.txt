@@ -1,0 +1,23 @@
+Data is valid according to the schema.
+Data is valid according to the schema.
+{
+  email: 'Sam_Schultz@gmail.com',
+  name: 'SuBbnNDWVlzvmMQq',
+  country: 'Canada',
+  city: 'eBvFNeH',
+  street: 'U7GkJu',
+  house: 11,
+  flat: 7,
+  phone: '+3847657112',
+  notes: '8VdevACCMFiZKy0FKuqV3P6xNAiUUEpWCFSQwVuPbJca5PET0xBwf5ftJTEZBN9LONgWPJlbfEwRHlSkJiofRWiPCjwkYwRIQPxTFhGAVwvZ4smecCMjQBdSBqQbVcYseHmvmDggs1dgP'
+}
+Data is not valid according to the schema.
+[
+  {
+    instancePath: '',
+    schemaPath: '#/required',
+    keyword: 'required',
+    params: { missingProperty: 'Customer' },
+    message: "must have required property 'Customer'"
+  }
+]

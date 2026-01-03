@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "467",
+    "etag": "W/\"1d3-9UW3+eoBjdZmBZusdhUCcW5xZhA\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy S2537538",
+      "amount": 703,
+      "price": 3100,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T16:20:48.000Z",
+      "notes": "NY7QwVWBv7DB8AQGpPiIliZfyqMTQuNd5KppJZUW9NndGli7Fn6y4lLC0GZ95o5DNW1OJCAGYMsbvzslE1fomPTZ7smQizZlIEErJ5ueEnGYJHfyfEFKplTedwppMRB1MFXkyQG4ltvrxWLr9fcQqEEVPw3RDjdcqP3RAMFgGK7yI87kjUB2UuqUSFYdstiAiYnP06zSxX9JBD4A2sE8LMxCtaeymaLU1lJkubsgxJRMMrfY5STGKL2j5y",
+      "_id": "695941e01c508c5d5e8fc66a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

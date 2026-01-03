@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "588",
+    "etag": "W/\"24c-VEJWfUbazJDo2a675zpLAlANDIc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "695941e31c508c5d5e8fc7ec",
+        "name": "Computer83353",
+        "amount": 509,
+        "price": 76409,
+        "manufacturer": "Google",
+        "createdOn": "2026-01-03T16:20:51.000Z",
+        "notes": "rjmomddgEOgFFKdGp5JjdlJgARcP3gRW0eok5wqOti4ZF7Zx4fZqJPGBA0yC7JtVkvYocNOKOUSpjfHUzFW6UcQRCf77en7vZ1qLHM7o5tSAr3x2q9SDpCIHzRLeSdt91eJ5ilFbXOg7dCtHfIyL0B4WQ4bKxRJF49AlANCjeA61WNcAk3NtttqyuJYgrQkJujjXnY9G9uAqQWUDFyaNOpjDHsvdLKge7hxJmkB6jpnYHw8n4Qh3UlUlKw"
+      }
+    ],
+    "total": 1,
+    "page": 1,
+    "limit": 10,
+    "search": "Computer83353",
+    "manufacturer": [],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "desc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

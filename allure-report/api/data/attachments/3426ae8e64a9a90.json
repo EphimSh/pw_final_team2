@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2821",
+    "etag": "W/\"b05-8ZJyHDRLqFVEBDUBYbcTgHvZ4YQ\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695941c71c508c5d5e8fbd5b",
+      "status": "Draft",
+      "customer": {
+        "_id": "695941c71c508c5d5e8fbd49",
+        "email": "Ezra.Mraz@gmail.com",
+        "name": "WVRLlTDWNecwOOrsFNamSHNMMuqawS",
+        "country": "Canada",
+        "city": "mymWoYGZcSsysQaOLTrL",
+        "street": "x9wKxL05VYqBtJu60E7QuXM4gH6vA",
+        "house": 97,
+        "flat": 7,
+        "phone": "+0210076988",
+        "createdOn": "2026-01-03T16:20:23.000Z",
+        "notes": "GYk5sFqqZxPpC0hDb8izloidBvIGu9nHjPxbHyzHaAnvpnAbXBTYmffXM"
+      },
+      "products": [
+        {
+          "_id": "695941c11c508c5d5e8fbb40",
+          "name": "Keyboard8291",
+          "amount": 346,
+          "price": 37332,
+          "manufacturer": "Amazon",
+          "notes": "ShrHkg2E1jpgnbhu6XAvoF3TiNNL2UvGIabdpCFwaCGY8A2sSLGxz4e9LiODedoZZTi6eoCnF4gAvicp8pifTqgMgJoq2fXWOlijNZlNIsV4CC2DpQTIR5LLlfVSxLnLBxJgP8VxQvLBcc3dQgrBwoc2ZkH5BlQhkBLP86P3o1z2pNlHOVg4h8dimV33BF61LxTv3sL6kAMLND9Ah78fF9afYBTvS0uWdPKhR9EvLKeqKu7VvoQobtoCSx",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "France",
+          "city": "Mock City FkYjxZd",
+          "street": "MockStreet0JffAgGdebv",
+          "house": 170,
+          "flat": 2
+        },
+        "finalDate": "2026-01-08T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 37332,
+      "createdOn": "2026-01-03T16:20:23.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695941c71c508c5d5e8fbd49",
+          "products": [
+            {
+              "_id": "695941c11c508c5d5e8fbb40",
+              "name": "Keyboard8291",
+              "amount": 346,
+              "price": 37332,
+              "manufacturer": "Amazon",
+              "notes": "ShrHkg2E1jpgnbhu6XAvoF3TiNNL2UvGIabdpCFwaCGY8A2sSLGxz4e9LiODedoZZTi6eoCnF4gAvicp8pifTqgMgJoq2fXWOlijNZlNIsV4CC2DpQTIR5LLlfVSxLnLBxJgP8VxQvLBcc3dQgrBwoc2ZkH5BlQhkBLP86P3o1z2pNlHOVg4h8dimV33BF61LxTv3sL6kAMLND9Ah78fF9afYBTvS0uWdPKhR9EvLKeqKu7VvoQobtoCSx",
+              "received": false
+            }
+          ],
+          "total_price": 37332,
+          "delivery": {
+            "address": {
+              "country": "France",
+              "city": "Mock City FkYjxZd",
+              "street": "MockStreet0JffAgGdebv",
+              "house": 170,
+              "flat": 2
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-03T16:20:23.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695941c71c508c5d5e8fbd49",
+          "products": [
+            {
+              "_id": "695941c11c508c5d5e8fbb40",
+              "name": "Keyboard8291",
+              "amount": 346,
+              "price": 37332,
+              "manufacturer": "Amazon",
+              "notes": "ShrHkg2E1jpgnbhu6XAvoF3TiNNL2UvGIabdpCFwaCGY8A2sSLGxz4e9LiODedoZZTi6eoCnF4gAvicp8pifTqgMgJoq2fXWOlijNZlNIsV4CC2DpQTIR5LLlfVSxLnLBxJgP8VxQvLBcc3dQgrBwoc2ZkH5BlQhkBLP86P3o1z2pNlHOVg4h8dimV33BF61LxTv3sL6kAMLND9Ah78fF9afYBTvS0uWdPKhR9EvLKeqKu7VvoQobtoCSx",
+              "received": false
+            }
+          ],
+          "total_price": 37332,
+          "delivery": null,
+          "changedOn": "2026-01-03T16:20:23.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

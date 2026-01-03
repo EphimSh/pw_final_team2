@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:19:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "445",
+    "etag": "W/\"1bd-X6006/CWv//SGzs1PgwQbzIjY28\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Deanna.McLaughlin@gmail.com",
+      "name": "fcKYnvvcYnsxvTaktsbvtBJEIJeZ",
+      "country": "Belarus",
+      "city": "hIrgjDAWVsYjy",
+      "street": "PXBQp6jmbvIm3HNl0vria9hgcQNzi",
+      "house": 47,
+      "flat": 9,
+      "phone": "+4306859885",
+      "createdOn": "2026-01-03T16:19:42.000Z",
+      "notes": "NgfLVLgtQhxY7fs2hUa1jTd16FZZQ6iV6DwwNKtafb23L6XRefrbublTzsEybJ9d30fwtWCl21gFtQsQsXXRLzlo8DlxjSeldft1hgVHOLdRs",
+      "_id": "6959419e1c508c5d5e8fb04a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

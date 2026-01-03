@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:19:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "443",
+    "etag": "W/\"1bb-qkt0x4T4eDXKOjdR5jZxBUYKEnc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Gerald_Mraz@hotmail.com",
+      "name": "htPXqFyVrfxRNWjeLZQMcldaqIhB",
+      "country": "Ukraine",
+      "city": "EIScWFsApYCd",
+      "street": "KA1oKKDy",
+      "house": 61,
+      "flat": 2,
+      "phone": "+8497171510",
+      "createdOn": "2026-01-03T16:19:24.000Z",
+      "notes": "cBkRw9zrFtUGtMUtEazEwEVPVvebWufQsnmmpAAo7MNwVgzfcMfXcbrUQWJK2NbrgDj01ssCNL53iggcGVE7YLdsTPRMatkMw2mAFNWIIXnoynL10m99lonlWFmr6pM5480oD",
+      "_id": "6959418c1c508c5d5e8faadc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

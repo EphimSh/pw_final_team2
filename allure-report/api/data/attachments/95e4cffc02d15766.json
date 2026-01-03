@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-uO9DtJtBQM0VQ9pTwwQWmVVKSv4\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken10143",
+      "amount": 72,
+      "price": 10323,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T16:20:55.000Z",
+      "notes": "xLxYNyEx7mf7JuEhJxYZbfEQRdyM1qJX9Y59MjNhAfItnMIWBjoBXd7I3qYzd2qWzl82fuZ32jVpTTjB7V50HKWO4TjFkrQ6uLe4Fyf5rpDPuMdk7g3WsyfTI2xmZxcbvaF7LfDAiqVyZDGDxzZ7wDYdISB60qxoUKyudeGXly0SCRVWBgeRLBYNeiGaVDRI9j6votJLTeDA9Q52QDzSp8uaTRcushRrzG3YT9Eg5jcLb5Ji132kNVjI5g",
+      "_id": "695941e71c508c5d5e8fc99b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:18:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "486",
+    "etag": "W/\"1e6-BV8xCygWgIN68YWbyRkTPcWW5FQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Doug.Bayer@yahoo.com",
+      "name": "aZcmMPXSyCNjrzFCofclXwypwFZAFRG",
+      "country": "Great Britain",
+      "city": "kLPYsw",
+      "street": "OD8WP4r",
+      "house": 128,
+      "flat": 8,
+      "phone": "+6951985307",
+      "createdOn": "2026-01-03T16:18:49.000Z",
+      "notes": "JyDEFxfbb5XACqTnJWFAn5KttsVl9q4aptxrlwhDSOYhEg8ZPCpUEkYsmq0js7S9tQnJARt7EZK4nvKKFIkG8iManjGuLFbd3BDbn4wiGPu4rLgk0wPtBM6xiUTpkJ9m1JBD3dfnLCPzVbGNBxjTdSXykqGyUmt4WpWNT2EBypxhUSRa",
+      "_id": "695941691c508c5d5e8fa047"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

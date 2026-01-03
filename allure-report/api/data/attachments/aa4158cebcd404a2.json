@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:19:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-F1PcXO4eSaZKtGUz83sJ4ofAFts\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza35005",
+      "amount": 988,
+      "price": 28317,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T16:19:21.000Z",
+      "notes": "IfYFRXaBuZzmmVyVpXMI0CDYiYX1xGsUgTwQuRK7L4J7QZgxJlC1617yTQzYSEQDPPHTjc1cVINfwCMDdUDt9JYcgno5H1gNnCFCWbdubpomMavrQWqumjVt4aqUM3CRvsU8kg4w0nQQJDDyztx6LQX3Cq6DyYtMTBTNcxSJu7OON4Tqe9W3Tj59f5oLbUJpa1yIDN7zEkm3wgzvgHLNH1T5aCY44UcWDiIgCfnvdcYZTY4mGOcA9mSvGy",
+      "_id": "695941891c508c5d5e8faa3b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

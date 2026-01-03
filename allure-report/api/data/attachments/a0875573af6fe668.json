@@ -1,0 +1,113 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2576",
+    "etag": "W/\"a10-mWO9KLYZ58g7O6psA5qdsxk5uKY\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695941b51c508c5d5e8fb7e8",
+      "status": "Draft",
+      "customer": {
+        "_id": "695925451c508c5d5e8b7f73",
+        "email": "Doug1@gmail.com",
+        "name": "ygFGuuxGRNTzTtJDbodQLSmBnWDp",
+        "country": "Belarus",
+        "city": "Dm",
+        "street": "XnqNDEFi6NkGWcnJExZfd1jjgOk7J015x",
+        "house": 6,
+        "flat": 8,
+        "phone": "+1306536365",
+        "createdOn": "2026-01-03T14:18:45.000Z",
+        "notes": "MFsf1rKpV9jIIchXyjbh3gPrIHsfZzd33lDMnEf7ARalS3ks4G1y1nso5MR69l6w9PRyXjmUFjER4F9hs06KF4Aw8mOTc4686jUzWv0wrlwSqj5zsBt2Njj6U1S0k6GAU15TFeGa4XjRoGFByddqwoXNrL8zS63sc5HT7MGOKfhiiTgtwhgArknz"
+      },
+      "products": [
+        {
+          "_id": "695941b01c508c5d5e8fb60f",
+          "name": "Hat47079",
+          "amount": 572,
+          "price": 49797,
+          "manufacturer": "Xiaomi",
+          "notes": "WOiFKfshKA6ILI9RZ5OpbIjEDv7Y3AcrKLo5uCmiCOp0n3LaZUpHabSn9KCQ3n9NH4Urt6bVW1HBgYunA54WHOJOipmJjjJA9oFMnZ3lOK5PxhdMR20zsxbRBwRradwQPy2dV3TjRnFCuhqtb0jxby7ixCsDNNMlhVaFj6gfFiboKqn0ypzwRZxGxpo06LnucLsVqti7YfZPCPLzerLX3nE0cdCShYzkBp2LfY0DjdjkX3hDuMZgIhH4qb",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 49797,
+      "createdOn": "2026-01-03T16:20:05.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695925451c508c5d5e8b7f73",
+          "products": [
+            {
+              "_id": "695941b01c508c5d5e8fb60f",
+              "name": "Hat47079",
+              "amount": 572,
+              "price": 49797,
+              "manufacturer": "Xiaomi",
+              "notes": "WOiFKfshKA6ILI9RZ5OpbIjEDv7Y3AcrKLo5uCmiCOp0n3LaZUpHabSn9KCQ3n9NH4Urt6bVW1HBgYunA54WHOJOipmJjjJA9oFMnZ3lOK5PxhdMR20zsxbRBwRradwQPy2dV3TjRnFCuhqtb0jxby7ixCsDNNMlhVaFj6gfFiboKqn0ypzwRZxGxpo06LnucLsVqti7YfZPCPLzerLX3nE0cdCShYzkBp2LfY0DjdjkX3hDuMZgIhH4qb",
+              "received": false
+            }
+          ],
+          "total_price": 49797,
+          "delivery": null,
+          "changedOn": "2026-01-03T16:20:12.000Z",
+          "action": "Customer changed",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695941b51c508c5d5e8fb7d2",
+          "products": [
+            {
+              "_id": "695941b01c508c5d5e8fb60f",
+              "name": "Hat47079",
+              "amount": 572,
+              "price": 49797,
+              "manufacturer": "Xiaomi",
+              "notes": "WOiFKfshKA6ILI9RZ5OpbIjEDv7Y3AcrKLo5uCmiCOp0n3LaZUpHabSn9KCQ3n9NH4Urt6bVW1HBgYunA54WHOJOipmJjjJA9oFMnZ3lOK5PxhdMR20zsxbRBwRradwQPy2dV3TjRnFCuhqtb0jxby7ixCsDNNMlhVaFj6gfFiboKqn0ypzwRZxGxpo06LnucLsVqti7YfZPCPLzerLX3nE0cdCShYzkBp2LfY0DjdjkX3hDuMZgIhH4qb",
+              "received": false
+            }
+          ],
+          "total_price": 49797,
+          "delivery": null,
+          "changedOn": "2026-01-03T16:20:05.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

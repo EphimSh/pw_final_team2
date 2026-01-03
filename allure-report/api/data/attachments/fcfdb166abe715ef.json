@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:18:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-kwujgZIDM5NzFuHHZZxrUDoGwIE\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table64063",
+      "amount": 383,
+      "price": 60148,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T16:18:25.000Z",
+      "notes": "rJeLjb1KAHFNhEnW8GvT4xrhNIwej8M0uSRAKUzjdg8MgrZJDjqfPq73vj2e3Eir5NtRAXyQBY5fR4COGqmZMynFtrvyKx1L1gJG6NRTfogocqTkSidCDVy0Z6dqhjYZtENPwxBHifdhfOrPFBugtUJc0nAkb2SWJ66hOW8DN5TpLXxiJBgKJaS3lyiXulENQIacYsNFNHdTssOprvHuAxJZH3MxovUirY2kKB9M8GFsub4Xi2jJj4yzaa",
+      "_id": "695941511c508c5d5e8f9952"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

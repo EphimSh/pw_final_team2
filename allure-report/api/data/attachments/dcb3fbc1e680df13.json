@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:19:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-V1GBTBJ/JqBvN9GwWpaCXbJDMco\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips55038",
+      "amount": 109,
+      "price": 31348,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T16:19:02.000Z",
+      "notes": "UksEsU1EZDFg0sB6SthH7f4zz41prrvRPbdiqVhFad8cmm0aO5k8XgdFSEVue2IMr8kQ27ze6rcCvRZ901tQTWKw6nZhtvLLzLqwuBMZjVCIlZr0kmhUNCrJu1nppsSHnYKXkPogV6DIuFqnTa5bWp6IqKkU0Q7crLedVV4M6au3th55Mgr1ihe5YOQDPk0LjI9zTnk2GOt8JWzWKykhtBCsCnMiSQC98Bd5P5iDV6QGm7PbAJUgIlmfna",
+      "_id": "695941761c508c5d5e8fa4a2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

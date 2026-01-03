@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:19:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1646",
+    "etag": "W/\"66e-DPCc4RyDJkkrGaRRzXDiSE121D4\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "695941931c508c5d5e8fad0c",
+        "email": "Perry.Gerhold82@hotmail.com",
+        "name": "wJEjLUEcOrCuv",
+        "country": "Ukraine",
+        "city": "dyjiMkZcfsXveTEmS",
+        "street": "fC9rOIL61T4JpgXm",
+        "house": 118,
+        "flat": 6,
+        "phone": "+9073221596",
+        "createdOn": "2026-01-03T16:19:31.000Z",
+        "notes": "E76Fema"
+      },
+      "products": [
+        {
+          "_id": "695941951c508c5d5e8fad9b",
+          "name": "Bacon16359",
+          "amount": 191,
+          "price": 94460,
+          "manufacturer": "Sony",
+          "notes": "L8E3S1uPbcQWetf58gJPnxpgXJD2VxgbIT1epIiVZDJdZpeQgDcx27AdlmkpQFiDSEf17e1zfbvanrvwJczXo6B3hfjYJF2PTW4xPDfFZWSZ8WROE7JjK1B4W3Adq0Knpj7jDxGsX2qmyyd7QM2eELBB1wfaHiFa2ZBRiinY3JPGAn35Qix4N9Jkc8iBK6cVqTZyuRk5BcYF2N7u46sBmBkGQ4mZuy3OylLRTKbR9bm99W1YOLcS14L5SH",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 94460,
+      "createdOn": "2026-01-03T16:19:33.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695941931c508c5d5e8fad0c",
+          "products": [
+            {
+              "_id": "695941951c508c5d5e8fad9b",
+              "name": "Bacon16359",
+              "amount": 191,
+              "price": 94460,
+              "manufacturer": "Sony",
+              "notes": "L8E3S1uPbcQWetf58gJPnxpgXJD2VxgbIT1epIiVZDJdZpeQgDcx27AdlmkpQFiDSEf17e1zfbvanrvwJczXo6B3hfjYJF2PTW4xPDfFZWSZ8WROE7JjK1B4W3Adq0Knpj7jDxGsX2qmyyd7QM2eELBB1wfaHiFa2ZBRiinY3JPGAn35Qix4N9Jkc8iBK6cVqTZyuRk5BcYF2N7u46sBmBkGQ4mZuy3OylLRTKbR9bm99W1YOLcS14L5SH",
+              "received": false
+            }
+          ],
+          "total_price": 94460,
+          "delivery": null,
+          "changedOn": "2026-01-03T16:19:33.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695941951c508c5d5e8fadb9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

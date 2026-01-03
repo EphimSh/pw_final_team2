@@ -1,0 +1,34 @@
+Data is valid according to the schema.
+Data is valid according to the schema.
+Data is valid according to the schema.
+Data is valid according to the schema.
+Data is not valid according to the schema.
+[
+  {
+    instancePath: '/Order/customer',
+    schemaPath: '#/properties/Order/properties/customer/type',
+    keyword: 'type',
+    params: { type: 'object' },
+    message: 'must be object'
+  }
+]
+Data is not valid according to the schema.
+[
+  {
+    instancePath: '/Order/customer',
+    schemaPath: '#/properties/Order/properties/customer/type',
+    keyword: 'type',
+    params: { type: 'object' },
+    message: 'must be object'
+  }
+]
+Data is not valid according to the schema.
+[
+  {
+    instancePath: '/Order/customer',
+    schemaPath: '#/properties/Order/properties/customer/type',
+    keyword: 'type',
+    params: { type: 'object' },
+    message: 'must be object'
+  }
+]

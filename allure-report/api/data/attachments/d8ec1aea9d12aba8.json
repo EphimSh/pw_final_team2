@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:18:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-DPf7afslWy+sFu1Yx88OmPjboeM\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon70376",
+      "amount": 595,
+      "price": 5773,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T16:18:53.000Z",
+      "notes": "1iK6fr2ZNNgKdfCBGvk4dcrcwkaZEC1lyXA5vcjJUQMZF2tjgaPUDAuN4WT2Mw8OHhaYtpwPnSVFxk6geJqwxd1sXVGu0hMb9OkGdEWMaTyTSdil3JcjAUd8k2wMpSCpuOFoHKUqzZnF9LmFC8Dx8hmWOsGRevd5ex9cr1Igg9QaJjYPvDECcKcPaOHcZ6F2bJUYo2No8foRxY7DiGXDVhainplDC2OLMw0h5cU3UoSFgZoZ7fNia1syi4",
+      "_id": "6959416d1c508c5d5e8fa1a0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

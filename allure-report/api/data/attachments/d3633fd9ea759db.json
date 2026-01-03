@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:19:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "320",
+    "etag": "W/\"140-f4yQy4i+hONzdey5lDC3eJMQEKQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Perry.Gerhold82@hotmail.com",
+      "name": "wJEjLUEcOrCuv",
+      "country": "Ukraine",
+      "city": "dyjiMkZcfsXveTEmS",
+      "street": "fC9rOIL61T4JpgXm",
+      "house": 118,
+      "flat": 6,
+      "phone": "+9073221596",
+      "createdOn": "2026-01-03T16:19:31.000Z",
+      "notes": "E76Fema",
+      "_id": "695941931c508c5d5e8fad0c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

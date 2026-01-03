@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:17:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "343",
+    "etag": "W/\"157-zOcP9RXOw1Y4qbO0915mTwM7y+8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Barney38@gmail.com",
+      "name": "SNdJpSRdDxWTsulfmtDGkj",
+      "country": "Belarus",
+      "city": "CTSoBIMtz",
+      "street": "9Rl5REdl",
+      "house": 126,
+      "flat": 5,
+      "phone": "+9752450103",
+      "createdOn": "2026-01-03T16:17:33.000Z",
+      "notes": "6kgY5nz1IZdtfCPiHNd5WvndegCXB4NipbqU2bZWPXLcwX",
+      "_id": "6959411d1c508c5d5e8f8ced"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

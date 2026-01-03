@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:19:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-jETtpqB5YzbKmi68QSX+ouy5w6U\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes30442",
+      "amount": 303,
+      "price": 43171,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T16:19:05.000Z",
+      "notes": "vQIeyUZAdeORjvYvlUxKc8yecagDFWplVN4HCuN8c6EyjvmsI5LWJ3wwzQ9vN1SSZ9S2pFHbI3C175WvO9xMigdJR2iatw60utpGm5mrsOGhDD0qQ6D7jcGYwZCqXRjohSJQK0WULWt20c4sdnuTwXyRsiETQcWQZidgXTAgrdnQ5pi4nPedEqtnFt7R6XKe0Q7XOb9nJsihNZlVcNXBK6uTqO1vdMoseBWAgvdQVuIv9TiCRFuGJ1BkI2",
+      "_id": "695941791c508c5d5e8fa52b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

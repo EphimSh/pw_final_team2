@@ -1,0 +1,173 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3913",
+    "etag": "W/\"f49-0qc56NqDINCNQKyxvzqUHn6EZ3o\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695941cd1c508c5d5e8fbf6c",
+      "status": "In Process",
+      "customer": {
+        "_id": "695941cc1c508c5d5e8fbee6",
+        "email": "Judd8@hotmail.com",
+        "name": "WWRjqdPPHnYwEwcrJdfQOxqfkKAN",
+        "country": "Great Britain",
+        "city": "RPBrLkjdNmJ",
+        "street": "W1P986iaaJn32h0",
+        "house": 72,
+        "flat": 1,
+        "phone": "+3021431359",
+        "createdOn": "2026-01-03T16:20:28.000Z",
+        "notes": "pksGdAMQPPhd0GMkdz7rGRW9V3BDkbtyHLRa37w2s5giGi1vHrZRK5AyWVzHli4RVP5A2gv0VPw5hvQvNkUer6sZEExdRM0gyIST8hVcpOiTYTbxs8a7qdxuda035ZdnMwvv3rfhcbj6T61lhS7OFVBIGWweCpvqQDzmV5zMgm0uuXqPbPZuIiRZU7zSjrbSPdM5TmyWM"
+      },
+      "products": [
+        {
+          "_id": "695941cd1c508c5d5e8fbf3f",
+          "name": "Tuna17721",
+          "amount": 792,
+          "price": 91835,
+          "manufacturer": "Google",
+          "notes": "Rfh4PUqFPlMsiYGfDaRx5bQa1yls4YzjT3EyRKkDRe9gMzUGhWAJ6Lf65wmiz8XykST6fAKbrE1Hr7kpygfCv7Pu4JyjFPNsjCEDHQU381dwuolqDhzLLepKDYcbigvL35u07imKs3Np02pXBlkL4BLfHZ5g9SWNUVSQkOEWkMC5JzmfIuCFMOnBKkvhky9o9QR1Ml6q0hOSX4b1Iwxj0DLyCsVi9mVmR9Oiqg6VpWhXVOhxuOtHecr4sX",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Ukraine",
+          "city": "Mock City NoIYpYpd",
+          "street": "MockStreetYAe8WysV4kn4jOQHG0NN8",
+          "house": 30,
+          "flat": 2
+        },
+        "finalDate": "2026-01-08T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 91835,
+      "createdOn": "2026-01-03T16:20:29.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "In Process",
+          "customer": "695941cc1c508c5d5e8fbee6",
+          "products": [
+            {
+              "_id": "695941cd1c508c5d5e8fbf3f",
+              "name": "Tuna17721",
+              "amount": 792,
+              "price": 91835,
+              "manufacturer": "Google",
+              "notes": "Rfh4PUqFPlMsiYGfDaRx5bQa1yls4YzjT3EyRKkDRe9gMzUGhWAJ6Lf65wmiz8XykST6fAKbrE1Hr7kpygfCv7Pu4JyjFPNsjCEDHQU381dwuolqDhzLLepKDYcbigvL35u07imKs3Np02pXBlkL4BLfHZ5g9SWNUVSQkOEWkMC5JzmfIuCFMOnBKkvhky9o9QR1Ml6q0hOSX4b1Iwxj0DLyCsVi9mVmR9Oiqg6VpWhXVOhxuOtHecr4sX",
+              "received": false
+            }
+          ],
+          "total_price": 91835,
+          "delivery": {
+            "address": {
+              "country": "Ukraine",
+              "city": "Mock City NoIYpYpd",
+              "street": "MockStreetYAe8WysV4kn4jOQHG0NN8",
+              "house": 30,
+              "flat": 2
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-03T16:20:31.000Z",
+          "action": "Order processing started",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695941cc1c508c5d5e8fbee6",
+          "products": [
+            {
+              "_id": "695941cd1c508c5d5e8fbf3f",
+              "name": "Tuna17721",
+              "amount": 792,
+              "price": 91835,
+              "manufacturer": "Google",
+              "notes": "Rfh4PUqFPlMsiYGfDaRx5bQa1yls4YzjT3EyRKkDRe9gMzUGhWAJ6Lf65wmiz8XykST6fAKbrE1Hr7kpygfCv7Pu4JyjFPNsjCEDHQU381dwuolqDhzLLepKDYcbigvL35u07imKs3Np02pXBlkL4BLfHZ5g9SWNUVSQkOEWkMC5JzmfIuCFMOnBKkvhky9o9QR1Ml6q0hOSX4b1Iwxj0DLyCsVi9mVmR9Oiqg6VpWhXVOhxuOtHecr4sX",
+              "received": false
+            }
+          ],
+          "total_price": 91835,
+          "delivery": {
+            "address": {
+              "country": "Ukraine",
+              "city": "Mock City NoIYpYpd",
+              "street": "MockStreetYAe8WysV4kn4jOQHG0NN8",
+              "house": 30,
+              "flat": 2
+            },
+            "finalDate": "2026-01-08T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-03T16:20:30.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695941cc1c508c5d5e8fbee6",
+          "products": [
+            {
+              "_id": "695941cd1c508c5d5e8fbf3f",
+              "name": "Tuna17721",
+              "amount": 792,
+              "price": 91835,
+              "manufacturer": "Google",
+              "notes": "Rfh4PUqFPlMsiYGfDaRx5bQa1yls4YzjT3EyRKkDRe9gMzUGhWAJ6Lf65wmiz8XykST6fAKbrE1Hr7kpygfCv7Pu4JyjFPNsjCEDHQU381dwuolqDhzLLepKDYcbigvL35u07imKs3Np02pXBlkL4BLfHZ5g9SWNUVSQkOEWkMC5JzmfIuCFMOnBKkvhky9o9QR1Ml6q0hOSX4b1Iwxj0DLyCsVi9mVmR9Oiqg6VpWhXVOhxuOtHecr4sX",
+              "received": false
+            }
+          ],
+          "total_price": 91835,
+          "delivery": null,
+          "changedOn": "2026-01-03T16:20:29.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

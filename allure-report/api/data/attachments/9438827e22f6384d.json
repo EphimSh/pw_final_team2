@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:18:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "411",
+    "etag": "W/\"19b-UEuNlXL/wSd3B+uUMV1d+ptbe1M\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kailey86@hotmail.com",
+      "name": "XLsWqppWIYaEtpEmiKRpsOJWOC",
+      "country": "Belarus",
+      "city": "ahYzfArXqaNajeWCb",
+      "street": "W",
+      "house": 75,
+      "flat": 5,
+      "phone": "+4704502082",
+      "createdOn": "2026-01-03T16:18:18.000Z",
+      "notes": "X0J0cag9v8i4Jbb48ljfk6gBY1Z9lHg4BIydQWf6rvhbmFJdXwGwQnfFofQAigR3JOSM3JKZnjT1eAhBTCRl5ra881iSufGFMlpyOKUuEeT6",
+      "_id": "6959414a1c508c5d5e8f97b4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

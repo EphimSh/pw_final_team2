@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "446",
+    "etag": "W/\"1be-e52pBS5nlnQElyUNu7rQiBIMCXA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "w0s",
+      "amount": 610,
+      "price": 94428,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T16:20:34.000Z",
+      "notes": "dKOU7ocwY44PsPI1sP0JoeRbimWKkJmTTyHFYnqk02p9NZMyhZNqmi2G95RDRCgyb9uvK08ThM4t4NbRfg0FkkWkP5DQugfqfFA0K3isaE2CYpwCJEGxdcQj3uWOss11eWTnOuqKO7RnKQkZKLkkbK8fZBBP49MiQ9FJjJewPEIt7MAFCkT5dTH1vIkJTyYUCqHTNYiTGH8ZOBEMPubAi10uBOlJsydUslQhQwFvmw3Gl2hU7D8cdqY1rQ",
+      "_id": "695941d21c508c5d5e8fc12c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

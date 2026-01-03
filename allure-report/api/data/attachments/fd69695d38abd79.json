@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:17:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "545",
+    "etag": "W/\"221-6Zhhq/u1cvXI3LDo4jfxBsZb/as\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Merle_Hegmann51@gmail.com",
+      "name": "iKKYEHMUKBZonxyYvxUJE",
+      "country": "USA",
+      "city": "pdfjwKJOIFmGN",
+      "street": "eiNL37xiv16ZCU",
+      "house": 49,
+      "flat": 6,
+      "phone": "+8853696468",
+      "createdOn": "2026-01-03T16:17:38.000Z",
+      "notes": "NII1CxvcoMV5QNlmFKD3qiQAQjmF0yuSlY40GjCI59RMckefX2e6gXIPmfBKZsrMg5dsEsiTelSnxQSvloaIZWBKdS7wlLP0bvPjsdQkgB3hpqyPDjO14KBfF0VAinJgCyS6NQzupui9LfeEXlYm2HrbHpsZNPo2VhfRLvSoDNmjFS6rbPBLDuByYBgfyZdl7Hmje4JL4Yo5kdd6KjXR1IMxQ23ZuaUEE0hS3Bcf5zciO",
+      "_id": "695941221c508c5d5e8f8def"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

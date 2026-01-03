@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:18:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "335",
+    "etag": "W/\"14f-uQtb7JjRPjgbd39ak2jcUGSA0L8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jarrell_Hayes5@hotmail.com",
+      "name": "ImpFAlgqyVZwaSEJxiVluoMOq",
+      "country": "Germany",
+      "city": "ws",
+      "street": "DHoKn",
+      "house": 198,
+      "flat": 2,
+      "phone": "+5986695545",
+      "createdOn": "2026-01-03T16:18:11.000Z",
+      "notes": "IZjz3CylL3q2WlGSijwEmqmkj2s4eCZKNm4fq",
+      "_id": "695941431c508c5d5e8f965d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

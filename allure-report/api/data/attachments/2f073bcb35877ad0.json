@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:18:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "474",
+    "etag": "W/\"1da-UJibqFYq7lm7/gJXrimBpCYMLek\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Laura_Harber20@gmail.com",
+      "name": "sJDLBHPEDvnGiNzPj",
+      "country": "France",
+      "city": "x",
+      "street": "M9ixVMF8Js",
+      "house": 75,
+      "flat": 9,
+      "phone": "+2649272693",
+      "createdOn": "2026-01-03T16:18:19.000Z",
+      "notes": "nRm0kMSqJPq9NQJAuLfPHx3d9npHIN48URfHhNa2ovd0k31gyNjCgNtYpNfArSgM3YK0BOIwJKscfOZu1j2xffVuGhoE0QYOgFNpuT7KRf92tX56ZfGofQTGsgJamiMjcGCFLZVgNMJ17Srjes05FYDmTOFBattGwPKw4Ws1XPdkHjN580IA9Q1I",
+      "_id": "6959414b1c508c5d5e8f97eb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

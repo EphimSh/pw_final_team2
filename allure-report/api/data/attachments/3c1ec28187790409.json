@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-lBQ1wOVh4l2W2GNRxAVRuKB9K4I\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard8291",
+      "amount": 346,
+      "price": 37332,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T16:20:17.000Z",
+      "notes": "ShrHkg2E1jpgnbhu6XAvoF3TiNNL2UvGIabdpCFwaCGY8A2sSLGxz4e9LiODedoZZTi6eoCnF4gAvicp8pifTqgMgJoq2fXWOlijNZlNIsV4CC2DpQTIR5LLlfVSxLnLBxJgP8VxQvLBcc3dQgrBwoc2ZkH5BlQhkBLP86P3o1z2pNlHOVg4h8dimV33BF61LxTv3sL6kAMLND9Ah78fF9afYBTvS0uWdPKhR9EvLKeqKu7VvoQobtoCSx",
+      "_id": "695941c11c508c5d5e8fbb40"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

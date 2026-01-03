@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-RG+OGgoD1xecsw0oPMS94azekfQ\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro56389",
+      "amount": 979,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T16:20:49.000Z",
+      "notes": "dSSpGqd50E8TfKkTlPs5SXMyy5gTvbQq7ERyqbTekLgPuzXnRPNEbSDoPn43e8YlnQ9I5w14BCz2iagZq7JWdCVTKV9sgkxxhGvOZgSNuoTFINTlzbfda5bVo2ykqzA7JjAHpdO3MQ1fpi3Wpl9EE9n31BjsFYEWkROvjZwV1MYtK17b1TQ1VZz9UySpnscRDqtin21er8tQhsL2NEh3O2D6l4PWMuw2I1XaCIqBrOY6DIbsAyWplFHRV3",
+      "_id": "695941e11c508c5d5e8fc6df"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

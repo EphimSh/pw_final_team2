@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-jUfUoWfp7AcfnTaqEaGZ6+hr1pQ\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad58896",
+      "amount": 326,
+      "price": 76108,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T16:20:47.000Z",
+      "notes": "gkyO4O9wvVP9L90I643xJ7t02TYIgbohlArBRRRfmZbVwnkPoVzH0v9PFUiR2H3rlbyO75lqhh2tSJAX5UWYyT1QPt3B3wYuxPHAq3yLlVQ8GmceZuKo9ajDvpyqu1I8BwHVaWpicDQ5UB6EYQfruUV4mqlwNVk6ts74eSpMYO68DZ6rBcTEKyGpDMx5SvGvWD2mkwz0ipmYzmnjyL5sr2k1h8sqTsVbEQm9QY2peJOwz6v1Z8ows56PaM",
+      "_id": "695941df1c508c5d5e8fc643"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

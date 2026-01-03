@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:19:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "390",
+    "etag": "W/\"186-9eFstwVF26IC4BQpCVXlMSwgINU\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "695941a41c508c5d5e8fb201",
+      "email": "Amanda.Zulauf@gmail.com",
+      "name": "Ivan Ivanov",
+      "country": "France",
+      "city": "UjkbxNc",
+      "street": "8cNAx8dwdGNDIOC3TnuSQCbb8Hi8nR3pFmuxp7",
+      "house": 18,
+      "flat": 9,
+      "phone": "+7073239170",
+      "createdOn": "2026-01-03T16:19:48.000Z",
+      "notes": "6LqGWoBar9GgEPuJ05QJ5hIBUVKL7UbwfitqvKQtCCgVIukl2mYy0iYoS0MGLyQuWc6pDX3G7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

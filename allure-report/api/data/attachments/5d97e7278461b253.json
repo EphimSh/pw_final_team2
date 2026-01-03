@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:19:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-TywOQccedle9KPLiaM+9kFgiTCQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon16359",
+      "amount": 191,
+      "price": 94460,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T16:19:33.000Z",
+      "notes": "L8E3S1uPbcQWetf58gJPnxpgXJD2VxgbIT1epIiVZDJdZpeQgDcx27AdlmkpQFiDSEf17e1zfbvanrvwJczXo6B3hfjYJF2PTW4xPDfFZWSZ8WROE7JjK1B4W3Adq0Knpj7jDxGsX2qmyyd7QM2eELBB1wfaHiFa2ZBRiinY3JPGAn35Qix4N9Jkc8iBK6cVqTZyuRk5BcYF2N7u46sBmBkGQ4mZuy3OylLRTKbR9bm99W1YOLcS14L5SH",
+      "_id": "695941951c508c5d5e8fad9b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

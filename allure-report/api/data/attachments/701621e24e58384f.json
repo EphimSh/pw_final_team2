@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-Th3ibEJuqsq1izUJqYGstmbBh1s\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra10618",
+      "amount": 758,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T16:20:50.000Z",
+      "notes": "kgMWyGEm7qfdiQVkWlPNUNcRox90iWVvLJ4nHbGoxS1tMdwcjWOSRtp5sglWecexfpaP1b02mah7UBJzQE03zkLC6MCWuu0glNT33MIctyzidve8vz9gY6fOfT7uqFaXO47pS7RcY6xy8Jl9b643f6ak29BUPg28iNH3Xq0qJjz5J981n47eHePMN6a2njADf2MHv3dMibo4hYTjW3vKmRgGSn1EYxUjMcFxkFlK3Ndi4p3u2dymIRvb07",
+      "_id": "695941e21c508c5d5e8fc779"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:19:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "542",
+    "etag": "W/\"21e-igML8or6nAubSfXH1hKFxerVtPI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Johanna.Towne37@hotmail.com",
+      "name": "YiCzfoSTUqmtarSgKNvMOmrVkCVfhMLTaIdmmw",
+      "country": "Great Britain",
+      "city": "ZMrFWnDUNf",
+      "street": "7YWgGbK1kd40",
+      "house": 38,
+      "flat": 7,
+      "phone": "+5221629646",
+      "createdOn": "2026-01-03T16:19:58.000Z",
+      "notes": "UzPLCGL2aJypHjxxmGJcu3QRa9W2IFEchJ4IFNyKkRNLkjErpGmauauPcMxZB34M2SNdu7VbximU4mNuFToiCu3P59vofryTparJf5agOXlfVUo0tBBWTGO4AsCg7cfHSrkyHdPif5CwbKW6NKlnrQdFMCExp102wMm0hdMrD5AnPxHeS6qZCNAkbcOaLKtAkYyTNolHwaY7BHS9Vq",
+      "_id": "695941ae1c508c5d5e8fb590"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

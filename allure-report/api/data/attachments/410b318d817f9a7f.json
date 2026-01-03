@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:18:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-7V4HZd/ferdVVaJ0XdKoCz4tN54\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves85078",
+      "amount": 675,
+      "price": 26896,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T16:18:14.000Z",
+      "notes": "XsCVCnUvVfIQSQnQL59AbEazmVemDRr25hdfkbrFll1hG4BZQapoICfFsNGGJiP6gGHj2Pc0Sbi6FlJKiTAGiOxKLfScTg97OPG5g8sDkmAqOEPN46DXe7HlQGzAwTE0gmmaWSQliObHi5er3Tri19iX9MZjQZdRjXNg21LsIU4o2mW9ypl4hDROei4lUv8pNHUTIlVMVNyBDsYkLshu0CHAUEugyH5NkGKUnrIKhpjvLW1B16CG8baQro",
+      "_id": "695941461c508c5d5e8f971a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

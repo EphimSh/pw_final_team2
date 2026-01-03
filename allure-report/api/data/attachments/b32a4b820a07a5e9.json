@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "201",
+    "etag": "W/\"c9-GpkLM8UDttnpqRlOY2eOnrHrLzQ\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap7219",
+      "amount": 668,
+      "price": 84062,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T16:20:40.000Z",
+      "notes": "",
+      "_id": "695941d81c508c5d5e8fc3a8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

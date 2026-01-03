@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:18:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-D3gCRv/FHsjnWJvb3paXrtK/5NM\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips2995",
+      "amount": 621,
+      "price": 20339,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-03T16:18:20.000Z",
+      "notes": "owqzj6cQ7ZECKymAnbzv6TqRhkNLWmQUaDcXxQvtMj4FyQ3Mm70ztTBDth1YlJa75dVZeRlEJFQRJYvOKGhn7xPWVyPWOsNDjPXINnldb8sGwRGBLgnImZzzClRWCergRsnA7gpFtme5LDwB5S5pWudpVEGJIu7dNauY2qTP7uVH70A9TsA9Ow5JoxBkSFldWs99e15yOsBxGli6sVHucGkD9PNwajeK770EQvKFoNWgI2TIK2cseoDOTt",
+      "_id": "6959414c1c508c5d5e8f9815"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:19:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "508",
+    "etag": "W/\"1fc-WAdzSDxn6Mk48muxIMFTiIeq8WU\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Bennett27@hotmail.com",
+      "name": "UgZhJDHscPmduhcmaB",
+      "country": "Russia",
+      "city": "fUAcrV",
+      "street": "vpy1dkxFC5",
+      "house": 186,
+      "flat": 8,
+      "phone": "+9274448660",
+      "createdOn": "2026-01-03T16:19:20.000Z",
+      "notes": "9KszlsDx4tJBBrzBQPp7smDSYakmkie07fRm62oN4BXjDS8EBTHTSUhem8292xirL8KIOvUt6ENWUKleGsyj3wnUuW64LPPO1gYFLP5nG8ViG0OHoCdgQe5dolUxWfbncNRFv5zz718hLK9ACzTLtwbQ77vLrvR14StK9inLo5LQCxfa9MO9xWWIEpzbXOEPZZIWZWK8lHCz5Zc0HLgLh2",
+      "_id": "695941881c508c5d5e8fa9e4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

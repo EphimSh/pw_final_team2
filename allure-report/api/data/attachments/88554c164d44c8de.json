@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:18:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "554",
+    "etag": "W/\"22a-R9wsCSahPOoUsaeQ8diz4TsI+gM\"",
+    "keep-alive": "timeout=5, max=78",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Stuart_Hackett94@gmail.com",
+      "name": "YSUafmsNweshraufGfJELgDKCLnXNkW",
+      "country": "USA",
+      "city": "sFsZnCekFFLX",
+      "street": "YFw0y8eBShXJ1w4FnLHPaCC",
+      "house": 149,
+      "flat": 8,
+      "phone": "+9030427008",
+      "createdOn": "2026-01-03T16:18:26.000Z",
+      "notes": "cHZFqsqVvr5dqrpYb0Pn4m6XpzTBMpzabIFcyh5Y9QkIZ0JPaSHRBrw9e4hqQ4rMIaymJTstowLBfr6AzeSQdknFVWXl9wJDdDK8ww2NXwVqRA4mCfkGYBewoBJLOGvXllQBp1kJRFPf00iVupO2g8n2bkfb08jTLiJuonX2RO5Y4jGUZPAfeRlWRcktReSbVRAeQI3TD7G6LdqhweLNoEogfxY5BBj8G5",
+      "_id": "695941521c508c5d5e8f9980"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

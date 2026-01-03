@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:18:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-7z4CQN9SPvDeZVo5pvAV71S7kw4\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza2471",
+      "amount": 557,
+      "price": 59199,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-03T16:18:03.000Z",
+      "notes": "CKp6XTjb3ofIuQtMNo4ETozosUojBDzuwEVX63wkBIp3AQSgrMHBGbsqt5MBCFdlXfBGLW55QXrjHFJL4NZhO4l3SPLfjjtsP5rpKnRBxVNJbsRX2mfMUwzM12ytk4Enc0piI5CBGqQz6qZs2pAIH6seiit3W9kqe9zIwFLsaPsRPLl59BYDjKCKZKc7tAI8vu9wL9PhSHklKX2z9STkmCGvy4RgdpDz5D4h1aaSSkquWPsnhRQ1xFpjuD",
+      "_id": "6959413b1c508c5d5e8f9434"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

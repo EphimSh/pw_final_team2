@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:18:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "468",
+    "etag": "W/\"1d4-8/BEKPD5qcBIXBmXh607oAWp8ZY\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Javier32@gmail.com",
+      "name": "wBaqQFfkZaehtTVfToPbXSJTEBJCvfHfCLzey",
+      "country": "Belarus",
+      "city": "tWlzceNfbk",
+      "street": "uFXNQ",
+      "house": 108,
+      "flat": 6,
+      "phone": "+2281215587",
+      "createdOn": "2026-01-03T16:18:17.000Z",
+      "notes": "TLQlhS4UhRMwnAIN8QtxTmpf771d2LpFRzO0qGoc5PAfSeN1D3PLJhPNSXiCGtnbZs9U2IrKNLINmIRO6kJlmJUAsEuYiYL0E6LWaKnClOcJP2iVS31bj8zyJuRIUpgn8xh4vjL3yOLkZvvWcoIU3yW0CrRj0o",
+      "_id": "695941491c508c5d5e8f97a0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

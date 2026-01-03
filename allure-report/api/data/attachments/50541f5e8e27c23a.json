@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:18:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-c9mmYN3AGwDjzrIiZFPCOMWRbeE\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna60700",
+      "amount": 723,
+      "price": 53877,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T16:18:28.000Z",
+      "notes": "fe4tXrvOtJL5ZQveMHkHNdMDubPM9H3R8MLEGYh3BgU6fJ8pjhVWDSIUDSROWsoEgoewq2eZ2Rpg0OajxcyhNku5rqhJAJn3WKDu6pJllhokTYshEBfAkzC6Fo6uGh4FKqAJtKhw1pIarLo0zTcjBQdOpB65FX2I0zxMLcKJ2tc2vsMgyNNRwsrS1sV0eKYxx3pL2MnuFp019wPzOGDAQNQgVUKDOIqSVwNjtkIkGgOcxzXFMDbyR8QRS8",
+      "_id": "695941541c508c5d5e8f9a6b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

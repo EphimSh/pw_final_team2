@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-T1c+EgwuqFHJrb46in2nZHlBRQI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair90143",
+      "amount": 476,
+      "price": 98521,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T16:20:21.000Z",
+      "notes": "NwnR3Q8Szj0QkK2xii0tIUfjWOz7QOLwWtPA5izDNVQBX0IVP1R4HlPszdQZQT8DhhQVyX1Nx52FCSRjEnp7naWEajiF8tIgBTk6egg8T5XWgS20Xv6WxBoX1XyRmM0A9pv5C9WAxfKRSCVcIOPqkWTMwB7wIGdiscDa1pCOHO0a1ipujJI2OEXlscVJvzBc7bxiCYuwUdEHpBGCiwu9RKqzbTVtcqDLBt501n17miLYMqaoNRjIIHHilM",
+      "_id": "695941c51c508c5d5e8fbcc2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

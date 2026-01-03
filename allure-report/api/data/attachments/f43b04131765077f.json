@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:18:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-bYGMOJDvIkI9pB8FTtl9Zu58OJY\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Anastacio.Ullrich98@yahoo.com",
+      "name": "A",
+      "country": "Great Britain",
+      "city": "QveW",
+      "street": "adKTSlfvJBC0OfVZhqa4j5M",
+      "house": 139,
+      "flat": 5,
+      "phone": "+9077540415",
+      "createdOn": "2026-01-03T16:18:46.000Z",
+      "notes": "TTqLv4yfu3IuXzq04D6YKPMYnANCSnoOTz6qibAfV5IrBVpECOlYrtgJraRKzcWhtATc3eX3KcjZ8pU1vdSAjH3h7cKUA2dwQG53cDuCuvGwtuU0IvSQEZrXgrjnDlsLDd4YY7WIqmbh4UBJuPbye",
+      "_id": "695941661c508c5d5e8f9f19"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

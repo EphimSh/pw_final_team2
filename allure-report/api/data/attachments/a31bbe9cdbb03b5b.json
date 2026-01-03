@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "352",
+    "etag": "W/\"160-hswzjN44YyiHOzQZgEyM2VM/VHE\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Christiana_Nolan@gmail.com",
+      "name": "gYeH",
+      "country": "Canada",
+      "city": "WwxMpeyYDK",
+      "street": "SWLDfDYi2HiDBc1Vt",
+      "house": 164,
+      "flat": 7,
+      "phone": "+8506148996",
+      "createdOn": "2026-01-03T16:20:09.000Z",
+      "notes": "CqhqqxSjQPO8RKu8YklMIb0lGqbYWRTgS3VSE53NmnZDfbS2cZ1GOpgS",
+      "_id": "695941b91c508c5d5e8fb8ae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

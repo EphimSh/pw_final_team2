@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:17:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "426",
+    "etag": "W/\"1aa-NUuhh8d1FU0fE6Xn1/nmfZnvIJM\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Sam_Schultz@gmail.com",
+      "name": "OtkvouUZRThDj",
+      "country": "Canada",
+      "city": "eBvFNeH",
+      "street": "U7GkJu",
+      "house": 11,
+      "flat": 7,
+      "phone": "+7864018358",
+      "createdOn": "2026-01-03T16:17:20.000Z",
+      "notes": "8VdevACCMFiZKy0FKuqV3P6xNAiUUEpWCFSQwVuPbJca5PET0xBwf5ftJTEZBN9LONgWPJlbfEwRHlSkJiofRWiPCjwkYwRIQPxTFhGAVwvZ4smecCMjQBdSBqQbVcYseHmvmDggs1dgP",
+      "_id": "695941101c508c5d5e8f89d8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

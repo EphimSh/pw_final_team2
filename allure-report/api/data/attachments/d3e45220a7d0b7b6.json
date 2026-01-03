@@ -1,0 +1,101 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2578",
+    "etag": "W/\"a12-vCETrzZEjbSerGgdjhlaVB07jb8\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "695941cf1c508c5d5e8fc027",
+        "email": "Rory_Berge@gmail.com",
+        "name": "RbgWweMKfrArPwMLtDHLXiUHwAiC",
+        "country": "Canada",
+        "city": "hsWOuBPzcILVj",
+        "street": "YM3BS3DGaV",
+        "house": 89,
+        "flat": 4,
+        "phone": "+9438210732",
+        "createdOn": "2026-01-03T16:20:31.000Z",
+        "notes": "uvJGwHA4EnptDb1LWD9kScY1oHjrDNgMTSpcyfoCkCLJShla9wOn0ziwm8PVUaqvrIaj4zxflXvpHOsmXSW0WRcs4QW1KOQIDD7eP8HpyqnGrlqod36EwDOAfcqi2KPfSuhqpQ0LN5ZXftfwTDNkaRjm7S78XHXtgJHsyg7Af6iOnFH"
+      },
+      "products": [
+        {
+          "_id": "695941d01c508c5d5e8fc067",
+          "name": "Chips84676",
+          "amount": 303,
+          "price": 55155,
+          "manufacturer": "Apple",
+          "notes": "H9WQfOe9BIWjLAvetPZRzVJioPbCbKl6cJsC69zvGA2j3K6z1Isvb1HQYk32ng3bcBzJNfjMfzkvNirC7ZRMCjF9Sn5AHrPtFJhN9pFboQH9vhTRai2Q3HIA81JlDeS04saQp4DC1jTPuQoj1rWmmT4qGApSMOQTSffuTme9DJTShcuQ4WNsEpYwJJKt0mSQnEUadpAl6oLbwzkVlkAYURjUrLAZ8sbIesVD4ft474QyOOR0Uh5spekY8Y",
+          "received": false
+        },
+        {
+          "_id": "695941d11c508c5d5e8fc0a0",
+          "name": "Car19802",
+          "amount": 995,
+          "price": 46842,
+          "manufacturer": "Google",
+          "notes": "5DsXEwuK1EzfyVgIbSU9IVXY6ab0CfYvJ7VHou4CMt0kApHYBYVJgbnGHjYFGrcIzJCXKUmv7QC4LrwbuplYLjZLB9GcinWRmjZKaoF8KVdNhgPKru2cCdmZKDK5sDoDcv1MHwGirzFLDQLK2akV0620yq2MiEMHkHMOvXXylltpfHv5BzeuJmFnOt7URMhJNMUAycYG0cFMILLVdX6ihzTqdgr2g3NtFy8mRoADa34jseyxk53hOhm3Ou",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 101997,
+      "createdOn": "2026-01-03T16:20:33.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695941cf1c508c5d5e8fc027",
+          "products": [
+            {
+              "_id": "695941d01c508c5d5e8fc067",
+              "name": "Chips84676",
+              "amount": 303,
+              "price": 55155,
+              "manufacturer": "Apple",
+              "notes": "H9WQfOe9BIWjLAvetPZRzVJioPbCbKl6cJsC69zvGA2j3K6z1Isvb1HQYk32ng3bcBzJNfjMfzkvNirC7ZRMCjF9Sn5AHrPtFJhN9pFboQH9vhTRai2Q3HIA81JlDeS04saQp4DC1jTPuQoj1rWmmT4qGApSMOQTSffuTme9DJTShcuQ4WNsEpYwJJKt0mSQnEUadpAl6oLbwzkVlkAYURjUrLAZ8sbIesVD4ft474QyOOR0Uh5spekY8Y",
+              "received": false
+            },
+            {
+              "_id": "695941d11c508c5d5e8fc0a0",
+              "name": "Car19802",
+              "amount": 995,
+              "price": 46842,
+              "manufacturer": "Google",
+              "notes": "5DsXEwuK1EzfyVgIbSU9IVXY6ab0CfYvJ7VHou4CMt0kApHYBYVJgbnGHjYFGrcIzJCXKUmv7QC4LrwbuplYLjZLB9GcinWRmjZKaoF8KVdNhgPKru2cCdmZKDK5sDoDcv1MHwGirzFLDQLK2akV0620yq2MiEMHkHMOvXXylltpfHv5BzeuJmFnOt7URMhJNMUAycYG0cFMILLVdX6ihzTqdgr2g3NtFy8mRoADa34jseyxk53hOhm3Ou",
+              "received": false
+            }
+          ],
+          "total_price": 101997,
+          "delivery": null,
+          "changedOn": "2026-01-03T16:20:33.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695941d11c508c5d5e8fc0cc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

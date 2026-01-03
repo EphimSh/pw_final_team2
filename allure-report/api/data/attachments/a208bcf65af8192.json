@@ -1,0 +1,101 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2668",
+    "etag": "W/\"a6c-YnxYjd4DLz6C7dZ0KQpUOsFOpeA\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "695941cc1c508c5d5e8fbeb6",
+        "email": "Frederique64@gmail.com",
+        "name": "rJbHTxPmXZUeJitRqlMBkhRRh",
+        "country": "Great Britain",
+        "city": "Utu",
+        "street": "BEYsoDq4YNKO44l7nq4WsYEP",
+        "house": 119,
+        "flat": 7,
+        "phone": "+7972597349",
+        "createdOn": "2026-01-03T16:20:28.000Z",
+        "notes": "pxVtgRZu1LBi3zhzVF8JcUq5Pxx7b5kGJcJud2EKdcUkDM01Pp5POQsh3f4nMcnKVrZVIKHZOlnVlFZQqujvHzlFKym2BHqHYLvBSf6SyBCeFn6SrIfWJXtZS0UysuBsZq3BMvAQPA764xG6y2Huny8QzD5KDOxGc5Q5xQia7e6fFEpQY02TUyzkEvJ90pZR7YMHhJ94lxSr03W0Yz0MsYnT0WCUh507LjltL4SKRvW7PjfqIARkQxmZgS"
+      },
+      "products": [
+        {
+          "_id": "695941cc1c508c5d5e8fbeda",
+          "name": "Pants38421",
+          "amount": 336,
+          "price": 86841,
+          "manufacturer": "Amazon",
+          "notes": "trx6EwJKXQf3H08wIFxoUi7v4dGJVaV2wvL8hNsZ48PGBKeSCm740CTdzrPtaUPOxVWR7kZwlzjYbrS98iscZbnGMvsAsvjfxA8XO3fTcDsJQaVzDSoHZHb3fVzbcY7atij6r97ATmom80cNyniaPoEIbhX4BtJF5G8bxuEfsPVVR06ShLYIVCczzzhhqB3svoL8ycJkZK2mzSEirTlMTJ6h8PtkY3GUi0P5AGX4fWz3nBlVPz6ZtwvOuE",
+          "received": false
+        },
+        {
+          "_id": "695941cd1c508c5d5e8fbf24",
+          "name": "Pants58207",
+          "amount": 424,
+          "price": 91857,
+          "manufacturer": "Tesla",
+          "notes": "VZe4tPJR2jav4ec78tvqvlEyRsD5yHStq4KrtL4YHkT05iS93XZa6g8PlUyplEGNyGkcKtcwN0mCh8gq6RUlcVyA7hGk8zlSWbgIlSw0xAQYJ3y3aOvbs8iN2imKOEj7sHu6VQDz23g8CpLOp7Rv70wX5F4Ybm8EL0nqmoNOpJdglGqEDqwLyXZlHx8mH0vkzUzROyR62Jx3jPUHubkjAjgdaA1qo4HvxytYIxYibTTCH0XiC3e17vpRBg",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 178698,
+      "createdOn": "2026-01-03T16:20:29.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695941cc1c508c5d5e8fbeb6",
+          "products": [
+            {
+              "_id": "695941cc1c508c5d5e8fbeda",
+              "name": "Pants38421",
+              "amount": 336,
+              "price": 86841,
+              "manufacturer": "Amazon",
+              "notes": "trx6EwJKXQf3H08wIFxoUi7v4dGJVaV2wvL8hNsZ48PGBKeSCm740CTdzrPtaUPOxVWR7kZwlzjYbrS98iscZbnGMvsAsvjfxA8XO3fTcDsJQaVzDSoHZHb3fVzbcY7atij6r97ATmom80cNyniaPoEIbhX4BtJF5G8bxuEfsPVVR06ShLYIVCczzzhhqB3svoL8ycJkZK2mzSEirTlMTJ6h8PtkY3GUi0P5AGX4fWz3nBlVPz6ZtwvOuE",
+              "received": false
+            },
+            {
+              "_id": "695941cd1c508c5d5e8fbf24",
+              "name": "Pants58207",
+              "amount": 424,
+              "price": 91857,
+              "manufacturer": "Tesla",
+              "notes": "VZe4tPJR2jav4ec78tvqvlEyRsD5yHStq4KrtL4YHkT05iS93XZa6g8PlUyplEGNyGkcKtcwN0mCh8gq6RUlcVyA7hGk8zlSWbgIlSw0xAQYJ3y3aOvbs8iN2imKOEj7sHu6VQDz23g8CpLOp7Rv70wX5F4Ybm8EL0nqmoNOpJdglGqEDqwLyXZlHx8mH0vkzUzROyR62Jx3jPUHubkjAjgdaA1qo4HvxytYIxYibTTCH0XiC3e17vpRBg",
+              "received": false
+            }
+          ],
+          "total_price": 178698,
+          "delivery": null,
+          "changedOn": "2026-01-03T16:20:29.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695941cd1c508c5d5e8fbf61"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

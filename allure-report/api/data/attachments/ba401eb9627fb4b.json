@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "517",
+    "etag": "W/\"205-c7sgNqtAZ1H2UXXxSdp0+pehrD0\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Judd8@hotmail.com",
+      "name": "WWRjqdPPHnYwEwcrJdfQOxqfkKAN",
+      "country": "Great Britain",
+      "city": "RPBrLkjdNmJ",
+      "street": "W1P986iaaJn32h0",
+      "house": 72,
+      "flat": 1,
+      "phone": "+3021431359",
+      "createdOn": "2026-01-03T16:20:28.000Z",
+      "notes": "pksGdAMQPPhd0GMkdz7rGRW9V3BDkbtyHLRa37w2s5giGi1vHrZRK5AyWVzHli4RVP5A2gv0VPw5hvQvNkUer6sZEExdRM0gyIST8hVcpOiTYTbxs8a7qdxuda035ZdnMwvv3rfhcbj6T61lhS7OFVBIGWweCpvqQDzmV5zMgm0uuXqPbPZuIiRZU7zSjrbSPdM5TmyWM",
+      "_id": "695941cc1c508c5d5e8fbee6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

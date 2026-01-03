@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:18:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "308",
+    "etag": "W/\"134-aA1y5nHW2SNTmMUTD7BZgwnl35M\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Santa_Russel@yahoo.com",
+      "name": "eTTMMmW",
+      "country": "Ukraine",
+      "city": "ydjiYRu",
+      "street": "XigxMFylSMuvs5dkGm",
+      "house": 135,
+      "flat": 3,
+      "phone": "+7681224748",
+      "createdOn": "2026-01-03T16:18:53.000Z",
+      "notes": "fU4njSAoSlZ9p8",
+      "_id": "6959416d1c508c5d5e8fa1d5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

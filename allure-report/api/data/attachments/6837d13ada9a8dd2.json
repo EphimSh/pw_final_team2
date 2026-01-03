@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-KUKy8pJ6WAiv/JZGDySPAJcQHzQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese6171",
+      "amount": 815,
+      "price": 55988,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T16:20:38.000Z",
+      "notes": "CQtfSJBwtOHZ5i1lXIf9r0T6wisBLWu7aEEz2Ft0PNCEhPf6KlSlJ3pQbUKWd1wx8WBuoxaqm0CyrmLbw2DbgQDYSiwvQXXKaAn8yxM0x26rCpwa27A9hYO790ja2f6wDYev1egPC9ma8IuihthMeyxWq0WYe4KE4xnoGlBLsDKJZ5UEi4TjCinL1nErM6KdqXheENgzT0lPx057A7HIZ6BT3DcHWxUpfZ1l5Hp9LM3OCPItfBAXCfcj1p",
+      "_id": "695941d61c508c5d5e8fc28f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

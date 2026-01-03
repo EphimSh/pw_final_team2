@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:19:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "402",
+    "etag": "W/\"192-ECOz+O/AehL1tVdmTf7Y78aho58\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Imani30@hotmail.com",
+      "name": "h",
+      "country": "Germany",
+      "city": "bRFtu",
+      "street": "nWb",
+      "house": 158,
+      "flat": 2,
+      "phone": "+2864788966",
+      "createdOn": "2026-01-03T16:19:48.000Z",
+      "notes": "2XNxCAhON5MbyXF3SXhZqR1elfUFiO1rVfW0NHyFqigTqGZ82drGNXWrv3Zhx2SVoqGD4mwmGEC73Njwx537lLWknJvAPKW2dzuAXBgLbbOh5JUbyPISnN5lrTkZf6R6Vd72mS",
+      "_id": "695941a41c508c5d5e8fb201"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

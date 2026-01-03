@@ -1,0 +1,131 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3228",
+    "etag": "W/\"c9c-gVVOZt+Wl8t8UbYinzpMoF2IQ1w\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695941b91c508c5d5e8fb89c",
+      "status": "Draft",
+      "customer": {
+        "_id": "695941b71c508c5d5e8fb87f",
+        "email": "Tressie60@hotmail.com",
+        "name": "omeeqluuIjPMkxMoisQuMspZZsahnDgNKweU",
+        "country": "Germany",
+        "city": "prneVlFRiLD",
+        "street": "GbnrxrC5q",
+        "house": 32,
+        "flat": 8,
+        "phone": "+8619830317",
+        "createdOn": "2026-01-03T16:20:07.000Z",
+        "notes": "smXs7KyZojmW0nUQVOmvRo0t7OCaXJCrAcBa9usBlG6116laDPnGfJ"
+      },
+      "products": [
+        {
+          "_id": "69593f021c508c5d5e8ecd24",
+          "name": "Pants35650",
+          "amount": 313,
+          "price": 34688,
+          "manufacturer": "Apple",
+          "notes": "ozQY92iBnEjoX4ZbJmVqQ6l2Z9CkbrkgBJYKZPpK4X79D7LwxPRC4fm5kkumfJFNBxb17ZxnHHoKViR8MnrAt0SGBLqwUWTdwUK6kGn70sRdP6g6RoKIK6wySRKvOM7J6Lsi9C7GZmQX2EcKM7KdHUzFAS36mwzsjvvGpKzjDaNRHBoKLSwWdj6kXwbFM33bqPK2fHcHTKSIIBFRmHlSHuDVUev5RoXpSliP0EsMWwhXmpzHlN98dcKt3W",
+          "received": false
+        },
+        {
+          "_id": "695940811c508c5d5e8f51c3",
+          "name": "Towels34039",
+          "amount": 377,
+          "price": 48489,
+          "manufacturer": "Google",
+          "notes": "0T4HVJ3hpSOOYBsoFowaQGGmREpZ5Qc2A6ycm4tggrzOJ2DCtAz33yoYCAxguhEEeI0XXyav5SxwP7nIiK6xUpouOr3WhhFxc6yXyoWbJ3Oe3rJH636M7TJkX0sbjwGZZS0HsBzfvrNltJs2ScE5ins5cwF61RsPs7EdJrXNWwvrrsfc2itEZweOIG4gP3gAHaZ3u1lMcnA7UhhfWLPCwbzBWafzKqAvPkslZvnShGqQ2eZ8tl448uxlW4",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 83177,
+      "createdOn": "2026-01-03T16:20:09.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695941b71c508c5d5e8fb87f",
+          "products": [
+            {
+              "_id": "69593f021c508c5d5e8ecd24",
+              "name": "Pants35650",
+              "amount": 313,
+              "price": 34688,
+              "manufacturer": "Apple",
+              "notes": "ozQY92iBnEjoX4ZbJmVqQ6l2Z9CkbrkgBJYKZPpK4X79D7LwxPRC4fm5kkumfJFNBxb17ZxnHHoKViR8MnrAt0SGBLqwUWTdwUK6kGn70sRdP6g6RoKIK6wySRKvOM7J6Lsi9C7GZmQX2EcKM7KdHUzFAS36mwzsjvvGpKzjDaNRHBoKLSwWdj6kXwbFM33bqPK2fHcHTKSIIBFRmHlSHuDVUev5RoXpSliP0EsMWwhXmpzHlN98dcKt3W",
+              "received": false
+            },
+            {
+              "_id": "695940811c508c5d5e8f51c3",
+              "name": "Towels34039",
+              "amount": 377,
+              "price": 48489,
+              "manufacturer": "Google",
+              "notes": "0T4HVJ3hpSOOYBsoFowaQGGmREpZ5Qc2A6ycm4tggrzOJ2DCtAz33yoYCAxguhEEeI0XXyav5SxwP7nIiK6xUpouOr3WhhFxc6yXyoWbJ3Oe3rJH636M7TJkX0sbjwGZZS0HsBzfvrNltJs2ScE5ins5cwF61RsPs7EdJrXNWwvrrsfc2itEZweOIG4gP3gAHaZ3u1lMcnA7UhhfWLPCwbzBWafzKqAvPkslZvnShGqQ2eZ8tl448uxlW4",
+              "received": false
+            }
+          ],
+          "total_price": 83177,
+          "delivery": null,
+          "changedOn": "2026-01-03T16:20:12.000Z",
+          "action": "Requested products changed",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695941b71c508c5d5e8fb87f",
+          "products": [
+            {
+              "_id": "695941b21c508c5d5e8fb6cd",
+              "name": "Hat50390",
+              "amount": 948,
+              "price": 71294,
+              "manufacturer": "Google",
+              "notes": "Q0OUgczSwK0nfctukvkJt7Oe0RXP4j4O59oqyLgZLUBh2dfWtD1TjMXtOajOt4b3S0HpTuBJxL9QEZxG8HyZSwgPLGm09NKx4eLfK7eXLbK4oBKyN7ItgLl39aKFcpn5kPqL3S5CQyyOdKNtSPvSUxrN1AyBLcgN14q975ut78BRaFjpSCtIwco7FXuiFqTobTdXgdYoaIkhccQ6ACaY10h5IZm0962StoveLp4u8OOVoNRmGZefhmJyLc",
+              "received": false
+            }
+          ],
+          "total_price": 71294,
+          "delivery": null,
+          "changedOn": "2026-01-03T16:20:09.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

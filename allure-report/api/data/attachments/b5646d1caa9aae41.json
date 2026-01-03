@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "448",
+    "etag": "W/\"1c0-lIrJ0yUaBg+XpXd8x8Uls30SeDg\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike50037",
+      "amount": 674,
+      "price": 1,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-03T16:20:36.000Z",
+      "notes": "gqO9wyrVInpVeQAV3ZkYWcBpPBKtbEDzC7myFRagrwXtNHzyq2vjbmzxnEvOygNuxuK2zuaJcr0U5rSDnGPXcViXaM1kBhjCiaujtvibhnR5SIzX0N9QgQDt6PswdOHOLeO3TdVrKK4Yor9Q3n0Jy74uVotDzf3Iup7dD8v2VxSPosbaAn17PL9j7wdSdZJbxIbKT2jm8g0yHnrmODgYAz8q8kgcCi8U9Sdg26aQazim0uEc5XcvwjMyEj",
+      "_id": "695941d41c508c5d5e8fc20d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

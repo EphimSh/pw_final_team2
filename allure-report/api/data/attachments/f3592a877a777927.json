@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:17:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-leYyUl01trSFDNvA4zAxSUG0yPM\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna85975",
+      "amount": 662,
+      "price": 75342,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-03T16:17:44.000Z",
+      "notes": "VJmUPGX6JM1o9daA0Dk4VFgVH2Lezyoi4qO7xvHkb97PMozrkW1kxE4OivhxThruXabOzt5wwVE3O2tX4VGyNvrPPnffitET0hOa39KCcukY6MZhqs5gDYU0hhHTgosCFCivJnBduMh5elKnx4c3NYkvCKM9kLMS68K2Z56jfaCQiB6DyfbHJV7jO4X9yPvIwmxyTx0NCecsWkqhNsqDknKY8IGc6WleVSTPVZYZB5AD4GyT99Lf5vqq9F",
+      "_id": "695941281c508c5d5e8f8f46"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

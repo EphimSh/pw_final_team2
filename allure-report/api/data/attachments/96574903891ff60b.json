@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-LdRtaY3a9jjTEi4T513O/5y1rc8\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair22203",
+      "amount": 567,
+      "price": 7938,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T16:20:53.000Z",
+      "notes": "nMMdYEAC90sN90p1mMZEVEnHwLLKn6EsM7jYPycF77ulkO6BOuR3MK1optZdiN4IuehccdsOSQ9cvjg5cNzyNCUC21MN2fonYiWXsViN1EMkCX7JfnD8vmzyo2hEyVJAbIN5eOzmNoLu4JvkWNvDPitGTfF208sEMbk71pzjDIzyfY7Q7VGfE4q63xXU86N6rbppC4ZZ1lVJRoDtrbXG2XlmkkXzpPVSFjFkVcyELOBWAEfofNjDf9g6lG",
+      "_id": "695941e51c508c5d5e8fc8c6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

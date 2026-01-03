@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:17:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "504",
+    "etag": "W/\"1f8-VpkdNNnaRf0uahbDMVCx/Wg06uU\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Cornelius_Bechtelar40@gmail.com",
+      "name": "uVZkXclKDkh",
+      "country": "Ukraine",
+      "city": "LBVsOYrELkdecc",
+      "street": "PMWm92XkXQAAkowW7hL6AGNaYk",
+      "house": 30,
+      "flat": 8,
+      "phone": "+7872792203",
+      "createdOn": "2026-01-03T16:17:43.000Z",
+      "notes": "eb0SZTe70p0DmAZb2SFYVGJlnbYXVMmSnYMQ2nNjIWBtE1NvACCTIqQ4NikS2MGW8sYDcaqR2YOjdvwvLSbB4bt5aicCoXebJYS8NjGnVikcRly16Mrpdg1kqbsi7MfLSAXSVSGFa6xu07v4xfxsxsNzfqrr15saapVck8Nal5eqIVVCgTTy7Gc",
+      "_id": "695941271c508c5d5e8f8f27"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

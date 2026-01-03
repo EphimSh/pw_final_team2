@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:19:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-NqIHOpfuFAYrh35bmk1kIhI+3Fo\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish80556",
+      "amount": 593,
+      "price": 7503,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-03T16:19:25.000Z",
+      "notes": "CPC2bxSUEZtP6nFV6dO3eNfVsfws3nL1AS1LnMenk0riDkxAIAuylVLikHkLbeENMLw4mH7dBOlh5Q7WUsINTmXBzVp3SwALxvrPNYz2k2nlikDKPsuNFl0BxV79RQ6RGZuCdMTWKbgu5Ovhre53i5p3QmaRS0BBAT5QDDAq4gNvaGYEuYbGgzbTHus4VTtXjuLPKQm2Ez0M9rQsdEPKSEfxUe2staKOgbJI7iTWkZJhhYzS4G7Tec8Utz",
+      "_id": "6959418d1c508c5d5e8fab2f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

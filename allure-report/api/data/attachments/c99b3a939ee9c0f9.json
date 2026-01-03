@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:19:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-hAFSSeIchSmuzfcSH9c2U10cD9M\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad65623",
+      "amount": 628,
+      "price": 57292,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T16:19:24.000Z",
+      "notes": "qdId5tyciBi4YdQmKwShMMQulEfyFTpkTpLR1ny7MyVdK2QGueB4Hgksg6NFzLkIWwT6nd4VX4vrEmmb0m73AeLhFufaSeMR4akRmpcRZ8QecCaKH1d0iJillodDjfYBgXkShTxPMuLgWh2wl4fnkF3ZALTqdKIMQ9lqnIoru9S7BZbVUxrI5jTVgfPVqu7praR76ZmEoIxMGojiy0AwpxWywiNMMLjPo8Zk68S2zJqAhD0vmxLk2bJ5LG",
+      "_id": "6959418c1c508c5d5e8faaea"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

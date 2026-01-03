@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:18:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "481",
+    "etag": "W/\"1e1-xmub6O8kmRymvvoScYiWKY1StCI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Amira.Rodriguez-Walker23@yahoo.com",
+      "name": "pAQFNmNAYIAyynjlNyVsFGMbjVvPTejeqjFOYzb",
+      "country": "Ukraine",
+      "city": "HiKwwZtVEFL",
+      "street": "Hbf9C1ajL",
+      "house": 41,
+      "flat": 9,
+      "phone": "+4343353824",
+      "createdOn": "2026-01-03T16:18:37.000Z",
+      "notes": "fCsiGWEMeajyQYHwMWhCafRTpJIC8n4TXfXGXxQKeKpBXA6IQH9Q6uEzoKR47yXCFPpFMKk2JVKutPzQpYCx72DpFFQeE7Wjnhp2fWMI6xhadHCGbDHPzKGxFclRQVlh8My8MSvaadh9e82kdLRdb",
+      "_id": "6959415d1c508c5d5e8f9cb1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

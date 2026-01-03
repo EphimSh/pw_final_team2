@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:19:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "416",
+    "etag": "W/\"1a0-fAkNWrTyA1XBHCg6wDkCOhlSc2I\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Malvina64@yahoo.com",
+      "name": "PzNwAwqSD",
+      "country": "Germany",
+      "city": "NdDfn",
+      "street": "Xyxbm3nTYfuaDCBqrfZ9wuDLrnZ23",
+      "house": 2,
+      "flat": 6,
+      "phone": "+2589809649",
+      "createdOn": "2026-01-03T16:19:00.000Z",
+      "notes": "k41OpYGsxCiTVRY014InpS9XXSD5h73QgVByw6bpEcitsHpohzjPuPB7RmAgbrO6mx0G4Xe0zFHbCxdZAUW4vmzMIyucgm3DCVgYL3ryYaFTlFPkXA8k",
+      "_id": "695941741c508c5d5e8fa423"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

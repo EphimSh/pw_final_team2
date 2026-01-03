@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "520",
+    "etag": "W/\"208-jNlDoqiSmXu9KW1sfFsE4TmjzXU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Nelson_Gusikowski@gmail.com",
+      "name": "SlldOFEnhaVrTBMKlOFR",
+      "country": "France",
+      "city": "lXLaBPXYKWVHY",
+      "street": "yEUyF",
+      "house": 42,
+      "flat": 7,
+      "phone": "+5610320909",
+      "createdOn": "2026-01-03T16:20:02.000Z",
+      "notes": "YOdSQ1tmlfLNupuCep0NUvKETvZCoTXn74x6NKLi1E1KdKMisk3xqgNQnMTyE4bbuMUCRtft67fZaQz4ipbIgHtrn9FZIsAGT2fJDHUXEa611bLQfBvlxgh7ccbQnu1tzcS9R0fJN3RGdHvYx8OMLbYua1UyMwZj1gP1RR2OCnMRGo1NZnogKccxTAN8i0gmEvEvJB0decsRaLwURq56J75UK",
+      "_id": "695941b21c508c5d5e8fb6fc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

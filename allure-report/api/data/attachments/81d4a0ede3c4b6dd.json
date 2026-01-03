@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:19:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-ndAnEFmpvET2ISL0BPWkApb6X/k\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Rodrick.Hand14@gmail.com",
+      "name": "ZWZhXXamrUqZzsymt",
+      "country": "Germany",
+      "city": "QodKOjroK",
+      "street": "ShA9bS",
+      "house": 54,
+      "flat": 2,
+      "phone": "+1109706198",
+      "createdOn": "2026-01-03T16:19:12.000Z",
+      "notes": "1p4zwdFrBkxzGdtoF0ylTQe4ArfeaZZkpsgBKTMFdKeeNhZPOlpX9mPsnyIRmLvkGzGRrcqUniCHDQgzF9cHmfH9zdbZ84o2LqfSs6Eay7FfK28CdbeGULmX9cO86lPh4qaKuYHwM206D7D9iMEyxDmnIMxZM9z3",
+      "_id": "695941801c508c5d5e8fa737"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

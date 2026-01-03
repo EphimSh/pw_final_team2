@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:17:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "467",
+    "etag": "W/\"1d3-XbLczgtBoFm7kbxiLem9ul9Skas\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Arjun_Heaney@yahoo.com",
+      "name": "BmlUgk",
+      "country": "Ukraine",
+      "city": "ZHhnzGniCsEcGa",
+      "street": "XVTArieoaWOgRPWAUBpfmqnBR9AC0J0I0nN",
+      "house": 106,
+      "flat": 8,
+      "phone": "+8278661451",
+      "createdOn": "2026-01-03T16:17:01.000Z",
+      "notes": "xe9JzgIb38lhzgaDWbrDRMtQT2QvBrUxaHAZOZY1T9Z93OC7zGEKj03iG0tPpEQ9Qp3pGO9qOczjCd05nxv2UqClhOV2ngQrDNRUnBPrrrQ0YHqew5b8S8jKqPaXki8djbrE5CWlEmeDyb6gD2YA5h",
+      "_id": "695940fd1c508c5d5e8f8509"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

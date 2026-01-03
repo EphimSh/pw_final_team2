@@ -1,0 +1,28 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:18:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "224",
+    "etag": "W/\"e0-wQvcqi6ZcFawaPqHARUrBvNUaOU\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "IsSuccess": true,
+    "ErrorMessage": null,
+    "User": {
+      "username": "testmanager_wpX1p0Qf",
+      "firstName": "ManagerwpX1p0Qf",
+      "lastName": "ManagerwpX1p0Qf",
+      "roles": [
+        "USER"
+      ],
+      "createdOn": "2026/01/03 16:18:55",
+      "_id": "6959416f1c508c5d5e8fa24e"
+    }
+  }
+}

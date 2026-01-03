@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "484",
+    "etag": "W/\"1e4-yS1IyYG/ePty3jEovmGcd5/Updk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Rory_Berge@gmail.com",
+      "name": "RbgWweMKfrArPwMLtDHLXiUHwAiC",
+      "country": "Canada",
+      "city": "hsWOuBPzcILVj",
+      "street": "YM3BS3DGaV",
+      "house": 89,
+      "flat": 4,
+      "phone": "+9438210732",
+      "createdOn": "2026-01-03T16:20:31.000Z",
+      "notes": "uvJGwHA4EnptDb1LWD9kScY1oHjrDNgMTSpcyfoCkCLJShla9wOn0ziwm8PVUaqvrIaj4zxflXvpHOsmXSW0WRcs4QW1KOQIDD7eP8HpyqnGrlqod36EwDOAfcqi2KPfSuhqpQ0LN5ZXftfwTDNkaRjm7S78XHXtgJHsyg7Af6iOnFH",
+      "_id": "695941cf1c508c5d5e8fc027"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

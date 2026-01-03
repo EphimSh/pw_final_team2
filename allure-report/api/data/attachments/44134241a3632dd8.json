@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:18:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-Pf4zq6v5FNhfNfa4uxOdtvP+piA\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad56511",
+      "amount": 144,
+      "price": 89113,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-03T16:18:30.000Z",
+      "notes": "tnm7FLs1dcUJMmA8IomwvGMIDhccmMTBAACGVH1GgOHX7igdXXF9FCujOCLro9K7J9Mwk8N5NtXYf00BIa7evX2tppGItXvm8R3sTJ7hyzCwNS3OO8fHt1f6NCkQo5ZWLXkYU6RhIkPqNkX0UurQLHY30zmIO7kwQPpa1R0P99DN9LA298JueUKuC9dled9C3iSsXkmYGtybiMH5BlIjAohtxBjaADbQ8Xvn8ilLQIyn8Dk9l8l5rv8UgQ",
+      "_id": "695941561c508c5d5e8f9aea"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

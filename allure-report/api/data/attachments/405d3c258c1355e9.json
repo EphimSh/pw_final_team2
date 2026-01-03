@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:18:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1884",
+    "etag": "W/\"75c-V2QQ22CRX3EgvT4N8V8PhqXNWbU\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "695941521c508c5d5e8f9980",
+        "email": "Stuart_Hackett94@gmail.com",
+        "name": "YSUafmsNweshraufGfJELgDKCLnXNkW",
+        "country": "USA",
+        "city": "sFsZnCekFFLX",
+        "street": "YFw0y8eBShXJ1w4FnLHPaCC",
+        "house": 149,
+        "flat": 8,
+        "phone": "+9030427008",
+        "createdOn": "2026-01-03T16:18:26.000Z",
+        "notes": "cHZFqsqVvr5dqrpYb0Pn4m6XpzTBMpzabIFcyh5Y9QkIZ0JPaSHRBrw9e4hqQ4rMIaymJTstowLBfr6AzeSQdknFVWXl9wJDdDK8ww2NXwVqRA4mCfkGYBewoBJLOGvXllQBp1kJRFPf00iVupO2g8n2bkfb08jTLiJuonX2RO5Y4jGUZPAfeRlWRcktReSbVRAeQI3TD7G6LdqhweLNoEogfxY5BBj8G5"
+      },
+      "products": [
+        {
+          "_id": "695941541c508c5d5e8f9a6b",
+          "name": "Tuna60700",
+          "amount": 723,
+          "price": 53877,
+          "manufacturer": "Samsung",
+          "notes": "fe4tXrvOtJL5ZQveMHkHNdMDubPM9H3R8MLEGYh3BgU6fJ8pjhVWDSIUDSROWsoEgoewq2eZ2Rpg0OajxcyhNku5rqhJAJn3WKDu6pJllhokTYshEBfAkzC6Fo6uGh4FKqAJtKhw1pIarLo0zTcjBQdOpB65FX2I0zxMLcKJ2tc2vsMgyNNRwsrS1sV0eKYxx3pL2MnuFp019wPzOGDAQNQgVUKDOIqSVwNjtkIkGgOcxzXFMDbyR8QRS8",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 53877,
+      "createdOn": "2026-01-03T16:18:29.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695941521c508c5d5e8f9980",
+          "products": [
+            {
+              "_id": "695941541c508c5d5e8f9a6b",
+              "name": "Tuna60700",
+              "amount": 723,
+              "price": 53877,
+              "manufacturer": "Samsung",
+              "notes": "fe4tXrvOtJL5ZQveMHkHNdMDubPM9H3R8MLEGYh3BgU6fJ8pjhVWDSIUDSROWsoEgoewq2eZ2Rpg0OajxcyhNku5rqhJAJn3WKDu6pJllhokTYshEBfAkzC6Fo6uGh4FKqAJtKhw1pIarLo0zTcjBQdOpB65FX2I0zxMLcKJ2tc2vsMgyNNRwsrS1sV0eKYxx3pL2MnuFp019wPzOGDAQNQgVUKDOIqSVwNjtkIkGgOcxzXFMDbyR8QRS8",
+              "received": false
+            }
+          ],
+          "total_price": 53877,
+          "delivery": null,
+          "changedOn": "2026-01-03T16:18:29.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695941551c508c5d5e8f9a8c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

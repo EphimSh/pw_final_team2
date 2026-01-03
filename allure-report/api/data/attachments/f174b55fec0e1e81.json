@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:18:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "492",
+    "etag": "W/\"1ec-iOg8V5r2rh6rWilsB72Ne7UVD7Y\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jacques.Howe@hotmail.com",
+      "name": "ccuSntdFHkereleZoRaXWJvvpghSJkczBkyT",
+      "country": "France",
+      "city": "RKVNGNoehSHD",
+      "street": "bP07xE2Fh7DWsPFDLS",
+      "house": 5,
+      "flat": 5,
+      "phone": "+9111856301",
+      "createdOn": "2026-01-03T16:18:27.000Z",
+      "notes": "veNbojEmQK2DujCFdXEKlgD5RGpFc0UnutDCWds3V0xM4XOKIf5uljL8yXwZxenuSBAmVOfgyqQkW2XVanSlOZG6TnlIzlOrecFwAj4ToHHwzFOm6veLi8FDvkevpZPX3BhKXge9TohyfK6sjr1WoTQIN6ybmKr592YL5",
+      "_id": "695941531c508c5d5e8f9a00"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

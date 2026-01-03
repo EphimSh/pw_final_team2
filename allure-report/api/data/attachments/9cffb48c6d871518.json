@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:19:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "324",
+    "etag": "W/\"144-g5mvvu3TVqkQC1PwR/Lo2Qq4TqU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Dane17@gmail.com",
+      "name": "GgmXEAnNKeanYPtfxrMep",
+      "country": "USA",
+      "city": "s",
+      "street": "3LbZfsid5M1k81c99Q5",
+      "house": 114,
+      "flat": 7,
+      "phone": "+3410427962",
+      "createdOn": "2026-01-03T16:19:55.000Z",
+      "notes": "fBBLVl3XDWZZKNBMNJB7RAIy2EYijGU",
+      "_id": "695941ab1c508c5d5e8fb45b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

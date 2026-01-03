@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "393",
+    "etag": "W/\"189-VcYR5JDL+RlfUlwcHsksHKwuHkM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ezra.Mraz@gmail.com",
+      "name": "WVRLlTDWNecwOOrsFNamSHNMMuqawS",
+      "country": "Canada",
+      "city": "mymWoYGZcSsysQaOLTrL",
+      "street": "x9wKxL05VYqBtJu60E7QuXM4gH6vA",
+      "house": 97,
+      "flat": 7,
+      "phone": "+0210076988",
+      "createdOn": "2026-01-03T16:20:23.000Z",
+      "notes": "GYk5sFqqZxPpC0hDb8izloidBvIGu9nHjPxbHyzHaAnvpnAbXBTYmffXM",
+      "_id": "695941c71c508c5d5e8fbd49"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:17:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-mYszbyXv55ob7h4GSkaRgSiR6lI\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes43397",
+      "amount": 414,
+      "price": 72077,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-03T16:17:57.000Z",
+      "notes": "GbYjGAA1SenGvrbUPBNYYjyqkoDh4roxey9oHE29kFUvEeiCQ68n9Wj3jBfXZFDybuIsutSENLliSRnpeYsYg0LvPsjtnnrgmldWfbLV1bAZyTR7tigi1eNV0uIoNvN06WYcEebJR0c3L2N0636bQtCqERvu7fgQrHCbe3NsWBchne9wf0D97CD5xG1L3uzRYJ3VpZFttPKXmNEAFsO6bgvWDIFmi7f7i76YFrmJLieAGpwbqlcXF1BKNV",
+      "_id": "695941351c508c5d5e8f92cd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

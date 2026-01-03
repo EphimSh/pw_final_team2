@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:20:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "570",
+    "etag": "W/\"23a-EUoQLMRP/lHDx2EaH/J/X4U8yIw\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Frederique64@gmail.com",
+      "name": "rJbHTxPmXZUeJitRqlMBkhRRh",
+      "country": "Great Britain",
+      "city": "Utu",
+      "street": "BEYsoDq4YNKO44l7nq4WsYEP",
+      "house": 119,
+      "flat": 7,
+      "phone": "+7972597349",
+      "createdOn": "2026-01-03T16:20:28.000Z",
+      "notes": "pxVtgRZu1LBi3zhzVF8JcUq5Pxx7b5kGJcJud2EKdcUkDM01Pp5POQsh3f4nMcnKVrZVIKHZOlnVlFZQqujvHzlFKym2BHqHYLvBSf6SyBCeFn6SrIfWJXtZS0UysuBsZq3BMvAQPA764xG6y2Huny8QzD5KDOxGc5Q5xQia7e6fFEpQY02TUyzkEvJ90pZR7YMHhJ94lxSr03W0Yz0MsYnT0WCUh507LjltL4SKRvW7PjfqIARkQxmZgS",
+      "_id": "695941cc1c508c5d5e8fbeb6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:18:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "554",
+    "etag": "W/\"22a-7PYJzQWkBRemBkaK5GYEy7uQ8Xk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Elbert.Luettgen12@hotmail.com",
+      "name": "JQiEPTmTTBMSiOTMTymsebEnkCVZGTqFJkZ",
+      "country": "Germany",
+      "city": "eAWOfkapOWCFZu",
+      "street": "m44gUDOOnTQOQ",
+      "house": 7,
+      "flat": 8,
+      "phone": "+3651247731",
+      "createdOn": "2026-01-03T16:18:55.000Z",
+      "notes": "xB0RzPUK6Iqz3Zaiv1VM4dY4hbbSTgm9UldZx2yZ3djPEiNHlrwBhx4sYUibrrKCUV65ijoZR8uJL2RReLjKI50gLmBzvZDU4lI8AzcGevLEIrX1XySWElHVIKI9gzM90Tu2wkmFI76F3P495CI1VjDOFlwm6EYOGHZije2dOpSujeaRTxSJVwseplzMW5GJrFPddFlnKvxp7lOaWTtBjqNj5XACbILkv",
+      "_id": "6959416f1c508c5d5e8fa23f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

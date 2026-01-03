@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:18:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-015n9fw4Vq8e46VDI6r15PxYyCw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer43280",
+      "amount": 520,
+      "price": 99288,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-03T16:18:39.000Z",
+      "notes": "0THnaJxo3FbCu72YaRyt2RK0o99VqoDH7AzvO5id95bGUsdRIbegmrKRoTi9WUdTaVQ3R9GZsEw1ZLfkr7GAYOohMPbu5FPNrEVDTGffrVNtXSWZ3zEyYMresEtS7RspEOifz5k38qWnxhJxVgIXHrsr1AI3PDx2lG2CW3lr5kk12tgDjmyIzNusUcwpg3TUvBWF2IlE1iOprKgXKz3b3GIwZWJA5KtPaZazJuWSHhjraizQmO23Cnt9XC",
+      "_id": "6959415f1c508c5d5e8f9d53"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

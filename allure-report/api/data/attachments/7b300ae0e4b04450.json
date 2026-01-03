@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sat, 03 Jan 2026 16:19:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "489",
+    "etag": "W/\"1e9-LLJcvKE5AYCQy/G0Zp3D/jY+lMM\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Frederick.Yost89@hotmail.com",
+      "name": "mRSoqjJpzFsgWvbmwmIPMReQwCIexwY",
+      "country": "USA",
+      "city": "gnFrd",
+      "street": "733TNV465eTuV",
+      "house": 165,
+      "flat": 7,
+      "phone": "+5111298944",
+      "createdOn": "2026-01-03T16:19:38.000Z",
+      "notes": "nk3BH5nmv4Xl4RPTzqkO0BMZvWUMATXBNCGHHGAEHw84PPjetOajO9u6tUYN0N8mEwl54T4e3YbW0T8wuyt8WSgpwge5dkk8Yn15KBwMJ3k9y5i8ZRIFPmCwxf3Xf8Zse3avayALbgeYVkcevCztbjjbVPhbnAf3hReorrL0jIVzLtX8",
+      "_id": "6959419a1c508c5d5e8faf4a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
