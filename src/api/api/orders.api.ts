@@ -3,11 +3,13 @@ import { apiConfig } from "config/apiConfig";
 import { IRequestOptions } from "data/types/core.types";
 import {
   IDeliveryInfo,
+  IGetOrdersParams,
   IOrderCreateBody,
   IOrderResponse,
   IOrdersResponse,
   ORDER_STATUSES,
 } from "data/types/orders.types";
+import { convertRequestParams } from "utils/queryParams.utils";
 
 export class OrdersApi {
   constructor(private apiClient: IApiClient) {}
@@ -75,6 +77,46 @@ export class OrdersApi {
     }
   }
 
+  // ("PUT /api/orders/{orderId}/assign-manager/{managerId}")
+  async assignManager(orderId: string, managerId: string, token: string) {
+    const options: IRequestOptions = {
+      baseURL: apiConfig.baseURL,
+      url: apiConfig.endpoints.orderAssignManager(orderId, managerId),
+      method: "put",
+      headers: {
+        "content-type": "application/json",
+        Authorization: `Bearer ${token}`,
+      },
+    };
+
+    try {
+      return await this.apiClient.send<IOrderResponse>(options);
+    } catch (error) {
+      console.error(`Failed to assign manager ${managerId} to order ${orderId}:`, error);
+      throw error;
+    }
+  }
+
+  // ("PUT /api/orders/{orderId}/unassign-manager")
+  async unassignManager(orderId: string, token: string) {
+    const options: IRequestOptions = {
+      baseURL: apiConfig.baseURL,
+      url: apiConfig.endpoints.orderUnassignManager(orderId),
+      method: "put",
+      headers: {
+        "content-type": "application/json",
+        Authorization: `Bearer ${token}`,
+      },
+    };
+
+    try {
+      return await this.apiClient.send<IOrderResponse>(options);
+    } catch (error) {
+      console.error(`Failed to unassign manager from order ${orderId}:`, error);
+      throw error;
+    }
+  }
+
   // ("PUT /api/orders/{id}")
   async update(id: string, orderData: IOrderCreateBody, token: string) {
     const options: IRequestOptions = {
@@ -111,6 +153,25 @@ export class OrdersApi {
       return await this.apiClient.send<IOrderResponse>(options);
     } catch (error) {
       console.error(`Failed to get order with ID: ${id}:`, error);
+      throw error;
+    }
+  }
+
+  // ("GET /api/orders/sorted")
+  async getSorted(token: string, params?: Partial<IGetOrdersParams>) {
+    const options: IRequestOptions = {
+      baseURL: apiConfig.baseURL,
+      url: apiConfig.endpoints.orders + (params ? convertRequestParams(params) : ""),
+      method: "get",
+      headers: {
+        "content-type": "application/json",
+        Authorization: `Bearer ${token}`,
+      },
+    };
+    try {
+      return await this.apiClient.send<IOrdersResponse>(options);
+    } catch (error) {
+      console.error(`Failed to get sorted orders:`, error);
       throw error;
     }
   }
