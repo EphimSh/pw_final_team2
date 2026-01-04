@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:16:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-fnXqVi1OuNA6FoZeCN8m1j1HZfA\"",
+    "keep-alive": "timeout=5, max=79",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon77246",
+      "amount": 266,
+      "price": 35161,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T09:16:14.000Z",
+      "notes": "ARgC9MAVIVZmtSp3grpZciIZRxiv8zr6ET3vsmulIXzbEkUNJnA4vqccnRO7IErerwuyb0rztsXTs88syCwCKjsDjoOMxOvg4hu3ftf6DN895kORREWAWN18Jqim1jFA2ZaiSLjBuHTiKgBoHHXLapUT0SnK0HqZYnn9IsTok57B7S59coqlx5uJQJcDzBbjbPsMmahUXDYN1pb9rixBAN7tHtbZEYXhj5oWVBf3Er2SWQzUJeUH2G5geL",
+      "_id": "695a2fde1c508c5d5ea1289b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:15:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-oiElFlvbm8Ib1pTCJZ4fj34e/oU\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car48507",
+      "amount": 925,
+      "price": 64001,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T09:15:29.000Z",
+      "notes": "BqFxKuD30K7GKeaBBZQWc3aE8UxqxYdtgPkm1ZmwkJE0dxQ6pGGmkDum9ygYKCUm7WmfHlc0U77X0jmjLUz7JY9nL8jwQLDyrq7lWJZLdJolvW7Rk5ng7bBQwtvjMvdfIoWLrWdliAnrLu2V5df62JjudoiumUn8C0ExhTCs48r3yUqvQIa85zhsjg9NDbuybJvyMGpuRdyeQeWBGohukEWzf3nhtVHDx79bsE6ZSGp9on9fxj7SwbfSY7",
+      "_id": "695a2fb11c508c5d5ea1246a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:13:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-bxS2mdyJHyTwYAVJ613Vr582hZw\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike8926",
+      "amount": 998,
+      "price": 54667,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T09:13:50.000Z",
+      "notes": "XHPy9WhhwuLWNfEcXRtWAXJrTVkWU86xy2VNkiss7VQL7xhTmzXQcE0aC8r9lqtOVFxIsDwvTXvzRCs8h9hZYTtIBtMKUYLDBdb6tK4JIn3fh7aUdHuUM346ZuIdhdw0x2XE0knAMvGVBgq6sxp88oqIpUQ65Im6G0oWaZ8JcRLkNYPYtU1EQvx5PoLlS4I9JtqdFDfyFOvVQu8MbqWN1nDc4nzGjAaKPwZH7zzxfDqceAtKPmDeQf8Yiw",
+      "_id": "695a2f4e1c508c5d5ea11556"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

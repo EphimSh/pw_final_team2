@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:15:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1855",
+    "etag": "W/\"73f-5OfMil/p7DF60ExqF/e+18oIACY\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a2f9e1c508c5d5ea121e4",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a2f9b1c508c5d5ea12191",
+        "email": "Emie.Haag-Nikolaus80@gmail.com",
+        "name": "wdfMufXvTgPWrKkWYxAbMfFGtaNUpwxAAUwohRh",
+        "country": "USA",
+        "city": "iCkWepdOqHtaVvb",
+        "street": "n",
+        "house": 170,
+        "flat": 6,
+        "phone": "+6899428528",
+        "createdOn": "2026-01-04T09:15:07.000Z",
+        "notes": "zZ5TxUtKpnkXERC65EdzlkGBqIpeE6XtOjvytRYbiAcTG27HoXxkwPnkkyw5IWCeIkGy4x7IgKzGvNNx7H1zubmHliFuDKFVXw0KAN9zdTimFQlDdbdtdnhngYV1oTdGkoR2ROcRIEH8tPRDkgsCUfJcFmTTJPS6fE8wiHrSvWEqjQR9bmTriLw7iOzRtHx6qpeVWnQe2lx8nOvZ"
+      },
+      "products": [
+        {
+          "_id": "695a2f9e1c508c5d5ea121d9",
+          "name": "Soap48116",
+          "amount": 440,
+          "price": 48198,
+          "manufacturer": "Apple",
+          "notes": "eWqdPyUHGrPwVCfse0dAF5IMgR9CNkEDKhsakwS4gJFeaQtqTHHYfBXuLZEyHKRnMPeMNtCCJYyEvQIjUclLwux70Cd7C7Px2hFpoNBo74uTHgPDjODXkKZRDyYqf0o9ntczaspatOq7L7SxXDFbfhLwbcFhhWIPQiawbaGIitwo22L4bznNcuL3zvvEFypPypWiEOBf8kjC0QCh0wo1BwcvcyyCGJv7c6o37yCLOfuW8yvLAgPvNiuikS",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 48198,
+      "createdOn": "2026-01-04T09:15:10.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a2f9b1c508c5d5ea12191",
+          "products": [
+            {
+              "_id": "695a2f9e1c508c5d5ea121d9",
+              "name": "Soap48116",
+              "amount": 440,
+              "price": 48198,
+              "manufacturer": "Apple",
+              "notes": "eWqdPyUHGrPwVCfse0dAF5IMgR9CNkEDKhsakwS4gJFeaQtqTHHYfBXuLZEyHKRnMPeMNtCCJYyEvQIjUclLwux70Cd7C7Px2hFpoNBo74uTHgPDjODXkKZRDyYqf0o9ntczaspatOq7L7SxXDFbfhLwbcFhhWIPQiawbaGIitwo22L4bznNcuL3zvvEFypPypWiEOBf8kjC0QCh0wo1BwcvcyyCGJv7c6o37yCLOfuW8yvLAgPvNiuikS",
+              "received": false
+            }
+          ],
+          "total_price": 48198,
+          "delivery": null,
+          "changedOn": "2026-01-04T09:15:10.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:15:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "6747",
+    "etag": "W/\"1a5b-UmbfejH4x0o8MEbMmUdCooRq8bs\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a2fb31c508c5d5ea124b6",
+      "status": "Received",
+      "customer": {
+        "_id": "695a2fae1c508c5d5ea12404",
+        "email": "Kathryn_Macejkovic51@gmail.com",
+        "name": "DmiMIOtLPPLFmHgzigSrMOXQcOuhDihvxUPI",
+        "country": "Canada",
+        "city": "MYk",
+        "street": "TvyC1tTSXYl6vFQrkuKKH6SdSsg9coRvBWITjW70",
+        "house": 145,
+        "flat": 2,
+        "phone": "+5410542825",
+        "createdOn": "2026-01-04T09:15:26.000Z",
+        "notes": "ThU6N2BpgwNjWKdeOGdolrv0jhq2yBhLaZOjBHHbheUC0Y7x20VlGe9tCemylEi9Rka5y4ugiRfmnCs5RB0pTlCnQJU9URiY6TH6SRuyVH599Z9jDZUBUChYv6XMNBwmhC2MT6u1z4nYzAPVzsEmiWqIU2Qz7TgsGim"
+      },
+      "products": [
+        {
+          "_id": "695a2fb11c508c5d5ea1245a",
+          "name": "Towels92754",
+          "amount": 142,
+          "price": 55810,
+          "manufacturer": "Microsoft",
+          "notes": "2fPsQJA6YVlMkDV6WJ6gB4C5n9qcGuFh8Z7pXHSR9ZOC0XTcJvLPngR1bzFILDAoUM3q7GDmPuu6hcLpPm3nqjiyaezuoTbEMLEt5K1tjkdNgc7HG0b2oSCF3rLUWMjEkDVwWGW28XBEEcQC4YmbCmohtXOgnKUVm9uI9WqXHAQk4wTJEY7xbze7szK77t2cRrqEJ4PnFPzdl0tzR8cqZJeuccWITSPLFLSTlO6Hf5tvNvaIuGCvwmXHhl",
+          "received": true
+        },
+        {
+          "_id": "695a2fb31c508c5d5ea1249f",
+          "name": "Car23137",
+          "amount": 567,
+          "price": 89703,
+          "manufacturer": "Samsung",
+          "notes": "fGDP3J3YETBLND7SX4AlvUrtiPj4O89CpEoFFQdEHlM8HXhZxDpEPTDMJbwK1lf9JsaayjzpAT2p3OkZvJSjY4amgaKXhBkK0M2O1LJO2ECzFiVPC3z0j3LgW2lJTU0ZgwG0FWQe57gMs62qwfFqLVioEWIyQgnG00RLfprycTg1fof0eQFWsRWXoxyjzwCOdsmfcKnbuF6lJ72uJiv0hHDxLWqDfAZrDkpGivJWtwdly0GEaz2cC63DB8",
+          "received": true
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Russia",
+          "city": "Mock City j",
+          "street": "MockStreet1XbSsmzsfJrQEp1dcfd1",
+          "house": 2,
+          "flat": 5
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 145513,
+      "createdOn": "2026-01-04T09:15:31.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Received",
+          "customer": "695a2fae1c508c5d5ea12404",
+          "products": [
+            {
+              "_id": "695a2fb11c508c5d5ea1245a",
+              "name": "Towels92754",
+              "amount": 142,
+              "price": 55810,
+              "manufacturer": "Microsoft",
+              "notes": "2fPsQJA6YVlMkDV6WJ6gB4C5n9qcGuFh8Z7pXHSR9ZOC0XTcJvLPngR1bzFILDAoUM3q7GDmPuu6hcLpPm3nqjiyaezuoTbEMLEt5K1tjkdNgc7HG0b2oSCF3rLUWMjEkDVwWGW28XBEEcQC4YmbCmohtXOgnKUVm9uI9WqXHAQk4wTJEY7xbze7szK77t2cRrqEJ4PnFPzdl0tzR8cqZJeuccWITSPLFLSTlO6Hf5tvNvaIuGCvwmXHhl",
+              "received": true
+            },
+            {
+              "_id": "695a2fb31c508c5d5ea1249f",
+              "name": "Car23137",
+              "amount": 567,
+              "price": 89703,
+              "manufacturer": "Samsung",
+              "notes": "fGDP3J3YETBLND7SX4AlvUrtiPj4O89CpEoFFQdEHlM8HXhZxDpEPTDMJbwK1lf9JsaayjzpAT2p3OkZvJSjY4amgaKXhBkK0M2O1LJO2ECzFiVPC3z0j3LgW2lJTU0ZgwG0FWQe57gMs62qwfFqLVioEWIyQgnG00RLfprycTg1fof0eQFWsRWXoxyjzwCOdsmfcKnbuF6lJ72uJiv0hHDxLWqDfAZrDkpGivJWtwdly0GEaz2cC63DB8",
+              "received": true
+            }
+          ],
+          "total_price": 145513,
+          "delivery": {
+            "address": {
+              "country": "Russia",
+              "city": "Mock City j",
+              "street": "MockStreet1XbSsmzsfJrQEp1dcfd1",
+              "house": 2,
+              "flat": 5
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T09:15:33.000Z",
+          "action": "All products received",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "In Process",
+          "customer": "695a2fae1c508c5d5ea12404",
+          "products": [
+            {
+              "_id": "695a2fb11c508c5d5ea1245a",
+              "name": "Towels92754",
+              "amount": 142,
+              "price": 55810,
+              "manufacturer": "Microsoft",
+              "notes": "2fPsQJA6YVlMkDV6WJ6gB4C5n9qcGuFh8Z7pXHSR9ZOC0XTcJvLPngR1bzFILDAoUM3q7GDmPuu6hcLpPm3nqjiyaezuoTbEMLEt5K1tjkdNgc7HG0b2oSCF3rLUWMjEkDVwWGW28XBEEcQC4YmbCmohtXOgnKUVm9uI9WqXHAQk4wTJEY7xbze7szK77t2cRrqEJ4PnFPzdl0tzR8cqZJeuccWITSPLFLSTlO6Hf5tvNvaIuGCvwmXHhl",
+              "received": false
+            },
+            {
+              "_id": "695a2fb31c508c5d5ea1249f",
+              "name": "Car23137",
+              "amount": 567,
+              "price": 89703,
+              "manufacturer": "Samsung",
+              "notes": "fGDP3J3YETBLND7SX4AlvUrtiPj4O89CpEoFFQdEHlM8HXhZxDpEPTDMJbwK1lf9JsaayjzpAT2p3OkZvJSjY4amgaKXhBkK0M2O1LJO2ECzFiVPC3z0j3LgW2lJTU0ZgwG0FWQe57gMs62qwfFqLVioEWIyQgnG00RLfprycTg1fof0eQFWsRWXoxyjzwCOdsmfcKnbuF6lJ72uJiv0hHDxLWqDfAZrDkpGivJWtwdly0GEaz2cC63DB8",
+              "received": false
+            }
+          ],
+          "total_price": 145513,
+          "delivery": {
+            "address": {
+              "country": "Russia",
+              "city": "Mock City j",
+              "street": "MockStreet1XbSsmzsfJrQEp1dcfd1",
+              "house": 2,
+              "flat": 5
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T09:15:32.000Z",
+          "action": "Order processing started",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a2fae1c508c5d5ea12404",
+          "products": [
+            {
+              "_id": "695a2fb11c508c5d5ea1245a",
+              "name": "Towels92754",
+              "amount": 142,
+              "price": 55810,
+              "manufacturer": "Microsoft",
+              "notes": "2fPsQJA6YVlMkDV6WJ6gB4C5n9qcGuFh8Z7pXHSR9ZOC0XTcJvLPngR1bzFILDAoUM3q7GDmPuu6hcLpPm3nqjiyaezuoTbEMLEt5K1tjkdNgc7HG0b2oSCF3rLUWMjEkDVwWGW28XBEEcQC4YmbCmohtXOgnKUVm9uI9WqXHAQk4wTJEY7xbze7szK77t2cRrqEJ4PnFPzdl0tzR8cqZJeuccWITSPLFLSTlO6Hf5tvNvaIuGCvwmXHhl",
+              "received": false
+            },
+            {
+              "_id": "695a2fb31c508c5d5ea1249f",
+              "name": "Car23137",
+              "amount": 567,
+              "price": 89703,
+              "manufacturer": "Samsung",
+              "notes": "fGDP3J3YETBLND7SX4AlvUrtiPj4O89CpEoFFQdEHlM8HXhZxDpEPTDMJbwK1lf9JsaayjzpAT2p3OkZvJSjY4amgaKXhBkK0M2O1LJO2ECzFiVPC3z0j3LgW2lJTU0ZgwG0FWQe57gMs62qwfFqLVioEWIyQgnG00RLfprycTg1fof0eQFWsRWXoxyjzwCOdsmfcKnbuF6lJ72uJiv0hHDxLWqDfAZrDkpGivJWtwdly0GEaz2cC63DB8",
+              "received": false
+            }
+          ],
+          "total_price": 145513,
+          "delivery": {
+            "address": {
+              "country": "Russia",
+              "city": "Mock City j",
+              "street": "MockStreet1XbSsmzsfJrQEp1dcfd1",
+              "house": 2,
+              "flat": 5
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T09:15:32.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a2fae1c508c5d5ea12404",
+          "products": [
+            {
+              "_id": "695a2fb11c508c5d5ea1245a",
+              "name": "Towels92754",
+              "amount": 142,
+              "price": 55810,
+              "manufacturer": "Microsoft",
+              "notes": "2fPsQJA6YVlMkDV6WJ6gB4C5n9qcGuFh8Z7pXHSR9ZOC0XTcJvLPngR1bzFILDAoUM3q7GDmPuu6hcLpPm3nqjiyaezuoTbEMLEt5K1tjkdNgc7HG0b2oSCF3rLUWMjEkDVwWGW28XBEEcQC4YmbCmohtXOgnKUVm9uI9WqXHAQk4wTJEY7xbze7szK77t2cRrqEJ4PnFPzdl0tzR8cqZJeuccWITSPLFLSTlO6Hf5tvNvaIuGCvwmXHhl",
+              "received": false
+            },
+            {
+              "_id": "695a2fb31c508c5d5ea1249f",
+              "name": "Car23137",
+              "amount": 567,
+              "price": 89703,
+              "manufacturer": "Samsung",
+              "notes": "fGDP3J3YETBLND7SX4AlvUrtiPj4O89CpEoFFQdEHlM8HXhZxDpEPTDMJbwK1lf9JsaayjzpAT2p3OkZvJSjY4amgaKXhBkK0M2O1LJO2ECzFiVPC3z0j3LgW2lJTU0ZgwG0FWQe57gMs62qwfFqLVioEWIyQgnG00RLfprycTg1fof0eQFWsRWXoxyjzwCOdsmfcKnbuF6lJ72uJiv0hHDxLWqDfAZrDkpGivJWtwdly0GEaz2cC63DB8",
+              "received": false
+            }
+          ],
+          "total_price": 145513,
+          "delivery": null,
+          "changedOn": "2026-01-04T09:15:31.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

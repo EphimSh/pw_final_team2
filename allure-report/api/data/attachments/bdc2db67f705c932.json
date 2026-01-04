@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:15:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-/4ppEm2Ajk1EVntGJOYjcx0ZNSQ\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap13582",
+      "amount": 609,
+      "price": 2146,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T09:15:13.000Z",
+      "notes": "6wW5gF7Hi5I97R02iqfHzfy8LFmru97ZxI7AA1AZhyyy8oLxFHsL4jdGz4pHgl6Yoc73ZjdqgNbNO6cwWd1IMrfUj4QxZctqwasThkVtXvCGvs21aZBEIwAhu53wOoledg1eZeZlrmjOszjyCm3dLQwy8uZ9ovVVrJ0BbIGeNtnb8BMk8Jb721cECJzgifZKsQCkxUHxQwu1hFXPRpGeSOxPkIIRHaEfhfstkilAKqDc9JQ1X0aV3EagEu",
+      "_id": "695a2fa11c508c5d5ea1226e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

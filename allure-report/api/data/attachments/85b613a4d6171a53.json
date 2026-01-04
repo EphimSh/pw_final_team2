@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:13:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "357",
+    "etag": "W/\"165-/V18qvTtk9Y5UwoRj4uvX0BAao0\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Pearline.Gleason-Mraz@yahoo.com",
+      "name": "vapnejYedyseftGva",
+      "country": "Ukraine",
+      "city": "rv",
+      "street": "A9duYGVOXi2tl8HwELXoGhh8DupJ",
+      "house": 120,
+      "flat": 8,
+      "phone": "+9048807394",
+      "createdOn": "2026-01-04T09:13:48.000Z",
+      "notes": "uEJJPq9mcoY7fzmJs9nAwZg5wx6bhPO4QQjtcmM",
+      "_id": "695a2f4c1c508c5d5ea11541"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

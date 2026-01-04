@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "555",
+    "etag": "W/\"22b-CJsrcLMT1Wy4FHyJuPjTGL2+EGw\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Verdie.Grant@gmail.com",
+      "name": "MQsLsTcAxiNxZUZAuIBNWpcSvuvqtwQXmSAlx",
+      "country": "Ukraine",
+      "city": "HfSGsvE",
+      "street": "TFvQEzrQ7yOyeUh7LXeRPo0joN1h83Zl",
+      "house": 121,
+      "flat": 4,
+      "phone": "+3120341811",
+      "createdOn": "2026-01-04T09:14:31.000Z",
+      "notes": "fMcY3sN719rmNRG2FfIEYdtCtSoDUqGLbXCAnaxDmIVNhmbGvXLfJ4YtEwkaroZypcZ5gh3C8wHoeo1h69ERlt9mnBKnQ5lYmuJYPDxfTbhNreZ8FHnXa9fa93vofedV9Q3vm28KSCiCbmI5qwHYmXBrq2Bb3CZFy9bmJ4xBSwQ2rEQWIpwN3TC45Yhwvd6vwiK3XwkR1NZ7OK0cOVLjLQmiz",
+      "_id": "695a2f771c508c5d5ea11bf6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

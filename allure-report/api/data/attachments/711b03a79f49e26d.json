@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:13:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "521",
+    "etag": "W/\"209-7CwZFDgtqug3PUS37FRnhdC3Vwg\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Sydnie24@gmail.com",
+      "name": "BzgKOKCvjqUDHdiUTTOJWyxTtJjfplHzhKwnX",
+      "country": "Belarus",
+      "city": "rCDwtsIuW",
+      "street": "yIe1STMHpSxMZSBr",
+      "house": 156,
+      "flat": 5,
+      "phone": "+7835775583",
+      "createdOn": "2026-01-04T09:13:56.000Z",
+      "notes": "dnlKRrM6ClZdfkocMoK6kFp3aDUaIErrM6WcCGwf8I59c4RRWkGmvDwX54HndcxHp8qhf4JKLSnwpJiBRZpfZ6prXbRetTy8L6xQCcLfo5h7XyGhrhVO8TrISqZDXMJYkXIWQXBw3cqGsX6pQIskkPobGB9a6rPxuDe3qxB8o2A8Is7LScJupgEQyZrttN2reh7BJbzEw",
+      "_id": "695a2f541c508c5d5ea11687"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

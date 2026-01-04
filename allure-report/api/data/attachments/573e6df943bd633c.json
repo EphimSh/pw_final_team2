@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:13:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "301",
+    "etag": "W/\"12d-sjlNzZQ3oVXOa1pbnogSwwKmIEM\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Rosalia53@yahoo.com",
+      "name": "vweylJW",
+      "country": "Belarus",
+      "city": "cdPJqIq",
+      "street": "fkSdnz",
+      "house": 35,
+      "flat": 3,
+      "phone": "+7008325459",
+      "createdOn": "2026-01-04T09:13:48.000Z",
+      "notes": "QYB4gPV3SSkXX7zYvEJNOrQ",
+      "_id": "695a2f4c1c508c5d5ea1153b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

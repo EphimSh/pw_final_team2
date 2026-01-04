@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-0How9PqZE++QWE3jNdNwPQrU7Zs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sausages71023",
+      "amount": 973,
+      "price": 40454,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T09:14:20.000Z",
+      "notes": "6GmaOuG1UO1RL9dT02FAe1nO3vF9GsGPuk72aRFu3xoSHml7UUQzB4OD7sNiFKi0y9vOG4qTY2kUUCiQzvsL2Q4Z1jnsF7H28jB3jN9smi9gCoPqIVEXioCd61MjULDyvbdtwpzj1g03J1p4SNytwb7OuPFm4Rri0pGUN2oLNlM2lRwp7z9BFUCwZ5iprdsR85tGPs0gYSU7CSZRDTiGTPhuMaJiClJbQsYkwt3ePSnTUzciKHLoknkUPZ",
+      "_id": "695a2f6c1c508c5d5ea11a5e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

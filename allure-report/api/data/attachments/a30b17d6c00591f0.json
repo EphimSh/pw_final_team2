@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:16:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-pa/dJkd5HpwN7VjacjQCh024Kjc\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra76731",
+      "amount": 940,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T09:16:03.000Z",
+      "notes": "YxU7fRdy9PnlAU904PWsrbRrBg3lVfAIK1nmuNr8j015Piiq2tf35aChaCTvZ3T51FNpXP34zaaCDs041ZaX8pD76nMyl0knH5dtqTl06Gef24aVwADAwGuPhdVwZznagFSMSP4lgWzI0Zmo2m7MYVVXOjqajBWmS5exlQTVpl1k75Nn2x2FilHcGs74qRg9xIS0s6C8JKUec050DjWQwjpWpeVb7n4OZpKGqnjj3vmZG4izeTk1QHHFV1",
+      "_id": "695a2fd31c508c5d5ea127b2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

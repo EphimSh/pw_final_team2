@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "496",
+    "etag": "W/\"1f0-Up0tHDUBwTvLi2qH966pv/gEp8A\"",
+    "keep-alive": "timeout=5, max=64",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Elenora_Zulauf@gmail.com",
+      "name": "crYppnzxPEobQFHTIuQqQPHohl",
+      "country": "France",
+      "city": "UoZIEiyoIUT",
+      "street": "mAmNobERiZ1",
+      "house": 56,
+      "flat": 9,
+      "phone": "+4516202749",
+      "createdOn": "2026-01-04T09:14:55.000Z",
+      "notes": "NipNzGzM1Vcir8n7UreYQds3vqhxSvAZdZtXhC9G1uhO2kqf51qwlsgCBy7G8HN7QvXDsSj9KvnQYhbfpEs7TmjVpyYCaeS2L47jeO8u1QV00xN8S2BvzavEqEeWTl1hlemGNO8PZCeYawJeOboK1fvFwGZH07TIQOyHrL31QQHJ7A3wDIDxo3tQUD",
+      "_id": "695a2f8f1c508c5d5ea11fc2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

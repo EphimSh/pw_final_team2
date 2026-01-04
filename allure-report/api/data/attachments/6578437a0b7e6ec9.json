@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-STBIlgsD7VFqJtF8IMRNmdF2DLM\"",
+    "keep-alive": "timeout=5, max=53",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese43774",
+      "amount": 0,
+      "price": 23447,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T09:14:53.000Z",
+      "notes": "ga96tuDJDpcgsYCSVePTrc2D4CV0XIwGozKwRM6EEY6LAOFKKYpDpm5ghFNz4FMZ6zqgVIw7jtIlq8xzMCvgdNtzdkhnL4xFyECuGvNkKRLfas61cnujdCzRBJLD5EHct7ADEfGuRYm8qMyQMoLCczObZZdTnS7KqGJTIqgU7zLfh8MDzAGmT7c8X7verKGQ3Iaiv2LN22z4cvPy4YkKAFgfrCqLshlMuI4pH2IEpawd09ie8lYO4yIQ24",
+      "_id": "695a2f8d1c508c5d5ea11f43"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

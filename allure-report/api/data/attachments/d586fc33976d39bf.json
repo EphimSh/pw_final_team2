@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:13:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "406",
+    "etag": "W/\"196-3rWuw4djUgk4tcYbFgXlkuFNYQY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "695a2f411c508c5d5ea114a7",
+      "email": "Norbert_Kutch56@yahoo.com",
+      "name": "PoqnHKhBtYRmoAaQeqqztani",
+      "country": "Great Britain",
+      "city": "HCUkrvcoQ",
+      "street": "159n9IK9Ofkm2zMo0b1SP",
+      "house": 173,
+      "flat": 7,
+      "phone": "+8676732332",
+      "createdOn": "2026-01-04T09:13:37.000Z",
+      "notes": "DwdMeXsBe60vO9e1KhsQF09C8BBkHEretwI4Ff85d80M8NXRdJC6kCImdiLmt81uvasOyHSa5PfNzBIKn"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

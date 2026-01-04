@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:16:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-zX6cB2gxlr3ecGQaZlMg7Ub51EA\"",
+    "keep-alive": "timeout=5, max=74",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "695a2fdd1c508c5d5ea1287b",
+      "name": "Table12435",
+      "amount": 407,
+      "price": 366,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T09:16:13.000Z",
+      "notes": "Lkkh8NKPzitXLq7sPK5OHCsCHFFwyS3ST6dTxmKPVhCnxSj5U3FUmHQLbp5T7vvS0oF1CgJp4dS1lZu0m7N4NwwtKoTy9djGGK00xbr1Ct51r0luMLhdYx3zVKuR7vcUEkxdcWYeFfmr7ZAsp9vNixFvoiAeuieKTPDKgTYFm3nMIq3gtWzo7ugIFFO76BJdbfVjQx5uZADXGhQk03vnxw4Z6T9kvrW0qerKw04DhRHX4PURM30XVhGXA8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

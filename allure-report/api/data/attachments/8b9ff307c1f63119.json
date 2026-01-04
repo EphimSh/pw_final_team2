@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:13:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-Snh3Qvbxu56ZdHp69Ns+AqNYFLA\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap53480",
+      "amount": 318,
+      "price": 11980,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T09:13:51.000Z",
+      "notes": "i2ez9quBoP8oFfq4z1GuCICNSdMoXK3urWP5Xf3PIs8wAPimTSsfpua1C9LG0R6cTjKwCm4zVHJGyCflI2tYyoKBWb3YE0a8nWSZUN0Qhzju05NE3eeFW3NowblRURH3zjOIS4nmbCGJFeqoGPcp51PoWaNxq5nSFPiZldxISZaoIXwA00epLVge3v7QMexxBkxAzbO4rxQW5OMLElOCb9nWjgOFHfSueKGJt4IwppfaRhEPNrUJtv8qlg",
+      "_id": "695a2f4f1c508c5d5ea11558"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-X+Y5jnR/futmJ4qfWmaxCzvcDa0\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car18408",
+      "amount": 11,
+      "price": 82742,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T09:14:44.000Z",
+      "notes": "6uzPZqUzZGfHrGqI1t19yi2LCs3bwtcNc6urW8S0Zkoh3m227cpEjLCh37qzIEjUkZ6EzdTXSEHsoKCr8LgjRlyMhz47fOqaWVBUUxXAvlezVLaelWtSOUSkEaFUqGyYWy6Owy5DogsYG3Ie0RIlgEWMvGAiTWgEm6rU01twf3KIFvTUmq8plhtLaFW8llcAl7cJ0GO3u7CdshrdHIa8IymeRhxfRm0WliPP0ZwAq1hdzUVZ4zZkkTWABx",
+      "_id": "695a2f841c508c5d5ea11ddf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

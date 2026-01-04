@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:15:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-54c7tHLBJDiAXL8+JLfDngNnDOE\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike2332",
+      "amount": 907,
+      "price": 15324,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T09:15:12.000Z",
+      "notes": "GuHWLjLVXjfsuLhAogHKmz0QXVFMRWqr9NZ1Cl9zvbeAVI9f1MAEAVkdxunWfRHmZzPR4eYUTuksCGuvyF8vJVH1KBHVQebEDiNRSzj4OvVXiLcR3M7B3y16cQoRE0yD1wdn6MU84TKEzD5aqIoMUSMlzvF1RLJJOnwmdpYtJ8wkAbAIrQUwwDLnQHIOuVWEMX6xM6dp9ZS7XGY5MDU76mH5DHGKAIJVAZfDd2pgRwUtEl7cLPYbGGEl0y",
+      "_id": "695a2fa01c508c5d5ea12264"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:15:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-phEwj8/YObNeLUouvqL1KmA/22g\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish62162",
+      "amount": 465,
+      "price": 75303,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T09:15:53.000Z",
+      "notes": "Oc4nU63A1SNz3kN5SKF4Gf8sdUHAFRlB8VEGAhwVDG351POwWr1zFqOhBOWx6ekKVr5Sr6YAKnSCv9SMQqaL4HD1MIGmmuPp8CieQjF4ihXQh4esQRg2jTrTIkSRVuogYD8tLoHJ9aQxnbFnqbL5qR3ru5NpMm1eYhVHAv3q7obKdm9llJpzsReRUob92r78o8TW7Xb4PgNL4LehiBNaJee2L3wZ301KFs00PHRie4pXZVxfHBZFGApAlk",
+      "_id": "695a2fc91c508c5d5ea12701"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

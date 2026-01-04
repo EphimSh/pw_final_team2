@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:15:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-5uOwIRJ5PC0NC2JGIUChjmvUFfg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sausages5991",
+      "amount": 854,
+      "price": 99999,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T09:15:36.000Z",
+      "notes": "ntOHoamDzfWxsRRg7UexBqQZqoNXfpxbvcfthmXl9om4ZWzTQcAghYYNaDP0GSl8TLIDbfWtp2cik0M6XYFo2qRCbCSx4ctJzyyQ8QX8hD2u7fzaApmaqQ0kpPdJApgGPOApU3aLTJzuuvN0IVY7iGb4md6jgT6ENoELobNKBuUN4o3Rt2U1NaHuO1QEHETxiQIsKev44LZW5tH66UdOCpqDBXml0PRWPntulkvpJhmYHvfuJGlQSQ7MKH",
+      "_id": "695a2fb81c508c5d5ea125bf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

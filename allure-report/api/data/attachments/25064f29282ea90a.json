@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-XKuvfsBe86H0YsNog2VHWTPTPgw\"",
+    "keep-alive": "timeout=5, max=74",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap76946",
+      "amount": 83,
+      "price": 5341,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T09:14:00.000Z",
+      "notes": "wPx9mxCsDiuTxtVsbMpX2o1tbSSeFQ3lgiXbF93abTsSl4nR9jIHToCeQVGI62ukYy6B7Io8VPvvJg4HlD3h5KD0hrzZlKUeYqkiqL58pFTti5KPM7DYyYKVreBczkECsLdaqEUVxisLZExEJJxcS88dN09rvTcTeS3dqbL6ghC9fiCBFjGu3rvQ116LAhCDauW8kSRsj1qJS7Fz5ah68tLesHR9Vnj1QlSwMsuIhX1Cm03QcKiT6pU1Ht",
+      "_id": "695a2f581c508c5d5ea11751"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

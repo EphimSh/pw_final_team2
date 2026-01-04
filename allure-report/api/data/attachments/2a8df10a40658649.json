@@ -1,0 +1,94 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2076",
+    "etag": "W/\"81c-wcfulHUX4Zz43fHOenQRKtCxRYA\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a2f641c508c5d5ea118a5",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a2f611c508c5d5ea1185a",
+        "email": "Hobart_Krajcik25@hotmail.com",
+        "name": "oANRsVBVHTufeTLisoTUkLqQZpfHtfLJJWRDHag",
+        "country": "Great Britain",
+        "city": "cKxrUwWeYwSdq",
+        "street": "K3dnprKZrDDvqVjCLoAe",
+        "house": 162,
+        "flat": 3,
+        "phone": "+6248537148",
+        "createdOn": "2026-01-04T09:14:09.000Z",
+        "notes": "7lLOHCq5ouyUUy1T782aDMk3Ec0o6uSKWq8LX7QDBfPdSQhQ9"
+      },
+      "products": [
+        {
+          "_id": "695a2f641c508c5d5ea11883",
+          "name": "Fish24242",
+          "amount": 834,
+          "price": 90364,
+          "manufacturer": "Apple",
+          "notes": "GqIjcvnT5e8Zn3Zp7ToFUvxXlICIMfwiP0G9RoOGBHIhJDzYPTW3kEnagiKhdeF87RyEFLcbq9OCcEvK1CbsWHHFEf0oqjcIJB5KGJzPWS17hygKPblA7SoeAFcaOeBBo7s2PlX5O6e4U8BmnOwfqZYGKhULP9kaslnSSMxrjxVD98k6vSyeBJfgZekq4uzRG6pZbujwcC5epGxwijRTzH4JgeuVBLVUBmNVcJlbvJawMqtFkxX839WIiG",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 90364,
+      "createdOn": "2026-01-04T09:14:12.000Z",
+      "comments": [
+        {
+          "text": "ZKRWZOG7zdkbLesKGDwsdU0An95WeYyp1dH7MdnE6o25k4GdAQ5R8HuRB",
+          "createdOn": "2026-01-04T09:14:12.000Z",
+          "_id": "695a2f641c508c5d5ea118cf"
+        },
+        {
+          "text": "DvDMmFyXHbtCKE3R7dAReHErMgVxJurEm7KHvqMKWIXZ0M8vIa6nKd6tQ23p35blKcdexFB10q9NMQkkzhhiIzZ89qWDZtWOzxRMW1wQ7wa9MiAnArCOHZ8J5UYyKRMCF7b",
+          "createdOn": "2026-01-04T09:14:13.000Z",
+          "_id": "695a2f651c508c5d5ea1191f"
+        }
+      ],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a2f611c508c5d5ea1185a",
+          "products": [
+            {
+              "_id": "695a2f641c508c5d5ea11883",
+              "name": "Fish24242",
+              "amount": 834,
+              "price": 90364,
+              "manufacturer": "Apple",
+              "notes": "GqIjcvnT5e8Zn3Zp7ToFUvxXlICIMfwiP0G9RoOGBHIhJDzYPTW3kEnagiKhdeF87RyEFLcbq9OCcEvK1CbsWHHFEf0oqjcIJB5KGJzPWS17hygKPblA7SoeAFcaOeBBo7s2PlX5O6e4U8BmnOwfqZYGKhULP9kaslnSSMxrjxVD98k6vSyeBJfgZekq4uzRG6pZbujwcC5epGxwijRTzH4JgeuVBLVUBmNVcJlbvJawMqtFkxX839WIiG",
+              "received": false
+            }
+          ],
+          "total_price": 90364,
+          "delivery": null,
+          "changedOn": "2026-01-04T09:14:12.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

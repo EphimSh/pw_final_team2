@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:16:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-ufndpFlD7Zji62RBgCRQ7y1AjwM\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese7641",
+      "amount": 379,
+      "price": 94935,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T09:16:05.000Z",
+      "notes": "YCdRn0CatAQ87A1U64bWd5g7wLNzmhCMtDX4KUwTrUl3ogNVC2JpkXJfphz86DHsKIr0yKIf24hBo1FVctEGqaApmYLbznX1ZlvVs09EtJG94bFi31PBSr2y3eewO0Oibn5MM5CDwQrLohIZppMz2SATzbQ8Hrlhb27zXOuuIbUUi7jw28Bik9vp3AA5ZY2YT6cYmbN2zB0G0ExaEbMQGC6CH2BV1fnnH12Iq9jBTu1K9gBRTIm6biGbeq",
+      "_id": "695a2fd51c508c5d5ea127c2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

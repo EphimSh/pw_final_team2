@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:15:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-kxq/q64F0Re/dyFzQJrP9l8bIAg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels78387",
+      "amount": 999,
+      "price": 6698,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T09:15:37.000Z",
+      "notes": "fMc0QtxHA662QLRgcsJwgWI3ClviRQ2FGCGhA6p9By8j3iqNE4nuf3u3gKjupD15bEjecT991DI25VJPMy9r217ZacLojWWYyZ1XXPPTZvmNF88vVZooJphGjGPaGMPLVD4hKHO4YdJPQAihQpn64OLfsIjpxfK64980hfJMAtWrOIcRfbaTrmjSIG45nP7EpvmTV81zZxaRWe5Omwn3696ESfyHAy8IlG1uBJaMyQZhYbUALSs8VZft3c",
+      "_id": "695a2fb91c508c5d5ea125cf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

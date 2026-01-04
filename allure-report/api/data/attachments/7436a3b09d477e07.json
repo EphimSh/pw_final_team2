@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:16:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "474",
+    "etag": "W/\"1da-t/E7+qWRrFFNuzmT2wrzvlX6epg\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Microsoft Surface Duo 395153",
+      "amount": 876,
+      "price": 2200,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T09:16:05.000Z",
+      "notes": "OUaZRg3zBHEHRzU43tgOYxSL7STQ4dzhXiFjf657ZyhHvJjtRRG2k274u2q9fvp1uhqHLAWM3T7nXIP3DIf5OCodot05wAAlP5XKVwGykI4F5MA1GO1eMhjQ12ot8oTGJmzpJDZkiL2mdzudr6g1sHQYNqd6sC1E3sXLCROKWtuRZB7lbkhDjtIEFXehMuevqVLb5KeVU6XuEHZhmevTMBUM4eEW0Ok1ZI2tgTTKDkAJKxTjopxaH4289r",
+      "_id": "695a2fd51c508c5d5ea127c6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

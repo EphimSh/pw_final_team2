@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:13:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "397",
+    "etag": "W/\"18d-O9Ur9R0sgTAGJzRhgkCrxc3dABs\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Elda86@hotmail.com",
+      "name": "dQQWLTnwwgws",
+      "country": "USA",
+      "city": "MaR",
+      "street": "5dTfaaMGO6jSwJ7NGSDKRXdT3X4dFLMY",
+      "house": 60,
+      "flat": 2,
+      "phone": "+4972795300",
+      "createdOn": "2026-01-04T09:13:28.000Z",
+      "notes": "ygrU9pW08owAw66zAKfo58RIPuRAhpRv0YMGUgcfID9BNkXNwL2blS17nS8X3n6edkKMHs7SQds79qWvQqzfCHKx5unquT5rg",
+      "_id": "695a2f381c508c5d5ea113f9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

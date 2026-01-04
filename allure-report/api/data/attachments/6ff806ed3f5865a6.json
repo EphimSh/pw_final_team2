@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "427",
+    "etag": "W/\"1ab-Xn1Knr1omRBqbGGJVlqFdqxppu4\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Magnolia.Watsica@hotmail.com",
+      "name": "KAfdVRsOLmpngxXpHd",
+      "country": "Germany",
+      "city": "zqRkghjTSiuEoejuYmrM",
+      "street": "UIIDGUhIpTYZy5ZlA6a3MxEDf7CrrgRU",
+      "house": 104,
+      "flat": 9,
+      "phone": "+0524432584",
+      "createdOn": "2026-01-04T09:14:16.000Z",
+      "notes": "JTt0p7nKAyiqMyuQn6eIeliZp6FYtoYlabvspzYrVfVEcFAPKUNtqO1TTxCdmZNbawl5cEzVQL1f5lCTaDh0a88yV",
+      "_id": "695a2f681c508c5d5ea11a04"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

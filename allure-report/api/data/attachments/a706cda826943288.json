@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:15:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-7qKQU65IuShrvUs94KGr+OE409k\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Cathrine11@gmail.com",
+      "name": "UsBM",
+      "country": "Ukraine",
+      "city": "MhkAulfXSYZmWqMRiMM",
+      "street": "KK",
+      "house": 107,
+      "flat": 8,
+      "phone": "+9885985613",
+      "createdOn": "2026-01-04T09:15:00.000Z",
+      "notes": "e754wU3E5iaudG8REoIiA6lKRYHzuqZ3YmjOBbnDZ6A1jJjBg9l12fcXh1B5jfdNS2WTUGtzgdotO6BmS88qZYXBacMxAeWy0Nd2VF8TpZ0mjXa9y8TWwagrHW4qBmGYYB1JxYOOAR6yxyLfOyBTjKtmmZvvWtTAasLdqBKQ",
+      "_id": "695a2f941c508c5d5ea1208e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

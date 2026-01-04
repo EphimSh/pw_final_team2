@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:16:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-WAkazUD34lukuIIJyJ/p7T2IpvY\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro52948",
+      "amount": 962,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T09:16:01.000Z",
+      "notes": "L7hhEuh38g1PX2ewZOULFpI7cF8LBwZk3MJe1roP1Vfv38RTvo3RW1sOT1vEMLGcxMjnUK5QuOxKO79vX3t3cFY7rGOGYZFBcPEINPgJJJtHVAKecMXTKjrfFbmUKX9OKICxzZYRNZM8nsCsEQe32jULLI44F9GCuUaNUTYdDpwzEyBJW4GDWeFPJeZZsKcFfaCqNqekbi4tzAOgdd2BS9bQYPqQ5IslOxNq8u4DrNmXqkhdb4zdydCLwZ",
+      "_id": "695a2fd11c508c5d5ea1278e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

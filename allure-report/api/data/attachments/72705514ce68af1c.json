@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:16:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-n5iscOw9IHbDbdI70o1M4LrHJF0\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat66372",
+      "amount": 335,
+      "price": 10697,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T09:16:16.000Z",
+      "notes": "KH0l7YQTNEJI5gu6XMWhlExSCa1fAHwrQwF10JDD2yr6bIr7ODMwVCjkOY6xK7sZbatBwkasDVVrHcD0JeHvzjV8IVzTD6p7TtBlbiSgjcTLfWlVhU6dF5iYemJhg1m8q5QfqPnO9neQGAip2FzsE6xyLPJdB7uirmCh0fCSl8lUBjMtq5AMqfJR2OnSrSEuw9RY8xXIMVDmwFw5wxLSv7Tn1t67B7tO93KPdoHjc8bJmNqY46ppoNHK2W",
+      "_id": "695a2fe01c508c5d5ea128bd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:15:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "464",
+    "etag": "W/\"1d0-vA/Mym8K6hG1eBNFEf7lWW9tGaM\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy A552936",
+      "amount": 27,
+      "price": 800,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T09:15:58.000Z",
+      "notes": "vHkK6yi4IQGKOxd8JUSodKounoq7uwNbwgLD1dKqW1grd7jbx9K07rxFzfiFUZR0pSSz14A3BsiwZTsOTr5oYwEUeXx3AYCVjylG0c4vdHZpK6g9tyNPr3e6GmaYe1Ey6deCSFXUssGEkqHQA0Z4gvnPAt1AFCPG1Htx6Jcqd5rCKRqamLcp5h3nvJyEoyAzuqE6goosTpg8vQEIbWQdlDXR8FLwK7PCHbIrgfOEdRTzYnaOiljYu15eps",
+      "_id": "695a2fce1c508c5d5ea1275d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

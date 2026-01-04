@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:16:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-aMIx/8m4ttFluiVz6TMX6wDs5Jk\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants85505",
+      "amount": 914,
+      "price": 2664,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T09:16:15.000Z",
+      "notes": "C8v4cOkmU1oOc9sLXYhsZFs3lwRW1ubAPDQyUzZMvYwNfnkaDRm1iLnwp8FPFk8j8NN3zeP0RyaaHLl4a6FySI95Tz2HxlMTne6Q4ahV9Hniz5LiwpjuMVIYw9XfwxJQrYrIvElXfeeXEl0rNsODx41YrRyD2RmBOmkvoK5yBtrL3Gaoto4XfxVREJxZHOcgAdTRjSBGnMftMOiXhDjg9MwCCFfHZGth7LHU7XHg4y4zuUs7Wjpub9KZLp",
+      "_id": "695a2fdf1c508c5d5ea128ad"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

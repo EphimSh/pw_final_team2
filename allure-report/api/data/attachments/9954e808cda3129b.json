@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:13:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "469",
+    "etag": "W/\"1d5-MELXNOrfxAjnZOd5qQsWBEQFX1U\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Edmund79@hotmail.com",
+      "name": "fHZXmPQolUaDxMlybLgpqUrBosPFIwnaHL",
+      "country": "Belarus",
+      "city": "orWkZoOaaRmMolJZ",
+      "street": "x14Z8kJCjHwsamNd7MctMG0E3fCaiblCjNJN",
+      "house": 143,
+      "flat": 4,
+      "phone": "+9615811360",
+      "createdOn": "2026-01-04T09:13:48.000Z",
+      "notes": "CUjy5IthniTliJQInSwyjvZEUUVoKibBE0ZZ1Hf14LXzXJibjCGBc1B67htG4OdUAEifnS42b27a1dQ6FE88mbhkbhckyOSwOk23WXWIk93tklLStZWXOrj8MpV",
+      "_id": "695a2f4c1c508c5d5ea1153f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

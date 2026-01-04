@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:15:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-5NernWhdM0TazPIXmOzwvm0Mf0k\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X10707",
+      "amount": 378,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T09:15:54.000Z",
+      "notes": "kAZHzKpUFPsC0JeQcLjtMBn18RbAobOyrVT3Haq28sKz3YR8KGaTz8YpHAKnfSphhvkSTs2zANtl55HKSFv06PQMXwH69Ag6lWyFzVD0GfatXoFFGIbyj7xtfLyTmyHfvN7G2ccIwt3N2sB1KxEEk1qrBhKkD6gubg9obNByUEiv2XzJzIvQvSeIeFMfT93UTK3ahL3HjpfeyYi1TXnyuTA3GvWghUqELQGb3S0cRZL8Hjl00iYu5SuYPp",
+      "_id": "695a2fca1c508c5d5ea1271a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

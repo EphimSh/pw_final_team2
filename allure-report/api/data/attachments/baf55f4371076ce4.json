@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "392",
+    "etag": "W/\"188-81IqZVktZCLrX/qy/bXKW0gAe3M\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ashtyn62@yahoo.com",
+      "name": "afOhSglXBMqIiomURdgGxDBsxRvRkYT",
+      "country": "USA",
+      "city": "azqFjJtsmMuuagRIZHd",
+      "street": "yYT7bvZP2xGfmvAYeWt0rpuZ1kWSD6j",
+      "house": 91,
+      "flat": 9,
+      "phone": "+6753313080",
+      "createdOn": "2026-01-04T09:14:41.000Z",
+      "notes": "b9zo0Oey7vHGvkZ7EyYQZ4lCJv0rO98R25hhIm2V0x8V53GEM4VLAhboX2",
+      "_id": "695a2f811c508c5d5ea11d2d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

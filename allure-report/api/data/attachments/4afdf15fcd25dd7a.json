@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-xvck4IwqWfLH4TaPM3e0folpTUo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table67972",
+      "amount": 665,
+      "price": 87324,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T09:14:53.000Z",
+      "notes": "G0UB7jBYvY1NkfwSWbWGyI2nBCOSgkfJiKhUWMypwniBv5atH5s2qoMhkt7Zc70P9InfYGInCQy7jrKr6erQZV6P2Tbjv4bMrP0znrNZJMsT4VJXkgMdNXSY7Rk6IX7WW9QVXhPtE2E2nnaQB5JCV5Iu7RGGmYW62JTnoD3LTuiKCOTDBoEjpOwZlQKO6GI74aBTve49dz1popDn4o0RGZZcm1IMajETGlHlvvV9my8c4zih8HGDxvX8mR",
+      "_id": "695a2f8d1c508c5d5ea11f2a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

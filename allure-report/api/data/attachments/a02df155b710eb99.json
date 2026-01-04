@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:16:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-DS2YwXrgbgSOmUa81+viixZC/T4\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra48140",
+      "amount": 197,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T09:16:03.000Z",
+      "notes": "QDwigmEkoZLnjQGUZiwZwQ18xV3pa166IRjJokQlrNAenrviAdqfOasvKDE2npaVP822IyxwiqLRWuZtq1NbvzmpfOjhjwgj5PSuoBK59bXWLNUYzZ15x5ok32zxINm0ZYABn4epWF4INIyvzM84V7OFSwQ3M1OC5kQdDtN0pG0Z1CHswNVPeibg8tkL4Sn0u6ZC7uXnmLUuk3YsnKNOe9dhp2YQSQxeKp8xBZESrQK7kaclQvLRt7rsBI",
+      "_id": "695a2fd31c508c5d5ea127b0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

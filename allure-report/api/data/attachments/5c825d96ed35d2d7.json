@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "518",
+    "etag": "W/\"206-dnT7bv44k4jfqbSsdhXzUCbITHI\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Heloise_Crona@yahoo.com",
+      "name": "vZqrhFqvoFDWHarelqTwIlVNSoCZKFyrFff",
+      "country": "Canada",
+      "city": "SILiCEtSjJKPYFg",
+      "street": "EW3ArckHmcxbxske213Wi9umuAirBiZFkq5",
+      "house": 191,
+      "flat": 3,
+      "phone": "+1436033883",
+      "createdOn": "2026-01-04T09:14:05.000Z",
+      "notes": "jMpuRpfQEXMWmib0x1vKWlThohiYjvSlQpOxttyps4Bmgy5sN3jGXt9vaBHG8y9NjxC469aQQD4PGeP1VgfHaLst513N6iUBgOMUmrnoFxKbyRHEPd4X1WKNgMjEqKOCzIQCtIcA94ttzb522HXGe1Re1AdhmqVfLTYIUSwZnZ9",
+      "_id": "695a2f5d1c508c5d5ea117e8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

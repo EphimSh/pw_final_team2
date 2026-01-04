@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:13:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-66Bp138JGo0KTOksPw08OeeppAQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Norma_Becker@yahoo.com",
+      "name": "QYpTOcMpwZeSRFvrveVauxKflccEWSJhPXdydC",
+      "country": "Germany",
+      "city": "YgPeyTmeRyQcYIjwxKcP",
+      "street": "UyoXI0BeqWyEULHfpll6",
+      "house": 150,
+      "flat": 1,
+      "phone": "+6259710724",
+      "createdOn": "2026-01-04T09:13:32.000Z",
+      "notes": "rjCWwxty8c6QcKKUPHYB0qI3HJ02nqvHVENgn08nxZVeX6p47fVXwbYVXF0yHlGBuoWLUPEKQKe71ev5WlQE6aft6AFba0sls9sDzHHIgesE47H8ldRq",
+      "_id": "695a2f3c1c508c5d5ea11431"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

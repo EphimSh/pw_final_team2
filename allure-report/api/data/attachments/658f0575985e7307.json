@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "491",
+    "etag": "W/\"1eb-zOyIMOF9+ciOZoipJLlo0fRY4u0\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Hellen_Howell36@hotmail.com",
+      "name": "AYU",
+      "country": "Germany",
+      "city": "KZFinS",
+      "street": "kjoxgI",
+      "house": 17,
+      "flat": 7,
+      "phone": "+9902389591",
+      "createdOn": "2026-01-04T09:14:13.000Z",
+      "notes": "AtrXivAgJdKBhLTu8ROivReCfmtyq0FyZXBdQCCQbwLOjrfeuD3tG9awGdrwnElgjnntsqFsKpTIetTlabdazYd4kMQ7Y31jjRpBdvaBqfeOu8mrC1xVpXWOAkZbMlbX4OY8jHeEDM4dlCQwuak78g1qFhyWpbqV5Sm9qBfrBa1Hk58Rvvj33UPhhUxJ3UKc2a5joIJ2gK1YoSdW0k",
+      "_id": "695a2f651c508c5d5ea11902"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

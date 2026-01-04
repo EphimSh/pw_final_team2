@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "362",
+    "etag": "W/\"16a-oRlt90BW5kjQ+zoDAFDKQKX4XH4\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Peter41@gmail.com",
+      "name": "ABKEHJPyTDGufDIdgSuTPogFCFq",
+      "country": "USA",
+      "city": "GHAoUTNBxLUJZDKGJZ",
+      "street": "XHtor2vvJiPyKZ",
+      "house": 189,
+      "flat": 6,
+      "phone": "+0964281135",
+      "createdOn": "2026-01-04T09:14:26.000Z",
+      "notes": "6CAi89oYWX8X3dmdxHnhn9JCBvSIjXtl3zkegk2drMmteoBGwK",
+      "_id": "695a2f721c508c5d5ea11b67"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

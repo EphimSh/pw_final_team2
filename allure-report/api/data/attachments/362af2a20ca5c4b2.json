@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-VAAZStM5sh0FdbSNSu2+cBdFH4g\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese43104",
+      "amount": 124,
+      "price": 90977,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T09:14:11.000Z",
+      "notes": "qb4bIcBOm5Mt6w6jIRz0GntgVvAvRz9nVXvGhx5mR73hhvt0v5GSrBU010VVzuhCfzA463IExHvRDSFq8Zp7jupm2hcncU4agcCGx8pPi6YmCDqjnApmIssxHDoaPZpwWbukhJjltkU7fElAj8lUcA4M5nWNcnh40Dutf23KaJGc3b8aCj63FLqzdleaKBiekpeBrjBtITpNL4ILYfVj3SfmmTSO1TY3sel5K7h6reZxmfDF0eoyHRdxDG",
+      "_id": "695a2f631c508c5d5ea11864"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

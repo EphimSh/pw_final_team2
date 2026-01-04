@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:13:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "478",
+    "etag": "W/\"1de-W+G5tXfKYiAortln0P269cOmBrY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Domingo.Collier0@gmail.com",
+      "name": "S",
+      "country": "Belarus",
+      "city": "zACiEyfq",
+      "street": "CnFNtFNR2BJbNfh2WJElfzaLdnf",
+      "house": 181,
+      "flat": 6,
+      "phone": "+5364224002",
+      "createdOn": "2026-01-04T09:13:29.000Z",
+      "notes": "cWUE66DnRfLNLzA41WnwZjseEFffoOktVenT1DRMGX88EBMidUXGWUjjT62gLoYEHJs8punXMEeP2qyuSQU0mvoAXogCWzmV8TteNaeeP73M9YRczLaKv0KZPnXizTADNLZ9iBO8Zt5gn9xeZgu4MI5TomwFykXWSm5PrZ0iAewofCmT",
+      "_id": "695a2f391c508c5d5ea1141b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

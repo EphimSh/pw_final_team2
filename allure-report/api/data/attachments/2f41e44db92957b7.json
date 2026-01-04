@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "332",
+    "etag": "W/\"14c-xKZbpvTrDsBCgmveseWuD6wLgnU\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Fermin_Fritsch52@hotmail.com",
+      "name": "uzHfJLcIapChPjJVPhUQsvQDtulchEwmUS",
+      "country": "Russia",
+      "city": "MRSRCFGJcqgzRTtSa",
+      "street": "eDjLtHS",
+      "house": 181,
+      "flat": 9,
+      "phone": "+6775698642",
+      "createdOn": "2026-01-04T09:14:32.000Z",
+      "notes": "cs3y3Dt",
+      "_id": "695a2f781c508c5d5ea11c06"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

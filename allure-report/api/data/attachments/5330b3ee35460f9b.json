@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "381",
+    "etag": "W/\"17d-TkRYOBJHG/kT2pQfG2mCh4BBEVg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Linnie9@gmail.com",
+      "name": "HIbkvKkVNGRdkhXdaCGdQiIIrUs",
+      "country": "Ukraine",
+      "city": "ZTAM",
+      "street": "U",
+      "house": 171,
+      "flat": 6,
+      "phone": "+3283310660",
+      "createdOn": "2026-01-04T09:14:09.000Z",
+      "notes": "V5w2ITHWPsLS9vgMwDkcM4EYBMzL2tKDRQaz8B5Zwm2w01qf38ZotBZM6EClN18jz5bxpWLeNRJfJ38FABpAPovNfaKW",
+      "_id": "695a2f611c508c5d5ea1183c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

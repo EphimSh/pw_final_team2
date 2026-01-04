@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:15:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-9a5SAei/1NDC163smkvIUXoesQY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball57832",
+      "amount": 975,
+      "price": 99809,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T09:15:48.000Z",
+      "notes": "RGX57pQNZUzs1sBIy5swkkq68UuW7l1O36XayB8iLjvrRnEIydcghvgZ9QcuV979qijjJOjzkhFqQ1mJQTyktjgu4Qcf0zSHPMDLQqiWocTHYug94ZLkkfelnCTRjfcvjiQjSeZRSJ9yIGaFl45xcXlMTt9LRn5vEAJgqFaQXwRxP9v1bArNe3W487jnCSW7CTTkIFMgVF4mEikJxlwqKYR6SysowYwey6zgvHjhLHxY25fjNnxdP6fCzT",
+      "_id": "695a2fc41c508c5d5ea1269a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

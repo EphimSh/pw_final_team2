@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:15:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "467",
+    "etag": "W/\"1d3-e0YX1WK7tJBbW/K9RlHwkESp51Y\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy S2510266",
+      "amount": 500,
+      "price": 3100,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T09:15:56.000Z",
+      "notes": "ar7eZgnzhCLxb65VA0WPlepv6Pl6PJADDM8bi5sPix9q8GO8YP8fRuiuPpbNAAsdLnhFkh9ZP8AFRvWa6aUfqkzjkSxGQ7jmKnkBISCQbYqXDhhKCklSK6MXgaS5tpwPEDlKzz9CSWKQeDzSOLF3mH46pdAZY7HBc9Ji26qW4hMUXZlHcf8sKixAtzCvvIhcomhnd7G0ukGWfNGVxNDqihxxP9JvwhdKaOd0x9gTrhJzUUNZTaCqTv8LtM",
+      "_id": "695a2fcc1c508c5d5ea1273a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

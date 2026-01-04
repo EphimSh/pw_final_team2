@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "427",
+    "etag": "W/\"1ab-9JOg/tSEoAH7uupI5PRYNk3viG4\"",
+    "keep-alive": "timeout=5, max=44",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Judah.OKeefe@gmail.com",
+      "name": "MZWghRhdDo",
+      "country": "France",
+      "city": "CWSvm",
+      "street": "j08ffd0FF3bd5JJhW1ZOYOgyvyeH3kW1BF546Kw",
+      "house": 171,
+      "flat": 4,
+      "phone": "+5113086153",
+      "createdOn": "2026-01-04T09:14:59.000Z",
+      "notes": "xw47srVn6YjXEZDbWsrEILn0oOsS6sWZmlwCXNrnZozwAcLENkVpW3RRU0513CI18HMzoTSFWjkbdoglSo9ZXwudbxA5w3Rzms5Ls1wcxzEDZXL2",
+      "_id": "695a2f931c508c5d5ea12073"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

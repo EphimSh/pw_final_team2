@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "600",
+    "etag": "W/\"258-PZI1eNlF6pVIlbFuDqu0VaxCjLg\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Korey96@hotmail.com",
+      "name": "uvkQnxxmCdznAKRKNXYBxjPmGhajUQytpUCjckq",
+      "country": "USA",
+      "city": "oXqXliDjLWVGdNkAJntp",
+      "street": "vE1PwPSfNL7JV2oh9HckOcqrUaGHCGWOzlISW",
+      "house": 40,
+      "flat": 5,
+      "phone": "+4022658446",
+      "createdOn": "2026-01-04T09:14:18.000Z",
+      "notes": "iTydYdp65ATc1LEq3GmiLtU8DOLTXFwTPS3p7KGzaYlVYW0EAfiJN2b2RkTgIYPjrAxDqdnwfZkCOBdHvfuGYAfZLaWIlMWY6FBt0YtxyZRJyP0R9SMFYCEP6icr6bL2fV0Fz0yDp0LKaNu5JaDTdz6ag6HJTvhW0PnBncmqPAQIiQh2UJevHyXz3OqzzqpYXMtUo4FxYI71Gpzz2OUvoNpJCXkYF8V0QQHyxdKZmV7dByQUy1JnAPyA5V",
+      "_id": "695a2f6a1c508c5d5ea11a34"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

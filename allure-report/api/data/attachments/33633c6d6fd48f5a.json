@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "473",
+    "etag": "W/\"1d9-PcejHnrITdlhx8pq8MsAIoXAoAg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Elliot30@yahoo.com",
+      "name": "YvDuIqPuQMZMfLjQvU",
+      "country": "Belarus",
+      "city": "IVDGZAPKRLarRC",
+      "street": "9eAmth",
+      "house": 64,
+      "flat": 9,
+      "phone": "+6939658437",
+      "createdOn": "2026-01-04T09:14:18.000Z",
+      "notes": "iZAF9eOEo5zQVYz7LdmN9jxEd4PILIwmP4Kjedw7PWN2vIKxKtwE6eEVVqKeY0SGXYRWaOC73oCjsmPZUbbSaExPU5nmBPD1ROUfoTd1I3ZsFDdzDKGs6VlrgXBKwCwmHMxuOhP6RbBAMI9X21219ao5L9w0D7W5TjlqfoYMODt0knGKBS",
+      "_id": "695a2f6a1c508c5d5ea11a32"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

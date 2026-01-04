@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:13:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "355",
+    "etag": "W/\"163-NOCCYRyxMmYRr/qIPc+QtAOt5UY\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Angeline.Mertz86@gmail.com",
+      "name": "XTEoOznALfwdrLThVCTojXJwb",
+      "country": "Great Britain",
+      "city": "lFHKaoyHBotyVJhYj",
+      "street": "7AkOYiT",
+      "house": 167,
+      "flat": 6,
+      "phone": "+0318929556",
+      "createdOn": "2026-01-04T09:13:56.000Z",
+      "notes": "ezTVnsVOuqKLMjeEL8O99amZOo7gGDi9Z0",
+      "_id": "695a2f541c508c5d5ea11680"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

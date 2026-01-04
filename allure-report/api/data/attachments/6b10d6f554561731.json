@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-I1EFomKVPtEIGL+2v7TmmKXeDnQ\"",
+    "keep-alive": "timeout=5, max=66",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna32767",
+      "amount": 361,
+      "price": 44076,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T09:14:42.000Z",
+      "notes": "WAsjxGVzX9UYatybaozxU9F32q9mlC1vhJZxYQUBfnl96QKo78QD7My8lYYHUkd7RwnYVBg7gzpowWCzGh8X3whL8jWW5BVXRim1TJNWSLnFIrgxPkJIadwrIOZi0V3cK4znbJi0SObGkQcWpAbkqdpTSsfIMXOiF3Arvw6uOHypnZyCuUd4DM2RY2M3T1rfwjogLFIxsQy63XvEGcJGKKNNpJMiU3tEAMUwTsF8uDckIbL2NS1UpuDyJn",
+      "_id": "695a2f821c508c5d5ea11d37"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

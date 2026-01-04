@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:15:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-0DRWgmWGHb2iOFGGK3F/qUEQdQY\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair92279",
+      "amount": 783,
+      "price": 49122,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T09:15:11.000Z",
+      "notes": "WTQUoR7rWMFBlCBQ07WQtRnazR13kNQlETynt2tRb7IwX74PL2XlEtIWZELAZelWs3AlX7KxXbdqOlnk8hxWVCLCq1803vJzf0OMzmkTgEaZtixtz0wjTCjP6Oq0kkM4LtswlLFMCAJC31XcuFKoabCwjnlW4fFjFYljeaD0so5PGIroq5ZCzStdyeWAbZ3KkPDUCcl6XboBIsjtORnTnAr6JcvF3KXIDvEQbVVIQL29sXSr6QweFkexSe",
+      "_id": "695a2f9f1c508c5d5ea12208"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

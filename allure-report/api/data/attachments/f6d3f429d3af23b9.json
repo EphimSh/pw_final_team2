@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "540",
+    "etag": "W/\"21c-AAuGyfSd6wFRDqTS+8EbaCoZCDg\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Valentina_Gislason91@yahoo.com",
+      "name": "tDSvsDh",
+      "country": "Belarus",
+      "city": "giGOqomyZpZoNrXvIR",
+      "street": "9XiA5cE",
+      "house": 126,
+      "flat": 5,
+      "phone": "+4076872017",
+      "createdOn": "2026-01-04T09:14:04.000Z",
+      "notes": "LhtjHPFhslEARYRRz1Po1eD3TaSjoiHZPMuvaY7y7gT1pvHjlL75aa5uTvmtBMdpB96tpUGaCRRpbrxF1DfZp2CF1GKUcBmxW7G6YG2ZWmvbUtF504FhGHyGCIGiDTSPhBgflWeZS6nvem1GQYnP79EvrlWbfGNOleL0Mr5FOKH2PMJHIDZuITAG6vhD6yKf7Ckc3I4f8ZVPIcKwkeEwE7Yh1ru3JZ2yhCxxapEQLMfAZD",
+      "_id": "695a2f5c1c508c5d5ea117d8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

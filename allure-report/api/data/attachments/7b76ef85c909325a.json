@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:13:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "317",
+    "etag": "W/\"13d-KkasE5WLqyIp9WbzvvT3541FPt0\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Breanne74@hotmail.com",
+      "name": "agTPIwgNWXTmuiJbFnrv",
+      "country": "Ukraine",
+      "city": "Z",
+      "street": "J3JKXLCJq1xzgwysDGkH2eU4vQB3418Px7",
+      "house": 80,
+      "flat": 4,
+      "phone": "+6859772592",
+      "createdOn": "2026-01-04T09:13:57.000Z",
+      "notes": "sU",
+      "_id": "695a2f551c508c5d5ea1168f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

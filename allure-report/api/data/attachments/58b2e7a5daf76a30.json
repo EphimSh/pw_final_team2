@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:16:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-Cv12lSK4C3Tpy0iCGjj93ppwRp8\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips1324",
+      "amount": 66,
+      "price": 62210,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T09:16:01.000Z",
+      "notes": "djYZHiLPKL3VpEf5m8e5qu33Jfc6KPxyLFnRCWCzmr7SjEgIOPBAaeLjYgFRRdKGDbePSFuRjSABYLWdFYcwzrjm3sjY2r3hRgc5eCFfOoRvG9M6Hl1ZuV44i99SJFrLdN215RX2m6MmtrZnkd2scAvN2WBkFEjffE6rxfocO47gRlEMvBrcUnO9prvzsrYavURqH8XraEhExcxHewORm6za49zNCGbbiKB2hB0BnVjbh9IttSpGpIvita",
+      "_id": "695a2fd11c508c5d5ea1279d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

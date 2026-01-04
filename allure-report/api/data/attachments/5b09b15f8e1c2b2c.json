@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:15:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "426",
+    "etag": "W/\"1aa-ug6pmq1Lx+ll6LG+cJIoWmeRy2M\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Calista82@yahoo.com",
+      "name": "KWCvICsHveQele",
+      "country": "Russia",
+      "city": "cTnciWrKOQhHtk",
+      "street": "VsST",
+      "house": 26,
+      "flat": 9,
+      "phone": "+8949270114",
+      "createdOn": "2026-01-04T09:15:25.000Z",
+      "notes": "jCvRDwU5DZDvQCv5How6ugi8o9qFpqxbEF2vIWaIWFglpb6qbjboOswZhtTxjKScoAZwDoQlWs6VTaRFSPYmmTO0B9BydnhMWSZtaWTR5GlNso2vIntC7jKVMCA89PI73rMK6LxpN",
+      "_id": "695a2fad1c508c5d5ea123d6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

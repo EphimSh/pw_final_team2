@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:15:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-WjTg83aCaP27+t7CFSZevyuKQVY\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer57969",
+      "amount": 0,
+      "price": 3827,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T09:15:37.000Z",
+      "notes": "4JkuAOqfUE4XHsPOgsTl3qKACj55v6brwLwQl6g5sBYFZ74AfKkIIL2LEHlTlgbzwfqJRjFy6WJeaAyL1fyK7aL14lwpr9GAGe3BAWIUk1uiYkkMjov0GXYlsFfwPV94o86vHQxj8iAQfA7T8sfDhp9TRVBU3OPH3qe30y2exax1lRppnOdI2Yp8ik0p34VDYaEwUMvYWXkJRl6WLJ0gFPqp0RDCV4ke5AbBShX1jjoDxWZzJ0fz9aMrik",
+      "_id": "695a2fb91c508c5d5ea125ca"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

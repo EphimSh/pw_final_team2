@@ -1,0 +1,131 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:15:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3357",
+    "etag": "W/\"d1d-RhO1rQLQrwiwRJW7rqJ4VNmjOD8\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a2fa41c508c5d5ea122bf",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a2fa41c508c5d5ea122b7",
+        "email": "Roberta_Welch38@gmail.com",
+        "name": "w",
+        "country": "Great Britain",
+        "city": "JPzyhiO",
+        "street": "WP1OgAYtE3X8WC40fliGH53lAmEmkewZsIFKkv",
+        "house": 42,
+        "flat": 6,
+        "phone": "+0179350265",
+        "createdOn": "2026-01-04T09:15:16.000Z",
+        "notes": "dZvTvbDCehlabDDlETlG7RuBWxCZHrXiB08YNtQbXPTuNhPBvKg2LEzAlOg56pUL3G2sgt6R0lVNlmGjx0egJlRH2EjQnlin5ygg8Hj98fPdieCmuvSKADpK7K1RaZBjrH8OY4cXSFenWddPYQAvVB5XwaG5MtDIsykfkCk7leZiW0NKQtRmD5Sgxxwmm"
+      },
+      "products": [
+        {
+          "_id": "695970561c508c5d5e988ae6",
+          "name": "Bacon45426",
+          "amount": 689,
+          "price": 20829,
+          "manufacturer": "Sony",
+          "notes": "uhJuScOVbWaUQqJtSsjH4lRvRr4442WX0i4DPcvTeBjd3LOh74ct25x15hTjrU3w8IKunCyDLWOKrlBGWgT3vyLnyylPufKcNAEbC3ByzCD1Q3XpFHsmimWNsysc5a2nkCWzOULh4Icssjf5bygw4l54R30VkUMUnhGSNfyr3wslQVayaSi6SSBBuXU2QhFwvy1cB6YqORwGHoR64opuH15CqFyghH7H81YZXyapZcvEWUZj3pjuERTdK7",
+          "received": false
+        },
+        {
+          "_id": "6959705a1c508c5d5e988d61",
+          "name": "Hat94382",
+          "amount": 354,
+          "price": 67290,
+          "manufacturer": "Samsung",
+          "notes": "XRaPeY5TChqYWF0QnrtFItK62lZvJBrtkkK3ei2WrIJRdy4czGRrJm8yybbxlyKjj43N4p0oZc4oWMeJVjvbTDDbIbZONJNoSOLQJu0zdQj3nHlq48abIa7j0ReN2Cw5MDiS53OspBKVLAJghOICg1Z50bmzhTPHXsX6JQbYCa09UQDOFdDSqW7EfPsCfSrejvbmX5gWstl0fhBatM8eHxtIGN0Ge7aOFpmGk0iraod73j1InrRIcd8gzu",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 88119,
+      "createdOn": "2026-01-04T09:15:16.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a2fa41c508c5d5ea122b7",
+          "products": [
+            {
+              "_id": "695970561c508c5d5e988ae6",
+              "name": "Bacon45426",
+              "amount": 689,
+              "price": 20829,
+              "manufacturer": "Sony",
+              "notes": "uhJuScOVbWaUQqJtSsjH4lRvRr4442WX0i4DPcvTeBjd3LOh74ct25x15hTjrU3w8IKunCyDLWOKrlBGWgT3vyLnyylPufKcNAEbC3ByzCD1Q3XpFHsmimWNsysc5a2nkCWzOULh4Icssjf5bygw4l54R30VkUMUnhGSNfyr3wslQVayaSi6SSBBuXU2QhFwvy1cB6YqORwGHoR64opuH15CqFyghH7H81YZXyapZcvEWUZj3pjuERTdK7",
+              "received": false
+            },
+            {
+              "_id": "6959705a1c508c5d5e988d61",
+              "name": "Hat94382",
+              "amount": 354,
+              "price": 67290,
+              "manufacturer": "Samsung",
+              "notes": "XRaPeY5TChqYWF0QnrtFItK62lZvJBrtkkK3ei2WrIJRdy4czGRrJm8yybbxlyKjj43N4p0oZc4oWMeJVjvbTDDbIbZONJNoSOLQJu0zdQj3nHlq48abIa7j0ReN2Cw5MDiS53OspBKVLAJghOICg1Z50bmzhTPHXsX6JQbYCa09UQDOFdDSqW7EfPsCfSrejvbmX5gWstl0fhBatM8eHxtIGN0Ge7aOFpmGk0iraod73j1InrRIcd8gzu",
+              "received": false
+            }
+          ],
+          "total_price": 88119,
+          "delivery": null,
+          "changedOn": "2026-01-04T09:15:19.000Z",
+          "action": "Requested products changed",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a2fa41c508c5d5ea122b7",
+          "products": [
+            {
+              "_id": "695a2fa01c508c5d5ea12264",
+              "name": "Bike2332",
+              "amount": 907,
+              "price": 15324,
+              "manufacturer": "Xiaomi",
+              "notes": "GuHWLjLVXjfsuLhAogHKmz0QXVFMRWqr9NZ1Cl9zvbeAVI9f1MAEAVkdxunWfRHmZzPR4eYUTuksCGuvyF8vJVH1KBHVQebEDiNRSzj4OvVXiLcR3M7B3y16cQoRE0yD1wdn6MU84TKEzD5aqIoMUSMlzvF1RLJJOnwmdpYtJ8wkAbAIrQUwwDLnQHIOuVWEMX6xM6dp9ZS7XGY5MDU76mH5DHGKAIJVAZfDd2pgRwUtEl7cLPYbGGEl0y",
+              "received": false
+            }
+          ],
+          "total_price": 15324,
+          "delivery": null,
+          "changedOn": "2026-01-04T09:15:16.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

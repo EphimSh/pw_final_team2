@@ -1,0 +1,28 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "224",
+    "etag": "W/\"e0-wukM6TRiuwJhgbhMdH87RxbWmlw\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "IsSuccess": true,
+    "ErrorMessage": null,
+    "User": {
+      "username": "testmanager_G5EsLQNu",
+      "firstName": "ManagerG5EsLQNu",
+      "lastName": "ManagerG5EsLQNu",
+      "roles": [
+        "USER"
+      ],
+      "createdOn": "2026/01/04 09:14:36",
+      "_id": "695a2f7c1c508c5d5ea11cce"
+    }
+  }
+}

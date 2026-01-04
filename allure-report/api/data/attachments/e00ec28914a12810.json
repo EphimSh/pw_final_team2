@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:13:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2929",
+    "etag": "W/\"b71-vzOj3N/Dgt5dq/r0dcflc0f3w90\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a2f571c508c5d5ea116bf",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a2f541c508c5d5ea11687",
+        "email": "Sydnie24@gmail.com",
+        "name": "BzgKOKCvjqUDHdiUTTOJWyxTtJjfplHzhKwnX",
+        "country": "Belarus",
+        "city": "rCDwtsIuW",
+        "street": "yIe1STMHpSxMZSBr",
+        "house": 156,
+        "flat": 5,
+        "phone": "+7835775583",
+        "createdOn": "2026-01-04T09:13:56.000Z",
+        "notes": "dnlKRrM6ClZdfkocMoK6kFp3aDUaIErrM6WcCGwf8I59c4RRWkGmvDwX54HndcxHp8qhf4JKLSnwpJiBRZpfZ6prXbRetTy8L6xQCcLfo5h7XyGhrhVO8TrISqZDXMJYkXIWQXBw3cqGsX6pQIskkPobGB9a6rPxuDe3qxB8o2A8Is7LScJupgEQyZrttN2reh7BJbzEw"
+      },
+      "products": [
+        {
+          "_id": "695a2f571c508c5d5ea116aa",
+          "name": "Bike24223",
+          "amount": 724,
+          "price": 20322,
+          "manufacturer": "Microsoft",
+          "notes": "OsWUz4WEyOMrxA859j8KzjlPMKbPuX6dxA78nq1yw6UDiXblX7uonz2RVJbJfTQyrDEJbTH7xphha5uLW1KKh8Kv87ymAiXHFkdtq9cWDwUc95CpUGArVz9b5e5aMBhb9krAAx0nZDoLPL0pHbteyC72cf5sVVi8FqreEzxuCVj7mOTnUiCMFefhy19035DWLQOBnenMFZJdQ5OfA7GS4tgJfD7b7BNeR43jrXimUU3JTF49XnhvY6e7pt",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "France",
+          "city": "Mock City MnGPDnn",
+          "street": "MockStreetP",
+          "house": 127,
+          "flat": 4
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 20322,
+      "createdOn": "2026-01-04T09:13:59.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a2f541c508c5d5ea11687",
+          "products": [
+            {
+              "_id": "695a2f571c508c5d5ea116aa",
+              "name": "Bike24223",
+              "amount": 724,
+              "price": 20322,
+              "manufacturer": "Microsoft",
+              "notes": "OsWUz4WEyOMrxA859j8KzjlPMKbPuX6dxA78nq1yw6UDiXblX7uonz2RVJbJfTQyrDEJbTH7xphha5uLW1KKh8Kv87ymAiXHFkdtq9cWDwUc95CpUGArVz9b5e5aMBhb9krAAx0nZDoLPL0pHbteyC72cf5sVVi8FqreEzxuCVj7mOTnUiCMFefhy19035DWLQOBnenMFZJdQ5OfA7GS4tgJfD7b7BNeR43jrXimUU3JTF49XnhvY6e7pt",
+              "received": false
+            }
+          ],
+          "total_price": 20322,
+          "delivery": {
+            "address": {
+              "country": "France",
+              "city": "Mock City MnGPDnn",
+              "street": "MockStreetP",
+              "house": 127,
+              "flat": 4
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-04T09:13:59.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a2f541c508c5d5ea11687",
+          "products": [
+            {
+              "_id": "695a2f571c508c5d5ea116aa",
+              "name": "Bike24223",
+              "amount": 724,
+              "price": 20322,
+              "manufacturer": "Microsoft",
+              "notes": "OsWUz4WEyOMrxA859j8KzjlPMKbPuX6dxA78nq1yw6UDiXblX7uonz2RVJbJfTQyrDEJbTH7xphha5uLW1KKh8Kv87ymAiXHFkdtq9cWDwUc95CpUGArVz9b5e5aMBhb9krAAx0nZDoLPL0pHbteyC72cf5sVVi8FqreEzxuCVj7mOTnUiCMFefhy19035DWLQOBnenMFZJdQ5OfA7GS4tgJfD7b7BNeR43jrXimUU3JTF49XnhvY6e7pt",
+              "received": false
+            }
+          ],
+          "total_price": 20322,
+          "delivery": null,
+          "changedOn": "2026-01-04T09:13:59.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

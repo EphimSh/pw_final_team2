@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:16:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-RHlweQcH31LBRPUwffTs5acqEqk\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro68327",
+      "amount": 400,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T09:16:01.000Z",
+      "notes": "qqphQBB2F1WVFcQpdsT2B12PyeWKRySZsCkUlf5DMqO8ibt4q4tg9WxSXyTWWXAcXCLB67v4GiJjYLwOvzu26YCYjVMQvyMPLbfoc55V4m0HQQrJGmvfDwLAa75YwCiGNFzastd626MPQgOgKjauR10ynyAqPlj7ROnI5h4qm64byvBgAGA5S26Zi3kK3vYZJhqvLrHcLFFP0jXTt7DRSRA2FjwrGE5zBV5Cjnw97sBA2it2eEpZ8mkQ1Z",
+      "_id": "695a2fd11c508c5d5ea12792"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

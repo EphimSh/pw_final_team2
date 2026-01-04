@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:15:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1754",
+    "etag": "W/\"6da-GnQeJwbHDNHwaFD/37GUfc4Aqt8\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "695a2fa61c508c5d5ea122d8",
+        "email": "Calista82@yahoo.com",
+        "name": "KWCvICsHveQele",
+        "country": "Russia",
+        "city": "cTnciWrKOQhHtk",
+        "street": "VsST",
+        "house": 26,
+        "flat": 9,
+        "phone": "+8949270114",
+        "createdOn": "2026-01-04T09:15:18.000Z",
+        "notes": "jCvRDwU5DZDvQCv5How6ugi8o9qFpqxbEF2vIWaIWFglpb6qbjboOswZhtTxjKScoAZwDoQlWs6VTaRFSPYmmTO0B9BydnhMWSZtaWTR5GlNso2vIntC7jKVMCA89PI73rMK6LxpN"
+      },
+      "products": [
+        {
+          "_id": "695a2fa21c508c5d5ea1229d",
+          "name": "Chair85552",
+          "amount": 83,
+          "price": 57969,
+          "manufacturer": "Google",
+          "notes": "NUWQzTYnLtOyMEYeRYVMzDJPr59INOpodzm9rBiMACcV7V7Ku0N9u6v47SBbg2zbsL3tS2Cs1TAOZPEVfhDDKaxaNDJA9qs8O4yaiZRZXhcudHrJCRT7ezZJQ7CiTMF0nNasqOgn7sWtv458w5VTVB7JLYN25vusEd95uJjXmrLlD4i7gVEKynMJ5ljt3yzmpvhGUaeXO69e4HWeU2rgWBUzjURwCINYOCdSzKF6PlAW2pULN6016o3s7f",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 57969,
+      "createdOn": "2026-01-04T09:15:18.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a2fa61c508c5d5ea122d8",
+          "products": [
+            {
+              "_id": "695a2fa21c508c5d5ea1229d",
+              "name": "Chair85552",
+              "amount": 83,
+              "price": 57969,
+              "manufacturer": "Google",
+              "notes": "NUWQzTYnLtOyMEYeRYVMzDJPr59INOpodzm9rBiMACcV7V7Ku0N9u6v47SBbg2zbsL3tS2Cs1TAOZPEVfhDDKaxaNDJA9qs8O4yaiZRZXhcudHrJCRT7ezZJQ7CiTMF0nNasqOgn7sWtv458w5VTVB7JLYN25vusEd95uJjXmrLlD4i7gVEKynMJ5ljt3yzmpvhGUaeXO69e4HWeU2rgWBUzjURwCINYOCdSzKF6PlAW2pULN6016o3s7f",
+              "received": false
+            }
+          ],
+          "total_price": 57969,
+          "delivery": null,
+          "changedOn": "2026-01-04T09:15:18.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695a2fa61c508c5d5ea122e0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

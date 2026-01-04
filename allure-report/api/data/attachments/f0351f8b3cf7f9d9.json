@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1895",
+    "etag": "W/\"767-kkfWQdLxUFS/6Oq86XKDt4D0vkk\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "695a2f7f1c508c5d5ea11d21",
+        "email": "Vern.Aufderhar63@hotmail.com",
+        "name": "LPzgEfVZ",
+        "country": "Germany",
+        "city": "NfsfbzoZgXmfs",
+        "street": "DcO7BycMvOlplOK3zlXUn1QVm6VLOyeufKQthVeV",
+        "house": 171,
+        "flat": 4,
+        "phone": "+0472038015",
+        "createdOn": "2026-01-04T09:14:39.000Z",
+        "notes": "XTf95zxrOmrI9rMcCneZDffJiFneofS3VXYjwfqHimfIAupBoaw1JFv3bJb5mrzJlgAE5UDIg9j9q5QRUF91L41ZGrgzeQJVnJpsBIGCPdYbXOw8u94Ls6Ahgpndx17htuozfhL1qzsCm1KLHBVvpcuql0D34HKaeA5a4UJzKh4Q606iUUOmPhfI3BlgjEoK6B0GZZ8q6qt0AnhxXztwRwgPoxTcpMcjYDUdYq3RyqnEf1"
+      },
+      "products": [
+        {
+          "_id": "695a2f821c508c5d5ea11d37",
+          "name": "Tuna32767",
+          "amount": 361,
+          "price": 44076,
+          "manufacturer": "Google",
+          "notes": "WAsjxGVzX9UYatybaozxU9F32q9mlC1vhJZxYQUBfnl96QKo78QD7My8lYYHUkd7RwnYVBg7gzpowWCzGh8X3whL8jWW5BVXRim1TJNWSLnFIrgxPkJIadwrIOZi0V3cK4znbJi0SObGkQcWpAbkqdpTSsfIMXOiF3Arvw6uOHypnZyCuUd4DM2RY2M3T1rfwjogLFIxsQy63XvEGcJGKKNNpJMiU3tEAMUwTsF8uDckIbL2NS1UpuDyJn",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 44076,
+      "createdOn": "2026-01-04T09:14:42.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a2f7f1c508c5d5ea11d21",
+          "products": [
+            {
+              "_id": "695a2f821c508c5d5ea11d37",
+              "name": "Tuna32767",
+              "amount": 361,
+              "price": 44076,
+              "manufacturer": "Google",
+              "notes": "WAsjxGVzX9UYatybaozxU9F32q9mlC1vhJZxYQUBfnl96QKo78QD7My8lYYHUkd7RwnYVBg7gzpowWCzGh8X3whL8jWW5BVXRim1TJNWSLnFIrgxPkJIadwrIOZi0V3cK4znbJi0SObGkQcWpAbkqdpTSsfIMXOiF3Arvw6uOHypnZyCuUd4DM2RY2M3T1rfwjogLFIxsQy63XvEGcJGKKNNpJMiU3tEAMUwTsF8uDckIbL2NS1UpuDyJn",
+              "received": false
+            }
+          ],
+          "total_price": 44076,
+          "delivery": null,
+          "changedOn": "2026-01-04T09:14:42.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695a2f821c508c5d5ea11d44"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

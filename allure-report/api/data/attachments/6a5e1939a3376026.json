@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:15:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "396",
+    "etag": "W/\"18c-sbkeRs3aVuM29RbP60id/V0+uyQ\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Margarita75@yahoo.com",
+      "name": "xzhMcmAQUJzeBXY",
+      "country": "France",
+      "city": "GFdmc",
+      "street": "GN",
+      "house": 105,
+      "flat": 5,
+      "phone": "+2008351016",
+      "createdOn": "2026-01-04T09:15:19.000Z",
+      "notes": "koP0w2s7erUZnzIrbhnMdV5kt7ogmWO4gAUaGkbYHgFEh6gBxs8MzSt2qj1l5QESzCTefXN5oXKtM4KeJS96zhL1VND8SlDJGNgjM8wrkmxDWak88x",
+      "_id": "695a2fa71c508c5d5ea122e5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

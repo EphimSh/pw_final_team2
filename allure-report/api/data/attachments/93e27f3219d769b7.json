@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:15:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "529",
+    "etag": "W/\"211-Nw8zM0L8zuE+1h7F8CAoUxL0FhY\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Emie.Haag-Nikolaus80@gmail.com",
+      "name": "wdfMufXvTgPWrKkWYxAbMfFGtaNUpwxAAUwohRh",
+      "country": "USA",
+      "city": "iCkWepdOqHtaVvb",
+      "street": "n",
+      "house": 170,
+      "flat": 6,
+      "phone": "+6899428528",
+      "createdOn": "2026-01-04T09:15:07.000Z",
+      "notes": "zZ5TxUtKpnkXERC65EdzlkGBqIpeE6XtOjvytRYbiAcTG27HoXxkwPnkkyw5IWCeIkGy4x7IgKzGvNNx7H1zubmHliFuDKFVXw0KAN9zdTimFQlDdbdtdnhngYV1oTdGkoR2ROcRIEH8tPRDkgsCUfJcFmTTJPS6fE8wiHrSvWEqjQR9bmTriLw7iOzRtHx6qpeVWnQe2lx8nOvZ",
+      "_id": "695a2f9b1c508c5d5ea12191"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

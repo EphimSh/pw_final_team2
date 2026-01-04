@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-3/f+B5m0IcMUDeO6qmvqHeDHh28\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon38320",
+      "amount": 637,
+      "price": 89069,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T09:14:42.000Z",
+      "notes": "djRdCUNLB7pIVylogBR4kWTOiT6lxbTxZtcvAMEkiJQStEfXL2YAHagwnbDgIVdv0GEkn5AcXl7FFbGYTttMDyGFLJjP4Lpoc6WHaX7II4BQGKxzpV4ID3NUtRMCOWKA9R9UBCHL0RHA3R9hUpV7p1CnRmJb6U2b8I0bFx7K04UVO9siv5oIgMZseqXYqzN9DXccqcVczEvVCI5MTPmWHMJAR25R71plWIHfXT9eblT0bGOm8z0h0Z5XP3",
+      "_id": "695a2f821c508c5d5ea11d41"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

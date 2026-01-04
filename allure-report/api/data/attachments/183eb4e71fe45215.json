@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "371",
+    "etag": "W/\"173-yp2BIL00gbUiNyPVj/o9HakSQmI\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Maritza3@yahoo.com",
+      "name": "lPfjcLyfTvgDyef",
+      "country": "Germany",
+      "city": "Nvl",
+      "street": "rdlrZ1rH3Qiz9jerabA0X6DOkuuEFyKGfAtC",
+      "house": 142,
+      "flat": 6,
+      "phone": "+0032030740",
+      "createdOn": "2026-01-04T09:14:26.000Z",
+      "notes": "6Ci2r1qFLtw4yoVRKvgLz6H2GZkNTQnkmP6cP80GjHyED8n03nfbMyp3fqV",
+      "_id": "695a2f721c508c5d5ea11b56"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

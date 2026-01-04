@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:15:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "195",
+    "etag": "W/\"c3-BgRXM+SWTpABrlSZvRY4k1rBJHs\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse56522",
+      "amount": 93,
+      "price": 25313,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T09:15:48.000Z",
+      "_id": "695a2fc41c508c5d5ea126a6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

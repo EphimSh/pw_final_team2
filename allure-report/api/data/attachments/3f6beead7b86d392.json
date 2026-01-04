@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "413",
+    "etag": "W/\"19d-mJLe2J48EL67CQHA/f6YEAwy4OQ\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Eda_Goyette60@hotmail.com",
+      "name": "oLubOTlFtLdiRaGneJPKjVSEWzGSpYTEAXDian",
+      "country": "France",
+      "city": "dIO",
+      "street": "jkgc0g2J0hKMwtFLbe84zyKRH5kwAhc8taih06gz",
+      "house": 22,
+      "flat": 3,
+      "phone": "+1155697825",
+      "createdOn": "2026-01-04T09:14:59.000Z",
+      "notes": "ka0LYj4DX6bYjACACVP4teBy37CtxZd6UHLW5QrQiFd1ia6NAwUkmYugFHTnJKk6yv4OH",
+      "_id": "695a2f931c508c5d5ea1205b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

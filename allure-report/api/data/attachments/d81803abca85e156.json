@@ -1,0 +1,94 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1939",
+    "etag": "W/\"793-7Zr3dPiBUkxwGadEWNJPbrXj6xA\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Orders": [
+      {
+        "_id": "695a2f771c508c5d5ea11be4",
+        "status": "Draft",
+        "customer": {
+          "_id": "695a2f741c508c5d5ea11b9f",
+          "email": "Maryjane4@gmail.com",
+          "name": "Ivan Ivanov",
+          "country": "USA",
+          "city": "bUFGrfF",
+          "street": "j37",
+          "house": 149,
+          "flat": 5,
+          "phone": "+0321998601",
+          "createdOn": "2026-01-04T09:14:28.000Z",
+          "notes": "p8e7huX2LdSjP5HV8LPAPQSN3vj6rE7QY7gnvTtAIIBHP2R2gfItBAwzx9C03btgDntR44O2VtrjM08JcDLiBRqpkhhxEcW8q1bpUnUDZZFeBwb08bj2Cgi0jH1Pe9og22jWomg0GgxcisBfMxK69AAlosyx2fSoM4fbOG3qi6XQkbpOdpzwERiFed18sn3IdYeUYtoYycC0V7DxZ7CUFdnV"
+        },
+        "products": [
+          {
+            "_id": "695a2f771c508c5d5ea11bd4",
+            "name": "Gloves84497",
+            "amount": 533,
+            "price": 79786,
+            "manufacturer": "Xiaomi",
+            "notes": "bbpiUr4MBljaO81ikvClviTWYRTjJS4q11ELgw7ZWodJlkEn9Fkl0yLX8PP0fRah0qdpJD3kfD4no0btJpzk0Rm3NxQyLK1rPhNf6FfR5yLxgOnGaCQ0P6whDa8O27cWpvN08zOBEXc4vMJfn827fZs2qal8SBbgdKW5zz8IhzfUMwJgKDjukjthgvt97mRldma4Kc0Wa5IaFjP099ygq2qdMJrrA2Gsv54DkZdwmoJ4sJVd8umgIDPKm3",
+            "received": false
+          }
+        ],
+        "delivery": null,
+        "total_price": 79786,
+        "createdOn": "2026-01-04T09:14:31.000Z",
+        "comments": [],
+        "history": [
+          {
+            "status": "Draft",
+            "customer": "695a2f741c508c5d5ea11b9f",
+            "products": [
+              {
+                "_id": "695a2f771c508c5d5ea11bd4",
+                "name": "Gloves84497",
+                "amount": 533,
+                "price": 79786,
+                "manufacturer": "Xiaomi",
+                "notes": "bbpiUr4MBljaO81ikvClviTWYRTjJS4q11ELgw7ZWodJlkEn9Fkl0yLX8PP0fRah0qdpJD3kfD4no0btJpzk0Rm3NxQyLK1rPhNf6FfR5yLxgOnGaCQ0P6whDa8O27cWpvN08zOBEXc4vMJfn827fZs2qal8SBbgdKW5zz8IhzfUMwJgKDjukjthgvt97mRldma4Kc0Wa5IaFjP099ygq2qdMJrrA2Gsv54DkZdwmoJ4sJVd8umgIDPKm3",
+                "received": false
+              }
+            ],
+            "total_price": 79786,
+            "delivery": null,
+            "changedOn": "2026-01-04T09:14:31.000Z",
+            "action": "Order created",
+            "performer": {
+              "_id": "6936ffc71c508c5d5e9a3764",
+              "username": "student21@gmail.com",
+              "firstName": "Jillian",
+              "lastName": "Lynch",
+              "roles": [
+                "USER"
+              ],
+              "createdOn": "2025/12/08 16:41:43"
+            },
+            "assignedManager": null
+          }
+        ],
+        "assignedManager": null
+      }
+    ],
+    "total": 1,
+    "page": 1,
+    "limit": 10,
+    "search": "Ivan",
+    "status": [],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "asc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-vsNn4bUEn/JGALJpmFI4a5UYre8\"",
+    "keep-alive": "timeout=5, max=68",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes64175",
+      "amount": 852,
+      "price": 52811,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T09:14:43.000Z",
+      "notes": "Dz4xIdK6XcKN068tJIdOl2DznyY4oq07oY7weiJedKxor1A5PnbQKcK8m69LHfCnYRgSRpcQiTLoS8ykxlycitevLGEdkSsjCRH3ADQPmVCRlUO4Yld6QvmUiC0nSdm2TpsqZUuMQDC8D66tSumyIWSK2VMSGjDju1HxSReSHxVedBJmedX8uoaDFc48UobRz4VvdNpbCl3LWHeUcY4HGqrr0RA2X8nj5a7P71KTTYbNajBhlHy9a6fJyX",
+      "_id": "695a2f831c508c5d5ea11d8e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

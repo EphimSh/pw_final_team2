@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "374",
+    "etag": "W/\"176-pxi8C5U3M37BPqVhKQ7NjyDYL0A\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jordan_Gutmann60@gmail.com",
+      "name": "QmJDZlOYueyHiMAMSQXTilsJFYFzU",
+      "country": "USA",
+      "city": "RvRJA",
+      "street": "HM9b7VOsRVKczyYXdRD40wnjyBQZ",
+      "house": 38,
+      "flat": 3,
+      "phone": "+6777427130",
+      "createdOn": "2026-01-04T09:14:21.000Z",
+      "notes": "pNGkW3Gige7drrVKg7gmfz2kFVQ5HyozYZE5euqDwGDVxKZXPJB",
+      "_id": "695a2f6d1c508c5d5ea11aa0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

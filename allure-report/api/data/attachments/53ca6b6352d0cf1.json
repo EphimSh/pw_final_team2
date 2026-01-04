@@ -1,0 +1,131 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2988",
+    "etag": "W/\"bac-biukhk6a/YP9zQssBdbI/JOev/w\"",
+    "keep-alive": "timeout=5, max=62",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a2f7a1c508c5d5ea11c18",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a2f771c508c5d5ea11bf6",
+        "email": "Verdie.Grant@gmail.com",
+        "name": "MQsLsTcAxiNxZUZAuIBNWpcSvuvqtwQXmSAlx",
+        "country": "Ukraine",
+        "city": "HfSGsvE",
+        "street": "TFvQEzrQ7yOyeUh7LXeRPo0joN1h83Zl",
+        "house": 121,
+        "flat": 4,
+        "phone": "+3120341811",
+        "createdOn": "2026-01-04T09:14:31.000Z",
+        "notes": "fMcY3sN719rmNRG2FfIEYdtCtSoDUqGLbXCAnaxDmIVNhmbGvXLfJ4YtEwkaroZypcZ5gh3C8wHoeo1h69ERlt9mnBKnQ5lYmuJYPDxfTbhNreZ8FHnXa9fa93vofedV9Q3vm28KSCiCbmI5qwHYmXBrq2Bb3CZFy9bmJ4xBSwQ2rEQWIpwN3TC45Yhwvd6vwiK3XwkR1NZ7OK0cOVLjLQmiz"
+      },
+      "products": [
+        {
+          "_id": "695a2f7a1c508c5d5ea11c10",
+          "name": "Towels48049",
+          "amount": 479,
+          "price": 54124,
+          "manufacturer": "Google",
+          "notes": "F4yBSURZORQx2xFZrHqlLkEodeH1FSU4jW9d93lHvmXKXrzeHVh7tkZYV7AlUXzGy42mgHn8et7MsODzDiclNnG7e4s8qVJng2vcAERVTMrVi2MCBHjuavdnN6VeJhI3NPTSqScA3Ac2a3P0fqI04iLsz76YclHnHyzJiFOCCvn9MG6KL49Mlb1JH8bpJLK5wb4OYu6fjq3gG2y0Qxt0Aoq6PN6hhOoKAsizjH5CTcAzJ0Z2Sc8QN69ho4",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 54124,
+      "createdOn": "2026-01-04T09:14:34.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a2f771c508c5d5ea11bf6",
+          "products": [
+            {
+              "_id": "695a2f7a1c508c5d5ea11c10",
+              "name": "Towels48049",
+              "amount": 479,
+              "price": 54124,
+              "manufacturer": "Google",
+              "notes": "F4yBSURZORQx2xFZrHqlLkEodeH1FSU4jW9d93lHvmXKXrzeHVh7tkZYV7AlUXzGy42mgHn8et7MsODzDiclNnG7e4s8qVJng2vcAERVTMrVi2MCBHjuavdnN6VeJhI3NPTSqScA3Ac2a3P0fqI04iLsz76YclHnHyzJiFOCCvn9MG6KL49Mlb1JH8bpJLK5wb4OYu6fjq3gG2y0Qxt0Aoq6PN6hhOoKAsizjH5CTcAzJ0Z2Sc8QN69ho4",
+              "received": false
+            }
+          ],
+          "total_price": 54124,
+          "delivery": null,
+          "changedOn": "2026-01-04T09:14:34.000Z",
+          "action": "Manager Assigned",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": {
+            "_id": "695a2f741c508c5d5ea11b98",
+            "username": "testmanager_LdMcaoCZ",
+            "firstName": "ManagerLdMcaoCZ",
+            "lastName": "ManagerLdMcaoCZ",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2026/01/04 09:14:28"
+          }
+        },
+        {
+          "status": "Draft",
+          "customer": "695a2f771c508c5d5ea11bf6",
+          "products": [
+            {
+              "_id": "695a2f7a1c508c5d5ea11c10",
+              "name": "Towels48049",
+              "amount": 479,
+              "price": 54124,
+              "manufacturer": "Google",
+              "notes": "F4yBSURZORQx2xFZrHqlLkEodeH1FSU4jW9d93lHvmXKXrzeHVh7tkZYV7AlUXzGy42mgHn8et7MsODzDiclNnG7e4s8qVJng2vcAERVTMrVi2MCBHjuavdnN6VeJhI3NPTSqScA3Ac2a3P0fqI04iLsz76YclHnHyzJiFOCCvn9MG6KL49Mlb1JH8bpJLK5wb4OYu6fjq3gG2y0Qxt0Aoq6PN6hhOoKAsizjH5CTcAzJ0Z2Sc8QN69ho4",
+              "received": false
+            }
+          ],
+          "total_price": 54124,
+          "delivery": null,
+          "changedOn": "2026-01-04T09:14:34.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": {
+        "_id": "695a2f741c508c5d5ea11b98",
+        "username": "testmanager_LdMcaoCZ",
+        "firstName": "ManagerLdMcaoCZ",
+        "lastName": "ManagerLdMcaoCZ",
+        "roles": [
+          "USER"
+        ],
+        "createdOn": "2026/01/04 09:14:28"
+      }
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

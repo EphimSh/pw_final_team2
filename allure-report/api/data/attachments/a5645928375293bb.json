@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:13:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "307",
+    "etag": "W/\"133-yf5owVm6yOaY3CX13ruizsGwrYg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Yesenia.Ankunding@hotmail.com",
+      "name": "myXHU",
+      "country": "France",
+      "city": "YolvzxOyszhCRXYfaSo",
+      "street": "oh2X9jAH7trjGgW",
+      "house": 198,
+      "flat": 7,
+      "phone": "+6647931770",
+      "createdOn": "2026-01-04T09:13:28.000Z",
+      "notes": "",
+      "_id": "695a2f381c508c5d5ea113f7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

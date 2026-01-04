@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:15:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-pVNsDPMF/y7hUlkPAmJUvp9Hv+g\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy A5517623",
+      "amount": 203,
+      "price": 800,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T09:15:58.000Z",
+      "notes": "kn0YRayM6VXHR71wHICUylfKGJ56EDYaU5SbS7q5nVW7tgzzxB96f5eklSvlJALOnRFpB8ELc87twsE21xQWWCIZi6jMOrBXQOPJQvUM80ro6oemgKgCWhcFBo2xvJJwbtCLsxRux3ywiGCAlrUe8XxpszsaEZXb5HsNBww5KL4w62dYqZ0suwk1J5T72rlcoE41AqVtA0cxW0FwbPK3vZwEi8KKmZijeLVL1h44IzIzRMxTqIlT8i18Vf",
+      "_id": "695a2fce1c508c5d5ea1275f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:14:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3810",
+    "etag": "W/\"ee2-iZQLqwz7SCauIwVVJjqIhIuV/vs\"",
+    "keep-alive": "timeout=5, max=45",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a2f8d1c508c5d5ea11f23",
+      "status": "In Process",
+      "customer": {
+        "_id": "695a2f8a1c508c5d5ea11eda",
+        "email": "Angelica.Hammes55@yahoo.com",
+        "name": "Ivan Ivanov",
+        "country": "Canada",
+        "city": "FkZnaaWg",
+        "street": "3LRocL84sN824hPwP6A9R1nD",
+        "house": 144,
+        "flat": 6,
+        "phone": "+1582766746",
+        "createdOn": "2026-01-04T09:14:50.000Z",
+        "notes": "aMsHlukwnkpeQpTbRE1n06XIXNqqQVldQEmyR4UnmnWM1SZhw2T6z4usHJAsBhIEIso6CqqKSg38nWNIKuRRxGUV3bSUkTFR294bjqPCJh9no7JMb9t0Brx1uzo2cxVpQzuoB"
+      },
+      "products": [
+        {
+          "_id": "695a2f8c1c508c5d5ea11f10",
+          "name": "Towels9222",
+          "amount": 938,
+          "price": 90079,
+          "manufacturer": "Samsung",
+          "notes": "cpwxov3VlLF0qOEbHG1q6P2g9cb0nEhdDkHYsJc8XdRagKs8j8sowrLKmqovZRJ4n9GgTLqnLH3GYoUKjDx61YigzZWTOZouW1rKKRD5LCRvAIJCfHYb3ujc0pAQWtBi8ele4Zt9fc5zCs7M6IHky6XYURAPj737N5Y0U855J8HIgZJl7x55lu6aSjNSZ1IMDRBjdfz5IjlRCS8QPgIxqCboQbsHQt9WaiXDn3Y2Vpbf4D0p8VEjh5wZdF",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Ukraine",
+          "city": "Mock City VlL",
+          "street": "MockStreetSopldW1tONrbl2",
+          "house": 118,
+          "flat": 19
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 90079,
+      "createdOn": "2026-01-04T09:14:53.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "In Process",
+          "customer": "695a2f8a1c508c5d5ea11eda",
+          "products": [
+            {
+              "_id": "695a2f8c1c508c5d5ea11f10",
+              "name": "Towels9222",
+              "amount": 938,
+              "price": 90079,
+              "manufacturer": "Samsung",
+              "notes": "cpwxov3VlLF0qOEbHG1q6P2g9cb0nEhdDkHYsJc8XdRagKs8j8sowrLKmqovZRJ4n9GgTLqnLH3GYoUKjDx61YigzZWTOZouW1rKKRD5LCRvAIJCfHYb3ujc0pAQWtBi8ele4Zt9fc5zCs7M6IHky6XYURAPj737N5Y0U855J8HIgZJl7x55lu6aSjNSZ1IMDRBjdfz5IjlRCS8QPgIxqCboQbsHQt9WaiXDn3Y2Vpbf4D0p8VEjh5wZdF",
+              "received": false
+            }
+          ],
+          "total_price": 90079,
+          "delivery": {
+            "address": {
+              "country": "Ukraine",
+              "city": "Mock City VlL",
+              "street": "MockStreetSopldW1tONrbl2",
+              "house": 118,
+              "flat": 19
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-04T09:14:57.000Z",
+          "action": "Order processing started",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a2f8a1c508c5d5ea11eda",
+          "products": [
+            {
+              "_id": "695a2f8c1c508c5d5ea11f10",
+              "name": "Towels9222",
+              "amount": 938,
+              "price": 90079,
+              "manufacturer": "Samsung",
+              "notes": "cpwxov3VlLF0qOEbHG1q6P2g9cb0nEhdDkHYsJc8XdRagKs8j8sowrLKmqovZRJ4n9GgTLqnLH3GYoUKjDx61YigzZWTOZouW1rKKRD5LCRvAIJCfHYb3ujc0pAQWtBi8ele4Zt9fc5zCs7M6IHky6XYURAPj737N5Y0U855J8HIgZJl7x55lu6aSjNSZ1IMDRBjdfz5IjlRCS8QPgIxqCboQbsHQt9WaiXDn3Y2Vpbf4D0p8VEjh5wZdF",
+              "received": false
+            }
+          ],
+          "total_price": 90079,
+          "delivery": {
+            "address": {
+              "country": "Ukraine",
+              "city": "Mock City VlL",
+              "street": "MockStreetSopldW1tONrbl2",
+              "house": 118,
+              "flat": 19
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-04T09:14:57.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a2f8a1c508c5d5ea11eda",
+          "products": [
+            {
+              "_id": "695a2f8c1c508c5d5ea11f10",
+              "name": "Towels9222",
+              "amount": 938,
+              "price": 90079,
+              "manufacturer": "Samsung",
+              "notes": "cpwxov3VlLF0qOEbHG1q6P2g9cb0nEhdDkHYsJc8XdRagKs8j8sowrLKmqovZRJ4n9GgTLqnLH3GYoUKjDx61YigzZWTOZouW1rKKRD5LCRvAIJCfHYb3ujc0pAQWtBi8ele4Zt9fc5zCs7M6IHky6XYURAPj737N5Y0U855J8HIgZJl7x55lu6aSjNSZ1IMDRBjdfz5IjlRCS8QPgIxqCboQbsHQt9WaiXDn3Y2Vpbf4D0p8VEjh5wZdF",
+              "received": false
+            }
+          ],
+          "total_price": 90079,
+          "delivery": null,
+          "changedOn": "2026-01-04T09:14:53.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

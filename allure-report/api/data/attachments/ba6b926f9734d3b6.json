@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:13:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "447",
+    "etag": "W/\"1bf-cUJnCTldOEnPyN9Hihdc661aW/Y\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Sarah.Ullrich2@hotmail.com",
+      "name": "sYZ",
+      "country": "Belarus",
+      "city": "LGKC",
+      "street": "J4ySnvfiIpqvHExBlf2y6voJy03w6a1DARAIQpjm",
+      "house": 180,
+      "flat": 7,
+      "phone": "+4875970651",
+      "createdOn": "2026-01-04T09:13:36.000Z",
+      "notes": "97gtbhawyH6Y4Rq9JUZP6DmzdeDo0GhjgGO1S350hSiLb8B8UNf9pVDikmeSOIGu1xo4YsXqCPwBGMHjqrfK4HbADstATygH1O7vUtRuldIj8binRE3N7SnBb8ocsCSCvPCdps",
+      "_id": "695a2f401c508c5d5ea1147b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
