@@ -31,6 +31,8 @@ export interface ICustomersResponse extends IResponseFields {
 
 export interface ICustomerInTable extends ICustomerFromTable, ICreatedOn {}
 
+export interface ICustomerOnOrderPage extends ICustomer, ICreatedOn {}
+
 export type CustomersTableHeader = "Email" | "Name" | "Country" | "Created On";
 
 export type CustomersSortField = "email" | "name" | "country" | "createdOn";

@@ -1,5 +1,7 @@
+import { ICustomerOnOrderPage } from "data/types/customers.types";
 import { SalesPortalPage } from "../salesPortal.page";
 import { logStep } from "utils/report/logStep.utils";
+import { COUNTRIES } from "data/types/countries";
 
 export class OrderPage extends SalesPortalPage {
   readonly title = this.page.locator("#order-details-header h2.fw-bold");
@@ -16,6 +18,8 @@ export class OrderPage extends SalesPortalPage {
   readonly commentContainer = this.page.locator(".mx-3");
   readonly comment = this.commentContainer.locator("p");
   readonly removeCommentButton = this.commentContainer.locator('[name="delete-comment"]');
+  readonly refreshOrderButton = this.page.locator("#refresh-order");
+  readonly customerValue = this.page.locator("#customer-section .p-3 .s-span:nth-child(2)");
 
   readonly uniqueElement = this.title;
 
@@ -52,5 +56,29 @@ export class OrderPage extends SalesPortalPage {
   @logStep("Click Remove Comment button from Order Details page")
   async clickRemoveCommentButton() {
     await this.removeCommentButton.click();
+  }
+
+  @logStep("Click Refresh Order button on Order Details page")
+  async clickRefreshOrderButton() {
+    await this.refreshOrderButton.click();
+  }
+
+  @logStep("Get Customer data from Order Details page")
+  async getCustomerData(): Promise<ICustomerOnOrderPage> {
+    const [email, name, country, city, street, house, flat, phone, createdOn, notes] =
+      await this.customerValue.allInnerTexts();
+
+    return {
+      email: email!,
+      name: name!,
+      country: country! as COUNTRIES,
+      city: city!,
+      street: street!,
+      house: +house!,
+      flat: +flat!,
+      phone: phone!,
+      createdOn: createdOn!,
+      notes: notes === "-" ? "" : notes!,
+    };
   }
 }
