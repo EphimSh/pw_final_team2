@@ -14,7 +14,7 @@ interface IGetCustomerById extends ICase {
 
 export const getCustomerByIdData_positiveCases: IGetCustomerById[] = [
   {
-    title: "SC-041: Успешное получение клиента по валидному ID",
+    title: "SC-041: Successful customer retrieval by valid ID",
     customerData: generateCustomerData(),
     expectedStatus: STATUS_CODES.OK,
     expectedSchema: getCustomerSchema,
@@ -24,13 +24,13 @@ export const getCustomerByIdData_positiveCases: IGetCustomerById[] = [
 
 export const getCustomerByIdData_negativeCases: IGetCustomerById[] = [
   {
-    title: 'SC-042: Невалидный формат ID клиента ("123")',
+    title: 'SC-042: Invalid customer ID format ("123")',
     id: "123",
     expectedStatus: STATUS_CODES.SERVER_ERROR,
     expectedIsSuccess: false,
   },
   {
-    title: "SC-043: Получение клиента по несуществующему ID (валидный формат)",
+    title: "SC-043: Get customer by non-existent ID (valid format)",
     id: "0123456789abcdef01234567",
     expectedStatus: STATUS_CODES.NOT_FOUND,
     expectedSchema: errorSchema,

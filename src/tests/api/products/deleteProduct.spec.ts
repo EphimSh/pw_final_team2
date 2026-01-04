@@ -14,7 +14,7 @@ test.describe("[API] [Sales Portal] [Products] [Delete]", () => {
   });
 
   test(
-    "SC-023: Успешное удаление товара",
+    "SC-023: Successful product deletion",
     { tag: [TEST_TAG.REGRESSION, TEST_TAG.SMOKE, TEST_TAG.API, TEST_TAG.POSITIVE, COMPONENT_TAG.PRODUCTS] },
     async ({ productsApiService, productsApi }) => {
       const createdProduct = await productsApiService.create(token);
@@ -35,7 +35,7 @@ test.describe("[API] [Sales Portal] [Products] [Delete]", () => {
   );
 
   test(
-    "SC-024: Повторное удаление того же товара",
+    "SC-024: Delete the same product again",
     { tag: [TEST_TAG.REGRESSION, TEST_TAG.API, TEST_TAG.NEGATIVE, COMPONENT_TAG.PRODUCTS] },
     async ({ productsApi }) => {
       const response = await productsApi.delete(id, token);
@@ -43,9 +43,9 @@ test.describe("[API] [Sales Portal] [Products] [Delete]", () => {
     },
   );
 
-  // TODO: Сделать проверку после написания orders, т к надо вызвать их апишку и добавить этот продукт в заказ
+  // TODO: Add check after implementing orders, need to call their API and add this product to an order
 
-  // test("SC-025: Удаление товара с привязанными заказами", async ({ loginApiService, productsApiService, productsApi }) => {
+  // test("SC-025: Delete product with associated orders", async ({ loginApiService, productsApiService, productsApi }) => {
   //     const token = await loginApiService.loginAsAdmin();
   //     const createdProduct = await productsApiService.create(token);
   //     const id = createdProduct._id;
@@ -54,7 +54,7 @@ test.describe("[API] [Sales Portal] [Products] [Delete]", () => {
   // });
 
   test(
-    "SC-026: Удаление с невалидным ID",
+    "SC-026: Delete with invalid ID",
     { tag: [TEST_TAG.REGRESSION, TEST_TAG.API, TEST_TAG.NEGATIVE, COMPONENT_TAG.PRODUCTS] },
     async ({ productsApi }) => {
       id = new ObjectId().toHexString();

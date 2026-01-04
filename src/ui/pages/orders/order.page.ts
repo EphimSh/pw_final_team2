@@ -5,8 +5,6 @@ import { ICustomerFromResponse } from "data/types/customers.types";
 import { DELIVERY_CONDITIONS, IDeliveryAddress, IDeliveryInfo } from "data/types/orders.types";
 import _ from "lodash";
 import { ICustomerOnOrderPage } from "data/types/customers.types";
-import { SalesPortalPage } from "../salesPortal.page";
-import { logStep } from "utils/report/logStep.utils";
 import { requestedProductsSection } from "./requestedProducts.section";
 import { editProductsModal } from "./editProducts.modal";
 import { COUNTRIES } from "data/types/countries";

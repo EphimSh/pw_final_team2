@@ -15,7 +15,7 @@ test.describe("[API] [Sales Portal] [Customer Create]", () => {
     token = await loginApiService.loginAsAdmin();
   });
 
-  test.describe("Создание клиента с валидным телом запроса", () => {
+  test.describe("Create customer with valid request body", () => {
     for (const caseData of createCustomerData_positiveCases) {
       test(
         `${caseData.title}`,
@@ -34,7 +34,7 @@ test.describe("[API] [Sales Portal] [Customer Create]", () => {
     }
   });
 
-  test.describe("Создание клиента с невалидным телом запроса", () => {
+  test.describe("Create customer with invalid request body", () => {
     for (const caseData of createCustomerData_negativeCases) {
       test(
         `${caseData.title}`,
@@ -52,7 +52,7 @@ test.describe("[API] [Sales Portal] [Customer Create]", () => {
     }
   });
 
-  test.describe("Создание клиента с дублирующимся email", () => {
+  test.describe("Create customer with duplicate email", () => {
     for (const caseData of createCustomerData_duplicateCases) {
       test(
         `${caseData.title}`,
