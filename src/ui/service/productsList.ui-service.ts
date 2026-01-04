@@ -42,6 +42,7 @@ export class ProductsListUIService {
     await this.productsListPage.deleteModal.waitForClosed();
   }
 
+  @logStep("Search Product on Products List Page")
   async search(text: string) {
     await test.step(`Search for "${text}" on Products List page`, async () => {
       await this.productsListPage.fillSearchInput(text);

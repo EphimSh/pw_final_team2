@@ -24,7 +24,7 @@ test.describe("[API] [Sales Portal] [Products] [Create]", () => {
     id = "";
   });
 
-  test("SC-001: Успешное создание товара со всеми полями", async ({ productsApi }) => {
+  test("SC-001: Successful product creation with all fields", async ({ productsApi }) => {
     const createdProduct = await productsApi.create(productData, token);
     validateResponse(createdProduct, {
       status: STATUS_CODES.CREATED,
@@ -39,7 +39,7 @@ test.describe("[API] [Sales Portal] [Products] [Create]", () => {
   });
 
   test(
-    "SC-002: Создание товара без опционального поля notes",
+    "SC-002: Create product without optional field notes",
     { tag: [TEST_TAG.REGRESSION, TEST_TAG.API, TEST_TAG.POSITIVE, COMPONENT_TAG.PRODUCTS] },
     async ({ productsApi }) => {
       if (productData.notes) delete productData.notes;
@@ -58,7 +58,7 @@ test.describe("[API] [Sales Portal] [Products] [Create]", () => {
   );
 
   test(
-    "SC-003: Отсутствует обязательное поле name",
+    "SC-003: Missing required field name",
     { tag: [TEST_TAG.REGRESSION, TEST_TAG.API, TEST_TAG.NEGATIVE, COMPONENT_TAG.PRODUCTS] },
     async ({ productsApi }) => {
       productData.name = undefined!;
@@ -73,7 +73,7 @@ test.describe("[API] [Sales Portal] [Products] [Create]", () => {
   );
 
   test(
-    "SC-004: Невалидный manufacturer (не из списка enum)",
+    "SC-004: Invalid manufacturer (not from enum list)",
     { tag: [TEST_TAG.REGRESSION, TEST_TAG.API, TEST_TAG.NEGATIVE, COMPONENT_TAG.PRODUCTS] },
     async ({ productsApi }) => {
       productData.manufacturer = "Huawei";
@@ -88,7 +88,7 @@ test.describe("[API] [Sales Portal] [Products] [Create]", () => {
   );
 
   test(
-    "SC-005: Отрицательные числа в amount и price",
+    "SC-005: Negative numbers in amount and price",
     { tag: [TEST_TAG.REGRESSION, TEST_TAG.API, TEST_TAG.NEGATIVE, COMPONENT_TAG.PRODUCTS] },
     async ({ productsApi }) => {
       productData.price = -10;
@@ -104,7 +104,7 @@ test.describe("[API] [Sales Portal] [Products] [Create]", () => {
   );
 
   test(
-    "SC-006: Неправильный Content-Type",
+    "SC-006: Incorrect Content-Type",
     { tag: [TEST_TAG.REGRESSION, TEST_TAG.API, TEST_TAG.NEGATIVE, COMPONENT_TAG.PRODUCTS] },
     async ({ productsApi }) => {
       const createdProduct = await productsApi.create(productData, token, { contentType: "text/plain" });

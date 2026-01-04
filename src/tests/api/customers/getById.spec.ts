@@ -7,7 +7,7 @@ test.describe("[API] [Sales Portal] [Get customer]", () => {
   let token = "";
   let id = "";
 
-  test.describe("Получение клиента с валидным ID", () => {
+  test.describe("Get customer with valid ID", () => {
     test.beforeEach(async ({ loginApiService }) => {
       token = await loginApiService.loginAsAdmin();
     });
@@ -35,7 +35,7 @@ test.describe("[API] [Sales Portal] [Get customer]", () => {
     });
   });
 
-  test.describe("Получение клиента с невалидным ID", () => {
+  test.describe("Get customer with invalid ID", () => {
     test.beforeEach(async ({ loginApiService }) => {
       token = await loginApiService.loginAsAdmin();
     });

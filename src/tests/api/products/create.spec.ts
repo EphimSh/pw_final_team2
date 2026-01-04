@@ -22,7 +22,7 @@ test.describe("[API] [Sales Portal] [Products]", () => {
   });
 
   test(
-    "SC-001: Успешное создание товара со всеми полями",
+    "SC-001: Successful product creation with all fields",
     { tag: [TEST_TAG.REGRESSION, TEST_TAG.SMOKE, TEST_TAG.API, TEST_TAG.POSITIVE, COMPONENT_TAG.PRODUCTS] },
     async ({ productsApi }) => {
       const productData = generateProductData();
@@ -42,7 +42,7 @@ test.describe("[API] [Sales Portal] [Products]", () => {
   );
 
   test(
-    "SC-003: Ошибка валидации name (name не строка)",
+    "SC-003: Name validation error (name is not a string)",
     { tag: [TEST_TAG.REGRESSION, TEST_TAG.API, TEST_TAG.NEGATIVE, COMPONENT_TAG.PRODUCTS] },
     async ({ productsApi }) => {
       const productData = generateProductData();
@@ -55,7 +55,7 @@ test.describe("[API] [Sales Portal] [Products]", () => {
     },
   );
 
-  test.describe("[Создание продуктов с валидным телом запроса]", () => {
+  test.describe("Create products with valid request body", () => {
     for (const caseData of createProductPositiveCases) {
       test(
         `${caseData.title}`,
@@ -78,7 +78,7 @@ test.describe("[API] [Sales Portal] [Products]", () => {
     }
   });
 
-  test.describe("[Невозможно создать продукт с невалидным телом запроса]", () => {
+  test.describe("Cannot create product with invalid request body", () => {
     for (const caseData of createProductNegativeCases) {
       test(
         `${caseData.title}`,

@@ -15,14 +15,14 @@ interface ICreateCustomerCase extends ICase {
 
 export const createCustomerData_positiveCases: ICreateCustomerCase[] = [
   {
-    title: "SC-027: Успешное создание клиента",
+    title: "SC-027: Successful customer creation",
     customerData: generateCustomerData(),
     expectedStatus: STATUS_CODES.CREATED,
     expectedSchema: createCustomerSchema,
     expectedIsSuccess: true,
   },
   {
-    title: "SC-028: Создание клиента без опционального поля notes",
+    title: "SC-028: Create customer without optional field notes",
     customerData: generateCustomerData({ notes: "" }),
     expectedStatus: STATUS_CODES.CREATED,
     expectedSchema: createCustomerSchema,
@@ -32,7 +32,7 @@ export const createCustomerData_positiveCases: ICreateCustomerCase[] = [
 
 export const createCustomerData_negativeCases: ICreateCustomerCase[] = [
   {
-    title: "SC-029: Невалидный email формат",
+    title: "SC-029: Invalid email format",
     customerData: generateCustomerData({ email: "invalid-email" }),
     expectedStatus: STATUS_CODES.BAD_REQUEST,
     expectedErrorMessage: ERROR_MESSAGES.BAD_REQUEST,
@@ -40,7 +40,7 @@ export const createCustomerData_negativeCases: ICreateCustomerCase[] = [
     expectedIsSuccess: false,
   },
   {
-    title: "SC-030: Невалидная страна (не из списка enum)",
+    title: "SC-030: Invalid country (not from enum list)",
     customerData: generateCustomerData({ country: "China" as unknown as COUNTRIES }),
     expectedStatus: STATUS_CODES.BAD_REQUEST,
     expectedErrorMessage: ERROR_MESSAGES.BAD_REQUEST,
@@ -48,7 +48,7 @@ export const createCustomerData_negativeCases: ICreateCustomerCase[] = [
     expectedIsSuccess: false,
   },
   {
-    title: "SC-032: Отсутствие обязательных полей (phone)",
+    title: "SC-032: Missing required fields (phone)",
     customerData: generateCustomerData({ phone: "" }),
     expectedStatus: STATUS_CODES.BAD_REQUEST,
     expectedErrorMessage: ERROR_MESSAGES.BAD_REQUEST,
@@ -59,7 +59,7 @@ export const createCustomerData_negativeCases: ICreateCustomerCase[] = [
 
 export const createCustomerData_duplicateCases: ICreateCustomerCase[] = [
   {
-    title: "SC-031: Дубликат email",
+    title: "SC-031: Duplicate email",
     customerData: generateCustomerData({ email: faker.internet.email() }),
     expectedStatus: STATUS_CODES.CONFLICT,
     expectedSchema: errorSchema,

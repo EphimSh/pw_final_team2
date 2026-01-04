@@ -24,7 +24,7 @@ test.describe("[API] [Sales Portal] [Products] [Update]", () => {
   });
 
   test(
-    "SC-018: Полное обновление товара",
+    "SC-018: Full product update",
     { tag: [TEST_TAG.REGRESSION, TEST_TAG.SMOKE, TEST_TAG.API, TEST_TAG.POSITIVE, COMPONENT_TAG.PRODUCTS] },
     async ({ productsApi }) => {
       const updatedProductResponse = await productsApi.update(id, updatedProductData, token);
@@ -43,7 +43,7 @@ test.describe("[API] [Sales Portal] [Products] [Update]", () => {
   );
 
   test(
-    "SC-019: Частичное обновление (только цена)",
+    "SC-019: Partial update (price only)",
     { tag: [TEST_TAG.REGRESSION, TEST_TAG.POSITIVE, TEST_TAG.API, COMPONENT_TAG.PRODUCTS] },
     async ({ productsApi }) => {
       const updateDataWithEditPrice = updatedProductData;
@@ -64,7 +64,7 @@ test.describe("[API] [Sales Portal] [Products] [Update]", () => {
   );
 
   test(
-    "SC-020: Обновление несуществующего товара",
+    "SC-020: Update non-existent product",
     { tag: [TEST_TAG.REGRESSION, TEST_TAG.API, TEST_TAG.NEGATIVE, COMPONENT_TAG.PRODUCTS] },
     async ({ productsApi }) => {
       const invalidId = new ObjectId().toHexString();
@@ -80,7 +80,7 @@ test.describe("[API] [Sales Portal] [Products] [Update]", () => {
   );
 
   test(
-    "SC-021: Обновление с невалидным name",
+    "SC-021: Update with invalid name",
     { tag: [TEST_TAG.REGRESSION, TEST_TAG.API, TEST_TAG.NEGATIVE, COMPONENT_TAG.PRODUCTS] },
     async ({ productsApi }) => {
       const updateDataWithInvalidName = updatedProductData;
@@ -97,7 +97,7 @@ test.describe("[API] [Sales Portal] [Products] [Update]", () => {
   );
 
   test(
-    "SC-022: Обновление с отрицательным amount",
+    "SC-022: Update with negative amount",
     { tag: [TEST_TAG.REGRESSION, TEST_TAG.API, TEST_TAG.NEGATIVE, COMPONENT_TAG.PRODUCTS] },
     async ({ productsApi }) => {
       const updateDataWithInvalidAmount = updatedProductData;

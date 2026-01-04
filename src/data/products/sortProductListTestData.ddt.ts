@@ -21,7 +21,7 @@ export interface ISortProductsTestCase extends ICase {
 
 export const sortProductListTestCases: ISortProductsTestCase[] = [
   {
-    title: "SC-012: Сортировка по createdOn (asc)",
+    title: "SC-012: Sort by createdOn (asc)",
     sortField: "createdOn",
     sortOrder: "asc",
     compareFn: compareByCreatedOnAsc,
@@ -32,7 +32,7 @@ export const sortProductListTestCases: ISortProductsTestCase[] = [
     expectedLimit: 10,
   },
   {
-    title: "SC-012: Сортировка по createdOn (desc)",
+    title: "SC-012: Sort by createdOn (desc)",
     sortField: "createdOn",
     sortOrder: "desc",
     compareFn: compareByCreatedOnDesc,
@@ -43,7 +43,7 @@ export const sortProductListTestCases: ISortProductsTestCase[] = [
     expectedLimit: 100,
   },
   {
-    title: "SC-011: Сортировка по manufacturer (desc)",
+    title: "SC-011: Sort by manufacturer (desc)",
     sortField: "manufacturer",
     sortOrder: "desc",
     compareFn: compareByManufacturerDesc,

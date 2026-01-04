@@ -20,7 +20,7 @@ const generalCustomerData = generateCustomerData();
 
 export const updateCustomer_positiveCases: IUpdateCustomerCase[] = [
   {
-    title: "SC-044: Полное обновление клиента",
+    title: "SC-044: Full customer update",
     customerData: generalCustomerData!,
     updatedCustomerData: generateCustomerData(),
     expectedStatus: STATUS_CODES.OK,
@@ -28,7 +28,7 @@ export const updateCustomer_positiveCases: IUpdateCustomerCase[] = [
     expectedIsSuccess: true,
   },
   {
-    title: "SC-045: Обновление одного поля (email)",
+    title: "SC-045: Update single field (email)",
     customerData: generalCustomerData,
     updatedCustomerData: { ...generalCustomerData, email: generateCustomerData().email },
     expectedStatus: STATUS_CODES.OK,
@@ -36,7 +36,7 @@ export const updateCustomer_positiveCases: IUpdateCustomerCase[] = [
     expectedIsSuccess: true,
   },
   {
-    title: "SC-046: Обновление нескольких полей (name, phone)",
+    title: "SC-046: Update multiple fields (name, phone)",
     customerData: generalCustomerData,
     updatedCustomerData: {
       ...generalCustomerData,
@@ -51,7 +51,7 @@ export const updateCustomer_positiveCases: IUpdateCustomerCase[] = [
 
 export const updateCustomer_negativeCases: IUpdateCustomerCase[] = [
   {
-    title: 'SC-047: Обновление с невалидным email ("invalid")',
+    title: 'SC-047: Update with invalid email ("invalid")',
     customerData: generalCustomerData,
     updatedCustomerData: { ...generalCustomerData, email: "invalid" },
     expectedStatus: STATUS_CODES.SERVER_ERROR,
@@ -60,7 +60,7 @@ export const updateCustomer_negativeCases: IUpdateCustomerCase[] = [
     expectedIsSuccess: false,
   },
   {
-    title: "SC-050: Обновление с невалидным значением country",
+    title: "SC-050: Update with invalid country value",
     customerData: generalCustomerData,
     updatedCustomerData: { ...generalCustomerData, country: "China" as unknown as COUNTRIES },
     expectedStatus: STATUS_CODES.BAD_REQUEST,
@@ -72,7 +72,7 @@ export const updateCustomer_negativeCases: IUpdateCustomerCase[] = [
 
 export const updateCustomer_notFoundCases: IUpdateCustomerCase[] = [
   {
-    title: "SC-048: Обновление несуществующего клиента",
+    title: "SC-048: Update non-existent customer",
     id: "0123456789abcdef01234567",
     updatedCustomerData: generateCustomerData(),
     expectedStatus: STATUS_CODES.NOT_FOUND,
@@ -83,7 +83,7 @@ export const updateCustomer_notFoundCases: IUpdateCustomerCase[] = [
 
 export const updateCustomer_conflictCases: IUpdateCustomerCase[] = [
   {
-    title: "SC-049: Конфликт при обновлении email",
+    title: "SC-049: Conflict when updating email",
     additionalData: generateCustomerData({ email: "conflict@example.com" }),
     customerData: generateCustomerData(),
     updatedCustomerData: { ...generalCustomerData, email: "conflict@example.com" },
