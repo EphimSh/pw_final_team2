@@ -1,6 +1,8 @@
 import { expect, Locator, Page } from "@playwright/test";
 import { NOTIFICATIONS } from "data/notifications/notifications";
+import { ICustomerFromResponse } from "data/types/customers.types";
 import { ORDER_STATUSES } from "data/types/orders.types";
+import _ from "lodash";
 import { OrderPage } from "ui/pages/orders/order.page";
 import { logStep } from "utils/report/logStep.utils";
 
@@ -57,5 +59,19 @@ export class OrderUIService {
     await expect(this.orderPage.commentContainer).not.toBeVisible();
     await expect(this.orderPage.toastMessage).toContainText(NOTIFICATIONS.COMMENT_DELETED);
     await this.orderPage.closeToastMessage();
+  }
+
+  @logStep("Click refresh button on Order Details page")
+  async clickRefreshOrderButton() {
+    await this.orderPage.clickRefreshOrderButton();
+    await this.orderPage.waitForSpinners();
+  }
+
+  @logStep("Assert customer data was updated on Order Details page")
+  async assertUpdatedCustomerData(newCustomerData: ICustomerFromResponse) {
+    const customerData = await this.orderPage.getCustomerData();
+    expect(_.omit(customerData, "createdOn"), "Customer data was successfully updated after refresh").toEqual(
+      _.omit(newCustomerData, ["_id", "createdOn"]),
+    );
   }
 }

@@ -4,6 +4,12 @@ import { logStep } from "utils/report/logStep.utils";
 import { ICustomerFromResponse } from "data/types/customers.types";
 import { DELIVERY_CONDITIONS, IDeliveryAddress, IDeliveryInfo } from "data/types/orders.types";
 import _ from "lodash";
+import { ICustomerOnOrderPage } from "data/types/customers.types";
+import { SalesPortalPage } from "../salesPortal.page";
+import { logStep } from "utils/report/logStep.utils";
+import { requestedProductsSection } from "./requestedProducts.section";
+import { editProductsModal } from "./editProducts.modal";
+import { COUNTRIES } from "data/types/countries";
 
 export class OrderPage extends SalesPortalPage {
   readonly title = this.page.locator("#order-details-header h2.fw-bold");
@@ -20,6 +26,10 @@ export class OrderPage extends SalesPortalPage {
   readonly commentContainer = this.page.locator(".mx-3");
   readonly comment = this.commentContainer.locator("p");
   readonly removeCommentButton = this.commentContainer.locator('[name="delete-comment"]');
+  readonly notification = this.page.locator(".toast-body");
+  readonly orderId = this.page.locator("//*[text()='Order number: ']//following-sibling::span");
+  readonly refreshOrderButton = this.page.locator("#refresh-order");
+  readonly customerValue = this.page.locator("#customer-section .p-3 .s-span:nth-child(2)");
 
   readonly deliveryTab = this.page.locator("#delivery-tab");
   readonly tabContent = this.page.locator("#order-details-tabs-content");
@@ -28,6 +38,9 @@ export class OrderPage extends SalesPortalPage {
   readonly deliveryValues = this.deliveryInfo.locator("div.c-details span.s-span:last-child");
 
   readonly uniqueElement = this.title;
+
+  readonly requestedOrders = new requestedProductsSection(this.page);
+  readonly editProductsModal = new editProductsModal(this.page);
 
   @logStep("Fill manager search input on Edit Assigned Manager modal")
   async fillManagerSearch(text: string) {
@@ -100,5 +113,28 @@ export class OrderPage extends SalesPortalPage {
   }
   async getCustomerAddress(customer: ICustomerFromResponse) {
     return _.omit(customer, ["_id", "createdOn", "email", "name", "notes", "phone"]);
+  }
+  @logStep("Click Refresh Order button on Order Details page")
+  async clickRefreshOrderButton() {
+    await this.refreshOrderButton.click();
+  }
+
+  @logStep("Get Customer data from Order Details page")
+  async getCustomerData(): Promise<ICustomerOnOrderPage> {
+    const [email, name, country, city, street, house, flat, phone, createdOn, notes] =
+      await this.customerValue.allInnerTexts();
+
+    return {
+      email: email!,
+      name: name!,
+      country: country! as COUNTRIES,
+      city: city!,
+      street: street!,
+      house: +house!,
+      flat: +flat!,
+      phone: phone!,
+      createdOn: createdOn!,
+      notes: notes === "-" ? "" : notes!,
+    };
   }
 }
