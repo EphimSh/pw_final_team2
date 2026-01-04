@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:50:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-dj48bxNoLvBav09VAdAr060LANw\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat83363",
+      "amount": 866,
+      "price": 74223,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T01:50:14.000Z",
+      "notes": "jkPh3Ybp6qQWGgVun2lj5R4HqOWyi7ni0RSIj8wwZcRuM9UT4Qpyhs8E1dqlglXAtxJ1MeTMHtHzHFpmDz1BT4sYobDnJyrLr7D7hHTbdej8hCdHxDojW0F3StyAmAsQouL0V0FT44brXQ36VS3W5E6oeP6awxOS1FHyOiBNqXcvGsY08uOARD0QMcuNe94GrAnnDVP9n7c6oH0Q1kbfl5UJhphtBVUsH9gyHn4gIi2KuEYghtUno4Cc3y",
+      "_id": "6959c7561c508c5d5e9ec108"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

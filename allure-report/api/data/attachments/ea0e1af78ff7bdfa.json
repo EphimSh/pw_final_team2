@@ -1,0 +1,161 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:53:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4154",
+    "etag": "W/\"103a-iMSDsKfyW2j/eDjahUKT62CDSb4\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959c80e1c508c5d5e9f0304",
+      "status": "Draft",
+      "customer": {
+        "_id": "695960c01c508c5d5e96a539",
+        "email": "Damaris_Dibbert7@hotmail.com",
+        "name": "Reilly Bo",
+        "country": "Belarus",
+        "city": "testCity",
+        "street": "testStreet",
+        "house": 935,
+        "flat": 3642,
+        "phone": "+1873870585",
+        "createdOn": "2026-01-03T18:32:32.000Z",
+        "notes": "0uOUaiNunZWam8MYegjbph6A3R2Hc5Lugsx1bAUxQWkp0VAofgiJINfYEeU6KDJ7kI1ZZ2vhSLZJRqBTOZ8flEEW81mpslyY9IjiwgZ4iHdXy1rXVb8dE0q2TtSqciuMu08xSmVfQn3QRSxSCWMes4IcoiJNHLTqyvoQn1djjrghDbD4AItWMGYS4iRJm4TdUa1nVHWsxZIsjKPD9XkPd23gPBpMNeVT68V6DIgwr3d0oongnml3sTNQ7m"
+      },
+      "products": [
+        {
+          "_id": "695971601c508c5d5e990f09",
+          "name": "Hat24185",
+          "amount": 315,
+          "price": 37343,
+          "manufacturer": "Apple",
+          "notes": "5BPDsChCVxiTPaNQLygGJKkpg9wuAVQ018hsBoqFhiepWF1AlXxYVb8gvGe7BICSasWaqDzQcyti2CTD6CFmg5NBfSKteaydQECJ6LYELWzNvrEPZPsLMtZMsE8TFwxfSDrSG4qus6YZvkhynNnQTM5dmoQnfdqdtwtvIP4y0oREWl8gDHHDiqIdWzsxL1QGCOfxPseoYUbI2LLP1RnBHAM0FOD2ZOv3rM2Spd9JsqEn1PZY5do5WsXOf9",
+          "received": false
+        },
+        {
+          "_id": "6959989e1c508c5d5e9c6016",
+          "name": "Chicken78358",
+          "amount": 895,
+          "price": 3082,
+          "manufacturer": "Tesla",
+          "notes": "xfdqhKc9KhCynf7NZwDXrcDXvyKmUS4mnDaTYEQ9Aq1GktbPldvZzzlfkytbLvLmo9kYlUubmM2Xjywu3rV8exuvIvAm6P9dOzUKDALQ2Wfk2WD1wLe3rUyj9Duhh2efjeeV2fjJbqWvZSRsZIRWAH9uXENlruOSnzhSHjMRAA78uY9BORXPwZu8D5UtDyaaAexGPM4wkNStHuSdGwq5gsjxoqyccgTof4cPYISKESkG4fpgsDj685uwpH",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 40425,
+      "createdOn": "2026-01-04T01:53:18.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695960c01c508c5d5e96a539",
+          "products": [
+            {
+              "_id": "6959c8091c508c5d5e9eff95",
+              "name": "Mouse26185",
+              "amount": 668,
+              "price": 21632,
+              "manufacturer": "Amazon",
+              "notes": "ZLQLnmrOp8HwhEJ3kTS35YAFqkXssMiA5WuYNQE7sASxBUSS45CGsbi7aTr8gNzb8qNSxlcS18YqVcCU9sp3t2lQxWrIJ4Wv1VLifoPq54QPj4oxYusFQsln5MAfEAtyEb85AvCnd6LDAXAbTjxjDxk9EiK53cAq8lwNkVZKnsZVDiL51eT8h2ZTtM0aV2vIt0M1ljlbIInvPmnxdyWAfpcvwzwhTe5w7SmJzgti0CjzxTsflwmQGSWIBE",
+              "received": false
+            }
+          ],
+          "total_price": 40425,
+          "delivery": null,
+          "changedOn": "2026-01-04T01:53:29.000Z",
+          "action": "Customer changed",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959c80c1c508c5d5e9f02ee",
+          "products": [
+            {
+              "_id": "695971601c508c5d5e990f09",
+              "name": "Hat24185",
+              "amount": 315,
+              "price": 37343,
+              "manufacturer": "Apple",
+              "notes": "5BPDsChCVxiTPaNQLygGJKkpg9wuAVQ018hsBoqFhiepWF1AlXxYVb8gvGe7BICSasWaqDzQcyti2CTD6CFmg5NBfSKteaydQECJ6LYELWzNvrEPZPsLMtZMsE8TFwxfSDrSG4qus6YZvkhynNnQTM5dmoQnfdqdtwtvIP4y0oREWl8gDHHDiqIdWzsxL1QGCOfxPseoYUbI2LLP1RnBHAM0FOD2ZOv3rM2Spd9JsqEn1PZY5do5WsXOf9",
+              "received": false
+            },
+            {
+              "_id": "6959989e1c508c5d5e9c6016",
+              "name": "Chicken78358",
+              "amount": 895,
+              "price": 3082,
+              "manufacturer": "Tesla",
+              "notes": "xfdqhKc9KhCynf7NZwDXrcDXvyKmUS4mnDaTYEQ9Aq1GktbPldvZzzlfkytbLvLmo9kYlUubmM2Xjywu3rV8exuvIvAm6P9dOzUKDALQ2Wfk2WD1wLe3rUyj9Duhh2efjeeV2fjJbqWvZSRsZIRWAH9uXENlruOSnzhSHjMRAA78uY9BORXPwZu8D5UtDyaaAexGPM4wkNStHuSdGwq5gsjxoqyccgTof4cPYISKESkG4fpgsDj685uwpH",
+              "received": false
+            }
+          ],
+          "total_price": 40425,
+          "delivery": null,
+          "changedOn": "2026-01-04T01:53:29.000Z",
+          "action": "Requested products changed",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959c80c1c508c5d5e9f02ee",
+          "products": [
+            {
+              "_id": "6959c8091c508c5d5e9eff95",
+              "name": "Mouse26185",
+              "amount": 668,
+              "price": 21632,
+              "manufacturer": "Amazon",
+              "notes": "ZLQLnmrOp8HwhEJ3kTS35YAFqkXssMiA5WuYNQE7sASxBUSS45CGsbi7aTr8gNzb8qNSxlcS18YqVcCU9sp3t2lQxWrIJ4Wv1VLifoPq54QPj4oxYusFQsln5MAfEAtyEb85AvCnd6LDAXAbTjxjDxk9EiK53cAq8lwNkVZKnsZVDiL51eT8h2ZTtM0aV2vIt0M1ljlbIInvPmnxdyWAfpcvwzwhTe5w7SmJzgti0CjzxTsflwmQGSWIBE",
+              "received": false
+            }
+          ],
+          "total_price": 21632,
+          "delivery": null,
+          "changedOn": "2026-01-04T01:53:18.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:53:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-9fBqxKhAxArjwHV7+IHPkUqpwrw\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna92354",
+      "amount": 525,
+      "price": 43533,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T01:53:37.000Z",
+      "notes": "2DTXILwFygYkGp3p2kyHlvqdMeBsJMc0Sppfum6ErzENyZWoVzzuEElMExmqRtRrm6Xax5tusc17SCasJ5ZPoPBRo9puTKBfFB4QwA6qsCpUXB013qoBudeVbLY5U9NP21h5uvx0T7tfvEw0bgtNW54NTv0YZsd8Wfwdewf90wAcdzeyN8XiMo3F8XSjKBYpRJyL0PfuwOH1JuDYkAGucpGmjrsW1i6iwXjPW1aoXo2d0fyNuLVBdYu2t0",
+      "_id": "6959c8211c508c5d5e9f096b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

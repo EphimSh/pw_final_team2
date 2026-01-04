@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:50:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-sNDw30cRcO1RooP53ZzgQ7NPlXc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike47945",
+      "amount": 522,
+      "price": 48537,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T01:50:41.000Z",
+      "notes": "6AQgaOFUTCC26tlZXiknyw9NIeqMpMSUEiI4lxQCszErZaS9J8iByZaBzqixUvfJnitPeOtjINGo745ig4EkEmrNiLUf9yYMx8fGiNvCd46VXcA2BIIhNReD8TdQtGL96yRUlVOeBuNF7Flyct9LkhpWYsDMUyKHLCpm2QZ4FDS7BNLu2bUS7niF9CtMCXuGI7eNqzwchPuNOHRvkfaYmXPeNABmz0rJ7JqYQVgc7f453lT74yLNDLpPTK",
+      "_id": "6959c7711c508c5d5e9ecb3b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

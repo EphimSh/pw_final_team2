@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:55:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-/zjEdHiFmccFGrERbu6Riaj1Xj0\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza27908",
+      "amount": 197,
+      "price": 41127,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T01:55:52.000Z",
+      "notes": "A96RlnKPgOMOGgXDLC30mBaMzTgCCUTLLoiYf7PX2YMfITuYsLlyKCzbFmB5IciVEhfLZhgh09PgTTQiWZu8qJD0iYvmv0qlND3WNNil6GevU8S7ebM6PiV0yBHrRQ6maXOgQZIVcedYNN3AMKsG2X77A04UNbQeCeLCAX4f0twMQMDmnASKxL0hXrbefwYKnmyjjPzrSlRGMrCnbwoaRQNFI76UJ5pjOJMA806txstxdGtD1TwVYlgcbZ",
+      "_id": "6959c8a81c508c5d5e9f2fd0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

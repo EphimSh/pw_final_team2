@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:54:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-86uwZKP24blqhxS/2d2tHbzeiJM\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips27954",
+      "amount": 999,
+      "price": 74001,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T01:54:32.000Z",
+      "notes": "80Ocx8vjGCnhwj6VkeA9JLk16x0pZtqexIuM6htBtguDc6mdtd4fpAJZSbfivNeN4LybR7qQRSIAogbOzv1rtBxgF4DjCWTyxm11BopQ41nTyGiShhY69BoCQZlLvQ0LuZF5AaXuqveKQvg7R28lIomtM2KEHchcvCaCr1l0E6X92thRWe0PAdzKruSjxnLc3du87jSb7S6e9P9lUHeiO7r5fQC5q51XZRyb00HiEipDTKgCCz0xgBmVGt",
+      "_id": "6959c8581c508c5d5e9f1c2b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

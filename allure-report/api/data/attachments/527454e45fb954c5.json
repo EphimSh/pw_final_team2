@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:52:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1871",
+    "etag": "W/\"74f-DdG9wD2uR7tsBXGpO5NIXrvgrYI\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959c7b11c508c5d5e9ee247",
+      "status": "Draft",
+      "customer": {
+        "_id": "6959c7ad1c508c5d5e9edfef",
+        "email": "Rogelio_Kertzmann@hotmail.com",
+        "name": "TX",
+        "country": "Russia",
+        "city": "DarWBHv",
+        "street": "RUqUZwe746UZgJQRbuU9PJmG7gzRm8vWApIsoPb7",
+        "house": 118,
+        "flat": 6,
+        "phone": "+4957144727",
+        "createdOn": "2026-01-04T01:51:41.000Z",
+        "notes": "3TVIXUz6sLM9Y45dxnqVgyWKC05bnNLNyP839zxwJ6qyQLSe1ZOKqq2QY8AuwpAtGoncCHntksN0UBJ70cHul0uEElz31KcLP0Eech5K1QZ3Gdfj4rkilIGXqDWwTzuj7owlTRzp9Z2whlzXr0xF8qL9QS9QnSJvM0esDonQhh6cZjKuSAgNxcwPyO8T7QRRRF2KfeHoSLNKq79xmzP1Z4o2wzyBzqUzpT"
+      },
+      "products": [
+        {
+          "_id": "6959c7b11c508c5d5e9ee22b",
+          "name": "Gloves31346",
+          "amount": 580,
+          "price": 91711,
+          "manufacturer": "Sony",
+          "notes": "pEJExxjJVNFCF28t7wW36U3V98y1B5WVsYKYct7mz53Ffoii92ZKBeZW4IvS45Xth8RFInfLCmaj4DmJn1aF0fmWa6KSAaYiu0IjUVw80zqHkQDbMVbd3ZEmyf6XE3Q9z2Fvc9BoFfu7FH248NQl6QRQcMHdZXlb0EDDb06AN70nenRJMnKC2Z7x7UtqOjxQKpPtZS7B5anvhJMmPsaNHFPeniX9lryJVVo2dIKoNd31WJVDND3mFopGfp",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 91711,
+      "createdOn": "2026-01-04T01:51:45.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6959c7ad1c508c5d5e9edfef",
+          "products": [
+            {
+              "_id": "6959c7b11c508c5d5e9ee22b",
+              "name": "Gloves31346",
+              "amount": 580,
+              "price": 91711,
+              "manufacturer": "Sony",
+              "notes": "pEJExxjJVNFCF28t7wW36U3V98y1B5WVsYKYct7mz53Ffoii92ZKBeZW4IvS45Xth8RFInfLCmaj4DmJn1aF0fmWa6KSAaYiu0IjUVw80zqHkQDbMVbd3ZEmyf6XE3Q9z2Fvc9BoFfu7FH248NQl6QRQcMHdZXlb0EDDb06AN70nenRJMnKC2Z7x7UtqOjxQKpPtZS7B5anvhJMmPsaNHFPeniX9lryJVVo2dIKoNd31WJVDND3mFopGfp",
+              "received": false
+            }
+          ],
+          "total_price": 91711,
+          "delivery": null,
+          "changedOn": "2026-01-04T01:51:45.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

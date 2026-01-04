@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:52:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "500",
+    "etag": "W/\"1f4-yp8va0k1m/pfXflj1d92kKd5DyE\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Cedrick94@gmail.com",
+      "name": "UFQNHmurDhl",
+      "country": "Canada",
+      "city": "Dkj",
+      "street": "sxZL",
+      "house": 85,
+      "flat": 4,
+      "phone": "+6079174677",
+      "createdOn": "2026-01-04T01:52:50.000Z",
+      "notes": "xhTPEFY8fDP5azDfloXgd94hIpcg9iCb71YSmlfinkP7Uc9jwCAoMZDrwTqw0uf9fyHwwKJC4LLML2pqk6PIAVXKTSqz8F5F5TXZqyYHeU4II7mCQupI3nu6i6eO7VbQFP6CFjbwj1xEpFxDsWGs5NhfPVaGfUGSvpLfoArR1HsO8gtbKm0bfrDVzkMtHQxyx6JznBNqoIzioffX9seY8LSRuOHfTmthw",
+      "_id": "6959c7f21c508c5d5e9ef7be"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

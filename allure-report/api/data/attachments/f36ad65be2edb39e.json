@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:49:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "502",
+    "etag": "W/\"1f6-bgq2bsWjJsEqnuKq4d12CVbx+wM\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Evans.Swaniawski3@gmail.com",
+      "name": "PD",
+      "country": "USA",
+      "city": "yyWJQNyaEGEUy",
+      "street": "ellERSV2oj5AVDS6LZFCfm3lgEzwfgINum34JHC",
+      "house": 55,
+      "flat": 2,
+      "phone": "+1803638895",
+      "createdOn": "2026-01-04T01:49:37.000Z",
+      "notes": "XAgDZooCZuFkaGv1MxrV0KvWVloS5qG55ohP2wHFHwxbVPsfuPYUksNkJpAIxDI8lRWJrpeZ27TK9SxWl6OkmIpmXoz9Dnsu4uYEq1uGev9tti1gArP0daA16YzzyREdx4rNir4y6jDJozTegrxjo77eWxer8cJpGVdn4ufrsc9pshwToQ9bIuGN6B",
+      "_id": "6959c7311c508c5d5e9eb5ea"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

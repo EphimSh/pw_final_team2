@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:51:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "519",
+    "etag": "W/\"207-kIgeiAaqa2dWj0Qy/bCujjw0xQw\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kaya32@hotmail.com",
+      "name": "WNAryPjYtueXnFQuJl",
+      "country": "Canada",
+      "city": "mJPjXFALiLHvJ",
+      "street": "P8eJOhpKLwLkRzQOit7muNKyDm2pqthe",
+      "house": 190,
+      "flat": 1,
+      "phone": "+2871168795",
+      "createdOn": "2026-01-04T01:51:49.000Z",
+      "notes": "qbynTMwQpW8Wvs6KAzVB3QqgnPZOQ1NcegFyo7kaXlteuMtTCfq1M87ZSvEjRgIwndrupbCHlE2s6aJAjlJGUyVKKJkV2y9cqR8zUuYP7g8bmllW9Lu7orips9FtVmvJ7pam3qgCYnWo5V4jtcQgQMgdv2miYjGWvIVPQKnQfHcdFShhHdlo9hIXmhcFa9x81WX4WCn",
+      "_id": "6959c7b51c508c5d5e9ee2b0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

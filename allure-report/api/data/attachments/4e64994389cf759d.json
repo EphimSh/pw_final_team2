@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:57:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-h6rEl4Qj53F7j2RIZp+iZ4NAiYM\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "6959c8f11c508c5d5e9f480f",
+      "name": "Pants48540",
+      "amount": 746,
+      "price": 10000,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T01:57:05.000Z",
+      "notes": "K3Gy1M7Awroy5J0JCJyLnDrMvyD422NQOwkXIQzmKrJEp8EnfmbLpUD4qgovCZI2JrUuSADZ0GcAO7ZKGCGHQ4h3Kfp743Ig4tcSH495XM61aFVS4p04LQoH9qr8npIbIrPjfvHi9givJB73xHhvgwXQgGvDbB6WdRS63ZmHFr01ST6xi9bl16L5JQHauyHRKGeDWGuzkAHGZCZCo0t13TKM1fw6RGDI9OqUVYExqjGFBFOOROwpARuEBj"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

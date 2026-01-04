@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:49:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-WneRAYajXZ7BE6TIP+pwFmqtd9Y\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball13217",
+      "amount": 141,
+      "price": 80328,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T01:49:51.000Z",
+      "notes": "8D17biKFbNIP0ny0VeWI3D14DqIlmUKeI7JWahGy7La2ZLnKWxD6qXxA51bACHZC4zZF02VTppac9RGM2hOPppHRwiOnQLuVaLiY1wmPwB2cPJBZCGsKyyaaU4LLQT8FJdtsRD7oaYzP7hUjlR8SPYdZCyrsHXxSAed2cl61HQFCJ4Bi7CjiPP7hnG1GsJIBxeGFydrBrNd8jLJkOS4GfHxlZ1v7RGWmSJTzLEW1M86AVsgp8cJn8zT062",
+      "_id": "6959c73f1c508c5d5e9eb777"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

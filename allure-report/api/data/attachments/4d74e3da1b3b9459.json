@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:52:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "515",
+    "etag": "W/\"203-ItQy2KZkRYiwV1L1U1lmCP5OK7M\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Crystal_Heathcote7@hotmail.com",
+      "name": "usEuPTPnUWpjvtGPPj",
+      "country": "Ukraine",
+      "city": "RkJIGeZGcpJUaGXXv",
+      "street": "JO5SLEUjGwZyXzklzgmosOblP2j73MjMspirt4WE",
+      "house": 51,
+      "flat": 7,
+      "phone": "+0444452950",
+      "createdOn": "2026-01-04T01:52:39.000Z",
+      "notes": "uktAzYwcPSvASzAbUuxYfxSRBVZxY4ONndmhSbNOMPYw2tbddmy92fAHRCPmx5DCessyqxjDDIDTwYNr08j1NXOZ6evGCeEz0QLX0drOWNixpMmykJm8LMjsEQQWKOnE9mpil6ntudW9gLlnBtN3inWAa7X9qlq64HdDBJx80iI",
+      "_id": "6959c7e71c508c5d5e9ef3d4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

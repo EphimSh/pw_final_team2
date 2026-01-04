@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:48:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "310",
+    "etag": "W/\"136-ofaVU37n+iQlO19XYzSm9R1oU3Y\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Pat76@gmail.com",
+      "name": "orLkHcDONWkjhm",
+      "country": "USA",
+      "city": "w",
+      "street": "hHNLPApVdqPncPF",
+      "house": 129,
+      "flat": 9,
+      "phone": "+1525436874",
+      "createdOn": "2026-01-04T01:48:41.000Z",
+      "notes": "w7DoQwMnFBdc1S2bbpv2OUROvDNkz",
+      "_id": "6959c6f91c508c5d5e9ea414"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

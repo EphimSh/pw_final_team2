@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:53:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "400",
+    "etag": "W/\"190-QvWJm4p3kGTsrbYpS4DZ1N2QC84\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "German_Baumbach@gmail.com",
+      "name": "HsfSlkjyREVdfHgBa",
+      "country": "France",
+      "city": "tjnfCjOPUfOdj",
+      "street": "gY9Ja55YRHIqvANwESylTgytnzLGSG",
+      "house": 87,
+      "flat": 6,
+      "phone": "+4927356280",
+      "createdOn": "2026-01-04T01:53:28.000Z",
+      "notes": "YGD2uXOSp7YngAmvI7R2W8WRMAPi2QnScaBBd7UCz42gQ6R3mrEKYaWYlYeExE0S9THAG494RbM8B",
+      "_id": "6959c8181c508c5d5e9f047b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

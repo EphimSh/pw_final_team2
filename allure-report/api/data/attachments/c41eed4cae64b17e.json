@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:49:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "330",
+    "etag": "W/\"14a-2WJXR/BCzxgS5a2ayYiLY2Y/KBM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Wilma.Lang75@gmail.com",
+      "name": "jeuEHfYCTuoGUuQZRcqdJftpwbmOdb",
+      "country": "USA",
+      "city": "HJSfc",
+      "street": "bt4FEtvDhmHNMZinBpR7CY",
+      "house": 184,
+      "flat": 4,
+      "phone": "+8880744033",
+      "createdOn": "2026-01-04T01:49:36.000Z",
+      "notes": "uAb7SZd6Sztr0nx",
+      "_id": "6959c7301c508c5d5e9eb4d0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

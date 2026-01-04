@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:56:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-rQ3lbublbKmbwIEVo5d/H5WXw3Y\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy A5524298",
+      "amount": 100,
+      "price": 800,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T01:56:30.000Z",
+      "notes": "zM49A04mMhzbSwYfNGIdqYAEr9TbweAqq2l6F9juT3gV1P59h3CN3wZkBTH14u1mJFmmcxG0YKe4XySk6n5r1Vvvxy7bOZXNdqfrOyfjhK8dv6cTCtQ1gQdgRTqStOV4phddf2zUeS0qHD948qIx9AlKUmv2ijOf5KZyCdXP7i7CPa94cEfEIN84rmDVvNId5v7ygofZiT0cadZWLpGcmDH9IHCHLjYp3JeKltyzL1kbXjUEPxNJRVFXNF",
+      "_id": "6959c8ce1c508c5d5e9f3b64"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

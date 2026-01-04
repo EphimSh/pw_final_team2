@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:50:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "380",
+    "etag": "W/\"17c-v+wVpsH/7ZkB8vqJ6SxE0qdf2RE\"",
+    "keep-alive": "timeout=5, max=53",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Keeley22@hotmail.com",
+      "name": "bGjqIQVkSeEGuIOipqORDdWn",
+      "country": "Russia",
+      "city": "tchjqBZwBNJdJPItAx",
+      "street": "nLVlZqbjniAJD6ZW74bg",
+      "house": 5,
+      "flat": 8,
+      "phone": "+6708908598",
+      "createdOn": "2026-01-04T01:50:37.000Z",
+      "notes": "nTSgtZyZg7chX6S8ousTkJhnuTJitYx6e3ON49DtiHOAWBf8ywumRondUtGXB",
+      "_id": "6959c76d1c508c5d5e9ec7e7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:53:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "420",
+    "etag": "W/\"1a4-AvIaKdfHYgNH/PQPawa96BVmeY4\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Judd73@yahoo.com",
+      "name": "VODXMLkEhMCYzaxPyAUhKStRXDfrmSdahZdF",
+      "country": "Great Britain",
+      "city": "Zlx",
+      "street": "pNI8jrewuoVPb91rXsdK1",
+      "house": 180,
+      "flat": 1,
+      "phone": "+4671191144",
+      "createdOn": "2026-01-04T01:53:51.000Z",
+      "notes": "3j0bcE71HWFk5HQXTfqypvRx3XlSZrq5Ak0MB0HRWWFJ1cZtZOiGXYlaMPSCs9OYafYwShHpYulZzjeEqkT1BY6x7NbiGljB9L",
+      "_id": "6959c82f1c508c5d5e9f0c7c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

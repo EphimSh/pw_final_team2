@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:50:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-2QaxGuJkZAvXfaslVhSr21v+ddI\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse95638",
+      "amount": 639,
+      "price": 59283,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T01:50:50.000Z",
+      "notes": "iPLkvx38oPtj4HMCZsjLkcB0N50J0GB36TWHCK9kDeNEkEySKGT749pDWq398yDhHZkawPHL1WOmTdydEH9FvuQCCHlDezNbqcZAvhkgAnG8Z8Fz9wPygIrSVthCpn5i9kZvcWYCGLG1i1efGguFsn9oiaiP1wtgEAHXUUoZ9iXAdUydBBgJDSwN8c6rdRrhS8OZZrRNPOJp1QzeJsDmEO682VI5xVSDydyv5vj553b2BTA5ghPFiVuSK7",
+      "_id": "6959c77a1c508c5d5e9ecdd4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

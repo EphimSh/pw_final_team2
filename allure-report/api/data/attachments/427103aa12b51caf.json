@@ -1,0 +1,173 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:49:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3751",
+    "etag": "W/\"ea7-4G4VZS4rbQkGrVz0hRCQ5n+Ewm0\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959c71c1c508c5d5e9eabdb",
+      "status": "In Process",
+      "customer": {
+        "_id": "6959c7171c508c5d5e9eaa92",
+        "email": "Maxime_Lindgren@gmail.com",
+        "name": "tJkPPxUjmpcBt",
+        "country": "Ukraine",
+        "city": "VNsOO",
+        "street": "chucVz1CEuvVoRKL4Rg8cJMcA7spR",
+        "house": 54,
+        "flat": 9,
+        "phone": "+3860729682",
+        "createdOn": "2026-01-04T01:49:11.000Z",
+        "notes": "7sNXG2UXSo4PPpDiyumVQCcPzEzngKlFrUgkrIDeNUvSs3nKW9xucx0daQk6NjkDiAOnMs422Jbgtxv2udEP6Is95"
+      },
+      "products": [
+        {
+          "_id": "6959c71c1c508c5d5e9eabbe",
+          "name": "Soap75126",
+          "amount": 172,
+          "price": 59369,
+          "manufacturer": "Google",
+          "notes": "sn751VwKh3Xsy6hArlAeTL4nluwc8JhufX4p1fvEsFicXOBkR1c4VgtjIboIqot8RRHqCuqGn3jf8YOPWiJdSNHkaZGx81t4nfAS4Wjr8NIsN07i3pquj8TgITtMwrTkdugZCn6x196Zq4SBeO6izEnbVFFkRY7uXm2m2tjjyOvOiSVxm1pj2hqyo4T8FfVavr4Byi2PJOR1zyZM02o3DAPi75O3yb7pyJoY0iPD1BoTlFpEhPo1vE3Dpe",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "France",
+          "city": "Mock City XZchDghlo",
+          "street": "MockStreetQRnK",
+          "house": 162,
+          "flat": 11
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 59369,
+      "createdOn": "2026-01-04T01:49:16.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "In Process",
+          "customer": "6959c7171c508c5d5e9eaa92",
+          "products": [
+            {
+              "_id": "6959c71c1c508c5d5e9eabbe",
+              "name": "Soap75126",
+              "amount": 172,
+              "price": 59369,
+              "manufacturer": "Google",
+              "notes": "sn751VwKh3Xsy6hArlAeTL4nluwc8JhufX4p1fvEsFicXOBkR1c4VgtjIboIqot8RRHqCuqGn3jf8YOPWiJdSNHkaZGx81t4nfAS4Wjr8NIsN07i3pquj8TgITtMwrTkdugZCn6x196Zq4SBeO6izEnbVFFkRY7uXm2m2tjjyOvOiSVxm1pj2hqyo4T8FfVavr4Byi2PJOR1zyZM02o3DAPi75O3yb7pyJoY0iPD1BoTlFpEhPo1vE3Dpe",
+              "received": false
+            }
+          ],
+          "total_price": 59369,
+          "delivery": {
+            "address": {
+              "country": "France",
+              "city": "Mock City XZchDghlo",
+              "street": "MockStreetQRnK",
+              "house": 162,
+              "flat": 11
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T01:49:17.000Z",
+          "action": "Order processing started",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959c7171c508c5d5e9eaa92",
+          "products": [
+            {
+              "_id": "6959c71c1c508c5d5e9eabbe",
+              "name": "Soap75126",
+              "amount": 172,
+              "price": 59369,
+              "manufacturer": "Google",
+              "notes": "sn751VwKh3Xsy6hArlAeTL4nluwc8JhufX4p1fvEsFicXOBkR1c4VgtjIboIqot8RRHqCuqGn3jf8YOPWiJdSNHkaZGx81t4nfAS4Wjr8NIsN07i3pquj8TgITtMwrTkdugZCn6x196Zq4SBeO6izEnbVFFkRY7uXm2m2tjjyOvOiSVxm1pj2hqyo4T8FfVavr4Byi2PJOR1zyZM02o3DAPi75O3yb7pyJoY0iPD1BoTlFpEhPo1vE3Dpe",
+              "received": false
+            }
+          ],
+          "total_price": 59369,
+          "delivery": {
+            "address": {
+              "country": "France",
+              "city": "Mock City XZchDghlo",
+              "street": "MockStreetQRnK",
+              "house": 162,
+              "flat": 11
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T01:49:16.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959c7171c508c5d5e9eaa92",
+          "products": [
+            {
+              "_id": "6959c71c1c508c5d5e9eabbe",
+              "name": "Soap75126",
+              "amount": 172,
+              "price": 59369,
+              "manufacturer": "Google",
+              "notes": "sn751VwKh3Xsy6hArlAeTL4nluwc8JhufX4p1fvEsFicXOBkR1c4VgtjIboIqot8RRHqCuqGn3jf8YOPWiJdSNHkaZGx81t4nfAS4Wjr8NIsN07i3pquj8TgITtMwrTkdugZCn6x196Zq4SBeO6izEnbVFFkRY7uXm2m2tjjyOvOiSVxm1pj2hqyo4T8FfVavr4Byi2PJOR1zyZM02o3DAPi75O3yb7pyJoY0iPD1BoTlFpEhPo1vE3Dpe",
+              "received": false
+            }
+          ],
+          "total_price": 59369,
+          "delivery": null,
+          "changedOn": "2026-01-04T01:49:16.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

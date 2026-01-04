@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:49:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-XI5EABEii+QOruPBcBmkYKIs4Vk\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table8408",
+      "amount": 741,
+      "price": 71417,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T01:49:16.000Z",
+      "notes": "6ym2kPDUecmRDI67P8WACtMVukijPZAmzPs6X9tWYhHUvL67IitWN4okKTjlLQB7jZHgm2tUdUdYClMpo9fKJmoAwbtBFC3Com2Y3ybsJU1tU6YLyRol2BUOKpauaQ1I3bF2bis6152gwbfSE1HvaAYOnJNIl9ToKc6yT7tjlv87xBXZ6ZI4eyTaWc0bEq7360IWpuQe4JRB11bq4GTCfGqfl5PG1fFReb1NUwh54qfCIzGCjkEUiVhN22",
+      "_id": "6959c71c1c508c5d5e9eabba"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

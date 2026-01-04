@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:48:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "380",
+    "etag": "W/\"17c-RFBL8v/vo6wLdeSAGtaXRxAQN/U\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Flossie85@hotmail.com",
+      "name": "zFgZRKGXtdqHdqoxkzrp",
+      "country": "Canada",
+      "city": "xOIAfyMhSeiPhK",
+      "street": "vOfM06kxdPQRCkYURBB4K377",
+      "house": 192,
+      "flat": 2,
+      "phone": "+5420138732",
+      "createdOn": "2026-01-04T01:48:51.000Z",
+      "notes": "zrTQWJdGRZRH9F7kBXHLgBcc2cgoMiorg0ZNkiWxVZ9teod6nvFzvH8yKy4o4g",
+      "_id": "6959c7031c508c5d5e9ea4db"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

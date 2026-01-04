@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:55:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "467",
+    "etag": "W/\"1d3-8k8RgTlookFpAvaP7ro/p79BgDg\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy S2524400",
+      "amount": 574,
+      "price": 3100,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T01:55:19.000Z",
+      "notes": "uiLwVWQZxEAdwuHCEB6ysb20fwU93LZU4h4U2H43n6cwzOPIGX846aPDxus2sUbzKEg3JM0lDBRvE4JeljqXHbQ9GalKxkCawbX2iZk07vA4DFbZpcEs9eXJZPIQ1H6EH5MpLlUJPCj8WcWWNK2FQ1wEOJksfXoOnHrTeQbYKUiFhjbwa5HjKXv1UJkLvqPxBuIsbyj5NLk51Yy4gbUxZJVG3i2R9jPlO2UJyuaQMZqV4HbvGKx05L4afs",
+      "_id": "6959c8871c508c5d5e9f252f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

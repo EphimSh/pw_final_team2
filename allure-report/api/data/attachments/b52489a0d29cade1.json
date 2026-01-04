@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:55:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "474",
+    "etag": "W/\"1da-pHaZHMAHWcJjX5BLjaVv+TPmGyA\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Microsoft Surface Duo 317884",
+      "amount": 702,
+      "price": 2200,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T01:55:39.000Z",
+      "notes": "lE4zSJznn2QeeQIpeN69UnQ9nrmKuGEy7md9C6UhasjAPKzwOthUn3fKNHf67W3SR0nnL3zz9rtVMWjod4mbSJthwL4M1sfolHgOEXqIEnHHJrYDDH6SA526V4HXQAvt702RkaE2u0kizPf6ugpPNMqW7WPSFR8bS7S4WtB0A8A9mNq1SJueUunEKtRXEVV9dl97pe94htt4XhIBgDUOlEUx31harudepyYD21lSibB261isakc3OAFf1I",
+      "_id": "6959c89b1c508c5d5e9f2905"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

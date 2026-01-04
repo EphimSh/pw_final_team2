@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:49:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1666",
+    "etag": "W/\"682-S3Crtb3vFFMGlNaKs8uttd57NUY\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959c73b1c508c5d5e9eb73a",
+      "status": "Draft",
+      "customer": {
+        "_id": "6959c7301c508c5d5e9eb4d0",
+        "email": "Wilma.Lang75@gmail.com",
+        "name": "jeuEHfYCTuoGUuQZRcqdJftpwbmOdb",
+        "country": "USA",
+        "city": "HJSfc",
+        "street": "bt4FEtvDhmHNMZinBpR7CY",
+        "house": 184,
+        "flat": 4,
+        "phone": "+8880744033",
+        "createdOn": "2026-01-04T01:49:36.000Z",
+        "notes": "uAb7SZd6Sztr0nx"
+      },
+      "products": [
+        {
+          "_id": "6959c73a1c508c5d5e9eb71e",
+          "name": "Computer34446",
+          "amount": 506,
+          "price": 93581,
+          "manufacturer": "Amazon",
+          "notes": "aEJ2ywXOm780NdUdRNbdNpt5giaQNBo1uc7lik9TOrZtnX6o5JWJDNBHIDHajfLKpu0UtnH6ShLFpRZOTuyj2PmMfX1UEQU9exWratbRNWmDARlQmBxh3j8KqPSrA9eaMJgoyna4v723aXtKJO0spmAPSK7KQ8qLFdCzlSlNYHGcRhF4HaaOi1GbvQIKLKYijzHZig6dcIxPgG50Fy1f7JiYqdJf9YMwFAITJOF6Dv2HALdgefqv0WjFFu",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 93581,
+      "createdOn": "2026-01-04T01:49:47.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6959c7301c508c5d5e9eb4d0",
+          "products": [
+            {
+              "_id": "6959c73a1c508c5d5e9eb71e",
+              "name": "Computer34446",
+              "amount": 506,
+              "price": 93581,
+              "manufacturer": "Amazon",
+              "notes": "aEJ2ywXOm780NdUdRNbdNpt5giaQNBo1uc7lik9TOrZtnX6o5JWJDNBHIDHajfLKpu0UtnH6ShLFpRZOTuyj2PmMfX1UEQU9exWratbRNWmDARlQmBxh3j8KqPSrA9eaMJgoyna4v723aXtKJO0spmAPSK7KQ8qLFdCzlSlNYHGcRhF4HaaOi1GbvQIKLKYijzHZig6dcIxPgG50Fy1f7JiYqdJf9YMwFAITJOF6Dv2HALdgefqv0WjFFu",
+              "received": false
+            }
+          ],
+          "total_price": 93581,
+          "delivery": null,
+          "changedOn": "2026-01-04T01:49:47.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

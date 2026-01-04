@@ -1,0 +1,131 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:53:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3320",
+    "etag": "W/\"cf8-5VJ62d4mVZnadnJil6FETG6xeTc\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959c80e1c508c5d5e9f0306",
+      "status": "Draft",
+      "customer": {
+        "_id": "6959c80c1c508c5d5e9f02ec",
+        "email": "Carmelo54@hotmail.com",
+        "name": "ROGcyocIWfbn",
+        "country": "Belarus",
+        "city": "khgBUAWAE",
+        "street": "efYvQXksYCWAmDC1Oym5g",
+        "house": 26,
+        "flat": 2,
+        "phone": "+1410255539",
+        "createdOn": "2026-01-04T01:53:16.000Z",
+        "notes": "rqIlckAf7p7RK70FTgZI7bIDTPD2omMJyTfiZi0jUhmGxNcH6Yi8ox2KCBO9mZr9ybJm9Mx7WcJs8NiGzggyujJboiUa81EmnWjVlLgkoV09GMZlq5vvQrYz0iy5xnE6v190V0kYD"
+      },
+      "products": [
+        {
+          "_id": "69595e6b1c508c5d5e9660cb",
+          "name": "Salad79598",
+          "amount": 646,
+          "price": 70511,
+          "manufacturer": "Google",
+          "notes": "0HAGWfe60HmcrOVAA34qocX75X31eVEIyHiZBORvzSG6kp0Z5AxTGiGPRRdQDVyFk3KXWcdplifWVifhKjSG7c17rrxeDsCB6Bn4x39cLpn7I8rCokLKzNfLJ3oENGWZT9R2nXM0HIotJI5PV7QNPoQdL0rMWQCv8E1LC82B8bDn0e52yyQj3ERoxAeYk968EPldeGtVvM9hsdTACMHXrSHHVUYI1TBiAmBEpUx6QBaJHEfJ790SBMTJzJ",
+          "received": false
+        },
+        {
+          "_id": "6959a9011c508c5d5e9e924c",
+          "name": "Google Pixel Ultra82413",
+          "amount": 437,
+          "price": 1800,
+          "manufacturer": "Google",
+          "notes": "OeRKXJ3Ob3ZClmDhgDAa7w94yM8XJC3SR2kepWjCu8fM7epOry5fVZDoFzvmOPnZuCQ0u8GBP31D6gB1tDNsJ6PWEN6rtomZ4zQcKHoeigBR8W5NTOBBXhjSJ32akBUDEIJtPXwN6jYYhs6n7V9pncXW41voncQfqdbvfp2b6YI0EWfmoT8o6YDM4CuPV2E8ELo3ZZfa3Qt2y22fbQjyyP5yu5BECj5waTV6aWq3DDD1WFIRgyzBQWGLfQ",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 72311,
+      "createdOn": "2026-01-04T01:53:18.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6959c80c1c508c5d5e9f02ec",
+          "products": [
+            {
+              "_id": "69595e6b1c508c5d5e9660cb",
+              "name": "Salad79598",
+              "amount": 646,
+              "price": 70511,
+              "manufacturer": "Google",
+              "notes": "0HAGWfe60HmcrOVAA34qocX75X31eVEIyHiZBORvzSG6kp0Z5AxTGiGPRRdQDVyFk3KXWcdplifWVifhKjSG7c17rrxeDsCB6Bn4x39cLpn7I8rCokLKzNfLJ3oENGWZT9R2nXM0HIotJI5PV7QNPoQdL0rMWQCv8E1LC82B8bDn0e52yyQj3ERoxAeYk968EPldeGtVvM9hsdTACMHXrSHHVUYI1TBiAmBEpUx6QBaJHEfJ790SBMTJzJ",
+              "received": false
+            },
+            {
+              "_id": "6959a9011c508c5d5e9e924c",
+              "name": "Google Pixel Ultra82413",
+              "amount": 437,
+              "price": 1800,
+              "manufacturer": "Google",
+              "notes": "OeRKXJ3Ob3ZClmDhgDAa7w94yM8XJC3SR2kepWjCu8fM7epOry5fVZDoFzvmOPnZuCQ0u8GBP31D6gB1tDNsJ6PWEN6rtomZ4zQcKHoeigBR8W5NTOBBXhjSJ32akBUDEIJtPXwN6jYYhs6n7V9pncXW41voncQfqdbvfp2b6YI0EWfmoT8o6YDM4CuPV2E8ELo3ZZfa3Qt2y22fbQjyyP5yu5BECj5waTV6aWq3DDD1WFIRgyzBQWGLfQ",
+              "received": false
+            }
+          ],
+          "total_price": 72311,
+          "delivery": null,
+          "changedOn": "2026-01-04T01:53:25.000Z",
+          "action": "Requested products changed",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959c80c1c508c5d5e9f02ec",
+          "products": [
+            {
+              "_id": "6959c8091c508c5d5e9eff93",
+              "name": "Tuna92354",
+              "amount": 525,
+              "price": 43533,
+              "manufacturer": "Sony",
+              "notes": "2DTXILwFygYkGp3p2kyHlvqdMeBsJMc0Sppfum6ErzENyZWoVzzuEElMExmqRtRrm6Xax5tusc17SCasJ5ZPoPBRo9puTKBfFB4QwA6qsCpUXB013qoBudeVbLY5U9NP21h5uvx0T7tfvEw0bgtNW54NTv0YZsd8Wfwdewf90wAcdzeyN8XiMo3F8XSjKBYpRJyL0PfuwOH1JuDYkAGucpGmjrsW1i6iwXjPW1aoXo2d0fyNuLVBdYu2t0",
+              "received": false
+            }
+          ],
+          "total_price": 43533,
+          "delivery": null,
+          "changedOn": "2026-01-04T01:53:18.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:53:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2480",
+    "etag": "W/\"9b0-+36huA9mxG9Zleq27CUO1xDWR7M\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "6959c8261c508c5d5e9f09d1",
+        "email": "Raymond_Koepp@hotmail.com",
+        "name": "mBjWbqlBP",
+        "country": "Germany",
+        "city": "ompXIpOSbmptk",
+        "street": "AkZw0EKOqIHlyZSKZojLqfGyIBecKX2R",
+        "house": 156,
+        "flat": 7,
+        "phone": "+6848871863",
+        "createdOn": "2026-01-04T01:53:42.000Z",
+        "notes": "28djUbHrzH0EgqISuLxkTyySFnS6hmDUJXMfXheODSVzf9ROg7Sm8IjEPCppkgo"
+      },
+      "products": [
+        {
+          "_id": "6959c82a1c508c5d5e9f0b0e",
+          "name": "Pants51956",
+          "amount": 746,
+          "price": 63048,
+          "manufacturer": "Amazon",
+          "notes": "WF8KfCVMloXdZGTWmKeEjIS5gVRbfiqYkxVJxkJc3JfQDQYAjhaNSf8mZVyScUk0raEJaTaaEp3ixziz4YbjxWynRdqQQj3DmUChuJrqLAJ2AcmjBpKnGY8rlLLav1tfvzOf4U4tWtCSGv9vXy8bsSH64s6EH94cAz5pHOzY7e7xDPzr362i01g8N0dAbrBX3z1yIJsM21ADhnqYeZ0CUElu1pUjmazw0jejqXB91cTjVWCgNw15sBLexG",
+          "received": false
+        },
+        {
+          "_id": "6959c8301c508c5d5e9f0c81",
+          "name": "Pizza25561",
+          "amount": 993,
+          "price": 84194,
+          "manufacturer": "Tesla",
+          "notes": "WsSiXBly20e09OwercFHBMt5MwZ2Za4O51k5oyx8oVBUm0CKqCwLvgXalMh5GKYUU34ljTWly31VjFU2vw0JJawbyelV3XbTvz5C5I1KC4Qz83uqkbTNf7kNo42pV7OjYIZKiDjZhyfDtMk3cijiaLN8VfR3u2tljlg38HP3gXbh0GnJ6X2p0kLn9IWRbyVuCJwlb26DCFV1mBdlr45hMIlQE8eFweFV7wMj7n90wqn66JwRLKPl3uOt77",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 147242,
+      "createdOn": "2026-01-04T01:53:53.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6959c8261c508c5d5e9f09d1",
+          "products": [
+            {
+              "_id": "6959c82a1c508c5d5e9f0b0e",
+              "name": "Pants51956",
+              "amount": 746,
+              "price": 63048,
+              "manufacturer": "Amazon",
+              "notes": "WF8KfCVMloXdZGTWmKeEjIS5gVRbfiqYkxVJxkJc3JfQDQYAjhaNSf8mZVyScUk0raEJaTaaEp3ixziz4YbjxWynRdqQQj3DmUChuJrqLAJ2AcmjBpKnGY8rlLLav1tfvzOf4U4tWtCSGv9vXy8bsSH64s6EH94cAz5pHOzY7e7xDPzr362i01g8N0dAbrBX3z1yIJsM21ADhnqYeZ0CUElu1pUjmazw0jejqXB91cTjVWCgNw15sBLexG",
+              "received": false
+            },
+            {
+              "_id": "6959c8301c508c5d5e9f0c81",
+              "name": "Pizza25561",
+              "amount": 993,
+              "price": 84194,
+              "manufacturer": "Tesla",
+              "notes": "WsSiXBly20e09OwercFHBMt5MwZ2Za4O51k5oyx8oVBUm0CKqCwLvgXalMh5GKYUU34ljTWly31VjFU2vw0JJawbyelV3XbTvz5C5I1KC4Qz83uqkbTNf7kNo42pV7OjYIZKiDjZhyfDtMk3cijiaLN8VfR3u2tljlg38HP3gXbh0GnJ6X2p0kLn9IWRbyVuCJwlb26DCFV1mBdlr45hMIlQE8eFweFV7wMj7n90wqn66JwRLKPl3uOt77",
+              "received": false
+            }
+          ],
+          "total_price": 147242,
+          "delivery": null,
+          "changedOn": "2026-01-04T01:53:53.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "6959c8311c508c5d5e9f0c94"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

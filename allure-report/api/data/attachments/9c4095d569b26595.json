@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:49:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "402",
+    "etag": "W/\"192-6qgyoOKPKDFZQuuoU3zDWh8lIxQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Christy6@gmail.com",
+      "name": "pTxjwXyxHMoLeDI",
+      "country": "Germany",
+      "city": "F",
+      "street": "CzJy",
+      "house": 11,
+      "flat": 2,
+      "phone": "+2610213963",
+      "createdOn": "2026-01-04T01:49:49.000Z",
+      "notes": "jGAWzou00g4DbfCEHo2M9M1OL18EVNH8qdWAXtQ6iSfxMqQiE80dn2Pvv3Mgg6VmnhBu1cNAiY42xYEJehqfUNvMC6zxf1rfNjl2ezHRliy6urtPkyvBaHDmA1BkC",
+      "_id": "6959c73d1c508c5d5e9eb772"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

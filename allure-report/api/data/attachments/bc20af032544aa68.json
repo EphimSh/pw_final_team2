@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:50:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-NMhK4XlUD6qpiBVsXsemO1MH2Ng\"",
+    "keep-alive": "timeout=5, max=56",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna47050",
+      "amount": 395,
+      "price": 52626,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T01:50:31.000Z",
+      "notes": "BoTvSj3XOjT8SQuSkIrLuuQDbMb7fXeHchshCxoyaQr3MhsQKPMGyntywIPoV8KsTj9wWuBez23Z1s5QwHC23Qk5iFfj7ioElTYksbccCZt0alpj0AmS4eYDWi903iu0Kz6KPztrIUBrNgqQ2t1CZpQHgytiMCwvbyjwnP78VcAFucPK7egOcLntco8zEpjt2b0WTVEBWriL4VMLuHLN8DBuiUQrs3MRJATfzrOTKTp5kyijsLpIykZrbd",
+      "_id": "6959c7671c508c5d5e9ec661"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

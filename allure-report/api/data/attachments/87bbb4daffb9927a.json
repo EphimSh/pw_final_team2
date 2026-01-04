@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:51:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "483",
+    "etag": "W/\"1e3-CCcKPaQ/NYmi43dq5A2OmHv/K1E\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Evert53@hotmail.com",
+      "name": "KtfvtUzMWAAjHADOHKfVPMtoINIxteYfxUhnJhm",
+      "country": "Ukraine",
+      "city": "rOqTNZdtNyQCntubjMyu",
+      "street": "XCWBzhpdYMDDKSF6ZNLlRPH6tC5P6pFgawcUAm",
+      "house": 161,
+      "flat": 2,
+      "phone": "+5064422269",
+      "createdOn": "2026-01-04T01:51:59.000Z",
+      "notes": "52MOJGbkMPauqV31kN7rOBynOIZAl1eMO6a93TiyTs1lRW1tCt4fiBVBLXKyYCwcIKb5YUF8YQSj4Rl9f8ZxgNmK7xSCQYLZK67682DrlMgE9qBg4iWnMD5TuEfWT9J",
+      "_id": "6959c7bf1c508c5d5e9ee59f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

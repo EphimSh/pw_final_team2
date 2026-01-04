@@ -1,0 +1,173 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:53:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3742",
+    "etag": "W/\"e9e-g6HgegfESoM6RxutxVMWZMeVmZU\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959c8351c508c5d5e9f0e2f",
+      "status": "Canceled",
+      "customer": {
+        "_id": "6959c82f1c508c5d5e9f0c7c",
+        "email": "Judd73@yahoo.com",
+        "name": "VODXMLkEhMCYzaxPyAUhKStRXDfrmSdahZdF",
+        "country": "Great Britain",
+        "city": "Zlx",
+        "street": "pNI8jrewuoVPb91rXsdK1",
+        "house": 180,
+        "flat": 1,
+        "phone": "+4671191144",
+        "createdOn": "2026-01-04T01:53:51.000Z",
+        "notes": "3j0bcE71HWFk5HQXTfqypvRx3XlSZrq5Ak0MB0HRWWFJ1cZtZOiGXYlaMPSCs9OYafYwShHpYulZzjeEqkT1BY6x7NbiGljB9L"
+      },
+      "products": [
+        {
+          "_id": "6959c8331c508c5d5e9f0e1d",
+          "name": "Salad93217",
+          "amount": 815,
+          "price": 79731,
+          "manufacturer": "Tesla",
+          "notes": "LU2zWHX1MWkkEQ0TC79WQiIwsJx3fpCeMbCBPnc3bgz54psxmqsd7QBIogn66OfjcxOLJV3i7yEM1dK4jtpqV2xdmExISaYgMeLUqOFJVCW1Cga61uICNMrwRVvvRTvY3LzBYxPE3wDEhyRrlc17OJFwiUAIxw7nWC5CNmbrcnwjUfScBVW31KCAJVEu4b5KX15rWxZT8WvX1HMwhunZ9kXnzP0uqL8Rn5DuSy8buU8qxc1CrCmCmSefnn",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "France",
+          "city": "Mock City VDjbY",
+          "street": "MockStreetubmCbD",
+          "house": 109,
+          "flat": 9
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 79731,
+      "createdOn": "2026-01-04T01:53:57.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Canceled",
+          "customer": "6959c82f1c508c5d5e9f0c7c",
+          "products": [
+            {
+              "_id": "6959c8331c508c5d5e9f0e1d",
+              "name": "Salad93217",
+              "amount": 815,
+              "price": 79731,
+              "manufacturer": "Tesla",
+              "notes": "LU2zWHX1MWkkEQ0TC79WQiIwsJx3fpCeMbCBPnc3bgz54psxmqsd7QBIogn66OfjcxOLJV3i7yEM1dK4jtpqV2xdmExISaYgMeLUqOFJVCW1Cga61uICNMrwRVvvRTvY3LzBYxPE3wDEhyRrlc17OJFwiUAIxw7nWC5CNmbrcnwjUfScBVW31KCAJVEu4b5KX15rWxZT8WvX1HMwhunZ9kXnzP0uqL8Rn5DuSy8buU8qxc1CrCmCmSefnn",
+              "received": false
+            }
+          ],
+          "total_price": 79731,
+          "delivery": {
+            "address": {
+              "country": "France",
+              "city": "Mock City VDjbY",
+              "street": "MockStreetubmCbD",
+              "house": 109,
+              "flat": 9
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-04T01:53:57.000Z",
+          "action": "Order canceled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959c82f1c508c5d5e9f0c7c",
+          "products": [
+            {
+              "_id": "6959c8331c508c5d5e9f0e1d",
+              "name": "Salad93217",
+              "amount": 815,
+              "price": 79731,
+              "manufacturer": "Tesla",
+              "notes": "LU2zWHX1MWkkEQ0TC79WQiIwsJx3fpCeMbCBPnc3bgz54psxmqsd7QBIogn66OfjcxOLJV3i7yEM1dK4jtpqV2xdmExISaYgMeLUqOFJVCW1Cga61uICNMrwRVvvRTvY3LzBYxPE3wDEhyRrlc17OJFwiUAIxw7nWC5CNmbrcnwjUfScBVW31KCAJVEu4b5KX15rWxZT8WvX1HMwhunZ9kXnzP0uqL8Rn5DuSy8buU8qxc1CrCmCmSefnn",
+              "received": false
+            }
+          ],
+          "total_price": 79731,
+          "delivery": {
+            "address": {
+              "country": "France",
+              "city": "Mock City VDjbY",
+              "street": "MockStreetubmCbD",
+              "house": 109,
+              "flat": 9
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-04T01:53:57.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959c82f1c508c5d5e9f0c7c",
+          "products": [
+            {
+              "_id": "6959c8331c508c5d5e9f0e1d",
+              "name": "Salad93217",
+              "amount": 815,
+              "price": 79731,
+              "manufacturer": "Tesla",
+              "notes": "LU2zWHX1MWkkEQ0TC79WQiIwsJx3fpCeMbCBPnc3bgz54psxmqsd7QBIogn66OfjcxOLJV3i7yEM1dK4jtpqV2xdmExISaYgMeLUqOFJVCW1Cga61uICNMrwRVvvRTvY3LzBYxPE3wDEhyRrlc17OJFwiUAIxw7nWC5CNmbrcnwjUfScBVW31KCAJVEu4b5KX15rWxZT8WvX1HMwhunZ9kXnzP0uqL8Rn5DuSy8buU8qxc1CrCmCmSefnn",
+              "received": false
+            }
+          ],
+          "total_price": 79731,
+          "delivery": null,
+          "changedOn": "2026-01-04T01:53:57.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

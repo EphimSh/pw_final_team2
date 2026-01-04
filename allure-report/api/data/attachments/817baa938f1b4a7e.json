@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:55:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "471",
+    "etag": "W/\"1d7-fOvmR5Wsk026F9FeBIS7EFLFWGY\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Microsoft Surface Duo 3800",
+      "amount": 72,
+      "price": 2200,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T01:55:46.000Z",
+      "notes": "udzPxe5zfJjGPbEIWqUoeFsEbhE6kJfo2hLYXYueluf0CC3t3CENBjn7ElQaac6Hqf7UUS4NVDcdynBdGELY1pO8mxChMNGwrgBAiDgcq7pcSCNNRZikRhonpZCSu60hthzmhDfMMl0Q3G4ZV3gULn620CAAgkUeH3Lv0iPsrQOD2EGE0qodFY5dl3TxTrfzQYBECneCXRaNT8P4CHNFAz067GCjU6uOfOi9Jp8g6mxYDQrVZlBNWFkO0K",
+      "_id": "6959c8a21c508c5d5e9f2c76"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

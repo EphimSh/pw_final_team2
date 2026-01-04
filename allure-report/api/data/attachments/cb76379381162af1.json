@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:50:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-m7M9wCLS/p/0YZ2VpmbckrnaMPE\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon42163",
+      "amount": 862,
+      "price": 56453,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T01:50:03.000Z",
+      "notes": "OCAUyGYtZpWDH7W8TstlPDQmjv0A0Z0m7IWQVVQvjjr1gpEri0Uz6A99GIQfXUMMuMgfHp9AvS6gjuaFEV4Tpyg02wGVPN1w6nfTyzhTmZOOUEKKF7z9AJwLk8UdcETFtJCm1eBcHGuPQEjlReb9Yh77h4Vn2Ader3pk0S7Aq73QoUme70mPNTCObNJA54MrIgCQGfCbssN6lH6lzIox8P3tFOJycR33CID7AWMK3gV2sj7GO8WdeE9L4I",
+      "_id": "6959c74b1c508c5d5e9ebd3b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

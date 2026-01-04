@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:50:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-u9xrVKvox/Jd0pty6Owf85/YQ3s\"",
+    "keep-alive": "timeout=5, max=52",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon50918",
+      "amount": 125,
+      "price": 86219,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T01:50:41.000Z",
+      "notes": "yiTSeAcllNOeeJsCqffW78kb4eO9YiQJNnb2sdiQ5bKiT6zUifIYjWCkDaJuYAhINADt8ckPCgu456LqrsiB2V6i9pLLW39vwVzk67LIS3thDbvvvD0HmTDfudgECS2yEQnDvti7iLoGFkVIYEcQeVkp301ddILfYxddZc1mA5z2POxihhd5713Lzz7zJTb374tAtQOQgrralqs19hjm6bQuDGMowoPxfu4iVsCiyqHBnPEFpZLfgatZaw",
+      "_id": "6959c7711c508c5d5e9ecb3e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

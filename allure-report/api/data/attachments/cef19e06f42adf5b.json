@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:55:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-PCGiuo80G5+VN4r9BKAsaRMya8A\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse13420",
+      "amount": 79,
+      "price": 25215,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T01:55:42.000Z",
+      "notes": "jz6sloqA3i2w4DLRkdNi0wXgP48Zuw6225enWDWGnAZ1iOVeu78NN31HBJnMwv1xZUigJTLuEIz9kUuiOLaUodAiJC1CNf0RF7LMmkmmeR48znbIuSrDrAczF5GCMXPdoFnTx2eIiZZcNnuV5MmR8usqMsN0hBvVDvjozacXepaZjIbpWc36dfWlfi2qm1Qy3sF6ciU2VHnMVUXbFq0AnMbjmbbdTBavmXGtkdVD98eu9lWQxOcu6rkunl",
+      "_id": "6959c89e1c508c5d5e9f2b45"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

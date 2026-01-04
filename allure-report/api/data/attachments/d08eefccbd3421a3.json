@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:48:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "423",
+    "etag": "W/\"1a7-tncJEs7KULidAOI+QBL01RMY08I\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kip_Braun18@yahoo.com",
+      "name": "xQSdWetjxeSBZtXrmirxPREYxG",
+      "country": "Ukraine",
+      "city": "IMDiwjLSX",
+      "street": "XIt1LpyeDzJFlZs4ivqZHMrRHOXeuxeBOfTjGf6A",
+      "house": 70,
+      "flat": 4,
+      "phone": "+1655999193",
+      "createdOn": "2026-01-04T01:48:38.000Z",
+      "notes": "T9qwgI1xmM2dcxsolp8daUxyIU95RSlRfUPRPTPNVjIkyzQtDvRVNwsPj6ROUWVAiYtaCRCEJK6JPR25IpqQNGDz",
+      "_id": "6959c6f61c508c5d5e9ea3c8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

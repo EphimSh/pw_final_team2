@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:56:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-gCeoN2IeRexsJ+HFMb8z47+e4Ck\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X69493",
+      "amount": 225,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T01:56:16.000Z",
+      "notes": "ppYPdLX4XTSdfekMp2xur66NPC99b3LUbSmyv0tz32H5XIa1xWUWvzduLUQDxy2PExkkGD4ROiBj6Rob3OtKwxmJHpcp5tuPS0GbntqEPKgzxKFciW9Kqy0u4rROPnvsUKVuE2HZfP298rWcVWHngU8TpCwtpuKzBSQ6UebA4naDXXxGnvm39m2U3r7WLFLc79lj3vgfcZ6IhJZWjhMltouipncNOBdbCqYgyaAiBrIJURSL04FO2mTjYo",
+      "_id": "6959c8c01c508c5d5e9f37da"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

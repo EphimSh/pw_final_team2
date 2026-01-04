@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:55:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-btdpfziDLHY0nl2N94QaNe2Vwc4\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "6959c8811c508c5d5e9f24f5",
+      "name": "Mouse65085",
+      "amount": 521,
+      "price": 36779,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T01:55:13.000Z",
+      "notes": "Fa6VQvi2gERsSBnMOVyfUCWMrEqzkcrCkURqG7Mp6J6sFNNFRORU7KT2N0uxfzskOQFuXrLwIc73DmaUqANRcYddFEkfLfh6xyA1bSmZqNk7lwuKx8uW3wumOAtmGSW6X6LyTAWkh5UQjsLvzN5H0ChzjKcZuJuKDFjSgDOu3mVhWKODce5O70W4U5jns9iGqpmd0uSpNFSnj7LtFHX1FAmquh9yNMdFuSDYOi1ZARFjCkai7ns0xsbThQ"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

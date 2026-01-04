@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:49:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "405",
+    "etag": "W/\"195-8uWtghVI9yjttngZSskuoU9+AG0\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Horacio.Rutherford@hotmail.com",
+      "name": "BNKZiVhJUSiQcMXlLpRxpsFfSERWUAvzUS",
+      "country": "Great Britain",
+      "city": "faEmWDqkKJqfOZbOmYq",
+      "street": "FWk3Zk1jbT",
+      "house": 113,
+      "flat": 7,
+      "phone": "+1206152425",
+      "createdOn": "2026-01-04T01:49:02.000Z",
+      "notes": "7xOC03lbIDm1fiXH7sjPZIXILMDVaP8VIgVr9AQ9H44vFCvPsxPur1W1jrvCRgLR9I",
+      "_id": "6959c70e1c508c5d5e9ea932"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

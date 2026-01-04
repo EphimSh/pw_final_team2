@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:49:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-wUcWuWm/mBcDsRnd9u2xi/iTv+Q\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish21490",
+      "amount": 731,
+      "price": 20185,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T01:49:32.000Z",
+      "notes": "ksmRKAPK3VB6kRZuJqVVa2dNB5nafQBCjvnKkxtgCJqnFgYsvfKaLTFj9osqCgHg5v1X4otXiLAkiZzke5YD8EM8Qo8VtAhVK4Nm4QOqFuyImpBSxdQf1qfQpMNgW8E9DeUPkzeBKTcDgqKqMjjSzxv1zERTrNCPvnRzHRrTKy0b2HqYcoFHPsP3GjlJry8ErG6vSErBQYwBn2T98HDT0QFmh8JGCfO2cNU224erUAdua29sBP7TJn7OFA",
+      "_id": "6959c72c1c508c5d5e9eb158"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

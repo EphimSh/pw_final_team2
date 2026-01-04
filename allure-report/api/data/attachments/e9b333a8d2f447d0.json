@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:56:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "467",
+    "etag": "W/\"1d3-I7sZgkGWfGstbKWESo4vPobPdjE\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy S2518717",
+      "amount": 559,
+      "price": 3100,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T01:56:28.000Z",
+      "notes": "s0yv9F7ykHglWi1jk9oVjixNn39buvmbjl4BrY5uLc9YFVKGMb7LYmW6MkvgOZGHKAuDMd0pmYWBJwfJ3X5Jf7nNUkgQuX9xc1U9ZlWN3Ow6HR6uHwzeyFAk0k3yNMsBhLnG3TTDqOydL9cZlLSz4uECPSq35qUjWTkawVEG8W37LjKBkRBUqptsGQpO30pqsWEOYFveTY6cF2VLOQVKA4YoRyUt2s7dThjTagvWKlQP3gaCNLln37aCj6",
+      "_id": "6959c8cc1c508c5d5e9f3a42"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

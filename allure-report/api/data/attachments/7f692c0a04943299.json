@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:52:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "493",
+    "etag": "W/\"1ed-K7cv8TVBjE5/mv65odS46H9Hz24\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ernie3@gmail.com",
+      "name": "kbikRbaTNNxmf",
+      "country": "Russia",
+      "city": "IUkbbcqtERY",
+      "street": "u7K10bhQV8q06sDJ",
+      "house": 122,
+      "flat": 4,
+      "phone": "+4410332889",
+      "createdOn": "2026-01-04T01:52:20.000Z",
+      "notes": "4gKor7xs5oG9VggCRjXGVFSMs5X8tnSdqHSphtn0DgCSurrNDAONY5bEFMsmbciZnFAQoCL8TFp76uhgxxJH2ncjX8Z1XaoZJpdNUgim47JzzT0JaOwZGpyXawKvrxA0qHUiI6ARDCLKg6FhcHnZ0Fmi2xGHSCR6iSFKIoVHUafhHA8enfbp6F01DBl8UGJe3np2gJ",
+      "_id": "6959c7d41c508c5d5e9eee83"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

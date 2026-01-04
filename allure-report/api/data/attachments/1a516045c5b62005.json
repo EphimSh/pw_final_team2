@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:56:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-JlxoSxWXB0FInwvL934QbPS4SQA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X38244",
+      "amount": 830,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T01:56:22.000Z",
+      "notes": "c6j0qUeaoPBhyWI3eH2W3lbIFxEzQ7bwqdlP9MFp7GunZ08YPjTcyTNvnAVUmA9uYFw9gaox3tf6jU69meYO98OCoeJ7UE0NQrJYoKnkNr68bYOM9yt5SOmzXecche66OK7HlCl3SdbxC0zh86rdR2oL5kyEQuLFEO487ezUohMv0usz1CbH1rAggzoELwGDXLpuZJCNoZheZru0AvLIvfQl6A9tgu2Fglai6xIgEkfokDc1kksNbKCTX9",
+      "_id": "6959c8c61c508c5d5e9f3910"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

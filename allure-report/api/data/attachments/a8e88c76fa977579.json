@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:49:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-9Qa3gyUfDxoYKgjL78QKn634QZE\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap75126",
+      "amount": 172,
+      "price": 59369,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T01:49:16.000Z",
+      "notes": "sn751VwKh3Xsy6hArlAeTL4nluwc8JhufX4p1fvEsFicXOBkR1c4VgtjIboIqot8RRHqCuqGn3jf8YOPWiJdSNHkaZGx81t4nfAS4Wjr8NIsN07i3pquj8TgITtMwrTkdugZCn6x196Zq4SBeO6izEnbVFFkRY7uXm2m2tjjyOvOiSVxm1pj2hqyo4T8FfVavr4Byi2PJOR1zyZM02o3DAPi75O3yb7pyJoY0iPD1BoTlFpEhPo1vE3Dpe",
+      "_id": "6959c71c1c508c5d5e9eabbe"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

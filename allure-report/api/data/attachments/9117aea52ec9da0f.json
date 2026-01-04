@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:56:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-AfqtAQ/ja1XSHkJCWHMjwTVXtSM\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra25141",
+      "amount": 867,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T01:56:40.000Z",
+      "notes": "Ht2kWujxHqKBeWrnn0wezImFTZlxB0YLnZfNKBSQArHxE3xxYyeZKipsS1FbeTPHTBMiQ21MpDFsPf5kHbOJlKVYY7YqW1gu3NJKC7FHQQdoeZ5w7byGe0Ii6jJbW1rbSwmqLjK118sjaswaBMu7Ktw4XNSV081Ar9B34m6hGWSUWOsOAKjteUeQ2ROXa9lyjA9L7UUpap82J2cG3d9jx0Ohb5VBSwmT6dWzntAYLrbz4KmOaMJ5PqtiVh",
+      "_id": "6959c8d81c508c5d5e9f3eeb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

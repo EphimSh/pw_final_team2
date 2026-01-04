@@ -1,0 +1,173 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:51:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3694",
+    "etag": "W/\"e6e-AHYMgTRAEX7OxOBEAQP3Fm018Vg\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959c79f1c508c5d5e9edbb0",
+      "status": "In Process",
+      "customer": {
+        "_id": "6959c7961c508c5d5e9ed729",
+        "email": "Margarett.Rowe@yahoo.com",
+        "name": "PofuUlwQRyEuNU",
+        "country": "France",
+        "city": "kChYt",
+        "street": "Jfw1Ebkl46akZQqMx4TsZYiLFIGI4Nthg0l",
+        "house": 14,
+        "flat": 4,
+        "phone": "+3077343378",
+        "createdOn": "2026-01-04T01:51:18.000Z",
+        "notes": "wHc79Kb7TIR91Bwv"
+      },
+      "products": [
+        {
+          "_id": "6959c79a1c508c5d5e9eda81",
+          "name": "Computer85927",
+          "amount": 965,
+          "price": 22389,
+          "manufacturer": "Sony",
+          "notes": "PPh63HHVcuUKui9tzWSIcEFEkXwAbFC3qrdT7TvotGdu5d9X9VGlYIHMUFPBgdEbUgkiFWTKvGbuL6rpkuD0C9NWq0G029ay0LiBBVfLaowjRuJQeumFfKgDTniiWbfP5ufiP5T51CLca1UxKp3gXfDntZqwU6J3IpsuiTdIGm0jXGbPuSnNVWBDVHRBlbQSzHzIaC513YNQTo4UlURFcYfrScv4P5iQXH78vXbHbUJgpaEzxW1Pck0qYa",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Belarus",
+          "city": "Mock City tNUUTmCfLk",
+          "street": "MockStreet8WB3",
+          "house": 145,
+          "flat": 9
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 22389,
+      "createdOn": "2026-01-04T01:51:27.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "In Process",
+          "customer": "6959c7961c508c5d5e9ed729",
+          "products": [
+            {
+              "_id": "6959c79a1c508c5d5e9eda81",
+              "name": "Computer85927",
+              "amount": 965,
+              "price": 22389,
+              "manufacturer": "Sony",
+              "notes": "PPh63HHVcuUKui9tzWSIcEFEkXwAbFC3qrdT7TvotGdu5d9X9VGlYIHMUFPBgdEbUgkiFWTKvGbuL6rpkuD0C9NWq0G029ay0LiBBVfLaowjRuJQeumFfKgDTniiWbfP5ufiP5T51CLca1UxKp3gXfDntZqwU6J3IpsuiTdIGm0jXGbPuSnNVWBDVHRBlbQSzHzIaC513YNQTo4UlURFcYfrScv4P5iQXH78vXbHbUJgpaEzxW1Pck0qYa",
+              "received": false
+            }
+          ],
+          "total_price": 22389,
+          "delivery": {
+            "address": {
+              "country": "Belarus",
+              "city": "Mock City tNUUTmCfLk",
+              "street": "MockStreet8WB3",
+              "house": 145,
+              "flat": 9
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T01:51:28.000Z",
+          "action": "Order processing started",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959c7961c508c5d5e9ed729",
+          "products": [
+            {
+              "_id": "6959c79a1c508c5d5e9eda81",
+              "name": "Computer85927",
+              "amount": 965,
+              "price": 22389,
+              "manufacturer": "Sony",
+              "notes": "PPh63HHVcuUKui9tzWSIcEFEkXwAbFC3qrdT7TvotGdu5d9X9VGlYIHMUFPBgdEbUgkiFWTKvGbuL6rpkuD0C9NWq0G029ay0LiBBVfLaowjRuJQeumFfKgDTniiWbfP5ufiP5T51CLca1UxKp3gXfDntZqwU6J3IpsuiTdIGm0jXGbPuSnNVWBDVHRBlbQSzHzIaC513YNQTo4UlURFcYfrScv4P5iQXH78vXbHbUJgpaEzxW1Pck0qYa",
+              "received": false
+            }
+          ],
+          "total_price": 22389,
+          "delivery": {
+            "address": {
+              "country": "Belarus",
+              "city": "Mock City tNUUTmCfLk",
+              "street": "MockStreet8WB3",
+              "house": 145,
+              "flat": 9
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T01:51:27.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959c7961c508c5d5e9ed729",
+          "products": [
+            {
+              "_id": "6959c79a1c508c5d5e9eda81",
+              "name": "Computer85927",
+              "amount": 965,
+              "price": 22389,
+              "manufacturer": "Sony",
+              "notes": "PPh63HHVcuUKui9tzWSIcEFEkXwAbFC3qrdT7TvotGdu5d9X9VGlYIHMUFPBgdEbUgkiFWTKvGbuL6rpkuD0C9NWq0G029ay0LiBBVfLaowjRuJQeumFfKgDTniiWbfP5ufiP5T51CLca1UxKp3gXfDntZqwU6J3IpsuiTdIGm0jXGbPuSnNVWBDVHRBlbQSzHzIaC513YNQTo4UlURFcYfrScv4P5iQXH78vXbHbUJgpaEzxW1Pck0qYa",
+              "received": false
+            }
+          ],
+          "total_price": 22389,
+          "delivery": null,
+          "changedOn": "2026-01-04T01:51:27.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

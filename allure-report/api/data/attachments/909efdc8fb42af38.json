@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:54:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-4TP6r5yaGAzdqu64PwC7xH2OJME\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken15698",
+      "amount": 310,
+      "price": 1,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T01:54:14.000Z",
+      "notes": "mdiCnOMpg2fCibhOKLFkac1buDOEgMfNhm4fJL19F4OFvN3nD09xT5StOFiCj7tOLPiTviA5MNindGrc9JLOJEMRHeaRm8XYWP52bohgC4Yx7bF2b3NmZHpaVnzNrRaaAogGUy9fXEHnebRE0nC7PW8eQtWTkIkPsd7jhIEqiRKRwHKk0hRHRdP65ADPIQbXyZCC7z2w9CUwKEz8rcnVcMQjqr76K972F823hfWh5fMWgi2C7umvEeoMpe",
+      "_id": "6959c8461c508c5d5e9f166b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

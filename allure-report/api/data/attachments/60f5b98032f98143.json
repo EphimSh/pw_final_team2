@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:49:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "416",
+    "etag": "W/\"1a0-00ezbvOGKIholJ1kmvJaSLdGh9g\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Santa88@hotmail.com",
+      "name": "HEUCDiqfdefUSaleRlcfJQXoxRAwLQliEmqHyJG",
+      "country": "Germany",
+      "city": "JOItTFamBnX",
+      "street": "ieORuI30eF18Q",
+      "house": 180,
+      "flat": 6,
+      "phone": "+9785032037",
+      "createdOn": "2026-01-04T01:49:44.000Z",
+      "notes": "vET3vGrtoNPsWbjfBCh7qP1XzeYfw7OXuUeGGlL6rYv07z8Jd5t0O9c6Ei100ExnPM3RANWDufe8Gtsd9lHGr9NnZVF7iB",
+      "_id": "6959c7381c508c5d5e9eb71c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

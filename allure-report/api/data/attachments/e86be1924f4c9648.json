@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:53:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-6NSAM180SrUklvBN/6FvTytNrWU\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse26185",
+      "amount": 668,
+      "price": 21632,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T01:53:13.000Z",
+      "notes": "ZLQLnmrOp8HwhEJ3kTS35YAFqkXssMiA5WuYNQE7sASxBUSS45CGsbi7aTr8gNzb8qNSxlcS18YqVcCU9sp3t2lQxWrIJ4Wv1VLifoPq54QPj4oxYusFQsln5MAfEAtyEb85AvCnd6LDAXAbTjxjDxk9EiK53cAq8lwNkVZKnsZVDiL51eT8h2ZTtM0aV2vIt0M1ljlbIInvPmnxdyWAfpcvwzwhTe5w7SmJzgti0CjzxTsflwmQGSWIBE",
+      "_id": "6959c8091c508c5d5e9eff95"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

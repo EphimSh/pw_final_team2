@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:48:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "314",
+    "etag": "W/\"13a-pB6e9clJ0Ef89nEn3gpzI/UW/pg\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kaycee.Wyman@gmail.com",
+      "name": "nFbGxrAulIpFqxhKAZFrNhhOiEEQMyg",
+      "country": "Ukraine",
+      "city": "IKCtTWE",
+      "street": "p0EWs",
+      "house": 159,
+      "flat": 5,
+      "phone": "+4380693549",
+      "createdOn": "2026-01-04T01:48:42.000Z",
+      "notes": "ejmdFrkAk",
+      "_id": "6959c6fa1c508c5d5e9ea42d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

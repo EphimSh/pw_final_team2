@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:48:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-K7Jh72dx3HZI5uvyU8aHwhrROww\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car50494",
+      "amount": 359,
+      "price": 56656,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T01:48:55.000Z",
+      "notes": "oHjZfJWAWfQUQPASDneAzEFXO1I6bjr2hmiwfDDSQwT6uC0YjZ9PoQmrTmJsi4XtIXbehhmh0N2Prng1ioYUjZYSjQNlBZCCRxqpLLSD8nO1I94QXU2SeiD1QvIn8s1ROFOV3rusbXq1otuSbiDGj8UrhtoOMwVczDAqN8oTSvqXQc0pJgAXRC5XydJZnQyAcchLxs22q10EwT3DYV5OHyplMXSzuiq9W1PEOdKCcNJwzEqjwKRX0TTBEt",
+      "_id": "6959c7071c508c5d5e9ea4fe"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

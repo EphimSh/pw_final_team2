@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:49:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-RgOYT0K+2ap3m2QUIGmy4ohZXWo\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants65233",
+      "amount": 418,
+      "price": 5910,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T01:49:54.000Z",
+      "notes": "iFt0A5QLOTRp9iEdAuqDiXA5jVF0qVdOiVXjjXQBJPuLZu89D2Q3vQBxYZqo68i6gkSbJGbzuNTDYF4gWBrvRAPKl43l6qtUI4PmKWl8cgB9RLQcFuc2Uju4JAiiY3erJhUvSGqesvtI2lzKXiaIgGk1cy0AZSPkLmUbyA12Y20iagBzmwN50Bu19HPh36nswmbYrX6rnDSoCYSmIW2kti48EUr23cKm9yp7MMCuIL4JLCUUperoLhGUEW",
+      "_id": "6959c7421c508c5d5e9eba09"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

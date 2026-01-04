@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:51:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1876",
+    "etag": "W/\"754-mxGBM1k3VVD7hjF63PDBk8Po+0U\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959c77b1c508c5d5e9ecdfc",
+      "status": "Draft",
+      "customer": {
+        "_id": "6959c7761c508c5d5e9ecb8e",
+        "email": "Lane65@gmail.com",
+        "name": "uQDvtSiHZRyKfCcFMaIebyQWlMcIBdFXtU",
+        "country": "USA",
+        "city": "NZOrvrwuXdHIkrTFHg",
+        "street": "wt7E05fNq0bmppvoSXdzCkQUe8",
+        "house": 147,
+        "flat": 4,
+        "phone": "+1964836218",
+        "createdOn": "2026-01-04T01:50:46.000Z",
+        "notes": "CnPI2JQtTPtVrFCT1tj0MnAvhaDgByFWXXlAKTo5N3je6l7teRuKI4crMKqrrhzDBFiKAL5vKidgqc4CtjOEGsxAlfD4ArNi1mUbfFkv9JkBp5u6PGBN8DXOPl0rcUpZ8RqaTcONqiHcCJjvaDVqAAlFudVkP5R42BwKqrzogWjaukoR0OpWpzC3MVjew6O7e3oAW85b2po3U4ZhLC6YijE2"
+      },
+      "products": [
+        {
+          "_id": "6959c77a1c508c5d5e9ecdd4",
+          "name": "Mouse95638",
+          "amount": 639,
+          "price": 59283,
+          "manufacturer": "Amazon",
+          "notes": "iPLkvx38oPtj4HMCZsjLkcB0N50J0GB36TWHCK9kDeNEkEySKGT749pDWq398yDhHZkawPHL1WOmTdydEH9FvuQCCHlDezNbqcZAvhkgAnG8Z8Fz9wPygIrSVthCpn5i9kZvcWYCGLG1i1efGguFsn9oiaiP1wtgEAHXUUoZ9iXAdUydBBgJDSwN8c6rdRrhS8OZZrRNPOJp1QzeJsDmEO682VI5xVSDydyv5vj553b2BTA5ghPFiVuSK7",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 59283,
+      "createdOn": "2026-01-04T01:50:51.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6959c7761c508c5d5e9ecb8e",
+          "products": [
+            {
+              "_id": "6959c77a1c508c5d5e9ecdd4",
+              "name": "Mouse95638",
+              "amount": 639,
+              "price": 59283,
+              "manufacturer": "Amazon",
+              "notes": "iPLkvx38oPtj4HMCZsjLkcB0N50J0GB36TWHCK9kDeNEkEySKGT749pDWq398yDhHZkawPHL1WOmTdydEH9FvuQCCHlDezNbqcZAvhkgAnG8Z8Fz9wPygIrSVthCpn5i9kZvcWYCGLG1i1efGguFsn9oiaiP1wtgEAHXUUoZ9iXAdUydBBgJDSwN8c6rdRrhS8OZZrRNPOJp1QzeJsDmEO682VI5xVSDydyv5vj553b2BTA5ghPFiVuSK7",
+              "received": false
+            }
+          ],
+          "total_price": 59283,
+          "delivery": null,
+          "changedOn": "2026-01-04T01:50:51.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

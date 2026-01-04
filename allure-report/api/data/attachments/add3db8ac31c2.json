@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:48:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "499",
+    "etag": "W/\"1f3-J63xLHhPKQWuOFPX/cUz3tMQynQ\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Felipa75@yahoo.com",
+      "name": "qKiWSqwQlexPseemWuPtHJMdUJmKmQj",
+      "country": "Russia",
+      "city": "NcsddVbvI",
+      "street": "C6QvwUL7sY0GFCdQ",
+      "house": 164,
+      "flat": 7,
+      "phone": "+5795895127",
+      "createdOn": "2026-01-04T01:48:51.000Z",
+      "notes": "LSVpMLbOvAaVK7Aaf9t8hBaRAG1E8qMjmgtvpVQlNcuyy4dh0g4XYwegkU40FCoNuUXXauwFSvf7bhLxwStj5rqmAZcBpYL9ncIEpJ3C6Q5jlAvpLg3n4uIpn0TSAQ7Cyp1vuvQIRas8l2DTV4OW4nxb1PJ2SsbngTNCkueePUy1zsGZDhze9mkC1S",
+      "_id": "6959c7031c508c5d5e9ea4d4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

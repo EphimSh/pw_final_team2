@@ -1,0 +1,119 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:55:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4402",
+    "etag": "W/\"1132-umLf3y/2E5yIs5uDVAD8yCenBVI\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "6959c89e1c508c5d5e9f2b43",
+        "name": "Table69788",
+        "amount": 131,
+        "price": 83384,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-04T01:55:42.000Z",
+        "notes": "n9Osp8MFqa5gQQDiCo50yDBvAiQPVM4iXAMpnBdLPiBFS4levpxnA3RZUqhzLpNJz4UejAZEauZOMZc5k5wxS70YugTtCrELZij8hzfULNywt9P01uh1Epb6SL1Or4MTP7yd3rwDCPclFnvMbanjZAL7lLaPSEHGxTj1FMeIGidlTsxhde0fG8zgsWBogtSnGVpDE86noFqejQLcM1PI1RsvCY3jmBv0qiRGTqWCSvE3HwGUHfCwnSYeBM"
+      },
+      {
+        "_id": "6959c89b1c508c5d5e9f2903",
+        "name": "Microsoft Surface Duo 365269",
+        "amount": 870,
+        "price": 2200,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-04T01:55:39.000Z",
+        "notes": "CTlmiupBs2Q9S3DRT4buEbdhW5R8GHmbL22FlM4FOD55Qw07Nz89c9JN1NZq2RswAK82HmmsxfQfJ0rdzeJRu8NJXMrquQgC6ZFbrri8IBHHJjaKm5nd9k9yDsPAFK4Yx3RiGym0NGfqYsqz670ypBdPKfyMr5RbSCJ4Vr3ikkI9LTW7OHLG28agjIvmo2OTyMuKETlQQpYHHMsLfOkI3fLtsSyWzIrpJlghcSUBvKTq8NZLtFZob7FpqR"
+      },
+      {
+        "_id": "6959c89b1c508c5d5e9f2905",
+        "name": "Microsoft Surface Duo 317884",
+        "amount": 702,
+        "price": 2200,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-04T01:55:39.000Z",
+        "notes": "lE4zSJznn2QeeQIpeN69UnQ9nrmKuGEy7md9C6UhasjAPKzwOthUn3fKNHf67W3SR0nnL3zz9rtVMWjod4mbSJthwL4M1sfolHgOEXqIEnHHJrYDDH6SA526V4HXQAvt702RkaE2u0kizPf6ugpPNMqW7WPSFR8bS7S4WtB0A8A9mNq1SJueUunEKtRXEVV9dl97pe94htt4XhIBgDUOlEUx31harudepyYD21lSibB261isakc3OAFf1I"
+      },
+      {
+        "_id": "6959c7d91c508c5d5e9ef1db",
+        "name": "Pants78926",
+        "amount": 116,
+        "price": 70947,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-04T01:52:25.000Z",
+        "notes": "4UPD47R1c8ZZjf5MV9VpPZ5Y2iPuIn33JsUtMflpApxN3HpPhhUBlIC7cWv5AhxOOkdWOA5FFsiqBBH1a1yHoYUYHp6bvoMkeNsoCDhuBGBpr8gSN2qidHsbXntws6KFMIdjsEAyjStIgvn5abWKG8NIM2Lg7zovECJ1Eh2s0GxUqrBt0A7alkff931BniwMs9jufWYs1iO3yN3FdSe8XMcmhHNucofycWXKdgj573CW7BtBbRbMwd6els"
+      },
+      {
+        "_id": "6959a9111c508c5d5e9e96f6",
+        "name": "Microsoft Surface Duo 327639",
+        "amount": 115,
+        "price": 2200,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-03T23:41:05.000Z",
+        "notes": "urvFXbtAGfKvWTSQadxU27LzrCzvEtV9IdabIBm9ufktEBoieKswLHTMNCvVW9VawCL5bYsMoZBnc5eTZa4tFyjvjpZq5lPa9LjrjMiBgF2oRqAWDHvKatefFB8Y6ICmQDIr9KZBDQwBsgxZBvtOHMy0Ame1tJm3sUXdoPVwZh8lmcZIApJ7S1D9DZNUDXTY8y3qCaO09urFpZz7kzScAG24q6a3dAJOCRwwxqOKHjx7scW1u2Zu6nZfgc"
+      },
+      {
+        "_id": "6959a9071c508c5d5e9e9388",
+        "name": "Microsoft Surface Duo 388968",
+        "amount": 247,
+        "price": 2200,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-03T23:40:55.000Z",
+        "notes": "WBylKw96XA2YqxQAj4yoHiXhSsQIDDyFMtLxp2twE7YBrx3uZNrr4wGkBJxTPut2GF6emJNJ3O0osVxlZwgMgScFE3hof6eHHAuwIyJZkbNyrl6teFUR1H400Q5PGicIE3xwAxbShOWHrfjFRmTLqL1Z38hXw21hQw9golmSIl1pRIcau1Qy52mncWJBrd4Pw6EmPxxpH5MuCq8Vvl9DzgLgZpwrVy2mpMKTHLqUM51dR9gQRQgNGYvbjL"
+      },
+      {
+        "_id": "6959a9071c508c5d5e9e9386",
+        "name": "Microsoft Surface Duo 376138",
+        "amount": 503,
+        "price": 2200,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-03T23:40:55.000Z",
+        "notes": "T9w2iyyQwm4u4pLD6axNrqnabQO0Wzd4ZB3PN3cimjHJCJeNXP95M2y9NhLVYNI1eK2FqrlLob6yNzLOQX62eTJhr29oq0EYSewEALlbBzr4GnPyDuLseToJx8sDA8cRdtNtJNcsZu98AbeAXt35gX3F1M83pECU8RSIy6kG7FnDUrgqxPRZifuh51oaCRgYrJmDSTzuPt1AvRpZmPZtTpqs4uw88NMxJ5qZzvaMZoTBTY8OmBjcIG3n5u"
+      },
+      {
+        "_id": "6959a8cb1c508c5d5e9e8117",
+        "name": "Microsoft Surface Duo 312946",
+        "amount": 505,
+        "price": 2200,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-03T23:39:55.000Z",
+        "notes": "PpBRtfZouJdatzvlqFVM1he9h1bQRg2y1oercR9BCZfyev5HqrtqONutfyLMKDFKWgVpsqYKKqOXADglcKDAbzuB7mhIueWRSX5EQxSjuFSAtJkrtQDZzzoQnFKVfB5JN7aiOAf9QGCKFYZTxwQgIuEIuFR0hr5MNutWzLOVt14jWR8LLpZ5KmyfO7lEVk3ITGPJCzAyltZNH4LirxOjFExFPwodm7CbDoqKKcAJSWTnaL6DoXOqrcq8ut"
+      },
+      {
+        "_id": "6959a8c51c508c5d5e9e7ecc",
+        "name": "Microsoft Surface Duo 353030",
+        "amount": 68,
+        "price": 2200,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-03T23:39:49.000Z",
+        "notes": "sUYf16nhZDUPfViRqDAvuAAAJPIasD25kvqV55rvIN3SirD7JGQbWGPq8kPX5VyHeoO3Bp7t5hRIQ8RGEFTn1yWkY0GWWozEM02TmP232klxG65lzprDoRUqigCJpyhWryr7ZrnK9sbY7kWlFnACKetuW6aP70aDAjQjKf5itJJoV5cIFOcKC5yrKwfUUa37XsQVIBrNSykPxmjjWpZlSGY5aSa5RAeVZx8CuiFY8UP1zWePEva848hvIM"
+      },
+      {
+        "_id": "6959a8c11c508c5d5e9e7c81",
+        "name": "Microsoft Surface Duo 374206",
+        "amount": 165,
+        "price": 2200,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-03T23:39:45.000Z",
+        "notes": "I1KMLFscv118kLsAMOz6qN7gY6akRt4fLm4V85AUmeIRf8y94ekWwX7stKVpdbFnBuS567s0vrR66SFC2neFCLe7zM0AHt0b1faB3LL5yikO6oXiBxv1brnlVFNIYvXMh5eBNHqYOrrzsD6b5j4pubZxoCDha2sYh0HSAwyHkMDQAL5BXjdfxZgTz383lGNynDgvpTCBKuUrUGYKiastlRqpIytAYfZJ6pLy1CVpd84dfCJymZprqPWcZq"
+      }
+    ],
+    "total": 134,
+    "page": 1,
+    "limit": 10,
+    "search": "Microsoft",
+    "manufacturer": [],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "desc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

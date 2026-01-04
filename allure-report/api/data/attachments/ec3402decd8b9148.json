@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:50:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-6LeE7ZoeebGFg7ROuXjI6WTu7Qw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball2282",
+      "amount": 901,
+      "price": 60882,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T01:50:04.000Z",
+      "notes": "JJWAUUWrB2UT1Vk04k0OFxBL0GNsDvq25Af9utkyB7VJg2Qpcufw9HuwiOzdgbsyQPq50VoE1Byk6IgzN52zu4h94fENEbk9CnHuSTJ7U3HCMBdmQ23ifjvXqgCY0b1vOg9VjbBaQI0wTR2GICRGX0IXwWT5j6meFTG6dgkPFiroDrcmiuY0WIz5nLJZCq7GeLJZ5LJ0SXIpO2atQkSrhbn5QMkKDcxHCzOPvAEAGr8yqg1onQoPdt81AV",
+      "_id": "6959c74c1c508c5d5e9ebe55"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

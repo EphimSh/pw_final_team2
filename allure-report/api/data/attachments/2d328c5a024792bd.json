@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:53:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2780",
+    "etag": "W/\"adc-wL4J0I+xf6HEjiL7VIJyUZ0gz6A\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959c7ef1c508c5d5e9ef765",
+      "status": "Draft",
+      "customer": {
+        "_id": "6959c7e71c508c5d5e9ef3e7",
+        "email": "Jeanie_Wunsch@gmail.com",
+        "name": "AYCx",
+        "country": "Ukraine",
+        "city": "HcvTOmMVJHtoEk",
+        "street": "yr4eibcgvuU",
+        "house": 37,
+        "flat": 8,
+        "phone": "+8559733739",
+        "createdOn": "2026-01-04T01:52:39.000Z",
+        "notes": "zQo7yu7YgiCiR2a8IxmWdj4380MrJHZP"
+      },
+      "products": [
+        {
+          "_id": "6959c7ec1c508c5d5e9ef637",
+          "name": "Bike34707",
+          "amount": 434,
+          "price": 62103,
+          "manufacturer": "Amazon",
+          "notes": "D1VSxuCJrV2LTQx7XXqVvnWgGGMfndlhcvme5rfWdfyIE2ntCCGXqfDQpWV1Q9o18pr9NavW1BiBOt3iAoy0JQNWcgLLfqaQ1r5ZlOs5yYTipVP4FCJN1xKxRnzio0jrI4asfnU3852JRyR75pAuKX9z3cMkXml0h60DCYLGv6VvyA7HePh0YILP0W8wxKzDfL6ghiMqyKktDSkLLak8nzoIu0Jm4b8dZyTsYV5TND2Ms95kVkBQpyfhKc",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Great Britain",
+          "city": "Mock City IoYTdZIkQL",
+          "street": "MockStreetFrGylzCFwO1fsoJDq",
+          "house": 178,
+          "flat": 11
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 62103,
+      "createdOn": "2026-01-04T01:52:47.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6959c7e71c508c5d5e9ef3e7",
+          "products": [
+            {
+              "_id": "6959c7ec1c508c5d5e9ef637",
+              "name": "Bike34707",
+              "amount": 434,
+              "price": 62103,
+              "manufacturer": "Amazon",
+              "notes": "D1VSxuCJrV2LTQx7XXqVvnWgGGMfndlhcvme5rfWdfyIE2ntCCGXqfDQpWV1Q9o18pr9NavW1BiBOt3iAoy0JQNWcgLLfqaQ1r5ZlOs5yYTipVP4FCJN1xKxRnzio0jrI4asfnU3852JRyR75pAuKX9z3cMkXml0h60DCYLGv6VvyA7HePh0YILP0W8wxKzDfL6ghiMqyKktDSkLLak8nzoIu0Jm4b8dZyTsYV5TND2Ms95kVkBQpyfhKc",
+              "received": false
+            }
+          ],
+          "total_price": 62103,
+          "delivery": {
+            "address": {
+              "country": "Great Britain",
+              "city": "Mock City IoYTdZIkQL",
+              "street": "MockStreetFrGylzCFwO1fsoJDq",
+              "house": 178,
+              "flat": 11
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T01:52:47.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959c7e71c508c5d5e9ef3e7",
+          "products": [
+            {
+              "_id": "6959c7ec1c508c5d5e9ef637",
+              "name": "Bike34707",
+              "amount": 434,
+              "price": 62103,
+              "manufacturer": "Amazon",
+              "notes": "D1VSxuCJrV2LTQx7XXqVvnWgGGMfndlhcvme5rfWdfyIE2ntCCGXqfDQpWV1Q9o18pr9NavW1BiBOt3iAoy0JQNWcgLLfqaQ1r5ZlOs5yYTipVP4FCJN1xKxRnzio0jrI4asfnU3852JRyR75pAuKX9z3cMkXml0h60DCYLGv6VvyA7HePh0YILP0W8wxKzDfL6ghiMqyKktDSkLLak8nzoIu0Jm4b8dZyTsYV5TND2Ms95kVkBQpyfhKc",
+              "received": false
+            }
+          ],
+          "total_price": 62103,
+          "delivery": null,
+          "changedOn": "2026-01-04T01:52:47.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

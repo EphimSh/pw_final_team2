@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:52:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "568",
+    "etag": "W/\"238-kev1B2Xn9A25omSOsCRO9+m5Drg\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jaren.Mante61@hotmail.com",
+      "name": "oQjbOHsBZtaCTJAiPvyS",
+      "country": "Ukraine",
+      "city": "FMJgXuXyjQtb",
+      "street": "VfPtZlbPvTqqI6vRZomqg3HsmnOgsusXg9SiDgZd",
+      "house": 76,
+      "flat": 1,
+      "phone": "+4416447039",
+      "createdOn": "2026-01-04T01:52:21.000Z",
+      "notes": "Fa4ImCye7JFCg8GqwvkjEmdmaL4gWihiSDsuZCF7uB15xMxGcrgCUk8CZivx3EmpWfcDmFsfWZJ7lyKqtxYDASKoW9Va1Cf6kzF1LTiWfr5hwaHGkszrGmP0okfS1bHzncmIOTuhtyYIxCWibZLCshtx71okwLkQon8d91BJ8Lv08B1xStOaT9XEEkvIYp9oGfvQBAdsPqoB0XKtvfEuCVTDygciu6CaBWeCGRnW",
+      "_id": "6959c7d51c508c5d5e9eee88"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

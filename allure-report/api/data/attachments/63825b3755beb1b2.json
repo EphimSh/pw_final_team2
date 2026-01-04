@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:50:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2950",
+    "etag": "W/\"b86-XiYnpLTnaqvFefAW9DXySc20TBw\"",
+    "keep-alive": "timeout=5, max=65",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959c7571c508c5d5e9ec124",
+      "status": "Draft",
+      "customer": {
+        "_id": "6959c7511c508c5d5e9ebec9",
+        "email": "Felipa.Monahan@yahoo.com",
+        "name": "AwGfmeVvVOyhFruZpbLZnjwoxAylXmUoyhC",
+        "country": "Great Britain",
+        "city": "tnvkBVlIdzGqA",
+        "street": "15y75rMmLFPC5yihc",
+        "house": 126,
+        "flat": 1,
+        "phone": "+5026898509",
+        "createdOn": "2026-01-04T01:50:09.000Z",
+        "notes": "NssJFDznRwmLrr3Uet9uGWVwXHinzZJEJdQL9aFIgK6RHuE3LYKkP1UHeABhRtDCNAW0EG9ePJMzMzRLhfACAd8u3yk4lGASMB5wGXYoffQEuAwpa2LSHAKOrJtVKLq8xTN5xrXt5ySQ1ja8oaG2JWuSLGLhBtp2t6lX801YRCzr97tECJ5BTPZuPLj4GX9h2eM9DmLyKqEYNQaJ"
+      },
+      "products": [
+        {
+          "_id": "6959c7551c508c5d5e9ec106",
+          "name": "Salad64493",
+          "amount": 497,
+          "price": 35571,
+          "manufacturer": "Microsoft",
+          "notes": "LFMJ1VVpKyviK4fCdj5MdFVH0EjsO1QlWVgQ5ZmEf6MmClDWtgK7y0rMZtql7Qw7ZgsW3GMJgBx0zZKKksku7S6tzm7hOZ3EXsi62CxGEcrd4IsxJbtCSe6XOux8bZINDMbrdhYWZkKClQvf6gxSH8BRGIcqFrIZ83smtPzbbkhzgYzsNZ6hjkezG4sniYFnZaQLfU3Q7vzfc1qWBAggdtJojtb5FNPRwflggpYwjs4ffgAkajIC5P4im7",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Ukraine",
+          "city": "Mock City PPM",
+          "street": "MockStreetTiAX",
+          "house": 8,
+          "flat": 4
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 35571,
+      "createdOn": "2026-01-04T01:50:15.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6959c7511c508c5d5e9ebec9",
+          "products": [
+            {
+              "_id": "6959c7551c508c5d5e9ec106",
+              "name": "Salad64493",
+              "amount": 497,
+              "price": 35571,
+              "manufacturer": "Microsoft",
+              "notes": "LFMJ1VVpKyviK4fCdj5MdFVH0EjsO1QlWVgQ5ZmEf6MmClDWtgK7y0rMZtql7Qw7ZgsW3GMJgBx0zZKKksku7S6tzm7hOZ3EXsi62CxGEcrd4IsxJbtCSe6XOux8bZINDMbrdhYWZkKClQvf6gxSH8BRGIcqFrIZ83smtPzbbkhzgYzsNZ6hjkezG4sniYFnZaQLfU3Q7vzfc1qWBAggdtJojtb5FNPRwflggpYwjs4ffgAkajIC5P4im7",
+              "received": false
+            }
+          ],
+          "total_price": 35571,
+          "delivery": {
+            "address": {
+              "country": "Ukraine",
+              "city": "Mock City PPM",
+              "street": "MockStreetTiAX",
+              "house": 8,
+              "flat": 4
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-04T01:50:16.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959c7511c508c5d5e9ebec9",
+          "products": [
+            {
+              "_id": "6959c7551c508c5d5e9ec106",
+              "name": "Salad64493",
+              "amount": 497,
+              "price": 35571,
+              "manufacturer": "Microsoft",
+              "notes": "LFMJ1VVpKyviK4fCdj5MdFVH0EjsO1QlWVgQ5ZmEf6MmClDWtgK7y0rMZtql7Qw7ZgsW3GMJgBx0zZKKksku7S6tzm7hOZ3EXsi62CxGEcrd4IsxJbtCSe6XOux8bZINDMbrdhYWZkKClQvf6gxSH8BRGIcqFrIZ83smtPzbbkhzgYzsNZ6hjkezG4sniYFnZaQLfU3Q7vzfc1qWBAggdtJojtb5FNPRwflggpYwjs4ffgAkajIC5P4im7",
+              "received": false
+            }
+          ],
+          "total_price": 35571,
+          "delivery": null,
+          "changedOn": "2026-01-04T01:50:15.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

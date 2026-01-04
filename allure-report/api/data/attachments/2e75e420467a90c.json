@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:51:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-jMgow9Xh6IAbL+ulZucm2VXRxsM\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer85927",
+      "amount": 965,
+      "price": 22389,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T01:51:22.000Z",
+      "notes": "PPh63HHVcuUKui9tzWSIcEFEkXwAbFC3qrdT7TvotGdu5d9X9VGlYIHMUFPBgdEbUgkiFWTKvGbuL6rpkuD0C9NWq0G029ay0LiBBVfLaowjRuJQeumFfKgDTniiWbfP5ufiP5T51CLca1UxKp3gXfDntZqwU6J3IpsuiTdIGm0jXGbPuSnNVWBDVHRBlbQSzHzIaC513YNQTo4UlURFcYfrScv4P5iQXH78vXbHbUJgpaEzxW1Pck0qYa",
+      "_id": "6959c79a1c508c5d5e9eda81"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

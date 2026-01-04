@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:51:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2851",
+    "etag": "W/\"b23-vdLv/BCgESu3rGKpSzB0vk1720Y\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959c7b11c508c5d5e9ee24e",
+      "status": "Draft",
+      "customer": {
+        "_id": "6959c7ac1c508c5d5e9edfea",
+        "email": "Asa_Schaefer67@gmail.com",
+        "name": "xCgMMcdGKTTaLJDwsf",
+        "country": "Belarus",
+        "city": "qlmXbwFkswMmjfgrH",
+        "street": "Y5OdqhRMCfDF0amIYYuDv5pRHqTVJTmQswmU9WB",
+        "house": 191,
+        "flat": 6,
+        "phone": "+3142485878",
+        "createdOn": "2026-01-04T01:51:40.000Z",
+        "notes": "RSr1TNr9Mp6kdZVqwaj0BshlsTePQxVgNuTvk5BSOL01mOYQsKYYCCaxwlX3fzTsMcI6ifHk5fRZns"
+      },
+      "products": [
+        {
+          "_id": "6959c7b01c508c5d5e9ee229",
+          "name": "Chips69737",
+          "amount": 928,
+          "price": 52637,
+          "manufacturer": "Samsung",
+          "notes": "lG5CQ2hsB2vv8hunsHH0aw4NEANe7Sg3RQbFgzUj4uFWe2fsCZcI2FT7og26qx1vXBI4oUGqE23TQHaXI5gGtLP9J7bJZQq5iD4lUvI6dcg9xKmcwievHXRbK2NsvOkgRqEwkkWXupxgVqA8IW1rcrqqbANDAS8UFgk1tbz2O66skKCfjnmZDuecn8xTQsYHK1pkl52rvX5cFx2SZs4fbDYUkZtq7e65CSMSr7dGTp6moFrgt6xLmBrnfc",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Great Britain",
+          "city": "Mock City bsM",
+          "street": "MockStreet1oIeNNZBFx8",
+          "house": 71,
+          "flat": 19
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 52637,
+      "createdOn": "2026-01-04T01:51:45.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6959c7ac1c508c5d5e9edfea",
+          "products": [
+            {
+              "_id": "6959c7b01c508c5d5e9ee229",
+              "name": "Chips69737",
+              "amount": 928,
+              "price": 52637,
+              "manufacturer": "Samsung",
+              "notes": "lG5CQ2hsB2vv8hunsHH0aw4NEANe7Sg3RQbFgzUj4uFWe2fsCZcI2FT7og26qx1vXBI4oUGqE23TQHaXI5gGtLP9J7bJZQq5iD4lUvI6dcg9xKmcwievHXRbK2NsvOkgRqEwkkWXupxgVqA8IW1rcrqqbANDAS8UFgk1tbz2O66skKCfjnmZDuecn8xTQsYHK1pkl52rvX5cFx2SZs4fbDYUkZtq7e65CSMSr7dGTp6moFrgt6xLmBrnfc",
+              "received": false
+            }
+          ],
+          "total_price": 52637,
+          "delivery": {
+            "address": {
+              "country": "Great Britain",
+              "city": "Mock City bsM",
+              "street": "MockStreet1oIeNNZBFx8",
+              "house": 71,
+              "flat": 19
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T01:51:46.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959c7ac1c508c5d5e9edfea",
+          "products": [
+            {
+              "_id": "6959c7b01c508c5d5e9ee229",
+              "name": "Chips69737",
+              "amount": 928,
+              "price": 52637,
+              "manufacturer": "Samsung",
+              "notes": "lG5CQ2hsB2vv8hunsHH0aw4NEANe7Sg3RQbFgzUj4uFWe2fsCZcI2FT7og26qx1vXBI4oUGqE23TQHaXI5gGtLP9J7bJZQq5iD4lUvI6dcg9xKmcwievHXRbK2NsvOkgRqEwkkWXupxgVqA8IW1rcrqqbANDAS8UFgk1tbz2O66skKCfjnmZDuecn8xTQsYHK1pkl52rvX5cFx2SZs4fbDYUkZtq7e65CSMSr7dGTp6moFrgt6xLmBrnfc",
+              "received": false
+            }
+          ],
+          "total_price": 52637,
+          "delivery": null,
+          "changedOn": "2026-01-04T01:51:45.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

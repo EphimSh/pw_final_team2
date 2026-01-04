@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:52:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2735",
+    "etag": "W/\"aaf-D+nmOKwynjprrQRdxNVPr0h60nk\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959c7f81c508c5d5e9efa21",
+      "status": "Draft",
+      "customer": {
+        "_id": "6959c7f21c508c5d5e9ef7c8",
+        "email": "Hailey.Anderson91@yahoo.com",
+        "name": "AV",
+        "country": "Belarus",
+        "city": "GQhO",
+        "street": "C4LZWSFYAxPAw7ixVPcj6a5qed3FVAqnLJQwRIW",
+        "house": 27,
+        "flat": 2,
+        "phone": "+1170477620",
+        "createdOn": "2026-01-04T01:52:50.000Z",
+        "notes": "KVNOmd73KL"
+      },
+      "products": [
+        {
+          "_id": "6959c7f71c508c5d5e9efa08",
+          "name": "Shirt13949",
+          "amount": 47,
+          "price": 38081,
+          "manufacturer": "Apple",
+          "notes": "gqWHSMqJ4bcR3XUahVpJx2S33nAi2XQRqXI2I7n4fLxTTV6bL6LU0zS3HXxE5pAlIp2JUpFVBkuUz6gJAjHbwOV1uE9TqAOByFt4CTu7N9KhjeP0m9Ip6nBj5EAdw2cFO7nUY4KSCqR2S4NjHjwfAVqfLYwP7C3EYzgopkS7w1DpYKKYvubUV8vnHlJh9gqmfk7lodg04aW5IR7ze1kksfr91sDCZfJ1RIPNMRcGh1H481obSmnpUum1pI",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Belarus",
+          "city": "Mock City T",
+          "street": "MockStreetuI3o0qY7niJ1U7",
+          "house": 2,
+          "flat": 16
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 38081,
+      "createdOn": "2026-01-04T01:52:56.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6959c7f21c508c5d5e9ef7c8",
+          "products": [
+            {
+              "_id": "6959c7f71c508c5d5e9efa08",
+              "name": "Shirt13949",
+              "amount": 47,
+              "price": 38081,
+              "manufacturer": "Apple",
+              "notes": "gqWHSMqJ4bcR3XUahVpJx2S33nAi2XQRqXI2I7n4fLxTTV6bL6LU0zS3HXxE5pAlIp2JUpFVBkuUz6gJAjHbwOV1uE9TqAOByFt4CTu7N9KhjeP0m9Ip6nBj5EAdw2cFO7nUY4KSCqR2S4NjHjwfAVqfLYwP7C3EYzgopkS7w1DpYKKYvubUV8vnHlJh9gqmfk7lodg04aW5IR7ze1kksfr91sDCZfJ1RIPNMRcGh1H481obSmnpUum1pI",
+              "received": false
+            }
+          ],
+          "total_price": 38081,
+          "delivery": {
+            "address": {
+              "country": "Belarus",
+              "city": "Mock City T",
+              "street": "MockStreetuI3o0qY7niJ1U7",
+              "house": 2,
+              "flat": 16
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T01:52:57.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959c7f21c508c5d5e9ef7c8",
+          "products": [
+            {
+              "_id": "6959c7f71c508c5d5e9efa08",
+              "name": "Shirt13949",
+              "amount": 47,
+              "price": 38081,
+              "manufacturer": "Apple",
+              "notes": "gqWHSMqJ4bcR3XUahVpJx2S33nAi2XQRqXI2I7n4fLxTTV6bL6LU0zS3HXxE5pAlIp2JUpFVBkuUz6gJAjHbwOV1uE9TqAOByFt4CTu7N9KhjeP0m9Ip6nBj5EAdw2cFO7nUY4KSCqR2S4NjHjwfAVqfLYwP7C3EYzgopkS7w1DpYKKYvubUV8vnHlJh9gqmfk7lodg04aW5IR7ze1kksfr91sDCZfJ1RIPNMRcGh1H481obSmnpUum1pI",
+              "received": false
+            }
+          ],
+          "total_price": 38081,
+          "delivery": null,
+          "changedOn": "2026-01-04T01:52:56.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

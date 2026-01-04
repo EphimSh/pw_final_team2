@@ -1,0 +1,101 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:53:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2555",
+    "etag": "W/\"9fb-gkPR5Z8EfVlwco2UpE6pT1h5IYI\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "6959c8261c508c5d5e9f09cd",
+        "email": "Dallin_Boyle@yahoo.com",
+        "name": "dNYDiGXMfuSBlQEVUaE",
+        "country": "Great Britain",
+        "city": "LqQFqUwqeowvhOz",
+        "street": "EIl4NhYadwf",
+        "house": 86,
+        "flat": 3,
+        "phone": "+5886970651",
+        "createdOn": "2026-01-04T01:53:42.000Z",
+        "notes": "dBRT5jnUgS94CoJDbtFNQfJckP2L0Wg0rx7THcIDzSpn3LoiXwB9ZNS1Mxx5u06gh1WTxsjsoumKuebS3gZ1i5yCjvOJ7F31R0wqrCKIWRkljmNjM2ynMLNhDUy4szQ22h9Ip5LG9rHMQOMif6nDQ"
+      },
+      "products": [
+        {
+          "_id": "6959c82a1c508c5d5e9f0b0c",
+          "name": "Pizza45470",
+          "amount": 924,
+          "price": 4813,
+          "manufacturer": "Xiaomi",
+          "notes": "YRsYtS5wL0QMNS6pjoyFlK5R8S7kYlEnqzfs5iDUE8MzJBGpCfKveZtm7oTSFEpcubVCcdyUrjm8AUm8J7DvtV0XK8uD1hxI8e0NIQBvzEsMGyawkU2hPqHi8HTNCxcgHo9LVXJmaAmp1OcHlHReK2dln1x55ab4U60wSfDNGaZZnaeVshNrfqt7DXRTkUjeZ5SQl9xEmJuXsJpPsm46Y8CHQluYI9EBvmiofTH1zGsb4Wlawor1yDMBYE",
+          "received": false
+        },
+        {
+          "_id": "6959c8301c508c5d5e9f0c83",
+          "name": "Fish71289",
+          "amount": 17,
+          "price": 4731,
+          "manufacturer": "Microsoft",
+          "notes": "Z33AsUaEkch0mDiFuHi0cwFbPrsn7BzknxYEdqQbUu3gkXhYnyj2SoSzsOKYDtmUr2MhdykSRYh9ysclUKRTHfyMXjEyjd1Yn579ojRJrJtiKifQFzADwcqiSatBoL2n0ayKpAsLahAwKMdGlIjjEfq1FZpA0HWQHp6Tr1AMWOqXIMKFAerT36a3Kw2FTUVG4uI8TsVcjixytGjTXo5C0C2B5g3sTPfnTc39uE3KFlgEsTwvq8j6NgbsUF",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 9544,
+      "createdOn": "2026-01-04T01:53:53.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6959c8261c508c5d5e9f09cd",
+          "products": [
+            {
+              "_id": "6959c82a1c508c5d5e9f0b0c",
+              "name": "Pizza45470",
+              "amount": 924,
+              "price": 4813,
+              "manufacturer": "Xiaomi",
+              "notes": "YRsYtS5wL0QMNS6pjoyFlK5R8S7kYlEnqzfs5iDUE8MzJBGpCfKveZtm7oTSFEpcubVCcdyUrjm8AUm8J7DvtV0XK8uD1hxI8e0NIQBvzEsMGyawkU2hPqHi8HTNCxcgHo9LVXJmaAmp1OcHlHReK2dln1x55ab4U60wSfDNGaZZnaeVshNrfqt7DXRTkUjeZ5SQl9xEmJuXsJpPsm46Y8CHQluYI9EBvmiofTH1zGsb4Wlawor1yDMBYE",
+              "received": false
+            },
+            {
+              "_id": "6959c8301c508c5d5e9f0c83",
+              "name": "Fish71289",
+              "amount": 17,
+              "price": 4731,
+              "manufacturer": "Microsoft",
+              "notes": "Z33AsUaEkch0mDiFuHi0cwFbPrsn7BzknxYEdqQbUu3gkXhYnyj2SoSzsOKYDtmUr2MhdykSRYh9ysclUKRTHfyMXjEyjd1Yn579ojRJrJtiKifQFzADwcqiSatBoL2n0ayKpAsLahAwKMdGlIjjEfq1FZpA0HWQHp6Tr1AMWOqXIMKFAerT36a3Kw2FTUVG4uI8TsVcjixytGjTXo5C0C2B5g3sTPfnTc39uE3KFlgEsTwvq8j6NgbsUF",
+              "received": false
+            }
+          ],
+          "total_price": 9544,
+          "delivery": null,
+          "changedOn": "2026-01-04T01:53:53.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "6959c8311c508c5d5e9f0c97"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

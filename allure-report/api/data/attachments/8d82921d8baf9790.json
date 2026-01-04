@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:51:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-WzXAIKGS4sJn5Pvi96xfBjX82fI\"",
+    "keep-alive": "timeout=5, max=68",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball78019",
+      "amount": 326,
+      "price": 59601,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T01:50:59.000Z",
+      "notes": "eGTgiVWvRPKSkGMjcDF27OVTGksBLgAievDGQL0Z3WtvywYUpCVGRtWUr2dHEy15XEOpBwufTdDZxvdBmq1I1wVt3wV2uYTTf3yNdxakskU4ImJjhnegBiMZ3Mvi50sNzRpoBXzVYuslw6zVY2bSoaCyWqzDL1ZVXjaPuYJpBleCtjEDrRWzEVRFv7uMRCinWfVag1WUj6Flc6qJhkhhGqxSCrSdF58FykiuSnosPjJzsmngc2TOpZGDCC",
+      "_id": "6959c7831c508c5d5e9ed2e9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

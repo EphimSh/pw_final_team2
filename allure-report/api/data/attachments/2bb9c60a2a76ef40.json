@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:52:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-gieQgNg4GnjEufLViMdO23Jfn9I\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish20163",
+      "amount": 718,
+      "price": 33209,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T01:52:43.000Z",
+      "notes": "NxNtpycS0vwJJ6Qfpaq6V68X8aanckZZoDLOHGnejaVRDpcQoHhooPObRXV0IRgWM74HMQeqRtpmvsiq0gTQKfegaCShOEifRy8srT3MHwtglbKbBNqtHeiM9fotRuTDZdGBjQ5Iga4oi10OxfRS9ZP7BPpolPn7OrM4eIfrcMbeL1kALQ1ySH0sqWYZkmglcanpDp8biVXv9rQWZkgJWPVKUYvUdGHR5oHsolaNNps6pAMOG1Sx5Fc0Fz",
+      "_id": "6959c7eb1c508c5d5e9ef634"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

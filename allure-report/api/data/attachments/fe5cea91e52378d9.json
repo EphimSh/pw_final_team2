@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:52:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "539",
+    "etag": "W/\"21b-8jWNdpVJx2xSLmdu2CdFKbv7jvE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Eric.Lubowitz@gmail.com",
+      "name": "fodvsLDCwTzmpjWeikwsSNj",
+      "country": "USA",
+      "city": "mLLtqK",
+      "street": "SFdcKicv8FLiYj09aFTRtI0zjhtEIdsVcatDn",
+      "house": 174,
+      "flat": 8,
+      "phone": "+5693236743",
+      "createdOn": "2026-01-04T01:52:32.000Z",
+      "notes": "pfaHY3bdS2TK6qTPT5TewYA5Fq7cXRPrTBdrUFCE02McHExdSbElFDE380wCQ1NgFyht12JODATUxJ3xi5WO4GSSLNf7EvHc2BkjEB4HZRPLkZL44uHj3DHqdz3k7SkCKx3l5F2es0SaAL2TK8wYCn0aPg5cKLxVWBYMvQLxBb0EvwFSWCFvmWhYGUkwDj8GVraJnXUArl8YaRD57uSPG9",
+      "_id": "6959c7e01c508c5d5e9ef22d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

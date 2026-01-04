@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:52:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "323",
+    "etag": "W/\"143-vx9IehrA7yS2jyk2cJLWwL9zGrE\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jeanie_Wunsch@gmail.com",
+      "name": "AYCx",
+      "country": "Ukraine",
+      "city": "HcvTOmMVJHtoEk",
+      "street": "yr4eibcgvuU",
+      "house": 37,
+      "flat": 8,
+      "phone": "+8559733739",
+      "createdOn": "2026-01-04T01:52:39.000Z",
+      "notes": "zQo7yu7YgiCiR2a8IxmWdj4380MrJHZP",
+      "_id": "6959c7e71c508c5d5e9ef3e7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

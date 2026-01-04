@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:55:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-i17M8ulLrNHJEE0gdsL87KBqz3U\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra81449",
+      "amount": 795,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T01:55:32.000Z",
+      "notes": "e3bfMYWE2prCkpMM0ghEiVISAbOyAU2ZfuHRGzGYwU4XedeLq3vGQk9DmgeH6A0dNx9sJkKPZ9UvQkKucblywSZcR6FlOQTChUIJxP9qhLw6MUFo9vf4nnx3PAzssT6IdoiDv2Ap0WfJFThNbW7VduSvTopm11b9g29pFycU2pCtgq5ocWhVpy65zph9KRMayV8EGjEXMPTAVD0vmK3jp6PrC4Pdsk0cfd0nnA7mfN3t7cezTYysvWefjw",
+      "_id": "6959c8941c508c5d5e9f28d9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

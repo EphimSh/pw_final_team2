@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:50:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "374",
+    "etag": "W/\"176-9wUNlmWZ7dwUsBvqwccP+rJrTTQ\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jonatan_Rath63@yahoo.com",
+      "name": "Lq",
+      "country": "Germany",
+      "city": "nboXDPhgWwEjUSJaW",
+      "street": "Znl6yEOijvOzvh2Y4SLLMR",
+      "house": 114,
+      "flat": 8,
+      "phone": "+0138084555",
+      "createdOn": "2026-01-04T01:50:55.000Z",
+      "notes": "dH9m6RBITMIP04E4OctY1MlO6aS1Maoh20K04UfKKKY47MVIefsdlicxe9vUOFPgfCGVH",
+      "_id": "6959c77f1c508c5d5e9ece78"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:56:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-T9z6rRHhPyGFEx7syl755NO+yrY\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra97246",
+      "amount": 696,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T01:56:42.000Z",
+      "notes": "l0LchO99ljpsOMnjD69ngLuJ9RIgxxURODkdWlPrzWeGo7hnLKAcfdaHkA7WxUXDEGZe1tPVC2m2Rukd8VL63OM9sSip7eF8SrboBf0M8E7DFvWjmS1DbHwqgUsUh2anOEkzJfVPyJsR4DdlIDojViHrS2tGpgG21Y7qvPHcIQUpg2Z8McQx4zfxxtmXkhPwsJFHBGi9bdKLsOQcbaQPdhbzEiNjGHugaWkag9NOar6So1OfyK0zcH2Cpe",
+      "_id": "6959c8da1c508c5d5e9f3ef7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

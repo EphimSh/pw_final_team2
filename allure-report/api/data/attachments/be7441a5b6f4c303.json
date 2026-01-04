@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:48:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "424",
+    "etag": "W/\"1a8-QadoBdDRQD8u4TJeaRjWQhlqLm0\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Eleonore_Zieme70@hotmail.com",
+      "name": "rlgnLTtwvvweUjjMZPxZImHgomQciTImGgZ",
+      "country": "Ukraine",
+      "city": "EIDKrdraHSHdSJTolqTM",
+      "street": "HS2wyaZEisZiB7NWzP9scDAJKajl4TARBvX2",
+      "house": 11,
+      "flat": 8,
+      "phone": "+1497711538",
+      "createdOn": "2026-01-04T01:48:51.000Z",
+      "notes": "X2U8y6IMJ2pXJ78qoc7gOqreVHbUDz79sv0i6oj6zIolwp2eearwcdu2KTTgDaBP1i",
+      "_id": "6959c7031c508c5d5e9ea4d6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

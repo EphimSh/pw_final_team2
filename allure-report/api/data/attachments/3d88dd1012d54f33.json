@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:52:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-uczbEgq+xG4AZAlGvQVsSWSv21c\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves17044",
+      "amount": 657,
+      "price": 52666,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T01:52:16.000Z",
+      "notes": "JDw72DOGhyWeEHrWNn9VOI0E2ShcbLSfmICCkpMtYbZrCmJmwLUmeyipv1kAR7wqpB9lewWgTDa03I70VQRA0jgPXfhhvpvjjzhWrEph3phRRiONHi6zp2tDkqb8kySOQrUO4XrD7jm5XhYMSsHS9I0zD9ZYvfW46Achk1TEL4GQISqNbBvU33q2p9kkVOgnepsbicNJG43oTsVVpPzvfQ8AvaExHUYSB6b7u0RDus0h0sUznzZf2rFFSL",
+      "_id": "6959c7d01c508c5d5e9eee0c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

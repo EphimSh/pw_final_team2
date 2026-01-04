@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:50:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-IHCPXv3zUt+gRoLoxngCd7xrJ5I\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips32371",
+      "amount": 249,
+      "price": 34972,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T01:50:31.000Z",
+      "notes": "0pJLaUYuU0vYjKoXR7mYeT3joHKuqVVCioIbAoTiOK1H8YxFKwee8GJwFgtI651hHWnqfh8WjodtUEJBiFp7whkKYDXtw39GHPNhNGBeThhzmXTUs5S5byZmHVwRISK21FHPWhYuawZ1kPLFdLKjQUl6wbL38SLvp9Sr5pi3vgtjhTP55ZRbasAqh2tuP21A86cFw9MvkAXUXSqdtnuXbCPhVIbEA4jg27MYHEUZERdoCJMxEH7Et64r1t",
+      "_id": "6959c7671c508c5d5e9ec65f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

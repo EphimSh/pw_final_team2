@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:56:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-odzSkdHYMo5HCXvkhaF/qPFXUwQ\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro57767",
+      "amount": 94,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T01:56:37.000Z",
+      "notes": "k9GxiTBshEVP35AIxv96uZpNHJMML8K4FkMIkCyZz0gfA8oXZ1oTJjwzsU1U45EfXXrGXoOx6FhDHIawENGUUjdNAq5yjdwBtbowX8ctekCpJfm1wVTByQ6iUFA6Bkp1TQ99Npx1UTbHJEBUiQYMNfxdR1uJLSrDUk4EgkzW1G7I50cyZhPZgwfcv8BrtuxgaOpxgv0zgAvHyCm59S7HTop9OtLXR2EIaGyPKcdftlkGdsvqgrkFvAS9PB",
+      "_id": "6959c8d51c508c5d5e9f3b97"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:55:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-5CDEi2AkYsmrPbdMDJgt629L57s\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro46681",
+      "amount": 585,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T01:55:35.000Z",
+      "notes": "moPGfg4Vy204KrCWVhSiFiCnGRLpR1e0UUi9ztU1AHwRAp747M5O28QgiWwWBYrCbL7ZaWvSliSW53ErQleKzPMyZgmvcvOIBD4yYElwUnUKbfCgiRUhoOq6Pf7Cd5nCJk9e7Vo48VK4l02FRTVYYV7ckskk1Pn3jICYUrJdStE1sGItBIxZYUawhStCf8Y16KKKBn6rDUf4ygqkfgwBns3ceO0s1smxloHEuDYK0gaA5VDqG7PxemkIM2",
+      "_id": "6959c8971c508c5d5e9f28df"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:48:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "335",
+    "etag": "W/\"14f-PSDZE7dzS64id8wpLMlJMV5WnmA\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Madalyn.Altenwerth71@hotmail.com",
+      "name": "QgHYrqpS",
+      "country": "Russia",
+      "city": "SgOyZsfVNsfRZaOAKsEK",
+      "street": "X1iaRi0cJXD7yGdDpwgnjGKM",
+      "house": 74,
+      "flat": 7,
+      "phone": "+0208747913",
+      "createdOn": "2026-01-04T01:48:38.000Z",
+      "notes": "BHFw8kZscogNs",
+      "_id": "6959c6f61c508c5d5e9ea3ca"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

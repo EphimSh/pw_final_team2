@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:49:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "425",
+    "etag": "W/\"1a9-7co8OvzANxynRdch4izrUhYTKNk\"",
+    "keep-alive": "timeout=5, max=62",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Roosevelt_Volkman64@yahoo.com",
+      "name": "gUKazZjguTsDvHUeeSNsuikjBoRPuY",
+      "country": "Ukraine",
+      "city": "OYZNzJcHoWekIGKwvd",
+      "street": "GGY6cagNjfutAJfZNnBaZlWQq9iBh6xUkCDBe",
+      "house": 30,
+      "flat": 6,
+      "phone": "+6986187073",
+      "createdOn": "2026-01-04T01:49:30.000Z",
+      "notes": "7FZ7fAHdq8GTDncNsnnorzW93QKJrqxUNmn1ahnFePHP446J4cRWXg6W0r87ZVtagKCQDkMe",
+      "_id": "6959c72a1c508c5d5e9eb123"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

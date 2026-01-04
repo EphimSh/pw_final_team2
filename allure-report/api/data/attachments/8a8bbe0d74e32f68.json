@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:50:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-5pr4CACe8tfatwlH0+34xB3H4Pc\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish75838",
+      "amount": 871,
+      "price": 83385,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T01:50:51.000Z",
+      "notes": "0GVZ8Eumfn83AKvZ0tWQEgZgTEewj0u1Ja46SXtBwpecQuZkw9wmkhxSPREZIXvTDvrpUqzP7NqZ7G5B1bfXQ6bVjr99bQGQKVt56xsgcWMH8Zv2Ij9WrhT358c04LFNoklySJJyngmSusOZtmS81wehkdxnmabN7LpF7e8cYh70l15q6DIKTKl3Mbf8JSsiKSRdZC5BbZw9RMoUV4H3RbnJmlrI4FyPWJUvkkSQEXoatxvEYOOspPZ3kC",
+      "_id": "6959c77b1c508c5d5e9ecdd6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

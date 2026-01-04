@@ -1,0 +1,213 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:53:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4701",
+    "etag": "W/\"125d-uBG3VIigD6o2CfhDeEQTITU/g7M\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959c8181c508c5d5e9f048a",
+      "status": "Received",
+      "customer": {
+        "_id": "6959c8181c508c5d5e9f047b",
+        "email": "German_Baumbach@gmail.com",
+        "name": "HsfSlkjyREVdfHgBa",
+        "country": "France",
+        "city": "tjnfCjOPUfOdj",
+        "street": "gY9Ja55YRHIqvANwESylTgytnzLGSG",
+        "house": 87,
+        "flat": 6,
+        "phone": "+4927356280",
+        "createdOn": "2026-01-04T01:53:28.000Z",
+        "notes": "YGD2uXOSp7YngAmvI7R2W8WRMAPi2QnScaBBd7UCz42gQ6R3mrEKYaWYlYeExE0S9THAG494RbM8B"
+      },
+      "products": [
+        {
+          "_id": "6959c8131c508c5d5e9f0332",
+          "name": "Table66155",
+          "amount": 452,
+          "price": 97268,
+          "manufacturer": "Microsoft",
+          "notes": "nomsoa9fXnqY5T0Z7cReOPqZ8X3KkEmxciiRHhvgSCvsvNabHCkNO5AIrxuA7nZCYynxWHjzDIAuUfzXI3LIcjteMdUvPP5SSPlglFKOLz4PMkj3AOdlsnBYSCLA7QqnItp0qafAECpB2QP0Gj46lfNQiQypeGdkW7pNYqWZ1s8wYIl4Y71U0TGRhXqSKwXTlQ3o1C7NyiINS3kEXbo1aAYwCh16IDoCU6ck01jLR018DljTIRWoWEvCPe",
+          "received": true
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Great Britain",
+          "city": "Mock City uoHvq",
+          "street": "MockStreetJKfbIS5",
+          "house": 47,
+          "flat": 6
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 97268,
+      "createdOn": "2026-01-04T01:53:28.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Received",
+          "customer": "6959c8181c508c5d5e9f047b",
+          "products": [
+            {
+              "_id": "6959c8131c508c5d5e9f0332",
+              "name": "Table66155",
+              "amount": 452,
+              "price": 97268,
+              "manufacturer": "Microsoft",
+              "notes": "nomsoa9fXnqY5T0Z7cReOPqZ8X3KkEmxciiRHhvgSCvsvNabHCkNO5AIrxuA7nZCYynxWHjzDIAuUfzXI3LIcjteMdUvPP5SSPlglFKOLz4PMkj3AOdlsnBYSCLA7QqnItp0qafAECpB2QP0Gj46lfNQiQypeGdkW7pNYqWZ1s8wYIl4Y71U0TGRhXqSKwXTlQ3o1C7NyiINS3kEXbo1aAYwCh16IDoCU6ck01jLR018DljTIRWoWEvCPe",
+              "received": true
+            }
+          ],
+          "total_price": 97268,
+          "delivery": {
+            "address": {
+              "country": "Great Britain",
+              "city": "Mock City uoHvq",
+              "street": "MockStreetJKfbIS5",
+              "house": 47,
+              "flat": 6
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-04T01:53:29.000Z",
+          "action": "All products received",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "In Process",
+          "customer": "6959c8181c508c5d5e9f047b",
+          "products": [
+            {
+              "_id": "6959c8131c508c5d5e9f0332",
+              "name": "Table66155",
+              "amount": 452,
+              "price": 97268,
+              "manufacturer": "Microsoft",
+              "notes": "nomsoa9fXnqY5T0Z7cReOPqZ8X3KkEmxciiRHhvgSCvsvNabHCkNO5AIrxuA7nZCYynxWHjzDIAuUfzXI3LIcjteMdUvPP5SSPlglFKOLz4PMkj3AOdlsnBYSCLA7QqnItp0qafAECpB2QP0Gj46lfNQiQypeGdkW7pNYqWZ1s8wYIl4Y71U0TGRhXqSKwXTlQ3o1C7NyiINS3kEXbo1aAYwCh16IDoCU6ck01jLR018DljTIRWoWEvCPe",
+              "received": false
+            }
+          ],
+          "total_price": 97268,
+          "delivery": {
+            "address": {
+              "country": "Great Britain",
+              "city": "Mock City uoHvq",
+              "street": "MockStreetJKfbIS5",
+              "house": 47,
+              "flat": 6
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-04T01:53:28.000Z",
+          "action": "Order processing started",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959c8181c508c5d5e9f047b",
+          "products": [
+            {
+              "_id": "6959c8131c508c5d5e9f0332",
+              "name": "Table66155",
+              "amount": 452,
+              "price": 97268,
+              "manufacturer": "Microsoft",
+              "notes": "nomsoa9fXnqY5T0Z7cReOPqZ8X3KkEmxciiRHhvgSCvsvNabHCkNO5AIrxuA7nZCYynxWHjzDIAuUfzXI3LIcjteMdUvPP5SSPlglFKOLz4PMkj3AOdlsnBYSCLA7QqnItp0qafAECpB2QP0Gj46lfNQiQypeGdkW7pNYqWZ1s8wYIl4Y71U0TGRhXqSKwXTlQ3o1C7NyiINS3kEXbo1aAYwCh16IDoCU6ck01jLR018DljTIRWoWEvCPe",
+              "received": false
+            }
+          ],
+          "total_price": 97268,
+          "delivery": {
+            "address": {
+              "country": "Great Britain",
+              "city": "Mock City uoHvq",
+              "street": "MockStreetJKfbIS5",
+              "house": 47,
+              "flat": 6
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-04T01:53:28.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959c8181c508c5d5e9f047b",
+          "products": [
+            {
+              "_id": "6959c8131c508c5d5e9f0332",
+              "name": "Table66155",
+              "amount": 452,
+              "price": 97268,
+              "manufacturer": "Microsoft",
+              "notes": "nomsoa9fXnqY5T0Z7cReOPqZ8X3KkEmxciiRHhvgSCvsvNabHCkNO5AIrxuA7nZCYynxWHjzDIAuUfzXI3LIcjteMdUvPP5SSPlglFKOLz4PMkj3AOdlsnBYSCLA7QqnItp0qafAECpB2QP0Gj46lfNQiQypeGdkW7pNYqWZ1s8wYIl4Y71U0TGRhXqSKwXTlQ3o1C7NyiINS3kEXbo1aAYwCh16IDoCU6ck01jLR018DljTIRWoWEvCPe",
+              "received": false
+            }
+          ],
+          "total_price": 97268,
+          "delivery": null,
+          "changedOn": "2026-01-04T01:53:28.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

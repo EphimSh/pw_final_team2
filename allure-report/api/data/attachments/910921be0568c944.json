@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:56:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-/XBJ2cEEUuqFgjBLVzOd6MmWLsY\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra25562",
+      "amount": 866,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T01:56:37.000Z",
+      "notes": "TakpwfhrYPq2fIPS0MSrmpoKZWDEJYn7MZKedfem8w5DWV23shPmYxQfw8YvJy7gp7t2TXpnqQ09UUdKzGJ9ds4J2IXqei0PcIRx0UKJYjXjPY9lpailZpVhW7e6WTtbPJXOf5IwdkKAUuC23UZLwZBLy9nYbnHgC4TPbIa8ngs5iVEo3ru3cDnM8W7Vp18TvbwYCS8arLI2v1QM7DHqW3tW07U09oXLhficefgekLdupLhFuLUVRCGM19",
+      "_id": "6959c8d51c508c5d5e9f3b95"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

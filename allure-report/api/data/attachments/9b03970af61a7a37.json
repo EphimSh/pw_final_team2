@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:55:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "465",
+    "etag": "W/\"1d1-39I504vTasxQUj8xTy2e5GV0dj8\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra4089",
+      "amount": 642,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T01:55:47.000Z",
+      "notes": "txOg1EJWuwWYUho1dlAFsSGVoXjs73QrdwUOpjEduPHZkT7awRdcv25um05Ujfg1PsHAXzXXbv9wynDOsPHkApW7FhSvUrjvdiCRBdk09mAsd31jCeDgQOCn5R1jzPCIQbKbBHWYvxo3wd0L6LUw1lj80Svu0GhFOpSEJYwEkfPEBVLq8EIPaf9kLX9spQxAcXGFp2OyyJXBsHPt0WlPJVyK8k1mdQHYdDi60oKuIh4OFqRyDZmA26i4m5",
+      "_id": "6959c8a31c508c5d5e9f2c78"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:55:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-7963hweKcggQekgbiAtzG/OGCQw\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X52140",
+      "amount": 878,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T01:55:13.000Z",
+      "notes": "CCB13fThogmPQORS75UaBBPJdItzkcjV0r0z5hPWP0gqGA14xwacMJkzqiPpkBSk9UKesj2fs3usDtjO7euefecNffJlUj8cWGjKL1WXBWFNUeuF3onpA36Ilxh9haeWcvlGX9H0xqzZAPdHP0w2PDnFwMdStohhWXiTrYoOJABspmGadugLOLIS7FDg7V1JHu1iLESGCYsXCEU4u6O0VtQG4DzvtW40zzbHFpwkcjoLvbi8L1z9gFG8z8",
+      "_id": "6959c8811c508c5d5e9f23d4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

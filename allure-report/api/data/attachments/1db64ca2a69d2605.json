@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:54:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-6OMGml/iNB+2LCqk9MBmoinq7pI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "VSc",
+      "amount": 417,
+      "price": 71766,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T01:54:02.000Z",
+      "notes": "trny38EHJ94I1221XS5O1EeFiFnoamiEG4K4XSbMC2gtFfuKjvQ2zlGW5lEkiIOpwNwN3GcOhecAPpnG4MT1oy1tCPgQF5wpjkkVwGNPlxnRYhEkgP6Z0LD5sovZUvvYpg6zKBrqV8zYYkUGHgcIwnHQqVtILKBotPhDEHmviEOpAWw21PY4Vwio7BczAy0WxxgWFrZAh6gvNdVrbDjcO1kqTnHp2urKmq4GLeouczeAiKyecJgOx10WOH",
+      "_id": "6959c83a1c508c5d5e9f140d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

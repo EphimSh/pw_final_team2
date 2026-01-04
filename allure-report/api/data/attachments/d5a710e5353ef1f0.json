@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:51:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "532",
+    "etag": "W/\"214-YXYUElJ2bxW2UmIxt7jchsltXrg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Dock6@gmail.com",
+      "name": "sKrXfPP",
+      "country": "USA",
+      "city": "JyQFuMFnjlumSKixBoj",
+      "street": "XhFlvbVzR",
+      "house": 177,
+      "flat": 3,
+      "phone": "+7475770625",
+      "createdOn": "2026-01-04T01:51:30.000Z",
+      "notes": "Y7Qiv5ymmkzxEcLcmbC4P8aEHn6gGiMKbblwjXatk7pHIXb4tH1QOX8Ik4q4OT0xI2SaVZGj06qOrpN4qbEWSGEKARsbdizEaCf7szfcoOgupFyEMZ6Pnnak0wgATF2uXImXoBZmvXwuZPKz9ctfuQSF6mE2qFURwHHl2uSyAJQYQIGjlYjUbbYYhhSRzt5qvR6PzsnllsoXJVIrKzNDwFsXAH7QiQ49mG67ey6rOJSiY3KtIch9IM",
+      "_id": "6959c7a21c508c5d5e9edc0e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:57:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "465",
+    "etag": "W/\"1d1-nrL775dIB3aVoOEtqeF7FPPsDX4\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra4625",
+      "amount": 288,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T01:57:05.000Z",
+      "notes": "2YiqYnilgNEKpgzf68RSmKRWiRO5kqN6L7j6Bikkq86tz2hCoKO37s6myRtYTzYjgmjnGAT9591mov3kJqJaEyhbZv6LOH2F9uHRmFc4zwYWOzi1qJ1IUqoIDNPsZmnA3eTLpbgYz6cbxApWaXqBd8XA8WqmCbRtnDf4kL9GaBmP0J0dfworr79YLrmZPNetcJe2O1QJLwkbDN45Q4vh5wMczrN2Z5MOgfy0WKBLMLBKuuVrvb8re5X4v4",
+      "_id": "6959c8f11c508c5d5e9f480b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

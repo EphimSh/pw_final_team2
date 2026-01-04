@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:51:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "417",
+    "etag": "W/\"1a1-gNUzUHfsv8pFhwm0EjFfwe6L9c0\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Bartholome.Feeney@gmail.com",
+      "name": "IMlwqPnsmve",
+      "country": "France",
+      "city": "kCTOzHz",
+      "street": "OlwX7W6d",
+      "house": 43,
+      "flat": 1,
+      "phone": "+1723074927",
+      "createdOn": "2026-01-04T01:51:40.000Z",
+      "notes": "KQiYroA1HvxoNstbYkYD9kblMPKhs2gcy7DdXHuU9hj3x3cyy9K1eASvMYezM94vWYRdcZfuWoe9sJd1AdS2yEpukVBtDNLCaj2xYaf8qRkb6P8AclmDWWluZ4Wxqb",
+      "_id": "6959c7ac1c508c5d5e9edfe5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:55:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-CkyQokpk7fex4ANVqUH7vo4+4a0\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro34582",
+      "amount": 283,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T01:55:28.000Z",
+      "notes": "H2pimjxctDF8WufF4Umc4S5rbektzk5jGCWS3FVK7JRAZyPiwTf9lhiIcxfJhaeW9wlXokQH8MZYOZJiQlXxcjlKpKJVjo9PofVaj8HOnpETjJwRrAM6bAJmLnnaDsQtXDqWqK070NaBFyEK2nVFgj4Bgd3P42aq0xPlEBfuk1oQSWE9dawzrOs448tltI1m77UYluaFbedl03lhilyJzfbQTMckxbfBtjI9r4wFPKYXuBfPfBrK0qZuq3",
+      "_id": "6959c8901c508c5d5e9f2699"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

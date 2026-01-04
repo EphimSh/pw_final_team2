@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:51:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "341",
+    "etag": "W/\"155-igSu7zkMF0p0LyHYiVuAKKCUY1g\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Nolan.Schimmel@hotmail.com",
+      "name": "CvJxWauNAASGWyZVzjnGoucxbMXwRYfgJKUHudDB",
+      "country": "Germany",
+      "city": "oT",
+      "street": "PjD8sB5VXRvOh",
+      "house": 163,
+      "flat": 8,
+      "phone": "+8808183004",
+      "createdOn": "2026-01-04T01:51:09.000Z",
+      "notes": "SNedpfrOee9HweZFMgxn",
+      "_id": "6959c78d1c508c5d5e9ed466"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

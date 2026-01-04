@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:51:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "543",
+    "etag": "W/\"21f-pHz8TRQ9Bez8HjFRxGoETBgnaWA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Rogelio_Kertzmann@hotmail.com",
+      "name": "TX",
+      "country": "Russia",
+      "city": "DarWBHv",
+      "street": "RUqUZwe746UZgJQRbuU9PJmG7gzRm8vWApIsoPb7",
+      "house": 118,
+      "flat": 6,
+      "phone": "+4957144727",
+      "createdOn": "2026-01-04T01:51:41.000Z",
+      "notes": "3TVIXUz6sLM9Y45dxnqVgyWKC05bnNLNyP839zxwJ6qyQLSe1ZOKqq2QY8AuwpAtGoncCHntksN0UBJ70cHul0uEElz31KcLP0Eech5K1QZ3Gdfj4rkilIGXqDWwTzuj7owlTRzp9Z2whlzXr0xF8qL9QS9QnSJvM0esDonQhh6cZjKuSAgNxcwPyO8T7QRRRF2KfeHoSLNKq79xmzP1Z4o2wzyBzqUzpT",
+      "_id": "6959c7ad1c508c5d5e9edfef"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

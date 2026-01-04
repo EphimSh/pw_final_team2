@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:49:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-PQYWoBgtTsNcHYYPXzpvN9mU61Y\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer34446",
+      "amount": 506,
+      "price": 93581,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T01:49:46.000Z",
+      "notes": "aEJ2ywXOm780NdUdRNbdNpt5giaQNBo1uc7lik9TOrZtnX6o5JWJDNBHIDHajfLKpu0UtnH6ShLFpRZOTuyj2PmMfX1UEQU9exWratbRNWmDARlQmBxh3j8KqPSrA9eaMJgoyna4v723aXtKJO0spmAPSK7KQ8qLFdCzlSlNYHGcRhF4HaaOi1GbvQIKLKYijzHZig6dcIxPgG50Fy1f7JiYqdJf9YMwFAITJOF6Dv2HALdgefqv0WjFFu",
+      "_id": "6959c73a1c508c5d5e9eb71e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:52:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2791",
+    "etag": "W/\"ae7-iza0bDYivYoBp9q1vyseolEEdow\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "6959c7d11c508c5d5e9eee2a",
+      "status": "Draft",
+      "customer": {
+        "_id": "6959c7cb1c508c5d5e9eeab0",
+        "email": "Darrell54@gmail.com",
+        "name": "vBvDnEoWLOjznnlTyhlSFaenGVzSwSzVGR",
+        "country": "Germany",
+        "city": "MnrJXGYih",
+        "street": "VxlWP8nqVYkmEmbPjo8Ftc6TzSVVRJ4lJ",
+        "house": 6,
+        "flat": 5,
+        "phone": "+7099637314",
+        "createdOn": "2026-01-04T01:52:11.000Z",
+        "notes": "x66E78crJ1NvHxvT6oqsymAISlVkG3Rbx"
+      },
+      "products": [
+        {
+          "_id": "6959c7cf1c508c5d5e9eee0a",
+          "name": "Car94014",
+          "amount": 837,
+          "price": 59501,
+          "manufacturer": "Tesla",
+          "notes": "NEb6yMRN4MFI0faZLc1Rhfx3k6jxbVid9HHu0KQBbwSgHv5YQnVsPEsLPZYgEwiI2Ue2JY0SliEUdY4X7cpsV89TNKf0gxbPicfNH6nXwFjaBV8zA1B5hzupcqZnr3SObrMEY9yzmqvfFKMSABWM1zMfwmn2qGCGgfoCKGKw5wL2SRfsROV0tgOCPq09S9xhhB8vAFBqpkOrMyKr10Rx1CavwEZzF4iUgl6gDErMH3rd8eqpjIZBDOxox8",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Germany",
+          "city": "Mock City TrDIccJU",
+          "street": "MockStreettbNSrBiEax39f2",
+          "house": 40,
+          "flat": 8
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 59501,
+      "createdOn": "2026-01-04T01:52:17.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "6959c7cb1c508c5d5e9eeab0",
+          "products": [
+            {
+              "_id": "6959c7cf1c508c5d5e9eee0a",
+              "name": "Car94014",
+              "amount": 837,
+              "price": 59501,
+              "manufacturer": "Tesla",
+              "notes": "NEb6yMRN4MFI0faZLc1Rhfx3k6jxbVid9HHu0KQBbwSgHv5YQnVsPEsLPZYgEwiI2Ue2JY0SliEUdY4X7cpsV89TNKf0gxbPicfNH6nXwFjaBV8zA1B5hzupcqZnr3SObrMEY9yzmqvfFKMSABWM1zMfwmn2qGCGgfoCKGKw5wL2SRfsROV0tgOCPq09S9xhhB8vAFBqpkOrMyKr10Rx1CavwEZzF4iUgl6gDErMH3rd8eqpjIZBDOxox8",
+              "received": false
+            }
+          ],
+          "total_price": 59501,
+          "delivery": {
+            "address": {
+              "country": "Germany",
+              "city": "Mock City TrDIccJU",
+              "street": "MockStreettbNSrBiEax39f2",
+              "house": 40,
+              "flat": 8
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T01:52:18.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "6959c7cb1c508c5d5e9eeab0",
+          "products": [
+            {
+              "_id": "6959c7cf1c508c5d5e9eee0a",
+              "name": "Car94014",
+              "amount": 837,
+              "price": 59501,
+              "manufacturer": "Tesla",
+              "notes": "NEb6yMRN4MFI0faZLc1Rhfx3k6jxbVid9HHu0KQBbwSgHv5YQnVsPEsLPZYgEwiI2Ue2JY0SliEUdY4X7cpsV89TNKf0gxbPicfNH6nXwFjaBV8zA1B5hzupcqZnr3SObrMEY9yzmqvfFKMSABWM1zMfwmn2qGCGgfoCKGKw5wL2SRfsROV0tgOCPq09S9xhhB8vAFBqpkOrMyKr10Rx1CavwEZzF4iUgl6gDErMH3rd8eqpjIZBDOxox8",
+              "received": false
+            }
+          ],
+          "total_price": 59501,
+          "delivery": null,
+          "changedOn": "2026-01-04T01:52:17.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:52:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "488",
+    "etag": "W/\"1e8-orKwWBM1mMeAai5pN5zdKUHrwtE\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kayleigh70@gmail.com",
+      "name": "GIUtmBqYixKyMhiUONWImxGTmA",
+      "country": "Germany",
+      "city": "JPhNGpnAh",
+      "street": "rFJEKruatpvLY7O1x3f3hsuIYUZMSwCO3TKSLm",
+      "house": 106,
+      "flat": 7,
+      "phone": "+7333597892",
+      "createdOn": "2026-01-04T01:52:59.000Z",
+      "notes": "DkXgvC7LqljWLKmN9eNb2frR0p5rxLWdCSSwR7mTuCsl0IjqJCEN6zrDHMD2xFgbyaBQMKHPkierMkIOeGQf1J3MbiGhugfbCcepH6XXEjHUnPrRvUx4luvO1928PHBPQjs1sKGejOyqt7vQ4jzyxarMKsX",
+      "_id": "6959c7fb1c508c5d5e9efa9d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

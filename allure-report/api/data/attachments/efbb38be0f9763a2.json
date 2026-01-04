@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:55:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-BbpOYBELgBloNSpVREIUOWOSMOU\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table69788",
+      "amount": 131,
+      "price": 83384,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T01:55:42.000Z",
+      "notes": "n9Osp8MFqa5gQQDiCo50yDBvAiQPVM4iXAMpnBdLPiBFS4levpxnA3RZUqhzLpNJz4UejAZEauZOMZc5k5wxS70YugTtCrELZij8hzfULNywt9P01uh1Epb6SL1Or4MTP7yd3rwDCPclFnvMbanjZAL7lLaPSEHGxTj1FMeIGidlTsxhde0fG8zgsWBogtSnGVpDE86noFqejQLcM1PI1RsvCY3jmBv0qiRGTqWCSvE3HwGUHfCwnSYeBM",
+      "_id": "6959c89e1c508c5d5e9f2b43"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

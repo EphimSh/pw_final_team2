@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:52:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-vHX8gqOXWG8ipWjqhF02TGfE2S8\"",
+    "keep-alive": "timeout=5, max=79",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair64633",
+      "amount": 102,
+      "price": 31280,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T01:52:02.000Z",
+      "notes": "rvuQp3cM545g22Sxl7ttoHfTLjFp3SU9qQZUzXuvKWq5XSGlYT6bw38Ar7oDH49XdyfeUCoeIhc6g3uXiv94WlsD7Aeu1xv7FhcJArKp15fnnbDPfMUIih7CoPPg54jqP7OyasC7d9nhP7zqJncfo0CXKZkda363anMwB2CHpusUAOWIR5Ju5ymePFhImqnpEZnnOgUbnOrNwAHWPgW0Jc9rPa7pdtppS7ZRlhCZayXfUToN5klQaY6oo3",
+      "_id": "6959c7c21c508c5d5e9ee8f7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

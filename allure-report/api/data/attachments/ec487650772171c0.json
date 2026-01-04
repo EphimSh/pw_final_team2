@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:49:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-S+5Br65Gx/kSilawvNxnZF8uwAM\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish29801",
+      "amount": 958,
+      "price": 28108,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T01:49:24.000Z",
+      "notes": "9cEwXyTNGM8BWJ9kgbTxbxA4hyS2TZWKUsJY6EnRIUv2CVNb5GhMg05x7tZjIDlq0FbBhqfWLSEPTYejfMIRbM62IBfLtoR3Tac8sAFfQIESsQAQPg6VEKIPlwX3CQTXekuRgP12nHg7ICTGTPDCbNzhMSQ5NLtQrD2sOY4oFJvr3e0V8EK3IeuXj9lZ4v8sjJBASq6nejKjSmpJ5Rl2GELL9erjzvwx7fD8voJO9uCEPIpVfMJyfjNPRN",
+      "_id": "6959c7241c508c5d5e9eafd4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:51:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-Rcr85Fhi/U8/CiIe2EDaO6anfUY\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna5684",
+      "amount": 185,
+      "price": 13542,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T01:51:35.000Z",
+      "notes": "reqlSIfNUrdfRO8JPaZdYmRQsRqu6co4uI6b2w0LctMpSjRLS4gxcmMkyjDWJl0bi1FDPlvgrOXfqQThQnIoxmfyzrWoT7PB9A7zr5UET3DNGtaKVeWHNFyHpwI2YnNxRHvWrQOgb7suYGnF8GdmHBwljM45KDnU8GEH8NMnAvTGAU0S34n8OwBVFEWjgborU8WWqNdh7un7GRajhkCGQ9aXZ1n7oi67r6KGsceN7Pk8dd4gsVN417Bd8Z",
+      "_id": "6959c7a71c508c5d5e9edf67"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:56:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-uJ76p1gdG+CC7RO1+3Xwzk19WH8\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro82878",
+      "amount": 109,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T01:56:32.000Z",
+      "notes": "Mk0wsYG3iz3HRZglmsI7xVUhHoRtqAsokszhD49I5M2kWf7BNnH48aZ9XQrRpS3SRlKUnWNyTPwehAbX8ehzuMS55NoOthiuTTDaz8pkRJoiOUI9hwFLVVaCknrR81LOcKPfJb96TqQFZ1tBaiUj9gmhMVeXzZDUWvenQUvTFQ1jZDoScvBdWKPzhTzWOL18ffdz6tSxuR3Yr2cdI8ISQMgHWBYo8htKwrQcEO71jPBEY8fihECsgxwNRh",
+      "_id": "6959c8d01c508c5d5e9f3b75"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

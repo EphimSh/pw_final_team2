@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:55:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-5siEbM3jVv9/wGZPaZ4TkUokcZA\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X18723",
+      "amount": 502,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T01:55:19.000Z",
+      "notes": "xQ0rhF5B9x1HS5SvQ6oBIODMknLEZqO7XwyKYdjSPZ1gdRHcmna8fdiKRBp5yWErxHWKmCO5J1RXOcMAFxwrcR1FRTlOEEPQT7bQ0ErCUg0dwvTBzgFo7uHTWYvRrmPYXEkIWgwDDlrmKOPYgij0mDbQc7r1aO3DowUL9qnDfAVO9EybiTSskDgLYACQ0doesM0UrYorRqeC2GLFPclyIfWkfxRZxEGQzirDiqdG60CXJNO51UxplZX7Jy",
+      "_id": "6959c8871c508c5d5e9f2531"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

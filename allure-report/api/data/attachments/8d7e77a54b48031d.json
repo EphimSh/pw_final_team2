@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:50:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "354",
+    "etag": "W/\"162-f6M5e+GjOyCh7X45r0pQG8V8Oqo\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Lurline_Howell88@gmail.com",
+      "name": "PnAVyZotBQxvfVGJzmMofkHgihBXVUvq",
+      "country": "Russia",
+      "city": "RTTcjOdgTgMelHebnexE",
+      "street": "wxd4Mvc",
+      "house": 197,
+      "flat": 3,
+      "phone": "+8239930502",
+      "createdOn": "2026-01-04T01:50:18.000Z",
+      "notes": "jHDxoaVgkIT0e9ZOVKk9jk0D1LbLpH",
+      "_id": "6959c75a1c508c5d5e9ec17f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

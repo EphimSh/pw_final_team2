@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:51:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "428",
+    "etag": "W/\"1ac-xDGuivP+2rIFb/7MTtNGt52yTz0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Connie_Larson@gmail.com",
+      "name": "FPEVxgOzRsZgDnSabWqSrTVRCcLgOsfZHqkm",
+      "country": "Great Britain",
+      "city": "iwoOOnDQT",
+      "street": "I9Qb88y1xJ2Q0",
+      "house": 108,
+      "flat": 3,
+      "phone": "+1333554727",
+      "createdOn": "2026-01-04T01:51:50.000Z",
+      "notes": "6ShZvy2ARm94SKdyWx2273fnvVQrsI15RDEpDteTIeO3X6Hr7ravpvFQsjGQRMZ9sUKJccNtFzti5ABdi3CmT5bvyEcc4fSfacmZv",
+      "_id": "6959c7b61c508c5d5e9ee2b5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

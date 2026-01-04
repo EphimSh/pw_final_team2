@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 01:54:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-WeyWIcDlArHeHAJfaUUOtwhEkwE\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Test Product",
+      "amount": 753,
+      "price": 32612,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T01:54:14.000Z",
+      "notes": "9N8sz9pWa1iur3qKOFex8AxTJlqC8jdUDoao7jKnjeqrIifhcwogO8tlmXw0nenklddWC7G1KgKlW77JwqgeQA9ZUzilc5zJhPLHdWoupF0nmixAHgQGwnA7SHkhm3qijuOyE9ASMzCynb4VNzeUKxr3Jda6cxrp3zeRso5448ySYWs06Fqo6Iev7It8qVw4qZNRUHxE2yZvIS1cKrjDDGm92MlWQgkVP0PwQjjY7slm9As3VFVLEqQzmd",
+      "_id": "6959c8461c508c5d5e9f1669"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
