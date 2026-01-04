@@ -51,13 +51,18 @@ npm run test:api
 ## Репортинг
 
 - Allure: результаты сохраняются в `allure-results/`, отчет генерируется командой `npm run allure-report` (вывод в `allure-report/`). Для открытия локально: `npm run allure-report-open`.
-- Telegram: уведомление отправляется в `global.teardown.ts` после прогона и только при `CI=true`.
+- Telegram: уведомление отправляется из CI (шаг `Notify Telegram with Allure link`) в `.github/workflows/ui.yml` и `.github/workflows/api.yml`.
 
 Переменные окружения для Telegram-репортинга:
 
 - `TELEGRAM_BOT_TOKEN` - токен бота.
 - `TELEGRAM_CHAT_ID` - id чата/канала.
-- `CI` - включить отправку уведомления (например, `true`).
+
+![Список тестов](img/reporting/all-suites-img.png)
+<i>Список тестов в allure</i>
+
+![График выполнения тестов](img/reporting/graphs-img.png)
+<i>График выполнения тестов</i>
 
 ## Список тестов
 
@@ -244,9 +249,7 @@ flowchart TB
   A --> AC["API clients"]
 ```
 
-## Репортинг
-
-## Файловая структура (ключевое)
+## Файловая структура
 
 - `src/tests/ui` - UI спецификации (Playwright).
 - `src/tests/api` - API спецификации.
