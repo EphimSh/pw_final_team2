@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:38:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-78nN28Y7YfUWK/zkUzOy64UdB0k\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna1635",
+      "amount": 114,
+      "price": 50494,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T11:38:19.000Z",
+      "notes": "QgzNRbkABVpCQDNHO4wlgFf0R7hWSQRZ00HopronUDpsblynJcxOcAMdvbp49s74nysBd9AhBJFjyq5povolbeFyHgJJSiSQS9CLRO4Xvuzn6eD8OVRe74w1uuqLne6R5vZ78PmgsnFp0rt1LZlS8moP3ERIX9srNzy6TyIBCvYSYPsy2rNDkg1TQzMnlH1Fir9wtJNutfUaXNPDHn088YJs5ErGghqWWewJLaFwyIrG9gJhQF3xC1wmYn",
+      "_id": "695a512b1c508c5d5ea5070a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

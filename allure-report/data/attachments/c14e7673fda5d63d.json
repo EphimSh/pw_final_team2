@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:39:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-y1bH0XTLWcnvZlqseAj3LuFzUZY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse25981",
+      "amount": 479,
+      "price": 8025,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T11:39:00.000Z",
+      "notes": "mOTfj9DECjOgmxgRNBjbiZqy2qnQpSxTkYTt8IxB5DZNZlzjLRgLAxHkSJruXuIS1z8AAOXM0kyB0pYuhxN7xYCjNTfV9CUvMmZv2TnVugLAX9AITjQj6mhjpYHSTmFKYepBU4pD9BMtqN3zypIAhnwe4kPxVJNDspm77xgywxAeawwf89LjsjWuh6VZZvG7eDBZtt0cd8B9h6LwSjvGu7dzraJln2m3o3jyOMO7RqLPF6o5vMMUGn5FJm",
+      "_id": "695a51541c508c5d5ea51a34"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

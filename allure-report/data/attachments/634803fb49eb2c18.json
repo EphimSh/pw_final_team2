@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:39:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "516",
+    "etag": "W/\"204-m9V/wkwcWJP2jtG9A0dQCxGLReQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Rusty8@gmail.com",
+      "name": "yaeUcHohrscjcBgeFztrpcWrrkMfw",
+      "country": "USA",
+      "city": "iJN",
+      "street": "4vZ",
+      "house": 88,
+      "flat": 4,
+      "phone": "+1558492492",
+      "createdOn": "2026-01-04T11:39:00.000Z",
+      "notes": "YKAl4OWlEgOKA903RVKbpMjU3vnAPeYbwq24E2NExBiYRnrF6JrDHM6Lrlittf2EiVDu3BbdDL7qvxX1YhdRQa3CwhbmdRIH51WbNQWzvDTzN8CqUjqaLYuux2GlrNgWr4ExKfk4AJ7o9pQc70mhAAJJLadSfZ6ahtLzUR2OpQlMbvsVGdWgs7CrNL7BoZWM23vi1uVNxjegnN9nebJnHGn3mHmLJBEYyUVSBB",
+      "_id": "695a51541c508c5d5ea51a23"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

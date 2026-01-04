@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:37:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "428",
+    "etag": "W/\"1ac-kSI6S8j/2Pw2eL6KmEpcKY0/wlE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Marley.Stokes4@yahoo.com",
+      "name": "mmCKuwdOCyG",
+      "country": "Great Britain",
+      "city": "iAEEEQXBxJktaKP",
+      "street": "AaLE6GPnOprI",
+      "house": 54,
+      "flat": 6,
+      "phone": "+7557272380",
+      "createdOn": "2026-01-04T11:37:33.000Z",
+      "notes": "BMpx4jApsv2J1nIX2yhc4RoB0xZTgZTkDc6yMHDX2hhreT0xPxpuoNhcsYluHmlPGfKqcmgCC1zUhOOOlSlsSrBOxdbKELYafSoCZlvGV03p3iSgrT7qRpoWY",
+      "_id": "695a50fd1c508c5d5ea4eec4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

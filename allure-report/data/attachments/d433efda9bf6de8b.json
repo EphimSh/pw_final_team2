@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:37:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "343",
+    "etag": "W/\"157-N2suCuewejOEtDzc1d2I9PYPQLg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Marjolaine20@yahoo.com",
+      "name": "dVTno",
+      "country": "Canada",
+      "city": "jcIhrYkZRetqWX",
+      "street": "VomWp",
+      "house": 70,
+      "flat": 9,
+      "phone": "+2318046024",
+      "createdOn": "2026-01-04T11:37:33.000Z",
+      "notes": "s5lBHtAHiPDLgPvpU3F0b4wT2Zr5kXN7XiiV5Tj87Cwt4stdFvVFzEEw844",
+      "_id": "695a50fd1c508c5d5ea4eeab"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:40:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-K7tkIKPIm3AsNiq5IXcRH5uc7H0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna74331",
+      "amount": 214,
+      "price": 45314,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T11:40:44.000Z",
+      "notes": "sUPL5f8qnT71Q87usOabOJpUsWvw7R2cxmvdIhjRo9PNYq4kPGZ5ouVw1OFsjJGD4OBxQoIbE2tMkYS5M1sNfLiUk6OiDSMuAcqtyiYZ5AMzgT2CkzlVyBEn6gcKeo5OZoUFhkPLTXvIvZvh1OWXZynfY16ogtQf53ULjYE6QdIp1WsYyvnNdOhO2XH6RTyR8waaqwGuE8aBhDQiJcOsTFiY9h7KduJI211P6mQBfZtrLHZeol0dwTcQYj",
+      "_id": "695a51bc1c508c5d5ea54348"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

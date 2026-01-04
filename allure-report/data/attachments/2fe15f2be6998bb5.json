@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:38:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "551",
+    "etag": "W/\"227-nUG8YiO7i7RS/c/1UucSn8q2QHE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Zakary.Graham@gmail.com",
+      "name": "OXtYKFBcezSUObKISlKjeJPGhLeHj",
+      "country": "USA",
+      "city": "QQcxydTrkDTygCUAvXbV",
+      "street": "xfYs5ZrAtFq93ewJBCj7qCpTJnfHT1PWUhb4",
+      "house": 98,
+      "flat": 6,
+      "phone": "+4355259920",
+      "createdOn": "2026-01-04T11:38:16.000Z",
+      "notes": "HJAkWlqxS71848gnKx0LthCGxqzEcWuIeYlZcEV9LZ3garY0UpdzRZcx6h3tBwL20oWRvtfWIQNyJ5dnWpDDBlyvjkwOq1EL5PGNVWhsd6qrRLFrC23wt5L078tTXKvVsvmcFW5Y0Fv1uQSI83SiSodJGDVjXvcpYwxsLC4zsWFA3z2z0Q8oh4h00s5GDMlbwNTmASrpOuhSxcdq",
+      "_id": "695a51281c508c5d5ea50497"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

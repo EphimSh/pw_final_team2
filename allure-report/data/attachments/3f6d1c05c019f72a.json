@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:39:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-rGEkJnyTdOuWiHnHLEfWApShKhI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse70153",
+      "amount": 786,
+      "price": 20235,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T11:39:09.000Z",
+      "notes": "uh8CLFZrUMnGnOleZln5FE1whrUgl9eUDrhTj6CrfTcnO3OWjqajyKHvdoanDjOuk0sdaQsmQB5NbJGhzqgFWhrIbCjN9uFk4LjWPtOAQAHfjGHecK1eIe627EMk9i1DyPKq3r7hLRhmWkUvtf3cbVNyU8XfpwzQ8DLJZRX2X9bYFbPM28PXBR4sepM8HLZyuXxqfySN3ugIeuv3rPRkBdrORsUYvhfl2pSvqsXYL48kanOpeGAMVi1PHF",
+      "_id": "695a515d1c508c5d5ea51d54"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

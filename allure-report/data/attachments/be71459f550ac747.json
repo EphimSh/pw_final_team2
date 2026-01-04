@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:40:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "342",
+    "etag": "W/\"156-dGOhuyhDZXB9pDTDkIVTiwJFmfI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Yoshiko78@yahoo.com",
+      "name": "ludjlCNagffPUXZUCGHwkRRkFJ",
+      "country": "Ukraine",
+      "city": "irwYcJbQzejLEwzhoPr",
+      "street": "C6FFLPl5dErYlUzlMSUpadL6Lxx9F",
+      "house": 90,
+      "flat": 6,
+      "phone": "+1478759589",
+      "createdOn": "2026-01-04T11:40:26.000Z",
+      "notes": "zGWwu7YbF4",
+      "_id": "695a51aa1c508c5d5ea53b99"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

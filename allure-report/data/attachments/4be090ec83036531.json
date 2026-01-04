@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:38:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "530",
+    "etag": "W/\"212-6SnV8HutOgzIOSV+CGtkf/PjLUE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Krystal_Bogisich21@yahoo.com",
+      "name": "gZavQNhjiRb",
+      "country": "Germany",
+      "city": "VRlvUqNuZyuc",
+      "street": "QF1tSNAaoUnYjklJU6mxzyTb",
+      "house": 42,
+      "flat": 6,
+      "phone": "+9464774003",
+      "createdOn": "2026-01-04T11:38:56.000Z",
+      "notes": "50QF6uSE0LrUDAYkUMmZDkX1R6ret59mkAVESHJdfqIWZCe9gj88wfjP5ohianTuyRMVNnNvWx2BohHpJEwVS6emLSi7BKn5gqgTnu9XvsOmp4cLBqnKaJ25Ps3biNEU6eAbUGQEy2EDnRrzPl1v3QM57OgGLKB7ndqTyMdatJ5s4zAARWKW0gFJ0OEXbCz6Ct6at2VEwz2JRuiR6zIV5rsX",
+      "_id": "695a51501c508c5d5ea51844"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

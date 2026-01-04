@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:40:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-YG96baZiBg6bn96gbQlXp7v749o\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car84159",
+      "amount": 234,
+      "price": 13064,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T11:40:07.000Z",
+      "notes": "A8Vqe64ZzPC4uDNDZseAPFHEqVyXdT8scEOxWjmoXkrdx1KQiiS3E4lbsEdZdaysv2hwYv6KDlaAVrq9li5ebIRqgO3PU7CsoAAMhW58affIB5XjKOHBTnenlrLPWOGnmGYOrRcxIfSWS2tH9oXWyNzWNMPT568kzmPFyCWZnyQtn5r1YDos7OOFmRfQu7YjfdhidonehTfRH8uutpTp64lrmwFGCnr3VV6FEhhLXaPJD1O79uCwkVnvXu",
+      "_id": "695a51971c508c5d5ea5368d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

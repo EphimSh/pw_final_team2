@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:40:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-1jg+wszHicsqRADWFXUOxNQ+E3U\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt83704",
+      "amount": 406,
+      "price": 87026,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T11:40:44.000Z",
+      "notes": "aAiMdzt1BkU8d5FI09XJFRdFnDZNHurxOIWhvvoZAxBzccCZg0CcAclZogfXpLdD47KvmvKdjdSAj7qCMrTeNT9bMWggVe1oyQerg1SaMdWbQBhYYoGdsu9H3vWXdtocwj0LPVidTveurdshKnq2ChToJtcc400VEb2RI7WuVrIUXtlDRE8jYp6hlXXZmECj5cromhgxlQmN1pb4LlnAzrPcqeluvGtEs2q9dgRgAFcFvAMiSTpO0biCoq",
+      "_id": "695a51bc1c508c5d5ea542a9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:37:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-MLvGT0oeY68lSiVzQQ5Bs5m+kFo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike88672",
+      "amount": 679,
+      "price": 12741,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T11:37:40.000Z",
+      "notes": "J2kLM3fHG1SpwcjzENXcZRcMmZHQtOWAJyZxyDSW0hCnE1kbiFuTsrfz3t9fJlZFU55EZviAp0sZtu9R1RuZEjLMKJgdhbvlHjBDvG07pEYcDifSc3UQuMugMknU0TI7YWC1nLG0bIj60FkkHQbnQsCoiuy8Et84syA4z7zhO43URcAoq96XMJwdU3eqCYfN6nJOm8PQjM5ekQMM1IF0Pf7tGgK21YKI17jdO9dgNfuQxfhJDcDymJ1lEX",
+      "_id": "695a51041c508c5d5ea4f157"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:41:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-TtEnOcvJRtfZfKQQrwNkA1yJKjo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball8430",
+      "amount": 380,
+      "price": 83953,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T11:41:27.000Z",
+      "notes": "667CiytQtr8jcK4BYeoP1JOnEXugL7OPw8xMBw1hjM6xdjvxyWupLsYKSzkVnAG8VPaqu0csZspy4lzCSGYZV5Mzttsw8CsETEuBbdt9CSFPyKbLy2C3KF7bDrZ00IFcUhq4p1cLBGJ8U2ebIzMvviyzI8lTTvBY5ERtfM4nNIuzsjpvyMMP3AyQQZZKbU4DJW60Y73e5zhFR4kVvRnWOEzNSJGMQhvD69FqVDa3hPn7L6oK8xo8ToMne0",
+      "_id": "695a51e71c508c5d5ea552f9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:37:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-1In543cfiES15SS1aAOBrLvi69Q\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer68599",
+      "amount": 722,
+      "price": 85046,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T11:37:40.000Z",
+      "notes": "0MbARbGo3WDEEo4Hl5KZuXV5hSODDMkGKz7p1MBLpt8AqqdK2v4kbEHK6q8sujUxV5fniPoAVHa6bZzuhvPklnfvwK7o7df0nggibBYmbrxj0VF17VjsjEB7LGyn7E1K64jIQk4aFb7WGHs2uY4f9RDRXTWw8qzMfLMcbB3s52vjdGPir0rJXjOg8b96f2Y6ICn40JhqNIx9zVDiRYPZZkFNbsLWZx1ijL9sylwezHuwiFbvXMmBswFKAY",
+      "_id": "695a51041c508c5d5ea4f151"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

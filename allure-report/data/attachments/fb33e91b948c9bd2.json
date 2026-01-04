@@ -1,0 +1,258 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:37:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "6700",
+    "etag": "W/\"1a2c-FKpP1N8OwtGp5JL+lZBBIXEY2/o\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a510a1c508c5d5ea4f450",
+      "status": "Partially Received",
+      "customer": {
+        "_id": "695a50fd1c508c5d5ea4eec4",
+        "email": "Marley.Stokes4@yahoo.com",
+        "name": "mmCKuwdOCyG",
+        "country": "Great Britain",
+        "city": "iAEEEQXBxJktaKP",
+        "street": "AaLE6GPnOprI",
+        "house": 54,
+        "flat": 6,
+        "phone": "+7557272380",
+        "createdOn": "2026-01-04T11:37:33.000Z",
+        "notes": "BMpx4jApsv2J1nIX2yhc4RoB0xZTgZTkDc6yMHDX2hhreT0xPxpuoNhcsYluHmlPGfKqcmgCC1zUhOOOlSlsSrBOxdbKELYafSoCZlvGV03p3iSgrT7qRpoWY"
+      },
+      "products": [
+        {
+          "_id": "695a51041c508c5d5ea4f151",
+          "name": "Computer68599",
+          "amount": 722,
+          "price": 85046,
+          "manufacturer": "Tesla",
+          "notes": "0MbARbGo3WDEEo4Hl5KZuXV5hSODDMkGKz7p1MBLpt8AqqdK2v4kbEHK6q8sujUxV5fniPoAVHa6bZzuhvPklnfvwK7o7df0nggibBYmbrxj0VF17VjsjEB7LGyn7E1K64jIQk4aFb7WGHs2uY4f9RDRXTWw8qzMfLMcbB3s52vjdGPir0rJXjOg8b96f2Y6ICn40JhqNIx9zVDiRYPZZkFNbsLWZx1ijL9sylwezHuwiFbvXMmBswFKAY",
+          "received": true
+        },
+        {
+          "_id": "695a51081c508c5d5ea4f422",
+          "name": "Pants50250",
+          "amount": 828,
+          "price": 40280,
+          "manufacturer": "Amazon",
+          "notes": "GvGpQ7Jmz2zeM6Lt5jMrrttgt46aZzCiEGO7CsmYwGWanweZW6QvYLngcWbyNSVJgrpWOVRbyaPczfgP0TUdIcWCxTdZORqKdSAuTNvEBGmvOxmN8v4J6SNydDIoPWWX6DQlgq5wmBqc4ijgRsc80XGyRAPUoK2VZqHmQgvJgUWol5lUG1KPWJyIyALaYGkhewjK1lTOQNlDMr2LvwEmYRdX6mmWTG88VrCG8oc5K18hkvMp0P9ZMsOrDE",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Great Britain",
+          "city": "Mock City jtJookn",
+          "street": "MockStreethlXndUUuRxDv",
+          "house": 189,
+          "flat": 18
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 125326,
+      "createdOn": "2026-01-04T11:37:46.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Partially Received",
+          "customer": "695a50fd1c508c5d5ea4eec4",
+          "products": [
+            {
+              "_id": "695a51041c508c5d5ea4f151",
+              "name": "Computer68599",
+              "amount": 722,
+              "price": 85046,
+              "manufacturer": "Tesla",
+              "notes": "0MbARbGo3WDEEo4Hl5KZuXV5hSODDMkGKz7p1MBLpt8AqqdK2v4kbEHK6q8sujUxV5fniPoAVHa6bZzuhvPklnfvwK7o7df0nggibBYmbrxj0VF17VjsjEB7LGyn7E1K64jIQk4aFb7WGHs2uY4f9RDRXTWw8qzMfLMcbB3s52vjdGPir0rJXjOg8b96f2Y6ICn40JhqNIx9zVDiRYPZZkFNbsLWZx1ijL9sylwezHuwiFbvXMmBswFKAY",
+              "received": true
+            },
+            {
+              "_id": "695a51081c508c5d5ea4f422",
+              "name": "Pants50250",
+              "amount": 828,
+              "price": 40280,
+              "manufacturer": "Amazon",
+              "notes": "GvGpQ7Jmz2zeM6Lt5jMrrttgt46aZzCiEGO7CsmYwGWanweZW6QvYLngcWbyNSVJgrpWOVRbyaPczfgP0TUdIcWCxTdZORqKdSAuTNvEBGmvOxmN8v4J6SNydDIoPWWX6DQlgq5wmBqc4ijgRsc80XGyRAPUoK2VZqHmQgvJgUWol5lUG1KPWJyIyALaYGkhewjK1lTOQNlDMr2LvwEmYRdX6mmWTG88VrCG8oc5K18hkvMp0P9ZMsOrDE",
+              "received": false
+            }
+          ],
+          "total_price": 125326,
+          "delivery": {
+            "address": {
+              "country": "Great Britain",
+              "city": "Mock City jtJookn",
+              "street": "MockStreethlXndUUuRxDv",
+              "house": 189,
+              "flat": 18
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T11:37:48.000Z",
+          "action": "Received",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "In Process",
+          "customer": "695a50fd1c508c5d5ea4eec4",
+          "products": [
+            {
+              "_id": "695a51041c508c5d5ea4f151",
+              "name": "Computer68599",
+              "amount": 722,
+              "price": 85046,
+              "manufacturer": "Tesla",
+              "notes": "0MbARbGo3WDEEo4Hl5KZuXV5hSODDMkGKz7p1MBLpt8AqqdK2v4kbEHK6q8sujUxV5fniPoAVHa6bZzuhvPklnfvwK7o7df0nggibBYmbrxj0VF17VjsjEB7LGyn7E1K64jIQk4aFb7WGHs2uY4f9RDRXTWw8qzMfLMcbB3s52vjdGPir0rJXjOg8b96f2Y6ICn40JhqNIx9zVDiRYPZZkFNbsLWZx1ijL9sylwezHuwiFbvXMmBswFKAY",
+              "received": false
+            },
+            {
+              "_id": "695a51081c508c5d5ea4f422",
+              "name": "Pants50250",
+              "amount": 828,
+              "price": 40280,
+              "manufacturer": "Amazon",
+              "notes": "GvGpQ7Jmz2zeM6Lt5jMrrttgt46aZzCiEGO7CsmYwGWanweZW6QvYLngcWbyNSVJgrpWOVRbyaPczfgP0TUdIcWCxTdZORqKdSAuTNvEBGmvOxmN8v4J6SNydDIoPWWX6DQlgq5wmBqc4ijgRsc80XGyRAPUoK2VZqHmQgvJgUWol5lUG1KPWJyIyALaYGkhewjK1lTOQNlDMr2LvwEmYRdX6mmWTG88VrCG8oc5K18hkvMp0P9ZMsOrDE",
+              "received": false
+            }
+          ],
+          "total_price": 125326,
+          "delivery": {
+            "address": {
+              "country": "Great Britain",
+              "city": "Mock City jtJookn",
+              "street": "MockStreethlXndUUuRxDv",
+              "house": 189,
+              "flat": 18
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T11:37:47.000Z",
+          "action": "Order processing started",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a50fd1c508c5d5ea4eec4",
+          "products": [
+            {
+              "_id": "695a51041c508c5d5ea4f151",
+              "name": "Computer68599",
+              "amount": 722,
+              "price": 85046,
+              "manufacturer": "Tesla",
+              "notes": "0MbARbGo3WDEEo4Hl5KZuXV5hSODDMkGKz7p1MBLpt8AqqdK2v4kbEHK6q8sujUxV5fniPoAVHa6bZzuhvPklnfvwK7o7df0nggibBYmbrxj0VF17VjsjEB7LGyn7E1K64jIQk4aFb7WGHs2uY4f9RDRXTWw8qzMfLMcbB3s52vjdGPir0rJXjOg8b96f2Y6ICn40JhqNIx9zVDiRYPZZkFNbsLWZx1ijL9sylwezHuwiFbvXMmBswFKAY",
+              "received": false
+            },
+            {
+              "_id": "695a51081c508c5d5ea4f422",
+              "name": "Pants50250",
+              "amount": 828,
+              "price": 40280,
+              "manufacturer": "Amazon",
+              "notes": "GvGpQ7Jmz2zeM6Lt5jMrrttgt46aZzCiEGO7CsmYwGWanweZW6QvYLngcWbyNSVJgrpWOVRbyaPczfgP0TUdIcWCxTdZORqKdSAuTNvEBGmvOxmN8v4J6SNydDIoPWWX6DQlgq5wmBqc4ijgRsc80XGyRAPUoK2VZqHmQgvJgUWol5lUG1KPWJyIyALaYGkhewjK1lTOQNlDMr2LvwEmYRdX6mmWTG88VrCG8oc5K18hkvMp0P9ZMsOrDE",
+              "received": false
+            }
+          ],
+          "total_price": 125326,
+          "delivery": {
+            "address": {
+              "country": "Great Britain",
+              "city": "Mock City jtJookn",
+              "street": "MockStreethlXndUUuRxDv",
+              "house": 189,
+              "flat": 18
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T11:37:47.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a50fd1c508c5d5ea4eec4",
+          "products": [
+            {
+              "_id": "695a51041c508c5d5ea4f151",
+              "name": "Computer68599",
+              "amount": 722,
+              "price": 85046,
+              "manufacturer": "Tesla",
+              "notes": "0MbARbGo3WDEEo4Hl5KZuXV5hSODDMkGKz7p1MBLpt8AqqdK2v4kbEHK6q8sujUxV5fniPoAVHa6bZzuhvPklnfvwK7o7df0nggibBYmbrxj0VF17VjsjEB7LGyn7E1K64jIQk4aFb7WGHs2uY4f9RDRXTWw8qzMfLMcbB3s52vjdGPir0rJXjOg8b96f2Y6ICn40JhqNIx9zVDiRYPZZkFNbsLWZx1ijL9sylwezHuwiFbvXMmBswFKAY",
+              "received": false
+            },
+            {
+              "_id": "695a51081c508c5d5ea4f422",
+              "name": "Pants50250",
+              "amount": 828,
+              "price": 40280,
+              "manufacturer": "Amazon",
+              "notes": "GvGpQ7Jmz2zeM6Lt5jMrrttgt46aZzCiEGO7CsmYwGWanweZW6QvYLngcWbyNSVJgrpWOVRbyaPczfgP0TUdIcWCxTdZORqKdSAuTNvEBGmvOxmN8v4J6SNydDIoPWWX6DQlgq5wmBqc4ijgRsc80XGyRAPUoK2VZqHmQgvJgUWol5lUG1KPWJyIyALaYGkhewjK1lTOQNlDMr2LvwEmYRdX6mmWTG88VrCG8oc5K18hkvMp0P9ZMsOrDE",
+              "received": false
+            }
+          ],
+          "total_price": 125326,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:37:46.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

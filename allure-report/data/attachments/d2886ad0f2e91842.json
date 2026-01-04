@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:39:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-1uqKuF10vLEooIJTd83MKXCziMY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad85328",
+      "amount": 396,
+      "price": 49395,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T11:39:30.000Z",
+      "notes": "iFQu3sySpjd16Nl796ige0oW6FRu4rdbnmRbuNtiAn1t04voTtoj3Kasbov0jS072YK2sdVaSPM98YNUzMYsvZufu3jd8SbbqXy8OIBML9pg9m46EQ6YTcJhize7J4hwEUKMeVcF3xSsNi1U2lebfbcYP5yruk4iY7rw21duLMTeYF0JpEXqswXuTn4t8Nf5945yxa9l1MdowOtyeyqeM31sRRQ1JM3W7pSfDnslTxIiP1mn5L7W0AcVRO",
+      "_id": "695a51721c508c5d5ea52741"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

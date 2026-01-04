@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:40:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "318",
+    "etag": "W/\"13e-VHih8urqtIjRMZyKUJ5pmgqgC3A\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Emmanuel_Beahan13@hotmail.com",
+      "name": "XTSxsRqg",
+      "country": "USA",
+      "city": "zZIVrpgNMH",
+      "street": "vqdY4",
+      "house": 55,
+      "flat": 7,
+      "phone": "+3121687656",
+      "createdOn": "2026-01-04T11:40:10.000Z",
+      "notes": "6TYx8GrQ0V8BNs2qJaDqwKXhZcvyqiz",
+      "_id": "695a519a1c508c5d5ea53695"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:39:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "346",
+    "etag": "W/\"15a-RohOFz/z2hcqj1rzxdCAbiViJwI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jaiden_Windler7@hotmail.com",
+      "name": "RwqgOzaOtEWqZMnbwryscnSbDLwODjM",
+      "country": "Canada",
+      "city": "UCjeaNtkNgFv",
+      "street": "5zj016kSwCS",
+      "house": 83,
+      "flat": 2,
+      "phone": "+7567083171",
+      "createdOn": "2026-01-04T11:39:33.000Z",
+      "notes": "hdLsgmtLr3kL3g4JfSQMOYbqAcc",
+      "_id": "695a51751c508c5d5ea529a1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

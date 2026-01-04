@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:40:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-iHG+1sIFjL83ZHSIUOhKJI9UAhA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish1147",
+      "amount": 759,
+      "price": 69496,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T11:40:16.000Z",
+      "notes": "9pa5ep27VyWM1tOvebTa1bZWKpSCqBReG2n1obTpU2CFyPZuLdAeh4fAPfkz1w2nzww7xHJZRc9hBCLN1B3JTSrpHgXLfkRQGxVcQxfQs4FWYNS6YKz4L9gyGG55FvhX9hsZ3u1hFS7sHifIIUhMRUBXrysIY5wZpi70TNLUuromA4Z3Q5k4DTHWg4C571S1a7DqNAIYi9DomcfSjDyhpepdYwCGC786Hgsv7iwOdywSUjIe7BCg9xf8o1",
+      "_id": "695a51a01c508c5d5ea537f0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:38:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-JCRhiKbH6GpBliqr8LZ6zj40lZA\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna6645",
+      "amount": 239,
+      "price": 45236,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T11:38:19.000Z",
+      "notes": "RegENyYDtP95ZAWchDIEgk1Gu6uko7amRziEiOvQB0a52f2XUwp4tDiWdn37t2y8ABqJSKwI0tfxwGM57QGY3nIyZsfvzhODefBoohm6ZUu0ubWsXG5wWuyXtAOCNm5CVuJ8L49QCGDgWHLW1rZtGZ93DgYCDs2LGbijjTUeySq9vMtVSFBSIO7QsP3NVrKjU9y9rvcGQMTrVJUX6jhy6aTSE7qulUKMdmNkGjmVdnrYAo34HCXfPNqM7v",
+      "_id": "695a512b1c508c5d5ea50704"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

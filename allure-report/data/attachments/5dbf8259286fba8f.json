@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:39:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "519",
+    "etag": "W/\"207-iVGOOY+Zu1+S8OpSqxQ6AKLM5rA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ellen18@gmail.com",
+      "name": "CjEykSwKXDxqyd",
+      "country": "Ukraine",
+      "city": "goqBFOixZfPwUMbAIIz",
+      "street": "hgEoalrAwsSkslnQgxGTOzHlUsSKAiL",
+      "house": 143,
+      "flat": 9,
+      "phone": "+4640198073",
+      "createdOn": "2026-01-04T11:39:13.000Z",
+      "notes": "OUGdI7rgFqPQDguJBPR8XMogoG2BEnajgSBaKyfdtBoTRqnuuvWwLhwjlbp2KBGg4WFcbEREmOhzKvHUBpH8hmtEhAWyUEA4eXW0y1Y3G1bnIpBUB12SGTzbrzqS46a8cJyb1bDixgqwQfFWjlMgsZKtwAPniFrPdLNeBFL1luazXAzgsJyhiAPEENp8cBYG60oLOo",
+      "_id": "695a51611c508c5d5ea51ea1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

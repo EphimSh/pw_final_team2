@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:40:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "491",
+    "etag": "W/\"1eb-3CB0+9rqmnvEHOxgNQ9mrYyPoyc\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kamryn34@yahoo.com",
+      "name": "SStymAodqydB",
+      "country": "Russia",
+      "city": "HSXTwFSEQgmN",
+      "street": "ZoreUxa52mhfoRmC",
+      "house": 9,
+      "flat": 9,
+      "phone": "+3961116892",
+      "createdOn": "2026-01-04T11:40:08.000Z",
+      "notes": "ghgA1RWKquHffkcni3UwhYdeCDmlUGB2gRnUGOrpdGBTzyAcRfrCY4si0SpoONJLG1oo8fhULp9sJvYVZ2dzdEqCDtz2VaIhMAYAgQnl9EBZKm0TQRJkY6xr5MLD2ZYg7LIX5hUVrO5GwY866R2x1cBmJAxrzcfVoyyfDfTURKXX8PegE6HBnnCzDPVGHQHgZPsQ",
+      "_id": "695a51981c508c5d5ea53691"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

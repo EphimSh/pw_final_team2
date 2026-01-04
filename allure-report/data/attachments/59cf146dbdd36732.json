@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:39:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-aqvjv+I5pcFi7kmiJ3QiW3UuhWc\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse37895",
+      "amount": 965,
+      "price": 95115,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T11:39:59.000Z",
+      "notes": "lfvyqC4B149Aw3h7sX7i6ImoGr5HmsZVGN1XfVG6uJ3EkaiBro7Gi0s3hM2JSj8ms1jRmXvR1JOGkeQIGZLDc1tOSa0bwgpUGAH3m5KAE4gUylT2xAuRjAKciqPaZWOIMevFeFjBGbrAWSDVQKUQYmErFI2vBf6Mc0jVaXfrrgpLmjeZ65b0NC6XtkFu02DSTuqIAqr0Lrc77F3lqdAwWOObLRoCwj7Gfim0ZqbPthoe6ENujXI8BDZVtO",
+      "_id": "695a518f1c508c5d5ea531da"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

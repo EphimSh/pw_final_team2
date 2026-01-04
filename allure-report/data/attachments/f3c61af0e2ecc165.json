@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:38:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-pF1mBbFk0u9dfKz+PEfKyqOeLpw\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips71188",
+      "amount": 962,
+      "price": 65707,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T11:38:28.000Z",
+      "notes": "Gkwbdv8bLfp0MjGkfkfY6jy9JrLIDWqZfLcsiAcKsVCBH6hiYXQrYmpKC48dUxPywPGKHM0mnEQjgCssJ9ViOK5iSZmzrnVerCtOzzyxB41pjv5E2NUyQmC126nIzijk8xxFaQqadJwx4XdniFOsrLx3R9P0pmXeY7YNEMcQV2z7WYFPNKpl2zjrosgj0LimCWXNjAW39eoe2qXN1zwYKigLB9xylSuaNdVI1OLXGwAEKIjYwdkpdg2Y6q",
+      "_id": "695a51341c508c5d5ea5096e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

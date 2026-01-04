@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:39:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "415",
+    "etag": "W/\"19f-bHqLoajW6RRtgNRnYN5a4eCmnSA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jonathan.Hoppe79@hotmail.com",
+      "name": "mHZwuYJSHhZckFQgIhUvUWnvepOWYzfaSCnNrc",
+      "country": "France",
+      "city": "HuBTQJBDUbHniySbKeIF",
+      "street": "R7dhoeACdIuT8JjTjhxU",
+      "house": 121,
+      "flat": 2,
+      "phone": "+2645382104",
+      "createdOn": "2026-01-04T11:39:46.000Z",
+      "notes": "J40NMQLEVApVkpMZvURqrFF3xsjizlkT39tDZcCEYZcEcZXBoakaw01dAYaeeHUNcYxRsR",
+      "_id": "695a51821c508c5d5ea52d48"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

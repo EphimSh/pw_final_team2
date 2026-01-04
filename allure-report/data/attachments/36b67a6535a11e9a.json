@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:40:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-fqX9aqpKpX5JMAFMkyHxKyGnG6M\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes24239",
+      "amount": 722,
+      "price": 99384,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T11:40:44.000Z",
+      "notes": "Vj22tw5g4kh4TwoPzkewjYqWj0nVzbfrtus1TBrA1ikp5ULPo9669vnxPhupjigs6vfL0gHX4dPMzrm7SCRaHHpqAyjqTphEEMo9XQIMNP2vrCBPapJEYq8N0mGSfUsrzgiXtlLFpWU1FpC0cXZTe0oLyDMdUy9yKVKQIj7oLjqsM8UbUD2E2ymyDeQqqUHrGZIP431h94dGpit7yQiM4I55DStHuknKQY5jneP6kABTh12MQ9rg4NWG76",
+      "_id": "695a51bc1c508c5d5ea54346"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:40:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "337",
+    "etag": "W/\"151-/+MgbQlxeK74vH0YxGT7zk0pwtQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Cynthia14@yahoo.com",
+      "name": "tJwwrnL",
+      "country": "France",
+      "city": "guIjfCqqaywctRm",
+      "street": "7G1j9wUVuiDPuhqjQRtzApXMc94",
+      "house": 70,
+      "flat": 1,
+      "phone": "+6338650993",
+      "createdOn": "2026-01-04T11:40:38.000Z",
+      "notes": "AbneqcLPjRzm3tMiZYfi2skaXPviOYQ",
+      "_id": "695a51b61c508c5d5ea541a2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

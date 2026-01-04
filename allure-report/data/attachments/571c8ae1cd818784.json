@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:39:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "351",
+    "etag": "W/\"15f-2e0UOo7SSxPv9pzyXEMeX+ioeXQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kimberly.Willms@yahoo.com",
+      "name": "nRO",
+      "country": "Ukraine",
+      "city": "KeYmxsUWeJPGffovKnzo",
+      "street": "XcB",
+      "house": 14,
+      "flat": 5,
+      "phone": "+5071110533",
+      "createdOn": "2026-01-04T11:39:31.000Z",
+      "notes": "NWSNmRWuSAMlZU4nRRJBVpm4RZk0mv6zebExUnRCSk9WjzLrL36h4lLmMero1",
+      "_id": "695a51731c508c5d5ea5274f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

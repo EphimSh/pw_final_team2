@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:39:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1711",
+    "etag": "W/\"6af-8dR/BuwZtmISFVpS/zKy0pE7XJ8\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "695a51541c508c5d5ea51a37",
+        "email": "Ryan_Lesch@hotmail.com",
+        "name": "ydmXgWlIeKcnhcnxTvekVjNHtBcOOdkuULZZTvN",
+        "country": "France",
+        "city": "AVSqVaqknZwbl",
+        "street": "FcVRIQgE8YqcAkbyGzSrLtvPU2OA2j53YOKEc",
+        "house": 159,
+        "flat": 4,
+        "phone": "+2953225300",
+        "createdOn": "2026-01-04T11:39:00.000Z",
+        "notes": "KQvLM2X3xgyBiGYfHWvYItpBr"
+      },
+      "products": [
+        {
+          "_id": "695a515d1c508c5d5ea51d54",
+          "name": "Mouse70153",
+          "amount": 786,
+          "price": 20235,
+          "manufacturer": "Microsoft",
+          "notes": "uh8CLFZrUMnGnOleZln5FE1whrUgl9eUDrhTj6CrfTcnO3OWjqajyKHvdoanDjOuk0sdaQsmQB5NbJGhzqgFWhrIbCjN9uFk4LjWPtOAQAHfjGHecK1eIe627EMk9i1DyPKq3r7hLRhmWkUvtf3cbVNyU8XfpwzQ8DLJZRX2X9bYFbPM28PXBR4sepM8HLZyuXxqfySN3ugIeuv3rPRkBdrORsUYvhfl2pSvqsXYL48kanOpeGAMVi1PHF",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 20235,
+      "createdOn": "2026-01-04T11:39:10.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a51541c508c5d5ea51a37",
+          "products": [
+            {
+              "_id": "695a515d1c508c5d5ea51d54",
+              "name": "Mouse70153",
+              "amount": 786,
+              "price": 20235,
+              "manufacturer": "Microsoft",
+              "notes": "uh8CLFZrUMnGnOleZln5FE1whrUgl9eUDrhTj6CrfTcnO3OWjqajyKHvdoanDjOuk0sdaQsmQB5NbJGhzqgFWhrIbCjN9uFk4LjWPtOAQAHfjGHecK1eIe627EMk9i1DyPKq3r7hLRhmWkUvtf3cbVNyU8XfpwzQ8DLJZRX2X9bYFbPM28PXBR4sepM8HLZyuXxqfySN3ugIeuv3rPRkBdrORsUYvhfl2pSvqsXYL48kanOpeGAMVi1PHF",
+              "received": false
+            }
+          ],
+          "total_price": 20235,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:39:10.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695a515e1c508c5d5ea51d85"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
