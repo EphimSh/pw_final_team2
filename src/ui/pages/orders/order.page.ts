@@ -1,6 +1,4 @@
 import { expect } from "fixtures";
-import { SalesPortalPage } from "../salesPortal.page";
-import { logStep } from "utils/report/logStep.utils";
 import { ICustomerFromResponse } from "data/types/customers.types";
 import { DELIVERY_CONDITIONS, IDeliveryAddress, IDeliveryInfo } from "data/types/orders.types";
 import _ from "lodash";
@@ -82,6 +80,7 @@ export class OrderPage extends SalesPortalPage {
     await this.deliveryTab.click();
   }
 
+  @logStep("Open Delivery Tab")
   async openSheduleDeliveryPage() {
     await this.clickDeliveryTab();
     await expect(this.scheduleDeliveryButton).toBeVisible();
@@ -91,6 +90,7 @@ export class OrderPage extends SalesPortalPage {
     }
   }
 
+  @logStep("Get Delivery Data")
   async getDeliveryData(): Promise<IDeliveryInfo> {
     const spanTexts = await this.deliveryValues.allTextContents();
 
@@ -101,6 +101,7 @@ export class OrderPage extends SalesPortalPage {
     };
   }
 
+  @logStep("Get Delivery Address")
   async getDeliveryAddress(): Promise<IDeliveryAddress> {
     const spanTexts = await this.deliveryValues.allTextContents();
     return {
@@ -111,9 +112,12 @@ export class OrderPage extends SalesPortalPage {
       flat: +spanTexts[6]!,
     };
   }
+
+  @logStep("Get Customer Address")
   async getCustomerAddress(customer: ICustomerFromResponse) {
     return _.omit(customer, ["_id", "createdOn", "email", "name", "notes", "phone"]);
   }
+
   @logStep("Click Refresh Order button on Order Details page")
   async clickRefreshOrderButton() {
     await this.refreshOrderButton.click();
