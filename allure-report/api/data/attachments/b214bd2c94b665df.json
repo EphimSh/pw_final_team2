@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "358",
+    "etag": "W/\"166-v7xqABtWfS3pRWGAj3wtPYaHykA\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Orrin.Mohr90@yahoo.com",
+      "name": "CdjQJwogLHtQKdKCwBnjWtYybQaKLoqpEhoH",
+      "country": "Great Britain",
+      "city": "pkOqtSWCoSOsFzxJd",
+      "street": "Bu00dBR42zQwgLfCe0bnVxjVgNmAeTi",
+      "house": 28,
+      "flat": 9,
+      "phone": "+7277730736",
+      "createdOn": "2026-01-04T12:55:13.000Z",
+      "notes": "pH2kfZG",
+      "_id": "695a63311c508c5d5ea7ed01"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "467",
+    "etag": "W/\"1d3-jBWHQc/QbUXZij8zJ9cWBvLztiU\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy S2546746",
+      "amount": 135,
+      "price": 3100,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T12:56:29.000Z",
+      "notes": "LXfcZNVbEIZzdm7KWzpPXkFcMtzYd4rULB1jbkj7yrMQ1LUIbEidP08QHnX79sK8RKrVwifauHPPgjijWzD7VfSKJGN0X9uCkQalnE8ffgyWA2qCQhbrYY1iVYPoiHnkcqYVmsjxlBMcig0Fgea0LNVNV5589rdwza5VgYtWx77DAWykhOgxq5b7ht4zLVrKBdVuHRZsQVzutj4f7odSd6wr6YPZnaBor3m3c4Tj5t4xp6kUSmbI8M68SY",
+      "_id": "695a637d1c508c5d5ea8039f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

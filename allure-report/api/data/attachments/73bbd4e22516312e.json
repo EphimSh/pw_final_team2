@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-x7fEtlVp5asU7kjHxH23k/oOw5A\"",
+    "keep-alive": "timeout=5, max=68",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants26415",
+      "amount": 44,
+      "price": 85085,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T12:54:55.000Z",
+      "notes": "auffJC22vzrlbaBAJ8Mg4K1zixPzkBCgqUTXVwSjVWOMiuH4SumhXqwv4ukP1hnkHpUnLF2hoBvTfr4Wgzqd6SNAxDSRBUqYsyQwwtA676n6y3zC7G94kUPRjYJTiXawmmmu9FfCBYORq17lwKDWUcpFf6PSs9qjRZL04wQZiaLlOP4eTDhN7CpNvhRlyiXzsAk6Q8bJaMC5FwyYdgIUfC1FtkRqA3p58obaPflPFE2kSGEYBw3peZFzin",
+      "_id": "695a631f1c508c5d5ea7e6d0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

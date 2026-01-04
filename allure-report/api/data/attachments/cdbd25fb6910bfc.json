@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-EA1Lr/AW92Lhm0auhQQffZlFIgY\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna38172",
+      "amount": 305,
+      "price": 54079,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T12:54:27.000Z",
+      "notes": "CtqsLfaaRLgjoCkCAY2I0miTWSlUWf6OruZ69swWpAXduTWYDCMXQe3WE62LFpnUul2xxD4RU6x5d8tdwwJQ7a9Yy6tEXI0CyzesTkXb93O9R7cXjpeny5bX5CKzDbQ69LUie0CU2Sz3Bc9CKNsYim59kCxhUHHVNMQx1dwCrUs0w9YeorT1P2TRTFjAzaitdIhqPfKw6GFeaWQYVwUxI0g7D1nuVywscljFap9FFt0ZM8zXwzsIVyOu0J",
+      "_id": "695a63031c508c5d5ea7df29"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

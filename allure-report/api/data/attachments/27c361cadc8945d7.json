@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "409",
+    "etag": "W/\"199-58gDyEYRqerVwB0pYQirxAe3Gu0\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jonas53@gmail.com",
+      "name": "eAavowLC",
+      "country": "USA",
+      "city": "aLYqqGFTqIm",
+      "street": "8kDafM2dtMdatqFwUeQh77RAH10oJ7",
+      "house": 192,
+      "flat": 3,
+      "phone": "+7529849759",
+      "createdOn": "2026-01-04T12:54:56.000Z",
+      "notes": "CjmrTUTcb5WDXOJ17JufEUjDZLBfJlLmRoaMeVfXItTbkW7YZE8EC2QdzNWFEbwH99PkiDPNz2KS8GU2uPblE2HzrxSW8nTZEJUy1rJfkg3",
+      "_id": "695a63201c508c5d5ea7e745"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

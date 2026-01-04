@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-kHJLJUPWAnuMwQf5PcxIW5vq40M\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips84698",
+      "amount": 803,
+      "price": 19750,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T12:55:35.000Z",
+      "notes": "a2tDm33qxoKz12arqiMsh7sQso1HvKJ7aLMFRkr4JNmYZKdpIrgU2SMzVbT7UDVO4P4CLugBzGFEzNQRIxA63jtkSWTImFhC5XmxTBCQtgQ09KBHoHfYAdGBjO2ho0j4WkK80B6i0byFbowgf7Ecc1YJ7nr7cskrVxOnLi1F3C5BuSsI63HBCrw8X8POIQROfemhMUUxtgrQ5GvhKHolmRFB4bvpkCfnTEArKjDGiWQwYvsx7QMiqoCRRy",
+      "_id": "695a63471c508c5d5ea7f254"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "519",
+    "etag": "W/\"207-F1q0deGczu+iQvTN6AaVvKSHYqI\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Harmon11@hotmail.com",
+      "name": "MayHiaAZNRinaZsLCtU",
+      "country": "Germany",
+      "city": "MianyQOoq",
+      "street": "Ep4TEX8CmTD3By2sW5M0tkW1mRBE",
+      "house": 175,
+      "flat": 4,
+      "phone": "+2568562504",
+      "createdOn": "2026-01-04T12:54:31.000Z",
+      "notes": "kUrHKIEH4U79ZiaCXhdN7loepasF5hnFpRb08QnQbCqaa1Qp4Fo9AHYi6rJVNBjcnzhmopTHf0zcZKCnUGlsDCCJPHRHGWlxGQK1HroITyuYDUUrlq4DCWS2EcsVU37f7WvWCj3DDORv9TBvkcTVabteLiaK1swyd1SytVK9ExNsde2HcDH3nVhJjwrMDgRyustwLI22M2M",
+      "_id": "695a63071c508c5d5ea7e0e9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

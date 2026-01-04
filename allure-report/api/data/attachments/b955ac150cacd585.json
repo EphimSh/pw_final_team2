@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "402",
+    "etag": "W/\"192-HwKT7l58fYwc2n90nQ2hf/WYVus\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Duane.Kemmer@yahoo.com",
+      "name": "uuAvbKJeiVhJqN",
+      "country": "Germany",
+      "city": "tBjEbtkuWcZEGYmr",
+      "street": "m9JUuZWzb2RAt5Op0FM2BnjDT",
+      "house": 60,
+      "flat": 8,
+      "phone": "+1604925911",
+      "createdOn": "2026-01-04T12:53:27.000Z",
+      "notes": "PBRuApXXLnmaf6hbfyBzzPJ0eq3gk9rfmM109IsYBAuljogyzUz8daSSSwVwFPNqOBCrn6tIgaq9awdQ10VYV9",
+      "_id": "695a62c71c508c5d5ea7d1f8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

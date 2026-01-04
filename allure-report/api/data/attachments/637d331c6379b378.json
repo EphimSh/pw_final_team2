@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-oxKO4uTOlXOpbE1Ap5hZ8I9R8Ko\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy A5542024",
+      "amount": 738,
+      "price": 800,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T12:56:31.000Z",
+      "notes": "C6iyei7k9Fa1X9q60fTPaK3EJR1ZjL7cGQIW1atjHRVixLrq7QUd0JA5pdzruZ9Yr84b3y4v5fp78Pr3eCbjFkMiySt9EDEuG1fnxdktQ8sIIhEMFIpelYtRhFvrAJxhlznUju1DaplalFm9aeGcuX7E59RMPB0RFcqdxyW4Fq7RsBtHUDkRff6SpE24wVsNtKmORDSWIWEdEAEPlN6ZQ56n0oyhiJtOCxmgSM4y2rnXcxwTz3WZVPDU0i",
+      "_id": "695a637f1c508c5d5ea803c0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

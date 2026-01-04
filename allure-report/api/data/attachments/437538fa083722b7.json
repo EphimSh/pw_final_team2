@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "362",
+    "etag": "W/\"16a-kNygkA22EIlqJJG2++uJczppz4Y\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Vicenta_Kertzmann94@hotmail.com",
+      "name": "NCdqKBfddqWo",
+      "country": "USA",
+      "city": "BdcxZQxL",
+      "street": "g8Xl60RXvZdAc8aAA8",
+      "house": 26,
+      "flat": 3,
+      "phone": "+2736537825",
+      "createdOn": "2026-01-04T12:53:26.000Z",
+      "notes": "Zfzu370Mc9DJ6R8XTGNMYTHJptcwnCWoaljqBOeduRtvArhkwynFZgFLHQ",
+      "_id": "695a62c61c508c5d5ea7d1cc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-KyVZfl45ghRaUmFetgHNkvMUScw\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car52151",
+      "amount": 611,
+      "price": 79828,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T12:53:44.000Z",
+      "notes": "B7cTYDeXYsfvSf3MkEGtHd5ZjoeLfZZgYU5Mcmiyb3hxAWOlSmdwJ7BuJI7iqEhdwOYeHe1Mx3sfve8RqweFIStppsMzPfsSZAsFGGVhw7t6nl329rWiMu1svMdX2sY2Dc1GAR9Bfk1Q8tIz0oqFKF2VwWshorAChGQvhNCh7dHcWuCnufi6696fVpUbJM5zk6CqYHnmMuMdh3BK1HzkX1QSYClbGI3znxwNQ4TwkBynZPlLMuoxMNGQdi",
+      "_id": "695a62d81c508c5d5ea7d2d4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

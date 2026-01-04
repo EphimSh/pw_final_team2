@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1734",
+    "etag": "W/\"6c6-BrOL0pizwFMPMVe4HsvxSXN2PCs\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a631d1c508c5d5ea7e648",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a631b1c508c5d5ea7e59c",
+        "email": "Dawson.Murazik@hotmail.com",
+        "name": "Ivan Ivanov",
+        "country": "Germany",
+        "city": "yFWptJJxbvicSO",
+        "street": "eGSZJszpW1Oya5OIiK4i2rA",
+        "house": 26,
+        "flat": 1,
+        "phone": "+2648941904",
+        "createdOn": "2026-01-04T12:54:51.000Z",
+        "notes": "kKZsmzm46Lmua37VxblOHXYUBj2QW4kFBwYX8KHCEmR1fIBhqkyzkmkQA2Id5928HxizBxlwGoT5wiB"
+      },
+      "products": [
+        {
+          "_id": "695a631d1c508c5d5ea7e638",
+          "name": "Keyboard89457",
+          "amount": 940,
+          "price": 59354,
+          "manufacturer": "Microsoft",
+          "notes": "gutouKGFm9kYp2G5qpeOz0jq6nOtDnBYCjMOey9ZRkacnXKnHQcGOW9tH3zd8NKkPifIEPULYBGAdiCpXD0GfVqzoflKoNE5yWRcCHAYFm1rIp0KG1o3R6cD4pf2Jk4QDYErGQJXm1OKUrSOsSQe58hkoUqtOAEXQmbtCq58QveNO50biDGct7TQbp9n0Q9x08VBAaPHBeTTITF5i3fKsr1dokpbXrAv1LvAuPf1JsHHYR1VHFrTFTmAY6",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 59354,
+      "createdOn": "2026-01-04T12:54:53.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a631b1c508c5d5ea7e59c",
+          "products": [
+            {
+              "_id": "695a631d1c508c5d5ea7e638",
+              "name": "Keyboard89457",
+              "amount": 940,
+              "price": 59354,
+              "manufacturer": "Microsoft",
+              "notes": "gutouKGFm9kYp2G5qpeOz0jq6nOtDnBYCjMOey9ZRkacnXKnHQcGOW9tH3zd8NKkPifIEPULYBGAdiCpXD0GfVqzoflKoNE5yWRcCHAYFm1rIp0KG1o3R6cD4pf2Jk4QDYErGQJXm1OKUrSOsSQe58hkoUqtOAEXQmbtCq58QveNO50biDGct7TQbp9n0Q9x08VBAaPHBeTTITF5i3fKsr1dokpbXrAv1LvAuPf1JsHHYR1VHFrTFTmAY6",
+              "received": false
+            }
+          ],
+          "total_price": 59354,
+          "delivery": null,
+          "changedOn": "2026-01-04T12:54:53.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

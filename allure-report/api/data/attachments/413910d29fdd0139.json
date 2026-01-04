@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "306",
+    "etag": "W/\"132-DCydw/TlATOA+88OsRE5LV7DHcc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Karine_Kris70@yahoo.com",
+      "name": "opSURsdLyDmWnqwikEowNQMzHdSal",
+      "country": "Canada",
+      "city": "W",
+      "street": "Bdsqzun7oDhDYYc",
+      "house": 46,
+      "flat": 7,
+      "phone": "+5636009475",
+      "createdOn": "2026-01-04T12:53:14.000Z",
+      "notes": "",
+      "_id": "695a62ba1c508c5d5ea7d144"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

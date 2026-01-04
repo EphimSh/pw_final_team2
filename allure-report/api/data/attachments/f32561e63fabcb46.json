@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-tLU8+nnKpjVJlIOnFgP7KyLlcJU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt51932",
+      "amount": 919,
+      "price": 43760,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T12:54:40.000Z",
+      "notes": "gf1PCaJGvFBZ1fMJPDJRTaIys0VPRRGqcuLqSUvstjs0ttUVpGZ9L1X0WPZam39EZbAwDJTChxSL0gYueaE3qhuN91NNrrMlXXHaxKjjx4lgrfghNM6Pyy1XqUxQqvP10A2iakmffUa9nijwqqEYJFhNlc5H5Giyo0U37d51Ruk43f9zqWfH9eGF4n3WuxEZrrailngmwEH96SeQcyC7lmUXbJmgPWrXXWNdqz2Cj7k9aD3E0Sc1RHrTRh",
+      "_id": "695a63101c508c5d5ea7e213"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

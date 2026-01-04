@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-h7G7i6LEvELxcB9F69QNhYKnYHg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels86142",
+      "amount": 725,
+      "price": 71707,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T12:55:20.000Z",
+      "notes": "1Sl7Yrf7ZF4pkf7OE20aXuAXg7AE3KxmRhL0pbeSXRrD2dp9Xfbzn5NH1frJ1M7X0iiESMOdqOjLlIITrWTgNmmQ1iCU4U9Xbm3SuwiRksdZNBS3ofyrYC3vDC0CsgGzhLa5BC2dHXC1H37OkQKoiUZX9iQXT5752DfVTJN0o1iWSxAFBR78cUlTliu5t9sSCXd9dA3MjoEtjYCn3vkZmF530xkSe0pFb0KMFv98jH1F9I8VdAia2C3r2s",
+      "_id": "695a63381c508c5d5ea7ef02"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

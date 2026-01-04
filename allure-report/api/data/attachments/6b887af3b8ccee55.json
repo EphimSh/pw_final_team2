@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-Gdx83GVEcDv1We93n/q+dib1/e4\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken48626",
+      "amount": 949,
+      "price": 28185,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T12:56:00.000Z",
+      "notes": "wTfdJIld842HzVG4v3xHcjMJyf2LtfW2iisSI9i372ewdDTxuPi43uBOryxi2fpLdozzD1zA2WVeSWsIfZl4dLWeclp713s6bAjsgf8aGIfnJZJq3V7vOxfd0gTm9THwxu2bBIiKGg0cMJXR1Po25OPnryiWqz7W5TTOH4H9IXjHgYvDJ0IG1qKpY8QuDiWFsu1OnRsF8wOWzyKDncPR3ZatPqQh7WN32dL3Zkc9Yb0USr5jQJD0JqnMbe",
+      "_id": "695a63601c508c5d5ea7fa2a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

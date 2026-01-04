@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-ptMVtyZeyEag/RggvBKT7eFY514\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra81472",
+      "amount": 317,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T12:56:34.000Z",
+      "notes": "YDijV9natZGlnFUXxOMRtA1eKVwC0KiE5SK2ejAR706iT0P38j7t8lCdaeyVBgjjyMjqSfZSINcGpepLsbaPfokKDlPHOqHChDsjHGgTWe8sjTWfEV0rWQ4KQmz31fwICIWKqOlxEWp7MEjYAO0AE5I5bvwrEZLUCfaYksYXPiGigBfvMBAY8UWCfQrvQlpwccbAfpkoyiEm12PkISluSnyaCSxTivi20eI0mHlosBqYE6uwpMpVusvcdG",
+      "_id": "695a63821c508c5d5ea80497"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

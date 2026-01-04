@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2782",
+    "etag": "W/\"ade-0gLplSqrQdK9TBfY4ktRVB47S7k\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a62e41c508c5d5ea7d5e9",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a62e11c508c5d5ea7d540",
+        "email": "Xavier_Emard70@yahoo.com",
+        "name": "ntbAtPO",
+        "country": "France",
+        "city": "VcSiJkkKeZeUYQrASyNV",
+        "street": "9l1OnxK27iHnOp5CuWu6gzuof8",
+        "house": 180,
+        "flat": 1,
+        "phone": "+4273494142",
+        "createdOn": "2026-01-04T12:53:53.000Z",
+        "notes": "NEMwxmfSPm931Qd424JqeOw0404WPRV8"
+      },
+      "products": [
+        {
+          "_id": "695a62e31c508c5d5ea7d5c9",
+          "name": "Computer4062",
+          "amount": 740,
+          "price": 67005,
+          "manufacturer": "Xiaomi",
+          "notes": "mhYEPJtDUMhXJSltdTokF8JSXzMXhsFEMZCWKxuqtEN3B14OboYul8K9F7hXCH61Lrg53tZ9Tf1jENJ4aBNceGRc0fSVCCipd7vpTHFRH75nSTEJAf4JmheG9nbvZBPvL64kUduk3XGEsfT2pK8sCornKSwrmQ0VY0LovbUbjgdlPmgS0NYJzynQH8W4Ye8HOD4SSho43qSBy3XMSRQ4ZoIgBy2CNQG7MCiwzWMdwaSZ0iKKyFZLPpA6OQ",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Ukraine",
+          "city": "Mock City OJRWOT",
+          "street": "MockStreetbev9tiBicSSd8G",
+          "house": 3,
+          "flat": 9
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 67005,
+      "createdOn": "2026-01-04T12:53:56.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a62e11c508c5d5ea7d540",
+          "products": [
+            {
+              "_id": "695a62e31c508c5d5ea7d5c9",
+              "name": "Computer4062",
+              "amount": 740,
+              "price": 67005,
+              "manufacturer": "Xiaomi",
+              "notes": "mhYEPJtDUMhXJSltdTokF8JSXzMXhsFEMZCWKxuqtEN3B14OboYul8K9F7hXCH61Lrg53tZ9Tf1jENJ4aBNceGRc0fSVCCipd7vpTHFRH75nSTEJAf4JmheG9nbvZBPvL64kUduk3XGEsfT2pK8sCornKSwrmQ0VY0LovbUbjgdlPmgS0NYJzynQH8W4Ye8HOD4SSho43qSBy3XMSRQ4ZoIgBy2CNQG7MCiwzWMdwaSZ0iKKyFZLPpA6OQ",
+              "received": false
+            }
+          ],
+          "total_price": 67005,
+          "delivery": {
+            "address": {
+              "country": "Ukraine",
+              "city": "Mock City OJRWOT",
+              "street": "MockStreetbev9tiBicSSd8G",
+              "house": 3,
+              "flat": 9
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T12:53:56.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a62e11c508c5d5ea7d540",
+          "products": [
+            {
+              "_id": "695a62e31c508c5d5ea7d5c9",
+              "name": "Computer4062",
+              "amount": 740,
+              "price": 67005,
+              "manufacturer": "Xiaomi",
+              "notes": "mhYEPJtDUMhXJSltdTokF8JSXzMXhsFEMZCWKxuqtEN3B14OboYul8K9F7hXCH61Lrg53tZ9Tf1jENJ4aBNceGRc0fSVCCipd7vpTHFRH75nSTEJAf4JmheG9nbvZBPvL64kUduk3XGEsfT2pK8sCornKSwrmQ0VY0LovbUbjgdlPmgS0NYJzynQH8W4Ye8HOD4SSho43qSBy3XMSRQ4ZoIgBy2CNQG7MCiwzWMdwaSZ0iKKyFZLPpA6OQ",
+              "received": false
+            }
+          ],
+          "total_price": 67005,
+          "delivery": null,
+          "changedOn": "2026-01-04T12:53:56.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

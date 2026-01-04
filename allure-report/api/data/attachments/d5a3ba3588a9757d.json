@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "385",
+    "etag": "W/\"181-BaQOxeeoAULBqiQKATiWK6cZuLM\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "695a62c61c508c5d5ea7d1e6",
+      "email": "Alvis28@hotmail.com",
+      "name": "y",
+      "country": "France",
+      "city": "KiPWwHtQrEkCMlo",
+      "street": "Fqr9JQ6HCCxDXKbyVbF1GXCV73yo0UlS",
+      "house": 185,
+      "flat": 9,
+      "phone": "+5445623383",
+      "createdOn": "2026-01-04T12:53:26.000Z",
+      "notes": "zxm2E2paMo9rkO4EfhN3SQrTgbb6dmCYFtAF0DKwagPgepb8Q04sHOlYPqdm05CthKv8SLU3FKg6L8l"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

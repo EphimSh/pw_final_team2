@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "523",
+    "etag": "W/\"20b-ygaVTfMv4604zs8Bbs/jsUhzBrU\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "695a62cb1c508c5d5ea7d1ff",
+      "email": "Desmond.Sauer@yahoo.com",
+      "name": "NpHqGgABPnTUpzFT",
+      "country": "Canada",
+      "city": "dvht",
+      "street": "JJfoH8Fey8sX2S5SjWyhkFwaPpzZSIlT8XLi",
+      "house": 33,
+      "flat": 3,
+      "phone": "+5814539099",
+      "createdOn": "2026-01-04T12:53:31.000Z",
+      "notes": "W0yGcGu7f6VKCya005cyHlP53XDRyC51ouwgNoFIwBSxWd5Ut6P29eukUHW495Dy0EqnrooeLkW5cM1zpxzmVXbjylLlWAMOqbiABDAnqc8xCC1t2jxcZTLitJeTSCRGydXNa4m6jG7J6SyYX8Eao8hhfqs6kse18qKeJ9RnK7smSVnA1tMZ4oiU3sdmPcxNlGazUlXsgZfnOZ"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

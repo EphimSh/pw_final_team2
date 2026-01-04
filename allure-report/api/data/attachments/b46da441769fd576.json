@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-IB2/XRMF0cAC2MDxdEghg/J4Mi0\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants74097",
+      "amount": 277,
+      "price": 21056,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T12:55:41.000Z",
+      "notes": "DCbMgjYAFRe9ckQ6APVKw0XDFVKv0sLTemdyh2pJdeWiEKAAPzJBOn2YvsBXNNumb0buM7slLVA7j7lnUu0M9NpGPaZhA7fswth9awi3aX2kbj8FXvNB4GymHpCykjrc8YPWCnanCKVfZvzEFdg04E46L385Oe5P0gn8ELx97eVen12Tdxy849bANDMOUa1LNVEKEXZR4BSU8Eydwif0rudw44xZqr8NPTDfe7BHONDUnQEHAoFIkiAZFa",
+      "_id": "695a634d1c508c5d5ea7f554"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "416",
+    "etag": "W/\"1a0-gs/m0XylmZzgRlwDW1EVXFkZErU\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Lucile.Schulist@gmail.com",
+      "name": "vifGaxvDocgZVmn",
+      "country": "Belarus",
+      "city": "aXBYwvie",
+      "street": "CqGvMfs0DiU4jBcxpNfzzQm9",
+      "house": 75,
+      "flat": 7,
+      "phone": "+2418972564",
+      "createdOn": "2026-01-04T12:54:25.000Z",
+      "notes": "eKhpMAW6FzIRfKzDvQIjA71SJAuaykvyLEd32PBA86G3TpuojnC7fFrrAL6PwkmKU3wvVoVoPyxSMQ8H8jcO9PpQUR8oRLLcD6l69S9ym",
+      "_id": "695a63011c508c5d5ea7de9c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

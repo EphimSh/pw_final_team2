@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-mmi9qf3jr2S+3tOv+a+hTSE1wj8\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna61056",
+      "amount": 701,
+      "price": 29053,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T12:56:31.000Z",
+      "notes": "p6Rw27mZreF7SGDoEeH1VMNZP8HuZBO0zq1DpV0G9Sb9rKuhIkUauEbjlBfTnlIN27GhVo2RVjpzWKEgkqtZLIQw5mkko9eyp2a88nCn9qs4qXF5Sf59NuLShN4lGJqXuoyDClDfUnCVM2SDQe0oQLDbxxhMPRTE8jWdXdElwsvlfc3SyXn04Ojad4Ptdon13NYPfDLMMtir3sO3hvaQyHsVxRcAsjMehvB2buMCWef7Hvvq04QTmDRQeV",
+      "_id": "695a637f1c508c5d5ea803ca"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

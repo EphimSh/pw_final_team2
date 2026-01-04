@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-I+qqNVXBjvbYnWWjRHc1EvuOLh8\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad11576",
+      "amount": 699,
+      "price": 89729,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T12:55:05.000Z",
+      "notes": "vqIBPvmrb3ewcMGWhpp3eUbi85e7oaapSWnDLXAun5Mo1wFKDgYT4ThAydtwFng6dzk9AhWwr1imVn2sN3UlXlX0cffsjPqArSP1q4c6CZ9tIfMuH7Vf1xaObu9QDap4UMSerRHmMTOZ9Txe3AhCBMAByS0cIxdJFNZanOVgbg4u9NTbE3rZGyiUrxTva65EvmIBwl56Z0Wm3sv6D9WrOLWfLFJTDdrNPctKPX7MqSkDceksfbdzSVrfqK",
+      "_id": "695a63291c508c5d5ea7ea9c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

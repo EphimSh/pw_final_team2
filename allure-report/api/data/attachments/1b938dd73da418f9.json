@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "415",
+    "etag": "W/\"19f-7PMdcequo4mLMa1jyteL4VBGJ5k\"",
+    "keep-alive": "timeout=5, max=57",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jaylen_Schulist75@gmail.com",
+      "name": "AqIMjyh",
+      "country": "France",
+      "city": "MLojqUUtriDqWOvefMq",
+      "street": "TbKv3xtTa6xxS6Td",
+      "house": 105,
+      "flat": 3,
+      "phone": "+5573116979",
+      "createdOn": "2026-01-04T12:54:10.000Z",
+      "notes": "B0cLjQSza9hxEyso2oRL2rLR1kdjoR7PiMmQwNnWUC1ZwCwpd6ipWlYBFbiF9OPvGvwwJ315mWhzBGxuwxOUQDYvXPeaxJvpFXpgHKW6OuF",
+      "_id": "695a62f21c508c5d5ea7da34"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

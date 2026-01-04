@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-qZMnQuVPTp29+tmKHkpSv995QjY\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra37782",
+      "amount": 346,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T12:56:34.000Z",
+      "notes": "FedRSNeMXFWZQ4IsFNMfdmjXQq0gHuDU3EjZyaW7M3AWi0qhr7r0lxZ2ImWqgKqZFgPeh8SDephAcAv3Q848m2n8eS3YtjEmimdQpq9wjq76wwAFmJ6ioJLKJBdLXJwBj5T2cvzrG3MIUauhJ6wxVOjJTkBog1yKyuqoqyaSfnPQWbCFZGJOXxoWGKM6dKhYgtz0vk4bKfafEGopch2mvvq61humMiKTXUzs5cy9qIwmlbihJS03BSqP5t",
+      "_id": "695a63821c508c5d5ea804a8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

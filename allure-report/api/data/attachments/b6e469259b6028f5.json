@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-gsUlW5RftbegQ7LA8MmxMpmCBuo\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza34138",
+      "amount": 272,
+      "price": 3288,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T12:56:57.000Z",
+      "notes": "WbxLZOZjVpNC8VKCDdtl6eWSjqfUXm8J4URMoAUG9swKExoTXhDadRG4Uv4nNb67y4JLvYjwpmYSGVYUOZoxclD446NA6rv4uFuoReywpWHculXW113VUfNsLnfzFWi6vzlZeguvQqfZuCEWf5MuiJQfWsPHDoZWvUdDsAtWVdpWIB0vjF6e7sm2mE9SlmmAIyIwn7lphGepV8DURTzscifBF2VgRggcqXiDITQEkkPqH8GCQlbWNScaXu",
+      "_id": "695a63991c508c5d5ea80f98"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

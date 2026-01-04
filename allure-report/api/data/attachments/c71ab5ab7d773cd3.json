@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "436",
+    "etag": "W/\"1b4-3ANfOLRfE8Fijiq6rdWcxuzOZww\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Magdalen_Gusikowski@hotmail.com",
+      "name": "bmqgstLFNPJBYFem",
+      "country": "USA",
+      "city": "MGJBSf",
+      "street": "6KjWKmnDIJ28mc",
+      "house": 154,
+      "flat": 2,
+      "phone": "+8446615644",
+      "createdOn": "2026-01-04T12:55:47.000Z",
+      "notes": "OgnkGt6mbMVt5UTYL9HXwM63ddNGMPKRQaZFGjRzUsr6mTh3RR6kW7rIlTCnzHVMTSJxBJzsJLXUlWEtC6k5w79a91jeWLzUJZMDp8bvKtYayqDJxprIiAuZ0WI0AFbDyY9uD",
+      "_id": "695a63531c508c5d5ea7f673"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

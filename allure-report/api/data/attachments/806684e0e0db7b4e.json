@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:57:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-w8ujS8kGMszLMzoirwz9OuHXM9U\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt24123",
+      "amount": 390,
+      "price": 22633,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T12:57:01.000Z",
+      "notes": "qxDlzu9HkXsb911FAjzImvl5npOmG8BdgvNZtlh8o0yY0uHBDynt1Rfc6fbT8Vj6BOX5buWT8Ms1Ws31OM2s2mfMMRPRlDfFLAg9pGTKgZqPvGUjZPT7Idg8s0tCfCnZKScwz99gjGnxchvvaDrlQU6CB6mI0fQ4p61MpsSIaVEmqWVVF6pivWELmolZNLv0ufzuLt5UQ8E1NBPFySqh2SUSeLk6YWN5rFgVCy7tou3UIOa0iOIWLFx1LI",
+      "_id": "695a639d1c508c5d5ea810c0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

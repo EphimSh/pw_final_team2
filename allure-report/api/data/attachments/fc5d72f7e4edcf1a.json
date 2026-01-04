@@ -1,0 +1,160 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3937",
+    "etag": "W/\"f61-lzq9kwxA8REO/r+rlrk0+2r3ItQ\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a63621c508c5d5ea7faac",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a635f1c508c5d5ea7f9c6",
+        "email": "Irving3@hotmail.com",
+        "name": "aMbNWpOGazilpbwTXlLDgBnLavKsaJetFTCql",
+        "country": "USA",
+        "city": "qsgnOOZii",
+        "street": "uLw3S247tCetaQTV50rUOETAwX",
+        "house": 8,
+        "flat": 9,
+        "phone": "+7815370726",
+        "createdOn": "2026-01-04T12:55:59.000Z",
+        "notes": "iumVSfKPXMpzU7En9hCHxA30LTRFqoravw2OPln"
+      },
+      "products": [
+        {
+          "_id": "695a63601c508c5d5ea7fa2a",
+          "name": "Chicken48626",
+          "amount": 949,
+          "price": 28185,
+          "manufacturer": "Samsung",
+          "notes": "wTfdJIld842HzVG4v3xHcjMJyf2LtfW2iisSI9i372ewdDTxuPi43uBOryxi2fpLdozzD1zA2WVeSWsIfZl4dLWeclp713s6bAjsgf8aGIfnJZJq3V7vOxfd0gTm9THwxu2bBIiKGg0cMJXR1Po25OPnryiWqz7W5TTOH4H9IXjHgYvDJ0IG1qKpY8QuDiWFsu1OnRsF8wOWzyKDncPR3ZatPqQh7WN32dL3Zkc9Yb0USr5jQJD0JqnMbe",
+          "received": false
+        },
+        {
+          "_id": "695a63621c508c5d5ea7faa2",
+          "name": "Towels59063",
+          "amount": 54,
+          "price": 62679,
+          "manufacturer": "Sony",
+          "notes": "dCQqAnZtzMXTHk71ygY8GYgd5R6cy9fZONrjvjOqK22vVUqgEERbZ2743QTNUs0CWehcgVezG4FRGGZ4LqeRbIl6E7tN4kfda7qP0uCz7U3Qw4QevtGgwPcmjEkL3JbWmAiWxOpSBfmPOT8ON6p7qGX8FNL8fiSVO18Ef6hbVF6wuW63IMBbOEBKgFq8AP38dXrgwS8vNffu2eHbaGZsEvnFyHJRhlgDW8Ar2x1IN07a4rk2bJNlzicPcJ",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Belarus",
+          "city": "Mock City IxiUVJZAm",
+          "street": "MockStreetSVQj",
+          "house": 163,
+          "flat": 4
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 90864,
+      "createdOn": "2026-01-04T12:56:02.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a635f1c508c5d5ea7f9c6",
+          "products": [
+            {
+              "_id": "695a63601c508c5d5ea7fa2a",
+              "name": "Chicken48626",
+              "amount": 949,
+              "price": 28185,
+              "manufacturer": "Samsung",
+              "notes": "wTfdJIld842HzVG4v3xHcjMJyf2LtfW2iisSI9i372ewdDTxuPi43uBOryxi2fpLdozzD1zA2WVeSWsIfZl4dLWeclp713s6bAjsgf8aGIfnJZJq3V7vOxfd0gTm9THwxu2bBIiKGg0cMJXR1Po25OPnryiWqz7W5TTOH4H9IXjHgYvDJ0IG1qKpY8QuDiWFsu1OnRsF8wOWzyKDncPR3ZatPqQh7WN32dL3Zkc9Yb0USr5jQJD0JqnMbe",
+              "received": false
+            },
+            {
+              "_id": "695a63621c508c5d5ea7faa2",
+              "name": "Towels59063",
+              "amount": 54,
+              "price": 62679,
+              "manufacturer": "Sony",
+              "notes": "dCQqAnZtzMXTHk71ygY8GYgd5R6cy9fZONrjvjOqK22vVUqgEERbZ2743QTNUs0CWehcgVezG4FRGGZ4LqeRbIl6E7tN4kfda7qP0uCz7U3Qw4QevtGgwPcmjEkL3JbWmAiWxOpSBfmPOT8ON6p7qGX8FNL8fiSVO18Ef6hbVF6wuW63IMBbOEBKgFq8AP38dXrgwS8vNffu2eHbaGZsEvnFyHJRhlgDW8Ar2x1IN07a4rk2bJNlzicPcJ",
+              "received": false
+            }
+          ],
+          "total_price": 90864,
+          "delivery": {
+            "address": {
+              "country": "Belarus",
+              "city": "Mock City IxiUVJZAm",
+              "street": "MockStreetSVQj",
+              "house": 163,
+              "flat": 4
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T12:56:03.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a635f1c508c5d5ea7f9c6",
+          "products": [
+            {
+              "_id": "695a63601c508c5d5ea7fa2a",
+              "name": "Chicken48626",
+              "amount": 949,
+              "price": 28185,
+              "manufacturer": "Samsung",
+              "notes": "wTfdJIld842HzVG4v3xHcjMJyf2LtfW2iisSI9i372ewdDTxuPi43uBOryxi2fpLdozzD1zA2WVeSWsIfZl4dLWeclp713s6bAjsgf8aGIfnJZJq3V7vOxfd0gTm9THwxu2bBIiKGg0cMJXR1Po25OPnryiWqz7W5TTOH4H9IXjHgYvDJ0IG1qKpY8QuDiWFsu1OnRsF8wOWzyKDncPR3ZatPqQh7WN32dL3Zkc9Yb0USr5jQJD0JqnMbe",
+              "received": false
+            },
+            {
+              "_id": "695a63621c508c5d5ea7faa2",
+              "name": "Towels59063",
+              "amount": 54,
+              "price": 62679,
+              "manufacturer": "Sony",
+              "notes": "dCQqAnZtzMXTHk71ygY8GYgd5R6cy9fZONrjvjOqK22vVUqgEERbZ2743QTNUs0CWehcgVezG4FRGGZ4LqeRbIl6E7tN4kfda7qP0uCz7U3Qw4QevtGgwPcmjEkL3JbWmAiWxOpSBfmPOT8ON6p7qGX8FNL8fiSVO18Ef6hbVF6wuW63IMBbOEBKgFq8AP38dXrgwS8vNffu2eHbaGZsEvnFyHJRhlgDW8Ar2x1IN07a4rk2bJNlzicPcJ",
+              "received": false
+            }
+          ],
+          "total_price": 90864,
+          "delivery": null,
+          "changedOn": "2026-01-04T12:56:02.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

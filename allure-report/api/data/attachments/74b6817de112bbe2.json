@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-wsw8I7sDOUCaLPtBdhtRIC5Zglk\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat60367",
+      "amount": 305,
+      "price": 66796,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T12:55:38.000Z",
+      "notes": "8NApdcoq3xxQFsUWZ0kgKbpIUNLfr7kREn0d0HG7giwU82RtCagPcWdlzeD6fKjzb4AmTqRZ8ouCBWmr9JQPMgbZRbLhQPZQRoypDIM9tOgujhJGhegQcL8DItvoHqU6aCJUXCf6HyU3tpXvdcBAAzdWEXJ9NHiDyCHk8uvaSUH8o3yI6ItbFy7IoqmYVjUd1pgdgQVauPmUK5K6X6NOju7zxp230SB1M6MwWjonhMbxmLyyJ2D4f17RKd",
+      "_id": "695a634a1c508c5d5ea7f397"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

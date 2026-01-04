@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "479",
+    "etag": "W/\"1df-xhHe9OWCnPJxeL8tSqXUUsGA+W8\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Francisca.Rosenbaum61@hotmail.com",
+      "name": "QUOGNXGIsExUKNSkRsGRbmqQvsqj",
+      "country": "USA",
+      "city": "PctKJDzkGnaNjASfKryj",
+      "street": "c6wmS7FX",
+      "house": 49,
+      "flat": 4,
+      "phone": "+8663621192",
+      "createdOn": "2026-01-04T12:55:03.000Z",
+      "notes": "hBDGxZNMHCQ7RfgY26NFy2LsuUqGRn5mL1DKiywuk52kWMPFGExvTcCDIYm2DvquyiTosp2cL70rmJPBivexq8u6FyK83baQx4L8Kkji8mC8TheB0Dhade7z4bGUqzor9XPZr9NYc3A1YO2yf91PLAfII3h",
+      "_id": "695a63271c508c5d5ea7e9f9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

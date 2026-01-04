@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-Hp8GKtwJUMVnpGKyrH6Vb16xK60\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball68222",
+      "amount": 726,
+      "price": 3318,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T12:54:52.000Z",
+      "notes": "6mCcNFKhtAJ4wd2Jx1qklWjrou3MrBII2wSjT1H3ImKgMcKJ4m0zKYTs3ePLoj1rhtpaoDFrDjFUr4BErF8fbyIHJZMnyKwuFwzZvmDhbSHXoiGzzNcXVcugFGo6hNue6gVOyQeXZjpxa89ZgNFX5KCtmBvPcpR8pT94fFKn2aNzVAu884wIsXbcXGsZXNWOboBiHK3ZoV5BdOyOFttgnlONH51We5G8XdjDFlvE7TAbSrZZllCVPOoXbB",
+      "_id": "695a631c1c508c5d5ea7e5a1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

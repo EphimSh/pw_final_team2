@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "370",
+    "etag": "W/\"172-SeV/wgGfGdDCUOkuJXQcA1iIez4\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ray.Moen43@yahoo.com",
+      "name": "tOeuPolaLay",
+      "country": "Canada",
+      "city": "uJgRYxwNxcTCAri",
+      "street": "asZXfYt2tYvOjUJte3pYpsMTdZ0zQrb",
+      "house": 17,
+      "flat": 4,
+      "phone": "+8470769597",
+      "createdOn": "2026-01-04T12:55:32.000Z",
+      "notes": "8KLt0Hzo38JAr1SoJdfiaRw2EZjZ7q2vEiGFnbb0jovK8CuJL7w9rtr",
+      "_id": "695a63441c508c5d5ea7f223"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

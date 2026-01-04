@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "387",
+    "etag": "W/\"183-RnQwbR3GdMmqi7sO8zUuP65Al28\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Keshaun_Kiehn18@gmail.com",
+      "name": "nAshuUarbrwkBwWyWPo",
+      "country": "Russia",
+      "city": "di",
+      "street": "5HCO",
+      "house": 124,
+      "flat": 3,
+      "phone": "+2060669944",
+      "createdOn": "2026-01-04T12:53:32.000Z",
+      "notes": "u93zz9zwI8UbbDVPoVuVF5IGgVbiwSQSyx4wJgdv9J2AT354Lcn3GZMeHqsamo2mN1oHtfbKUsWBEmXNZ6cUpGG31MkkQN1u4Z",
+      "_id": "695a62cc1c508c5d5ea7d207"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

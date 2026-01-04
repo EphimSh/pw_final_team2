@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "395",
+    "etag": "W/\"18b-CA0rwl1BZJs5p90wPL9y2c8m27E\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Laura.Dach-Rolfson56@gmail.com",
+      "name": "Fqiee",
+      "country": "Great Britain",
+      "city": "kEWFIWFqmPSstAvIBnjJ",
+      "street": "xfinmUHX9Mbe4g7g6rWuXD9Qp",
+      "house": 184,
+      "flat": 8,
+      "phone": "+2021228829",
+      "createdOn": "2026-01-04T12:54:53.000Z",
+      "notes": "ejAwrOGtNDfKt0ndQ2ZrjxzR8WjO3vYAhOmgEP1eDL395qk2RdrDZL7d8ayb9KnQaR1yR",
+      "_id": "695a631d1c508c5d5ea7e64c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

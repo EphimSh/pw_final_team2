@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "465",
+    "etag": "W/\"1d1-UqsraEi2Uu4V9o2dvD/bUSL1d0w\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy A559663",
+      "amount": 884,
+      "price": 800,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T12:56:30.000Z",
+      "notes": "x4SmGiv3NKGu9pY6vSI6ymKvmzT7AumQzIdxrJXlmTbPCxSDhTHE21CYv5Mhzqro9TUBeXY149daNMtJPYAjNa6phVBplfBICcUaub3NMDFW8cARZ84Wl1wQTTU1io0CFvl347gs6aGRyb5hFFu6wHHxiUoyeSs66sDujG5Xq0S5Dhr6r5OjjQ7oLWbpXH9I9EJTkcg3a7nL3uIKnFNx1IvhZiRhSTf9XtkniQtHHP53igmTmdU5Eq3lxU",
+      "_id": "695a637e1c508c5d5ea803bb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

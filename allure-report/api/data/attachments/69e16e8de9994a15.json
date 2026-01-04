@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-Q7t8xlx75YF1b9IqPsooYRrOgEk\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza12814",
+      "amount": 803,
+      "price": 16704,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T12:54:24.000Z",
+      "notes": "zYnh8DP4KN06MjySlUWNHQbdkneO2A7WbV5tsFMnjodCmN6b45sXunS1t27niPjtek52xcOTWVRy6AjgZHHMb4vt4UNqbErQPWyuvcMv3yfNinBj43Qt2LzF4C7gp3DYLtCfq4rcA0MDrs7uHRVU8q3S0IwYKMBrj7KRw3q0wESJajFWqCgLNk7KUVVWIxI3vBczgVyDj8n7lQelhVW82YJfXTFndYUcHlgTRKjAaKgyRrPmRPkj1H2II1",
+      "_id": "695a63001c508c5d5ea7de55"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

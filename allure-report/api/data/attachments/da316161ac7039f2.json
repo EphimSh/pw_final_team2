@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "439",
+    "etag": "W/\"1b7-Zfp+OCPNSRJIxaDZHB6TElgmAsQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Brando_Strosin@gmail.com",
+      "name": "CCtwyAUneYZTyehVF",
+      "country": "France",
+      "city": "nhNQiRKj",
+      "street": "2WqxWaSqDNLrqyPRLaNzy",
+      "house": 102,
+      "flat": 1,
+      "phone": "+8663893454",
+      "createdOn": "2026-01-04T12:53:14.000Z",
+      "notes": "DsQTmLjUins504eAqypP3FDzngfbmFSbRdBj9gzlZgQLgl9DZSBroSAvVLnte2FcxnwrZfuVhHe4IBiChKcSSfc4x9bJzsmt7uuKf3UUhvYeE1uEKncL44Eo5NHEO8Cxgj",
+      "_id": "695a62ba1c508c5d5ea7d146"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

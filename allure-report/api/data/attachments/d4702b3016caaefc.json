@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "574",
+    "etag": "W/\"23e-GZkVbqRujDNRxwZhFaobV/yUhXg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "695a63801c508c5d5ea803cf",
+        "name": "Hat37816",
+        "amount": 45,
+        "price": 34580,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2026-01-04T12:56:32.000Z",
+        "notes": "jSQHY6CfBJO7Yj4Zwf5ryZdaWALN7D20NEXEf4loFMvavKQL79J7o8HlD1qkwjhahkuN5FKQEjW5FsuP0UNmw9Y6eBJjXZUAymW5a7G6BXo10VvRqohe3vDEhADMBiktoTOsQ4LDSvFFx4MNFxSECNFRcYotZ5EHemEhh98P4ONuWBzJslCJTYbEpi9EgL1DjSgS2BHbjo05KeYSRMKU4vCaypY7AUqY9ZnXEs9qEaD787al1EFfPgyNFt"
+      }
+    ],
+    "total": 1,
+    "page": 1,
+    "limit": 10,
+    "search": "34580",
+    "manufacturer": [],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "desc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

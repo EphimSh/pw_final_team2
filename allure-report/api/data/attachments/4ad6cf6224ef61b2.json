@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-6Y9cb/7/lTa++f0G5Ow44bhJmgg\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer72592",
+      "amount": 9,
+      "price": 42808,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T12:55:05.000Z",
+      "notes": "UZO2EIkGU6R7STV9JzGrHNThpnnp0CwtZuC8aOxI68wAT1dR3EyeSwv9SkfAuBCRIMelk6dKOYfR5uDWACDJ3kNL9GV0yNyRElndK1OCJaF445p9z1Klnk3VOTiwJ58AD62czZbkj6KoMxEUanS4GIAlNtz1K5ZO1Sd0kHjc2WU5oNSf1pAzh9uggQWtBcPuBNdgO5gCXTMtS1PiJfjTa6g3T2mPGopUtYfJw65nI6tncEzwgWSouwMQIE",
+      "_id": "695a63291c508c5d5ea7ea79"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

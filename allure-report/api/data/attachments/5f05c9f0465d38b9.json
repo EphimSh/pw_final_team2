@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-als4o1YytX8o+4bBgabYe29uGko\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "695a63951c508c5d5ea80d14",
+      "name": "Tuna49931",
+      "amount": 89,
+      "price": 56602,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T12:56:53.000Z",
+      "notes": "JG8LxT6vXEBD1vnBIz4UWw1XTEoBrGWipmNoyFCNsewZzncWEke338yB68fHC9LlbpZocPzJdSVbpQUgrQTttuKTSe0NtjcKSRugRAf6coBYpye3c2oyYC4slnFCr3FYbn94s4vbz179BkgyDSrZvK1xixTKgcg3HdBxCboNp6D5wXhpOhV4dNWgteOFtndxrra6HrOBSmyOdMrFFxfzxdnAUIlhL1l9smFjjnsO8g5uMUb5BdmjQbKeHC"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "344",
+    "etag": "W/\"158-HHB0WDzmWJdGeAvU+bBd5mMqUu0\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Destin.Bogan@yahoo.com",
+      "name": "wdzNshGSnsyXHjFXEWnjVZ",
+      "country": "Ukraine",
+      "city": "iCRZIjwPW",
+      "street": "ltOkGjZBFBfVDKhzdZe5ZI1enVsB25G8K",
+      "house": 50,
+      "flat": 3,
+      "phone": "+6356986715",
+      "createdOn": "2026-01-04T12:54:39.000Z",
+      "notes": "QzU5tFoEEKSfzONEZFv",
+      "_id": "695a630f1c508c5d5ea7e1f9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

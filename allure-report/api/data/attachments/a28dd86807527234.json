@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "570",
+    "etag": "W/\"23a-yAHtWBdAL1+9uFXGWcLaun0V2Wg\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Vincent4@gmail.com",
+      "name": "OqLqCqTqIeCDCByKdzwIsWyGHXCg",
+      "country": "France",
+      "city": "AWAq",
+      "street": "AWDl4ZUMbqwnE9IRGdkFezi46BFY2m3LQskO",
+      "house": 82,
+      "flat": 7,
+      "phone": "+3797579815",
+      "createdOn": "2026-01-04T12:53:20.000Z",
+      "notes": "tEHlptBdqJgIgR1R2yvQanR4XwN3hKP2N1mkVkggBvgjWPZith2AB7EwVFQYFco7eQkw4GX7tMWHwApOdcfwNwXzA48HKLvadelKs2PY6OpBqgO0Ad3DkOACHwTaJ90hgoXhGVpivvugHAo4aueAW0zR9yo1Qy0zT44uAL5AvD0mH86vNbAzMzPngzqx0tx7ZoWD8J5uv1gJGrl4za1nW54Uz53CvixBDHjge5qlDDcU1iymR9lGT3",
+      "_id": "695a62c01c508c5d5ea7d183"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

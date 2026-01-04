@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-Bc+qmvRly25yjjOiZnfZnQw+qM0\"",
+    "keep-alive": "timeout=5, max=61",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sausages2176",
+      "amount": 92,
+      "price": 71625,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T12:54:02.000Z",
+      "notes": "WuW0JdvOnbYm5ecNowLWquKmhPt4fvK0SebSxBcIOCQzqZArId7oUaF0iYD290EYYzmL6w1PGQMB6UHpaDsZ8OPdqDU0G1SLZIEYHvjPbamGU8rl9SyjD2bfW9jcR06VPdI8yuykjXMSSDlRJRPt4TckFnfvT8bEW12wkcAs5S4xPY6vk4Remou6G2OQ8FkqHgE1WZFtmIfELJcLQJpt0eUA7xJbng8RvvohzMdCYO0wtkq8iVHUuLTb47",
+      "_id": "695a62ea1c508c5d5ea7d882"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

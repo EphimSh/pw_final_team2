@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "535",
+    "etag": "W/\"217-Y+T8IOBet7isVVtyVar5iWwnJ+M\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Aliza.Prosacco@yahoo.com",
+      "name": "FldcSYyyDoZesjBzuIGQSCZQLzdZRvlYW",
+      "country": "USA",
+      "city": "CThnOCAOIQGzFjLKyUE",
+      "street": "nCsWdqnXWvTIJpBjL3uU9wFnZRh4OfgMNs4B",
+      "house": 125,
+      "flat": 5,
+      "phone": "+4492213922",
+      "createdOn": "2026-01-04T12:54:22.000Z",
+      "notes": "WpPX6XvQUee1feJgItenqzDQOGcaaUwKMq2YR2DteCqj31bGFei8qUUwcBXc7otyVmkWIhT7v4uJpkXMKi0cob9BObdn0vcogoTQiHklVKrw4VzfHm6ShCd0SrBb36XBSxrnV0WZMZYaaTbgaxLKst0j4ijOjz9L3QR4N69sHl5001yUgGaEfyXwq4K",
+      "_id": "695a62fe1c508c5d5ea7ddd0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

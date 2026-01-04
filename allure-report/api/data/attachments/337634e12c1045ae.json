@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-H7Q9PqrJbpyBekM2r7e0E/oiIVk\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra14651",
+      "amount": 560,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T12:56:38.000Z",
+      "notes": "2m6QPPbF3ZgSRh8n2m4KyrtmWuhFxBlEN7oXZv8U0elipCuKSGw6hF58xGCt6oITQOy8fwJ4G5sT12VsrG3IEQPtoy3NZzGOnzytnIu7nlbe5xkZHvEwZBKFaZH6cmsESYlqrp2Oi1U2hQXkVVQgI4G7UW6Kfcu5pprDjBZ7AJx0oVqse6J69tLhFeSveH7rGKiwYuukaTfdbhPSKw5RjXIbWUrLUOIQIBZhdrPsPIknBwJHJdNmiQ1GMY",
+      "_id": "695a63861c508c5d5ea8052d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

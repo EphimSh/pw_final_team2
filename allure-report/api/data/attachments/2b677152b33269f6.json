@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "397",
+    "etag": "W/\"18d-asCMoRwQmV2Dl6gQjKJkADkTECY\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Wilford.Howell19@hotmail.com",
+      "name": "eTpdsnEXT",
+      "country": "Canada",
+      "city": "YcwNyhgufTfAWaEkbVN",
+      "street": "03Q7xHgkOUWAzsyJzVBNsx7R",
+      "house": 164,
+      "flat": 8,
+      "phone": "+9976497078",
+      "createdOn": "2026-01-04T12:54:29.000Z",
+      "notes": "NVGOM8iyx2MlBUMpmJwXm3BXIgdI5isY3YiejHb79I8Gxkz4uc7SQ0JGcY9fk7TlzL84xkvx9Ebhrc",
+      "_id": "695a63051c508c5d5ea7e007"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

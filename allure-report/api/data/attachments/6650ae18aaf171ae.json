@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "482",
+    "etag": "W/\"1e2-6V4bkF3ncszsy7c1iyPLYTOJ3q0\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Daren.Becker-Gleichner11@hotmail.com",
+      "name": "zvGmgWtwSJz",
+      "country": "Germany",
+      "city": "O",
+      "street": "z8zMNdSeThobVQTCiYOgD6QLPAA6BQ8Vy",
+      "house": 137,
+      "flat": 8,
+      "phone": "+9262067030",
+      "createdOn": "2026-01-04T12:53:20.000Z",
+      "notes": "z3ZwL4CtxkwvYeBrqIh3p6xuNhemh89ATUjFdGeAdztrBYPoTGmfeprGNbOKgHqz3K8uW1xBlaGHQ9rviOIktlFb3z92dzsbKWhJ2LMOWvwd3Yo54IE8jizR3fz0qdlTBdcUs4h7dajgQDEH0PFaHXE4UW8KbDDNK",
+      "_id": "695a62c01c508c5d5ea7d17a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

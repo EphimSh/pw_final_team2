@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-yroMYWQ2s2zmrLRJO3OI4UGbmRI\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants51676",
+      "amount": 949,
+      "price": 91524,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T12:56:53.000Z",
+      "notes": "MmwLsJ7lrzcTctuiznGnBpmHUgvrFlcKPtVzlr2x6d9AUUO3fr7ab225OZAAztFdcxHyeQcatK52sXyBnbcm7fBc5dItgTo3FnnOxo4yGdaDkjKWYj6pIJ2PZ7Qo6ytNMTNhIw5nkaMDxaIFTiiENCxbrh34vbRxZBKWes7jRvU5GDd1U7O6c0yqzn9JzU4chk1bUYwilVh44Cj2vlW6AMj0V4QKQGEVt62uq0lDx8vHuym2UpEzEgtTLh",
+      "_id": "695a63951c508c5d5ea80d14"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

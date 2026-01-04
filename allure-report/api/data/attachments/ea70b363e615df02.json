@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "403",
+    "etag": "W/\"193-u78Wb6g/Leqmm5lDu4R2xVM1QEc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Cleve.Bartell@gmail.com",
+      "name": "zJNM",
+      "country": "USA",
+      "city": "JFPCnGUuCbQhU",
+      "street": "XWwLECmIlrmmLad",
+      "house": 78,
+      "flat": 7,
+      "phone": "+3078380116",
+      "createdOn": "2026-01-04T12:54:21.000Z",
+      "notes": "9klTwNfRnuperzUGePX9NO0a6rudrslqqygBZNzMXPFujaixLQR80rmZ7MVrbdaw11LJMkLRNxL34PceHXi4mPHiELN0LTDoiHIRgIkLtGzf3uV3r",
+      "_id": "695a62fd1c508c5d5ea7ddb2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "374",
+    "etag": "W/\"176-SXrafTXqa5tKswma/rkADZ5me1Y\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Arianna30@hotmail.com",
+      "name": "IoS",
+      "country": "Germany",
+      "city": "bfIsbtHcops",
+      "street": "JzpuOv3fEm5G",
+      "house": 109,
+      "flat": 2,
+      "phone": "+4538126700",
+      "createdOn": "2026-01-04T12:53:40.000Z",
+      "notes": "hbqs6GUH3xUFlf5fz2P9hTMUF1umtXKZnBt64eB2smrchTGkTm71gg4Pvsh6ctcfNxPmd0Mbgl8RQ5BJHMiIm1q",
+      "_id": "695a62d41c508c5d5ea7d288"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "472",
+    "etag": "W/\"1d8-NE2suYgQmX04bKkvVxkv1jNET0c\"",
+    "keep-alive": "timeout=5, max=72",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Maddison.Cormier-Treutel56@yahoo.com",
+      "name": "iDueDpWOGQBJQgCDRmK",
+      "country": "Ukraine",
+      "city": "yhU",
+      "street": "RSn",
+      "house": 197,
+      "flat": 7,
+      "phone": "+4155087188",
+      "createdOn": "2026-01-04T12:55:54.000Z",
+      "notes": "9arsk3jQVCEY0IQT2z4RCIb4znVLjQiLsJ0kH3NL3XJQxpZwTwmyfdv35MuSPMjNuainGC66AZurSzHrjpEL57pPE3ZlHzWnDflpq7jsisNDDss5a6r2XuCp2OYJiZPHsYBr5JLjgxOlHAWgkitC79otBwwhUAZRIfNPpmNiDLT",
+      "_id": "695a635a1c508c5d5ea7f818"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

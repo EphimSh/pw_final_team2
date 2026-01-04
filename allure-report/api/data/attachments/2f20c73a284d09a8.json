@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-vMiRiXQ8ntO0zTmEnDV0zTnKQcY\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra94795",
+      "amount": 254,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T12:56:34.000Z",
+      "notes": "nrWFu3n7xu95g1QqCU6TdyZhjTPJlcREwK7dxeIKNG0BzbBgMv5bCd3gcqd1VCShNh2xGL71NWUVpiTSK4CakxpMKccC2yF6SsFceolo4xYrs78iRYqZPlnp1fqCdqTR95Dp2nBtDmXfZqmyYnfJ71UHM4aNOerAOXV5DkDWKMQziiLkhLjSzKn8B717zrW3el1ynIjCTxKdF6YMV4P9puUQwuo8pn5KizEMl6EoqQeLCADwpub7yHZIpj",
+      "_id": "695a63821c508c5d5ea804a6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

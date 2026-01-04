@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "547",
+    "etag": "W/\"223-b7xIbPGQpl8nXCV34i5kPdaTLuM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Florine.Schaefer@yahoo.com",
+      "name": "MOhNsuWPTVoJpHIEqAmJxlCvvj",
+      "country": "USA",
+      "city": "gkXwphqfUtCJBkFOoo",
+      "street": "srHv901ngpoSunnwbAYocE2I2az",
+      "house": 115,
+      "flat": 6,
+      "phone": "+2559987068",
+      "createdOn": "2026-01-04T12:54:51.000Z",
+      "notes": "kckaiJ8QQNdUXEM5uh6PDJRszSHv9WExaEXA4QeLWANkKMnYOckBJJkVgDReeRjbHTmYdV5k9uH7vjMfqrj61tsvOKEC073g1gR5CSjm9S033lSYhB6x7wTvhSrTWZkCgtk0rexkFvXPzOxgHwyRYjFwo1eySfzsSgf5AtQhMdCQuIcJfWVDhNDtNzQOpb6r2w5ShZgTtXcFICMtRO7s0J",
+      "_id": "695a631b1c508c5d5ea7e59c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

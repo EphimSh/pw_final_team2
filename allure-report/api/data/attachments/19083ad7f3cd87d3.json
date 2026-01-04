@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-h8d67GfcwNUsW4skQwGAauSVN38\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra61307",
+      "amount": 327,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T12:56:37.000Z",
+      "notes": "v5NtmOzGBVR3W5hmc1KMUudiS6GfzvKQLaIEorxqAZFsT6MNwpWcjA5W0UlaELUshfNfUzNSrxslvoitvlWFLm29EVunZEM9CuolPw29VFTLHfta0kVTjlhiX6rn9p5v7KstFcTOxeg1gChPkLhEumfjdj89ig2GZq3zC8nvJcuJUk0tYdbkUtRoV6GFzkdJfunJbhjJpptR9O6OloLNMWmzwWO7XjZ5kzwLQbVlOYvNlGXHC3PcTBx38N",
+      "_id": "695a63851c508c5d5ea804cf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

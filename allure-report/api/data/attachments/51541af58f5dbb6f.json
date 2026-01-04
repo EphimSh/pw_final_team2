@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "190",
+    "etag": "W/\"be-pu0c33uSYFemF1c5K4dZThBtnDY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna2264",
+      "amount": 44,
+      "price": 65019,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T12:56:22.000Z",
+      "_id": "695a63761c508c5d5ea801b4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

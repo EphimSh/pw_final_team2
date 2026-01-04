@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "399",
+    "etag": "W/\"18f-auBZkGJFTWQK3IMfQNmGY9jmOxI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Damian_Kilback@yahoo.com",
+      "name": "msguWEKpwEZwIxzsWm",
+      "country": "France",
+      "city": "Nvtnsc",
+      "street": "YiJBhaKHh0AROXAn",
+      "house": 43,
+      "flat": 4,
+      "phone": "+4221525152",
+      "createdOn": "2026-01-04T12:55:10.000Z",
+      "notes": "3f97xGSbVDqVN5sGdHjgbbif6JwFKoCp52uOXy8ipGmHFekpaHUFtVcQY06T1GzzShFtMt1Nk55nw10JgWDb9hLxt7BgGKkA8",
+      "_id": "695a632e1c508c5d5ea7eb9d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

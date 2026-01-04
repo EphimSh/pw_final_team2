@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "386",
+    "etag": "W/\"182-h4KqheLkKWiv6a4zWncJDhKs7YE\"",
+    "keep-alive": "timeout=5, max=67",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Tristian36@hotmail.com",
+      "name": "eCNyhmFUIukhYteGRBpRac",
+      "country": "Great Britain",
+      "city": "eFvwjVBmd",
+      "street": "L7pAGppolYJe",
+      "house": 117,
+      "flat": 3,
+      "phone": "+8154079638",
+      "createdOn": "2026-01-04T12:54:48.000Z",
+      "notes": "sMTqbuNRksyNNyBLAzrjvF7JVjnxmMv3sepEkRhKAmlDQnGiObtls7nJ9HK1UmbMM9EpHD6l2Yz",
+      "_id": "695a63181c508c5d5ea7e50c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

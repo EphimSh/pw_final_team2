@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "417",
+    "etag": "W/\"1a1-fE7Ne31ey60pXgpopsY+UU7RsrM\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Forest_Goldner-Trantow@hotmail.com",
+      "name": "WYTpHSTJQEclLGsSYntPFTvcXrfkNq",
+      "country": "Canada",
+      "city": "LvqFXCInRKkWmXQKpLGb",
+      "street": "jzl72rmSVZf6AJ2LSpf87o",
+      "house": 168,
+      "flat": 1,
+      "phone": "+1207609127",
+      "createdOn": "2026-01-04T12:54:14.000Z",
+      "notes": "dkmUDyhZ3QO1szimt1tWtL8IAroT3tCegnG84zYmDTCo1cV7CXqCx9mOINgqBD3SAZN5GbqD",
+      "_id": "695a62f61c508c5d5ea7db8a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-dDbafVjxeozCCSoXsfluDqu3OiM\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish9342",
+      "amount": 367,
+      "price": 31251,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T12:55:25.000Z",
+      "notes": "T4do5nwt94OhpJodJQqPpIlhMv0TlNrKLn9xcb3RdaXy8jIVNl3c2I1tjEeL1S9hRoEb6JCcbeyou75Xx275G5wzBPXJIcwWZU28W1LrZVdLqrpjGq5YTAYaPAKkPG07Opfmu0GqOnn5xnivYYTIDquvFRIcNfxRrHUIKXh66FPkcLMyONc2up269mZltYEvZofDRtJX6pwM8XgVnVqS8IKU0W6hooeLlmkf6gSHrDFzFPZOkLMlicLSSB",
+      "_id": "695a633d1c508c5d5ea7f033"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

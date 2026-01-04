@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "325",
+    "etag": "W/\"145-sz4W+tH2MbdDdEQscu9F0ArGftk\"",
+    "keep-alive": "timeout=5, max=50",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Barton.DuBuque@yahoo.com",
+      "name": "avOJykFxCGhEAeVzPLJOQQBtPmHtsieEBo",
+      "country": "Great Britain",
+      "city": "VhJykpqF",
+      "street": "kt6FW",
+      "house": 56,
+      "flat": 1,
+      "phone": "+2759292074",
+      "createdOn": "2026-01-04T12:55:04.000Z",
+      "notes": "UbO9V6vJL",
+      "_id": "695a63281c508c5d5ea7ea5d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

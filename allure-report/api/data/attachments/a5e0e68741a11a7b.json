@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "424",
+    "etag": "W/\"1a8-PDD/HqY0u9Y3UGwTTqMw+V6mSQ8\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ebony.Mueller@gmail.com",
+      "name": "MTd",
+      "country": "USA",
+      "city": "TRBkuNh",
+      "street": "hu1PPIzkjhD32eFepN9OXp",
+      "house": 100,
+      "flat": 4,
+      "phone": "+7733403879",
+      "createdOn": "2026-01-04T12:55:17.000Z",
+      "notes": "G20zlWX76PVhF01ztkktUHtfiG3e7xVb9dYPj2pNI8CnbftoqUgtwrOBHJ5LhmyasStDaXRet1cunjx8uBU1kWVDJ0Z3jcRrJJZmcD7ELSYqmN3g7EPjVRPUX6B2D8gPdGo05",
+      "_id": "695a63351c508c5d5ea7eda7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

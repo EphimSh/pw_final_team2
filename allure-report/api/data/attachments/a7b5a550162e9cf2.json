@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "447",
+    "etag": "W/\"1bf-D7HFLM+SUwj9fjMSqa3FxgBlZQU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Alvena_Runolfsson-Rogahn@gmail.com",
+      "name": "JLEHfHeoGNxboJvczPlw",
+      "country": "USA",
+      "city": "eyrGeOYBwkKDtECQ",
+      "street": "WDjnTfuT7XomHpZf",
+      "house": 56,
+      "flat": 5,
+      "phone": "+6110464591",
+      "createdOn": "2026-01-04T12:53:20.000Z",
+      "notes": "xUjirNLYoXLyOBeZkpNWKvVogkOBXLBuLIHUqOILbwzfte4FA8FgRXQolp9u6m5OZasGHnyeFa3By3eRFuvWt1iZ35BMptdpXY5woN5ej1Fbdmm58lt9bW9omYbyRJ",
+      "_id": "695a62c01c508c5d5ea7d17e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

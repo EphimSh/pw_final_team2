@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "204",
+    "etag": "W/\"cc-Cbg28mXTMyOH8Za4OMkSNz2wWH4\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish25365",
+      "amount": 625,
+      "price": 54839,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T12:56:14.000Z",
+      "notes": "",
+      "_id": "695a636e1c508c5d5ea800b8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

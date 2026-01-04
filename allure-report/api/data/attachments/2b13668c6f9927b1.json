@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "579",
+    "etag": "W/\"243-EMnoe7fzQPnwWyk3y/rFsxxM1EI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "695a62c71c508c5d5ea7d1f8",
+      "email": "Lourdes_Corwin@yahoo.com",
+      "name": "cEABgdmzKEDEAGXBWzlPbqgytAomQh",
+      "country": "USA",
+      "city": "aZEjGXAtwEspewc",
+      "street": "B1vSLqehHXgNeloHUh52h5XVBc",
+      "house": 4,
+      "flat": 5,
+      "phone": "+9991907336",
+      "createdOn": "2026-01-04T12:53:27.000Z",
+      "notes": "qA3U0OkDh15KbwXuvmjvaFHV84pirgWN9epXomP2K3njMIFkU7sYo1XyfDHLDlhBLPZutyQNY1aBuRSNIGJwk9SYtoILehKLEGXDDFblc0MUZeXJVdUQgnD37kr2q0wCSwsqUaX9DToiAoyvNJlcMDYU3Tx6Zv87qKZM6SX5mIxC7P5mGNeN8iiDIXYpnudr7ylwZ4chhAWMN3oRJ4EFtrG6XK3PPPeS61ennXHtdMzSui2Y7df1V7WCgr"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

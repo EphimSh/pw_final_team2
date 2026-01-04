@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-iLELKKVwEi1nKVqnkR3E5eEnrVA\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball8114",
+      "amount": 851,
+      "price": 52894,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T12:55:15.000Z",
+      "notes": "qm2yxUD68vhhHeX2ZcoO6f4uSfkTFEerIRixYmOZxS7nWivyl0zRBrhKXlegt5X8D6hq6RPwYKmydYBC7wrdEgMQj9SvlZcbcWkHQhpWElh8BZ11crF5THOLmaWyo76wRBMz6UV91GUUqk0Y9bdej4OxknghLmkhcbrGTZ2f3E8KLiH9DACCHxWa6Lp05tHNXZhfWQYBlWTkF98owPcWfdctUKf6y8Me2brsMUEsDwtffitn6ibBl784oo",
+      "_id": "695a63331c508c5d5ea7ed1f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "309",
+    "etag": "W/\"135-ascVJi2pOedvJOwJ/BEUeRMORfQ\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Raoul7@yahoo.com",
+      "name": "QPVcmQVMSTYNMdmUdC",
+      "country": "Russia",
+      "city": "Lvo",
+      "street": "auSR4LKjBIDsQKqDJopQdp",
+      "house": 92,
+      "flat": 4,
+      "phone": "+8023272041",
+      "createdOn": "2026-01-04T12:53:42.000Z",
+      "notes": "wFmjpWQqDh13",
+      "_id": "695a62d61c508c5d5ea7d297"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

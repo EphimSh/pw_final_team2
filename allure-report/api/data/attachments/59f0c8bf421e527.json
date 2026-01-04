@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "385",
+    "etag": "W/\"181-Ay8PZd66ukNMZ8SdIr0x7gkWv/w\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Geoffrey.Collins@hotmail.com",
+      "name": "Zkru",
+      "country": "Ukraine",
+      "city": "AsCuAaAGtrA",
+      "street": "LuTbbW1bu",
+      "house": 117,
+      "flat": 7,
+      "phone": "+9736187271",
+      "createdOn": "2026-01-04T12:53:42.000Z",
+      "notes": "qzwHPrds7A1Mm1hMpn2FY6y530ONjqoTgTvCU5RQ4LopCbJiSBkmRbB2Rlilyu8bcGOjciTsJ2PKdyUu9n9i1VNrAcSEh",
+      "_id": "695a62d61c508c5d5ea7d29b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

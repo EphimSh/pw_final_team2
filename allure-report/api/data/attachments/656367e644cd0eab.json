@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "475",
+    "etag": "W/\"1db-k/tW2JBg3LH55vTai/J6pMqsRxA\"",
+    "keep-alive": "timeout=5, max=72",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Gonzalo42@yahoo.com",
+      "name": "CqCpPwidVBBCfstDhaXKJuGJfbdSaeDOuow",
+      "country": "Great Britain",
+      "city": "wPrUx",
+      "street": "fyBJfrDvLCgpUafxD",
+      "house": 129,
+      "flat": 8,
+      "phone": "+9490390558",
+      "createdOn": "2026-01-04T12:54:46.000Z",
+      "notes": "nSxJa2GQCAcjLhG1myPpUyYo5hRkYukZKW49l54XEF1sQqv5ousXEQBucgfdib1AtNMljqBFBFqAsy7bZL6aunNDp0StdblAF46B84wvCuAIjAjPQczWhWVMkR5VQn4JNRvaDfHKm7aM4UNAEMooy7TG4",
+      "_id": "695a63161c508c5d5ea7e492"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

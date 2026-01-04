@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "389",
+    "etag": "W/\"185-nXPZusnzeLIprtkRHOSSgfNVKUY\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Deon.Thompson@gmail.com",
+      "name": "y",
+      "country": "France",
+      "city": "KiPWwHtQrEkCMlo",
+      "street": "Fqr9JQ6HCCxDXKbyVbF1GXCV73yo0UlS",
+      "house": 185,
+      "flat": 9,
+      "phone": "+5445623383",
+      "createdOn": "2026-01-04T12:53:26.000Z",
+      "notes": "zxm2E2paMo9rkO4EfhN3SQrTgbb6dmCYFtAF0DKwagPgepb8Q04sHOlYPqdm05CthKv8SLU3FKg6L8l",
+      "_id": "695a62c61c508c5d5ea7d1e6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

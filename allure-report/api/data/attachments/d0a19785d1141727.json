@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "502",
+    "etag": "W/\"1f6-aNLdZkg1ggqMhiKF2IwXtdEDMWI\"",
+    "keep-alive": "timeout=5, max=66",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Fabiola_Berge74@gmail.com",
+      "name": "bOxSWYejPjyhrapdhcJyvgSKtFRjtMxHC",
+      "country": "Belarus",
+      "city": "z",
+      "street": "7FuZD3j3x8WFFEpLt",
+      "house": 92,
+      "flat": 6,
+      "phone": "+6219541029",
+      "createdOn": "2026-01-04T12:54:05.000Z",
+      "notes": "vCsQJbtl7ct1ecUh6jSWWGYcG6yTAjI2YrDwKwTALWYVoBFnAYnY1jGnbwQiF4ziq9HtcLxA0wJ7dp0XG2QZ6dQn10aVU5MGakgK6Pf1rgpFdt99Ezh483UUq4T6Sl7EVcN1PkNeqxHBXEiPdDpWQ0MYVHKcRzztf5i1Fy53odkjtmBdxETCAE9IeI7",
+      "_id": "695a62ed1c508c5d5ea7da0a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

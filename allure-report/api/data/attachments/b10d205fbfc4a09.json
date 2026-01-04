@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1851",
+    "etag": "W/\"73b-zGXVt9OiQlBEsTo0pN85gKdk42s\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a62f41c508c5d5ea7da81",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a62f21c508c5d5ea7da39",
+        "email": "Marcia_Emmerich15@gmail.com",
+        "name": "jwSrRGJjAslZAVT",
+        "country": "France",
+        "city": "jPsirQhhzZAWReaM",
+        "street": "I1Ev28Xz67OnuECYXjfP0R9J2Ol94eOLwOpziNTF",
+        "house": 91,
+        "flat": 2,
+        "phone": "+6839481941",
+        "createdOn": "2026-01-04T12:54:10.000Z",
+        "notes": "00zcomP1IgGXb2fg0ouMSj3a8LawgRu0YUCIknDrK8DdMfvaj3VskWkFRV7BT8GqoOcdQJTI4sn9P8Q6nJ9DlDfcej4SxhPFrJO9KCqdv8eZggNDTLSsEjmKsumIOdVFDQCxf6HsxLTjPBPvj7BQCaA8sQHNjc1rTjV7y4v6o7edbF2emaMTNHX8D"
+      },
+      "products": [
+        {
+          "_id": "695a62f41c508c5d5ea7da71",
+          "name": "Shoes55953",
+          "amount": 709,
+          "price": 72073,
+          "manufacturer": "Amazon",
+          "notes": "GZyVnlQmiBbXMet1ujAfReVHSteEUGcPIBZZ5YEOv3P8FI8XEDtE5MLE1Zbi3PZwH0JMf4gJk5h9ejkZ7k5YnJCVmSiJmOSmwRgOmfODeMiJuLfnVBBVKyA18ZSt90ce19iegTpBWM2FzYkkgrY7xb802z7q5Sa7vwMKLF77xvlPpnGyDvoSgYGPVTYe1aNDeysK3OqE5ZppaxZNsSCCndaCG9IH2oHJ7kcUQLVoC0YgjNkUpIJrvMcU3m",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 72073,
+      "createdOn": "2026-01-04T12:54:12.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a62f21c508c5d5ea7da39",
+          "products": [
+            {
+              "_id": "695a62f41c508c5d5ea7da71",
+              "name": "Shoes55953",
+              "amount": 709,
+              "price": 72073,
+              "manufacturer": "Amazon",
+              "notes": "GZyVnlQmiBbXMet1ujAfReVHSteEUGcPIBZZ5YEOv3P8FI8XEDtE5MLE1Zbi3PZwH0JMf4gJk5h9ejkZ7k5YnJCVmSiJmOSmwRgOmfODeMiJuLfnVBBVKyA18ZSt90ce19iegTpBWM2FzYkkgrY7xb802z7q5Sa7vwMKLF77xvlPpnGyDvoSgYGPVTYe1aNDeysK3OqE5ZppaxZNsSCCndaCG9IH2oHJ7kcUQLVoC0YgjNkUpIJrvMcU3m",
+              "received": false
+            }
+          ],
+          "total_price": 72073,
+          "delivery": null,
+          "changedOn": "2026-01-04T12:54:12.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-pQLV9sRpvrbjSM1WWgLQ8kc1/hQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X89313",
+      "amount": 585,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T12:56:27.000Z",
+      "notes": "ng8JyFMAHl7SXNXCpY1QeGnVhtIbbNtWqqLfqSVV3SyUbgeKKUpO13gXl0rTrS4jTHx0Dm1flCFbiDVJbzGLTnk29d91LAgJ4zQJ5rvjXQWGnoRtyI4McgSwupNGWUX4va00x3sNbiSSoJrKTVCDPWLkUZTGtvFu9UwKYSpJhjYtbywn6bCdx1eEKiO22bpuZVyFUHJjcqeq9X3TTYejQwGcBTrJu676kQ6t0jqI4r7jVpwRyGuOrXOL7v",
+      "_id": "695a637b1c508c5d5ea80322"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

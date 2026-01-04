@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-UlsvRkgCHsyWS0c1Am0y9itPRz8\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair47656",
+      "amount": 830,
+      "price": 5429,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T12:54:31.000Z",
+      "notes": "0167WwsylQKYGLWC4X9FyOWIxZKV6fIZ9kMwp6W6kyatyBlqNNhBSAaAgE3A5QaAvAqnZP9s2bKP2bFmCDyVXl2Mmnx9HLZeoLcjKWEY0kgmGmok30mCbLszjK1ymsgx0c1jPjyJyV42mhNrbTkbJ6UtrHdPqiN7cYUSCSe089TpCW1fRlyn8wkWO49DN4ZF83syUF9IX3IY2npAFYfTUmhbKv3CyybqNcYcOtKiC5dmjmJSzQXlLdQ9f7",
+      "_id": "695a63071c508c5d5ea7e03a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

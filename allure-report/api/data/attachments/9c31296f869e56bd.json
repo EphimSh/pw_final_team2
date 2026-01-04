@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-kJ2u8Je4hm4lI40kgrbmYIkpg80\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro10152",
+      "amount": 722,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T12:56:33.000Z",
+      "notes": "MqCdKr5CIgE7N3RgTwvkx5L5lsDvqhztaPi0ejBRhzac69YPoAP1VR6BzNkvAJLDwnoF2Odwo18AyNi30hNrDq8b9SbQnUypsGpT5AthIbFBNnK82arMqsUpmkt8tz6P7qp21ETFHnmXdmzLJFLy4YkBKG4pRNxPdboBhNmmDjDCRAEd0ShARIZ9Cbeztfkq8LxxLBhjkYqN9od0zcVZpMy6jwEoBzL1WJsHzUZChl9SCRtgyvxm1GyPUG",
+      "_id": "695a63811c508c5d5ea803e1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

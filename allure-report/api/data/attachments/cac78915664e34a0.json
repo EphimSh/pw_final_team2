@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-1OOdbJSgJrrwQhTjq2uSNeH2XrM\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy S2570659",
+      "amount": 90,
+      "price": 3100,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T12:56:29.000Z",
+      "notes": "hN3QMNU2pJoTQjxMaEAvlWgracU4FSZiSXJ6NFyqjqLMgzghgBqkVqObfHJwTX2jTtWQoEqiFqNDBzyzEGmGHBNEm5ZnyonLa2fusPV9JkpSPJ0Bt1gfMOFsE6SGMqNfzo1NXp29vUXWGrGLutHbbsG8KWbqsygfoyTDdGzbhN1rSXuIKj1BKwfTtZK5GlqY39zUYGpQTKnuBS3UeqvskqdVh45pN6UKtXKOis5e5DSKyV4LtOwQ41Cm4J",
+      "_id": "695a637d1c508c5d5ea8039d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

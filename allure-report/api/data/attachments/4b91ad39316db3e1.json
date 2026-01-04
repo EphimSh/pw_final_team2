@@ -1,0 +1,173 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3963",
+    "etag": "W/\"f7b-OPaDYYbltibb3bTtwABy5O//Zg4\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a635d1c508c5d5ea7f92f",
+      "status": "In Process",
+      "customer": {
+        "_id": "695a635b1c508c5d5ea7f83f",
+        "email": "Maymie79@gmail.com",
+        "name": "BKsZftITImfophLs",
+        "country": "Ukraine",
+        "city": "xXIcibIpFTbb",
+        "street": "15RYwIzT9dBLD7vMWlHK1d1W8aEKDhoQy06eVa",
+        "house": 16,
+        "flat": 7,
+        "phone": "+7643545380",
+        "createdOn": "2026-01-04T12:55:55.000Z",
+        "notes": "gTJuHD42UqRpbVNFensHmCYZzIjQmdObPnJu5W983S5i1vjim7hb3OVqnO03tcTfKpVyT9einZcmdlxqnHdWb8zbSTpnqy59M8294t4F0OxPAtfxcQ9DjugE4CMdqygyDC07HAPCqxGcAC1tD0UWhNFS7UNr5VRvOuQqGPqN2jCmO4dpY8CqxcpUmHqOoKmrq57CMFB39n8vl9thUMCuotHoRMI57g6XeUFZ053jrJgI8tQ6WufVb"
+      },
+      "products": [
+        {
+          "_id": "695a635d1c508c5d5ea7f923",
+          "name": "Towels95216",
+          "amount": 373,
+          "price": 20538,
+          "manufacturer": "Xiaomi",
+          "notes": "BHiAwnDggqrGDyiwgeMxs0O5utkzIs6af2AD5T8dvm6Dl7hhZUgzWQBErgFRR0FgnQixgYdeQ0YrdSOZt9FMMLQrFyjFraqviiDJQT3zQgwKoD7eOJjTpGZ50d8mLuMT1ll5M62dJCgpNDrUsmM8GVgb8Zy6VwzkzytflemDAOs7ijdzRJvD3hCwq4raAF5iClpUVgL8Vv3hbcfvvGxt4Xt9N3ADpvhJwvLq3mMy2B6rS8EBnOl7kl5d51",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Ukraine",
+          "city": "Mock City phg",
+          "street": "MockStreetOBoFCqflTqL00CSyLlGo8NFE6",
+          "house": 88,
+          "flat": 3
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 20538,
+      "createdOn": "2026-01-04T12:55:57.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "In Process",
+          "customer": "695a635b1c508c5d5ea7f83f",
+          "products": [
+            {
+              "_id": "695a635d1c508c5d5ea7f923",
+              "name": "Towels95216",
+              "amount": 373,
+              "price": 20538,
+              "manufacturer": "Xiaomi",
+              "notes": "BHiAwnDggqrGDyiwgeMxs0O5utkzIs6af2AD5T8dvm6Dl7hhZUgzWQBErgFRR0FgnQixgYdeQ0YrdSOZt9FMMLQrFyjFraqviiDJQT3zQgwKoD7eOJjTpGZ50d8mLuMT1ll5M62dJCgpNDrUsmM8GVgb8Zy6VwzkzytflemDAOs7ijdzRJvD3hCwq4raAF5iClpUVgL8Vv3hbcfvvGxt4Xt9N3ADpvhJwvLq3mMy2B6rS8EBnOl7kl5d51",
+              "received": false
+            }
+          ],
+          "total_price": 20538,
+          "delivery": {
+            "address": {
+              "country": "Ukraine",
+              "city": "Mock City phg",
+              "street": "MockStreetOBoFCqflTqL00CSyLlGo8NFE6",
+              "house": 88,
+              "flat": 3
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-04T12:55:58.000Z",
+          "action": "Order processing started",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a635b1c508c5d5ea7f83f",
+          "products": [
+            {
+              "_id": "695a635d1c508c5d5ea7f923",
+              "name": "Towels95216",
+              "amount": 373,
+              "price": 20538,
+              "manufacturer": "Xiaomi",
+              "notes": "BHiAwnDggqrGDyiwgeMxs0O5utkzIs6af2AD5T8dvm6Dl7hhZUgzWQBErgFRR0FgnQixgYdeQ0YrdSOZt9FMMLQrFyjFraqviiDJQT3zQgwKoD7eOJjTpGZ50d8mLuMT1ll5M62dJCgpNDrUsmM8GVgb8Zy6VwzkzytflemDAOs7ijdzRJvD3hCwq4raAF5iClpUVgL8Vv3hbcfvvGxt4Xt9N3ADpvhJwvLq3mMy2B6rS8EBnOl7kl5d51",
+              "received": false
+            }
+          ],
+          "total_price": 20538,
+          "delivery": {
+            "address": {
+              "country": "Ukraine",
+              "city": "Mock City phg",
+              "street": "MockStreetOBoFCqflTqL00CSyLlGo8NFE6",
+              "house": 88,
+              "flat": 3
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-04T12:55:57.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a635b1c508c5d5ea7f83f",
+          "products": [
+            {
+              "_id": "695a635d1c508c5d5ea7f923",
+              "name": "Towels95216",
+              "amount": 373,
+              "price": 20538,
+              "manufacturer": "Xiaomi",
+              "notes": "BHiAwnDggqrGDyiwgeMxs0O5utkzIs6af2AD5T8dvm6Dl7hhZUgzWQBErgFRR0FgnQixgYdeQ0YrdSOZt9FMMLQrFyjFraqviiDJQT3zQgwKoD7eOJjTpGZ50d8mLuMT1ll5M62dJCgpNDrUsmM8GVgb8Zy6VwzkzytflemDAOs7ijdzRJvD3hCwq4raAF5iClpUVgL8Vv3hbcfvvGxt4Xt9N3ADpvhJwvLq3mMy2B6rS8EBnOl7kl5d51",
+              "received": false
+            }
+          ],
+          "total_price": 20538,
+          "delivery": null,
+          "changedOn": "2026-01-04T12:55:57.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

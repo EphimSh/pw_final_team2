@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-EwnzOqGWT4FMvB71i6TLuMN4Tpc\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna83307",
+      "amount": 265,
+      "price": 43007,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T12:55:49.000Z",
+      "notes": "5rFQjHyxVSrnfEaQoNGNaq3xeL6iNAKYvNvC3TnzAnTCnpM1jjNQw3JlluXLTth8EIEynfPnV38KCbvDZHLhGTBhZGwYRRH5nJm1DGEi9Vlck2dAyplrOXyXZm5wNEpgC51blFw02uBKkymb5bUcdKt1LV19dzTEzTIfrR6yrx1T4pSOa7AbiFI5qc1DPQvZExfvQPt6QRQCxXg6cjSlgjkrSSHng6ojv6iySXlNUb1bhZeoRSEJRr6kQB",
+      "_id": "695a63551c508c5d5ea7f6ea"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

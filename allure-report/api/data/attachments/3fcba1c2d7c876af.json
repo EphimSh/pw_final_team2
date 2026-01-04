@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-zrZt6sAL0PmVLVeBwHqSt88Q9qQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard89457",
+      "amount": 940,
+      "price": 59354,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T12:54:53.000Z",
+      "notes": "gutouKGFm9kYp2G5qpeOz0jq6nOtDnBYCjMOey9ZRkacnXKnHQcGOW9tH3zd8NKkPifIEPULYBGAdiCpXD0GfVqzoflKoNE5yWRcCHAYFm1rIp0KG1o3R6cD4pf2Jk4QDYErGQJXm1OKUrSOsSQe58hkoUqtOAEXQmbtCq58QveNO50biDGct7TQbp9n0Q9x08VBAaPHBeTTITF5i3fKsr1dokpbXrAv1LvAuPf1JsHHYR1VHFrTFTmAY6",
+      "_id": "695a631d1c508c5d5ea7e638"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

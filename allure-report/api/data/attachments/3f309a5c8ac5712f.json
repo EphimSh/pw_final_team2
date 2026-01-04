@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "521",
+    "etag": "W/\"209-LIdmuVseAw3ZYR1QkTxIL+v0Mu4\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Bruce_Murphy@yahoo.com",
+      "name": "htZONlsBpcKRYiUdtoyXK",
+      "country": "USA",
+      "city": "AiVxTRqfMhqZlQrQyF",
+      "street": "PS53wZ8",
+      "house": 61,
+      "flat": 8,
+      "phone": "+1684205595",
+      "createdOn": "2026-01-04T12:53:42.000Z",
+      "notes": "Ft0nrUDj5w8ZznWsKflNdASNuLEDykOgxuf6IBbyz2CyJr24DBQkunVLd1UUnErcQ0OkDkbeijPjkt37WuiD2yXEbjnQexURZbFl6vwJM9goHZf3QyXvaNhAcvtXko2NBISjz9M0uxMAUy8Pf4KOVsz1CdL5s7v2E3QtL7lfDWnYz74I1DHdFtbYanVqAtM0MYcCmphxMTU4h7Hk16bsTpQIRE",
+      "_id": "695a62d61c508c5d5ea7d2a1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

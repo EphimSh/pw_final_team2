@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "394",
+    "etag": "W/\"18a-GsfcMjMa91lToVn4v7eHqlkq9BY\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Desmond.OHara-Feeney68@gmail.com",
+      "name": "EwEkjYLtChlibwCHYXMJWZpJwQcEf",
+      "country": "Ukraine",
+      "city": "atrQThVgxfaMeuNsuXbz",
+      "street": "dQ4g2c3noST3xZ",
+      "house": 18,
+      "flat": 4,
+      "phone": "+8175916770",
+      "createdOn": "2026-01-04T12:54:40.000Z",
+      "notes": "lfKZlnmLzhkV8BDYBX9GAK467dnf4t6J7ALVC7LqKMPx6CbFFSnNFcIVwffU",
+      "_id": "695a63101c508c5d5ea7e211"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

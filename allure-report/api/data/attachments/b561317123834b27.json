@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-Z4g7VVIBFZTjlVA4awoiNqle5ag\"",
+    "keep-alive": "timeout=5, max=37",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap88544",
+      "amount": 643,
+      "price": 18929,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T12:55:23.000Z",
+      "notes": "bVhwM1EC7JZC85vxPIJKpEPMenCBSytW3mYnuydT3LlTqdLktSijdtQyryM5QRqmFnbz06ezOPg0TClrpUIc6W9CIroiQkZz9NyU5dxstr8RaE2BCqft0BTKUxJH2a5PGqtIC6HpaV8tMI3LNJw8cr5NcMgzkOYSxyoEqRIuPHXBPPx3VF027EzKT1b9UrHOMxpnoo9PZ36WbfBxiFLbwfjALZOGQdsShKakRpz5E59Cnw1M3HLAvy9bYJ",
+      "_id": "695a633b1c508c5d5ea7ef94"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

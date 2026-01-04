@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-jj60KYtLIxYu8fSGudcgGrCYwh8\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair49619",
+      "amount": 388,
+      "price": 5415,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T12:54:33.000Z",
+      "notes": "yyprpqXIRHJfZP2rrBKvu2W7K3CA3YYEohxWiM8DdlDAR5j3UrvRGCMf5UnD1UTxUeSWn9AbVgfic97QEWQQK64IYN2JFwpIAfg25D7FP8h5YrGCQYrIPJeg8Hbv2MnwRIbt25bbSqEheUx2NHa4ncdWoj1S6s0LpVRLgIuxwqB3L2HpRxlZ7OMkk73s2WkSRMOkGbxYXuJ6cQ5VBKKa3f7Tsg4KGWBWC8j8p672llV0RwcSYbBHVxSREO",
+      "_id": "695a63091c508c5d5ea7e15a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

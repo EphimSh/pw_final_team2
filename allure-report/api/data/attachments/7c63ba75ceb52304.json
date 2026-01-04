@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "407",
+    "etag": "W/\"197-S9Zq4Assr5oHe7lRzx9LvhPJ8n8\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Micheal_Homenick@hotmail.com",
+      "name": "fkPhPsfPyPTOrePWHiDVhABoU",
+      "country": "Belarus",
+      "city": "BxJJaDbVxgbKiASylZb",
+      "street": "I00MDwz0dCNSCfUSJDJ60sZJ8IdxK6H",
+      "house": 44,
+      "flat": 9,
+      "phone": "+5699965863",
+      "createdOn": "2026-01-04T12:55:03.000Z",
+      "notes": "1WgwA45hCka0rQsmDNoKWS0bUiiFMzhai8BFvEuc098huIpFWyyFjyvRDNNTql23X",
+      "_id": "695a63271c508c5d5ea7ea54"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

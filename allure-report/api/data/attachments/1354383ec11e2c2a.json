@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-IGpVikPbhS0/Ec65+xFeDBPQ49s\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese81942",
+      "amount": 651,
+      "price": 72207,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T12:56:58.000Z",
+      "notes": "Q5YFVvwkJdyFipMSVlwa6Nk2EkYiCyn42a32PMZcgsFL1P5Nuj45qflFCVrxxbIzhC6mmxsRGxck5cdWyrTeKTGIMzt8yvgYxBUpCVXaMj9wzwSsMnGrUy7Q4HioIkTx2nWqlUMGLPxD9TNOQNGvVdh3V7p6dc93ZDHfBxJKncDraasa0p3wPVcr5DS3x1lRbfDEtToLXEO5NMusz2WyAyu2lbQVn2ewM7dCvS0q7t3opQUGqGkD9l1Sg0",
+      "_id": "695a639a1c508c5d5ea81051"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

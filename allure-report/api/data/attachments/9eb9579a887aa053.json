@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-C8DM7GHDIusQpW1AUK75J1jS1o8\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes55953",
+      "amount": 709,
+      "price": 72073,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T12:54:12.000Z",
+      "notes": "GZyVnlQmiBbXMet1ujAfReVHSteEUGcPIBZZ5YEOv3P8FI8XEDtE5MLE1Zbi3PZwH0JMf4gJk5h9ejkZ7k5YnJCVmSiJmOSmwRgOmfODeMiJuLfnVBBVKyA18ZSt90ce19iegTpBWM2FzYkkgrY7xb802z7q5Sa7vwMKLF77xvlPpnGyDvoSgYGPVTYe1aNDeysK3OqE5ZppaxZNsSCCndaCG9IH2oHJ7kcUQLVoC0YgjNkUpIJrvMcU3m",
+      "_id": "695a62f41c508c5d5ea7da71"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

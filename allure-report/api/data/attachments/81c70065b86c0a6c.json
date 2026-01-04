@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "544",
+    "etag": "W/\"220-ex1JiXcUAU+r1qI/+Z7kpMhIRvg\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "695a632d1c508c5d5ea7eb98",
+      "email": "Jayden.Pfannerstill52@hotmail.com",
+      "name": "Ivan Ivanov",
+      "country": "Russia",
+      "city": "BccfQmiKcKyCLCEXZb",
+      "street": "kBlqkqZWtSC9I2uzkilj",
+      "house": 140,
+      "flat": 1,
+      "phone": "+4457002276",
+      "createdOn": "2026-01-04T12:55:09.000Z",
+      "notes": "JjqbXlqU18CSjeKnoIUpde2FUYIIX40gBfFnD6ewodICRbwsczkFSctwWOUJUW2PssOLGNVGqrj4mfiNmmu4XigTIMGcVGEKvLklUn0tDt2hxYd2MMyMk5Ws4kKLCWRoTVFp9gdoWoAFgmcKkZA7jCb2xhSJvY8BnI72fVteOsE8I288GveaZfCtGXXippp3jCk5saQrsUzGwcN1Eg5mZFpcrr1auyk"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

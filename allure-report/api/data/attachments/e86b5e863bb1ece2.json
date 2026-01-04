@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2808",
+    "etag": "W/\"af8-4ZrJujStw21cXQTYimCg0Z4qLj0\"",
+    "keep-alive": "timeout=5, max=72",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a630b1c508c5d5ea7e17a",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a63091c508c5d5ea7e0fb",
+        "email": "Janae_Berge62@gmail.com",
+        "name": "quwYHlRbCAITKvxnydZGpp",
+        "country": "Ukraine",
+        "city": "jN",
+        "street": "aowx5fpFh7grbAMQAf",
+        "house": 41,
+        "flat": 1,
+        "phone": "+4817837894",
+        "createdOn": "2026-01-04T12:54:33.000Z",
+        "notes": "1CHCKJ5e7jVEqcf9fc30RhEtRvGLwzjMHLZo2Jlxp1Ptn58tR8a7vR8RiNlVX4"
+      },
+      "products": [
+        {
+          "_id": "695a630a1c508c5d5ea7e172",
+          "name": "Computer25341",
+          "amount": 763,
+          "price": 48244,
+          "manufacturer": "Apple",
+          "notes": "eL8vNJfpbncBbgA9diKfe2lgXEmJ4Crfr5zmJFe6k7CtVilI6EdV6YerFjfa5wmKSRI1mQ3NP8aOnn44fm0BjGbz8BzsOieXDb6K9b6zEGz35WiJI7YLIv5flVeiGgWBu0FACULldtg6g73vr5aCD33wjnPob2EUnmdxrcb4SzmDzNXrVT8SFa6htxcRgASqZDdRyXKPdjjGVaIJ7XbugVxBQTvp95fXPTgFG7bcpwqUALtdKHmL9PNMCD",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Germany",
+          "city": "Mock City ahuFBZsVQf",
+          "street": "MockStreetUbDBH4jxXvdT4",
+          "house": 59,
+          "flat": 2
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 48244,
+      "createdOn": "2026-01-04T12:54:35.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a63091c508c5d5ea7e0fb",
+          "products": [
+            {
+              "_id": "695a630a1c508c5d5ea7e172",
+              "name": "Computer25341",
+              "amount": 763,
+              "price": 48244,
+              "manufacturer": "Apple",
+              "notes": "eL8vNJfpbncBbgA9diKfe2lgXEmJ4Crfr5zmJFe6k7CtVilI6EdV6YerFjfa5wmKSRI1mQ3NP8aOnn44fm0BjGbz8BzsOieXDb6K9b6zEGz35WiJI7YLIv5flVeiGgWBu0FACULldtg6g73vr5aCD33wjnPob2EUnmdxrcb4SzmDzNXrVT8SFa6htxcRgASqZDdRyXKPdjjGVaIJ7XbugVxBQTvp95fXPTgFG7bcpwqUALtdKHmL9PNMCD",
+              "received": false
+            }
+          ],
+          "total_price": 48244,
+          "delivery": {
+            "address": {
+              "country": "Germany",
+              "city": "Mock City ahuFBZsVQf",
+              "street": "MockStreetUbDBH4jxXvdT4",
+              "house": 59,
+              "flat": 2
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T12:54:35.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a63091c508c5d5ea7e0fb",
+          "products": [
+            {
+              "_id": "695a630a1c508c5d5ea7e172",
+              "name": "Computer25341",
+              "amount": 763,
+              "price": 48244,
+              "manufacturer": "Apple",
+              "notes": "eL8vNJfpbncBbgA9diKfe2lgXEmJ4Crfr5zmJFe6k7CtVilI6EdV6YerFjfa5wmKSRI1mQ3NP8aOnn44fm0BjGbz8BzsOieXDb6K9b6zEGz35WiJI7YLIv5flVeiGgWBu0FACULldtg6g73vr5aCD33wjnPob2EUnmdxrcb4SzmDzNXrVT8SFa6htxcRgASqZDdRyXKPdjjGVaIJ7XbugVxBQTvp95fXPTgFG7bcpwqUALtdKHmL9PNMCD",
+              "received": false
+            }
+          ],
+          "total_price": 48244,
+          "delivery": null,
+          "changedOn": "2026-01-04T12:54:35.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

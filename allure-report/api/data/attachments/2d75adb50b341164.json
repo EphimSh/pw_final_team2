@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-0UdYN81CnjqVRnitsXSaR9LC1BY\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro89412",
+      "amount": 460,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T12:56:32.000Z",
+      "notes": "s1WCq9tGriWfEPBP8RsD0L0JuD49cCRoHKUtmzy3jNJaZ1VUkRBFKqzyc2NQmphr5VXSZAl4d4phvR75szr40kKi8GxXjnIc60Tteg3plzyNlS3CmDp0N4G83zhv8SGITRSlwqjHN3WXMe8AH7X0I5J4tcErAemv5wsV84U8dNi8tTRICBkfssKIxgmPrusOtCyvCPCIHOFI3hoVRogk4JuMzdFgMKv8zHJYsZVRdeiOoKoL5fmnwtoV1z",
+      "_id": "695a63801c508c5d5ea803d8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

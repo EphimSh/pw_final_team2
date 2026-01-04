@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "370",
+    "etag": "W/\"172-5RDKFkjhJp+f/tZGBRKkSom1FAE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Carlos39@yahoo.com",
+      "name": "T",
+      "country": "Russia",
+      "city": "NEXJIrOtuKwSGY",
+      "street": "erUYPFmUEBkrFZvFx4k",
+      "house": 49,
+      "flat": 8,
+      "phone": "+1284237016",
+      "createdOn": "2026-01-04T12:54:38.000Z",
+      "notes": "bYXNbRpWW6nnAx0MQvYd2KBAODDJLZToELoyBHh8aa0YEgTqGvEUW0KKzSbGRC6zcNoohrm7L3ZiRlc3",
+      "_id": "695a630e1c508c5d5ea7e193"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

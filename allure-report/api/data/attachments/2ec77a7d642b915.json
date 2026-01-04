@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-/sSwVTVxZIRKpEfM6EndJuDXSbw\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt99034",
+      "amount": 696,
+      "price": 58738,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T12:55:36.000Z",
+      "notes": "aFZyEzuXrfCevJYKEvZ3FVS5exL0l1KxQHg8bSpkcW2XI77GwNSwSRTaQAX6A3zx7vG5NBijrBAV2HgcfFzase6o7fWCpkgQlUXCWtFtcNhUaBJKZSSr9p3WgG0DjYtou93Av1XKPIXJRPlg0N9EWjTH00542vwY3SBsxkOZhLRWmjSYDZ7CwPR3E4UeucUHtwbSb9s72BvNYDpZCRr9xGuIUlEmsRuAhKEmRFeXk0sJacVHSXqrDDuHbg",
+      "_id": "695a63481c508c5d5ea7f289"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

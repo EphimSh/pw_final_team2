@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-rkDDxp/K8Obv7MZjPQMOanQ7vSs\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X84201",
+      "amount": 748,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T12:56:27.000Z",
+      "notes": "Zeqcpk5iLChTnyWWPjeixYLCtam8B3zhRovdbItwykWJI7TfQRVS36ENzuW1YHo8p1RxrvqhWjS2CdI24uakL68rRfzjcvslsw8NXJRnSTArO4buM38lFwI2zsIUnyiJAM8BV5XaIpraHt6JLju3EXUzab5AifcEKKyARA7FWoahBHnDrGa4rKZTG67BjjufkgKE5v15us9VQlS9sfYfJrINeaSqEOZE19eAgURB3rXyztFiAFTmX2XZDs",
+      "_id": "695a637b1c508c5d5ea80315"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

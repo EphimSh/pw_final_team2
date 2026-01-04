@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "468",
+    "etag": "W/\"1d4-Ro5NcyPWaLLaF7cjcRLwS5MisKY\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Chaz_Gleichner@yahoo.com",
+      "name": "FkQGDaslmVGyyjYMdgdHYTyGVhHktizcBar",
+      "country": "Belarus",
+      "city": "JE",
+      "street": "2me3uQM9fQPFk6e1PJAXFQ9cw5W9i3GMlJhj",
+      "house": 88,
+      "flat": 6,
+      "phone": "+2586908532",
+      "createdOn": "2026-01-04T12:55:34.000Z",
+      "notes": "OrpDpPG3JAw9jnNCUxeJp2UMmlkUUEIX7lkxEdn4MJe2Ddkk3haIA9XOvdbEsLmsXjdhBLNggxSuxVZYTx2XLyIyM0ujWRdHekmBnm712rqZy38KMorOHixzFFeHwgGWYZjv",
+      "_id": "695a63461c508c5d5ea7f241"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

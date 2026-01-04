@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1841",
+    "etag": "W/\"731-U2E+RkUIt1LCiQajpMeswxsXBtw\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a630a1c508c5d5ea7e16a",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a63071c508c5d5ea7e0e9",
+        "email": "Harmon11@hotmail.com",
+        "name": "MayHiaAZNRinaZsLCtU",
+        "country": "Germany",
+        "city": "MianyQOoq",
+        "street": "Ep4TEX8CmTD3By2sW5M0tkW1mRBE",
+        "house": 175,
+        "flat": 4,
+        "phone": "+2568562504",
+        "createdOn": "2026-01-04T12:54:31.000Z",
+        "notes": "kUrHKIEH4U79ZiaCXhdN7loepasF5hnFpRb08QnQbCqaa1Qp4Fo9AHYi6rJVNBjcnzhmopTHf0zcZKCnUGlsDCCJPHRHGWlxGQK1HroITyuYDUUrlq4DCWS2EcsVU37f7WvWCj3DDORv9TBvkcTVabteLiaK1swyd1SytVK9ExNsde2HcDH3nVhJjwrMDgRyustwLI22M2M"
+      },
+      "products": [
+        {
+          "_id": "695a63091c508c5d5ea7e15a",
+          "name": "Chair49619",
+          "amount": 388,
+          "price": 5415,
+          "manufacturer": "Sony",
+          "notes": "yyprpqXIRHJfZP2rrBKvu2W7K3CA3YYEohxWiM8DdlDAR5j3UrvRGCMf5UnD1UTxUeSWn9AbVgfic97QEWQQK64IYN2JFwpIAfg25D7FP8h5YrGCQYrIPJeg8Hbv2MnwRIbt25bbSqEheUx2NHa4ncdWoj1S6s0LpVRLgIuxwqB3L2HpRxlZ7OMkk73s2WkSRMOkGbxYXuJ6cQ5VBKKa3f7Tsg4KGWBWC8j8p672llV0RwcSYbBHVxSREO",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 5415,
+      "createdOn": "2026-01-04T12:54:34.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a63071c508c5d5ea7e0e9",
+          "products": [
+            {
+              "_id": "695a63091c508c5d5ea7e15a",
+              "name": "Chair49619",
+              "amount": 388,
+              "price": 5415,
+              "manufacturer": "Sony",
+              "notes": "yyprpqXIRHJfZP2rrBKvu2W7K3CA3YYEohxWiM8DdlDAR5j3UrvRGCMf5UnD1UTxUeSWn9AbVgfic97QEWQQK64IYN2JFwpIAfg25D7FP8h5YrGCQYrIPJeg8Hbv2MnwRIbt25bbSqEheUx2NHa4ncdWoj1S6s0LpVRLgIuxwqB3L2HpRxlZ7OMkk73s2WkSRMOkGbxYXuJ6cQ5VBKKa3f7Tsg4KGWBWC8j8p672llV0RwcSYbBHVxSREO",
+              "received": false
+            }
+          ],
+          "total_price": 5415,
+          "delivery": null,
+          "changedOn": "2026-01-04T12:54:34.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

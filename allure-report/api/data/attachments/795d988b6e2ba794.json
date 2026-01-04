@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-9ohuBs9Kczm+yD/WMhof2LiLHrQ\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car99078",
+      "amount": 395,
+      "price": 29922,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T12:56:42.000Z",
+      "notes": "5IwovI2Fxb59h3VVXAg53HDAz3UzgV2tZP32l3WVJaKLySqYJNpToDUpkvKOfbXcgeKnV2R6LRT7ORZhul47ySpZYRIWvDhP5VNsDT0iK2aecuhoFKaW4UNDsIdku5FQZXDaGsACno0O0MtUmdkHERNCywfsh2PJSIUqbcMVhuIZIOfW2bFTNbq6xs6esgj0Mx30E9SOaJTcWj6crLb3hbLklWUcHF7JQklwIKLuo56g8TEwjuvnmHtTqr",
+      "_id": "695a638a1c508c5d5ea806bc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

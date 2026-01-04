@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "339",
+    "etag": "W/\"153-A7xod7ImxqNPTijTArx2xywEY8w\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Katharina.Hettinger@yahoo.com",
+      "name": "VdToSwBDvFQwJ",
+      "country": "USA",
+      "city": "dCj",
+      "street": "RaI7wuE2XpJoNHSwK5PWQ86NrADpE8wShB",
+      "house": 70,
+      "flat": 5,
+      "phone": "+1490923267",
+      "createdOn": "2026-01-04T12:55:37.000Z",
+      "notes": "ewc6i1ZkPYR4aMbNb27Y6A7QL",
+      "_id": "695a63491c508c5d5ea7f2f5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

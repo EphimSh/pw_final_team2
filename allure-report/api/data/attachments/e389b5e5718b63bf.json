@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-tKKL/k7PDA/WWgPcg67fC6Jp5Ao\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna18084",
+      "amount": 12,
+      "price": 63268,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T12:55:39.000Z",
+      "notes": "OiJvXrnnIh84dhv73ylRYToDEzVTbLAqrkcX5yLJINrwzjT1kjKpN8xXYuQ7SNqUySyEuOBnEiv0OUdzNEzUtKHnYAAMlTXxJZZDILTr3PvZwjDNl89OkCgLUSd07T3dakOhAYPSAoObZC0amSlrFr0oJaBHbVOkARhPskvEdJQdhppywehexdSgGPhswmmK8B9MsLMc9blQ8vpFDU64fned6Iva3uRtMTMjVwBzQeB5jZSthgikNcZS4q",
+      "_id": "695a634b1c508c5d5ea7f47b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

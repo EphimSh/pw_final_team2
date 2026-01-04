@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-V5jgrznwvAYhyCyzSYmvqHN4Dhk\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "695a637a1c508c5d5ea802fb",
+      "name": "Bike84436",
+      "amount": 770,
+      "price": 84799,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T12:56:26.000Z",
+      "notes": "DXJJ9ogIZdR1NnJvkvAFw9q2tVKkYTqjQhH440mZKsloVBFiJ23CHUwXDR85qmJ9ZUlFv3yzGRRk5OtaJiZj5kbbEdaoIhMapxfGieHEzuYRUVzat6VWKtASK0azx1fLOlDikRrMivD4behAf7aLbqOYpKekB3gcKdnscNiw8YwlZrvq5aTSwbnooYQUOmANkl1VLvkPWfJope1cSkJYCkauJWj82YKiXd8Od2ilKmObOO8UPVKzUdbSYv"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

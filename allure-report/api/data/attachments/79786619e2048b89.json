@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "437",
+    "etag": "W/\"1b5-dEz9qRuX/JQQeMUTRJSjPbWK0cg\"",
+    "keep-alive": "timeout=5, max=74",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Shawna_Hayes36@yahoo.com",
+      "name": "CyOdHmsfaBHecIZDWfJIDqGHuVrncDtMziehYxWf",
+      "country": "Belarus",
+      "city": "IGRVwdab",
+      "street": "yZMyX7zkezCoryrw5SI8ENuXbkwbl",
+      "house": 47,
+      "flat": 3,
+      "phone": "+8521768606",
+      "createdOn": "2026-01-04T12:54:50.000Z",
+      "notes": "NLlN19KpgTzGGKRBBn0tUHcO98ZCm8uTGQ0buOsd4HYUe8F9uBH5dHiJyYSe7i5b50kQgdkXWE2465ZwKo7NU8rth5NqQBWf3",
+      "_id": "695a631a1c508c5d5ea7e57e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

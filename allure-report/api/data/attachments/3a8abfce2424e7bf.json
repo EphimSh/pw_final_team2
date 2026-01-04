@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-YTUzhoYnEKb4Qm+QnPrK0+lSsMI\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips83551",
+      "amount": 992,
+      "price": 73697,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T12:53:58.000Z",
+      "notes": "JMF1qpLxikRF9qXNwyFI2rWfV5778yanVORMZxU1C9LLmjfZhjfKbHGkrIi2c0eMXvMXbPxwO5o6H1LZJ1n0JgVSMQBKD6T1GivWFJr9j87vZXTVijiwB2uhsTXbm2j60yfQoOg3ibUUkdagOeP9UjPGkgCMusQZ23NzWZWQ4zj29wByxi0BBN7Y5wbkcjLFP7jPSfParZfXcyBHApRF3Q9umAVpUXL1BSzNTAWd0oTRtjA9BZDDYoNsqI",
+      "_id": "695a62e61c508c5d5ea7d6bc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

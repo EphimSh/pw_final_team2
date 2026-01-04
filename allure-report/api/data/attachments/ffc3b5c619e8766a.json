@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-9HHyUF5pO/ooBE7KqaEmwixhqfg\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike87261",
+      "amount": 251,
+      "price": 68061,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T12:56:02.000Z",
+      "notes": "mod3aCJaeDVKxVqOal4uLedOUSqpuiqynDnyi0jXSnjJXmZGc5XkhqL0HbkGDtW3cnxvJvnVZOXwgf1wj8DqkwwKhp2P3CVvdrBTac4KgxpqHj0UcTLbOfeGDnFOc6rUkiXY1j5qdz1HPZoMaOmEugb2oyGAtqS57ejSBdsSQ3B31LbBmAFgol9W9ZWteMXTk2xTggTE6byh3z1FtofaJweccyzQEmB8utGtihwMkZcvvb8pZ0c3O87e0E",
+      "_id": "695a63621c508c5d5ea7faae"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

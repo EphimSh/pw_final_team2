@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "523",
+    "etag": "W/\"20b-pXOhhbQMSPoP5SoVqrFQeMtcOjA\"",
+    "keep-alive": "timeout=5, max=78",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Patrick.Ebert10@gmail.com",
+      "name": "ZMoUBxomDxXAaaQxzbPAFVLaDGfnafdXDFYP",
+      "country": "USA",
+      "city": "eokialnduIMs",
+      "street": "Kl",
+      "house": 179,
+      "flat": 4,
+      "phone": "+5312265162",
+      "createdOn": "2026-01-04T12:54:25.000Z",
+      "notes": "AwgXyQDS9bXTuIzUQV4JXjLDNUhSyJkzBujQPBRn36B9Iqk9tdpfUfvsXMN8tDnKgLcWahAqEeH1znWRGcydG1XT8gTOVxSYzFV10E0ilLQFatZkIxqp0oWZYFXMpEtLkXSG75aswjyPJoOw2lHss33Va4uGp5dqQ9C2m2rltPKp176hMac7wRZix5GGCSU2vt3RFFmN25YT1sSY8fe2",
+      "_id": "695a63011c508c5d5ea7deb0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

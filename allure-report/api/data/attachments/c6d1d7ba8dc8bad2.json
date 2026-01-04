@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-ypKbcEBrFvsGxhzPdpyqawBNE2E\"",
+    "keep-alive": "timeout=5, max=79",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "695a63991c508c5d5ea80f98",
+      "name": "Keyboard85960",
+      "amount": 704,
+      "price": 10000,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T12:56:57.000Z",
+      "notes": "dHweT4JP3NklTjsXB0JGx7X9EYFxULA6YjgHPxxgyrWZdbWjbnOEFHNkyqUXOBSjSO699uf2P2t6wgNlYUlGcD6Z7YAVJNiJEgQSgzs4OA7KeCyD7L0cHw8UK6AS5AdLMbPVUJnc79NUFG6Jax3dWCCsDJnBf0TpXTk5S9KLPkSp0zVlwjN3fAGhbuHzaRXtYHXDMtweYDjoXaMHFXyFYluRpa44jusHAcpgE0dYPoYAiSTwGToIDABInn"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

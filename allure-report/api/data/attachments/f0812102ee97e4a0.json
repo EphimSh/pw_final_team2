@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-I6J6s1/XRNS6DMix8Js/HeH/hGk\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna48067",
+      "amount": 99,
+      "price": 54866,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T12:54:48.000Z",
+      "notes": "kiKqRtw4BjwZVk7OHP9XJWOeXY0SGMCeG6r3UIM3I0jTKmlfLpz5WzzRjhKGn6H17556s5W5TIKIkhqBEO79XuqQBdNPIubNl7JQEQllkgdRr5oE4nzU8OBG0XX4DPIAEjFrQYtZsgJ29fBBc0btUonO0QV3WChItEyzs6rD4gwCxWv4ItFTnH4FaZwEhO8PsI1kkwVCqVSet76Rd5gyjmbVzKweHxJpjMZq5pSQvNg6L14lXkSBmL2aZj",
+      "_id": "695a63181c508c5d5ea7e50a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

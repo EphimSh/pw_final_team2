@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-TlRvXnvpiViQ9yRQChHcIXw8IIY\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike88977",
+      "amount": 202,
+      "price": 22125,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T12:54:27.000Z",
+      "notes": "omMvhHzA58PPWRZpCmA5LC8JHX3JABRrDd9rnkwMRMbV6TuWBpy7HFKB5Xskv72ubpQ1pyEXoOAE4XitIUVbam9mODfKXdlbATboyeyb48rNjQGm9sOV2m1GQa2wAa4A6KMlWaVfYxZ2VLx2U5JbZten9CKUbhN0g72rrqriLVRdQuIHeA2KQQnv80P9RHeaNem6JiQiAdT7RZgezcNrK9HgdLW0FJhpOWqvY61GRkwBp72TcCPVStix7H",
+      "_id": "695a63031c508c5d5ea7df37"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

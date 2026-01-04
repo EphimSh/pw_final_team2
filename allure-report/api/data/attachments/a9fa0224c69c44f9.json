@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2744",
+    "etag": "W/\"ab8-gJia6Mg6UM14D0UBApJL8CBAS2g\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a62e21c508c5d5ea7d55d",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a62e11c508c5d5ea7d51d",
+        "email": "Meta.Erdman@yahoo.com",
+        "name": "GC",
+        "country": "France",
+        "city": "IuwCssKbFBGwnh",
+        "street": "KEHqFXyK0CVyLxcw8He2R",
+        "house": 148,
+        "flat": 4,
+        "phone": "+8997603024",
+        "createdOn": "2026-01-04T12:53:53.000Z",
+        "notes": "QkbaSkPJHXwcflCOoUNWF6fpkJg4"
+      },
+      "products": [
+        {
+          "_id": "695a62e21c508c5d5ea7d552",
+          "name": "Soap41386",
+          "amount": 245,
+          "price": 74407,
+          "manufacturer": "Xiaomi",
+          "notes": "dmec9VeBVQDduL1u3j820WjaVBbcqczRHTwygztPK18rpGZgp8mAgmsS90cJ9hAhQJGPOc0P55QGPOO4zkoUDo6nFBgUdicQoV3uhENdJ0fVzVFI1L9halKPm8VCpnDEJPlxqdCdvcS9dpP4UOq7uVOppJVhyaDm4XJnz1zEw8jnxgBd2i9O1srwiweWNHcpBkp3xQmQGphm0gBgyPpNlg1GXbF5riufzvMjnVHwxVx5MnilMgdIV2OBNE",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Canada",
+          "city": "Mock City nwtQfazzLh",
+          "street": "MockStreetot4AB",
+          "house": 178,
+          "flat": 16
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 74407,
+      "createdOn": "2026-01-04T12:53:54.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a62e11c508c5d5ea7d51d",
+          "products": [
+            {
+              "_id": "695a62e21c508c5d5ea7d552",
+              "name": "Soap41386",
+              "amount": 245,
+              "price": 74407,
+              "manufacturer": "Xiaomi",
+              "notes": "dmec9VeBVQDduL1u3j820WjaVBbcqczRHTwygztPK18rpGZgp8mAgmsS90cJ9hAhQJGPOc0P55QGPOO4zkoUDo6nFBgUdicQoV3uhENdJ0fVzVFI1L9halKPm8VCpnDEJPlxqdCdvcS9dpP4UOq7uVOppJVhyaDm4XJnz1zEw8jnxgBd2i9O1srwiweWNHcpBkp3xQmQGphm0gBgyPpNlg1GXbF5riufzvMjnVHwxVx5MnilMgdIV2OBNE",
+              "received": false
+            }
+          ],
+          "total_price": 74407,
+          "delivery": {
+            "address": {
+              "country": "Canada",
+              "city": "Mock City nwtQfazzLh",
+              "street": "MockStreetot4AB",
+              "house": 178,
+              "flat": 16
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T12:53:55.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a62e11c508c5d5ea7d51d",
+          "products": [
+            {
+              "_id": "695a62e21c508c5d5ea7d552",
+              "name": "Soap41386",
+              "amount": 245,
+              "price": 74407,
+              "manufacturer": "Xiaomi",
+              "notes": "dmec9VeBVQDduL1u3j820WjaVBbcqczRHTwygztPK18rpGZgp8mAgmsS90cJ9hAhQJGPOc0P55QGPOO4zkoUDo6nFBgUdicQoV3uhENdJ0fVzVFI1L9halKPm8VCpnDEJPlxqdCdvcS9dpP4UOq7uVOppJVhyaDm4XJnz1zEw8jnxgBd2i9O1srwiweWNHcpBkp3xQmQGphm0gBgyPpNlg1GXbF5riufzvMjnVHwxVx5MnilMgdIV2OBNE",
+              "received": false
+            }
+          ],
+          "total_price": 74407,
+          "delivery": null,
+          "changedOn": "2026-01-04T12:53:54.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

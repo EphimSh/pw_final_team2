@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-urHwoa3znxpphOKwKIKrHd5xjQc\"",
+    "keep-alive": "timeout=5, max=56",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish56412",
+      "amount": 590,
+      "price": 46310,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T12:54:11.000Z",
+      "notes": "7UGl05i4tcQKrDnCV3ctAHT5rroVqvXQbQ0nUvxahajIgYkPN69KLtTWNKKTrWueYq6T4iDGhBwFNSc7PJXu1g7gK2HpZpPjCddlOkBgOh7BnnvT8Vskj7G83L4rM5IubCwalIuCu70LXJQSd1twMKC4NfEslErXaf0635tQE8W9xlL2WSG53CwQQzJ0XVRIywR4s5SJkeCeWiZzQ9mbOH25GugfqylPrhikvfp0axucQ0zz285VDtPVnt",
+      "_id": "695a62f31c508c5d5ea7da61"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

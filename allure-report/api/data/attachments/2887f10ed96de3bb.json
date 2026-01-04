@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-Wx5M21MFNet29nxUTdCTVOPon3Q\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants18566",
+      "amount": 710,
+      "price": 57028,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T12:56:11.000Z",
+      "notes": "wevEKGV1jLvZNohsfAYO1bxCkcIpqgydQKAKMjVRzJQslfRoxskg39rl8h2Y5T5QZD120UD4pFuzCvelCb0ExqIq8p4vAYDg8bcgEFqoaKagdwxZ4guRM95J2GTSZ40BxoWWGQm62cYUdTdtlnPPAXLei0cacIf2dyPQvWDo3c2wrUQ0JZ55v5q4N9DjoEZVvaz59G4ULTYlLRlpAqBnEpI7sl1G2zNVkw9KeVvkvaNcBWOtCtWMSXwCWz",
+      "_id": "695a636b1c508c5d5ea7fee3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

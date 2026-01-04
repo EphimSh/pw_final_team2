@@ -1,0 +1,173 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3828",
+    "etag": "W/\"ef4-1xQpwmvXCgI9KNnne5i7+uliqPg\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a63371c508c5d5ea7ee79",
+      "status": "In Process",
+      "customer": {
+        "_id": "695a63351c508c5d5ea7eda7",
+        "email": "Ebony.Mueller@gmail.com",
+        "name": "MTd",
+        "country": "USA",
+        "city": "TRBkuNh",
+        "street": "hu1PPIzkjhD32eFepN9OXp",
+        "house": 100,
+        "flat": 4,
+        "phone": "+7733403879",
+        "createdOn": "2026-01-04T12:55:17.000Z",
+        "notes": "G20zlWX76PVhF01ztkktUHtfiG3e7xVb9dYPj2pNI8CnbftoqUgtwrOBHJ5LhmyasStDaXRet1cunjx8uBU1kWVDJ0Z3jcRrJJZmcD7ELSYqmN3g7EPjVRPUX6B2D8gPdGo05"
+      },
+      "products": [
+        {
+          "_id": "695a63361c508c5d5ea7ee67",
+          "name": "Keyboard18296",
+          "amount": 860,
+          "price": 9424,
+          "manufacturer": "Microsoft",
+          "notes": "vcAgTvNNprgqNcxwgttCvIEVLwjmyQQPREm37G2Pxq0pOGHrqz21BhzacuPqLBQnWncoyPpUZ65nqIBSna6ZlGCoMaAbfx1n3zfobiEU1MlNo8Tco36Q1mFEd2JIRcAaW7rcai7NVVRFeBYij5Av8wijOUCuGRa4Ptr6jjrPLmTAtpkoFtspIcXcC5jFusRdQtjwx5jjCciJo7eBljQ7demD01oLQbemYCX2OWeLsDYcS0N7k3qDXzDLql",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Canada",
+          "city": "Mock City qPIIbNI",
+          "street": "MockStreetzKSsJYxiEBG6I1sxFUU",
+          "house": 78,
+          "flat": 2
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 9424,
+      "createdOn": "2026-01-04T12:55:19.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "In Process",
+          "customer": "695a63351c508c5d5ea7eda7",
+          "products": [
+            {
+              "_id": "695a63361c508c5d5ea7ee67",
+              "name": "Keyboard18296",
+              "amount": 860,
+              "price": 9424,
+              "manufacturer": "Microsoft",
+              "notes": "vcAgTvNNprgqNcxwgttCvIEVLwjmyQQPREm37G2Pxq0pOGHrqz21BhzacuPqLBQnWncoyPpUZ65nqIBSna6ZlGCoMaAbfx1n3zfobiEU1MlNo8Tco36Q1mFEd2JIRcAaW7rcai7NVVRFeBYij5Av8wijOUCuGRa4Ptr6jjrPLmTAtpkoFtspIcXcC5jFusRdQtjwx5jjCciJo7eBljQ7demD01oLQbemYCX2OWeLsDYcS0N7k3qDXzDLql",
+              "received": false
+            }
+          ],
+          "total_price": 9424,
+          "delivery": {
+            "address": {
+              "country": "Canada",
+              "city": "Mock City qPIIbNI",
+              "street": "MockStreetzKSsJYxiEBG6I1sxFUU",
+              "house": 78,
+              "flat": 2
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T12:55:19.000Z",
+          "action": "Order processing started",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a63351c508c5d5ea7eda7",
+          "products": [
+            {
+              "_id": "695a63361c508c5d5ea7ee67",
+              "name": "Keyboard18296",
+              "amount": 860,
+              "price": 9424,
+              "manufacturer": "Microsoft",
+              "notes": "vcAgTvNNprgqNcxwgttCvIEVLwjmyQQPREm37G2Pxq0pOGHrqz21BhzacuPqLBQnWncoyPpUZ65nqIBSna6ZlGCoMaAbfx1n3zfobiEU1MlNo8Tco36Q1mFEd2JIRcAaW7rcai7NVVRFeBYij5Av8wijOUCuGRa4Ptr6jjrPLmTAtpkoFtspIcXcC5jFusRdQtjwx5jjCciJo7eBljQ7demD01oLQbemYCX2OWeLsDYcS0N7k3qDXzDLql",
+              "received": false
+            }
+          ],
+          "total_price": 9424,
+          "delivery": {
+            "address": {
+              "country": "Canada",
+              "city": "Mock City qPIIbNI",
+              "street": "MockStreetzKSsJYxiEBG6I1sxFUU",
+              "house": 78,
+              "flat": 2
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T12:55:19.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a63351c508c5d5ea7eda7",
+          "products": [
+            {
+              "_id": "695a63361c508c5d5ea7ee67",
+              "name": "Keyboard18296",
+              "amount": 860,
+              "price": 9424,
+              "manufacturer": "Microsoft",
+              "notes": "vcAgTvNNprgqNcxwgttCvIEVLwjmyQQPREm37G2Pxq0pOGHrqz21BhzacuPqLBQnWncoyPpUZ65nqIBSna6ZlGCoMaAbfx1n3zfobiEU1MlNo8Tco36Q1mFEd2JIRcAaW7rcai7NVVRFeBYij5Av8wijOUCuGRa4Ptr6jjrPLmTAtpkoFtspIcXcC5jFusRdQtjwx5jjCciJo7eBljQ7demD01oLQbemYCX2OWeLsDYcS0N7k3qDXzDLql",
+              "received": false
+            }
+          ],
+          "total_price": 9424,
+          "delivery": null,
+          "changedOn": "2026-01-04T12:55:19.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

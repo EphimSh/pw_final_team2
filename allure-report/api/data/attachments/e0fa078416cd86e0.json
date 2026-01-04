@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2949",
+    "etag": "W/\"b85-IJe61KMs6FtW98OoY+oeUxEKVdc\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a63391c508c5d5ea7ef0d",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a63371c508c5d5ea7ee7c",
+        "email": "Tom_Gulgowski-Von@hotmail.com",
+        "name": "kzOGF",
+        "country": "Great Britain",
+        "city": "DxnZsEeEZDib",
+        "street": "tGwqYM4grqwg74N8Fbp",
+        "house": 78,
+        "flat": 9,
+        "phone": "+5568992272",
+        "createdOn": "2026-01-04T12:55:19.000Z",
+        "notes": "xN96OSwt8Kyi56KDC71SLZsK0bFzaL4BJKu7bYcXh39ygAYOIffJIs1pX8XlSrxvG3gJbyI22qfJW0XtMrg5ew7Saz9a3zGhXH7KNsASpnCJouZ2q9ztH2K5hLxbHhKV3UrNBXfHBZVwmQogZjQVrQ9jbaUlVzciyctYZ39fkxxkduh0myyZ1agaj5bIGrt3VM2CqwRANiB6BsWa"
+      },
+      "products": [
+        {
+          "_id": "695a63381c508c5d5ea7ef02",
+          "name": "Towels86142",
+          "amount": 725,
+          "price": 71707,
+          "manufacturer": "Amazon",
+          "notes": "1Sl7Yrf7ZF4pkf7OE20aXuAXg7AE3KxmRhL0pbeSXRrD2dp9Xfbzn5NH1frJ1M7X0iiESMOdqOjLlIITrWTgNmmQ1iCU4U9Xbm3SuwiRksdZNBS3ofyrYC3vDC0CsgGzhLa5BC2dHXC1H37OkQKoiUZX9iQXT5752DfVTJN0o1iWSxAFBR78cUlTliu5t9sSCXd9dA3MjoEtjYCn3vkZmF530xkSe0pFb0KMFv98jH1F9I8VdAia2C3r2s",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Ukraine",
+          "city": "Mock City IkV",
+          "street": "MockStreetn5zw7l59TUeeOm",
+          "house": 109,
+          "flat": 15
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 71707,
+      "createdOn": "2026-01-04T12:55:21.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a63371c508c5d5ea7ee7c",
+          "products": [
+            {
+              "_id": "695a63381c508c5d5ea7ef02",
+              "name": "Towels86142",
+              "amount": 725,
+              "price": 71707,
+              "manufacturer": "Amazon",
+              "notes": "1Sl7Yrf7ZF4pkf7OE20aXuAXg7AE3KxmRhL0pbeSXRrD2dp9Xfbzn5NH1frJ1M7X0iiESMOdqOjLlIITrWTgNmmQ1iCU4U9Xbm3SuwiRksdZNBS3ofyrYC3vDC0CsgGzhLa5BC2dHXC1H37OkQKoiUZX9iQXT5752DfVTJN0o1iWSxAFBR78cUlTliu5t9sSCXd9dA3MjoEtjYCn3vkZmF530xkSe0pFb0KMFv98jH1F9I8VdAia2C3r2s",
+              "received": false
+            }
+          ],
+          "total_price": 71707,
+          "delivery": {
+            "address": {
+              "country": "Ukraine",
+              "city": "Mock City IkV",
+              "street": "MockStreetn5zw7l59TUeeOm",
+              "house": 109,
+              "flat": 15
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T12:55:21.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a63371c508c5d5ea7ee7c",
+          "products": [
+            {
+              "_id": "695a63381c508c5d5ea7ef02",
+              "name": "Towels86142",
+              "amount": 725,
+              "price": 71707,
+              "manufacturer": "Amazon",
+              "notes": "1Sl7Yrf7ZF4pkf7OE20aXuAXg7AE3KxmRhL0pbeSXRrD2dp9Xfbzn5NH1frJ1M7X0iiESMOdqOjLlIITrWTgNmmQ1iCU4U9Xbm3SuwiRksdZNBS3ofyrYC3vDC0CsgGzhLa5BC2dHXC1H37OkQKoiUZX9iQXT5752DfVTJN0o1iWSxAFBR78cUlTliu5t9sSCXd9dA3MjoEtjYCn3vkZmF530xkSe0pFb0KMFv98jH1F9I8VdAia2C3r2s",
+              "received": false
+            }
+          ],
+          "total_price": 71707,
+          "delivery": null,
+          "changedOn": "2026-01-04T12:55:21.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

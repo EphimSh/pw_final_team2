@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-Urdjnir4z3GZjlT4vHTaB2yH5O4\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car85982",
+      "amount": 791,
+      "price": 39500,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T12:54:42.000Z",
+      "notes": "RemzAD45IKsfXoOIcRQvy1GyepkkV829yFAzJZreQe9NMO8w8jrQmi83vf9xghJ2YwNpgl7imCAkRrZKAvKt6Odua6cd1CFa0GGD4dk9RaXdzB7j7Qolh8a2DVc5RgeilDM0pd3FVJrgqP3yjQacGtdsY1uTsTVgeWzx0JUEG9ElyUNOnxJD75Zihs1Uzo35SDFGH6q1gJWs1Hse6cKBkYNRCX1Drvr8BGS9EBFjYfp3DeDFQE5ZBxKg3D",
+      "_id": "695a63121c508c5d5ea7e322"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "383",
+    "etag": "W/\"17f-kGvTfCFVGg7xn77TMpTXWb5cohw\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Antonio.Goyette@yahoo.com",
+      "name": "RZZSjwaMKJo",
+      "country": "France",
+      "city": "cQbfRFpjbILSqmGnkYW",
+      "street": "2JoVGMKF74iXc6MQ2gIC6BF8g0Z5",
+      "house": 31,
+      "flat": 9,
+      "phone": "+2764730395",
+      "createdOn": "2026-01-04T12:55:24.000Z",
+      "notes": "5HrubQ6R1sbPSvUfQauprhaRe53HhLKdaVvWZ7JE2Q2XFrrO9dTqPWie2EdxwS",
+      "_id": "695a633c1c508c5d5ea7f00e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

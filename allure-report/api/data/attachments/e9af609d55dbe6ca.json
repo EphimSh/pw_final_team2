@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "344",
+    "etag": "W/\"158-ye/wMtOBj1WzNM6Eg6L3SI2FRTU\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Catherine_Volkman-Koelpin46@gmail.com",
+      "name": "TxmLPayrInwmneuUdIVFBBIyVbcJuYbZc",
+      "country": "Belarus",
+      "city": "txXipDbH",
+      "street": "456i62OAEMfa",
+      "house": 115,
+      "flat": 3,
+      "phone": "+6413995991",
+      "createdOn": "2026-01-04T12:54:39.000Z",
+      "notes": "T5Smz1pkeZaO1y",
+      "_id": "695a630f1c508c5d5ea7e1ec"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

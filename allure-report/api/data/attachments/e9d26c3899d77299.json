@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-hB70nqYjeleHZ12ol5aQpz1vutI\"",
+    "keep-alive": "timeout=5, max=68",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair78877",
+      "amount": 999,
+      "price": 99782,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T12:56:11.000Z",
+      "notes": "pooPypx57ADnURE8WN5lb4NlmLVKCLWPkpc1eegSe6PqyfBElozsnyfYpxYUW5HUJDF10F5w9dHUQHU197Yohyhi4bOxk7KlkGWsmmfnUQxBuSGtsswnmgJjulEcgzeWYSCHQBm3iqk2oelkUbmI4V9CHP46PWEOuemXjRvhSyK4QA2xMiZV5kXSQRFzYMtLvucHFiEyYCLyEWNKa9eqeM8Mc1WhxoACMAGcLOt3vEwT6YQxeEsR8Euz5e",
+      "_id": "695a636b1c508c5d5ea7fee1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

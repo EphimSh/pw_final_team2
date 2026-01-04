@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "521",
+    "etag": "W/\"209-sf87jrY8tUOLnSYukOufQTuMJSw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Marcia_Emmerich15@gmail.com",
+      "name": "jwSrRGJjAslZAVT",
+      "country": "France",
+      "city": "jPsirQhhzZAWReaM",
+      "street": "I1Ev28Xz67OnuECYXjfP0R9J2Ol94eOLwOpziNTF",
+      "house": 91,
+      "flat": 2,
+      "phone": "+6839481941",
+      "createdOn": "2026-01-04T12:54:10.000Z",
+      "notes": "00zcomP1IgGXb2fg0ouMSj3a8LawgRu0YUCIknDrK8DdMfvaj3VskWkFRV7BT8GqoOcdQJTI4sn9P8Q6nJ9DlDfcej4SxhPFrJO9KCqdv8eZggNDTLSsEjmKsumIOdVFDQCxf6HsxLTjPBPvj7BQCaA8sQHNjc1rTjV7y4v6o7edbF2emaMTNHX8D",
+      "_id": "695a62f21c508c5d5ea7da39"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

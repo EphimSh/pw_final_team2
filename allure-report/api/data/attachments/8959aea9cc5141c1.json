@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-WUz7dAoilGBeFLcMNA9aWQSxGR4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse697",
+      "amount": 707,
+      "price": 82655,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T12:56:24.000Z",
+      "notes": "veAqqnTucYSXBpt12w0dd06BJRyGt8qqUMtO8VKVjYc9e8PTRxZQvLyBZXyI5rpp10lmva3yYPOVmxMliXytV1Jk7mswS1EDEh9ZJinXyrFZQcDb5aMkIfDYHSp2axqNSuzTWAtdTF8dov8Cb43lGGgHN3vwOV710cStP9msyDJWEhjqg2dR7li3nqSO4YPXPADVBTrBK8oDAMbCtM9ijEZsAHtCn9Kl6n1Jbv1AzrxS6ceDglF7nQaN5m",
+      "_id": "695a63781c508c5d5ea8027c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

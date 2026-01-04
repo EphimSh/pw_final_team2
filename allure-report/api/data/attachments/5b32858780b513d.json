@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "449",
+    "etag": "W/\"1c1-CDqYLZY+U908gKaRuxp5QCJKICc\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza57972",
+      "amount": 34,
+      "price": 1,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T12:56:07.000Z",
+      "notes": "wWBTACsBczX6lJ8EGrUDWcO5ibdeQnCQf6vLSQufcrN5Z0dUUVak7kmis4mj4raIJ4tvoLiVjmktDSiNLQkBM7i0nmIpwZ57SsCp0TiibycSomWJbxSLSVPwH11pNrOKpKIZEgqcKtOsSxPw2XNXFhW2rFN0u3gTTks2fNnTO7VQCNpRv7m6uoaiiy73FB6hmkrUSzZ4JcNwKQ4O2pyjBpFgCb5czZZXV9b2pXu8QYup7DU2p53Dk8pzkJ",
+      "_id": "695a63671c508c5d5ea7fc87"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

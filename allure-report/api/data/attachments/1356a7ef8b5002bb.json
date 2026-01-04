@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "464",
+    "etag": "W/\"1d0-DkiyqI2gTsxXXzLu2iM3AlpXVOY\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Joana73@hotmail.com",
+      "name": "eMMNNdJDGobgrpbgNTRaXsMyiYGvIbbbTgJKPr",
+      "country": "France",
+      "city": "rjeDltLDcAlB",
+      "street": "OWOz7QlHIsyB2wuZco",
+      "house": 195,
+      "flat": 9,
+      "phone": "+0693228571",
+      "createdOn": "2026-01-04T12:55:26.000Z",
+      "notes": "9EDiQZPvMmXjKpm4Cl2mvspsRNWYAVxvV2UVSrK02myRWIhdtPikAktu91BaJzoWXvHQlsudZW6sBJCBIJR47Dv4TqaO76hdnI4G6U2ZqzW4hN5oxhZVm8NPnqpNxvE7dtS4cmFdMc",
+      "_id": "695a633e1c508c5d5ea7f0eb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

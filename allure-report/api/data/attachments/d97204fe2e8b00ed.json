@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1727",
+    "etag": "W/\"6bf-lTnhsv5LDOnvyDfhR3pF7dv0KvM\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a63301c508c5d5ea7ec44",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a632e1c508c5d5ea7eb9d",
+        "email": "Damian_Kilback@yahoo.com",
+        "name": "msguWEKpwEZwIxzsWm",
+        "country": "France",
+        "city": "Nvtnsc",
+        "street": "YiJBhaKHh0AROXAn",
+        "house": 43,
+        "flat": 4,
+        "phone": "+4221525152",
+        "createdOn": "2026-01-04T12:55:10.000Z",
+        "notes": "3f97xGSbVDqVN5sGdHjgbbif6JwFKoCp52uOXy8ipGmHFekpaHUFtVcQY06T1GzzShFtMt1Nk55nw10JgWDb9hLxt7BgGKkA8"
+      },
+      "products": [
+        {
+          "_id": "695a632f1c508c5d5ea7ec33",
+          "name": "Towels17311",
+          "amount": 424,
+          "price": 9467,
+          "manufacturer": "Xiaomi",
+          "notes": "6JJeus1ckIejAPqeuC0IzednFi4FCohC3JmpdfkfI8oZsHawrJcWHJveYFKinlEceZBiCOATOawfQkQWFMpf2LH3P2IJCkijGwKPd60R6CghXCOdedjeeB5Irfdo0OnZiMs8u1nShmAzR7lNmnoAN7lCPgE0jIl5YQSmv483cBTM8yapWOmjNtaOKWYBIt1hHCCgGtPAlROlX024hlhSMkvN7iH8KFWQXHyo2q7GJJmvDasazDmkSdW0uw",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 9467,
+      "createdOn": "2026-01-04T12:55:12.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a632e1c508c5d5ea7eb9d",
+          "products": [
+            {
+              "_id": "695a632f1c508c5d5ea7ec33",
+              "name": "Towels17311",
+              "amount": 424,
+              "price": 9467,
+              "manufacturer": "Xiaomi",
+              "notes": "6JJeus1ckIejAPqeuC0IzednFi4FCohC3JmpdfkfI8oZsHawrJcWHJveYFKinlEceZBiCOATOawfQkQWFMpf2LH3P2IJCkijGwKPd60R6CghXCOdedjeeB5Irfdo0OnZiMs8u1nShmAzR7lNmnoAN7lCPgE0jIl5YQSmv483cBTM8yapWOmjNtaOKWYBIt1hHCCgGtPAlROlX024hlhSMkvN7iH8KFWQXHyo2q7GJJmvDasazDmkSdW0uw",
+              "received": false
+            }
+          ],
+          "total_price": 9467,
+          "delivery": null,
+          "changedOn": "2026-01-04T12:55:12.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-9KU5qL3Y0zI3hxe4usFf5SAgeg4\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad84135",
+      "amount": 810,
+      "price": 66435,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T12:56:00.000Z",
+      "notes": "jH6V0jbYO235gcGVTGyGOJoZ0CGntoAnOKYvt4xCsaErZPd2zweivQHetOB00QfFosi5vRJRPlp8bvu7e7nMnWfXphGY9Fi53ebjc3UmM4klTnyjxvE5ajrjGvkqF3hUfet9ubokSj7skS6z0UR0Q50im31ycMNzC2OwqjACAwWgfozF9eaTll3bsbwm0aO8gGStpxpGPmcSzxy6mxwpt8KjQWxboRr3p5yQxXtWC2NzJ1ojcjK5TVoLD2",
+      "_id": "695a63601c508c5d5ea7f9cf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

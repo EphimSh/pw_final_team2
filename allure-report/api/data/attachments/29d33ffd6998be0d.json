@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "445",
+    "etag": "W/\"1bd-z0t9YfU5Zoz8ycGOFe9A+YDWLXA\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Zelma_Ryan@gmail.com",
+      "name": "XgUbcNhFzMAuZsapFp",
+      "country": "Belarus",
+      "city": "poWwHLmjQb",
+      "street": "1BeIVzdY37PgPM58xplCRvHAVNx6o0WU",
+      "house": 161,
+      "flat": 2,
+      "phone": "+3774118400",
+      "createdOn": "2026-01-04T12:54:19.000Z",
+      "notes": "L6IZga3xGgpr2ZI1sgvp691CmiC9AqVHEybuisXPGYgN85zf45bDqgd5cdyJYNjFNfNZCXj067Hdu4tiTBLw0MjlGAfN7ksCDvsknRDSy6CUTAg4L7OsoUMD8dnJx",
+      "_id": "695a62fb1c508c5d5ea7dd49"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

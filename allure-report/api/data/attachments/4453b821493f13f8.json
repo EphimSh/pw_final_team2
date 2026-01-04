@@ -1,0 +1,258 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "6707",
+    "etag": "W/\"1a33-wN06+Bcw7Y1n+k8QaYRtzELyM3U\"",
+    "keep-alive": "timeout=5, max=79",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a63641c508c5d5ea7fb6b",
+      "status": "Received",
+      "customer": {
+        "_id": "695a63611c508c5d5ea7fa35",
+        "email": "Maverick_Rowe@yahoo.com",
+        "name": "wZzUFYLYYDNsJsqmi",
+        "country": "Belarus",
+        "city": "SaSHlC",
+        "street": "NpbeMAh0fG0Hjcn5LInBovRmAVOxBMh2ddhcAY",
+        "house": 104,
+        "flat": 2,
+        "phone": "+8516975235",
+        "createdOn": "2026-01-04T12:56:01.000Z",
+        "notes": "9IIDPzNJgm4nHkbSPJlcLWyEKjXhThwxgrVtECACrVlZXhPliSc0GTPGa8NpZhZbNvllH7qmnPe2kBEKwvi5udDAsd9KuMDewbQ66bseV4lKi5w3pFYJpuGxfvfQhZfIDMppQF0F1rft9RTlsHVtafz0XkSR5LaowoC4eo7m2Aa0iP"
+      },
+      "products": [
+        {
+          "_id": "695a63621c508c5d5ea7faae",
+          "name": "Bike87261",
+          "amount": 251,
+          "price": 68061,
+          "manufacturer": "Xiaomi",
+          "notes": "mod3aCJaeDVKxVqOal4uLedOUSqpuiqynDnyi0jXSnjJXmZGc5XkhqL0HbkGDtW3cnxvJvnVZOXwgf1wj8DqkwwKhp2P3CVvdrBTac4KgxpqHj0UcTLbOfeGDnFOc6rUkiXY1j5qdz1HPZoMaOmEugb2oyGAtqS57ejSBdsSQ3B31LbBmAFgol9W9ZWteMXTk2xTggTE6byh3z1FtofaJweccyzQEmB8utGtihwMkZcvvb8pZ0c3O87e0E",
+          "received": true
+        },
+        {
+          "_id": "695a63641c508c5d5ea7fafe",
+          "name": "Towels47784",
+          "amount": 92,
+          "price": 98852,
+          "manufacturer": "Samsung",
+          "notes": "UkrGW9IX1qMmnJl7yPYTehHElq9re91t8FIzYgnf4FDbiOrzFJYhDZBBwZdT1FWaueIbBkWJwYh2ys7iq38wl1dNqbNyXB1R8FA3WJPKEzlF8hUgtJMGoWm6CFG6s6PHhSY8CbSc1Rh4gRloCPrNHUvgb3oZpVOgGMugit1QrTnYGBDDWJeuBjdqcuM5ha5lCpOVxsDxxH96Q1FZ0nUPdrKsB2XGVftqf3qr3UhnGBKRKXiUltlJwgUchT",
+          "received": true
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Canada",
+          "city": "Mock City v",
+          "street": "MockStreetdykcxQC0bixb1p9",
+          "house": 130,
+          "flat": 6
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 166913,
+      "createdOn": "2026-01-04T12:56:04.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Received",
+          "customer": "695a63611c508c5d5ea7fa35",
+          "products": [
+            {
+              "_id": "695a63621c508c5d5ea7faae",
+              "name": "Bike87261",
+              "amount": 251,
+              "price": 68061,
+              "manufacturer": "Xiaomi",
+              "notes": "mod3aCJaeDVKxVqOal4uLedOUSqpuiqynDnyi0jXSnjJXmZGc5XkhqL0HbkGDtW3cnxvJvnVZOXwgf1wj8DqkwwKhp2P3CVvdrBTac4KgxpqHj0UcTLbOfeGDnFOc6rUkiXY1j5qdz1HPZoMaOmEugb2oyGAtqS57ejSBdsSQ3B31LbBmAFgol9W9ZWteMXTk2xTggTE6byh3z1FtofaJweccyzQEmB8utGtihwMkZcvvb8pZ0c3O87e0E",
+              "received": true
+            },
+            {
+              "_id": "695a63641c508c5d5ea7fafe",
+              "name": "Towels47784",
+              "amount": 92,
+              "price": 98852,
+              "manufacturer": "Samsung",
+              "notes": "UkrGW9IX1qMmnJl7yPYTehHElq9re91t8FIzYgnf4FDbiOrzFJYhDZBBwZdT1FWaueIbBkWJwYh2ys7iq38wl1dNqbNyXB1R8FA3WJPKEzlF8hUgtJMGoWm6CFG6s6PHhSY8CbSc1Rh4gRloCPrNHUvgb3oZpVOgGMugit1QrTnYGBDDWJeuBjdqcuM5ha5lCpOVxsDxxH96Q1FZ0nUPdrKsB2XGVftqf3qr3UhnGBKRKXiUltlJwgUchT",
+              "received": true
+            }
+          ],
+          "total_price": 166913,
+          "delivery": {
+            "address": {
+              "country": "Canada",
+              "city": "Mock City v",
+              "street": "MockStreetdykcxQC0bixb1p9",
+              "house": 130,
+              "flat": 6
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T12:56:07.000Z",
+          "action": "All products received",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "In Process",
+          "customer": "695a63611c508c5d5ea7fa35",
+          "products": [
+            {
+              "_id": "695a63621c508c5d5ea7faae",
+              "name": "Bike87261",
+              "amount": 251,
+              "price": 68061,
+              "manufacturer": "Xiaomi",
+              "notes": "mod3aCJaeDVKxVqOal4uLedOUSqpuiqynDnyi0jXSnjJXmZGc5XkhqL0HbkGDtW3cnxvJvnVZOXwgf1wj8DqkwwKhp2P3CVvdrBTac4KgxpqHj0UcTLbOfeGDnFOc6rUkiXY1j5qdz1HPZoMaOmEugb2oyGAtqS57ejSBdsSQ3B31LbBmAFgol9W9ZWteMXTk2xTggTE6byh3z1FtofaJweccyzQEmB8utGtihwMkZcvvb8pZ0c3O87e0E",
+              "received": false
+            },
+            {
+              "_id": "695a63641c508c5d5ea7fafe",
+              "name": "Towels47784",
+              "amount": 92,
+              "price": 98852,
+              "manufacturer": "Samsung",
+              "notes": "UkrGW9IX1qMmnJl7yPYTehHElq9re91t8FIzYgnf4FDbiOrzFJYhDZBBwZdT1FWaueIbBkWJwYh2ys7iq38wl1dNqbNyXB1R8FA3WJPKEzlF8hUgtJMGoWm6CFG6s6PHhSY8CbSc1Rh4gRloCPrNHUvgb3oZpVOgGMugit1QrTnYGBDDWJeuBjdqcuM5ha5lCpOVxsDxxH96Q1FZ0nUPdrKsB2XGVftqf3qr3UhnGBKRKXiUltlJwgUchT",
+              "received": false
+            }
+          ],
+          "total_price": 166913,
+          "delivery": {
+            "address": {
+              "country": "Canada",
+              "city": "Mock City v",
+              "street": "MockStreetdykcxQC0bixb1p9",
+              "house": 130,
+              "flat": 6
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T12:56:06.000Z",
+          "action": "Order processing started",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a63611c508c5d5ea7fa35",
+          "products": [
+            {
+              "_id": "695a63621c508c5d5ea7faae",
+              "name": "Bike87261",
+              "amount": 251,
+              "price": 68061,
+              "manufacturer": "Xiaomi",
+              "notes": "mod3aCJaeDVKxVqOal4uLedOUSqpuiqynDnyi0jXSnjJXmZGc5XkhqL0HbkGDtW3cnxvJvnVZOXwgf1wj8DqkwwKhp2P3CVvdrBTac4KgxpqHj0UcTLbOfeGDnFOc6rUkiXY1j5qdz1HPZoMaOmEugb2oyGAtqS57ejSBdsSQ3B31LbBmAFgol9W9ZWteMXTk2xTggTE6byh3z1FtofaJweccyzQEmB8utGtihwMkZcvvb8pZ0c3O87e0E",
+              "received": false
+            },
+            {
+              "_id": "695a63641c508c5d5ea7fafe",
+              "name": "Towels47784",
+              "amount": 92,
+              "price": 98852,
+              "manufacturer": "Samsung",
+              "notes": "UkrGW9IX1qMmnJl7yPYTehHElq9re91t8FIzYgnf4FDbiOrzFJYhDZBBwZdT1FWaueIbBkWJwYh2ys7iq38wl1dNqbNyXB1R8FA3WJPKEzlF8hUgtJMGoWm6CFG6s6PHhSY8CbSc1Rh4gRloCPrNHUvgb3oZpVOgGMugit1QrTnYGBDDWJeuBjdqcuM5ha5lCpOVxsDxxH96Q1FZ0nUPdrKsB2XGVftqf3qr3UhnGBKRKXiUltlJwgUchT",
+              "received": false
+            }
+          ],
+          "total_price": 166913,
+          "delivery": {
+            "address": {
+              "country": "Canada",
+              "city": "Mock City v",
+              "street": "MockStreetdykcxQC0bixb1p9",
+              "house": 130,
+              "flat": 6
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T12:56:05.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a63611c508c5d5ea7fa35",
+          "products": [
+            {
+              "_id": "695a63621c508c5d5ea7faae",
+              "name": "Bike87261",
+              "amount": 251,
+              "price": 68061,
+              "manufacturer": "Xiaomi",
+              "notes": "mod3aCJaeDVKxVqOal4uLedOUSqpuiqynDnyi0jXSnjJXmZGc5XkhqL0HbkGDtW3cnxvJvnVZOXwgf1wj8DqkwwKhp2P3CVvdrBTac4KgxpqHj0UcTLbOfeGDnFOc6rUkiXY1j5qdz1HPZoMaOmEugb2oyGAtqS57ejSBdsSQ3B31LbBmAFgol9W9ZWteMXTk2xTggTE6byh3z1FtofaJweccyzQEmB8utGtihwMkZcvvb8pZ0c3O87e0E",
+              "received": false
+            },
+            {
+              "_id": "695a63641c508c5d5ea7fafe",
+              "name": "Towels47784",
+              "amount": 92,
+              "price": 98852,
+              "manufacturer": "Samsung",
+              "notes": "UkrGW9IX1qMmnJl7yPYTehHElq9re91t8FIzYgnf4FDbiOrzFJYhDZBBwZdT1FWaueIbBkWJwYh2ys7iq38wl1dNqbNyXB1R8FA3WJPKEzlF8hUgtJMGoWm6CFG6s6PHhSY8CbSc1Rh4gRloCPrNHUvgb3oZpVOgGMugit1QrTnYGBDDWJeuBjdqcuM5ha5lCpOVxsDxxH96Q1FZ0nUPdrKsB2XGVftqf3qr3UhnGBKRKXiUltlJwgUchT",
+              "received": false
+            }
+          ],
+          "total_price": 166913,
+          "delivery": null,
+          "changedOn": "2026-01-04T12:56:04.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

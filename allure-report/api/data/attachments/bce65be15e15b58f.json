@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-oIbmK5cUhCBpvEJIsVXdH+LSZlg\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike65955",
+      "amount": 139,
+      "price": 68188,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T12:54:40.000Z",
+      "notes": "Arimx5yAm3O9IfhJHW5lr2451cxk22IWiueGlCCNTobh55FE4Z5RqhotDFDjXRX4ZESYLpPZvfKrcsc6fbcY7hxLyvIUG4HrQsXvODYk1lw2SR4dCtKuMfAiOYeY8zbtikgJSOcIgSkQfeROzWDJjDqEq8LMFpTcxB24j6sY021dr018DgKMDmHKWtjeTSy2wu2iKKyjV3QRxud2T8HQfdkEHWePgKS0iZJbtu6liKrD7twQeOfux3RaiD",
+      "_id": "695a63101c508c5d5ea7e222"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

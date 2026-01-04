@@ -1,0 +1,929 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "41024",
+    "etag": "W/\"a040-tpsYsRjIZ2IAKE/6BGGK+YHMo9Q\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "695a58e81c508c5d5ea6ec89",
+        "name": "Fish83159",
+        "amount": 546,
+        "price": 583,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T12:11:20.000Z",
+        "notes": "loihUs0f2p0qG0alonXV7zrSVZTugYrjXgdmHW2OC0eRcHRoW5Z1eKcez9MMmn9Jhl3dgjc3gG50I8IADgxNlR25H51tciIfO7yIKB3orc3dtgTHlqA8Bb8QULStYd2FC3QQAXlZfbtZEhCYEvyKPQPqakph4emXnV0nFDzCsA10Ufk0lihwYItNuDbHJAYfCng62gdomQsm25XhYki2x3xMhmIfgVvCWR4CMQe2E9a6CajpmyuVycCWBa"
+      },
+      {
+        "_id": "695a58e11c508c5d5ea6ea6e",
+        "name": "Tuna28470",
+        "amount": 81,
+        "price": 747,
+        "manufacturer": "Sony",
+        "createdOn": "2026-01-04T12:11:13.000Z",
+        "notes": "7V7yiDccZmtKPfKwesC8CpnZrU9DpitXhW3KXMkmXhiVENgfhb2kHsdz1mvs42ViW7kW6yBN9iEx8IgazQQmgtvNJmvomPEoDmlZyvf7jDmqo6KAG5Ao5ehbL7lEGSWhDMDXTZDbE2fNO9E3Z3Koa9sc3i2X6L5r4GZYldfASEpXCDp5Hy6HcKmGNukKc1YcWF0dU4Fc1C1D3VZsGdnH3olIznAkT7XOxOXk1ERiKoPsUSW5hNOgimOUlg"
+      },
+      {
+        "_id": "695a57591c508c5d5ea67ff7",
+        "name": "Fish47906",
+        "amount": 680,
+        "price": 761,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-04T12:04:41.000Z",
+        "notes": "ZtHTiiaDunO60NYxKNYyNYckCYdYNHMV20qGzcB4Yvy5TzEi4M6M6aSHSP6bwCLXL4jE28Yug9EwqnVU9oM4QSBWpBODTxLGmEhUBaHGhe2EQmx4Bb7UjPqLdpf6S8XdBi4aybcNpOMnuhk9VjnEAdQcFE6dMvofi6rml9uf8YoyL6stQMzbFEcoYQITVb3a6kshtMlAxPWGiv9C38TBsLfj45jOnjoOj0cWrRruSo6CNRVtZVnLfjLoHj"
+      },
+      {
+        "_id": "695a637e1c508c5d5ea803bb",
+        "name": "Samsung Galaxy A559663",
+        "amount": 884,
+        "price": 800,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T12:56:30.000Z",
+        "notes": "x4SmGiv3NKGu9pY6vSI6ymKvmzT7AumQzIdxrJXlmTbPCxSDhTHE21CYv5Mhzqro9TUBeXY149daNMtJPYAjNa6phVBplfBICcUaub3NMDFW8cARZ84Wl1wQTTU1io0CFvl347gs6aGRyb5hFFu6wHHxiUoyeSs66sDujG5Xq0S5Dhr6r5OjjQ7oLWbpXH9I9EJTkcg3a7nL3uIKnFNx1IvhZiRhSTf9XtkniQtHHP53igmTmdU5Eq3lxU"
+      },
+      {
+        "_id": "695a637f1c508c5d5ea803c0",
+        "name": "Samsung Galaxy A5542024",
+        "amount": 738,
+        "price": 800,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T12:56:31.000Z",
+        "notes": "C6iyei7k9Fa1X9q60fTPaK3EJR1ZjL7cGQIW1atjHRVixLrq7QUd0JA5pdzruZ9Yr84b3y4v5fp78Pr3eCbjFkMiySt9EDEuG1fnxdktQ8sIIhEMFIpelYtRhFvrAJxhlznUju1DaplalFm9aeGcuX7E59RMPB0RFcqdxyW4Fq7RsBtHUDkRff6SpE24wVsNtKmORDSWIWEdEAEPlN6ZQ56n0oyhiJtOCxmgSM4y2rnXcxwTz3WZVPDU0i"
+      },
+      {
+        "_id": "695a637f1c508c5d5ea803c2",
+        "name": "Samsung Galaxy A5582944",
+        "amount": 761,
+        "price": 800,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T12:56:31.000Z",
+        "notes": "Nq7KrbUi8yPkvHCyaga2nQZGEeB0TfJPJtdySeIPjwFBYBuGCpNZmC22xoquqr9FSkyBFWyZdQ2hcf3Gt7OAUcKtvSvkTXJqqz2rRS3XOn9af5pXIcwDVIIRkpgTIMXFOBabzDQHYGzNA4q63DuUP10DPONiCPGvQeLr05y9TYonmaZrFJdHMzIHqF46qQ59h6LuM5zb9NtJMqCTBI4Wajx8xI2px74rZl1e1xEEux1TVn7RwDDDpBsawR"
+      },
+      {
+        "_id": "695a637b1c508c5d5ea80315",
+        "name": "Apple Watch Series X84201",
+        "amount": 748,
+        "price": 900,
+        "manufacturer": "Apple",
+        "createdOn": "2026-01-04T12:56:27.000Z",
+        "notes": "Zeqcpk5iLChTnyWWPjeixYLCtam8B3zhRovdbItwykWJI7TfQRVS36ENzuW1YHo8p1RxrvqhWjS2CdI24uakL68rRfzjcvslsw8NXJRnSTArO4buM38lFwI2zsIUnyiJAM8BV5XaIpraHt6JLju3EXUzab5AifcEKKyARA7FWoahBHnDrGa4rKZTG67BjjufkgKE5v15us9VQlS9sfYfJrINeaSqEOZE19eAgURB3rXyztFiAFTmX2XZDs"
+      },
+      {
+        "_id": "695a637b1c508c5d5ea80320",
+        "name": "Apple Watch Series X6114",
+        "amount": 328,
+        "price": 900,
+        "manufacturer": "Apple",
+        "createdOn": "2026-01-04T12:56:27.000Z",
+        "notes": "OjeGKP2qKVlU9czecQ7lgOyySaImNgjnAnGlpET143x4YqWObj3M7UsdOhoOtjz0zZhdQh0rbmUq9kLcUTCjSBVDQR3DgUIq0ihcDa9s3KI9bL2TGuyhCAEHk2CtYbhC52L1UFwKwSdqhcr4dnB5bA75wd7x0HNSyDgBkiKGV6SdXS7ql9FTyvZnaaZzSMoJOGWxsjW0i9QBQ4pgkJiXVQp53h5piTcGHMz7ARehqHBjtOKnfPBssxJ74P"
+      },
+      {
+        "_id": "695a637b1c508c5d5ea80322",
+        "name": "Apple Watch Series X89313",
+        "amount": 585,
+        "price": 900,
+        "manufacturer": "Apple",
+        "createdOn": "2026-01-04T12:56:27.000Z",
+        "notes": "ng8JyFMAHl7SXNXCpY1QeGnVhtIbbNtWqqLfqSVV3SyUbgeKKUpO13gXl0rTrS4jTHx0Dm1flCFbiDVJbzGLTnk29d91LAgJ4zQJ5rvjXQWGnoRtyI4McgSwupNGWUX4va00x3sNbiSSoJrKTVCDPWLkUZTGtvFu9UwKYSpJhjYtbywn6bCdx1eEKiO22bpuZVyFUHJjcqeq9X3TTYejQwGcBTrJu676kQ6t0jqI4r7jVpwRyGuOrXOL7v"
+      },
+      {
+        "_id": "695a57871c508c5d5ea698c4",
+        "name": "Chips95997",
+        "amount": 780,
+        "price": 1033,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T12:05:27.000Z",
+        "notes": "JvgOvkL3WPhX5psS2rHbnKJLMANDjbJQ5v8ZELnyNEF5BsZG59EtenzuOCxH5ffOjOW2rzWWOIOTKAWwzMfaHl4vLmNW25hyiOKVhypkz0AZOfOSvlAfgq8YzEv2gvq1tql1domFGxnp9dp0AKAR4239umIgZ3s00wVv0DkFa0pKu7d8DMNYyWqeL5Zmk6Wc4yYxFYz2I15s7stlHhPJGgopdPGvv5yroNyMD1mB4oKt6LlqFTYBEyvogz"
+      },
+      {
+        "_id": "695a63851c508c5d5ea804cf",
+        "name": "Xiaomi Mi 14 Ultra61307",
+        "amount": 327,
+        "price": 1200,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2026-01-04T12:56:37.000Z",
+        "notes": "v5NtmOzGBVR3W5hmc1KMUudiS6GfzvKQLaIEorxqAZFsT6MNwpWcjA5W0UlaELUshfNfUzNSrxslvoitvlWFLm29EVunZEM9CuolPw29VFTLHfta0kVTjlhiX6rn9p5v7KstFcTOxeg1gChPkLhEumfjdj89ig2GZq3zC8nvJcuJUk0tYdbkUtRoV6GFzkdJfunJbhjJpptR9O6OloLNMWmzwWO7XjZ5kzwLQbVlOYvNlGXHC3PcTBx38N"
+      },
+      {
+        "_id": "695a63861c508c5d5ea8052d",
+        "name": "Xiaomi Mi 14 Ultra14651",
+        "amount": 560,
+        "price": 1200,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2026-01-04T12:56:38.000Z",
+        "notes": "2m6QPPbF3ZgSRh8n2m4KyrtmWuhFxBlEN7oXZv8U0elipCuKSGw6hF58xGCt6oITQOy8fwJ4G5sT12VsrG3IEQPtoy3NZzGOnzytnIu7nlbe5xkZHvEwZBKFaZH6cmsESYlqrp2Oi1U2hQXkVVQgI4G7UW6Kfcu5pprDjBZ7AJx0oVqse6J69tLhFeSveH7rGKiwYuukaTfdbhPSKw5RjXIbWUrLUOIQIBZhdrPsPIknBwJHJdNmiQ1GMY"
+      },
+      {
+        "_id": "695a63861c508c5d5ea8052f",
+        "name": "Xiaomi Mi 14 Ultra22986",
+        "amount": 886,
+        "price": 1200,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2026-01-04T12:56:38.000Z",
+        "notes": "Io0tvrFiYGVUju2S9cwzqtd7VBlWqdHFCElBCNviU2UpKPDhnONdimnAdbguMo4A7x2p1RWosZlkHYU4TxIFpYFk2GNlKB4EcJb5cPmzV62oQhcrqYzbfOKdf541aYTTL4C0qrXYBiR6YFYp2XiowZuQcI28CaJJKdNNtCDB6JBf4tzbZUfISdfuOQ0fFRbW28wkCZ9qvCzCOQBiyA8I0k9pos9wcpjbeDfXlpxI7TJ4FfFHd98VjN1hE1"
+      },
+      {
+        "_id": "695a553e1c508c5d5ea5d4b5",
+        "name": "Pizza52495",
+        "amount": 7,
+        "price": 1274,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T11:55:42.000Z",
+        "notes": "HPaixwrUhfQfAuZy69sM3tCJJjqHbencaXLdnHyS0ZVsniRKvCco84S2X2yussa1QRYLcUUB3oLuzmufFYEAs1YJxtRpsdKawEYVpghZlRxZxuC54grc6f7sWdqx5coBP1MDCcO39tP69teV3sRGY44mpT3jy6QW2qmFWDOLmIUQ6Ju4cEFl9pe6aBIVCgowfWUGUxBI8f57QkkvylTfCAQMqVsP8YgLpJWoW9uGHyrT4TAP3h1c12zNsw"
+      },
+      {
+        "_id": "695a58f01c508c5d5ea6f0c3",
+        "name": "Bike2951",
+        "amount": 763,
+        "price": 1297,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-04T12:11:28.000Z",
+        "notes": "KUmjCgSbTqgTt2CauV99mWcYduHkGLytZOUeUOZL55Ivgdp8WFttjSqyKl7qmy3wKShidKufi5268eCRfheSakq1iTTfVXZ1xOW8tTYkgN8ItnhxrcEZOhvfHMj9h9ARndQtTBzLYNYc2LTwj8xQS3re1kSxmCPv9IYCtrg5vdDntTseMOCIiiqoqivfGWmedPARt3QQau2A6QEtVAcBOaXjc2GXmDpSM8wW9iB3lzqm2LGzK5YvdxMiPt"
+      },
+      {
+        "_id": "695a55311c508c5d5ea5d184",
+        "name": "Gloves23855",
+        "amount": 640,
+        "price": 1388,
+        "manufacturer": "Amazon",
+        "createdOn": "2026-01-04T11:55:29.000Z",
+        "notes": "khki86sFNK8SIIbvdAbkn8blpyMfqGwN95yBm4L2J1V5I0pnELbvlwQLSfXoZsXfucN2VAD9AdQHz96fT79hSVTR5S5XxfNcamCoM0nVXYBBo5naoQEDuvMXWhmYWeSIwQ0NDn0dODif1anHo2HT8UgY6VfzggetgJFvZ7tNZcHqnSFWw1kVA5TuDWElJk3wgL2hFbwcadmhiIsEQzWVq9b6LbbiXViD5JrgK3FqG39rY2uJre2L0lR01q"
+      },
+      {
+        "_id": "695a63821c508c5d5ea80497",
+        "name": "Google Pixel Ultra81472",
+        "amount": 317,
+        "price": 1800,
+        "manufacturer": "Google",
+        "createdOn": "2026-01-04T12:56:34.000Z",
+        "notes": "YDijV9natZGlnFUXxOMRtA1eKVwC0KiE5SK2ejAR706iT0P38j7t8lCdaeyVBgjjyMjqSfZSINcGpepLsbaPfokKDlPHOqHChDsjHGgTWe8sjTWfEV0rWQ4KQmz31fwICIWKqOlxEWp7MEjYAO0AE5I5bvwrEZLUCfaYksYXPiGigBfvMBAY8UWCfQrvQlpwccbAfpkoyiEm12PkISluSnyaCSxTivi20eI0mHlosBqYE6uwpMpVusvcdG"
+      },
+      {
+        "_id": "695a63821c508c5d5ea804a6",
+        "name": "Google Pixel Ultra94795",
+        "amount": 254,
+        "price": 1800,
+        "manufacturer": "Google",
+        "createdOn": "2026-01-04T12:56:34.000Z",
+        "notes": "nrWFu3n7xu95g1QqCU6TdyZhjTPJlcREwK7dxeIKNG0BzbBgMv5bCd3gcqd1VCShNh2xGL71NWUVpiTSK4CakxpMKccC2yF6SsFceolo4xYrs78iRYqZPlnp1fqCdqTR95Dp2nBtDmXfZqmyYnfJ71UHM4aNOerAOXV5DkDWKMQziiLkhLjSzKn8B717zrW3el1ynIjCTxKdF6YMV4P9puUQwuo8pn5KizEMl6EoqQeLCADwpub7yHZIpj"
+      },
+      {
+        "_id": "695a63821c508c5d5ea804a8",
+        "name": "Google Pixel Ultra37782",
+        "amount": 346,
+        "price": 1800,
+        "manufacturer": "Google",
+        "createdOn": "2026-01-04T12:56:34.000Z",
+        "notes": "FedRSNeMXFWZQ4IsFNMfdmjXQq0gHuDU3EjZyaW7M3AWi0qhr7r0lxZ2ImWqgKqZFgPeh8SDephAcAv3Q848m2n8eS3YtjEmimdQpq9wjq76wwAFmJ6ioJLKJBdLXJwBj5T2cvzrG3MIUauhJ6wxVOjJTkBog1yKyuqoqyaSfnPQWbCFZGJOXxoWGKM6dKhYgtz0vk4bKfafEGopch2mvvq61humMiKTXUzs5cy9qIwmlbihJS03BSqP5t"
+      },
+      {
+        "_id": "695a552d1c508c5d5ea5d06b",
+        "name": "Hat90316",
+        "amount": 2,
+        "price": 1833,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T11:55:25.000Z",
+        "notes": "GPWTVBkQFgQjUNOyueSFz9TexyUvuEbg3GezoXN1n7knNiNTjDlEJhiu4j6BRTsPDblYGoDx7mvjWgY7lnbyHVO8iHc1oZ6XyQFmX3CkmlsjTq7HHPTfP8liWutt1JssCcOqVFddFBHX0uC29cSbxlYQ5xwrUomm2gH6a2On53Myo6ENY0dtTcI0QZeje6jWT5tLfgGrVhlvOtKAKxu2OU4Q1ouipSeg52bCq3uk3XHVoPThdJWmmz9uMb"
+      },
+      {
+        "_id": "695a57ab1c508c5d5ea6a917",
+        "name": "Mouse88085",
+        "amount": 865,
+        "price": 1951,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-04T12:06:03.000Z",
+        "notes": "v9wdR5796aVssj2EbQ4tuP5JFbXpvR4jJHLXNzvchmq3QYeH9hM3i3AgIVTEP94avyhjnwnKG94SKk9za6bL2DrGf7JEVOkHs8UROkoK2mNLvaEXCT6s4Xtpzi0eTe6j5EnxuCIhkvs4CseHmzaOLV6hnPjdK5HTKE9GAEpwCkhq6FllLpSlFf9NnhaJUBT7tSrrAyhBbRLt8WYbkr0TTHIR6rDgiduvDsRxwVkCu7FcebnJFvrWFjKQI2"
+      },
+      {
+        "_id": "695a592e1c508c5d5ea71125",
+        "name": "Gloves93813",
+        "amount": 47,
+        "price": 1995,
+        "manufacturer": "Amazon",
+        "createdOn": "2026-01-04T12:12:30.000Z",
+        "notes": "Y077fVad0DUAGE64FY2p2ImfKSDtacgmuRgNa8nhzPAQnPUqlXEDfnNfYaKwavue2WJR1VBPBMPxTSWioLc6K8rVc9yFVHus2JCJ584w4PctdXM3jmUk35xfdvDjv6WK8YCnRb6snuXF37neLQ98HgGK3bQem8z18h0fcjkziuH7dGIqqusSMM4rsXJ4QgjfyZFqgoTXsSBpUwrCvBbz5JNJ4fp7fMYvOO8yWy7a2FYxRHGNHIjY2O3e3o"
+      },
+      {
+        "_id": "695a63801c508c5d5ea803d8",
+        "name": "Sony Xperia Pro89412",
+        "amount": 460,
+        "price": 2000,
+        "manufacturer": "Sony",
+        "createdOn": "2026-01-04T12:56:32.000Z",
+        "notes": "s1WCq9tGriWfEPBP8RsD0L0JuD49cCRoHKUtmzy3jNJaZ1VUkRBFKqzyc2NQmphr5VXSZAl4d4phvR75szr40kKi8GxXjnIc60Tteg3plzyNlS3CmDp0N4G83zhv8SGITRSlwqjHN3WXMe8AH7X0I5J4tcErAemv5wsV84U8dNi8tTRICBkfssKIxgmPrusOtCyvCPCIHOFI3hoVRogk4JuMzdFgMKv8zHJYsZVRdeiOoKoL5fmnwtoV1z"
+      },
+      {
+        "_id": "695a63811c508c5d5ea803e1",
+        "name": "Sony Xperia Pro10152",
+        "amount": 722,
+        "price": 2000,
+        "manufacturer": "Sony",
+        "createdOn": "2026-01-04T12:56:33.000Z",
+        "notes": "MqCdKr5CIgE7N3RgTwvkx5L5lsDvqhztaPi0ejBRhzac69YPoAP1VR6BzNkvAJLDwnoF2Odwo18AyNi30hNrDq8b9SbQnUypsGpT5AthIbFBNnK82arMqsUpmkt8tz6P7qp21ETFHnmXdmzLJFLy4YkBKG4pRNxPdboBhNmmDjDCRAEd0ShARIZ9Cbeztfkq8LxxLBhjkYqN9od0zcVZpMy6jwEoBzL1WJsHzUZChl9SCRtgyvxm1GyPUG"
+      },
+      {
+        "_id": "695a63811c508c5d5ea803e3",
+        "name": "Sony Xperia Pro22828",
+        "amount": 513,
+        "price": 2000,
+        "manufacturer": "Sony",
+        "createdOn": "2026-01-04T12:56:33.000Z",
+        "notes": "wh7RV7haWYU9Ne5xas26PADeOBqhbdDf4TY1Yi8qyDKKDpY8OvTTIuBAWRXIO8UYho4T8oHSQcss71WL7cv4Obi41LaHlZVEUsgP25L05OLpKYoc454NY6rRMb27skSDvXxQOqVRIj2h9mqaNNB8gF50L18m3CSPHMai0sTa97ZuYRe3zWeRb7uNlTjYC71ggoB3Vto96LM5Gs7mYzdHoq1DMhQI4L6FZAo9E1hcxPs8OwAHTTDJ9p6UqT"
+      },
+      {
+        "_id": "695a63831c508c5d5ea804b2",
+        "name": "Microsoft Surface Duo 323572",
+        "amount": 838,
+        "price": 2200,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-04T12:56:35.000Z",
+        "notes": "V0ZifX5JZ0bdfPAxt2MWf6Uq6qFNrDpy7msS3NV5I80QO7ovoThc4C43nhtYAcE0Ejenk7GSgTJEtvRg5wu8Wi7lBeNL9xvp2Iuto1FNkZgYwHELRqumTlVYPbO7EJ9IpYNiWIEHhN6juHGVqgj2YaE7yGlMOaGdMhgonf3PiLpfZDRNTg0BUNDsH0fWslIXxHWJORWA5fCODq1sBS354kDEAqZL5nswIDAYCfiOCP1P5Oh87aJzMb7o1b"
+      },
+      {
+        "_id": "695a63841c508c5d5ea804c0",
+        "name": "Microsoft Surface Duo 368460",
+        "amount": 334,
+        "price": 2200,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-04T12:56:36.000Z",
+        "notes": "4D1AY1v8mOZ9AYEp2RDAJ9M4vcQqSe8iJMffjIsda6doWnkEXRg0J7Ij8zAI4BrVbokeUGUpiqmITsRkQYd2J6f6so3f9wX2aGVBJ57Z3S1uptXFz4r7ZcU3dZTpfsFs2zIDaVTVNRKiSef88JON9f5EQXAesGm65855DpJt3wf9uFjMWj2t8leCRM2K0ZegaJRmSJNhB91BuRrivgsHIHzrw2uR9zYwg2j0mlAHqSc0N78Ikoh2OGI0cD"
+      },
+      {
+        "_id": "695a63841c508c5d5ea804c3",
+        "name": "Microsoft Surface Duo 344743",
+        "amount": 302,
+        "price": 2200,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-04T12:56:36.000Z",
+        "notes": "MUFcBKZJmMCUhwqm75smBQJ9NW1a1lP1ug3gqeLemVRB1mvFdj91e5xXQJDRjS2FJQNxBjVrlYNXkxL2zRyV9idLMBykCeBq7DGys2xtX8Ljc5tWi7qFVFQ2B0B5kfRg2K2TLfbx22EBOA2J83vuG5iOp5ugPLGpveo6ldGV71eGzdXkxS7TPhirzFopZvlzVXLSEDsBc5RZH4ssiC6CU5okvzvfcqNRojISQFSmbXzHRLxAJxaqxaRWFR"
+      },
+      {
+        "_id": "695a574c1c508c5d5ea679be",
+        "name": "Mouse35019",
+        "amount": 269,
+        "price": 2482,
+        "manufacturer": "Sony",
+        "createdOn": "2026-01-04T12:04:28.000Z",
+        "notes": "TODvo9i6qd3q0ylLmpDnV9HxH4qhzCMkv4ghzQX2tzQ7gGdCA6zodozD14X0TV0QO6I3qyMEclHPIH4773uherF8dNr8BZz7h8FNryQ9TCcaM6LDwonXYuUg8uXe7HUqELGMUyYtWGqgqctBdAeFQIatfmWzzStYCXKHCzXqO0FBgKAmK5nmZHRMkE9ehalmWWyCl3cZJ9GEyN0q6VntSqsh8j2ZEgdeKBs2w9c23zXRGLH6cxFGAWHasq"
+      },
+      {
+        "_id": "695a592c1c508c5d5ea70f5f",
+        "name": "Soap64670",
+        "amount": 914,
+        "price": 3057,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T12:12:28.000Z",
+        "notes": "MCpVdJag1oa2bjrdzfg6lrarbFtEmqpsSufY4e3p77mPY0BmWWAjv5qOQ5J1FZscPCqD2jFgwPwOV8N5z4v8oqvihY0GCx39FySsXG1m1bBfimyqfZTlEsZXbJyjy8LLjLWWtgfdf7YuGu66d0V7O59hbqBhiJDyTTn4W2y3M4oCGDrUFurpC6gOzNsE6pMGzPe4BChkmWKWuGDVOvv6YWX0mXSu9ilDamsllYARNHZOpMsPYqdH1pIAa5"
+      },
+      {
+        "_id": "695a58f01c508c5d5ea6f0c9",
+        "name": "Car60624",
+        "amount": 205,
+        "price": 3080,
+        "manufacturer": "Amazon",
+        "createdOn": "2026-01-04T12:11:28.000Z",
+        "notes": "fzHC06TbNHYREXXKM0ua1bXg3tGyJObZDpf1n0OArrnDfTiZkmdmT6n79hrDqxkqBzn6o45uc74eiec8bx6YdQEmXrbirlumoozPZ2KhMA27m17ir9TWRpJTaPTkbIyVTl119AOAtHRS8TFfXB2kGq1vzvTouM2Ou6zxhOdgdToTRip9KXRbObSCMpkujF2945ClrXdaaJaACBlUdLgxtYoIIaaq6CoaIF9UvLZyWLigEwCPIp1ikMWjse"
+      },
+      {
+        "_id": "695a637d1c508c5d5ea80392",
+        "name": "Samsung Galaxy S2562831",
+        "amount": 703,
+        "price": 3100,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T12:56:29.000Z",
+        "notes": "yCvNMfLV1r0UwSK8T02SM4ZRQnYLEunaXh6AnoAXRj6GIkwIqfaClywF2mrrRW6SzAmxFkW3wGlBoosn05ZaIsN4Q3XIwBDMCXy6PixJTPXMIXQPaLjsqbUnEYejcyVLCPFu0fox7DIptt69H5RvegFuuUp4L19ua1lhnATNaJZ9NJPiyicSBp074K349YJpzFsXw8nFBFUHj2AxQVeX45Vwxnnt54l7ndJkNbTE8ZnHxV6iyGERhmVu8U"
+      },
+      {
+        "_id": "695a637d1c508c5d5ea8039d",
+        "name": "Samsung Galaxy S2570659",
+        "amount": 90,
+        "price": 3100,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T12:56:29.000Z",
+        "notes": "hN3QMNU2pJoTQjxMaEAvlWgracU4FSZiSXJ6NFyqjqLMgzghgBqkVqObfHJwTX2jTtWQoEqiFqNDBzyzEGmGHBNEm5ZnyonLa2fusPV9JkpSPJ0Bt1gfMOFsE6SGMqNfzo1NXp29vUXWGrGLutHbbsG8KWbqsygfoyTDdGzbhN1rSXuIKj1BKwfTtZK5GlqY39zUYGpQTKnuBS3UeqvskqdVh45pN6UKtXKOis5e5DSKyV4LtOwQ41Cm4J"
+      },
+      {
+        "_id": "695a637d1c508c5d5ea8039f",
+        "name": "Samsung Galaxy S2546746",
+        "amount": 135,
+        "price": 3100,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T12:56:29.000Z",
+        "notes": "LXfcZNVbEIZzdm7KWzpPXkFcMtzYd4rULB1jbkj7yrMQ1LUIbEidP08QHnX79sK8RKrVwifauHPPgjijWzD7VfSKJGN0X9uCkQalnE8ffgyWA2qCQhbrYY1iVYPoiHnkcqYVmsjxlBMcig0Fgea0LNVNV5589rdwza5VgYtWx77DAWykhOgxq5b7ht4zLVrKBdVuHRZsQVzutj4f7odSd6wr6YPZnaBor3m3c4Tj5t4xp6kUSmbI8M68SY"
+      },
+      {
+        "_id": "695a58de1c508c5d5ea6ea1d",
+        "name": "Pants82763",
+        "amount": 805,
+        "price": 3175,
+        "manufacturer": "Amazon",
+        "createdOn": "2026-01-04T12:11:10.000Z",
+        "notes": "Zzo5mGAZObKeCQsmtqLdQOtOvZlHEZmTgcPSinyH91lmjgXcvMkfept4WTbYYNh1hZCW7E275OeoGYpMHHYXvWxzOru5Cfv9JnqUSVIh3iCzlCF9OQLKTW1EXrKxb6fm8VEaee9BvbIWBkRtmj69JHwKjmEObEbWjcLErSU75KOWI8cuhE9b6r7SKp0IaeKSbvGEmSRpeFQf0rwHl2Br2ssiKT9ZdzVcGx8wHKm1E1ZdtxgIHPiD5wu5RN"
+      },
+      {
+        "_id": "695a552d1c508c5d5ea5d07e",
+        "name": "Computer11448",
+        "amount": 232,
+        "price": 3252,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-04T11:55:25.000Z",
+        "notes": "TKKoluJ9C2DxQob8zY8f6nk3QkalMQujM3CqQHxGq4gNRRkZiJnq2g9ho1ykfzocE2sHCdqHWCS4E2jVgO2dnLwXVDKpcuQsPqXfNg5Frs1yABk8joDgydQjzXJlqDqCu2w22qZN8wSELEEyYLt5RgDaPpyFj3kD0JZOK53Tlu2s8A0RmsFRMpm0SKRtyMpvgIhh8vKOvlwB5lkaQVd3P9RQSEz8lqwUTAt7maVgwISHbGvElcc8oALcn9"
+      },
+      {
+        "_id": "695a55431c508c5d5ea5d64a",
+        "name": "Chair66020",
+        "amount": 916,
+        "price": 3257,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2026-01-04T11:55:47.000Z",
+        "notes": "2P3quLbk54TkmY9aabX3HODkRhfwGT3Ve7cpxLW0flkx8Vnbq0qHS8hvP4VQQijj4hRjFBzawx17xcAP9qK0bSx6gKcwgcCCotiGWZNKi00FKPRhbwjJLLGSD9rjpSJMGkyzHvZRkleXP7DOWZnFl66YXKkOhqtDMgCQQ8eNgW1KUxhXrYGbJyeRp4CQzE5SQnjclcB9CtkIChsdtDRug8xPsNIKzqtCeW9ZswpVAPQRbIvHvrC5y0mCZy"
+      },
+      {
+        "_id": "695a567e1c508c5d5ea6233b",
+        "name": "Fish50811",
+        "amount": 22,
+        "price": 3369,
+        "manufacturer": "Google",
+        "createdOn": "2026-01-04T12:01:02.000Z",
+        "notes": "c1dcbC68xbUo3NHBV4NoVYY7KzXYGYmK8paU2VLbjcFi7qyO1EgaHirwEXnQ1bQzGOV7kEpX6DPzursbL0JAq5QNm2kgT1jFByndOFzBhlcAj7aS1cr17SxbzpI2ixPmECNiwS9NPeGTSEswNb9SkIu1nJ0jRZdET13FepWjpwRHhaLwGoI0EFsJSdxRqbDNtidsJkH3hLqMdPSWONJzH4UutdLoDz5KZOrkmrhepeeQYTlUoEOWqCAvV5"
+      },
+      {
+        "_id": "695a63791c508c5d5ea80294",
+        "name": "iPhone 15 Pro 512GB93820",
+        "amount": 788,
+        "price": 3500,
+        "manufacturer": "Apple",
+        "createdOn": "2026-01-04T12:56:25.000Z",
+        "notes": "tPppasaCAzIVaiCNXHmIjKHTQ7HcB8zZxpxHX9NEyCSnIMdkyXbFgeinopu1ppjVVPXVzhmkX7kkYIKrRy06n9BVKRVrsENzotXk9EOl3Kpnnlfy6n4f8ASbiczJrBlBBjSXuqmmOJFpwoiwhNcIpumUS6YeilQ3rAJwc6uSd8wExoaaqYnowgg0Fp8wQUy5vaT4gBsXV3g8dHOHTzaANTokLoYtUJUU67cpKaNauYWITUCWxlVeq7Vllc"
+      },
+      {
+        "_id": "695a637a1c508c5d5ea802ef",
+        "name": "iPhone 15 Pro 512GB3293",
+        "amount": 186,
+        "price": 3500,
+        "manufacturer": "Apple",
+        "createdOn": "2026-01-04T12:56:26.000Z",
+        "notes": "4yMv2bsvQF9ThPDsBYozJiCX2ASXvbMNAmdJ5bmeq4A1varauF23UFj9Zl3IkCeeJwzR1iRM9NoIAB9LFF2yLnNK6qqiS5KTsUHr5ZFj0Db0MJLg82lxLpdVj8jrs6JZVGDLCnGZ1i7ypM9ZLoy7kEd5W2HuJvznJwYWD86aI9jNAyYOXTjXlbbQBkH7zbKPB6yUmRN1hAnzxtbT2lNge4Dmtw7aAmJDvw1eLNM3QGoKB6mET3tVHzSbS0"
+      },
+      {
+        "_id": "695a637a1c508c5d5ea802f1",
+        "name": "iPhone 15 Pro 512GB21672",
+        "amount": 822,
+        "price": 3500,
+        "manufacturer": "Apple",
+        "createdOn": "2026-01-04T12:56:26.000Z",
+        "notes": "kmysK8YhhfTxAWi7M7XuIw037IQqoZBHQdmGwdzuFXaSPCqPdcXx98n05AwbxQe1ZsQ8Q02XoZUi32MfyRzBSpQIgj4LEM1mXOf0c2KckbWaLqfTbZeB9dYUXmrBDTXEuLErZzzG7odlvc80oDMdpE00Kx52zQ8NDLUe3ovrazZ7IkOBPxPpQP3nES7aA62bcf96vffbggcAVgpvIKBYrk4Jz7bsZE2TKftOi7e4ed0l7xIkZTHO8tkCAk"
+      },
+      {
+        "_id": "695a57741c508c5d5ea68e6f",
+        "name": "Cheese70269",
+        "amount": 983,
+        "price": 3561,
+        "manufacturer": "Google",
+        "createdOn": "2026-01-04T12:05:08.000Z",
+        "notes": "Kyocd3N6GdcIUq89j2cRyDlORkUhBb6GCU3Zn6qJyZmnF43tqfAwcjuVhGtX5Z3fDY15pRtWIdRqtKjEA7Q97Wimex6NRskBiFLvDRxethsomThzAL5mCSNtsykTkYlXSNksSncVmTHwlzbpTAp2gxsy9xqIYSfOWtiR4iIJrWitJiiGodYWtytoseUeg5gwwD30IzpdABB5DCEBQaKGOCkUwdVtPZTWV2zPrISU6ImFJvsZrS2GxEmRxW"
+      },
+      {
+        "_id": "695a55081c508c5d5ea5cb5d",
+        "name": "Fish4338",
+        "amount": 78,
+        "price": 3957,
+        "manufacturer": "Amazon",
+        "createdOn": "2026-01-04T11:54:48.000Z",
+        "notes": "X4gHLmORULKtjAClbSMc8C8dXraVdnmNOfcIKp5sjiszxYRNQXHDdxAZWKa6sDJA1roTcupVSDZXq4hMeyVxI8UcULpQHtZN5J34ue5YlzUtv7zmdO3mSisDq4szGgd0Qx2Hqz8DiuiBTO55MixErwuvQGjRinJFC8usJu390hfmFA6Z4FrzC1GXJx5qyans8mG4PE4Im29dIsqadz2k7SCZagF9bEQ9gNujxZqG6ceTcxVJe0v2EakHL9"
+      },
+      {
+        "_id": "695a593a1c508c5d5ea71b2b",
+        "name": "Keyboard96043",
+        "amount": 80,
+        "price": 4032,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T12:12:42.000Z",
+        "notes": "Ba4FuzYekOEXmlhnYkkeflDABIpLz8oIaaKFbN3bjI7SLaSpwQmVaUtwzJZ0RvjuySKCReJsacSsAsi3ifmZNvQJRDpvDPBxjCDBeXghGNVnPZgtIOguLeIIbdx1t0Xx9wwuCLSWxKgwjB3isvyWjzW5myjegmLWW14LiWEtuhcMhVgNtEkym8r8eXUvZZxMSMff7ie1Bj3wwQ0LsbmHFFZt1wOgbDQQVOLrfnWdBmpEwEK7M8CRjHtQxc"
+      },
+      {
+        "_id": "695a573c1c508c5d5ea672c6",
+        "name": "Shoes5162",
+        "amount": 465,
+        "price": 4366,
+        "manufacturer": "Google",
+        "createdOn": "2026-01-04T12:04:12.000Z",
+        "notes": "BGx7RzrIXrA6w35vgIBlIrFz7iBNQwgZDFz5tkAcQsb1Kz5c9g2NrXGP32ghaB6vxqB7vyGkNhkpmnGlRBaBzxwVaaaX4cj0RR8B6SsLfawLNy7un3Iz72Ips8Wz9iMkcpjiuY04JZONRT6vrSzDLFYy3AggNF8V5mwNrXcet7aMYT0cHGml2MBZcxlDUCpAkT3a4tQaHJKiWk64Ne1WlFh63jyAz7VE9Aq63KNT2zH6k24F0HQ2JipaVZ"
+      },
+      {
+        "_id": "695a568b1c508c5d5ea62774",
+        "name": "Chicken68500",
+        "amount": 812,
+        "price": 4563,
+        "manufacturer": "Sony",
+        "createdOn": "2026-01-04T12:01:15.000Z",
+        "notes": "UT42mfr2WgyM6kKWzFCuqqzhXqhv8gLYiYpFMsGRanVaq6LgTfI2BERlTbZmGlDsKEQTKxxDwJZceWQBBAeqRzCIpFu5gtGOI2ApeFvYDZMLr4tQyKXexszhACOS1b7hnNRIOlL6g6xcJeiUYtx5gjQ1QN73YbTXa3NGKDmm4oLK5YBqSK2YlmtnYwoMwQo3NNnVBGSAxRDASEBQxw7puW9H8uO5VFffaxA3WoEu96defTEXo4dLYqzMyS"
+      },
+      {
+        "_id": "695a577c1c508c5d5ea69281",
+        "name": "Salad3390",
+        "amount": 241,
+        "price": 4932,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-04T12:05:16.000Z",
+        "notes": "J6NNcvUACf2xv38LxCAoCRTzTFY1Q0d4RmistBd41Hi7UkthNwAovDDY3Ja6x1s3qVPBZ1ZVRbUln3gWyid3CGzXqEVHFUmHRK2mLPCemlxZzKtlayrloHSssHusSUu9WPLXaRTGYOZBHauidJmwHNgTteB4OSG9wi6JXa6CYL7JdDTqLgKuYkabv2ZLu6GEtYzZqBQGNg0R2KUrKJQ7hxv86Y7VH4eUdDCitJjD6SLLDUsQtXOiaHdYCB"
+      },
+      {
+        "_id": "695a554c1c508c5d5ea5d820",
+        "name": "Cheese68967",
+        "amount": 938,
+        "price": 5059,
+        "manufacturer": "Apple",
+        "createdOn": "2026-01-04T11:55:56.000Z",
+        "notes": "8ttJvzcyyJ2ZWTZKAWIrO7viBDOAZnWbrZamE1gAgAe3utZTudU3422X1pLjhjhl4wcPyOTTa87RuF0x79DHfBVNSEWkGzl05Z3TGfHFlP14wdOYC2fiv04zFqOZPWqk1uqLhlqNXewKIRdiXgOqKskv0Kf5JPB1C5BdrSUu2lKeAn5tF4vBmosAUCXpfqNlgRcyvUSTCMxe6T4UrJQv4CfgEy8il2j5ekF8b6QSbyGuLR0oKuGL6sDjLt"
+      },
+      {
+        "_id": "695a55771c508c5d5ea5e2c9",
+        "name": "Mouse61775",
+        "amount": 974,
+        "price": 5148,
+        "manufacturer": "Google",
+        "createdOn": "2026-01-04T11:56:39.000Z",
+        "notes": "gAxiuoua2ug8Q79hsaWvqIhWDw0Si3YSLhk6juIG3HqIRF3LBMCaNv4G8eN3jRV2lF9CbwbFVNLcwfgRnc2JfqLcEd9uALFO8Vbom1mgvcSFFzjWn4ZFspKwxq4OAGmF5c7hlGtB6gKky2ijLYi4QStFHGsXI4W8XtGhXFxXClzCwbeKa1ULzGdre3yLRAQJ4NsVCOULPjdUuuY9Xia7IeHg7OjnmiqfxSmJvbHBlQiJledsjlkUaJz5Pp"
+      },
+      {
+        "_id": "695a568b1c508c5d5ea6276a",
+        "name": "Tuna64314",
+        "amount": 522,
+        "price": 5431,
+        "manufacturer": "Amazon",
+        "createdOn": "2026-01-04T12:01:15.000Z",
+        "notes": "Ne3MElYVEKFl2fQrFgVTWXYXhfdR3fU9sfbrTNVKsBHVRZrzxHiGLL2BzGggm6IG0dl0k6QiyU8w9cYFdy9nBycydw4qBDMSHk9Fv6OWpBnBYkzEaAOnUbkHtRAdtTYQqMaXzg2aeuURHw7nQr9H7Jt4pZgFim1fEQohXzGCUMWFLb0qzP04KpZzfAJySwkgWc8v27oc1Tuay3TZEl8nTuJrmqQ0qg24eer5OtlVTfEJgpsgZVAFBaFy4S"
+      },
+      {
+        "_id": "695a57551c508c5d5ea67eb8",
+        "name": "Bacon2842",
+        "amount": 403,
+        "price": 5631,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T12:04:37.000Z",
+        "notes": "Fx9wEQUrQ4Jzx752DXzG9VYxeJoLMKBOcx4ALT06yS2sXI5qklwiqkXW47Qql0bRcshYa6jvv2ULhEsQwM0d75PTXwgmhv3PXjUto2xYRzDAzuzEYaAMYJIpTlhoEWKcqoJxXSA2oAc9lPBVutrfiFnPOrABBaUSUfaNj7waQokRCVsqWJY2j2SbbUCkheOS0AZbdywUJOSH8EjF785JrKXio05ppx3WXu1bSvsAMdSwjD3Pkw7dmvTp7p"
+      },
+      {
+        "_id": "695a568b1c508c5d5ea62770",
+        "name": "Tuna94839",
+        "amount": 81,
+        "price": 5742,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2026-01-04T12:01:15.000Z",
+        "notes": "6NnA4iHt5h5bcncN6gWSJ4rHuszQU7WFHRsOHnfCDcnqX9V8bTdl45Y3OaXjDfjZPZcdokdiKDvXQb70A8wlsS7ugMRxb5QADjuxnRM0zVeWFW002TDTyFIxF98uXAVC8hzhFttOrI4Oci4IHzO2Y3Vv5pGM3iKQbScUR8gzWmwYfEb0i5ljX7oTzbtqrix1aLQD3PamUJMXajiBbTqAM50WTi5sr0A2hBHzTqfXOCN2mvcLBYkaZiX2Il"
+      },
+      {
+        "_id": "695a556b1c508c5d5ea5dfa2",
+        "name": "Tuna31312",
+        "amount": 191,
+        "price": 5743,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T11:56:27.000Z",
+        "notes": "eXyVnfanfU6aosGlBkvXNIT47bSRn8rL0IFGpc9rvlEgLAznm5a7qdjs0QlBxuWvJfGmhqiqb7wZVUMJEuenHbmMgFeB0zGmk1JCo7LPQV58hHXPvxsmwmhzOte8aO1Cgf7IscGiUtGuVcHdQsIqsmkKwUKV14l8bnU6XBiAOz7UkXuRo0WqulYo8mXvFvNXLT2VXaXArHXDJR8qAMP3Q1Ha9vAf7IvlWH3xvgtVnW4nS3mfWOCyBuVqbe"
+      },
+      {
+        "_id": "695a55411c508c5d5ea5d5d1",
+        "name": "Sausages35370",
+        "amount": 169,
+        "price": 6108,
+        "manufacturer": "Tesla",
+        "createdOn": "2026-01-04T11:55:45.000Z",
+        "notes": "71SQiPOunohE9TG6SW5iLQfCa5FNIeqMNQmEnU7cqZWuwig7rq0HWnFNIfCqYy8IML1Jfz4LbpnjMRzx3Igiuj2ALsXRyRHW6aiE5tuhYq4xriLFwWwDhUsLAsxRGp1LtbWeNdMamRuZKdm519MrfabRZjB5S9dAmHcvibKzyJVBE4JOmpFrcUCumnVV6VVm6n2W6e98exhSlJPU3J5hbJz4ltKgPdkE3yxHBASuXT8MQaq3UNlWhu6B7Z"
+      },
+      {
+        "_id": "695a58f01c508c5d5ea6f0c1",
+        "name": "Fish79844",
+        "amount": 776,
+        "price": 6531,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T12:11:28.000Z",
+        "notes": "gDjimKmjOPnV9LvuE7hPBD737eh3falinWYWkRCbeQJ6GepBz4TYghzYyljuXo7YLOpk7wc3wQI1h2BmWrLhw0RB3dekDpeaMOYxPwBmudgZMvCMGoxzhqpyFT6HgawdQsBtNfdWU3SiI32MPULGHuPsF7IR8HaTm56gcfR8Mis7rtKksipHoh6OQcjX60p5XDHYgdjvW5bGaOjVIOhGnqPWGDravX4A5C0d30yyr1hZpK5Kw179rXr0Z8"
+      },
+      {
+        "_id": "695a572c1c508c5d5ea66c68",
+        "name": "Salad13316",
+        "amount": 884,
+        "price": 6883,
+        "manufacturer": "Tesla",
+        "createdOn": "2026-01-04T12:03:56.000Z",
+        "notes": "PPcvLPXfC9BfAjulyCLcLnebFdbRRMWS6SLMIFnzTrNnfjrouLhlAqM7l52OWb4trJ4aVjLjMicHUE3pe10qeA3QcCLGEiR9vA0uLkN19Po6fLko5vlpg7S1JmqcM87LX4Gx83jkrLnCfWqfo2oDoITfB8tIr67z4QzBimf781QXPZllHEdJgQGnFb8tewVelvET8ToSr2dLfoKaz7dKsycmRvUskLqNWhCuUhqMLy3tBnSanGQlD0wLQZ"
+      },
+      {
+        "_id": "695a592e1c508c5d5ea71127",
+        "name": "Table61567",
+        "amount": 440,
+        "price": 7022,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-04T12:12:30.000Z",
+        "notes": "kw34M3kyzzUthFHk6yo9b6fGxTvsYI3JsfkAjrE7tKSgE8GAZsjX6dfow2OgNTK6bSgdumSXhvzApF5rVLu5l2Jgt2dY8F9dz7dY61xOuLtNMOJpUBGb9UwjIZMKDT6w09ZP4DgAGcgb8eb3ksMPhQxR8XSnJRwTk8YXUEhhxKsWdPfWgrCRfVC4ki4Fx87f6JrW0MDfsaaxtA7EQyrI5w13JUEvI0I6vHBUZpcSyLrjGDtpNjnAb5VfDN"
+      },
+      {
+        "_id": "695a55591c508c5d5ea5db13",
+        "name": "Shirt29390",
+        "amount": 451,
+        "price": 7180,
+        "manufacturer": "Google",
+        "createdOn": "2026-01-04T11:56:09.000Z",
+        "notes": "MkYiMK64RpIo9wJFIA5Iy6pqwwr3CsJEexFZphwRt4GIxDJItpGBux7r2Z8vFZJRySACaDfGZTVcBfBXdHzlrjLlzlePX5L5NTuK4qMhB2jC6I1LXvpqe74JCiUx6DBEE7KdNx9ugpq93J4HupBY9sqZ0jimZV3LK55xskNPHiDEh57EWxyElhuOGwQgITvsbuHXjaNMoIwij0zhdfNxoqeqDRBKPOnQx2DhLGEGCNjtmCP3L1v7ohA7cz"
+      },
+      {
+        "_id": "695a59601c508c5d5ea72bfb",
+        "name": "Salad83520",
+        "amount": 932,
+        "price": 7271,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T12:13:20.000Z",
+        "notes": "7A5HOUyhfzplRtxR32pgQTit17QlBD1MpncuQGu3u73EpDB6vt9NAb7ptBFdck1aa6RdLRjZ4qJbyPpiu1N5HgOB1hHjYkc9o15ZcX8wTJ3TtZrJlSKbIcVjrbvkVUTm5z2WUeiuarUHRwAoPJ9aKsBe6SXKHcvbvRzL2UkKviDqXnFK1trNYkRkxUsE5BnKl2ICMIy620J7N9GdObEyQqCQjmy96SwcyjXPC8090IEsK9wN3usYTZeoSq"
+      },
+      {
+        "_id": "695a56b51c508c5d5ea63730",
+        "name": "Shirt91795",
+        "amount": 196,
+        "price": 7984,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-04T12:01:57.000Z",
+        "notes": "IoMxGoeR2UE1HGiHc8aL2nGTGQosOyt2kwNEFQSne284mC0RevrfAgI70eCrqvhfQvfTmK5p9VzNy1C4PU63D3WkzHGHMklNy4TpmXcwh5UTJWXZIUGfFEtneXufpdM4W8Y7L77TbwglT7fF6DVLeYMVJXCeRXWARZh3uOAynHTYhej3S6sEYq9Kc0egQl6WYF7U9900uXaBgp7amIJE5q8CjqZQXO9J0Dh84if9Qxc6O5UQR6O7IAVnMc"
+      },
+      {
+        "_id": "695a592e1c508c5d5ea71121",
+        "name": "Keyboard67270",
+        "amount": 400,
+        "price": 8030,
+        "manufacturer": "Apple",
+        "createdOn": "2026-01-04T12:12:30.000Z",
+        "notes": "t2kZA5ZBr7gAKVM4BmNvfb1hhOmqCCuulngBamln9ziv0R6S9bNyhcGZnLDLegmgjlesG3tRPRjSO8ApYQz3t4fXXS1Y6Bl5bWHEMKZHR7CwYWMv4E77QOXmcraTxOWcgBY5BGHssPxJt463ImchvJm9y46eIeBCetV4mFEX0PzzEMGz4NV4OXhvAuClA5fnWTLRgKef6CAOE8cK4jlUJuzzlnzFM9lJeuZrx2l8z7iakXGz1zqe3zlBB3"
+      },
+      {
+        "_id": "695a58e81c508c5d5ea6ec8d",
+        "name": "Mouse63591",
+        "amount": 671,
+        "price": 8205,
+        "manufacturer": "Tesla",
+        "createdOn": "2026-01-04T12:11:20.000Z",
+        "notes": "t9F0OaalzGi8Rv6DFhxdlf1egHWkqISD8zAM9DVUwSOZHZmhlKXKVVFVcihSY9BTGm14N9oIjVwjEJaGtF8Qer7nKvAvxE3SrMoHoZyxtjsAONfTbi44KwzKD1urapZsuimHOYrJBLwhpwFmrTJSFJZ4f6EdTd4D9mzOYAmb3luqdn4VT9AwESXp6nuVd5K5cdSupdKSryjPb3CUWmLzDJGt3Djm77IP9Qca6K2dAgGWSaECLA3oacgDhu"
+      },
+      {
+        "_id": "695a59251c508c5d5ea70beb",
+        "name": "Shoes41526",
+        "amount": 362,
+        "price": 8241,
+        "manufacturer": "Sony",
+        "createdOn": "2026-01-04T12:12:21.000Z",
+        "notes": "mudaOK6gfBwHixSuzICsAL9CBTjatcWOCxPyRJyqtZ38jzs2V1Z7PxygdMgO4RCKmqTgRBjyjaAAO1xPyQQsXOjvLCvaqkCb9lxNnCbwcMmVVESBG3FeOeiEo3N95fF1wjt4Vl2gY0rd3GcqOewC5rb7pM1HbOD6sdPCEWJt8B1FHSq9qpho3onGlQhuUag9ZAMmoeh8P4Fqjo3kJmCHe4dxksc0qVN3RuItujcKtGO10HcEnboi62lxsS"
+      },
+      {
+        "_id": "695a57171c508c5d5ea66271",
+        "name": "Towels32049",
+        "amount": 990,
+        "price": 8346,
+        "manufacturer": "Tesla",
+        "createdOn": "2026-01-04T12:03:35.000Z",
+        "notes": "BzZRbl2FBZbCmSqIbNnZVfrlbmgT0uuVlH9TOrtWIEXSNjZV5b2m58XchZY5Cg0jSeh4oqOVxXjiub7snlXJYCMAtfy2q1wmjo8zi0Ynz33VgeKX34ouxD8JKxHQqRMmRkPaV2qcZX4lqLhlfJIbMdj4ophL1jMyO6SDihIM093vkpAnRbUCYh2CsiEUUVn7xemByGPm2JkkTHtoQb08TuZxyj4YgLYHh9Ixq9n8ogy8uQL7PtWtkjhDKf"
+      },
+      {
+        "_id": "695a568d1c508c5d5ea6286f",
+        "name": "Tuna61663",
+        "amount": 921,
+        "price": 8519,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T12:01:17.000Z",
+        "notes": "DsH5sbQrJxeTwlsO374Aqpf6esffCRbac0RAOMLPOfcXIfYVx8ytsC6IprbKYdn2GWs94vgDkjziA4qF9jcEmQA8e2utHoCY0ixGXp01j93x3zkMJ6swRVKI3mjGXfBVUnBiluh7wt4Jh37dNOTbnBNgluMRwyjvCXeLHM70OKTebJIY6zYNygmSrgLdyptCbBPVyNbigWGHKicwu1SGVZjGeClUAcpoWhGaxkxJGAuXq5TGW3Q514izor"
+      },
+      {
+        "_id": "695a593a1c508c5d5ea71b31",
+        "name": "Fish52790",
+        "amount": 952,
+        "price": 8536,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2026-01-04T12:12:42.000Z",
+        "notes": "djbIPQpVIqVAJRFYjUhuRn93U3APYzO9cgghXcGbONTabvwnIQph22NTZ840qpTgMWHbQUauDfanVUAQRTIMGp9jK0tqjkwNP2VEjRLtjxMO3Xzyb6IVOR7bXgYSrEws8Eqf2SfXW0eCzKqdaSQ8NNnXNnw69WoOLd6UrtAl66suXkUciO4TLSu8cqeEyLQ3hbud1ithHxHro8sYEEMQEZB53YWjdGThzkiuUmzbObEOIKOeSMOefk0zft"
+      },
+      {
+        "_id": "695a56821c508c5d5ea6250a",
+        "name": "Cheese10517",
+        "amount": 623,
+        "price": 8958,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2026-01-04T12:01:06.000Z",
+        "notes": "EWkgML8O7pDLVbGJroBO79RJI8amkNsKWNhgCU5KmDnEzJmOQGH2kT1q0FkqjATj32Qosmi8acprc0pXeogJSFFGH3BaII94iBRiBdtUFop7FmqeEuu74e1L1vWxdBIzvuAQwjSWCuQv9fpHOlssjuY7WtCTWOZt3AmqJdrNxaFLEv9ulPUxzBDuiO1SGpKgIcI5aza8yIS6KmTRaAfYFRNA4tw8Jbflu46UhwmoKWyZfijqD3FT8PIUow"
+      },
+      {
+        "_id": "695a58da1c508c5d5ea6e796",
+        "name": "Pants54829",
+        "amount": 767,
+        "price": 9076,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-04T12:11:06.000Z",
+        "notes": "UtoQUfuOWjb3uku4cOeCUrZY9zqGcR3ekwb0LGMvmDZ8kzZ4F1JNQx66x3GiqX8gU0SpOU33z8SHFtKMq0suSGoB3JxuRxUFebrsMjEwbttyPqXUscrrLeiuK33vSR7zmxqvwkjLUty9UinlG4g1QXTTRMQjVSCUQkI8rjMK39gcTx5I0zpHtVehCCDlSdu5uLgohKgTbFdixGgqCRGVXxlM8qGYcxQ5FOpPUlIymH7JjBt7QX0p1KYplr"
+      },
+      {
+        "_id": "695a590a1c508c5d5ea7016a",
+        "name": "Gloves27771",
+        "amount": 430,
+        "price": 9446,
+        "manufacturer": "Sony",
+        "createdOn": "2026-01-04T12:11:54.000Z",
+        "notes": "C9Haj9fJ2U8QEVLGtI8oAck6Hvyh3BmaHdKE37gS7UjIK054om6dA828NXQhK5fFHzIuZCWxLOyLm62jNXsW42lteo06gBswEJZGaMquSSDAjBUEdbcZ0zns0pGfzDFGz7gpeTzAKckf65pXe0dPCK2S9RTCe1i8N5Ghgo5tc4J3gVzqW9NtJtmfth4sSOIryI5WycqEHA203bBfmXhTl3Wboi8VrceGux4rvhIQ6J7cuhNUU7W3T18ycy"
+      },
+      {
+        "_id": "695a58f01c508c5d5ea6f0c5",
+        "name": "Chips75654",
+        "amount": 777,
+        "price": 10147,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2026-01-04T12:11:28.000Z",
+        "notes": "uKhwUFXBqJoOGYshbzdWbxzCCwjMGiSwZUTwAJB3x2hOBnbRTPyf66JLCAJQQeu5CeaMyicD4FVOdEocAqsmBa2psvvWR9rpoQbYzhl7QmpjRoAhIJI7GKvMyCrbCU5VoJIm7KLGdw0mF7QWbYnuTZqoohES1i3bkG4bjXPz0wNz4pZx2KTWJKyzuqw2ZFTtc6v6cgeq8ceLL0vI1lHr5XgTS2bAhQbNuCMtpsyKTuWHuq39DE2isLKN8U"
+      },
+      {
+        "_id": "695a55341c508c5d5ea5d247",
+        "name": "Sausages63015",
+        "amount": 570,
+        "price": 10442,
+        "manufacturer": "Apple",
+        "createdOn": "2026-01-04T11:55:32.000Z",
+        "notes": "kMtkVxLKSCQ4bkpoi7L9eq4ExanL8JZMO8484XlpO6XzJR8ltUfY36O1G2PC3rrfV9WT9pwJBTkelIJfJHWLDF5gLzhzNOA7b4SmsOcuxMMyd0R6dkAcrNrbiN7fhwtzNeZjYUp3Mxx2IOgTAlve0NVKZY9VAIZnJGeuup8Tzxu7A2zTZ7hQrRUIGzJuhlEAI29zPlIYHDM7KTKZnAcRRB73hCZEcEJ3K0BTcrnjwuyt11VSGs287NoCpl"
+      },
+      {
+        "_id": "695a59321c508c5d5ea715dc",
+        "name": "Chair75718",
+        "amount": 318,
+        "price": 10452,
+        "manufacturer": "Amazon",
+        "createdOn": "2026-01-04T12:12:34.000Z",
+        "notes": "VdJ3tdQdsZ8Jn6SB6b35sjHqvZRMI7pQQdgyec9bpgcPnNTOwarn0M3TdWGcJxiYG2nRwNqzaadwTqjE7hVuGMwvJE3QjL0XgTIHXdukGsTZuHWJyKZxM4ZVxSrpTw3FtwJ68sDORWNvdH6eGfyR0xmZIG5FqCJhMft1Ztz8xe8h3eemTPFpCUmcV1wchFLm9gOH2CaY2lWTsp6FNdZgSKKA9aWBNd8E7GXd383jjVWuWtd4w4WjOQXaFy"
+      },
+      {
+        "_id": "695a554f1c508c5d5ea5d89e",
+        "name": "Chair36139",
+        "amount": 128,
+        "price": 11546,
+        "manufacturer": "Tesla",
+        "createdOn": "2026-01-04T11:55:59.000Z",
+        "notes": "05iHcTG9vEEYDhGmyU4pSC2fROl3vUKoQWRn3d3cz8dwOta7TfUScUy5s4qYTIwztLROP65ZkRNO0WGxjN2cEL8axp07sFAG0G9oQag5vgQg1TtyDQSq4u7OaVawls2kRHZhmu1kXw4JHS719ogFv2J2qCn13OnQh3jPMuHPB9t926QuXoQGKnjzZZm6AYA5dCM9hx9CPs63ciVJddCvtxUSKzAtGc7P2X7r76QxtPkbCS96jC52cbhf9G"
+      },
+      {
+        "_id": "695a58c71c508c5d5ea6e233",
+        "name": "Bike29420",
+        "amount": 660,
+        "price": 11731,
+        "manufacturer": "Google",
+        "createdOn": "2026-01-04T12:10:47.000Z",
+        "notes": "8zgzOHualmuVPNq5i6up1YWjFkB1WExWDeFPGQcCUjgLJAJprtareScGrPTaHpULAfbyAGmQciKh68lipTQ2pnXs3pLbEvmJb1vtSmzsb0gMFZipmCV3qn6k9TMpbwfcYmwmlHvmkoWclGLd8kuEFsRtNlT0QVDDG3a8F9lf1innsbngCu5l1cYYLZtcLoYLwona3ncmbEOpitSNQh0VSBfORKAuzKIyz0TxoKx8gCKCV4fyXHt2riXTQm"
+      },
+      {
+        "_id": "695a567e1c508c5d5ea62347",
+        "name": "Pants54759",
+        "amount": 969,
+        "price": 11772,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2026-01-04T12:01:02.000Z",
+        "notes": "WgXbswWoanbBXk8cF3KQqpx9GqR1vAh3yHmzQn9ERuaOFfqJoW2y7naoMjyDDqf3Omy8VtapYfNQ7LeP05j9nGeBpveabLKM3bZvNZqsQBZEfJTddre0ijNlLoGU79G4aX9tQtmiXPXnEIxnx7y8PnMJol3Q1en9wtvh9Mk2DtIZuMtQZa75PH1ww4DtgD1LqGi6LFLzNta1CftLOYXWGAlaKFV3kVpgDDHKB18UHkGctFy8CdMZFdIcL9"
+      },
+      {
+        "_id": "695a556a1c508c5d5ea5df51",
+        "name": "Gloves28939",
+        "amount": 405,
+        "price": 14071,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2026-01-04T11:56:26.000Z",
+        "notes": "jJdjZJppaHmQfbNQRCylvJNyEfEJapLwf3dTR4VmrJHV4407QmNGY9pbcJavtJpPUCEx4jPKJjBmTT3Yj8SIAhF34ucY7MZcUUQwDJ94KD8ZgJaYdjWzVb2DTjI9CXz4LspOwO3xyxDjjJjQYQlEo2TbdawGoZ7YKWWCPLKpAop7xOFSkeMY0CLciAFJ5UszGwbRavZffQGAzcT1LTRzum4bjfcz6d9qhAfPvxVfAd7lIxM0svdMqFnfhC"
+      },
+      {
+        "_id": "695a554f1c508c5d5ea5d8ae",
+        "name": "Chair37852",
+        "amount": 130,
+        "price": 14837,
+        "manufacturer": "Google",
+        "createdOn": "2026-01-04T11:55:59.000Z",
+        "notes": "sCPBchuyPMx6PIevpaFZlUHMeWiVowoaogUqliusw0LOJTzijooOEjqcX4h1wXD2XKFlj9ijVdGA5HTQITdTmVhR1sx25ppnIStRp6Ypcw3qUcKDHmXT5QKRH1jCDUX8x715qXIpwEthTpw7JiZrPOLUP7pincBh8E75GPNcC8yDZVVNxxvkQauf1ihyJE7EvjxNBTNAnpATh2Zf9v1DzYIRl8fhOQZJKlo8YfJHQVYKC8cxaNXSAURZgQ"
+      },
+      {
+        "_id": "695a59281c508c5d5ea70e2b",
+        "name": "Chicken41240",
+        "amount": 274,
+        "price": 15933,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T12:12:24.000Z",
+        "notes": "birqPnATDO01susJNGICpa2MckZjws9udkw8zSMTwVIOBsKqjDs9Bgq97felGLgwsBVDowmI6x5mMCBiWXnrMIuUkhCQT2hExLvvqu7pCWk2pTw6ayxvsYw6SgXMNqZ786JyDvArnMaTsCD9uuHv5WzaN4h0lVKgWafAoNQVfuJ63j2FkiMlKM6ntpqt8EZTiXEyBShCldDdLdntyuSBVgNcDwobeobXtVbt7UyYWuBQSx5Gv4yxZLcrrb"
+      },
+      {
+        "_id": "695a56ae1c508c5d5ea63428",
+        "name": "Shoes80643",
+        "amount": 939,
+        "price": 16048,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2026-01-04T12:01:50.000Z",
+        "notes": "kFEM7NlUiyvWLrk5SgyDlD0lCgmoj0AaSWOIxWwakugp3OpfUVuZMO4hVePW2NQeeGXkAthTRVdXZ2cjy0P8eEMvdCREepWVdWpIb3mwhf5TjhUau24h6DGpHQEm2ta3T69gm7sPdpmYzwtyVWGTnMIkPmj3EL7UfTxr3tp29qCEBj2dCXuglu05JcvOH1EFZ7hwX7Hu5mRZCUmu9hwzMH9OphNry9aqOpxgQC3r7ZTPQoXqmrNoFHTcln"
+      },
+      {
+        "_id": "695a56841c508c5d5ea625f2",
+        "name": "Chicken8952",
+        "amount": 440,
+        "price": 16756,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-04T12:01:08.000Z",
+        "notes": "pAM135JChCRYiD2NCCk0D97pkv5GkL0Ao3a3ohhJrwqI4WfbNRCw6P7uIShYsZaycQcX4XDdl1g1XYPqr5OXSbCdjPcdgntMA5adurp65x2qJDoNZB2ctHUmlYcVbh3T2qLpACjeWi9d9OCKdY9A87MRkp8KghtFTspviwRtguhoQEqRCoRtOutb6hRQ7iSeLEqwQxn7BA4UHJSNW1jy90XoSllkpuTrhZWrr9MOvAemKg0DDpzY5YLMsK"
+      },
+      {
+        "_id": "695a594f1c508c5d5ea723cc",
+        "name": "Salad17908",
+        "amount": 241,
+        "price": 17228,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T12:13:03.000Z",
+        "notes": "6RpsREUxFEzMkr1EUnKyYM9uS61REv980nJa8FE6lNdi2msOUeUuLCaVKspA3Qaaw7SjFHBRZXvIfaAAcjIDR6HigjtA06FneMIruXtXle5XmX1QqbXjCrkTFyIawxM7MhYpi6yOsBIgTslTyGz7VdJbN2C43qEnLq45rDO6Hc7gwgY30aktiE1tfy6NgMds6WAJfNyKGL5ZIlf6NU3QBr9E9VdnireYKwDAVdDlLA0QM0X31eU11Ptprd"
+      },
+      {
+        "_id": "695a553e1c508c5d5ea5d4b3",
+        "name": "Ball38027",
+        "amount": 296,
+        "price": 17232,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T11:55:42.000Z",
+        "notes": "hfTmBNX1ZEIWPc5sysXHudFaQrdMkfg3nB11TNSUkzdOcrgyi8XM9Jj3kJIbvmqNQq8txuT3WJICzihwqmdEW0jtrBxKI7HgFkfyQJjLoIsi6s639D4S3FPTcQiYr8pOIQjgg7YQk5ykEs6ikye50tyo78nMZ1p1r3sSynpsxtTZRCyAQHKv5ZQP5S4EMjvrrxz7DXwYA7JO1jpn7rA5ab6aFHZuW6AXF5312ggc4zlQa1ArqxbNZBhJ3D"
+      },
+      {
+        "_id": "695a556c1c508c5d5ea5e059",
+        "name": "Bike1836",
+        "amount": 523,
+        "price": 17332,
+        "manufacturer": "Google",
+        "createdOn": "2026-01-04T11:56:28.000Z",
+        "notes": "uBAuflGUqcz4ewV8TXygdC0k9uQJkl510AerQM74fQQaJ2XLB2UCasBpPeYS4cOYPkNmrAhRKAgKUPhqlX5n3lmCazGPRzFJu0VEvQ11fUKqeptB04NMASHClaH597MzJXvFkHGlHUfatEl14fVSmBByRrTj2I7CqUY1RSVM2utMV3FuT8cfjroLoMsTSjgbKljiRxbI2EnsKrHkynhxbldo32QVEsbREduYhajdLJuO3gvNTKE4Vl5coK"
+      },
+      {
+        "_id": "695a58c91c508c5d5ea6e33e",
+        "name": "Pizza7035",
+        "amount": 369,
+        "price": 17839,
+        "manufacturer": "Tesla",
+        "createdOn": "2026-01-04T12:10:49.000Z",
+        "notes": "COTLccWPm88G4Ab3syq7E0dvymhrn9KQ66Is8no8EKsYWM41jMjmyzqs9oFlcQ7wn9aHEOYyVcMZNgkZLE5HzBpi67GOfvNsgDHZlAnJEzVqfwQD6KMk54l1yF4rkI2Wp2BbYtU60ZEyPwZsepL0xyoAAqxyCQrYEBRcDD8IfL7KN6Jzzgvxiv1Ajz62bgeOH4k8iHwtHCdMzbbAKS8XkwJ1ZbB1jhHIDH68v7h6cbbOm7DaGOJLVFpfUx"
+      },
+      {
+        "_id": "695a578b1c508c5d5ea69ab3",
+        "name": "Gloves54964",
+        "amount": 706,
+        "price": 17920,
+        "manufacturer": "Tesla",
+        "createdOn": "2026-01-04T12:05:31.000Z",
+        "notes": "3eXnbv0hmYXCyQ1qDDtuLckrzmeQAjXckgoMDElqhgbwp3EdZzUWJEZ46inLPKQ6neckNS9uOIb3yzRr0JBsUNr6IFQFV63FDjESl7QkeegFGppzsJPgiOF4zhiDRoJPmQb8sgazilyooBZU8vRaStVeSjvUHPdobAMOjp0KT2v8Ism8QHsPQNpLm91fVVQduxXr0Lz7ba221FhlkNMO7BtxdvkWbkAeGJV6fKSY99cLJB5hnmqEui3knx"
+      },
+      {
+        "_id": "695a57831c508c5d5ea69676",
+        "name": "Computer26671",
+        "amount": 899,
+        "price": 19166,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T12:05:23.000Z",
+        "notes": "DMd2EE5RD8JuYVqrWgcHxAMb34jDUBKBg0tGxU7Pz3zYPsB5ysGYIQ7JYFnJnGz3nmyQvxX7w8SBkqLXNqVFMgXCPJWXG9AdNJJ0YOVVmUT0OF1L1ihmajOOMjqn8Wqkf8sjjXSdRKLicJUmhWpeP8PzFnHLxtq9rBfVH1MtSqy8vbwjLa4kdlnKo2eCLSHXCLY2Xfe698l5eAL4F7JPstKhkRizWKN9vSOkkV8mAmI36wYY87Iac37HiK"
+      },
+      {
+        "_id": "695a553c1c508c5d5ea5d3df",
+        "name": "Soap42652",
+        "amount": 298,
+        "price": 19212,
+        "manufacturer": "Amazon",
+        "createdOn": "2026-01-04T11:55:40.000Z",
+        "notes": "h0lnE4MzIjiNpuGnCAS2BGbSrglhCBiLScMVR29rYSmLqBUitYkqaL7lOk1rHyuvIaKLiWAmhc7Cluiq6DakV6ER4LbDHvYNZmObKLn2lffPIK670YTy81YNKc0QXalWh2KXaB4zFs9Q8KGPD8K90HCZSZIdWP8lp4x5xPWDXePZYd1boHGij45ARc93RuWj3Snd2LlVVogwxfpkNkDnoTf7ADqHrzT0CauonDoPRRbzpiLFUwdC1sQ4su"
+      },
+      {
+        "_id": "695a554b1c508c5d5ea5d7b2",
+        "name": "Chicken18284",
+        "amount": 314,
+        "price": 19471,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2026-01-04T11:55:55.000Z",
+        "notes": "1OAqh0qqBOptyabVKnbnwgZ7x6gptRrt7I19yNp3kEQd92CGEtyUbYOhYX8zLxxupqKpLrCd58jKCDazcrmUdicJU4EVJtD4Ah9qTYPEq0E9ihgupc01QQNW2R0PbgYimUdgtRMRwIQ9rzzkYDxpSoc6eAqld1ebbUQQKPhcDAg4rYkDOuxAfgVt5zhTFWKCEpHinZSusPJ9Jqi626zT3f22c7BRCrPyuVBSc7OrXgrMkXHFFxMJRbE64n"
+      },
+      {
+        "_id": "695a556c1c508c5d5ea5e04b",
+        "name": "Chair74991",
+        "amount": 362,
+        "price": 19675,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T11:56:28.000Z",
+        "notes": "nWX39C35XGo8qkZ3a1DC8uEhvXRMMj8QXdRKB8vB6rE0YScxLkPmzIeoOtKz4AjSruJTQliL7kaAZCa0GBV2fI6aJXKgECsQVQQg5RAZm9VIhJdww8IXw5wkWRtmv1P5QjXOxTnhilF2RCQoHGNI2Gv68BKJCV9yX2q450VmJOSnYDRkpf1DJWUDVNzTf07gIAa0Egri4RGUScwJjIqfW1mX7mWXhRxAsnBNsnnMg5OozxAoDmz9UmkBqP"
+      },
+      {
+        "_id": "695a58e11c508c5d5ea6ea74",
+        "name": "Mouse44273",
+        "amount": 883,
+        "price": 19913,
+        "manufacturer": "Amazon",
+        "createdOn": "2026-01-04T12:11:13.000Z",
+        "notes": "DX4gL9CsEg7eBvZ0Q0xLk2DE9WttFv3w8RvQjW9u64AFrr1SuvAl8Dojl96QCObemh5ZrEwAgW9M0DLaW5y4SKuc506K2TKb4ZjSwbTOMmjcluYk8qKCkGehjKDLNcrwSkA6kEz6IgAtrLjc3dq2sArUouRYhVxCUQCtE8x8t2bZ8s11UzD3RIQIFSWb70hwFU8pbGIujTfcpQZfcUqyJVrkHyGNU5Hga2vtRTxbw6H8XV9sKTk63AUskH"
+      },
+      {
+        "_id": "695a556a1c508c5d5ea5df55",
+        "name": "Cheese94112",
+        "amount": 141,
+        "price": 20046,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-04T11:56:26.000Z",
+        "notes": "qsSO8MWbPSmILqTHcQhxqx1DEZbbT2RcI5zjehiGoO7RVKXQ6H0inCJ60DgPiMRBneg8bwJcZ5KWdAfwJJMazguB2mZwooDFQmSdhOnZfR15uCVovIQr4XnYfqSc9WhbzOONG2p8AErxO45LMFbCSo3IrBCM4dG3bNnc1pYJcHZjgg8oaDNGeuMsZ7U0wDdvBKpV1E0ysgcWo1myanx9Zg16gSrDdsgWKP70nywS33eSfyMil7VmNZJSW7"
+      },
+      {
+        "_id": "695a59111c508c5d5ea703e0",
+        "name": "Shirt83265",
+        "amount": 439,
+        "price": 20163,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T12:12:01.000Z",
+        "notes": "Q4gMVUAKHDXCKfCxzoEP6wG6cj4LOYMEfSwwTJH2935vWJSlQeULVuFosxS0YaTDuX8rtvgY3mEF1d5TYqkKEogrgf0ROJcy3VtCcGzZBiaQRfupTfXstyov1QKBSzYHaTwvs39IeNTylDNxssTcPD7A1laDhjBBFN6eZ1SwW6AjbseFJkIzNff4akvCNcXl6CGPxmOGdTmNlpuiCgyWlnJduX8mUc93sHbd0ZnhinDcBJVSiuA11SVVXW"
+      },
+      {
+        "_id": "695a568b1c508c5d5ea6276c",
+        "name": "Car90408",
+        "amount": 146,
+        "price": 20226,
+        "manufacturer": "Amazon",
+        "createdOn": "2026-01-04T12:01:15.000Z",
+        "notes": "ypsoXFGwm3ymoZEJeREZf3f1DzsfTvy5oxGUIfYRltl2eYXUYu9eh5Eg0DN6e5zSNfCr8PFcZeNjkHu5GPlXCJUyfV64dteydp9oeoxKkauBMoi8jX7NPv8v2V6KH3pULHYazX6XQe4kr0OsZxwxYHcI9Id4H9Qb14v84uBReRarPfsTKrIjXNPuZ6KgKYchYw3tRncOmYkaa0M6B0E8cE1Z8iKb0nE2ScDVryLVvxW1KQuig3Tcmt5jHt"
+      },
+      {
+        "_id": "695a56ec1c508c5d5ea65013",
+        "name": "Pizza45311",
+        "amount": 142,
+        "price": 20270,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2026-01-04T12:02:52.000Z",
+        "notes": "PlvSOEYoVumxcBQ2mAd3wXEZPK0CIPuSbbumiC1VXnIQJBYNISHQCrZ1jQ9OTO98BRdH2TDGYLkkUZFkN0ngV8qyuUcLBlSgVA66H8AjY1XEw5dMFKZLcs7l7o8uvgh7yYMixC39ud3lb19z854HrR0I986UbAX1t6QQtvqNyKU9vBjmXyTHajbqaXxQe37Ic0wLCw60hg8xWNPq0Ft6HQUr9c4MFhPTZT1wU7UJyGaoN1j3SmEh2phZJu"
+      },
+      {
+        "_id": "695a58c71c508c5d5ea6e237",
+        "name": "Bike20066",
+        "amount": 354,
+        "price": 20415,
+        "manufacturer": "Sony",
+        "createdOn": "2026-01-04T12:10:47.000Z",
+        "notes": "QBlURWkxD1DmihJFVvm2dYOCfHMaNlOsGztgryHDFv2B8vvjAWbyzjB8Ea2CAnbnbEKV3bJNXH5X60Y80GQbG7LeRntRFGl1bQT0w6zQvPboiEWkQN5zJMLS4KtMJyAngTIEfJUw52rTkplMO07ZQeLjBxg9uFQtdm26n4XYf1ej8sZc1MLj5nZHq0rx7PqaKXRu77pOsMlFbkLgQ4JK4T0wpOYaAXx91K4mfaC838ytpWyKDLiJJrph7c"
+      },
+      {
+        "_id": "695a56811c508c5d5ea624d0",
+        "name": "Towels88991",
+        "amount": 525,
+        "price": 20552,
+        "manufacturer": "Apple",
+        "createdOn": "2026-01-04T12:01:05.000Z",
+        "notes": "IvEEDJfMhTTJdJ3AKi3MWsJTbkLgteA0CX6BmIBGTMNgmgoARQBX6qqHjnmIjMjdXIOcEaB7T2godjnUCj07clitCljWuBQ2KJX9W2lyhq0WURh0ZLmKx0vnGtgoysmWydVvIJu0plCoAyjNx8heji4mL77o8x0lgvdMi9YldrtKkYFuSjzC0PGd9RzLwpdK3BAK05PfXdf69LJMUwGR5mM0hLtXvVLVyv9pXuHgx91mDjijS4O6i9LEsQ"
+      },
+      {
+        "_id": "695a55581c508c5d5ea5daa0",
+        "name": "Bacon80770",
+        "amount": 953,
+        "price": 20892,
+        "manufacturer": "Apple",
+        "createdOn": "2026-01-04T11:56:08.000Z",
+        "notes": "i5mMVgMdhKI2UTCzYYcpF0NksqvjQCABqAkBtMvKnJdiG8mnDP7jYf5oGXLpAyc0xmYG50mPoMA7XcuaUtysNo4A1XekNGRtzV6dL3CHSVwhCr9kX1F2fKs7e6ButWNZkotVmzw5p4lQxVEOuF28RA2K3u8BV7aixSfzH6nAyDroVyJ1iv59LXNNPl5TpKVuwt2pEk4hhDI7jVJyGZeSD7ZGghb9t9YZDARkNzNo1zt6zhFfvhWH5TvX0S"
+      },
+      {
+        "_id": "695a58e11c508c5d5ea6ea82",
+        "name": "Cheese63924",
+        "amount": 41,
+        "price": 21023,
+        "manufacturer": "Tesla",
+        "createdOn": "2026-01-04T12:11:13.000Z",
+        "notes": "W7QgQo4Pxv6k1L8EaUC70wNlsJ9Qp77ggeWQigCWeAsB4qQMzWeouUtrx4oRKlN9hGE0KPYQGbAL0gZ4amZtqKmMN8DEoQMpmVFvLFZztOm5L6vuOHuAFURzdVuezHmVJb0w1GGRlMQIRCMiBK0G2Q0TNP6GO0rzJn5lBugzHSRJbbu4s9MdTPF53zkKpt54VbtucGKIoBDCZYWnvKNeIslKnQzHnj3sTXdNjldyxNOugRd4WAFxtAIto4"
+      },
+      {
+        "_id": "695a55371c508c5d5ea5d377",
+        "name": "Car78118",
+        "amount": 573,
+        "price": 21307,
+        "manufacturer": "Apple",
+        "createdOn": "2026-01-04T11:55:35.000Z",
+        "notes": "f9WbGomfYMR5gJXPxR4V1uFCcpK4fuZ7GviYnSR83D2ukzNySiDXJT8pFwyTxF1hXrjz90v1tyAwRDqwNPaQ7VoKNQEIFFrAcwT4L7dNtbzwYOlDxzPa5WDZDojQkqSP1zDTFBJEX3uT5bzepjzB4d22YqDMrUyVKtVj5UNSP8Ort1VrQ7EgmLdE8AJhUwVGVGOXzgVezcioXQd7OUnJ2YA2MuiaAfl77hwEsWPsoAMDj4WDk55ismkVNf"
+      },
+      {
+        "_id": "695a59c51c508c5d5ea7576c",
+        "name": "Car88570",
+        "amount": 395,
+        "price": 21556,
+        "manufacturer": "Amazon",
+        "createdOn": "2026-01-04T12:15:01.000Z",
+        "notes": "8v9qmvyiGuKmtijjBgF1GW7RBj1Fo4LrlJnnnfujQZxQtFDYQsC7ldHMNPxZop0n0bNISUIl1pydyV5k2HIRokSBVEXza1hu19n7I19yF5IXZLv9aBQ9sSDULwLxXOau7Zd4iwZtdIqYzcnEjpIHk5L2kUXu2zTXx6nrVOX7vdOLKBoiAXhSEnyLpxTcUUzGbcrnmU5erU9sC5pTpPEN4pKaejILwWDOoh4VKbljQyrnKCRSgiKvRP7OhB"
+      }
+    ],
+    "total": 412,
+    "page": 1,
+    "limit": 100,
+    "search": "",
+    "manufacturer": [],
+    "sorting": {
+      "sortField": "price",
+      "sortOrder": "asc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

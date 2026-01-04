@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-GARbcy9SfIWEjceqiReAcC/NVNg\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt32382",
+      "amount": 758,
+      "price": 36985,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T12:53:55.000Z",
+      "notes": "iZneDPp9Ea2rpEX9vdwO6s68YTcQ1zDwsLvjzHYr4pa4qwGqaUZROm6KfGxMthrMkcJVpTBUxMX94ZFFBc9Yhg0wbKOGLjnGJ8TQ8U3XUKyy4YMzP115weomNpncHJYNQKo5SbraFUa6r4rLnYGbm1UEegeStLctxRQjDwcM69b3keWVxIzT0ggh01ZGa8FuNNxhGIFYw0sBAm22LGxkui8ypDFmj3y2tdVkqeKDhrgIgMRao3gArLiOtD",
+      "_id": "695a62e31c508c5d5ea7d5c7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

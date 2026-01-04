@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-SkVLCqiNbv8dzW/i5Q/CnMyza1I\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips70772",
+      "amount": 797,
+      "price": 99999,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T12:56:10.000Z",
+      "notes": "k0XZz00qIzU9fb6rid2UW601RJPfqKcBSJbp9ypLr3wA4UoILF2N7B2lW6oDzrZ28O5BRk1SyURS1dQG9LEents7dd6LGGbWICP6YMCDzZQy9XUN0kuoUzFbyjKUiAQvQTTjinFIGmkOkA3Fi4j3nebIiSPZixpzgz9w2r8uOxmEzTi93sA8RtvXv51QmZsihwBMkApXPDVet4TWnzyiOwkLZWDq3oTaD19p6YpwMXSGg0ZGFPzUETDxGk",
+      "_id": "695a636a1c508c5d5ea7fe78"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

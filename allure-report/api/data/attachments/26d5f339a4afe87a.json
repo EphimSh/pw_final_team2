@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "138",
+    "etag": "W/\"8a-ErGAm9IPD9vxAxG+1ys4YDNBIQw\"",
+    "connection": "close"
+  },
+  "body": {
+    "IsSuccess": false,
+    "ErrorMessage": "Cast to ObjectId failed for value \"invalid_id\" (type string) at path \"_id\" for model \"Customer\""
+  }
+}

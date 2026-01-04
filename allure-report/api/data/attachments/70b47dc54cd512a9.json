@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "361",
+    "etag": "W/\"169-3/Ub0eG3CMogZu1yJDjJosEoOrE\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Norma.Parisian@yahoo.com",
+      "name": "meSJvogwXQrwosDbkXSanaDHvJgZURCQEAEcBpP",
+      "country": "Great Britain",
+      "city": "XvbmgRiySXkeOOUF",
+      "street": "8YgNJy037r6kQKMfennVhrwP9",
+      "house": 77,
+      "flat": 7,
+      "phone": "+4120260802",
+      "createdOn": "2026-01-04T12:53:20.000Z",
+      "notes": "JjTZxGQMbzNL",
+      "_id": "695a62c01c508c5d5ea7d17c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

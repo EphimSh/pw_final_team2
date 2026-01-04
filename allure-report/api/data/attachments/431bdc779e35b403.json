@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "397",
+    "etag": "W/\"18d-B9jMi0TJ1ZfBagS0/paiIafepJY\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Felicity71@gmail.com",
+      "name": "sgtRBKJpzagMWeNQhKCLtnU",
+      "country": "Ukraine",
+      "city": "pQSeP",
+      "street": "rXKnBzjhWfkFNCusyqv52s2ap",
+      "house": 69,
+      "flat": 6,
+      "phone": "+4571545032",
+      "createdOn": "2026-01-04T12:53:31.000Z",
+      "notes": "9kZRbFpVXkPidVqVYFq95ifvILprs671T4bAakcp85O8JkbDJp82pufX3CoJVeo6z87wF8YpR9ci7aSX0X73l",
+      "_id": "695a62cb1c508c5d5ea7d202"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

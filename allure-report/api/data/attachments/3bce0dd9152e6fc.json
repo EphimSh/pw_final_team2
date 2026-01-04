@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "358",
+    "etag": "W/\"166-oQZZQc5+tgkVqeSI4IVxz9DlkIg\"",
+    "keep-alive": "timeout=5, max=72",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Margarita_Lang66@yahoo.com",
+      "name": "cmOMJb",
+      "country": "France",
+      "city": "AXspaCanDjhjrY",
+      "street": "SxAYhiO9hv9jVVwIzqzNbV1Ju",
+      "house": 128,
+      "flat": 4,
+      "phone": "+0013039922",
+      "createdOn": "2026-01-04T12:53:52.000Z",
+      "notes": "sUWClOBFp485B7MWOTKf0mfQwQQTzNYTLCu3BjcQNS53Oii0",
+      "_id": "695a62e01c508c5d5ea7d51b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

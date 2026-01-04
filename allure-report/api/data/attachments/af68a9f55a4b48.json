@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "325",
+    "etag": "W/\"145-ggTVfH4sDNzVGevqOjPVEQdyVQk\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Meta.Erdman@yahoo.com",
+      "name": "GC",
+      "country": "France",
+      "city": "IuwCssKbFBGwnh",
+      "street": "KEHqFXyK0CVyLxcw8He2R",
+      "house": 148,
+      "flat": 4,
+      "phone": "+8997603024",
+      "createdOn": "2026-01-04T12:53:53.000Z",
+      "notes": "QkbaSkPJHXwcflCOoUNWF6fpkJg4",
+      "_id": "695a62e11c508c5d5ea7d51d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

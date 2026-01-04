@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "435",
+    "etag": "W/\"1b3-pf7aU2ukahvBHHqvpGDXdm3gcfc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Javier_Lynch@gmail.com",
+      "name": "NtdxOIWrjuXXVblsVblbQfhV",
+      "country": "Belarus",
+      "city": "upexWEVcbOSbEicYW",
+      "street": "Z0mXuVdZLLRZcnjI2IsX7V0rp1bhj5",
+      "house": 59,
+      "flat": 2,
+      "phone": "+7904233622",
+      "createdOn": "2026-01-04T12:55:33.000Z",
+      "notes": "xmdOEk2b24BAJnDN2pxYZt5VOfhSgJg9LJIrUJvIEv35ovSENLkNpgO4hE3ESvVQnChhDCtEiEcI56VwZ1PW9sWOoS29ulgVq6vodtk",
+      "_id": "695a63451c508c5d5ea7f229"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

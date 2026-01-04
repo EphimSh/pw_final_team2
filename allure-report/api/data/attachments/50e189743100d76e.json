@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "361",
+    "etag": "W/\"169-edfH5lkA0D9dKoOzYwojuacOGck\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Malinda44@yahoo.com",
+      "name": "xIULeGxDoHGjYBzf",
+      "country": "USA",
+      "city": "MsdLeyvqfz",
+      "street": "ktoImMCswBA",
+      "house": 21,
+      "flat": 6,
+      "phone": "+8502102279",
+      "createdOn": "2026-01-04T12:53:15.000Z",
+      "notes": "NQOVS0QUe4PvgFXjECy5O0GmP7wD59WboTQjxrPE3mr0KlinQjm1eEElzJY6OkCzKA2LXb",
+      "_id": "695a62bb1c508c5d5ea7d165"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

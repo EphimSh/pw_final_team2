@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-W5uRT3tU48rkBtvG2eiWANYhaE4\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese75816",
+      "amount": 814,
+      "price": 77031,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T12:53:56.000Z",
+      "notes": "2LGNQko7yd2njsWj5Z1a4aY2mW5sd6xRlDBBj5X4I55GDuBLDvoFM938iYID81vi6RUAVkOIPKYNRCfU84Orcb7rl5AK2mNs4UDiTVtHlGxj08RsSbb7juV4Z1u2OUm10nRBo0EnLxU7IDme2Ad88FF1a4un3sXlbVdmO6DPFjzztoynoVuzVe9Y1IPTlTR0TKN54vkBzOFzUCA9umN2d1FC1LLzEAHiTTywifoMcq4EefMiSA4KPtgci7",
+      "_id": "695a62e41c508c5d5ea7d5f5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

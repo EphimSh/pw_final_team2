@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "495",
+    "etag": "W/\"1ef-BS7gfyrmJpIATu3ysxkR4MrQrzg\"",
+    "keep-alive": "timeout=5, max=38",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Archibald_Johnson19@yahoo.com",
+      "name": "jUWPyhBJGWcrtKvOxagtlGWbSewUq",
+      "country": "Russia",
+      "city": "GBkizIHSu",
+      "street": "ZXta4IvehAVtIQkuZlvxsYqnhCQWdjRQQzZq",
+      "house": 46,
+      "flat": 5,
+      "phone": "+7932439562",
+      "createdOn": "2026-01-04T12:55:21.000Z",
+      "notes": "l0jrxlgMefmN4OhCqHR8tdNRBIngXN1dP9RDaX2NAVKtbJAoyZje3IFvdCeZDZ3vqggCQWWum8rjSa2dCrbShdm5vSobx0cy2EM1ho5Uwz1dewRtEj2N2rxzbHoNFtVaz1w7wKJfVTgLrVv9haIFM40QOx",
+      "_id": "695a63391c508c5d5ea7ef10"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

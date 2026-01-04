@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2851",
+    "etag": "W/\"b23-Xmg70kxVfeNlW0yqciiME7HstQk\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a62ff1c508c5d5ea7ddea",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a62fd1c508c5d5ea7ddb2",
+        "email": "Cleve.Bartell@gmail.com",
+        "name": "zJNM",
+        "country": "USA",
+        "city": "JFPCnGUuCbQhU",
+        "street": "XWwLECmIlrmmLad",
+        "house": 78,
+        "flat": 7,
+        "phone": "+3078380116",
+        "createdOn": "2026-01-04T12:54:21.000Z",
+        "notes": "9klTwNfRnuperzUGePX9NO0a6rudrslqqygBZNzMXPFujaixLQR80rmZ7MVrbdaw11LJMkLRNxL34PceHXi4mPHiELN0LTDoiHIRgIkLtGzf3uV3r"
+      },
+      "products": [
+        {
+          "_id": "695a62ff1c508c5d5ea7dde2",
+          "name": "Towels59789",
+          "amount": 89,
+          "price": 15223,
+          "manufacturer": "Sony",
+          "notes": "DRUVxdGaoMik1ZqhFgSsRaVHcnmyP0gSIcvhl5tXHAcUZ1tkdtgG0OqEOlLzFu0cGy4aA1Xprrk1XtFbdy2f2SwTt5qxeVzjNLsnapYNRSx8NLoEELjNb2onLcGjH5jif7CJcEOwQtOi2DEsnqR4k4T5Gc1Hn9KmzzJK7I5r9nOjtt1aIiub6UhXCiCjetDgGbL9jCqxehCo1fOdfedgZc5ahlZUesUG4oBeyy8zWu2O1XFcsV4IfSBt9w",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Canada",
+          "city": "Mock City jjELtUQy",
+          "street": "MockStreetAtQQyckXEAkDTLfSfP3OJ1wPpkh",
+          "house": 32,
+          "flat": 6
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 15223,
+      "createdOn": "2026-01-04T12:54:23.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a62fd1c508c5d5ea7ddb2",
+          "products": [
+            {
+              "_id": "695a62ff1c508c5d5ea7dde2",
+              "name": "Towels59789",
+              "amount": 89,
+              "price": 15223,
+              "manufacturer": "Sony",
+              "notes": "DRUVxdGaoMik1ZqhFgSsRaVHcnmyP0gSIcvhl5tXHAcUZ1tkdtgG0OqEOlLzFu0cGy4aA1Xprrk1XtFbdy2f2SwTt5qxeVzjNLsnapYNRSx8NLoEELjNb2onLcGjH5jif7CJcEOwQtOi2DEsnqR4k4T5Gc1Hn9KmzzJK7I5r9nOjtt1aIiub6UhXCiCjetDgGbL9jCqxehCo1fOdfedgZc5ahlZUesUG4oBeyy8zWu2O1XFcsV4IfSBt9w",
+              "received": false
+            }
+          ],
+          "total_price": 15223,
+          "delivery": {
+            "address": {
+              "country": "Canada",
+              "city": "Mock City jjELtUQy",
+              "street": "MockStreetAtQQyckXEAkDTLfSfP3OJ1wPpkh",
+              "house": 32,
+              "flat": 6
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-04T12:54:23.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a62fd1c508c5d5ea7ddb2",
+          "products": [
+            {
+              "_id": "695a62ff1c508c5d5ea7dde2",
+              "name": "Towels59789",
+              "amount": 89,
+              "price": 15223,
+              "manufacturer": "Sony",
+              "notes": "DRUVxdGaoMik1ZqhFgSsRaVHcnmyP0gSIcvhl5tXHAcUZ1tkdtgG0OqEOlLzFu0cGy4aA1Xprrk1XtFbdy2f2SwTt5qxeVzjNLsnapYNRSx8NLoEELjNb2onLcGjH5jif7CJcEOwQtOi2DEsnqR4k4T5Gc1Hn9KmzzJK7I5r9nOjtt1aIiub6UhXCiCjetDgGbL9jCqxehCo1fOdfedgZc5ahlZUesUG4oBeyy8zWu2O1XFcsV4IfSBt9w",
+              "received": false
+            }
+          ],
+          "total_price": 15223,
+          "delivery": null,
+          "changedOn": "2026-01-04T12:54:23.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

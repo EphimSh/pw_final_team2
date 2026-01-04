@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-Mp+KRAq4Z8uBWmwH3TTqiQSBWng\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair68057",
+      "amount": 105,
+      "price": 62243,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T12:54:40.000Z",
+      "notes": "KfM4MRJR8jt9lqO1MEEQjF8IZqq9dVLQ6vo9iT3aDHz4OWDqPtydrhYRRfn3tq9tdQ2GYHvCm6Ov7I2HTImBBbOjhh9NN6qwzsYEQ927L4A7VjH8T7vUtko74ip0KSlJXIdTNKoc7DZDLr0fE5F9lUewq8039dppnlc0DBT0RaMdPnuFBBHAHXqqNBjHeXgofkiviO56W4D65yYhhDRbrwp5iJ0bt53BAs91NQa3JUbe5OETCjR0KLMRWW",
+      "_id": "695a63101c508c5d5ea7e218"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-kiBcajpH8At7Hg9KhXbcUbl5Y0s\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro22828",
+      "amount": 513,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T12:56:33.000Z",
+      "notes": "wh7RV7haWYU9Ne5xas26PADeOBqhbdDf4TY1Yi8qyDKKDpY8OvTTIuBAWRXIO8UYho4T8oHSQcss71WL7cv4Obi41LaHlZVEUsgP25L05OLpKYoc454NY6rRMb27skSDvXxQOqVRIj2h9mqaNNB8gF50L18m3CSPHMai0sTa97ZuYRe3zWeRb7uNlTjYC71ggoB3Vto96LM5Gs7mYzdHoq1DMhQI4L6FZAo9E1hcxPs8OwAHTTDJ9p6UqT",
+      "_id": "695a63811c508c5d5ea803e3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

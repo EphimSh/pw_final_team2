@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-aPsHl9bcWx524EeAcOau4ToQ/AI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike98664",
+      "amount": 156,
+      "price": 20807,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T12:55:11.000Z",
+      "notes": "JiMmoyDwXPUXZlzOMfQWnJfHD7jj5fXB5DoeVBq03MKDPFawjHiAWWAH7dhtnadWdlNQQh6jvtg0sPsJqptVywzWwdYvZD2SqaYxMulnVM68XuFvvzbV5KtMLsrCLHMtmDz7bx0lp8Rf0RuGNW3E06Mi7exM7lIqnBL7d23scPoOVWPyrOGEAFReUwupHGl4iwkndRKG0jVfRlRSfVno5uAI0wdnSGojyVzV47LKurQOhICCM1pvEh5rHA",
+      "_id": "695a632f1c508c5d5ea7ec0d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

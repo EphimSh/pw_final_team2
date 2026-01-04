@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "465",
+    "etag": "W/\"1d1-ifa9Q12HaRTf2VxtXng5xVxqItA\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X6114",
+      "amount": 328,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T12:56:27.000Z",
+      "notes": "OjeGKP2qKVlU9czecQ7lgOyySaImNgjnAnGlpET143x4YqWObj3M7UsdOhoOtjz0zZhdQh0rbmUq9kLcUTCjSBVDQR3DgUIq0ihcDa9s3KI9bL2TGuyhCAEHk2CtYbhC52L1UFwKwSdqhcr4dnB5bA75wd7x0HNSyDgBkiKGV6SdXS7ql9FTyvZnaaZzSMoJOGWxsjW0i9QBQ4pgkJiXVQp53h5piTcGHMz7ARehqHBjtOKnfPBssxJ74P",
+      "_id": "695a637b1c508c5d5ea80320"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

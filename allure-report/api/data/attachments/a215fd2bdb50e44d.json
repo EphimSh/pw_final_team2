@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-RXNjb6wEMgzMB3chRgUulHWotCs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels59789",
+      "amount": 89,
+      "price": 15223,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T12:54:23.000Z",
+      "notes": "DRUVxdGaoMik1ZqhFgSsRaVHcnmyP0gSIcvhl5tXHAcUZ1tkdtgG0OqEOlLzFu0cGy4aA1Xprrk1XtFbdy2f2SwTt5qxeVzjNLsnapYNRSx8NLoEELjNb2onLcGjH5jif7CJcEOwQtOi2DEsnqR4k4T5Gc1Hn9KmzzJK7I5r9nOjtt1aIiub6UhXCiCjetDgGbL9jCqxehCo1fOdfedgZc5ahlZUesUG4oBeyy8zWu2O1XFcsV4IfSBt9w",
+      "_id": "695a62ff1c508c5d5ea7dde2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

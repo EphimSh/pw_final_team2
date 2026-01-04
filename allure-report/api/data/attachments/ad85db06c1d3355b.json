@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "520",
+    "etag": "W/\"208-/y1fpvB4txmN+xXFFOtXa7DcrQw\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Corene_Hodkiewicz@gmail.com",
+      "name": "dmGNioMPjTm",
+      "country": "Ukraine",
+      "city": "oieDumOSWxBtYDG",
+      "street": "HZpjgXwQWMaNU1cVGIsMv7COHUc",
+      "house": 5,
+      "flat": 8,
+      "phone": "+6286900163",
+      "createdOn": "2026-01-04T12:53:53.000Z",
+      "notes": "cZLTvtLbVRIANx5ojAu2qJbRQ8YkTQvsTC0t3DkDCZLGxRU2Ju866qOz3RENFM8nmhbsKayH0BgE6jYtkVFlZlB2gjEQMg18dzMP5SG97yUQ7o9vjjKRen61DnsXYu7lUeTmIUHCIGdDIHTte1ToUBni33HcsdIF4DYTI2iPVbyL4IFXzLfOFy8XUYrHpA6L4d30RlZBig",
+      "_id": "695a62e11c508c5d5ea7d53e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

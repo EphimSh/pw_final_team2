@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-UsGtx3NEyDeDVrzZctq49LxNW6M\"",
+    "keep-alive": "timeout=5, max=72",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball31908",
+      "amount": 989,
+      "price": 86768,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T12:56:58.000Z",
+      "notes": "UvqWBwIRsZhO7KQ06Xl1q3OUPjOz06exJzxARiOAWuTDs4oSHJIzl5Anf3WWDkrs36fhHOUOjHe8kacIzuCSaU8kBX3Iid6PsWuK95cDrWsbr2ctnT8MSTdqfC7cFA1FmdacetTI6gF5UAeGzAGvGUI5okbeTGjRoZa1RJGfYRHVSGTCK4JhOMvLo88RYLY6R6h7dmu3tXRoimxMsO7ciOtzRzAsdNwrvj9wh1rcd4l9vn2ua3XT93GzeQ",
+      "_id": "695a639a1c508c5d5ea81055"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

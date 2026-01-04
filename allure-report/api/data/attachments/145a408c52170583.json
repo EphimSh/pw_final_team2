@@ -1,0 +1,94 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1985",
+    "etag": "W/\"7c1-r7ykgvf/UFUz0oDjVzUn1YkH+LI\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Orders": [
+      {
+        "_id": "695a632f1c508c5d5ea7ec1b",
+        "status": "Draft",
+        "customer": {
+          "_id": "695a632d1c508c5d5ea7eb98",
+          "email": "Jayden.Pfannerstill52@hotmail.com",
+          "name": "Ivan Ivanov",
+          "country": "Russia",
+          "city": "BccfQmiKcKyCLCEXZb",
+          "street": "kBlqkqZWtSC9I2uzkilj",
+          "house": 140,
+          "flat": 1,
+          "phone": "+4457002276",
+          "createdOn": "2026-01-04T12:55:09.000Z",
+          "notes": "JjqbXlqU18CSjeKnoIUpde2FUYIIX40gBfFnD6ewodICRbwsczkFSctwWOUJUW2PssOLGNVGqrj4mfiNmmu4XigTIMGcVGEKvLklUn0tDt2hxYd2MMyMk5Ws4kKLCWRoTVFp9gdoWoAFgmcKkZA7jCb2xhSJvY8BnI72fVteOsE8I288GveaZfCtGXXippp3jCk5saQrsUzGwcN1Eg5mZFpcrr1auyk"
+        },
+        "products": [
+          {
+            "_id": "695a632f1c508c5d5ea7ec0d",
+            "name": "Bike98664",
+            "amount": 156,
+            "price": 20807,
+            "manufacturer": "Apple",
+            "notes": "JiMmoyDwXPUXZlzOMfQWnJfHD7jj5fXB5DoeVBq03MKDPFawjHiAWWAH7dhtnadWdlNQQh6jvtg0sPsJqptVywzWwdYvZD2SqaYxMulnVM68XuFvvzbV5KtMLsrCLHMtmDz7bx0lp8Rf0RuGNW3E06Mi7exM7lIqnBL7d23scPoOVWPyrOGEAFReUwupHGl4iwkndRKG0jVfRlRSfVno5uAI0wdnSGojyVzV47LKurQOhICCM1pvEh5rHA",
+            "received": false
+          }
+        ],
+        "delivery": null,
+        "total_price": 20807,
+        "createdOn": "2026-01-04T12:55:11.000Z",
+        "comments": [],
+        "history": [
+          {
+            "status": "Draft",
+            "customer": "695a632d1c508c5d5ea7eb98",
+            "products": [
+              {
+                "_id": "695a632f1c508c5d5ea7ec0d",
+                "name": "Bike98664",
+                "amount": 156,
+                "price": 20807,
+                "manufacturer": "Apple",
+                "notes": "JiMmoyDwXPUXZlzOMfQWnJfHD7jj5fXB5DoeVBq03MKDPFawjHiAWWAH7dhtnadWdlNQQh6jvtg0sPsJqptVywzWwdYvZD2SqaYxMulnVM68XuFvvzbV5KtMLsrCLHMtmDz7bx0lp8Rf0RuGNW3E06Mi7exM7lIqnBL7d23scPoOVWPyrOGEAFReUwupHGl4iwkndRKG0jVfRlRSfVno5uAI0wdnSGojyVzV47LKurQOhICCM1pvEh5rHA",
+                "received": false
+              }
+            ],
+            "total_price": 20807,
+            "delivery": null,
+            "changedOn": "2026-01-04T12:55:11.000Z",
+            "action": "Order created",
+            "performer": {
+              "_id": "6936ffc71c508c5d5e9a3764",
+              "username": "student21@gmail.com",
+              "firstName": "Jillian",
+              "lastName": "Lynch",
+              "roles": [
+                "USER"
+              ],
+              "createdOn": "2025/12/08 16:41:43"
+            },
+            "assignedManager": null
+          }
+        ],
+        "assignedManager": null
+      }
+    ],
+    "total": 1,
+    "page": 1,
+    "limit": 10,
+    "search": "Ivan",
+    "status": [],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "asc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

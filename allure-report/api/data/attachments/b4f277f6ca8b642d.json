@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-GylVAAZTyEl5JyWJ95mSSV4Qidc\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Hilario_Erdman@yahoo.com",
+      "name": "KNPVNsLinSNfMFkElcqvuVL",
+      "country": "USA",
+      "city": "BdxwZnRh",
+      "street": "FAsevT3yo1W73WisBoR",
+      "house": 186,
+      "flat": 8,
+      "phone": "+0151865072",
+      "createdOn": "2026-01-04T12:55:56.000Z",
+      "notes": "5TGCBt4fCFX0HE11hSeFx1GaJLWScp5hxz4pxYqKht4ScCZI2iE4bffF0NydIG7IovYxNCVzosbjXTnqaTiwXlnawMH5M5mj4YpICJ4vDp8Fn8y9ihbwXJzpschv8cKsLDlzVEdzbZQJmg",
+      "_id": "695a635c1c508c5d5ea7f8a6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

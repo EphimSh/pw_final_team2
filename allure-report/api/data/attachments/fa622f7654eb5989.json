@@ -1,0 +1,126 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2761",
+    "etag": "W/\"ac9-ic1DuKyNJqRE2Bho8/5LYb2PRlQ\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Orders": [
+      {
+        "_id": "695a63031c508c5d5ea7df31",
+        "status": "Draft",
+        "customer": "695a63011c508c5d5ea7de9c",
+        "products": [
+          {
+            "_id": "695a63031c508c5d5ea7df29",
+            "name": "Tuna38172",
+            "amount": 305,
+            "price": 54079,
+            "manufacturer": "Google",
+            "notes": "CtqsLfaaRLgjoCkCAY2I0miTWSlUWf6OruZ69swWpAXduTWYDCMXQe3WE62LFpnUul2xxD4RU6x5d8tdwwJQ7a9Yy6tEXI0CyzesTkXb93O9R7cXjpeny5bX5CKzDbQ69LUie0CU2Sz3Bc9CKNsYim59kCxhUHHVNMQx1dwCrUs0w9YeorT1P2TRTFjAzaitdIhqPfKw6GFeaWQYVwUxI0g7D1nuVywscljFap9FFt0ZM8zXwzsIVyOu0J",
+            "received": false
+          }
+        ],
+        "delivery": null,
+        "total_price": 54079,
+        "createdOn": "2026-01-04T12:54:27.000Z",
+        "comments": [],
+        "history": [
+          {
+            "status": "Draft",
+            "customer": "695a63011c508c5d5ea7de9c",
+            "products": [
+              {
+                "_id": "695a63031c508c5d5ea7df29",
+                "name": "Tuna38172",
+                "amount": 305,
+                "price": 54079,
+                "manufacturer": "Google",
+                "notes": "CtqsLfaaRLgjoCkCAY2I0miTWSlUWf6OruZ69swWpAXduTWYDCMXQe3WE62LFpnUul2xxD4RU6x5d8tdwwJQ7a9Yy6tEXI0CyzesTkXb93O9R7cXjpeny5bX5CKzDbQ69LUie0CU2Sz3Bc9CKNsYim59kCxhUHHVNMQx1dwCrUs0w9YeorT1P2TRTFjAzaitdIhqPfKw6GFeaWQYVwUxI0g7D1nuVywscljFap9FFt0ZM8zXwzsIVyOu0J",
+                "received": false
+              }
+            ],
+            "total_price": 54079,
+            "delivery": null,
+            "changedOn": "2026-01-04T12:54:27.000Z",
+            "action": "Order created",
+            "performer": {
+              "_id": "6936ffc71c508c5d5e9a3764",
+              "username": "student21@gmail.com",
+              "firstName": "Jillian",
+              "lastName": "Lynch",
+              "roles": [
+                "USER"
+              ],
+              "createdOn": "2025/12/08 16:41:43"
+            },
+            "assignedManager": null
+          }
+        ],
+        "assignedManager": null
+      },
+      {
+        "_id": "695a63051c508c5d5ea7dfa9",
+        "status": "Draft",
+        "customer": "695a63011c508c5d5ea7de9c",
+        "products": [
+          {
+            "_id": "695a63041c508c5d5ea7dfa1",
+            "name": "Hat55333",
+            "amount": 661,
+            "price": 23491,
+            "manufacturer": "Tesla",
+            "notes": "mnbxQ6qcMHqOp8BGjmwjhf3lfghaxxiLt1KUs3In9wwQYaeehy22f2e9mfbNJHtq6kXp3aqdUIY9zzROc1kCC1SWuyIZmOfv3xNohjNdeZeYfOntYJNeVP1HeHxdZS4R04YxV8KiTyivdtK3IUy4sA7w9nNcZUNEmgLs7Zum3g88Us6UfXzyRfsF3GwrqWwL2fJGiANEkbA233gBoUjhDSib5CPK71KW2HZtQ8RuGr0sPenC4CmccBb9aC",
+            "received": false
+          }
+        ],
+        "delivery": null,
+        "total_price": 23491,
+        "createdOn": "2026-01-04T12:54:29.000Z",
+        "comments": [],
+        "history": [
+          {
+            "status": "Draft",
+            "customer": "695a63011c508c5d5ea7de9c",
+            "products": [
+              {
+                "_id": "695a63041c508c5d5ea7dfa1",
+                "name": "Hat55333",
+                "amount": 661,
+                "price": 23491,
+                "manufacturer": "Tesla",
+                "notes": "mnbxQ6qcMHqOp8BGjmwjhf3lfghaxxiLt1KUs3In9wwQYaeehy22f2e9mfbNJHtq6kXp3aqdUIY9zzROc1kCC1SWuyIZmOfv3xNohjNdeZeYfOntYJNeVP1HeHxdZS4R04YxV8KiTyivdtK3IUy4sA7w9nNcZUNEmgLs7Zum3g88Us6UfXzyRfsF3GwrqWwL2fJGiANEkbA233gBoUjhDSib5CPK71KW2HZtQ8RuGr0sPenC4CmccBb9aC",
+                "received": false
+              }
+            ],
+            "total_price": 23491,
+            "delivery": null,
+            "changedOn": "2026-01-04T12:54:29.000Z",
+            "action": "Order created",
+            "performer": {
+              "_id": "6936ffc71c508c5d5e9a3764",
+              "username": "student21@gmail.com",
+              "firstName": "Jillian",
+              "lastName": "Lynch",
+              "roles": [
+                "USER"
+              ],
+              "createdOn": "2025/12/08 16:41:43"
+            },
+            "assignedManager": null
+          }
+        ],
+        "assignedManager": null
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

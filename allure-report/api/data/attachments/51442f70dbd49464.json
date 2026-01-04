@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1744",
+    "etag": "W/\"6d0-K79/NPFxbEZsKBODK3YNo/im2kw\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "695a63011c508c5d5ea7de9c",
+        "email": "Lucile.Schulist@gmail.com",
+        "name": "vifGaxvDocgZVmn",
+        "country": "Belarus",
+        "city": "aXBYwvie",
+        "street": "CqGvMfs0DiU4jBcxpNfzzQm9",
+        "house": 75,
+        "flat": 7,
+        "phone": "+2418972564",
+        "createdOn": "2026-01-04T12:54:25.000Z",
+        "notes": "eKhpMAW6FzIRfKzDvQIjA71SJAuaykvyLEd32PBA86G3TpuojnC7fFrrAL6PwkmKU3wvVoVoPyxSMQ8H8jcO9PpQUR8oRLLcD6l69S9ym"
+      },
+      "products": [
+        {
+          "_id": "695a63031c508c5d5ea7df29",
+          "name": "Tuna38172",
+          "amount": 305,
+          "price": 54079,
+          "manufacturer": "Google",
+          "notes": "CtqsLfaaRLgjoCkCAY2I0miTWSlUWf6OruZ69swWpAXduTWYDCMXQe3WE62LFpnUul2xxD4RU6x5d8tdwwJQ7a9Yy6tEXI0CyzesTkXb93O9R7cXjpeny5bX5CKzDbQ69LUie0CU2Sz3Bc9CKNsYim59kCxhUHHVNMQx1dwCrUs0w9YeorT1P2TRTFjAzaitdIhqPfKw6GFeaWQYVwUxI0g7D1nuVywscljFap9FFt0ZM8zXwzsIVyOu0J",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 54079,
+      "createdOn": "2026-01-04T12:54:27.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a63011c508c5d5ea7de9c",
+          "products": [
+            {
+              "_id": "695a63031c508c5d5ea7df29",
+              "name": "Tuna38172",
+              "amount": 305,
+              "price": 54079,
+              "manufacturer": "Google",
+              "notes": "CtqsLfaaRLgjoCkCAY2I0miTWSlUWf6OruZ69swWpAXduTWYDCMXQe3WE62LFpnUul2xxD4RU6x5d8tdwwJQ7a9Yy6tEXI0CyzesTkXb93O9R7cXjpeny5bX5CKzDbQ69LUie0CU2Sz3Bc9CKNsYim59kCxhUHHVNMQx1dwCrUs0w9YeorT1P2TRTFjAzaitdIhqPfKw6GFeaWQYVwUxI0g7D1nuVywscljFap9FFt0ZM8zXwzsIVyOu0J",
+              "received": false
+            }
+          ],
+          "total_price": 54079,
+          "delivery": null,
+          "changedOn": "2026-01-04T12:54:27.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695a63031c508c5d5ea7df31"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

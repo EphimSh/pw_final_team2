@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "482",
+    "etag": "W/\"1e2-2jUUc8WTIaBzKT1+4pIpK52PIDQ\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Norris_Auer53@gmail.com",
+      "name": "I",
+      "country": "USA",
+      "city": "jYDimj",
+      "street": "oO7urbucCPz5Sr3LAJX",
+      "house": 12,
+      "flat": 9,
+      "phone": "+6960545012",
+      "createdOn": "2026-01-04T12:55:26.000Z",
+      "notes": "Z55vxhVOoHrPprk5maO8FaLtIbuKXuCP8Mt4bIND8KjtbVOk0MGtFFMOia26FKemNnRgODMP1MrWDn6FixPMdcrZ54hvUW0ALvJkr3bClbF2RfbKtfaEqRQkb62pPes5nd5Vu7ojr36tv5zcl2CivSMoOPxd2yQeh2a8Caoab6Df3Lb7NCCqAWJDdDCXszHCLDZR7A",
+      "_id": "695a633e1c508c5d5ea7f0e0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

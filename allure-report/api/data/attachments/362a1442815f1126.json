@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "371",
+    "etag": "W/\"173-LhvrleEeZBFlFoLMiBui5IAffhg\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ernesto_Lueilwitz47@gmail.com",
+      "name": "cGsFAdsPgiBSLc",
+      "country": "France",
+      "city": "zkNgmfdtDENlDuLh",
+      "street": "bO8wuZOtcAVOVff22Vt6h3Cg2DlAePNSNAnQ8N",
+      "house": 39,
+      "flat": 7,
+      "phone": "+0952292527",
+      "createdOn": "2026-01-04T12:55:45.000Z",
+      "notes": "MG88ed6eIMAChMhWca8rfRzXcpS8BRmGN4hK",
+      "_id": "695a63511c508c5d5ea7f5e6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

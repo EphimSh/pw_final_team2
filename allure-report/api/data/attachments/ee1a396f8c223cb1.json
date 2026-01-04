@@ -1,0 +1,173 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3822",
+    "etag": "W/\"eee-SO5ewpk3nim6aFrlOj4M2urV9D4\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a63641c508c5d5ea7faee",
+      "status": "Canceled",
+      "customer": {
+        "_id": "695a63621c508c5d5ea7fa9d",
+        "email": "Quincy6@hotmail.com",
+        "name": "FAXePAOLDGRJuQDorbNzBSdENufasMIPG",
+        "country": "France",
+        "city": "caE",
+        "street": "QrvfKx4hC3Qw9",
+        "house": 46,
+        "flat": 1,
+        "phone": "+0547656845",
+        "createdOn": "2026-01-04T12:56:02.000Z",
+        "notes": "BDpJQzpuJVfq1qCbmwEmnUxjq0CRElZ6boR6ZNO142mJOfNhK3dZn58awJGbk9IqGcRPdk9ngfiy9ILOUfnzt714uaVUEjZtUUwzu2BJJDL9zw0V4zifvZyp79GGBmXnB24zOGxSp0S6v4"
+      },
+      "products": [
+        {
+          "_id": "695a63641c508c5d5ea7fae0",
+          "name": "Pants35982",
+          "amount": 627,
+          "price": 30312,
+          "manufacturer": "Xiaomi",
+          "notes": "7mOzouh6bIblhBo52u6UR9rmf7y49XwlSIx6QIb1ZfGWOIKa4375iQV4NC4RVjcLj6QrT7BsxjWFEoew8lMFEi7HBTxWLh1mPwsISCFbQ0eMO5QQhp86LMLDxPn1klEIPizE7h47wd2eLvrOc81Q92gMeshvE7x9GCWp9j6pWi7LJHDzDcVOGcOnGuOxXNxnDN3ctjzw6PWfZiMJc9wV5WcQqPlVfvWuIheeqbcVeba4Hlj5rUncpmO42k",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Belarus",
+          "city": "Mock City ZqW",
+          "street": "MockStreetC4A0wLQyPkrzMv9VTNsP",
+          "house": 135,
+          "flat": 12
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 30312,
+      "createdOn": "2026-01-04T12:56:04.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Canceled",
+          "customer": "695a63621c508c5d5ea7fa9d",
+          "products": [
+            {
+              "_id": "695a63641c508c5d5ea7fae0",
+              "name": "Pants35982",
+              "amount": 627,
+              "price": 30312,
+              "manufacturer": "Xiaomi",
+              "notes": "7mOzouh6bIblhBo52u6UR9rmf7y49XwlSIx6QIb1ZfGWOIKa4375iQV4NC4RVjcLj6QrT7BsxjWFEoew8lMFEi7HBTxWLh1mPwsISCFbQ0eMO5QQhp86LMLDxPn1klEIPizE7h47wd2eLvrOc81Q92gMeshvE7x9GCWp9j6pWi7LJHDzDcVOGcOnGuOxXNxnDN3ctjzw6PWfZiMJc9wV5WcQqPlVfvWuIheeqbcVeba4Hlj5rUncpmO42k",
+              "received": false
+            }
+          ],
+          "total_price": 30312,
+          "delivery": {
+            "address": {
+              "country": "Belarus",
+              "city": "Mock City ZqW",
+              "street": "MockStreetC4A0wLQyPkrzMv9VTNsP",
+              "house": 135,
+              "flat": 12
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T12:56:05.000Z",
+          "action": "Order canceled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a63621c508c5d5ea7fa9d",
+          "products": [
+            {
+              "_id": "695a63641c508c5d5ea7fae0",
+              "name": "Pants35982",
+              "amount": 627,
+              "price": 30312,
+              "manufacturer": "Xiaomi",
+              "notes": "7mOzouh6bIblhBo52u6UR9rmf7y49XwlSIx6QIb1ZfGWOIKa4375iQV4NC4RVjcLj6QrT7BsxjWFEoew8lMFEi7HBTxWLh1mPwsISCFbQ0eMO5QQhp86LMLDxPn1klEIPizE7h47wd2eLvrOc81Q92gMeshvE7x9GCWp9j6pWi7LJHDzDcVOGcOnGuOxXNxnDN3ctjzw6PWfZiMJc9wV5WcQqPlVfvWuIheeqbcVeba4Hlj5rUncpmO42k",
+              "received": false
+            }
+          ],
+          "total_price": 30312,
+          "delivery": {
+            "address": {
+              "country": "Belarus",
+              "city": "Mock City ZqW",
+              "street": "MockStreetC4A0wLQyPkrzMv9VTNsP",
+              "house": 135,
+              "flat": 12
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T12:56:04.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a63621c508c5d5ea7fa9d",
+          "products": [
+            {
+              "_id": "695a63641c508c5d5ea7fae0",
+              "name": "Pants35982",
+              "amount": 627,
+              "price": 30312,
+              "manufacturer": "Xiaomi",
+              "notes": "7mOzouh6bIblhBo52u6UR9rmf7y49XwlSIx6QIb1ZfGWOIKa4375iQV4NC4RVjcLj6QrT7BsxjWFEoew8lMFEi7HBTxWLh1mPwsISCFbQ0eMO5QQhp86LMLDxPn1klEIPizE7h47wd2eLvrOc81Q92gMeshvE7x9GCWp9j6pWi7LJHDzDcVOGcOnGuOxXNxnDN3ctjzw6PWfZiMJc9wV5WcQqPlVfvWuIheeqbcVeba4Hlj5rUncpmO42k",
+              "received": false
+            }
+          ],
+          "total_price": 30312,
+          "delivery": null,
+          "changedOn": "2026-01-04T12:56:04.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

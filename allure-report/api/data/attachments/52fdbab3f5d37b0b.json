@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "366",
+    "etag": "W/\"16e-fM3vPBCuoJWyKVa0mnqPSAsOTtk\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Janae_Berge62@gmail.com",
+      "name": "quwYHlRbCAITKvxnydZGpp",
+      "country": "Ukraine",
+      "city": "jN",
+      "street": "aowx5fpFh7grbAMQAf",
+      "house": 41,
+      "flat": 1,
+      "phone": "+4817837894",
+      "createdOn": "2026-01-04T12:54:33.000Z",
+      "notes": "1CHCKJ5e7jVEqcf9fc30RhEtRvGLwzjMHLZo2Jlxp1Ptn58tR8a7vR8RiNlVX4",
+      "_id": "695a63091c508c5d5ea7e0fb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

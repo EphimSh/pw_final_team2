@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "511",
+    "etag": "W/\"1ff-rANzxguAFwCgvjQ80Z1p0guhNG8\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Desmond.Sauer@yahoo.com",
+      "name": "SIkz",
+      "country": "Canada",
+      "city": "dvht",
+      "street": "JJfoH8Fey8sX2S5SjWyhkFwaPpzZSIlT8XLi",
+      "house": 33,
+      "flat": 3,
+      "phone": "+8499700750",
+      "createdOn": "2026-01-04T12:53:31.000Z",
+      "notes": "W0yGcGu7f6VKCya005cyHlP53XDRyC51ouwgNoFIwBSxWd5Ut6P29eukUHW495Dy0EqnrooeLkW5cM1zpxzmVXbjylLlWAMOqbiABDAnqc8xCC1t2jxcZTLitJeTSCRGydXNa4m6jG7J6SyYX8Eao8hhfqs6kse18qKeJ9RnK7smSVnA1tMZ4oiU3sdmPcxNlGazUlXsgZfnOZ",
+      "_id": "695a62cb1c508c5d5ea7d1ff"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

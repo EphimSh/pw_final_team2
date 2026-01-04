@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "487",
+    "etag": "W/\"1e7-V9irtf8pciCpxMDWhFQAX/ERUAA\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Emely.Cronin@yahoo.com",
+      "name": "IrxvUesGpcFINGIWeLeIXiiZdkQS",
+      "country": "Germany",
+      "city": "qbFUzYCdYHHMLk",
+      "street": "2h22fTA",
+      "house": 67,
+      "flat": 5,
+      "phone": "+1576744776",
+      "createdOn": "2026-01-04T12:53:52.000Z",
+      "notes": "af6l8mE1a4wX72BsfIQ5s6O8gtdT4V1w0rNUMuDwLtvLviLPPfq6NOU7ZARDZ956vzxGhtcAyZDrwaogQO6P8IesIk6SPxLusoocvD9H4PzcDDnVBlCJdJD20mQg24ExPrTGs135js95FQkyfxNolxPadjoN5HlgvoZN4u9E9oXDI7uTT",
+      "_id": "695a62e01c508c5d5ea7d519"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

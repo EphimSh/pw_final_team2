@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "467",
+    "etag": "W/\"1d3-kkykCXS89bo3zTMqmeZN1jVWP58\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy S2562831",
+      "amount": 703,
+      "price": 3100,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T12:56:29.000Z",
+      "notes": "yCvNMfLV1r0UwSK8T02SM4ZRQnYLEunaXh6AnoAXRj6GIkwIqfaClywF2mrrRW6SzAmxFkW3wGlBoosn05ZaIsN4Q3XIwBDMCXy6PixJTPXMIXQPaLjsqbUnEYejcyVLCPFu0fox7DIptt69H5RvegFuuUp4L19ua1lhnATNaJZ9NJPiyicSBp074K349YJpzFsXw8nFBFUHj2AxQVeX45Vwxnnt54l7ndJkNbTE8ZnHxV6iyGERhmVu8U",
+      "_id": "695a637d1c508c5d5ea80392"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "445",
+    "etag": "W/\"1bd-rLOshEvLLIAZem9JZ+6Nj5NBk+c\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "tKK",
+      "amount": 191,
+      "price": 51859,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T12:56:03.000Z",
+      "notes": "nzGeN09xYdTHXGBewDB5bCZlqaPOMkcjzy3HbVACpe5XU82rdcBR4kzCq67F5WKGQhtiDaPMloiXWaRNMlM776ytZhJldwl11u5mjfgao3bOg7MnMwRexh59tKZXPIp7DRr2YHERukMm767Mcp1LyWED9vIikIXB1x1tqlxiVDYO8xJk8qc7HgwuNMZIcjC0t8lATn8Wp31RwT9hFjtEbvGlV03HuUYDbNW4wWOsAHhKBjgSkEa5u8kncN",
+      "_id": "695a63631c508c5d5ea7fac1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

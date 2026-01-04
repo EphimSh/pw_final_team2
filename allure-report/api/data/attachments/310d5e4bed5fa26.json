@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "498",
+    "etag": "W/\"1f2-qXccu575qPOD7RzEwdeB5me63B8\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Maverick_Rowe@yahoo.com",
+      "name": "wZzUFYLYYDNsJsqmi",
+      "country": "Belarus",
+      "city": "SaSHlC",
+      "street": "NpbeMAh0fG0Hjcn5LInBovRmAVOxBMh2ddhcAY",
+      "house": 104,
+      "flat": 2,
+      "phone": "+8516975235",
+      "createdOn": "2026-01-04T12:56:01.000Z",
+      "notes": "9IIDPzNJgm4nHkbSPJlcLWyEKjXhThwxgrVtECACrVlZXhPliSc0GTPGa8NpZhZbNvllH7qmnPe2kBEKwvi5udDAsd9KuMDewbQ66bseV4lKi5w3pFYJpuGxfvfQhZfIDMppQF0F1rft9RTlsHVtafz0XkSR5LaowoC4eo7m2Aa0iP",
+      "_id": "695a63611c508c5d5ea7fa35"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

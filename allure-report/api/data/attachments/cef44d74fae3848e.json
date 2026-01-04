@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "428",
+    "etag": "W/\"1ac-eyXOzWFh/+dd2pX1KOlYJwMW2pI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jazmin49@gmail.com",
+      "name": "DwPRFkhiEVFVpkVHVHpTrZCJHHgfUhY",
+      "country": "Belarus",
+      "city": "iS",
+      "street": "LFTosZ4dq6VUxJop4ChejpcIz5K6pJIqqmM",
+      "house": 40,
+      "flat": 7,
+      "phone": "+3339870849",
+      "createdOn": "2026-01-04T12:54:11.000Z",
+      "notes": "BJJ3FnJgRLRoH3rsYqlhC8QoltEp4cQqA1vMs5O87nRgEsIGgwujxfOzJzwNoggEvYHS4fZL958pNg1weCnVSV4OoXfwn7QgkOkxQGK",
+      "_id": "695a62f31c508c5d5ea7da4e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

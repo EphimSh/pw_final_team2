@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1743",
+    "etag": "W/\"6cf-OWSqFF4tBy1aqIrl4fmqZa0oAus\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a62f81c508c5d5ea7dc2e",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a62f61c508c5d5ea7db8a",
+        "email": "Forest_Goldner-Trantow@hotmail.com",
+        "name": "WYTpHSTJQEclLGsSYntPFTvcXrfkNq",
+        "country": "Canada",
+        "city": "LvqFXCInRKkWmXQKpLGb",
+        "street": "jzl72rmSVZf6AJ2LSpf87o",
+        "house": 168,
+        "flat": 1,
+        "phone": "+1207609127",
+        "createdOn": "2026-01-04T12:54:14.000Z",
+        "notes": "dkmUDyhZ3QO1szimt1tWtL8IAroT3tCegnG84zYmDTCo1cV7CXqCx9mOINgqBD3SAZN5GbqD"
+      },
+      "products": [
+        {
+          "_id": "695a62f81c508c5d5ea7dc19",
+          "name": "Car60392",
+          "amount": 571,
+          "price": 84713,
+          "manufacturer": "Google",
+          "notes": "eI5hFOvxJZjNfxEWKQIqEtHw29GDpXUp7vQ7awyAsHFZfuJPpz1JBuaQAgNItCYCBRf2RF0fxmJlyPmGJHs3gVPqoE2CCHVXOrGmO7dk4kWgFPHT6TqF67bXzGGIHDpGa1V97BKreNgZNXnD6xHxgbHz9ls6uNQVqVfrssoYkdYLwRSWHCe975MCzzIV65A7wRbEwo7q1juUv0NpmLX0ny4fkQqUDYHY8ZreVkbVYcRSWdqSoR3z7pUCx0",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 84713,
+      "createdOn": "2026-01-04T12:54:16.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a62f61c508c5d5ea7db8a",
+          "products": [
+            {
+              "_id": "695a62f81c508c5d5ea7dc19",
+              "name": "Car60392",
+              "amount": 571,
+              "price": 84713,
+              "manufacturer": "Google",
+              "notes": "eI5hFOvxJZjNfxEWKQIqEtHw29GDpXUp7vQ7awyAsHFZfuJPpz1JBuaQAgNItCYCBRf2RF0fxmJlyPmGJHs3gVPqoE2CCHVXOrGmO7dk4kWgFPHT6TqF67bXzGGIHDpGa1V97BKreNgZNXnD6xHxgbHz9ls6uNQVqVfrssoYkdYLwRSWHCe975MCzzIV65A7wRbEwo7q1juUv0NpmLX0ny4fkQqUDYHY8ZreVkbVYcRSWdqSoR3z7pUCx0",
+              "received": false
+            }
+          ],
+          "total_price": 84713,
+          "delivery": null,
+          "changedOn": "2026-01-04T12:54:16.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

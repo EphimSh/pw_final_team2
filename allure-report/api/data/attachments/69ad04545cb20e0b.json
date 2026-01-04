@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-ls2vT6wtKO8XFNHVhKtd+SvGBE0\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap99647",
+      "amount": 249,
+      "price": 92059,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T12:54:13.000Z",
+      "notes": "trIh2lASaePzkhFnmdDDJdkLitkQWsYHoREPQI8GrrJm4PdbCXlmQkVXmJ4FnFkHQIBVyr8MP16LUyOvVmsYzQlsthe5joHjhZGcNOaA6SE1CAuM4MgaMFjnhEtoePcBeDFhzYfAeBap0Y8nHO66fNvCbdgdwT3oVmjWl0XaaPMbr2yVanfDSdZA0nYdvOntcITUzThRDIk2B4mhJRAq7N7w2N59ionYqguLRqw3pz4m5rUbdk50StWikN",
+      "_id": "695a62f51c508c5d5ea7daaa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

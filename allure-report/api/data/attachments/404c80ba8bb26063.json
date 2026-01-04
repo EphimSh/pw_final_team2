@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "547",
+    "etag": "W/\"223-+aLQFPQw5RJ+5fX1d0W6/QRnDOs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Reina_Terry12@hotmail.com",
+      "name": "IH",
+      "country": "Russia",
+      "city": "HYXBKtNAruHHZddL",
+      "street": "p95zXli8e30Y7Y1XTPRKOwfZQUF",
+      "house": 45,
+      "flat": 1,
+      "phone": "+5800609885",
+      "createdOn": "2026-01-04T12:54:08.000Z",
+      "notes": "7eHhW1wQVkOJpqvPKDsKEHJyqaKrUDZ9LAo5Yyu8rTNFC1teRQN7cHzMyhhprkBC7IMAx4RJ2Wgri9VtobwQDUO04BwRwiYBYCodMMCxbyIP1zIcXev7wCZ3coZ0NQHt1kVD5f7BeRL0qqCSc2SzFz11g3nZbwK7sKkZOngHvdzvyImDhcQFZtNJyYeii21TZztLjNwsP9xQdZulWImkFMgOSra6JsgWwH1YPYiG6FHiJ24",
+      "_id": "695a62f01c508c5d5ea7da1d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

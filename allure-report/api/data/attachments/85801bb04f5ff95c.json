@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-Z1lk7GRGygMmOpfD4JmjJIowzHA\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra22986",
+      "amount": 886,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T12:56:38.000Z",
+      "notes": "Io0tvrFiYGVUju2S9cwzqtd7VBlWqdHFCElBCNviU2UpKPDhnONdimnAdbguMo4A7x2p1RWosZlkHYU4TxIFpYFk2GNlKB4EcJb5cPmzV62oQhcrqYzbfOKdf541aYTTL4C0qrXYBiR6YFYp2XiowZuQcI28CaJJKdNNtCDB6JBf4tzbZUfISdfuOQ0fFRbW28wkCZ9qvCzCOQBiyA8I0k9pos9wcpjbeDfXlpxI7TJ4FfFHd98VjN1hE1",
+      "_id": "695a63861c508c5d5ea8052f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

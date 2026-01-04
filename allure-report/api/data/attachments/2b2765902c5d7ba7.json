@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "392",
+    "etag": "W/\"188-9EBi7G3sohDn/GMP12meerrKZUg\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "695a631b1c508c5d5ea7e59c",
+      "email": "Dawson.Murazik@hotmail.com",
+      "name": "Ivan Ivanov",
+      "country": "Germany",
+      "city": "yFWptJJxbvicSO",
+      "street": "eGSZJszpW1Oya5OIiK4i2rA",
+      "house": 26,
+      "flat": 1,
+      "phone": "+2648941904",
+      "createdOn": "2026-01-04T12:54:51.000Z",
+      "notes": "kKZsmzm46Lmua37VxblOHXYUBj2QW4kFBwYX8KHCEmR1fIBhqkyzkmkQA2Id5928HxizBxlwGoT5wiB"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

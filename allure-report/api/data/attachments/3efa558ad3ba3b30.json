@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "416",
+    "etag": "W/\"1a0-z9OVfbpviffK27MQbOzAF3nMw+U\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Elvie.Grady@yahoo.com",
+      "name": "wpBKCiCZyIHljWrLTmhdIQYVHzbUsJxJgFz",
+      "country": "Germany",
+      "city": "yqqa",
+      "street": "IyoVVDOXi",
+      "house": 126,
+      "flat": 8,
+      "phone": "+1302176926",
+      "createdOn": "2026-01-04T12:53:26.000Z",
+      "notes": "s2Jo79nwQkZWfnaa1Q0jCrPOAXhEubwDLDf5QEhtXYNT1qK1mL11NWWBdPdUcYbHHeHFzSg1BOOA7hd7vTabSCVQF3QZg7xA3xZsQYEJV6N",
+      "_id": "695a62c61c508c5d5ea7d1c8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

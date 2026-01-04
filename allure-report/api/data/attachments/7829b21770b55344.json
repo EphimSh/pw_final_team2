@@ -1,0 +1,89 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:53:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1951",
+    "etag": "W/\"79f-WK1zoUUFj+6RDnp0qPwLRgGdbAw\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a62d81c508c5d5ea7d2e0",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a62d61c508c5d5ea7d291",
+        "email": "Viva88@gmail.com",
+        "name": "pkWPVqJVmXDMDbjOVhdXspyENByFdOyOaKQoy",
+        "country": "Canada",
+        "city": "dQMEbYG",
+        "street": "Mv",
+        "house": 164,
+        "flat": 9,
+        "phone": "+1584697019",
+        "createdOn": "2026-01-04T12:53:42.000Z",
+        "notes": "94wDPlT1fmsf8eDTl10Dq7JDUHfz4T3IQ3iXxDNGkUuZZpmg2kkadf1uPVK0loV2znmzDUTqpwGUGD7KnGfoYSAdIMPruLlkKAScBQhI71PpH0CZVOlMuA1E2t1B2zm4DKVqkcvS9qkj7WRuOtJ4IyC3s3rjz2x3FK9sIW7Bkm3H7v9K"
+      },
+      "products": [
+        {
+          "_id": "695a62d81c508c5d5ea7d2d4",
+          "name": "Car52151",
+          "amount": 611,
+          "price": 79828,
+          "manufacturer": "Apple",
+          "notes": "B7cTYDeXYsfvSf3MkEGtHd5ZjoeLfZZgYU5Mcmiyb3hxAWOlSmdwJ7BuJI7iqEhdwOYeHe1Mx3sfve8RqweFIStppsMzPfsSZAsFGGVhw7t6nl329rWiMu1svMdX2sY2Dc1GAR9Bfk1Q8tIz0oqFKF2VwWshorAChGQvhNCh7dHcWuCnufi6696fVpUbJM5zk6CqYHnmMuMdh3BK1HzkX1QSYClbGI3znxwNQ4TwkBynZPlLMuoxMNGQdi",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 79828,
+      "createdOn": "2026-01-04T12:53:44.000Z",
+      "comments": [
+        {
+          "text": "1V4Gw2nQMU1wzlVlIAwQXcM9M53fPAjlQs1nh8A4o8EunBBQ8vhz3xHDFDETMOz1kq4",
+          "createdOn": "2026-01-04T12:53:44.000Z",
+          "_id": "695a62d81c508c5d5ea7d2fe"
+        }
+      ],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a62d61c508c5d5ea7d291",
+          "products": [
+            {
+              "_id": "695a62d81c508c5d5ea7d2d4",
+              "name": "Car52151",
+              "amount": 611,
+              "price": 79828,
+              "manufacturer": "Apple",
+              "notes": "B7cTYDeXYsfvSf3MkEGtHd5ZjoeLfZZgYU5Mcmiyb3hxAWOlSmdwJ7BuJI7iqEhdwOYeHe1Mx3sfve8RqweFIStppsMzPfsSZAsFGGVhw7t6nl329rWiMu1svMdX2sY2Dc1GAR9Bfk1Q8tIz0oqFKF2VwWshorAChGQvhNCh7dHcWuCnufi6696fVpUbJM5zk6CqYHnmMuMdh3BK1HzkX1QSYClbGI3znxwNQ4TwkBynZPlLMuoxMNGQdi",
+              "received": false
+            }
+          ],
+          "total_price": 79828,
+          "delivery": null,
+          "changedOn": "2026-01-04T12:53:44.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

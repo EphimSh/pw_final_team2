@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-oVscDH6fpENfxI2br0CLYnC7tBE\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat55333",
+      "amount": 661,
+      "price": 23491,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T12:54:28.000Z",
+      "notes": "mnbxQ6qcMHqOp8BGjmwjhf3lfghaxxiLt1KUs3In9wwQYaeehy22f2e9mfbNJHtq6kXp3aqdUIY9zzROc1kCC1SWuyIZmOfv3xNohjNdeZeYfOntYJNeVP1HeHxdZS4R04YxV8KiTyivdtK3IUy4sA7w9nNcZUNEmgLs7Zum3g88Us6UfXzyRfsF3GwrqWwL2fJGiANEkbA233gBoUjhDSib5CPK71KW2HZtQ8RuGr0sPenC4CmccBb9aC",
+      "_id": "695a63041c508c5d5ea7dfa1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

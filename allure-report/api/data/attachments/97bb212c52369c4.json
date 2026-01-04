@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:55:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1653",
+    "etag": "W/\"675-evT7QIDO8dHVkCJ7DnLJnSc4cvg\"",
+    "keep-alive": "timeout=5, max=48",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "695a63281c508c5d5ea7ea5d",
+        "email": "Barton.DuBuque@yahoo.com",
+        "name": "avOJykFxCGhEAeVzPLJOQQBtPmHtsieEBo",
+        "country": "Great Britain",
+        "city": "VhJykpqF",
+        "street": "kt6FW",
+        "house": 56,
+        "flat": 1,
+        "phone": "+2759292074",
+        "createdOn": "2026-01-04T12:55:04.000Z",
+        "notes": "UbO9V6vJL"
+      },
+      "products": [
+        {
+          "_id": "695a63291c508c5d5ea7ea9c",
+          "name": "Salad11576",
+          "amount": 699,
+          "price": 89729,
+          "manufacturer": "Apple",
+          "notes": "vqIBPvmrb3ewcMGWhpp3eUbi85e7oaapSWnDLXAun5Mo1wFKDgYT4ThAydtwFng6dzk9AhWwr1imVn2sN3UlXlX0cffsjPqArSP1q4c6CZ9tIfMuH7Vf1xaObu9QDap4UMSerRHmMTOZ9Txe3AhCBMAByS0cIxdJFNZanOVgbg4u9NTbE3rZGyiUrxTva65EvmIBwl56Z0Wm3sv6D9WrOLWfLFJTDdrNPctKPX7MqSkDceksfbdzSVrfqK",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 89729,
+      "createdOn": "2026-01-04T12:55:06.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a63281c508c5d5ea7ea5d",
+          "products": [
+            {
+              "_id": "695a63291c508c5d5ea7ea9c",
+              "name": "Salad11576",
+              "amount": 699,
+              "price": 89729,
+              "manufacturer": "Apple",
+              "notes": "vqIBPvmrb3ewcMGWhpp3eUbi85e7oaapSWnDLXAun5Mo1wFKDgYT4ThAydtwFng6dzk9AhWwr1imVn2sN3UlXlX0cffsjPqArSP1q4c6CZ9tIfMuH7Vf1xaObu9QDap4UMSerRHmMTOZ9Txe3AhCBMAByS0cIxdJFNZanOVgbg4u9NTbE3rZGyiUrxTva65EvmIBwl56Z0Wm3sv6D9WrOLWfLFJTDdrNPctKPX7MqSkDceksfbdzSVrfqK",
+              "received": false
+            }
+          ],
+          "total_price": 89729,
+          "delivery": null,
+          "changedOn": "2026-01-04T12:55:06.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695a632a1c508c5d5ea7eaa8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

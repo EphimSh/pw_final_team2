@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:56:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-joF0LE4MJPLkhRoWhtQJla/jotc\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes25973",
+      "amount": 374,
+      "price": 52923,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T12:56:35.000Z",
+      "notes": "2tBt0Yo89CR6AI8iVJi2AnZ4Nq5DZAkDoOwbj7ltweDblu2zt0U81GeFbgzsDoaNuGuqYv53Kw8MabG0dAg4RT1FKeFAfWVsSXtopzCySO2biqvBABhXC5TP8WesoZOq3RyWppsUIBSo60wn6CDm02RYwV3xBLQbvlioY2vpodIHHihtWuRcLsW8ekHORkJQhNUfirTMN1C1rMjAsjjPqv7CHF2GLKRMOTiMJ0oJvJmC8luPjpIiwKFtrx",
+      "_id": "695a63831c508c5d5ea804b4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

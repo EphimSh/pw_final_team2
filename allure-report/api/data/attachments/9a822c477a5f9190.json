@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 12:54:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-SpH8ZcQssKWn97nYAe3XHyzRn7Q\"",
+    "keep-alive": "timeout=5, max=78",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car89561",
+      "amount": 38,
+      "price": 30813,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T12:54:02.000Z",
+      "notes": "Hgk7aHzirqLRRIoRKn6mqNxFwZgDqgJwnClrrhRNukKDWdHOsgMxaBUXxc224oZFhuI8hxLsQJlLzjVw6WNIKVrtpS88QzLNy7cSnD3TuZF9yDOF6dfXGtFWYIFtTrvphNikAUql4GA6siPKB3eBJo5dxoPqyTfQWEdeMpxBPQiilMehd1Y5XWxqkSO5NVNtvIayUhJSnBZzHgZlIVheDjHEM15tgdqtR5WxNIGs1WH70okSnuAKK3FeH1",
+      "_id": "695a62ea1c508c5d5ea7d92e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
