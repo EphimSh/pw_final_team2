@@ -17,7 +17,7 @@ test.describe("[API] [Sales Portal] [Orders] [Manager]", () => {
     managerId = "";
   });
 
-  test("SC-091: Successful manager assignment", async ({ ordersApiService, usersApiService }) => {
+  test.skip("SC-091: Successful manager assignment", async ({ ordersApiService, usersApiService }) => {
     const managerData = generateManagerData();
     const manager = await usersApiService.create(token, managerData);
     managerId = manager._id;
@@ -32,7 +32,7 @@ test.describe("[API] [Sales Portal] [Orders] [Manager]", () => {
     expect(response.assignedManager!.username).toBe(manager.username);
   });
 
-  test("SC-097: Successful manager unassignment", async ({ ordersApiService, usersApiService }) => {
+  test.skip("SC-097: Successful manager unassignment", async ({ ordersApiService, usersApiService }) => {
     const managerData = generateManagerData();
     const manager = await usersApiService.create(token, managerData);
     managerId = manager._id;

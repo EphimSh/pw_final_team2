@@ -15,10 +15,10 @@ import { AddNewCustomerPage } from "ui/pages/customers/addNewCustomer.page";
 import { HomeUIService } from "ui/service/home.ui-service";
 import { ProductsListUIService } from "ui/service/productsList.ui-service";
 import { LoginUIService } from "ui/service/login.ui-service";
-import { AddNewCustomerUIService } from "ui/service/addNewCustomer.ui.service";
+import { AddNewCustomerUIService } from "ui/service/addNewCustomer.ui-service";
 import { AddNewProductUIService } from "ui/service/addNewProduct.ui-service";
 import { AddNewOrderPage, OrderPage, OrdersListPage } from "ui/pages/orders";
-import { AddNewOrderUIService } from "ui/service/addNewOrder.ui.service";
+import { AddNewOrderUIService } from "ui/service/addNewOrder.ui-service";
 import { OrderUIService } from "ui/service/order.ui-service";
 
 export interface IPages {
