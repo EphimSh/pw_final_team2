@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:14:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "417",
+    "etag": "W/\"1a1-gsmoxKTqGT+QYSw8j1yNvprqnSg\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Aurelio.Waters91@gmail.com",
+      "name": "bDTaktftgRGLcriTitueDXKuxQVal",
+      "country": "France",
+      "city": "gEGpbFBytFmkQEGkqFXg",
+      "street": "F",
+      "house": 44,
+      "flat": 1,
+      "phone": "+6433083125",
+      "createdOn": "2026-01-04T08:14:32.000Z",
+      "notes": "CygWdozkf3ZANIxCjpmjvTEcS6MwneNO0d3jVkizoeZRV9lWEVg99I3lEMd3UfTpSHrvppU9c2QZgbWYwocKhJ0njWQ6WhJTjsrwkFa",
+      "_id": "695a21681c508c5d5ea06f68"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

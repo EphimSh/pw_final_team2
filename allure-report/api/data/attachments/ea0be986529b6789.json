@@ -1,0 +1,89 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:09:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2134",
+    "etag": "W/\"856-V/UYBME71kGB4i1vALiRj+KKkVM\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a20351c508c5d5ea007d7",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a20301c508c5d5ea007a3",
+        "email": "Tavares.Kohler52@yahoo.com",
+        "name": "veoOXfjrjfUE",
+        "country": "Belarus",
+        "city": "qMwykYdcPEEJ",
+        "street": "pvetHZoC",
+        "house": 122,
+        "flat": 8,
+        "phone": "+2437896183",
+        "createdOn": "2026-01-04T08:09:20.000Z",
+        "notes": "xwPlalQvlpcU8ic8pRVDgqPSUWNqoo8QG72ulIZJHknaUv13tnxniuHpVonSdzCOeKKzLSxf9xxXZMAcgdSZC4Tp7XhVIIMZ5Iorh402b3L4TEyP5FChifbMnYusLhpkZvKc8Jl2o0J5xfwInaUIh26VFL76zrv7wQnhBVQdVcbrx1DTxHeRboIisysPRZ1wUo7r3Z9TmMPLNWPMPf4AwfTSPzfqmzU26Ob2THOljvqnW"
+      },
+      "products": [
+        {
+          "_id": "695a20351c508c5d5ea007cd",
+          "name": "Car82608",
+          "amount": 975,
+          "price": 68706,
+          "manufacturer": "Sony",
+          "notes": "62RNBofsv6FRV3KyPllcOaWroOptddYucrSlXG08FYG84I1XzS6wm1DagFDEF9b2VVYNo5VzyTk8kWMR0pzVzTzVyToaA0f05aXHsWnJGVpuFAehIs1JmqQXZdL0c7dXTEm1tV2t2YPUMvoRtigYiDth771XcIF7bocoA9kABIzKPoUDdOhnRAJDgSWd7BTxRWMIZLAEGzX2M5wDmJ9Fjy3mtUrROYzJoAiHPp7yRamn6CKtRL6tGkQGCM",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 68706,
+      "createdOn": "2026-01-04T08:09:25.000Z",
+      "comments": [
+        {
+          "text": "7twKUxjubMWKD8uTmaouwroPzJiPBpibiMM4ITa5ARxgf79Tm6bdCzMI4vCjyNqJvJ2KvqFk3g23gTfD2n52STn05gsl1GWjFSSw8elUX0pxzdVOPVp2cr5RvxcPNtbKcEKC22djEyDMs3E1EvWFJc6EaKJzxXpfuo7IHUgOQWZZTysTvWoANuZbPUWhyWOrFK",
+          "createdOn": "2026-01-04T08:09:25.000Z",
+          "_id": "695a20351c508c5d5ea007ef"
+        }
+      ],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a20301c508c5d5ea007a3",
+          "products": [
+            {
+              "_id": "695a20351c508c5d5ea007cd",
+              "name": "Car82608",
+              "amount": 975,
+              "price": 68706,
+              "manufacturer": "Sony",
+              "notes": "62RNBofsv6FRV3KyPllcOaWroOptddYucrSlXG08FYG84I1XzS6wm1DagFDEF9b2VVYNo5VzyTk8kWMR0pzVzTzVyToaA0f05aXHsWnJGVpuFAehIs1JmqQXZdL0c7dXTEm1tV2t2YPUMvoRtigYiDth771XcIF7bocoA9kABIzKPoUDdOhnRAJDgSWd7BTxRWMIZLAEGzX2M5wDmJ9Fjy3mtUrROYzJoAiHPp7yRamn6CKtRL6tGkQGCM",
+              "received": false
+            }
+          ],
+          "total_price": 68706,
+          "delivery": null,
+          "changedOn": "2026-01-04T08:09:25.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:13:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "536",
+    "etag": "W/\"218-hHT8wcNb8kZYyjyJl2jFo8Phl08\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Eva.Collins@yahoo.com",
+      "name": "XzKmCbuSbVcCRDiXvyuWbQgRMRPvobzUtA",
+      "country": "Germany",
+      "city": "pTUzgLNyFkwbTxixyiI",
+      "street": "F",
+      "house": 138,
+      "flat": 6,
+      "phone": "+4735768827",
+      "createdOn": "2026-01-04T08:13:14.000Z",
+      "notes": "CnVzxUBimMxNFXdx6FHgP9RCoGmyXTKKwtz7NBsBGGCzyFHhhcdFcM3PyFh43lda5a1OBOP6YikFOdHV13IthMVn3u2Zzsgossfa4AjurxCikPcFCLYm2cg9GL7JaRhLb9Sjjz5X6dPdwHmzv5NYeWow4ZnbrwH9Rm7R0hkcvTYmwnAk7UHzWR9PAcEMoA61SXSYDIiE2NgaTe4erYe3TfAQYIRwJ",
+      "_id": "695a211a1c508c5d5ea05442"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

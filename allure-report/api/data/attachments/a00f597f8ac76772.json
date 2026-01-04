@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:12:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "379",
+    "etag": "W/\"17b-KwxXgkaJone1fou0wabP7LOWDQQ\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Albina49@hotmail.com",
+      "name": "jjeumSSoEytSuBEJKkGyMmhDrmFsWNHMBZTgT",
+      "country": "Belarus",
+      "city": "InyDUcszqgHreV",
+      "street": "l4ZNwNQuphikwnRX94Dhq22pKOr0foUzjCl",
+      "house": 134,
+      "flat": 5,
+      "phone": "+1415211376",
+      "createdOn": "2026-01-04T08:12:54.000Z",
+      "notes": "tEAwWX902zTglt5pdHk2MGGaE5BKE1VOp",
+      "_id": "695a21061c508c5d5ea04d81"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

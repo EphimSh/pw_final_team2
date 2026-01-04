@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:12:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "402",
+    "etag": "W/\"192-n2uvmnrqMxZw1RILMhfnegAfEUc\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Glen.Connelly19@hotmail.com",
+      "name": "jkahfgU",
+      "country": "Great Britain",
+      "city": "muTzCJGsd",
+      "street": "aJK2bovc016rjKBYIlFFiWkHofQOIO",
+      "house": 24,
+      "flat": 3,
+      "phone": "+3929863079",
+      "createdOn": "2026-01-04T08:12:43.000Z",
+      "notes": "bQYdWoFxcAnYQMZXRrl7uwmCzfbClNp4BXR0GU4FhRIvZm5Ile7Bhv92ytIwCAotRWqQhx9h0yXEPhVmo7tO",
+      "_id": "695a20fb1c508c5d5ea04baf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

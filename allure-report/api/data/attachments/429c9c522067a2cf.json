@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:11:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2995",
+    "etag": "W/\"bb3-uK/1I/GxvPirHuEphM4Em5l49P0\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a20c31c508c5d5ea037a2",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a20bd1c508c5d5ea0373b",
+        "email": "Cindy_Halvorson@hotmail.com",
+        "name": "SeejjQTTMEYAUdYgRVrQeDqiwBloZqERf",
+        "country": "Germany",
+        "city": "RPOlNZ",
+        "street": "fOox7LJwCN3",
+        "house": 6,
+        "flat": 1,
+        "phone": "+0008742733",
+        "createdOn": "2026-01-04T08:11:41.000Z",
+        "notes": "xXp5I7VwaTIuKANxA9fEyjZwaPVRAefYw19h5VYM4Cjr80jTt3ZQ4MoGw4Zc3BNswOiuTaL4TPtfaxESRMOsxvYPiD4CliDZGB9EOxqmdqwtvtZCLNwr55FgsON7KhO52FJp1LB3BBRjZbnmdrNFJT7g0hIVGcPQR4LvGgtWIoLMpQAbg3cgFHpOEMKLR0XwNKkOJ61Swz0ycuoPdpg9REYVpsCGQA"
+      },
+      "products": [
+        {
+          "_id": "695a20c21c508c5d5ea0378e",
+          "name": "Pants12081",
+          "amount": 442,
+          "price": 77722,
+          "manufacturer": "Sony",
+          "notes": "WC3kUyVnLtzifTERG1kS5KOxsvXx0skWlcpWwEa85SV3xrJUFAFy8jJgWQB4wRG16PGDMEatPXGxaNzAhZg5lKvi0JxqWpIpQA3oTs4NGBQAqeSHBTmCXg8vXS1IcRoL6zNaHNW8vvbXBeRVU6LtLxo9L7GtlKqKkJFFhQ1Ci0U7YkNG2aOwVUyan92nRbuq7NMc0MESe5eCtcLkS0bpGYx3wpBWrX8HXSUP31FEqJ4kQGxt3tB2sEXp2r",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Canada",
+          "city": "Mock City kpfvNpzRza",
+          "street": "MockStreetK080rRZvqddv6iveYRqiSR0JU5XGAo",
+          "house": 27,
+          "flat": 7
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 77722,
+      "createdOn": "2026-01-04T08:11:47.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a20bd1c508c5d5ea0373b",
+          "products": [
+            {
+              "_id": "695a20c21c508c5d5ea0378e",
+              "name": "Pants12081",
+              "amount": 442,
+              "price": 77722,
+              "manufacturer": "Sony",
+              "notes": "WC3kUyVnLtzifTERG1kS5KOxsvXx0skWlcpWwEa85SV3xrJUFAFy8jJgWQB4wRG16PGDMEatPXGxaNzAhZg5lKvi0JxqWpIpQA3oTs4NGBQAqeSHBTmCXg8vXS1IcRoL6zNaHNW8vvbXBeRVU6LtLxo9L7GtlKqKkJFFhQ1Ci0U7YkNG2aOwVUyan92nRbuq7NMc0MESe5eCtcLkS0bpGYx3wpBWrX8HXSUP31FEqJ4kQGxt3tB2sEXp2r",
+              "received": false
+            }
+          ],
+          "total_price": 77722,
+          "delivery": {
+            "address": {
+              "country": "Canada",
+              "city": "Mock City kpfvNpzRza",
+              "street": "MockStreetK080rRZvqddv6iveYRqiSR0JU5XGAo",
+              "house": 27,
+              "flat": 7
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-04T08:11:50.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a20bd1c508c5d5ea0373b",
+          "products": [
+            {
+              "_id": "695a20c21c508c5d5ea0378e",
+              "name": "Pants12081",
+              "amount": 442,
+              "price": 77722,
+              "manufacturer": "Sony",
+              "notes": "WC3kUyVnLtzifTERG1kS5KOxsvXx0skWlcpWwEa85SV3xrJUFAFy8jJgWQB4wRG16PGDMEatPXGxaNzAhZg5lKvi0JxqWpIpQA3oTs4NGBQAqeSHBTmCXg8vXS1IcRoL6zNaHNW8vvbXBeRVU6LtLxo9L7GtlKqKkJFFhQ1Ci0U7YkNG2aOwVUyan92nRbuq7NMc0MESe5eCtcLkS0bpGYx3wpBWrX8HXSUP31FEqJ4kQGxt3tB2sEXp2r",
+              "received": false
+            }
+          ],
+          "total_price": 77722,
+          "delivery": null,
+          "changedOn": "2026-01-04T08:11:47.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

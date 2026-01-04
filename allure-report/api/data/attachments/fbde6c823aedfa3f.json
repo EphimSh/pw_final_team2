@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:13:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-acb20IqggDGbMro2kDgvkL13IBY\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat55899",
+      "amount": 287,
+      "price": 673,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T08:13:39.000Z",
+      "notes": "TOfcB848aMzlbRPEQxLcSXumnGQpdbM2tKgdGkOySnGtf471DrrTS8hDUdIXOO1LEL3zMrO5yMQwZq7PiUMvsw5IHRd4HQaP4RtfGSogl2H2aubhtYqDbZxPvXwFvpW28w0gDmIMkNrvANKlT3w2R0eKARcpwIhxoCnZSgQlN6SGF4HSB3BUNhY1V1fiN28p96U1HxSwbw58Y4MQ1N7idt9PUlndRPcPgYpbeLwZuR9k0LnOEctyZXTUUF",
+      "_id": "695a21331c508c5d5ea05c59"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

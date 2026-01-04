@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:16:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "474",
+    "etag": "W/\"1da-geMIShQ1cxTApGHrfdIQ8/KwMVY\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Microsoft Surface Duo 319139",
+      "amount": 646,
+      "price": 2200,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T08:16:27.000Z",
+      "notes": "M9nsSKxpHhE6LjNtMiNobPV5GyRSqEJHsYHMzRMT5JILgqAN956NBbOpAUXLV2dBk7i45wuBRg746sm7DsVjTjIGE2iwNrUKkUjlPFGnnjRMzDmzh3NiOwL2p1V7aUYgY5VrkXTgJoHfjVV04WqyZui20e9psjpkMLs6VM2cP2mezZicPkqurp1u9q6i8fHp2mvZG9b8OlsFDA3uZcVcSb3DXBemAJfXSOzO0mRIclpuzBYiuoUMOeY6x6",
+      "_id": "695a21db1c508c5d5ea0909e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

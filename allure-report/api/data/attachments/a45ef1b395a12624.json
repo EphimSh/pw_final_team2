@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:09:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "497",
+    "etag": "W/\"1f1-684npce8beavKnxpziX3Z4VGv/M\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Osborne.Fritsch@gmail.com",
+      "name": "revlPAmUiBAsMerFOMfRemWU",
+      "country": "Belarus",
+      "city": "ajWPMuuUIaYDXfyW",
+      "street": "6KuYntX52aX2QwUqQo8Lwt6ftyKl3",
+      "house": 134,
+      "flat": 5,
+      "phone": "+9891375354",
+      "createdOn": "2026-01-04T08:09:13.000Z",
+      "notes": "IGzPalhEOoSpE1a31gbv3tu74GcvJzoBQ6C6GOCl61T8frXzLosXZ2zSrGOIlnyxi17n0JBAFLpz8MiMs7ZsDkX1BtFZxosl3VAmHHsrTIVDAOaiJmkQS5oC0kMeQxWYpMMIpi8RsMJ3TFflJgfoAgZOujuF1Xkh7NK",
+      "_id": "695a20291c508c5d5ea0071c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

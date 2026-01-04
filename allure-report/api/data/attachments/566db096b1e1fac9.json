@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:14:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "515",
+    "etag": "W/\"203-Vn5m5m8yza8GKNlodNk/pKueSXc\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Leora.Dickens1@yahoo.com",
+      "name": "GzvMvkbnGXRwTJiyQjZOuNChfbcdxSwnEgMNLNd",
+      "country": "Belarus",
+      "city": "q",
+      "street": "xmGz5q3P93jaKSra7wvM6Ym0h8fhQ5Ijghxfp",
+      "house": 7,
+      "flat": 2,
+      "phone": "+8451553580",
+      "createdOn": "2026-01-04T08:14:04.000Z",
+      "notes": "v97B7kMrZ335rUoh5PvTJdpDHEePLp8RopXF8A39Y0PEqj9I0LWGiOZyo9VtvX3F6NLkf4f2qNQvDJmcZziPjvXKxzmDMCR6kmxU62Qi2L4mLtFSUisqfBRFE4AsGZOAKZd97u8e5OavCJmnCY2hgoEyRp6qMKRIi0AhUYdRossnMrMl",
+      "_id": "695a214c1c508c5d5ea06491"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

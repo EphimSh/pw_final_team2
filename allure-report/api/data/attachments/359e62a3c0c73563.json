@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:14:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "488",
+    "etag": "W/\"1e8-UFUgUeHWNnH7OqmUDRfvs6qZk6U\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Marianna68@hotmail.com",
+      "name": "fWAilLYJKKGZIpjaSWUgRAANdWXjw",
+      "country": "Great Britain",
+      "city": "QagpUKKm",
+      "street": "3duo8Uc3M8QW",
+      "house": 30,
+      "flat": 2,
+      "phone": "+4838610209",
+      "createdOn": "2026-01-04T08:14:19.000Z",
+      "notes": "ApbX4wruN1xVT2QQDt3JKCpdCsLBbkgwUrNfuQIoyJpcM3KvxB54OWg4f0vuMahfVcV96V0Tx9tgnf9USydyqTKJKceRlx68da52rGmCoekT9tCJVLAcQYpioWyJHNlbwLhNnjF1lXGxntv7avj8Dq86rNBfTofbGfbJ2XCszMPO",
+      "_id": "695a215b1c508c5d5ea069f4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

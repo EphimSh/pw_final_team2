@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:16:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-iHIJRGc878wazZIjc2F5mHbu1uA\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra83972",
+      "amount": 409,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T08:16:33.000Z",
+      "notes": "gqvGN2tFODzxNtmUj9sJR6ge0cY5zBBAz3RK9V8ozyyvR7jTagjweODPL0M3Nb6ub3cChBhMUr9Rev7MKq8mlbXur0lvuwPGKXk7Z2z7IQjx1PFe1NagG8af8pldqe0oZjQ5yJU3cg83vSBtkNan2qQ6IU1rC59ZuJSn433PB7aAzsYMMksnUcjaT2JSVNl9ziIwTvPJsbwKJhVIlyhgDr4Emnm1arp1VNlVar2Qup8zTw5EQGaht00g0P",
+      "_id": "695a21e11c508c5d5ea090c5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

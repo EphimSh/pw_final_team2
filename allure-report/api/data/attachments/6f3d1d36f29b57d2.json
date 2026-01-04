@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:10:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "469",
+    "etag": "W/\"1d5-v1evr8hDancIKcpdNH4k9hlE6vg\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Benton.Shanahan29@gmail.com",
+      "name": "dLXmxaOEAvAXZrOGApcmAbgWoHkwYAZbZJZCLWG",
+      "country": "Canada",
+      "city": "dgJXelYwucQYVdarWt",
+      "street": "yVeEQlEXXBfvO8elzi9PKTNjHo",
+      "house": 73,
+      "flat": 9,
+      "phone": "+6274477257",
+      "createdOn": "2026-01-04T08:10:57.000Z",
+      "notes": "EPXFbp85JYfHJQscumqkpuAyk0dydcQB7uwkULLHEZPTMKKN2BlEy3uTyu9yuPZrV8RDDSFDtQsZ2QkTZ44WMQuYHVQ93bSWG7lICpxl7ZRLDOpMQtjJp4kU2",
+      "_id": "695a20911c508c5d5ea027a9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

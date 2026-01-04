@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:14:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-vdu8hFMu33j0FCWhMBnXLlL1t6w\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap773",
+      "amount": 219,
+      "price": 88475,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T08:14:38.000Z",
+      "notes": "0dkA9bu17AmCxh8IOmbEvph8Q1zTdyVjKHZFz4I7WY3EDAmEtNpzQEUCtTjfQTIuCBBibt7w9vuiofZDuIl6UBCuoPxRiQdlvx7lUdrHQHaiytUkJqHoAstVKphR0MqrkjjISO5iRqeXQGsaqbO8iV4yaKDffQv84hTLbbsJh3yFP9lgEKtrWatX38tQWTiq2M1EdYRHp1ih0SABcqgG5pamS0GQrhralEp0BI87H8LN00juyoiziLNVhn",
+      "_id": "695a216e1c508c5d5ea06faf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

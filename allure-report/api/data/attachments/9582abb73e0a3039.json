@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:13:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-z1DPzc8lf9PEWVkaN9gHttZEAZM\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips51944",
+      "amount": 871,
+      "price": 15427,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T08:13:20.000Z",
+      "notes": "40HwbdeG0fBFK6wkTNQEiyiY1rbz3mwr5gwEsXtgUWFBVUnmgYp9uIdueWoRFbMZu4NObWd15KVs9uTo09rVmlNxhSSfl4MSFZErLhUVbqq50IyvKdXLjEfriWXVObPs5afFES8CRTxKCHFm5cyUDydzqVVMAUrnrrWbdmdy5drZeR0J7EOe5AcLddrK4WB9Ua3qYJrkojkCZsvgKmMPWlBqxhArNiSGbO92G7p8CgMx23PRc6DwvNcymS",
+      "_id": "695a21201c508c5d5ea056b8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

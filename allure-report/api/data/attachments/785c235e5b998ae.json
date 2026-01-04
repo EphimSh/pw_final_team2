@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:12:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "357",
+    "etag": "W/\"165-H/tDii+gUbAhWsZqFMkyKGMM/nE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kristina23@yahoo.com",
+      "name": "kJmbYjSgHNgVrvSJGTTCqa",
+      "country": "USA",
+      "city": "zA",
+      "street": "XKZtbkUPUrwvxnK8Oydg2MNn2FP",
+      "house": 31,
+      "flat": 7,
+      "phone": "+4152910272",
+      "createdOn": "2026-01-04T08:12:13.000Z",
+      "notes": "3BBeFpJvcByDbsqtNn5jJbd7tljs06mKUjxiFgQhFW6GHat0psl",
+      "_id": "695a20dd1c508c5d5ea03fd2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

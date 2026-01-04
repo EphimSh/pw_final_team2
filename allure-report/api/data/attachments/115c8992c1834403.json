@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:17:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-5B3++ccDrDHPoemFW11jvcHXtgg\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish24682",
+      "amount": 435,
+      "price": 15290,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T08:17:46.000Z",
+      "notes": "unE7yUThWxusfXqtRzQGNL5JeJgjZoWGUSCC4bsnarFnXBvFqOORG7lNIQgKXvTyfVzRwfANa9NCnJEOVyjMBJaEvLu3jEhCZTCpBiTOJnio2yTRHfCQkOJOW3oVED10MabRm3kyd48QA8GZLiyICVbdXCgKl7kUQTxgZZkvhYgqXAfNYde6sJCq2zIRYKgQFQCffpftMWeJQGznZ5deG7trhEcQWr7Av5vByqLHHmebkGuVKbazXVkG1N",
+      "_id": "695a222a1c508c5d5ea0ada4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

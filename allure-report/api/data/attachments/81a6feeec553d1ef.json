@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:16:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-wGOeebmtIpINqVNidTCFl0C2bOQ\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza26819",
+      "amount": 477,
+      "price": 53925,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T08:16:56.000Z",
+      "notes": "F3yVJj8ZhMHyWhzRqzRRxZ0civpb6VLSx6GdBt5nyzmyEqYSSMH63JgMtJcJoSo45IcYq667SQYz0ZqsE7gEaJBH3nB27ToaoJItOBZDN9V215KyEoQQ7VCxBC6qlNZJDeZhiSFsgQRl49OI4WA7RMjgBMrfuV1vXYJiMrHAl3vPkUStHLK0zFsancRbdvH42r2HFrDD48Rxwk8OQrnVzXDf7eo3qG7MQV2MM1oAgzNiHyDXoPXmagJVpE",
+      "_id": "695a21f81c508c5d5ea09a50"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

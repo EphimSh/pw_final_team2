@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:15:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-s1U6LofjEh345ve8ZnGmd1wpT5A\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels6073",
+      "amount": 0,
+      "price": 43397,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T08:15:07.000Z",
+      "notes": "i22g1npkmrge9DJQGnTh64hQgXJvLSLDpFGcOWLA6eDBjC7Y6NlY9Kw7jGfyYVJcJdUVETiWMyZmBHq6WxAladJOsfYbsX7ElgLyDfm1gnSPtNOnc8jmcBpi8F0erx2fI4pGUQ54LdI3Iy34vz47anpFCbzL36kKO73fUr0zBCsmUT0gjoPVpIzDm77uxgi9zcMH4hKVAKBuPdK3yHZLKwFLeAZY1SXgcZM4wx1MsZYhzduqfI4WeNAAp7",
+      "_id": "695a218b1c508c5d5ea07d54"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:17:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-08K2yNc+P42y6/DhVuxCrsfNKLo\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro30000",
+      "amount": 68,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T08:17:13.000Z",
+      "notes": "InUR7MMB5wqfztPAnFYlHVjUSuGpyblGG8uQ0e30jIseaiPEF7IrSoqYw9SAWgITOrAKH4cgmTCf6O6g4wXOzYNxn4xkGiET9wURt2F7I3a5pQOf8726xC2EHjsJ2lqg6QINZUpuVGioe6igwLAYJQOudP9qfCq7DCYtJocrqv1GdFKfxy0HbmpiiQMZk2oAUtiNlJqTvJ3IC0dYepFJ7zEHSp7MrNf5o1yjcCTqdX80UT9yc1uEnNCxes",
+      "_id": "695a22091c508c5d5ea09ce4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

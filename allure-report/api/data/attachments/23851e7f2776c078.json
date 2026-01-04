@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:16:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-+2APwle1FHPntfDq9agsPX5jk1s\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra87827",
+      "amount": 206,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T08:16:14.000Z",
+      "notes": "3BVXNHUJPe25NC230iqclke0a0omIUMPszxLXc0TZzfZ9H3QHgmoyCeZzCoxu9StmcS6mhULp8s0yBUcK9ld2VkurGpvdrsuyq67kuQjMi9zvPCcxCvadU54R2uaLJHvp7RWnqYCFAqkxKwkGOdYohAR43G3MUXZ6z3d5ojcQov7N5iodmr63hb3iaa6oSfQPgCQ9KHZRK52NLPHKlgT0flqIn5vesO18XEvJ9Anfk5v272kCxO1ETnmAW",
+      "_id": "695a21ce1c508c5d5ea0897a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

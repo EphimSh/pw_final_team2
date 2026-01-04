@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:13:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "398",
+    "etag": "W/\"18e-O7SpOFWb/AloCQUdBVzJ5wnsCCY\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Helen.Maggio77@hotmail.com",
+      "name": "SrBYAKctsoGbGThsECJiahRKR",
+      "country": "USA",
+      "city": "lHBLYFqWHuVrUYHU",
+      "street": "6FkGJPnzf3eEmIvihXFbcO",
+      "house": 130,
+      "flat": 5,
+      "phone": "+0476400769",
+      "createdOn": "2026-01-04T08:13:03.000Z",
+      "notes": "jSFjzlJa6V3Eqwh2cPFiOMhb0No1hnpIXF3bvnXWMzkb6ClXeYUfMRAiLVjlvNUmIbWO48anO",
+      "_id": "695a210f1c508c5d5ea05066"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:09:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "362",
+    "etag": "W/\"16a-3jCyEW4uQlTPoih8Bq33NCWia58\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Grant41@yahoo.com",
+      "name": "JIYRn",
+      "country": "USA",
+      "city": "Cto",
+      "street": "GLYGGYeOQ4EhSuOFBTsa9svEdbv",
+      "house": 125,
+      "flat": 6,
+      "phone": "+0980452187",
+      "createdOn": "2026-01-04T08:09:05.000Z",
+      "notes": "LwgNYxqIK1CYlpeSkv62OvuZpZiJVFuxcCUeKCBrcbuVbOBu69XyuturKSWtExbqZUEXfM8lSX",
+      "_id": "695a20211c508c5d5ea00699"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

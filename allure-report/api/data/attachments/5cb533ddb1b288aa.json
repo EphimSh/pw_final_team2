@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:10:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "294",
+    "etag": "W/\"126-ODBmSMOpDIq9V+EEvlAd90w3ZTs\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Alec10@yahoo.com",
+      "name": "JQUSpRaYbc",
+      "country": "USA",
+      "city": "srzScZLfVmyo",
+      "street": "NqFceZdfLu1h1",
+      "house": 111,
+      "flat": 5,
+      "phone": "+1947952507",
+      "createdOn": "2026-01-04T08:10:28.000Z",
+      "notes": "RO0rFRT",
+      "_id": "695a20741c508c5d5ea01e2d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

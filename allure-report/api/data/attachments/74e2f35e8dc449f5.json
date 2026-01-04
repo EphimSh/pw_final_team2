@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:13:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-KPF+FMunP34UwSlGcDd5hO6QR78\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt71088",
+      "amount": 882,
+      "price": 69640,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T08:13:30.000Z",
+      "notes": "dtEHUIOlvcPmyGurHkf7fZtRDIInl1U1qZNjPZ2OpHaBMzfYGFswO4nSoLE6s5Bf80RXLukQEX3E1rBLLX2ESP8KI36rPIbR8hDMFvJgF1RsdKaCfEyBFxbgUzY93IAwocFj719cdOv9HtCDsq5IqFm2ilQ7bmzmqfDy8Jn2480andZmeyPufVbUBBIfHHXtfGHac7xLI8OdFb7ZDNyHWegojDsnVjjXZnxFhcQIpQ8DXS0lfA1dBE5EIm",
+      "_id": "695a212a1c508c5d5ea05ac1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

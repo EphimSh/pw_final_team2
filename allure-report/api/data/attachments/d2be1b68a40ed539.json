@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:13:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1864",
+    "etag": "W/\"748-A1VScagYxptgr4nTnKnXY/4anok\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "695a21231c508c5d5ea05734",
+        "email": "Aurelio.Daniel@gmail.com",
+        "name": "PCezV",
+        "country": "Belarus",
+        "city": "qpGcOvtfgrEWgTmOnnkd",
+        "street": "kfrNtjySI4eC9yGTgp21oQMAQiFfrVEbfKaujyQM",
+        "house": 116,
+        "flat": 1,
+        "phone": "+7761300955",
+        "createdOn": "2026-01-04T08:13:23.000Z",
+        "notes": "Gdd8SPUbDEWp2nflJI1lpPVD1qYK81pjX25OTCy9GtqKxNPmS3qM8cXjz5CD6sJZDLw3WI2zd8CeMQV7Z3j1qj9G9QOzMpcddVHnhLTICseSicVjmmn7tG5MvJUMQdoKPpCcEHRyMQku4YhtVFs0mzCxpb7tyc42Vb6xoJNO6yfs2C122ATMNtEc4xDB4xuCONSTCRgiFqVw7"
+      },
+      "products": [
+        {
+          "_id": "695a212a1c508c5d5ea05ac1",
+          "name": "Shirt71088",
+          "amount": 882,
+          "price": 69640,
+          "manufacturer": "Google",
+          "notes": "dtEHUIOlvcPmyGurHkf7fZtRDIInl1U1qZNjPZ2OpHaBMzfYGFswO4nSoLE6s5Bf80RXLukQEX3E1rBLLX2ESP8KI36rPIbR8hDMFvJgF1RsdKaCfEyBFxbgUzY93IAwocFj719cdOv9HtCDsq5IqFm2ilQ7bmzmqfDy8Jn2480andZmeyPufVbUBBIfHHXtfGHac7xLI8OdFb7ZDNyHWegojDsnVjjXZnxFhcQIpQ8DXS0lfA1dBE5EIm",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 69640,
+      "createdOn": "2026-01-04T08:13:30.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a21231c508c5d5ea05734",
+          "products": [
+            {
+              "_id": "695a212a1c508c5d5ea05ac1",
+              "name": "Shirt71088",
+              "amount": 882,
+              "price": 69640,
+              "manufacturer": "Google",
+              "notes": "dtEHUIOlvcPmyGurHkf7fZtRDIInl1U1qZNjPZ2OpHaBMzfYGFswO4nSoLE6s5Bf80RXLukQEX3E1rBLLX2ESP8KI36rPIbR8hDMFvJgF1RsdKaCfEyBFxbgUzY93IAwocFj719cdOv9HtCDsq5IqFm2ilQ7bmzmqfDy8Jn2480andZmeyPufVbUBBIfHHXtfGHac7xLI8OdFb7ZDNyHWegojDsnVjjXZnxFhcQIpQ8DXS0lfA1dBE5EIm",
+              "received": false
+            }
+          ],
+          "total_price": 69640,
+          "delivery": null,
+          "changedOn": "2026-01-04T08:13:30.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695a212a1c508c5d5ea05ad3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

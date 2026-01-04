@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:09:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "566",
+    "etag": "W/\"236-EuiIXBdspIY8YLnIuiSFHbMV6hw\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Loma95@yahoo.com",
+      "name": "YHXrjLSXMaaVgrlgIcKfV",
+      "country": "France",
+      "city": "kuBNAWwzwlEnBA",
+      "street": "5pPH6Kz8pAmSXA9YPz9sW567vXV",
+      "house": 30,
+      "flat": 2,
+      "phone": "+1674991284",
+      "createdOn": "2026-01-04T08:09:05.000Z",
+      "notes": "il7EICEaTPsmF75pW5fkHN8nvGOYx0oFJ0rX35TnNBn1ThYpSfMd0WX2TLKAqDeA2UfJa0Y1JEjSBJAqa8vYhhqLe2BkLCckWz0iMUnLo3uksHC2deaIgkkXfKMNVaDWS2quetqHGmDLLvZJbANhQJmB05L40kOg0HGCHzIeQWIpqsIwWvr00FUnP90AmKLNWEedeLt8MmWktXLP1W4PjBQ7ttAeBrsNbRNaTgvG1OAiUOM1RTp3qQD98q",
+      "_id": "695a20211c508c5d5ea00697"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

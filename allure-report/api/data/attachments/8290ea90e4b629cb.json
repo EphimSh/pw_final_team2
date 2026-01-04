@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:11:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "521",
+    "etag": "W/\"209-uxOgynkkvEVOiL/OrBj9Vo/n5BY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kane.Franey@yahoo.com",
+      "name": "MGnZUqSaqDtjlkhtgbNlux",
+      "country": "USA",
+      "city": "oDIUbAgLN",
+      "street": "UZvY",
+      "house": 83,
+      "flat": 4,
+      "phone": "+2487819508",
+      "createdOn": "2026-01-04T08:11:46.000Z",
+      "notes": "UJbZnK84nBM79v3ollRpzBCPn8dn5i0taJl92zflhfhMdWRfQ2a6m9QxKmCo6ezn0lyjIaWibqpJmm1qR1MVvnF80RljCoQwf3VpDn2mjx28F9abUbQGhYK9q82Xftjiw7KgH0hQfa3wcXrEokEJdwrLGaoPWM1OO1jgcINIju1vj2VrEegK25qra35XjYqN3JyylOMX4R7vaidK2CtOqK7CJ7wYSHdDFaaFmn",
+      "_id": "695a20c21c508c5d5ea0378c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

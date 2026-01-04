@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:10:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-AIyTc32UvJN/kfMhidR49lXFzaw\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jennyfer92@yahoo.com",
+      "name": "WZIhxgStrTxU",
+      "country": "Belarus",
+      "city": "eRbhRP",
+      "street": "EzXgnZrZd4axnu4uolKPj",
+      "house": 130,
+      "flat": 4,
+      "phone": "+5080282232",
+      "createdOn": "2026-01-04T08:10:38.000Z",
+      "notes": "vSYWxsRHt666Rvb1duH7lCyJikZUH4Tf1gGQDjAocb8JpIC8ipgsIoywTavUEgaCwOcNTu2TcmpdIWm9UHqTFNyfjjoeMkv6RDXGxQUYAaJOsWtOiVylZfpVskCLjrpVCY1PU5DluxmqxrbZ1xgwkyiPnErgbC",
+      "_id": "695a207e1c508c5d5ea020fc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

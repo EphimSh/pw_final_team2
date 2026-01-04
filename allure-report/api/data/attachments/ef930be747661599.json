@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MzZmZmM3MWM1MDhjNWQ1ZTlhMzc2NCIsInJvbGVzIjpbIlVTRVIiXSwiaWF0IjoxNzY3NDkxMzEyLCJleHAiOjE3Njc1Nzc3MTJ9.E5snF21t5nPU4IT2P8qvrVcchLstXNadJZhF9OgtZbU"
+  },
+  "body": {
+    "address": {
+      "country": "Belarus",
+      "city": "Mock City sLzBEu",
+      "street": "MockStreetHftqSwf0d6fdpFzac1ZPsqKBtfCr",
+      "house": 123,
+      "flat": 15
+    },
+    "finalDate": "2026/01/09",
+    "condition": "Delivery"
+  }
+}

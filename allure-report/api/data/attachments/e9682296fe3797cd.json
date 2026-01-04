@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:11:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "429",
+    "etag": "W/\"1ad-dZZBv5UZz4Twszf5FUb2izgGkug\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Keanu17@hotmail.com",
+      "name": "NobTQQhbhsKtmhtslmQRvfcUGovkhrmhHYCO",
+      "country": "Canada",
+      "city": "zXe",
+      "street": "On3U6rrUdc5zgYlEMELbnPaQr1MGHthhaufUR",
+      "house": 118,
+      "flat": 3,
+      "phone": "+2803074885",
+      "createdOn": "2026-01-04T08:11:40.000Z",
+      "notes": "04fRsl51js6Bz1Xpv4p0IDLbFhpkN6VdS4CxDPfoMMTmELp3m1ksVrq0ihjzrPd5BJrmFgnSoLkL45yPmn0zVOol4nQgM64",
+      "_id": "695a20bc1c508c5d5ea03611"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

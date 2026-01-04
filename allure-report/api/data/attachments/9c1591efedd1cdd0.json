@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:09:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "473",
+    "etag": "W/\"1d9-+oib5EsebkxgJpFLzRp+ZYLTpZM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Josue_Abshire@hotmail.com",
+      "name": "CojpXzptkxMYPHOqDbwofWQABohw",
+      "country": "Belarus",
+      "city": "VQ",
+      "street": "he2ZQhqRoAYpU509vL34P",
+      "house": 155,
+      "flat": 6,
+      "phone": "+2423026085",
+      "createdOn": "2026-01-04T08:09:02.000Z",
+      "notes": "BbOnnMwRPpMAo00vzoT2fkS4u7rixxdHEwWXhsR0ETFJtRmhp2OtikwiChtgnEqEtK8l88FMLWv7mfWOJWA81gW0VcrceFG0MOF3fZ8hNSF4i25H8Q2IRkLMbbCDODz9xJjPvn84Q2uFrYzeNasxuxDMrrW6u",
+      "_id": "695a201e1c508c5d5ea00682"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

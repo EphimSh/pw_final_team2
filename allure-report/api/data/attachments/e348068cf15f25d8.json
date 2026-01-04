@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:09:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "389",
+    "etag": "W/\"185-lRvlQlxKYAtYSalRqAYVane5aKs\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Aron_Gusikowski98@hotmail.com",
+      "name": "K",
+      "country": "USA",
+      "city": "FgyXyXozEasH",
+      "street": "eDj2Zm",
+      "house": 123,
+      "flat": 3,
+      "phone": "+0371264031",
+      "createdOn": "2026-01-04T08:09:10.000Z",
+      "notes": "lGVtqe1KiEKhlakX042W6o0IvkNrhVr1XCxwZjkKmg2a2bM6xdZbZewAnUJk4S15oaxxr3YjwsRB9tS4Z66qh9Uc3IoUmKRiI1rbQSRLA",
+      "_id": "695a20261c508c5d5ea00704"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

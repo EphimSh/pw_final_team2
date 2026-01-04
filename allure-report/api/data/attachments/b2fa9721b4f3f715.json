@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:11:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-dOLrkrLcEGWi+Vvzj5M8MeAyOqc\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap17938",
+      "amount": 218,
+      "price": 49975,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T08:11:59.000Z",
+      "notes": "LIMVoQtvOBZ5pHccP4fWDrQtPpZDn2XSZf1QtnAtgIMBIgkWNJiM3Mk2W8fPZrCAjn1rOJrwFvs9ryJnbIMoZsEW5ShgvnDjvhmxg1wkJotBXLJCdvAxUyqZNo8KvRyklnDX5SP7cZJZGXezqs80exF7nje4isvxjoMxEVO0Dg3N24XWrMl4QLoineRDhWK6jDRSnwLpnb8aezhFk45uV58oiOWcE4J2XWzy4llQpLmYiaT4xyTE1TLI0t",
+      "_id": "695a20cf1c508c5d5ea03b74"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

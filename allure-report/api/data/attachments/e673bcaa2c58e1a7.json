@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:11:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "374",
+    "etag": "W/\"176-ylDI3iLc7lCZEGUWt2fKnNP4bac\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Maegan.Schaden85@yahoo.com",
+      "name": "kt",
+      "country": "France",
+      "city": "pqSmgVUJR",
+      "street": "sNgNblLEOk1YBZK6kfuEswu",
+      "house": 22,
+      "flat": 8,
+      "phone": "+9926353350",
+      "createdOn": "2026-01-04T08:11:55.000Z",
+      "notes": "JR2SnDtc6cEfxQTRXhI02sjjcah7oKxLCTm0PMSbCiNvGdNuP2nlr2JPvZntRh9sO06sefAy9n0U",
+      "_id": "695a20cb1c508c5d5ea03a33"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

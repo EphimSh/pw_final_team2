@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:10:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-dvYjXVm6Hf55mZymnyP+3owpH3w\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car27088",
+      "amount": 176,
+      "price": 64000,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T08:10:23.000Z",
+      "notes": "Ido6FHyhdtIuVb99Jlfq1XWj514JyzEHz3qEzyAJY0qING6H37urAr4SVzLToHqCh3o2cZIop8yutpo4jqcLcfP4omYsZspSD0idK4pxzmkuxupoFTXZ0IulYV3BXJXbSRVPHSoVairLzRMetnitNl1XzOlbrixyI9Knk5vylh61olj6BMdz2BNJvkTtkFpAuu3lzdrGVkf2rejboGDul5GAVMSBHi9SlMTQd19eMpjU7LNGGkyYnU4aKf",
+      "_id": "695a206f1c508c5d5ea01c3d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

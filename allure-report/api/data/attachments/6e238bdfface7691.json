@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:11:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-lcbnTM3DXR8aPPl5Jy62Ml7haxU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair23007",
+      "amount": 487,
+      "price": 55078,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T08:11:27.000Z",
+      "notes": "mlQclbm3Vt3Rbm03AUkLswJHAIomCfC0Y0seeneKh7DNUHAr6Hw47fITLxNfHYLxCfp7FON3RkKpNf2Nty1BI613fPis5u0yQ8yeDKRp8U7ydenpjF7HcVOtGXDQ9bR9KXZ7yVwnleRxe6FLEGKgkDHcwZmGW3sOfq6JavvueEHWBsepL2LL6EMstPWN3gTJeoOUiNdaUL2p4GBuc2qcOOlsyzTPpUVuMjQDaUb8sdD6kpRSYOwBNxeC9c",
+      "_id": "695a20af1c508c5d5ea03220"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

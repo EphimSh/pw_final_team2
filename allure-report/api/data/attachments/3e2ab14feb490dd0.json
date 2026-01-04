@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:16:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "465",
+    "etag": "W/\"1d1-0bO0wsIXSLpDkOlHJfs7GGCrxLM\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra2947",
+      "amount": 677,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T08:16:20.000Z",
+      "notes": "EjOdX3xqQJeP7Iv9ub9h1k9C8ep1nJYVuBjhNNDdvzQnm9YndkyWFtCtNxwNYZCIyRy1pfyX4x1MkUZTvYvvculjfjy00AejEmSuaUmcjpfD5DvQXG2RUJEwYg8ZJnXa3WpT39NEBKhekUjRkrIk6X9xjn2OUXrxiUWuNcb0M4apydoqeMRuvvXpWgQPEpjBvUCqvbJ55PWVPwuAtNE352fy7JZI1UxAMhj5C4soegZdum3b0DEcVHhI7z",
+      "_id": "695a21d41c508c5d5ea08d0d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:14:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "357",
+    "etag": "W/\"165-0/vG19NG6HPKByOvHPb+f19P6ug\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Judah93@gmail.com",
+      "name": "G",
+      "country": "Great Britain",
+      "city": "wx",
+      "street": "mZ",
+      "house": 182,
+      "flat": 6,
+      "phone": "+2983231647",
+      "createdOn": "2026-01-04T08:14:27.000Z",
+      "notes": "maMSwRizT8gegypshe8qcMCIZp3ssOgK0DN6XSeIyHkbo9YjcVQBaEmBZA9ayF4gBSAwDNgxahnYMPj6q4nsvgM3p",
+      "_id": "695a21631c508c5d5ea06cd8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

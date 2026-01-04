@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:10:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "533",
+    "etag": "W/\"215-iLKcDIM7+h5955p7C83olufCDIs\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Sarai.Kutch@gmail.com",
+      "name": "rrxczusIDQUVUNitjMYjD",
+      "country": "USA",
+      "city": "iLtHOtPwuseTCVszxH",
+      "street": "3j8jnZ8",
+      "house": 97,
+      "flat": 9,
+      "phone": "+9501311556",
+      "createdOn": "2026-01-04T08:10:57.000Z",
+      "notes": "sm51kR3qpPVdefHJvdGs7XbLkL2zmRR4mgIpDDzkfbBdUBZXA4AvKD9Z3SJLPBDe6gXu3m33tQeqT47FWCU6CPn5cXWcmegSWRxLwaWmkgck4ya5X85sr6JNKBwqmZP4pspIUWaIoSjzMTXbl6b3BeXeNkJnRHVGxwNxrbGFQigpPn4dTC7GB4x1B3vTsen7kd7TUarHVJK2XhLd6228fIfnRPifRnjbgs6l1N1",
+      "_id": "695a20911c508c5d5ea027a7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

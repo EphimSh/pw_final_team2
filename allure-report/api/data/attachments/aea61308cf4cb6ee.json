@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:10:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-iuXL7qHSG9ZE4BI2nWxz4WeqB6A\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car74646",
+      "amount": 716,
+      "price": 37010,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T08:10:54.000Z",
+      "notes": "KkOf9UHiBNgUqoXj6KYR2l435nYijXoMVBXRJ5HmCOU6HP40H5cpXJf6LOQHiBaaA6mvYlE0H3giupiQkkGUid3mqtIYX0IiruzNiLgHacZKDudSw3N6FfUa1FwkWIxcTSHbQ3dSMidm6eci7rkzZSfABkjAKMzZmVnhyR5jhWih36uD634MXBUodcXUajmUpqlZMMwQoN6iZl5CUXWTjzNtQqAd4TLpX79LzLrOnS6IQRZjTBoQ3p5YsU",
+      "_id": "695a208e1c508c5d5ea02666"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

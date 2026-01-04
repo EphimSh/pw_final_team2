@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:13:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "487",
+    "etag": "W/\"1e7-EO91RBkYiLLXhD0AhKmhXJMCym4\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Elouise52@gmail.com",
+      "name": "DYILYoTzyubGRbCgsX",
+      "country": "Great Britain",
+      "city": "NNHOvggPb",
+      "street": "W4VNSFzHr53csN8VPx",
+      "house": 75,
+      "flat": 9,
+      "phone": "+0844182483",
+      "createdOn": "2026-01-04T08:13:03.000Z",
+      "notes": "8qeNyLGYCjGAHYOjHSBfrXS2dO2HODOfjT7k2Qb9nk0O7AVZW7YHVO6yD82uBTOS4z6YjKfQJu1u7xxpvJY1f1I7K03c3ZVDkTWWcDuUj4ZQteLnWcx5xSE6IVZFxPn7TqNsu93aOhFoq0UEFpr53oSJ5fbXLatDeh7smoDQIrKRSbC1Pw",
+      "_id": "695a210f1c508c5d5ea05061"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:10:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "511",
+    "etag": "W/\"1ff-xp0Orn1CrU+gvA+X1toEkoHixTQ\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Clay95@gmail.com",
+      "name": "YCjAzXmchi",
+      "country": "France",
+      "city": "oFLOezAyTteTCZLGFVyY",
+      "street": "IxkEGlv2RFGi5RFhMpQMZML1",
+      "house": 170,
+      "flat": 4,
+      "phone": "+1982618590",
+      "createdOn": "2026-01-04T08:10:03.000Z",
+      "notes": "HCVfvzAQEtut6Tj7ioUbTVAsQsuKDMibDT1M7R51JbcwnXrAwHAYjSQJE3eAae7SXdbWIJdVlLRAAzjT7cunXjX5uooWRmLwoiWSDMLfWmsznbmEnBlW73XOtVqRbLwBMB9b3QfIzhN59I5SDejZ0JRJEGWzyR4cUFmJ4HpSwhg3T47f4ZlcOW1w69QbRmil1yKfgPt7F7",
+      "_id": "695a205b1c508c5d5ea01472"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

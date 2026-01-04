@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:12:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "434",
+    "etag": "W/\"1b2-7ckg1wo2dzitkctNUkchFCvRob8\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Georgiana.Osinski71@gmail.com",
+      "name": "mbnZizSfkeSUEhSrgpQxNa",
+      "country": "USA",
+      "city": "Q",
+      "street": "RWPHXotsWF9GVLnmU",
+      "house": 114,
+      "flat": 1,
+      "phone": "+4162448781",
+      "createdOn": "2026-01-04T08:12:10.000Z",
+      "notes": "j6rBiFbxdOdmZagbzrtMBEyS6vYpY31Hri583DiOE7i1ntUEevR2Y1G1CvoR924Rb7VAcaQ1qzyvArpfCQxINBbrtwYzyEjELuYFUx3GHKeMxqsEpTBMgVZ5ZBxlROt6U",
+      "_id": "695a20da1c508c5d5ea03ea4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

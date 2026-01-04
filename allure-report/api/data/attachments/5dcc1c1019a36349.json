@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:11:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "355",
+    "etag": "W/\"163-I4kmNYP52jOLHQ+d3rL3zLvvuu4\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Houston53@yahoo.com",
+      "name": "JnexBjYBvoGjSoFuFjwJJHTSYVB",
+      "country": "Belarus",
+      "city": "WJtjzCGuFtC",
+      "street": "L1lY4DhH",
+      "house": 57,
+      "flat": 4,
+      "phone": "+4090655601",
+      "createdOn": "2026-01-04T08:11:54.000Z",
+      "notes": "EfQ9H7ucrXgoM3HHA9rDN7QCz9VH0Z2sRGAzyPDmqC9q46pUZz7",
+      "_id": "695a20ca1c508c5d5ea03a29"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

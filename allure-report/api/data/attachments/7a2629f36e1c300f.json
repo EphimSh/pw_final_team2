@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:10:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "403",
+    "etag": "W/\"193-zfjmsrdUjBuXxZGB+3Qy8UKMAno\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ellie.Daniel81@hotmail.com",
+      "name": "jsCtziBcDAkJMKUcZIGQEJKvEjWDPqBiykXkUQd",
+      "country": "Russia",
+      "city": "QVCjAhZlccXAaVrQB",
+      "street": "Juw0tZOxzpxFM6NDhLw9gCZ4pHn6F3EPD",
+      "house": 95,
+      "flat": 8,
+      "phone": "+4044888018",
+      "createdOn": "2026-01-04T08:10:07.000Z",
+      "notes": "Eo2jLY1JUsQLqsF5XgcevKFTl5wRMHcqTZlR3tZnrd13t3L4eq",
+      "_id": "695a205f1c508c5d5ea01805"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

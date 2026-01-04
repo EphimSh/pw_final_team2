@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:15:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-lvCIfpVARNNG9F5kC6WWpje7juI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon42082",
+      "amount": 642,
+      "price": 27163,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T08:15:39.000Z",
+      "notes": "6TVChCoUxUITYB5yMU66LEPthMsWoT2O3mkTe58LI8HHRVtxHesNbStS4AW0rR8NOrav72lscZUBgfAXffpfhCKDimheMWRrfeMdK0bxklX6DK92A6pcaA1mnSEH22CwVCOoiAMLKpLzipKoI9CgPYDQqaxGrR0hTsImpAEPgdKpQxEVm9boE82JGdSGpbnKGJgLzdzmlQHGsNBXrs8wRKDaFNExIjRCBoqxRcP2xiOIpNDBFfdMxQsk66",
+      "_id": "695a21ab1c508c5d5ea083e5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

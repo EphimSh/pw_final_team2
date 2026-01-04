@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:13:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-bplJSXZisf7kRvmhTOipk7GMf9U\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball45929",
+      "amount": 311,
+      "price": 38525,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T08:13:11.000Z",
+      "notes": "uImyuxicIswbzocvpYhxF9MRzjuP6dH4xxM4Ib0X5NbQVIbyz92hwwFyCg8FDRM8N14uhQrnchZeJJl6cd6PPGUFgfGWWLQIdbRRjnthAMz7jQLBHGUFmObaeHaLyszJykvmEVPU5guVtNenM5dqywmFn5JMaxuZvzEaK9MLBhhom1dgzZh1p8Ejtwg8QJREILFA4WtY8OKbWx7nFQGwv1wg6Yu64sOKAk5UFY4sRdndhJOZ2OpZEjGc5R",
+      "_id": "695a21171c508c5d5ea053fc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

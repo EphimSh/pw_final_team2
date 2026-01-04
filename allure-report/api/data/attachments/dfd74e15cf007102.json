@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:17:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-gBa87U5jw23sg6M6/TCAABCHAYs\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon18448",
+      "amount": 449,
+      "price": 94351,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T08:17:46.000Z",
+      "notes": "mXQfkFeYsq2Z20mSOnCqANlXsJ6cl11SIoZT282Mnnr9l26rvfOi46Rn1of3RU3tWjoTmBaHLXgl2tubbrjs0RkitNkUsz9CIAqbxyIgjEQ1aDOUOymaIatfNehySh7OdKkjDD8qrW5ziOS0cYyKrVkLnvokZXAl6NbdZYtvuSdvbFvpN8w3YYFIlPuj2xdNHqa5suY4Et2TK6vf1u5tNvdV63oIor7ujTwunA9umniNY9DlVUB2vdEDel",
+      "_id": "695a222a1c508c5d5ea0ada2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

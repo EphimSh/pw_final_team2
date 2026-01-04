@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:16:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-oQNZBVsCWMnw9VTDiNCzuC5X+ug\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X23146",
+      "amount": 454,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T08:16:56.000Z",
+      "notes": "bYVRH6bPLE6VFtydaA3BfBRmgiiwRrskfjMAv3jQo8n9fA5Za94qkiIJD6iFZQo4fUh1kEdwtkwqlQohAzIYvMn8N6AyYKxnT1Aki4lnTomo7XIc8nDMxMPuG5jtruk8SnHpo5kUiSqDUA8y698V4e4l6Zwu4e1B0cQqAeD4RI0y0bikQ7ViUWWWohcguWwBX4GI5JJVbFRwG36VhaBkowtjn9bpkXQAAxrvzikqJmwsih9yclCTj5Xcka",
+      "_id": "695a21f81c508c5d5ea09a52"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

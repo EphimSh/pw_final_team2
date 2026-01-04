@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:11:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "440",
+    "etag": "W/\"1b8-Y/1W+V9HXCEjbt1OuWYiWqIG/Lo\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Carroll_Hauck@hotmail.com",
+      "name": "WxD",
+      "country": "Russia",
+      "city": "VZeu",
+      "street": "WydIuMQTNCRxBPkCddLolygF8MfKcWQmKh",
+      "house": 176,
+      "flat": 2,
+      "phone": "+8412302373",
+      "createdOn": "2026-01-04T08:11:07.000Z",
+      "notes": "Ndc7OPoMdy6srd6U1WJnKwqNv3cAbqG486aDbA2B9NUjPu1brui48yA21kVxd2BwI8IbOumeHb2zgqcnVBkuTiW7r0XHiUegiNPPwRTytmxGjSMXJpHlyUBKwAtb7FhLrLd3oUX",
+      "_id": "695a209b1c508c5d5ea02b68"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

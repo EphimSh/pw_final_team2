@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:15:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-y/xkB9M9uCcD4sKg5YPwj+3lNbo\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese92308",
+      "amount": 260,
+      "price": 33875,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T08:15:58.000Z",
+      "notes": "lVhWxl3x8lQ6x1JN5vQgLSW02bpPe6fzKUECcj764mo3wyeUXik3WGBrzpj2n6wYBSDtgmCOhEV1CegBX11uDK2oPRAAByvmm57NO4kDkzUYM7Uq5ttgPP5hCVQg1GdF2I5qCSVDGUl3ZEdopr58eQYmpYNsUUWDBmHEQrQDqmverFDyfJfinpn1Tpfgn4p2OeLM7m7KYehlQLOV6H6t9XSj8Wor5HVK2MAkey7aN4gY4g1c2uwNDWcEyg",
+      "_id": "695a21be1c508c5d5ea087ea"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:11:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2765",
+    "etag": "W/\"acd-lDtw5t+ae/uCrSjjdsNFZS/nvs0\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a20b91c508c5d5ea034d2",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a20b31c508c5d5ea03375",
+        "email": "Gudrun66@gmail.com",
+        "name": "LZPiNVxCcdDhvqayUoMr",
+        "country": "USA",
+        "city": "huqlRxviIjiKic",
+        "street": "HVY0PF4t",
+        "house": 101,
+        "flat": 9,
+        "phone": "+8454155120",
+        "createdOn": "2026-01-04T08:11:31.000Z",
+        "notes": "OSaXc4T4lqS18kxuD2dJrswEU0IHl2MCe4I4SBfLhUGP1MzojXizoAJqbpRQ"
+      },
+      "products": [
+        {
+          "_id": "695a20b91c508c5d5ea034ca",
+          "name": "Pizza20950",
+          "amount": 629,
+          "price": 96420,
+          "manufacturer": "Tesla",
+          "notes": "EZ3b7zfeRv3RFizfej8HYpcYthpOej9dSQPydug77d9reqdiWkHhY0wmdgiht5F9Et2my2m3bUsx9UkuVeq0PHb3opesAzpnlgUk1TUDDIxY4toRPHsHqybVuZHPg6tBqFfjDbJJQzFzvDWmf4BZjEgPTHToYXBgF2CuwFHZByUAA32JlDNSHQuo6vDIkkwZypthm8dhbHrTMmqCnYrnDbtyDRCoajBjhtgFRZCyDHbkEMMGkFJdyIzCrg",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Ukraine",
+          "city": "Mock City ZraRF",
+          "street": "MockStreet7NCgJY6X",
+          "house": 15,
+          "flat": 2
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 96420,
+      "createdOn": "2026-01-04T08:11:37.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a20b31c508c5d5ea03375",
+          "products": [
+            {
+              "_id": "695a20b91c508c5d5ea034ca",
+              "name": "Pizza20950",
+              "amount": 629,
+              "price": 96420,
+              "manufacturer": "Tesla",
+              "notes": "EZ3b7zfeRv3RFizfej8HYpcYthpOej9dSQPydug77d9reqdiWkHhY0wmdgiht5F9Et2my2m3bUsx9UkuVeq0PHb3opesAzpnlgUk1TUDDIxY4toRPHsHqybVuZHPg6tBqFfjDbJJQzFzvDWmf4BZjEgPTHToYXBgF2CuwFHZByUAA32JlDNSHQuo6vDIkkwZypthm8dhbHrTMmqCnYrnDbtyDRCoajBjhtgFRZCyDHbkEMMGkFJdyIzCrg",
+              "received": false
+            }
+          ],
+          "total_price": 96420,
+          "delivery": {
+            "address": {
+              "country": "Ukraine",
+              "city": "Mock City ZraRF",
+              "street": "MockStreet7NCgJY6X",
+              "house": 15,
+              "flat": 2
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-04T08:11:38.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a20b31c508c5d5ea03375",
+          "products": [
+            {
+              "_id": "695a20b91c508c5d5ea034ca",
+              "name": "Pizza20950",
+              "amount": 629,
+              "price": 96420,
+              "manufacturer": "Tesla",
+              "notes": "EZ3b7zfeRv3RFizfej8HYpcYthpOej9dSQPydug77d9reqdiWkHhY0wmdgiht5F9Et2my2m3bUsx9UkuVeq0PHb3opesAzpnlgUk1TUDDIxY4toRPHsHqybVuZHPg6tBqFfjDbJJQzFzvDWmf4BZjEgPTHToYXBgF2CuwFHZByUAA32JlDNSHQuo6vDIkkwZypthm8dhbHrTMmqCnYrnDbtyDRCoajBjhtgFRZCyDHbkEMMGkFJdyIzCrg",
+              "received": false
+            }
+          ],
+          "total_price": 96420,
+          "delivery": null,
+          "changedOn": "2026-01-04T08:11:37.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

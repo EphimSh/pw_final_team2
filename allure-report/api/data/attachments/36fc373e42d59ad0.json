@@ -1,0 +1,99 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:09:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2499",
+    "etag": "W/\"9c3-gwMY+obTvp7cgGJKE8LhypZBF40\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a20351c508c5d5ea007e6",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a20301c508c5d5ea007a8",
+        "email": "Gracie.Stracke95@gmail.com",
+        "name": "gUAyZsGXITJhkkNAVxyQnZOrFbShqM",
+        "country": "USA",
+        "city": "eOKMkzZ",
+        "street": "jkww",
+        "house": 7,
+        "flat": 5,
+        "phone": "+5184509692",
+        "createdOn": "2026-01-04T08:09:20.000Z",
+        "notes": "hTMVfHQMYLGR0hW5E6TjccaRyREAmbVRoob2OdeJT6xtnKbHiVKKaNy03fRauRhC3cbfHn7Z9OVqI4rjhVZlZ87VpBwmKxOg6xq1BxoJ2LpPM6QZ9KLbaQtOCs1jAQsjG27RceeX8bCvyTqcaYNEYNURIku1maO5yJQLi5miUM4f0Yc03txSvwT82rvBFAzZ0sVBspazkmkRlOmfKN9VtFhVMF2WwpmlliB3dB1ef6YmOCWjUt"
+      },
+      "products": [
+        {
+          "_id": "695a20351c508c5d5ea007cf",
+          "name": "Shoes20250",
+          "amount": 616,
+          "price": 2018,
+          "manufacturer": "Sony",
+          "notes": "pgB1RvDzdT9vzQhbnieT3p0pSd05M3QsTbnpX88xKP6bTFBGDVDTI1X4U5zE0dvsyKM05lOklDxG9chiQpzcro3E8HJv94kVMeYFgdXzXHfEK26RQ6LFE4SxOJzuW26zz5J4Y06HrPLr5XIqop5QRVP1ypIPqMdU7g1k504VT6du0U3xOtGGDXwNEP3wcYKCIG7alvvx5ZhG3cWOurRGCAMeV6klF9YIqASzMrV2gfAFek7RgdemwnPpKY",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 2018,
+      "createdOn": "2026-01-04T08:09:25.000Z",
+      "comments": [
+        {
+          "text": "2l8FyINjbMpAdvsTvbD2AgS2QCWZcDY726TgsiS9c6RFM9qS2FPlaM3VLIhspM2Gs9BJZE1YmgE6tAqpu5Ii2EWc92dIndv8nfpuc4I1e2NYv8jLUbl",
+          "createdOn": "2026-01-04T08:09:25.000Z",
+          "_id": "695a20361c508c5d5ea00810"
+        },
+        {
+          "text": "cwnOx66M5aW6BX0bmtkDaAReuTCLhdZn6dU42I9h3h8rj2L8cIs3VBwSkcW2gSOVXIaY0piE9rpVkPwXUbzdeS9q2Tb7jHSFdtFm6X6IkgtsPkpJgngQEkx5JtaGWmKaP3hgS2O0Yqq8bngwAWIiLMFHRGybi0",
+          "createdOn": "2026-01-04T08:09:26.000Z",
+          "_id": "695a20361c508c5d5ea00831"
+        },
+        {
+          "text": "t8nAHW0Vj0JlUKrDppLc340tlCM43NlgIYmwqCJMyrYOsbIMf6MjAaVUyzVaEJxOnPR5QMejaSZqWhNvaW4W80jDn3mnau86wHOg6LnkY7M5bt",
+          "createdOn": "2026-01-04T08:09:26.000Z",
+          "_id": "695a20361c508c5d5ea0085b"
+        }
+      ],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a20301c508c5d5ea007a8",
+          "products": [
+            {
+              "_id": "695a20351c508c5d5ea007cf",
+              "name": "Shoes20250",
+              "amount": 616,
+              "price": 2018,
+              "manufacturer": "Sony",
+              "notes": "pgB1RvDzdT9vzQhbnieT3p0pSd05M3QsTbnpX88xKP6bTFBGDVDTI1X4U5zE0dvsyKM05lOklDxG9chiQpzcro3E8HJv94kVMeYFgdXzXHfEK26RQ6LFE4SxOJzuW26zz5J4Y06HrPLr5XIqop5QRVP1ypIPqMdU7g1k504VT6du0U3xOtGGDXwNEP3wcYKCIG7alvvx5ZhG3cWOurRGCAMeV6klF9YIqASzMrV2gfAFek7RgdemwnPpKY",
+              "received": false
+            }
+          ],
+          "total_price": 2018,
+          "delivery": null,
+          "changedOn": "2026-01-04T08:09:25.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

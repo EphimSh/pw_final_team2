@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:11:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-JRAMzN/dS/9UuEW2/ycDdQgw2X4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Immanuel.Sawayn31@yahoo.com",
+      "name": "lDbjvVitjDUhTwUcCIidoxbPgiIdukBt",
+      "country": "France",
+      "city": "JNPaIXbgMXUJORtErw",
+      "street": "eGZH7k3nldAV2Ny0gEK",
+      "house": 150,
+      "flat": 8,
+      "phone": "+0865171335",
+      "createdOn": "2026-01-04T08:11:21.000Z",
+      "notes": "6AauKF5d7ZK50pab7ULaiRzhHCH7nedFScNZWap2eAxiAdTwerzldj5sfLYmvV6ik8dJNUV3cyZ3rmbDQcgywhsIpZj2bCqOyP6Hl2tpRVzcCKdYEzHzwEq6",
+      "_id": "695a20a91c508c5d5ea02e82"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

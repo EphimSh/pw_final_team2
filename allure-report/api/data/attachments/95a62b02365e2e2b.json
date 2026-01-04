@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:11:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "513",
+    "etag": "W/\"201-rHNmZEzU6eV7SkdRDUewJY6BpHA\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Edgardo37@yahoo.com",
+      "name": "cDveCuRFqJRLWOdzmG",
+      "country": "Canada",
+      "city": "m",
+      "street": "0P9pC6U1kudtGX0owBM6YoZnkblg",
+      "house": 195,
+      "flat": 4,
+      "phone": "+3120654244",
+      "createdOn": "2026-01-04T08:11:19.000Z",
+      "notes": "AMLDsyrhqsEJtggtmMwFr0HxBjT2FubcVUBdTW1632A1Pdzyzrn8azTWNArOlzrvzo8aSGbX3uEWyw9pVxzJNcSI4zo1KD7QnOV3xzhsjB1ROhnsGqqHGQOWayatRCEx1Lio3OljYbTISd476ZKLWTAXEfDEigCRmDQZuCEeuYA5MoIiijNh8mqTZKGEfdpkzpe08BVswLYJXNI0",
+      "_id": "695a20a71c508c5d5ea02e74"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

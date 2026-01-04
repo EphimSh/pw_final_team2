@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:17:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-oteHIvJQcgfR3XL+0/aDfkVM5qY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra42713",
+      "amount": 650,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T08:17:46.000Z",
+      "notes": "4S6fAhNmQrzBvZa1FqbWKBrOVZWwPKUXSj157GtadDvo56TgkUL9xaUXwKj3zGPloOpaOJ5DURq1UJWZZbArU5mAmuBybn2ymYYhgqMT6TSajnnIds77Sc7ubX1hIqG4JAbpJb0TI6UKSwhDOcQIGlDaVPZG1C25mK2lXYlLo1HwSRblgWH3eQxLQlfevlw5qw4JMlQQ5xlGqoMYdhU31BUoJkmMb209EWv2kMiU7X7itrT9Pu035RuoYI",
+      "_id": "695a222a1c508c5d5ea0aa29"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

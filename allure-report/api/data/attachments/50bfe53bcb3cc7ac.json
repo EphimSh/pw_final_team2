@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:13:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "449",
+    "etag": "W/\"1c1-prBuIO+bDe2ypg38EAEwqg7wvkY\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Rosario11@hotmail.com",
+      "name": "mHOdsgTbcrKhDJSbTEr",
+      "country": "Great Britain",
+      "city": "yTgs",
+      "street": "XG1AOdh8c4UtzlFJ9UnZQ1q128UaLO",
+      "house": 67,
+      "flat": 3,
+      "phone": "+7056937273",
+      "createdOn": "2026-01-04T08:13:24.000Z",
+      "notes": "B1L0F2DEnQ2XCaoMYhc0619HhVJX0kMrO7r2TllSxL1EManuec00XwQkv7TVnh0hICW5quTAIpZadDBloLc2zNyEUYVuoQjAV8d2aTObzY6AEJJyPJVB5zscGixtiwnpU4",
+      "_id": "695a21241c508c5d5ea05739"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

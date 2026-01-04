@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:17:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-h/REt25cVEudfAn00WqnbZlCpno\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X96287",
+      "amount": 366,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T08:17:00.000Z",
+      "notes": "Monjy2xFg4jwg5aB5cu9GYPDa9TnYHB4NfFP5FhvX8iFuriI1sKokdFum685rod4TJAqWM7hzYY2XAWn9TuejNju55TCJMBpVRdqxBkHUR8pECGaelGYSLUaq0Yhd7yPXZS42oZzOzDgwppvSlEgyNNP9GD6ulgWkL08ROykia8f2CFmlTLDbrEXV4lS7Mo2vrZ1VjDGzcGJV4Dzu6ZQCuxAQ0mHpyKnHqBImxiZlOkBlcwmBZ5aPqyd5h",
+      "_id": "695a21fc1c508c5d5ea09a5a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:15:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-rVgd8rREPNBkH4CGap0UCPx4yZ0\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X65904",
+      "amount": 713,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T08:15:52.000Z",
+      "notes": "MONmLS005FynJwshMVBh6XFgbJ4rR7huFyKEyvFwZj3J1nOkBj93zcdaO7dvBs3WocKZrHpVENVVmhoPjoHbXt9zSvwOXJNG5Vo0Lr6MShNzZD44sXKmdEOph8eiTepkdJJYpUNwMYm0n0PVo1ZU1BXtjYG9NuKtDkcpWw4MFzPieEsUiYN13BU3X8Lz7SKGIrsl7r04z9uvi3IPkfi7heB6Lgstby7Wlp7ae3cTZLj2x1YkZwfoYOjwds",
+      "_id": "695a21b81c508c5d5ea087b2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:15:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-Ov07H0UvuyXaoNGE0lz5OVo98UM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X67696",
+      "amount": 723,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T08:15:58.000Z",
+      "notes": "BuF9Revv0wfyE1oxMcPUQVFwBBA9YwX5KrdxphaU2127GoXnYlUqtoKdQWyD9hfRiZXbEadDzPmkNAVycut8xXRYjGLhBW2C7I3oxClFQfTGFvLQaDb9xwTRXk3TtSi1KzrZ6KNcj0ZTvrycuaRjvWjWu2bM4935q3onfOnilfmrwO9WFdvK7mUJAxW0VWrgyiWqPFjC3q5Z0sL19YXajwiIqqC3LIRc4FPw8ymVoMnTX79ddQTeZfUiMm",
+      "_id": "695a21be1c508c5d5ea087e5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:09:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "344",
+    "etag": "W/\"158-dhlVoQid2fU2czR0s2A+KMGtU4o\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Cloyd79@hotmail.com",
+      "name": "fahtORWElIGQWvm",
+      "country": "Germany",
+      "city": "cnf",
+      "street": "nXZ2Pg6jPHFS7L",
+      "house": 38,
+      "flat": 6,
+      "phone": "+7210687214",
+      "createdOn": "2026-01-04T08:09:01.000Z",
+      "notes": "m28GFFz3mnbEL0KuWJS4OnBRNvkCPWXDX1DJT9t5GvCTDhhH062RM9",
+      "_id": "695a201d1c508c5d5ea00661"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:12:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "420",
+    "etag": "W/\"1a4-smpAZiJdcf2ZSpAEFPjg2wzAzVo\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Mario_Towne@yahoo.com",
+      "name": "hDBIAtcanfsuq",
+      "country": "France",
+      "city": "DbbLwYwFjxsux",
+      "street": "wCzz9y",
+      "house": 133,
+      "flat": 4,
+      "phone": "+8568930642",
+      "createdOn": "2026-01-04T08:12:31.000Z",
+      "notes": "c9XM2wKnOk9Y6TilVDJ5ba5VSVdazXgTMVMSgiVX5njHYWwBPaarND9aq2uj75ZA2aYORlShmojN0TA9vQzKKIMHFV18PbQfSXkQCTXo48C4JoYhwoOpYKbogpIxRcCI",
+      "_id": "695a20ef1c508c5d5ea047db"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

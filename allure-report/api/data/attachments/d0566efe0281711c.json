@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:09:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "392",
+    "etag": "W/\"188-jAPTgaderBo/TWyrI7v7iSNIn2s\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Anya.Langworth7@hotmail.com",
+      "name": "jYqkjYqgbztXYr",
+      "country": "Canada",
+      "city": "kQbhmaARw",
+      "street": "qaY1OeVwV70",
+      "house": 57,
+      "flat": 8,
+      "phone": "+4508527820",
+      "createdOn": "2026-01-04T08:09:10.000Z",
+      "notes": "PIZMyHNqNwcKSikr70woxOOoyYJ6UGvkq7C05ehUtByb89DqRzdq1C8eBUn1nfpmXEaKKjcdnMbCE3Miw6byqckLNuCBd",
+      "_id": "695a20261c508c5d5ea0070f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

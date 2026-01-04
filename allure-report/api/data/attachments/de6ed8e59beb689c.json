@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:13:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-DPst5RvUOGGsEHPwP9Y6m0hL7Z4\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna92558",
+      "amount": 920,
+      "price": 10315,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T08:13:59.000Z",
+      "notes": "MgHt5BAsZOADUtRijUMWPvdj5kKCNeFAKQqt5JNme2KdlhmUpmKGVe4wT6ZxIuibjszenBapSdTeOej2PPXq0zQNffMavgyP0hW8lSvCuLiIBzlBkGiSAGI5Wk9QGePGFODvMxpuJHVINFXfpraB2DPLCPZPh7bCyNuvRdGBXWq5rXkvtR6mXniy8RQU1cYAyQgEwUGGWUHGe6EWtLz8k7RrxuspIfen5fHOzFPHoxdEp80BUPT4XjgmQf",
+      "_id": "695a21471c508c5d5ea06323"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

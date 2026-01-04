@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:14:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "507",
+    "etag": "W/\"1fb-kxDO/Vo0bMLJ6N+2ZkalDsItojE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Crawford83@gmail.com",
+      "name": "nfbDKfyMArdxeHTUYhReMPbrhrKWKMtNcduHpe",
+      "country": "USA",
+      "city": "xCJfeRSRTYVrPkVhcX",
+      "street": "pw7LFphxbCu6s4fsws3kdAFZwAUc4",
+      "house": 17,
+      "flat": 4,
+      "phone": "+7670672359",
+      "createdOn": "2026-01-04T08:14:21.000Z",
+      "notes": "iZIpsvY78LN263p2hMXEnSlfCLL1GW4sYgCO1g4aqtzFLXVl3ChxyIjZGJJNluhkcS9mWp4WggnqEACWgUSIvLqZXi3zepl5luwwFtFsfrOy2Yse6HrnqWcx15fRTbQXWs9SZIgOYPZ1gHNEIhGPuC22nUWKD5tIpJPAurF",
+      "_id": "695a215d1c508c5d5ea06b37"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

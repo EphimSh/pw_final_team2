@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:16:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-OmN0PmbKUi823kR3H9XsG5NZVSI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra24951",
+      "amount": 177,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T08:16:33.000Z",
+      "notes": "T5YioWmR0WoZ53UZ5MP15UrqBayISY2jcaYhbXUKYpJ8Bq1dRigjyPJ7LaJevC52jmYbq1QIt4EpUdH9IIJD6MGhltRTH9PC0QFi6cBlvgGcMpiGfFaVCBlE91FQxTvGdwPpznr0766TMDqu9QabR4QSCTkuMqrHrBmGvzTOev6Irn11V3n85FLhcjAf7Q9LcV4ckj5g0XxGMdXONJN5cOOTfhwTZzZ6Y20YpUpmT2cLL6AitnXU8sEFaD",
+      "_id": "695a21e11c508c5d5ea090c3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

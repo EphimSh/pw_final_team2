@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:09:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "368",
+    "etag": "W/\"170-xXN/KPTlvifPVltDHVVgdmHzJ0Q\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Joyce32@yahoo.com",
+      "name": "pADDxFaln",
+      "country": "Belarus",
+      "city": "SyHhwjJZjiYlHD",
+      "street": "rCPB0Rwe3cWQIwmm9x7otg",
+      "house": 61,
+      "flat": 7,
+      "phone": "+9637825546",
+      "createdOn": "2026-01-04T08:09:42.000Z",
+      "notes": "L5CM749e6UNDpqXpdQTgSTKLOh3ftcPUB8s8hoKhEjkr7PYlQDFTo6hiWfMmliKLU5i",
+      "_id": "695a20461c508c5d5ea00d89"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

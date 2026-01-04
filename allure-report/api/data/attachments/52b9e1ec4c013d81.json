@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:16:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-m4PSDbb4Cv554opQbOyf9uegj8g\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table40091",
+      "amount": 784,
+      "price": 37973,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T08:16:26.000Z",
+      "notes": "cvridtPIkwzrOJYj63IfqEcx7d9LBw0rypRfLgsgEdA9nHXamCezqdtBrjYL98nLXVoWgombWlTyQKR9J43PyCwUfzy8gtEAnnXwX3Mz2r1feofok4YLBGhJLqER1PMwDkB2tDqTpxEhJHn3xVGwwcZp862FPjZltCMAwT9Z4RHMOzHBHxczOvPnmJ76qop9X8qOnJD4Oy1c0LJ9BXcKooYVxK8wlndj8by84YNKjt1H6Bzi9py0lYYDuv",
+      "_id": "695a21da1c508c5d5ea0909b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

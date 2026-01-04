@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:15:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "194",
+    "etag": "W/\"c2-hK0HgQvunbv0yqMFMsDKz4Fb7Jk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves17626",
+      "amount": 575,
+      "price": 32699,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T08:15:42.000Z",
+      "_id": "695a21ae1c508c5d5ea0840d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

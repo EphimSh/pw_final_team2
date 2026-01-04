@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:13:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "443",
+    "etag": "W/\"1bb-dnr3xI44wS8zZCM2BTSgrcruYeQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Toby.Wilkinson27@hotmail.com",
+      "name": "LFzjjFJzZkCDrGC",
+      "country": "USA",
+      "city": "PktZgvXWTFIEnQuykTPt",
+      "street": "xoTYcvj8KiKG1EK1o8zWTnOEHYUa6r",
+      "house": 108,
+      "flat": 4,
+      "phone": "+3170566019",
+      "createdOn": "2026-01-04T08:13:34.000Z",
+      "notes": "CsIPSL8gW32NRwRrfjtQMUwQjwE2rgKPnGyEVxZ0wCO1vm889QPNZJn1UcWuxBnVE1PCECbuerg19Lh4oO1kA3JvlYS9GSEVQBzDx8eNF8iFPIjkwN",
+      "_id": "695a212e1c508c5d5ea05b24"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

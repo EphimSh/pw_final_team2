@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:16:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-beD8HlzxIz1yhwEnMqraXGd6Y78\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat33583",
+      "amount": 99,
+      "price": 21581,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T08:16:45.000Z",
+      "notes": "84GWAKFc9r9Bily00gy8enMmVe3NZsAuOWCwZjjy3vtXY7Khhb0SRVoeCeDVB8NSACXE5qJlF1KO3pYxmFHWbmbR1kOTVlgFd1jrpAlcTLtkHEIiB19bJijAR9uVpm8pYH7Yb0Y43ZZQl188SqWL7vntVZXS3loKsHLNe59NYd8DUgLbqBIDeN5BCPy4Qujhkyq4Lg88w9kuzWrEkPuidyF2mcOgcYPSq3TnrvWw4eq4LpArE24437bCDM",
+      "_id": "695a21ed1c508c5d5ea098fc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:09:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-8Z3ctPBgChJUb08+IfOy0HhgYc8\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza73900",
+      "amount": 728,
+      "price": 5226,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T08:09:25.000Z",
+      "notes": "s4s0TYSovNIHrQrxRqASGWlXij8yDyIDUIXrlqxQkwLGAUDeNLBwfeTf3yULXMma2w9MSN4juza5PRLdsWU4U92MpX9lcfREyVOxKl7bsRbNm8kRlI53359ZhYwVPR1QXrddcAndg7ub9A1BD4KHoVDeGd6TkxrcNuXHzj0D4Yush0DI50Gl2GPSEcO7fbPdCclMufdddesUy2e91gVpoIUwsTGYo8efXFnQnLP6Jz7EQJi0gEIAqRmmAR",
+      "_id": "695a20351c508c5d5ea007de"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

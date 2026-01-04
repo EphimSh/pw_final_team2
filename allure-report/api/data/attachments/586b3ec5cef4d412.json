@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:11:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "320",
+    "etag": "W/\"140-OAVzb1uP0hGNgkJlAr1q8Gr1ONE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Samson_Crona60@yahoo.com",
+      "name": "hUdvuqtoyYfWYrrOuhZvTFLS",
+      "country": "Great Britain",
+      "city": "NzUMcYrYghgQ",
+      "street": "IcFkcEIaWpmv",
+      "house": 77,
+      "flat": 8,
+      "phone": "+5110242981",
+      "createdOn": "2026-01-04T08:11:14.000Z",
+      "notes": "5Ir",
+      "_id": "695a20a21c508c5d5ea02ccb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

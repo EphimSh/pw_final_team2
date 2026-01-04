@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:14:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-VA/TPt7U1tFVWckaUjjwM9o2R4E\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap12311",
+      "amount": 797,
+      "price": 72238,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T08:14:38.000Z",
+      "notes": "Mf4iEXYiTYKNRXb5TOKygPmiS133in70sXehDELLbuuoBl785eCNFF5Nm0s5UROAqYY18QrC1Xt0I64bvhgkC78Zlpf2n9o7Tg8fFuPRUpHVepM4FRqF5PZFOsSWhQUtyxH2lsa5P1BTJNjcpfUc36sNUTaWwgs7lJuQh7ArobxnOFe9TJhT3TNc0sf5ukB4KpgePdT7EvPmTjFYWWrm2Vhket6we5RTve7mrq29u0p3JX0FLoV0qv2yUI",
+      "_id": "695a216e1c508c5d5ea06fbe"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

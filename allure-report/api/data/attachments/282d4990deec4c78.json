@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:09:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "543",
+    "etag": "W/\"21f-KbJfWRHx3AOl5XXr5TdFzZjxp3A\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Gracie.Stracke95@gmail.com",
+      "name": "gUAyZsGXITJhkkNAVxyQnZOrFbShqM",
+      "country": "USA",
+      "city": "eOKMkzZ",
+      "street": "jkww",
+      "house": 7,
+      "flat": 5,
+      "phone": "+5184509692",
+      "createdOn": "2026-01-04T08:09:20.000Z",
+      "notes": "hTMVfHQMYLGR0hW5E6TjccaRyREAmbVRoob2OdeJT6xtnKbHiVKKaNy03fRauRhC3cbfHn7Z9OVqI4rjhVZlZ87VpBwmKxOg6xq1BxoJ2LpPM6QZ9KLbaQtOCs1jAQsjG27RceeX8bCvyTqcaYNEYNURIku1maO5yJQLi5miUM4f0Yc03txSvwT82rvBFAzZ0sVBspazkmkRlOmfKN9VtFhVMF2WwpmlliB3dB1ef6YmOCWjUt",
+      "_id": "695a20301c508c5d5ea007a8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

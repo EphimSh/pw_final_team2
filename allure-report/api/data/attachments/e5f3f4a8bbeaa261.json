@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:11:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-UXg/Z3JMulgY8okYlhR/YYAD/5E\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza20950",
+      "amount": 629,
+      "price": 96420,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T08:11:37.000Z",
+      "notes": "EZ3b7zfeRv3RFizfej8HYpcYthpOej9dSQPydug77d9reqdiWkHhY0wmdgiht5F9Et2my2m3bUsx9UkuVeq0PHb3opesAzpnlgUk1TUDDIxY4toRPHsHqybVuZHPg6tBqFfjDbJJQzFzvDWmf4BZjEgPTHToYXBgF2CuwFHZByUAA32JlDNSHQuo6vDIkkwZypthm8dhbHrTMmqCnYrnDbtyDRCoajBjhtgFRZCyDHbkEMMGkFJdyIzCrg",
+      "_id": "695a20b91c508c5d5ea034ca"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

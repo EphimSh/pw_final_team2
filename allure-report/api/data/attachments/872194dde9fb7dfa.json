@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:12:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "441",
+    "etag": "W/\"1b9-JU4zgNjznwRpykSarHsVPc3d+qw\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Violette29@gmail.com",
+      "name": "xOVXXiquJlKOyRwiszLcTRCCRCdbOwskkfzhvWIo",
+      "country": "Great Britain",
+      "city": "WUr",
+      "street": "MpaHKaC",
+      "house": 82,
+      "flat": 1,
+      "phone": "+7085102515",
+      "createdOn": "2026-01-04T08:12:51.000Z",
+      "notes": "pbsH14bc6IQWvyankmpLm4JwjQaOdv0TS9LkzhpfdMzxUVYU1iX3boShflMhax52018WqCYA8bazt8RbbQwQhvw9kzqFg1dKIDt9ZMMpnAYREeHRualfp3wAx6iBF4",
+      "_id": "695a21031c508c5d5ea04d56"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:12:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-g9YRg5MbCmCxoN7CdeafrAdNaYc\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants5955",
+      "amount": 259,
+      "price": 27743,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T08:12:00.000Z",
+      "notes": "TwZ9bLzgUao74Ew5cF4NHqc4LQH5HwbzAcDftk3LFBwVi2YchWKfTbvBNMat3Tzxk3amxGKTmagJyW4jd7kmkR1V3gRiikX90oIlDQzxGrbEMrnsheOBqfvUBcTLe7ySKw4HN03lfGR2utrN9COttneK9B2YZRZMTzaNMRRGFDi6gGNp2QOrBplWWTiX5h3M8hpoW99by2lHkTJ13tyhXXppmAXNPcp77M05iw5mdzcJxargTcNY9s8YGl",
+      "_id": "695a20d01c508c5d5ea03b92"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

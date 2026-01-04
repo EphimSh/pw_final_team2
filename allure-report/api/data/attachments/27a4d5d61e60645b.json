@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:10:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "422",
+    "etag": "W/\"1a6-mP+EPdVMHt0rp9SG4icuMUDtKQg\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Sibyl98@gmail.com",
+      "name": "YFttenCNEIIwWFOhlnNYhvHknHl",
+      "country": "France",
+      "city": "TSyQFWgjxFMjiMRCsiB",
+      "street": "DglO",
+      "house": 181,
+      "flat": 9,
+      "phone": "+9775794626",
+      "createdOn": "2026-01-04T08:10:18.000Z",
+      "notes": "ucXxscEplSjDyijtXq665YfQd3dhO1N5LGkhHcWfGVINq1NUq3zIXGZ25vQfeMFJLmlB1bbyjx7Izu2B9hRO6PnOaX1fn3RZ68LA2A8GFHCGzvGdS66f",
+      "_id": "695a206a1c508c5d5ea01aa2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

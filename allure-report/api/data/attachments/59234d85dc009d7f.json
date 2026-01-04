@@ -1,0 +1,89 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:10:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2036",
+    "etag": "W/\"7f4-OXCiaEbPZxo7vUADlMphR2Ih1tI\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a20711c508c5d5ea01c4d",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a206a1c508c5d5ea01aa2",
+        "email": "Sibyl98@gmail.com",
+        "name": "YFttenCNEIIwWFOhlnNYhvHknHl",
+        "country": "France",
+        "city": "TSyQFWgjxFMjiMRCsiB",
+        "street": "DglO",
+        "house": 181,
+        "flat": 9,
+        "phone": "+9775794626",
+        "createdOn": "2026-01-04T08:10:18.000Z",
+        "notes": "ucXxscEplSjDyijtXq665YfQd3dhO1N5LGkhHcWfGVINq1NUq3zIXGZ25vQfeMFJLmlB1bbyjx7Izu2B9hRO6PnOaX1fn3RZ68LA2A8GFHCGzvGdS66f"
+      },
+      "products": [
+        {
+          "_id": "695a206f1c508c5d5ea01c3d",
+          "name": "Car27088",
+          "amount": 176,
+          "price": 64000,
+          "manufacturer": "Samsung",
+          "notes": "Ido6FHyhdtIuVb99Jlfq1XWj514JyzEHz3qEzyAJY0qING6H37urAr4SVzLToHqCh3o2cZIop8yutpo4jqcLcfP4omYsZspSD0idK4pxzmkuxupoFTXZ0IulYV3BXJXbSRVPHSoVairLzRMetnitNl1XzOlbrixyI9Knk5vylh61olj6BMdz2BNJvkTtkFpAuu3lzdrGVkf2rejboGDul5GAVMSBHi9SlMTQd19eMpjU7LNGGkyYnU4aKf",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 64000,
+      "createdOn": "2026-01-04T08:10:25.000Z",
+      "comments": [
+        {
+          "text": "hZic6akzVcO7xIc1Bxsknwscz9uayJ6i6BLzIVH1mcGflZ1HYTf7GxwAbJSReTezrybdUzieRYl3mTPO653q0CJEm3N9GIpcUgciqpgcrwKe8SIAsGs1WIzS3sjlBJilSgaCrZqI53AqxwP7KL6XoOyLos5yL36Ywb1SrIZHTBi9p8uF8riIJiVQKhiiSGlO9QAsDDNAmVT",
+          "createdOn": "2026-01-04T08:10:25.000Z",
+          "_id": "695a20711c508c5d5ea01c62"
+        }
+      ],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a206a1c508c5d5ea01aa2",
+          "products": [
+            {
+              "_id": "695a206f1c508c5d5ea01c3d",
+              "name": "Car27088",
+              "amount": 176,
+              "price": 64000,
+              "manufacturer": "Samsung",
+              "notes": "Ido6FHyhdtIuVb99Jlfq1XWj514JyzEHz3qEzyAJY0qING6H37urAr4SVzLToHqCh3o2cZIop8yutpo4jqcLcfP4omYsZspSD0idK4pxzmkuxupoFTXZ0IulYV3BXJXbSRVPHSoVairLzRMetnitNl1XzOlbrixyI9Knk5vylh61olj6BMdz2BNJvkTtkFpAuu3lzdrGVkf2rejboGDul5GAVMSBHi9SlMTQd19eMpjU7LNGGkyYnU4aKf",
+              "received": false
+            }
+          ],
+          "total_price": 64000,
+          "delivery": null,
+          "changedOn": "2026-01-04T08:10:25.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

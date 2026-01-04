@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:17:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-7xMcEZz/FTFTzxlRjj+2VLJ/fu4\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball41601",
+      "amount": 634,
+      "price": 31684,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T08:17:20.000Z",
+      "notes": "NLATp95Qeq7twJ6kYE1oxouCUW8eVY4ChvUVxVzD2981fKvk7CVOoXZBtlop5OoPHJoQi2Iwmyk8iLqyx48mpvVIR0DMUoLMLqpEf70pFzf8Hb9aPOcFM0cPMkIofDT9iuWBHjWrDrmtbE0t2KN0t6EtzpdDiScoC7r4pRsx1NUBHsZPVG3Xk5mDQk3uxJFYSXjQdMQxoVolOtmCvP6KqhrjvkVp2wCvqBf1asVRVUTrZgWjv35VqB4pUw",
+      "_id": "695a22101c508c5d5ea09f66"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:11:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "507",
+    "etag": "W/\"1fb-3x+wqxkyIHvzTRMLKS4rwLKJIso\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Connor.Wilkinson35@gmail.com",
+      "name": "zSqJpdzyExMSyjacnrnEEaCbwr",
+      "country": "Russia",
+      "city": "oAbx",
+      "street": "8DHc0ruQ8DEGXeC6S5blPlg",
+      "house": 124,
+      "flat": 3,
+      "phone": "+6016681931",
+      "createdOn": "2026-01-04T08:11:35.000Z",
+      "notes": "gg9OVRjwKp5OYrNKHqR0v9HGBw1oSj092cdKEuqMXIztZFAXAt7JzTFn6sEuzOtBjSbhiVp6W1kJldY8pyKBTWfG7PyjQyIxywF7iUxGVBmdar9KwwYsJwtQcU3GJ3czMRRi9hNUX14O8Ykv2Zhbqx4e5Wx8AbGmtVZfrglyLsa5CMxazbSZK3dSX1d",
+      "_id": "695a20b71c508c5d5ea034bb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 08:11:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "537",
+    "etag": "W/\"219-HMzfoaH5YqoztAbsYRh0bKxxnOQ\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Cindy_Halvorson@hotmail.com",
+      "name": "SeejjQTTMEYAUdYgRVrQeDqiwBloZqERf",
+      "country": "Germany",
+      "city": "RPOlNZ",
+      "street": "fOox7LJwCN3",
+      "house": 6,
+      "flat": 1,
+      "phone": "+0008742733",
+      "createdOn": "2026-01-04T08:11:41.000Z",
+      "notes": "xXp5I7VwaTIuKANxA9fEyjZwaPVRAefYw19h5VYM4Cjr80jTt3ZQ4MoGw4Zc3BNswOiuTaL4TPtfaxESRMOsxvYPiD4CliDZGB9EOxqmdqwtvtZCLNwr55FgsON7KhO52FJp1LB3BBRjZbnmdrNFJT7g0hIVGcPQR4LvGgtWIoLMpQAbg3cgFHpOEMKLR0XwNKkOJ61Swz0ycuoPdpg9REYVpsCGQA",
+      "_id": "695a20bd1c508c5d5ea0373b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
