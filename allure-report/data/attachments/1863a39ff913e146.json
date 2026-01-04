@@ -1,0 +1,160 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:17:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4103",
+    "etag": "W/\"1007-S4hMFvwH+FD2yLcnFUYHVzeNP1E\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a4c2e1c508c5d5ea37705",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a4c271c508c5d5ea375c6",
+        "email": "Viola49@yahoo.com",
+        "name": "SZuTDKojOkskMFHaGEjrtxtKIa",
+        "country": "Great Britain",
+        "city": "exPutIMAn",
+        "street": "vhl2svCtAlclNL9N",
+        "house": 16,
+        "flat": 6,
+        "phone": "+6776761959",
+        "createdOn": "2026-01-04T11:16:55.000Z",
+        "notes": "tezXMjwnVInVe6DrUQ8LZ7KJ0atwD5EiASJvUCV2Rx5GkHE6Ybg77MRuJvRnUBX6jx65X6D3flxysn9oStCLKpPotJI5EUza2uDjpyk3HmhcO3XQrCdJ125MIPSZHKF32MhEucaAmDXUyjUS4rzu9RwFrjp1d9wFuawMEQYkSW7resIKrxWe5I4"
+      },
+      "products": [
+        {
+          "_id": "695a4c2a1c508c5d5ea3762d",
+          "name": "Ball43884",
+          "amount": 529,
+          "price": 5746,
+          "manufacturer": "Samsung",
+          "notes": "MGoF8UxU5f7xSKl1dY6s3b7eRsBQsy60V5O7Ul5nNKOtQcz6o3dPbCOjYvo6MLB8jqrvzoAzbTqPGFPrgOgn6Pr1rNyVzXE1ywlSMNGbE36cFL9EViX3LelE1T5yzzaR301KcFxTZM7HAruARFxtdTUNpiewHtWSKNGGPMn5YWn4PJgaA5mI9TxGCBi9MCJnxvBI5qH6YRIsMfMSM92kISKz19mX6XYU8ojf4Gm4komdZul2Sllqd1ZGSy",
+          "received": false
+        },
+        {
+          "_id": "695a4c2d1c508c5d5ea376f9",
+          "name": "Salad60910",
+          "amount": 864,
+          "price": 99784,
+          "manufacturer": "Apple",
+          "notes": "if0EjftcBNyuQMwTb1KWWhxaASA0oQ2oNHMWolLoJWfIhweSqTMLEHLoRaGXAcWiYZbJKLL6ekN5A3VuA6wtkWLiPasd7MRkM6asIUI48uUAAtJZTbbs3vVRPvnz9W3Sff22SEKbxaShm7zUNuQcRX4RnOqq8Isb3xIo4TSwxL6IaCuZMe1jGD6U1OMFoLGkiL34xkWvPRSuNWEtaVWf4g1mTTJJb4mvU2uaQoV1FDveDcLpI7i2Ap2VnK",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Russia",
+          "city": "Mock City WNAEt",
+          "street": "MockStreet1469RFvUpxWKV1UJ3Yja1xTb9TQ85",
+          "house": 155,
+          "flat": 6
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 105530,
+      "createdOn": "2026-01-04T11:17:02.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a4c271c508c5d5ea375c6",
+          "products": [
+            {
+              "_id": "695a4c2a1c508c5d5ea3762d",
+              "name": "Ball43884",
+              "amount": 529,
+              "price": 5746,
+              "manufacturer": "Samsung",
+              "notes": "MGoF8UxU5f7xSKl1dY6s3b7eRsBQsy60V5O7Ul5nNKOtQcz6o3dPbCOjYvo6MLB8jqrvzoAzbTqPGFPrgOgn6Pr1rNyVzXE1ywlSMNGbE36cFL9EViX3LelE1T5yzzaR301KcFxTZM7HAruARFxtdTUNpiewHtWSKNGGPMn5YWn4PJgaA5mI9TxGCBi9MCJnxvBI5qH6YRIsMfMSM92kISKz19mX6XYU8ojf4Gm4komdZul2Sllqd1ZGSy",
+              "received": false
+            },
+            {
+              "_id": "695a4c2d1c508c5d5ea376f9",
+              "name": "Salad60910",
+              "amount": 864,
+              "price": 99784,
+              "manufacturer": "Apple",
+              "notes": "if0EjftcBNyuQMwTb1KWWhxaASA0oQ2oNHMWolLoJWfIhweSqTMLEHLoRaGXAcWiYZbJKLL6ekN5A3VuA6wtkWLiPasd7MRkM6asIUI48uUAAtJZTbbs3vVRPvnz9W3Sff22SEKbxaShm7zUNuQcRX4RnOqq8Isb3xIo4TSwxL6IaCuZMe1jGD6U1OMFoLGkiL34xkWvPRSuNWEtaVWf4g1mTTJJb4mvU2uaQoV1FDveDcLpI7i2Ap2VnK",
+              "received": false
+            }
+          ],
+          "total_price": 105530,
+          "delivery": {
+            "address": {
+              "country": "Russia",
+              "city": "Mock City WNAEt",
+              "street": "MockStreet1469RFvUpxWKV1UJ3Yja1xTb9TQ85",
+              "house": 155,
+              "flat": 6
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T11:17:02.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a4c271c508c5d5ea375c6",
+          "products": [
+            {
+              "_id": "695a4c2a1c508c5d5ea3762d",
+              "name": "Ball43884",
+              "amount": 529,
+              "price": 5746,
+              "manufacturer": "Samsung",
+              "notes": "MGoF8UxU5f7xSKl1dY6s3b7eRsBQsy60V5O7Ul5nNKOtQcz6o3dPbCOjYvo6MLB8jqrvzoAzbTqPGFPrgOgn6Pr1rNyVzXE1ywlSMNGbE36cFL9EViX3LelE1T5yzzaR301KcFxTZM7HAruARFxtdTUNpiewHtWSKNGGPMn5YWn4PJgaA5mI9TxGCBi9MCJnxvBI5qH6YRIsMfMSM92kISKz19mX6XYU8ojf4Gm4komdZul2Sllqd1ZGSy",
+              "received": false
+            },
+            {
+              "_id": "695a4c2d1c508c5d5ea376f9",
+              "name": "Salad60910",
+              "amount": 864,
+              "price": 99784,
+              "manufacturer": "Apple",
+              "notes": "if0EjftcBNyuQMwTb1KWWhxaASA0oQ2oNHMWolLoJWfIhweSqTMLEHLoRaGXAcWiYZbJKLL6ekN5A3VuA6wtkWLiPasd7MRkM6asIUI48uUAAtJZTbbs3vVRPvnz9W3Sff22SEKbxaShm7zUNuQcRX4RnOqq8Isb3xIo4TSwxL6IaCuZMe1jGD6U1OMFoLGkiL34xkWvPRSuNWEtaVWf4g1mTTJJb4mvU2uaQoV1FDveDcLpI7i2Ap2VnK",
+              "received": false
+            }
+          ],
+          "total_price": 105530,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:17:02.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

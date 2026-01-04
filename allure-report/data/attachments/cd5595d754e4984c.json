@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:17:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-RnUZOB6c8aYmCoIotH4dEGvRgDk\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips15483",
+      "amount": 16,
+      "price": 49271,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T11:17:26.000Z",
+      "notes": "6WjwnTXRLdBGLzsXrx5e9slj14kFe53SsFFK5lo6XCiUbPNztgfmqRlMEFBuQm1lqYFWsYWGgs5YBoNxizdGypqJRNLBz0YcQqyPleeUq5RPX86jRq2l55OiY86bT9HNZFzdNH425ExMNxd0zhCKnp5hzu4c1vAgLi3liBt4SZWVJzJeYaOE6fylhxqQ9dWxGK4Ew5iXF1L9x71HuY3oA3iDqhlgWNAkdDN8vtl66S7VkD6K4YQPLD0TT2",
+      "_id": "695a4c461c508c5d5ea37efe"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

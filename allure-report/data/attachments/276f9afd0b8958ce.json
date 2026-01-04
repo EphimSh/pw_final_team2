@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:18:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "543",
+    "etag": "W/\"21f-PC4d1IFHxdjh3wz/NkLOEkEkwqE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Madeline_Luettgen@yahoo.com",
+      "name": "VGfImNoDPRSBKlOYmQosrrBRGGyAIGR",
+      "country": "Canada",
+      "city": "LyMzomaOaYrBeqGSy",
+      "street": "2VZOQ9BedNSM915DDNiIv5cCU8bK1USeS6mdce",
+      "house": 71,
+      "flat": 1,
+      "phone": "+8367075554",
+      "createdOn": "2026-01-04T11:18:40.000Z",
+      "notes": "f3LsHpLRwAFLHlYYp923g8NAnLzg7nnJ7HqvjVHR3dqtTxvp9zGbrZsCKwghWri0EW3rgwLLvYIb4dcnYEpmG3XqCgCxiEjBVipWIqD7JDnPx57V10n4rIONHHIpDEFJkPImLvQz8YdG3OgpSN7igWYRQaFw2WshBdUBf91KJbSeGsyOxcUQg0TmbfqXfrVv",
+      "_id": "695a4c901c508c5d5ea39621"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

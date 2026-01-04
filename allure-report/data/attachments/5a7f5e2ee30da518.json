@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:16:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "350",
+    "etag": "W/\"15e-ZQT6SwKBrZ8XOxHM89LLJBgYX34\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Rosemary_Spencer@yahoo.com",
+      "name": "tdlyVAcaUWwOOvZvtZZfZdacCdtWvBTXW",
+      "country": "USA",
+      "city": "dCG",
+      "street": "EhDZyCgugyuZLNRL5p71c",
+      "house": 146,
+      "flat": 4,
+      "phone": "+7777073691",
+      "createdOn": "2026-01-04T11:16:55.000Z",
+      "notes": "rOZgt7DMyaxvK62KQZ3Fs1SzznTno8L",
+      "_id": "695a4c271c508c5d5ea375bb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

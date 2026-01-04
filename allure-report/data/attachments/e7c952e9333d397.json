@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:17:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-T4JZrvs1jNij7ExJ/XfAjUIb8Cw\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad60910",
+      "amount": 864,
+      "price": 99784,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T11:17:01.000Z",
+      "notes": "if0EjftcBNyuQMwTb1KWWhxaASA0oQ2oNHMWolLoJWfIhweSqTMLEHLoRaGXAcWiYZbJKLL6ekN5A3VuA6wtkWLiPasd7MRkM6asIUI48uUAAtJZTbbs3vVRPvnz9W3Sff22SEKbxaShm7zUNuQcRX4RnOqq8Isb3xIo4TSwxL6IaCuZMe1jGD6U1OMFoLGkiL34xkWvPRSuNWEtaVWf4g1mTTJJb4mvU2uaQoV1FDveDcLpI7i2Ap2VnK",
+      "_id": "695a4c2d1c508c5d5ea376f9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

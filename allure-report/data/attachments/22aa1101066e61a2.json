@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:16:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "523",
+    "etag": "W/\"20b-PtkZ61Z/2wgOsEpoBgkVpnJ60Vs\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Marcelle.Williamson@hotmail.com",
+      "name": "TgAd",
+      "country": "Germany",
+      "city": "B",
+      "street": "i4g",
+      "house": 182,
+      "flat": 6,
+      "phone": "+0287009906",
+      "createdOn": "2026-01-04T11:16:55.000Z",
+      "notes": "ySDjMMkrRhSAL21vkyDnf8WfXItq6uprDVhewiSR0nxgemnARzovbRg6VSIkMx8T2mWJXjLixyHx0hmkHn7GUDmidnvmhW94djW0l2ZwwEXZf44Om98cPF8uV56sq21EcCgD5rdfSLoyVlrxoNBkzMOCj7KZDi1Z4IHJfTwNeYFsgmmft6jWy9mdWjWDC5hljGUhK5hgd5I38FIN5ng9gjqps5ZHVWnNRjazEXySnSIjJPoBmIeP",
+      "_id": "695a4c271c508c5d5ea375b9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

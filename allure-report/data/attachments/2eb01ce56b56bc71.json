@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:16:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "418",
+    "etag": "W/\"1a2-hbXBQelqWLkAfezxiN6OioFvoCc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Julie.Pollich-Jaskolski58@hotmail.com",
+      "name": "pqoDWOrgUdHEAKNZlrSTbmXoGeMIIXxuMKr",
+      "country": "Russia",
+      "city": "Bp",
+      "street": "8g",
+      "house": 136,
+      "flat": 9,
+      "phone": "+9311036458",
+      "createdOn": "2026-01-04T11:16:55.000Z",
+      "notes": "FTMkEcvpBkgEGv4xvK16T9wi9B0pQH4jEw0tlekY8NSbU1SAERhs5fVln8kH4GloBjT6dCILPJ79bRmWjICD3I7fj1qxk7qb0faLQTS",
+      "_id": "695a4c271c508c5d5ea375b6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

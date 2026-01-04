@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:17:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-UBCjzF4WME9Nsar2RxgX/3pNhNc\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels6430",
+      "amount": 885,
+      "price": 94231,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T11:17:02.000Z",
+      "notes": "JZD61crGID0KMLL4BRkVexjXQoB2w8Z4DKVbMbdYrgMq5NigB0voXOeVVRJkJlCskEavfKUSv1OdVZysa1mZdvAicdaJdkGptM76Vnhb7Vdw0pFxHKkXrSJtKovbfmB9xhAHgUDH7P1pHE4U4CXhOV6dwVwbHCBFyRWbhHe0rRYXSErZKBbqRTsZXhjzfDkGoQMDowq3Hlw7w4zKeQoYJFHC5xXfhNAuhVVFXWZXA0gqezJgkh9kXK0SBU",
+      "_id": "695a4c2e1c508c5d5ea376fb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

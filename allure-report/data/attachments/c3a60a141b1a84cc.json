@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:17:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "347",
+    "etag": "W/\"15b-OHT/UoOXMKpPgFm0/ue4U2B5px8\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "695a4c431c508c5d5ea37eb5",
+      "email": "Turner.Larson97@gmail.com",
+      "name": "rOPUnHrkKuabETJNgqZBEWlrUOxnlGA",
+      "country": "Canada",
+      "city": "p",
+      "street": "tJUXR8EELmQ2w7b72JfKi",
+      "house": 159,
+      "flat": 4,
+      "phone": "+0159592774",
+      "createdOn": "2026-01-04T11:17:23.000Z",
+      "notes": "I5MB4Ri2vTSvy5WZwYBxXTWMwp7GN9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

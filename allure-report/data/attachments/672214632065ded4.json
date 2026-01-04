@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:17:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "366",
+    "etag": "W/\"16e-C+P1JIfIxce66tiCqQeyM0Lipuc\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kelvin.Konopelski@gmail.com",
+      "name": "oiRYCkOlqWNhdMLDBuFPSuAfsGosusecSk",
+      "country": "Belarus",
+      "city": "OkaqOJ",
+      "street": "tNMJfmaIkDS0",
+      "house": 123,
+      "flat": 1,
+      "phone": "+4542089944",
+      "createdOn": "2026-01-04T11:17:23.000Z",
+      "notes": "kroGWP7DEWopclO23bzufFbephyb8tOFQW8I54xkoRRAroP",
+      "_id": "695a4c431c508c5d5ea37eb9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

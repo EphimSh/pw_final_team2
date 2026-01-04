@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:16:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-9CJY7sperYMhFIM6eSENBsMZjpk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball43884",
+      "amount": 529,
+      "price": 5746,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T11:16:58.000Z",
+      "notes": "MGoF8UxU5f7xSKl1dY6s3b7eRsBQsy60V5O7Ul5nNKOtQcz6o3dPbCOjYvo6MLB8jqrvzoAzbTqPGFPrgOgn6Pr1rNyVzXE1ywlSMNGbE36cFL9EViX3LelE1T5yzzaR301KcFxTZM7HAruARFxtdTUNpiewHtWSKNGGPMn5YWn4PJgaA5mI9TxGCBi9MCJnxvBI5qH6YRIsMfMSM92kISKz19mX6XYU8ojf4Gm4komdZul2Sllqd1ZGSy",
+      "_id": "695a4c2a1c508c5d5ea3762d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

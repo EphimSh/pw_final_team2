@@ -1,0 +1,173 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:17:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3740",
+    "etag": "W/\"e9c-a93Z8uQJduMTQoTzA5tpPncC7kQ\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a4c461c508c5d5ea37f16",
+      "status": "Canceled",
+      "customer": {
+        "_id": "695a4c431c508c5d5ea37eb9",
+        "email": "Kelvin.Konopelski@gmail.com",
+        "name": "oiRYCkOlqWNhdMLDBuFPSuAfsGosusecSk",
+        "country": "Belarus",
+        "city": "OkaqOJ",
+        "street": "tNMJfmaIkDS0",
+        "house": 123,
+        "flat": 1,
+        "phone": "+4542089944",
+        "createdOn": "2026-01-04T11:17:23.000Z",
+        "notes": "kroGWP7DEWopclO23bzufFbephyb8tOFQW8I54xkoRRAroP"
+      },
+      "products": [
+        {
+          "_id": "695a4c461c508c5d5ea37efe",
+          "name": "Chips15483",
+          "amount": 16,
+          "price": 49271,
+          "manufacturer": "Samsung",
+          "notes": "6WjwnTXRLdBGLzsXrx5e9slj14kFe53SsFFK5lo6XCiUbPNztgfmqRlMEFBuQm1lqYFWsYWGgs5YBoNxizdGypqJRNLBz0YcQqyPleeUq5RPX86jRq2l55OiY86bT9HNZFzdNH425ExMNxd0zhCKnp5hzu4c1vAgLi3liBt4SZWVJzJeYaOE6fylhxqQ9dWxGK4Ew5iXF1L9x71HuY3oA3iDqhlgWNAkdDN8vtl66S7VkD6K4YQPLD0TT2",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Russia",
+          "city": "Mock City EaHfdy",
+          "street": "MockStreetAf78zxqMyHBQLrspZ7jb",
+          "house": 101,
+          "flat": 18
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 49271,
+      "createdOn": "2026-01-04T11:17:26.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Canceled",
+          "customer": "695a4c431c508c5d5ea37eb9",
+          "products": [
+            {
+              "_id": "695a4c461c508c5d5ea37efe",
+              "name": "Chips15483",
+              "amount": 16,
+              "price": 49271,
+              "manufacturer": "Samsung",
+              "notes": "6WjwnTXRLdBGLzsXrx5e9slj14kFe53SsFFK5lo6XCiUbPNztgfmqRlMEFBuQm1lqYFWsYWGgs5YBoNxizdGypqJRNLBz0YcQqyPleeUq5RPX86jRq2l55OiY86bT9HNZFzdNH425ExMNxd0zhCKnp5hzu4c1vAgLi3liBt4SZWVJzJeYaOE6fylhxqQ9dWxGK4Ew5iXF1L9x71HuY3oA3iDqhlgWNAkdDN8vtl66S7VkD6K4YQPLD0TT2",
+              "received": false
+            }
+          ],
+          "total_price": 49271,
+          "delivery": {
+            "address": {
+              "country": "Russia",
+              "city": "Mock City EaHfdy",
+              "street": "MockStreetAf78zxqMyHBQLrspZ7jb",
+              "house": 101,
+              "flat": 18
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-04T11:17:27.000Z",
+          "action": "Order canceled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a4c431c508c5d5ea37eb9",
+          "products": [
+            {
+              "_id": "695a4c461c508c5d5ea37efe",
+              "name": "Chips15483",
+              "amount": 16,
+              "price": 49271,
+              "manufacturer": "Samsung",
+              "notes": "6WjwnTXRLdBGLzsXrx5e9slj14kFe53SsFFK5lo6XCiUbPNztgfmqRlMEFBuQm1lqYFWsYWGgs5YBoNxizdGypqJRNLBz0YcQqyPleeUq5RPX86jRq2l55OiY86bT9HNZFzdNH425ExMNxd0zhCKnp5hzu4c1vAgLi3liBt4SZWVJzJeYaOE6fylhxqQ9dWxGK4Ew5iXF1L9x71HuY3oA3iDqhlgWNAkdDN8vtl66S7VkD6K4YQPLD0TT2",
+              "received": false
+            }
+          ],
+          "total_price": 49271,
+          "delivery": {
+            "address": {
+              "country": "Russia",
+              "city": "Mock City EaHfdy",
+              "street": "MockStreetAf78zxqMyHBQLrspZ7jb",
+              "house": 101,
+              "flat": 18
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-04T11:17:27.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a4c431c508c5d5ea37eb9",
+          "products": [
+            {
+              "_id": "695a4c461c508c5d5ea37efe",
+              "name": "Chips15483",
+              "amount": 16,
+              "price": 49271,
+              "manufacturer": "Samsung",
+              "notes": "6WjwnTXRLdBGLzsXrx5e9slj14kFe53SsFFK5lo6XCiUbPNztgfmqRlMEFBuQm1lqYFWsYWGgs5YBoNxizdGypqJRNLBz0YcQqyPleeUq5RPX86jRq2l55OiY86bT9HNZFzdNH425ExMNxd0zhCKnp5hzu4c1vAgLi3liBt4SZWVJzJeYaOE6fylhxqQ9dWxGK4Ew5iXF1L9x71HuY3oA3iDqhlgWNAkdDN8vtl66S7VkD6K4YQPLD0TT2",
+              "received": false
+            }
+          ],
+          "total_price": 49271,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:17:26.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

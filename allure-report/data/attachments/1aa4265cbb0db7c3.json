@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:18:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "347",
+    "etag": "W/\"15b-e3VfVnlA6v8nKSLfU8+n999r3OQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Gunner78@hotmail.com",
+      "name": "riylXlwXpwajeUGmzBhEao",
+      "country": "Canada",
+      "city": "mRpkwHP",
+      "street": "ZCijfSZIrEk",
+      "house": 1,
+      "flat": 7,
+      "phone": "+3225435475",
+      "createdOn": "2026-01-04T11:18:59.000Z",
+      "notes": "kXjMIDExxovcsmlvIuIBw0FssyLq0Ccf3F7l8yak64vVfw2za4",
+      "_id": "695a4ca31c508c5d5ea39d38"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

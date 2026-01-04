@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:18:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1873",
+    "etag": "W/\"751-gNJFjACIkaStwClWrSFYqAZSKwQ\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "695a4c901c508c5d5ea39621",
+        "email": "Madeline_Luettgen@yahoo.com",
+        "name": "VGfImNoDPRSBKlOYmQosrrBRGGyAIGR",
+        "country": "Canada",
+        "city": "LyMzomaOaYrBeqGSy",
+        "street": "2VZOQ9BedNSM915DDNiIv5cCU8bK1USeS6mdce",
+        "house": 71,
+        "flat": 1,
+        "phone": "+8367075554",
+        "createdOn": "2026-01-04T11:18:40.000Z",
+        "notes": "f3LsHpLRwAFLHlYYp923g8NAnLzg7nnJ7HqvjVHR3dqtTxvp9zGbrZsCKwghWri0EW3rgwLLvYIb4dcnYEpmG3XqCgCxiEjBVipWIqD7JDnPx57V10n4rIONHHIpDEFJkPImLvQz8YdG3OgpSN7igWYRQaFw2WshBdUBf91KJbSeGsyOxcUQg0TmbfqXfrVv"
+      },
+      "products": [
+        {
+          "_id": "695a4c931c508c5d5ea396c7",
+          "name": "Towels95985",
+          "amount": 78,
+          "price": 27598,
+          "manufacturer": "Google",
+          "notes": "hyKar0at7Sr0MCwcryhpPh25o1995LOah6AsnC4VE1v5FuAAQlWe3TobTA7NwYKnU2XwPFY8TdN9svUaf1TgKZrfL7PCTwOdVZxusTjvdezfnaWAqwaCmcZ442IvKvdJpy4WRCgjDYfvEmxM1Shxk1F7Wj32cx2MdEXE76Lx30OB80kkjAzIr12rFnnfJrSMEE012XtSa0OgRwT44UkxfbuiEQe1nQG9KZyH4tszDSqqSR8wKsNIM5k2kc",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 27598,
+      "createdOn": "2026-01-04T11:18:43.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a4c901c508c5d5ea39621",
+          "products": [
+            {
+              "_id": "695a4c931c508c5d5ea396c7",
+              "name": "Towels95985",
+              "amount": 78,
+              "price": 27598,
+              "manufacturer": "Google",
+              "notes": "hyKar0at7Sr0MCwcryhpPh25o1995LOah6AsnC4VE1v5FuAAQlWe3TobTA7NwYKnU2XwPFY8TdN9svUaf1TgKZrfL7PCTwOdVZxusTjvdezfnaWAqwaCmcZ442IvKvdJpy4WRCgjDYfvEmxM1Shxk1F7Wj32cx2MdEXE76Lx30OB80kkjAzIr12rFnnfJrSMEE012XtSa0OgRwT44UkxfbuiEQe1nQG9KZyH4tszDSqqSR8wKsNIM5k2kc",
+              "received": false
+            }
+          ],
+          "total_price": 27598,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:18:43.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695a4c931c508c5d5ea396d5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

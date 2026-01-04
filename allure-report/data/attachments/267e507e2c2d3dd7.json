@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:18:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-ox4OvPNEwbA/+dUI+Z7V0lh8t/U\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Karson.Kassulke75@hotmail.com",
+      "name": "weKbAraaMBFdPmIehMgPaivKpKNW",
+      "country": "France",
+      "city": "TL",
+      "street": "hKzoSgjs5G6lQND0izA6qk4t",
+      "house": 121,
+      "flat": 3,
+      "phone": "+6875431680",
+      "createdOn": "2026-01-04T11:18:59.000Z",
+      "notes": "Vhs9FD48FqCJQR3SbkfS9eg7ClDGI1vvzzzFmQNZTRhMltJYDfpKHUwV9uQ8woJ1wG2u9tAI5hklKJNiuEq5EWog1ku76zowY6zzU8vPzDIQeTAqx7rQTlvkNYjFFtquVL",
+      "_id": "695a4ca31c508c5d5ea39d3a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

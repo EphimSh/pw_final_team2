@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:18:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "468",
+    "etag": "W/\"1d4-ZCVmc4BB/hnrOHR6pGyWXGo1AR8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Buddy62@gmail.com",
+      "name": "KyowZxKBNLRAwJUOc",
+      "country": "Belarus",
+      "city": "cMLFiwzKVhXLun",
+      "street": "yEYKTO4LHKIY",
+      "house": 145,
+      "flat": 7,
+      "phone": "+6759283615",
+      "createdOn": "2026-01-04T11:18:37.000Z",
+      "notes": "kIETuB4WCstRVgrr43pswPFJJxMeRgfPNQDQuHIj15aMzfl1Gtw0G4yCq10ab0g2Z9h7NvxaS9NxkAdfQuntWZxOWeEf8uNezIXdXQAHvMgFAk7tYtqGG34ED1WTNYxIvuFWZ0p2CqgF5FDUGI2qxzcdFCjA1ILIWTutXCFZ",
+      "_id": "695a4c8d1c508c5d5ea39539"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

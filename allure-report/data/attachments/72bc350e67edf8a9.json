@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:18:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-62GLbMajRn06+bCOoU0n9lY6+XI\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes57695",
+      "amount": 630,
+      "price": 72328,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T11:18:17.000Z",
+      "notes": "2YdCyl0q3LMHGp0YpRwSye82nFslPjSDCN6n75wV7UiK8xpbLuKv1eVeJIQl0eX5lhSRsi2ZqBwMpYqnP0cqe4YfpA3bL4jQKbh8UyN9iLzyznzIVsiLyPbktJfIlxpCDP3f4C4MhWBCXn5iuga6UZeJrStxhk0QCOMSGNuO78uX51tetzZfawiSyysI53QXeOperUxJ9qPKaFE83VzQRynWCpCfJzJwKh8AezXxvKtB3E9T6l0DbLaQHu",
+      "_id": "695a4c791c508c5d5ea38ebd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

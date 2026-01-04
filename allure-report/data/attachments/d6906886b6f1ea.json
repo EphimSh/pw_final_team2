@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:17:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "446",
+    "etag": "W/\"1be-bzdIiDBvvJexPYiBS4g/dXtvYTU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Austen1@hotmail.com",
+      "name": "CKcZDW",
+      "country": "France",
+      "city": "AYDTe",
+      "street": "9E7aMwkrKijoGjgOKLoWJH6Kwcp8",
+      "house": 168,
+      "flat": 8,
+      "phone": "+0070389352",
+      "createdOn": "2026-01-04T11:17:50.000Z",
+      "notes": "LkAOPOiWGt6zZMeYUk75bLu2gFFaE6zYOlfKsl9hlsYNzUGZe3rT6fBZ1JqZo4T0En89AszdSWJOR2ZMC5UjWSd5WKJd0fZooRTEKxIMKMn7XgRCRAIJ6SiiA1qcFgKBiYPdH7VlrNorTfig8oMNp",
+      "_id": "695a4c5e1c508c5d5ea3871c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

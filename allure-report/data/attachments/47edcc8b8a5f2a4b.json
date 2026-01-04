@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:17:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-A863Hpq1RxRdFI3WbfMU1puzDhk\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza85056",
+      "amount": 938,
+      "price": 69117,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T11:17:27.000Z",
+      "notes": "GsrOjxQb8likP93RC33sWha9JlcbEJ0r65cHrRFzeHPGUiMgpE1lx85OtQbUFZPiEEmYGc2sMWRB274WS0wFncgAQpbpSZrgCueY3XmE9FseOwzHvppgATn66x45G2O2YmQJndCTGwgtbYVgK1rEY6bOC0gKPbdpdwo9stkVUQSRs001LeiA62jD9QBS3uIkGCE0nP7B7VvOM1iwbTGdR9mHTSWJXljxa6SDyAy6fA9n9HIf4yir7OnoWw",
+      "_id": "695a4c471c508c5d5ea37f3c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

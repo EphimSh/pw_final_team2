@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:18:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "493",
+    "etag": "W/\"1ed-V8j9g1G3dzDxm/9jBFM0Z1VWLXc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Grayson_Rutherford@yahoo.com",
+      "name": "VDKGjquOxkcVBWHZGUJGvz",
+      "country": "France",
+      "city": "HhYdqmkhlw",
+      "street": "ST2i6T2q8uAepz0pxWsapF1L9mHQDn",
+      "house": 195,
+      "flat": 1,
+      "phone": "+4299073885",
+      "createdOn": "2026-01-04T11:18:34.000Z",
+      "notes": "69PtOeWzqYSSu55S4TEeRL3h1wB8lmPe3fmTnZBFFSdruHAigOicD6KzaXBiWuOpapQDVLMa4xgEcaAihZmemtaUKAuQsqmTSJiuaHYIsgxUPH08XYdnaI6m5T0X9Bwb4qzFWxPaSWKssiPH2jvN2CSDJcw58w0rWbP9",
+      "_id": "695a4c8a1c508c5d5ea39498"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:17:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1776",
+    "etag": "W/\"6f0-TcRVoiu9HXXkCR3TFFJiCKfFD6g\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "695a4c5e1c508c5d5ea3871c",
+        "email": "Austen1@hotmail.com",
+        "name": "CKcZDW",
+        "country": "France",
+        "city": "AYDTe",
+        "street": "9E7aMwkrKijoGjgOKLoWJH6Kwcp8",
+        "house": 168,
+        "flat": 8,
+        "phone": "+0070389352",
+        "createdOn": "2026-01-04T11:17:50.000Z",
+        "notes": "LkAOPOiWGt6zZMeYUk75bLu2gFFaE6zYOlfKsl9hlsYNzUGZe3rT6fBZ1JqZo4T0En89AszdSWJOR2ZMC5UjWSd5WKJd0fZooRTEKxIMKMn7XgRCRAIJ6SiiA1qcFgKBiYPdH7VlrNorTfig8oMNp"
+      },
+      "products": [
+        {
+          "_id": "695a4c611c508c5d5ea387ed",
+          "name": "Salad47914",
+          "amount": 45,
+          "price": 8437,
+          "manufacturer": "Microsoft",
+          "notes": "GDsxd8WONctPJ4Zq0GH51pwEtTJS7oiFpKyL2mrWyTw4RZNzhMrDTcuZQWw91LzZRbE2cOxldvHtP4znl07j4Fxok1g1csfgu7yASyweppJZ7oClf247KsGCu2Ev9uEkrIAwBVm1j2U08pF8StD7IYMMBN6tElC0d5cuTfT9Z8CpEXf1FyMn17lL6YZ9va1LnbccaFY4bvwg4DHQBbCNP1te4iqdWXKb1zWecF1tqGHvuTJWhVTEdgJaJK",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 8437,
+      "createdOn": "2026-01-04T11:17:54.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a4c5e1c508c5d5ea3871c",
+          "products": [
+            {
+              "_id": "695a4c611c508c5d5ea387ed",
+              "name": "Salad47914",
+              "amount": 45,
+              "price": 8437,
+              "manufacturer": "Microsoft",
+              "notes": "GDsxd8WONctPJ4Zq0GH51pwEtTJS7oiFpKyL2mrWyTw4RZNzhMrDTcuZQWw91LzZRbE2cOxldvHtP4znl07j4Fxok1g1csfgu7yASyweppJZ7oClf247KsGCu2Ev9uEkrIAwBVm1j2U08pF8StD7IYMMBN6tElC0d5cuTfT9Z8CpEXf1FyMn17lL6YZ9va1LnbccaFY4bvwg4DHQBbCNP1te4iqdWXKb1zWecF1tqGHvuTJWhVTEdgJaJK",
+              "received": false
+            }
+          ],
+          "total_price": 8437,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:17:54.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695a4c621c508c5d5ea38816"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

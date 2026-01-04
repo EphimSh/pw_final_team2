@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:17:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "534",
+    "etag": "W/\"216-7LPBPF1h1L8cdY7g1hK8lkXDy8E\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Orrin_Thiel@gmail.com",
+      "name": "OmmYBwmKWz",
+      "country": "Canada",
+      "city": "akn",
+      "street": "wCKLwGD2Y5fT4jUwUgRfztPisqlM02vq5",
+      "house": 38,
+      "flat": 1,
+      "phone": "+5322310279",
+      "createdOn": "2026-01-04T11:17:23.000Z",
+      "notes": "7jBHzuZELSYOkueCGL2JESSgTNH1FrzHt31IoyqVa9VYAn8V0Ra2Sf8Q3cVqtMHSn5grmASEMv343nCVJexBS0d3bVu75hH85M4Qu3b5YJzR49XaABK9p8wqgI6QCZLf0oxwR746lrr6gva9MWev16ZBpF9It9g55Nu3aFlVwWGwUbnhRgZBfCbtnZK7BINk1rbsoMFqfOmkLuvBhgKg4Lzaken65LBoR3221",
+      "_id": "695a4c431c508c5d5ea37eb5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

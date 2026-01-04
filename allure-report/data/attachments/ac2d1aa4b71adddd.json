@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:19:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1891",
+    "etag": "W/\"763-k1zvXfQj+5PWiSRtqex7hAV6KX8\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "695a4ca81c508c5d5ea39e97",
+        "email": "Rosalind_Gerlach79@gmail.com",
+        "name": "ELGseCLjOcGgHQsxqaMfSAvMdCCYRdCurCIaxR",
+        "country": "Ukraine",
+        "city": "cWLJVQUeU",
+        "street": "j6NrYVlcpdWXAICtD",
+        "house": 179,
+        "flat": 2,
+        "phone": "+5401366271",
+        "createdOn": "2026-01-04T11:19:04.000Z",
+        "notes": "ugW54NT1bQdCpNGTO4xoepM8ATwDjw4H7vtqh53dacAD3dvTpprvmMjFxWbLnodBCpcZ6h7fsfLBeU5q9X69zBpWdSwvRbQ8ra2tW8MK93F5aikauHWvNSwt3Z1PIG45xyyUsQLe0NNmKXvvJlSXCLaWrV4IlJ8BTrnNcUwde7VPXbIvqH5eI1s8IRKcWV108w351xaDLVAiFR7O17zW3A7Hys28x9N"
+      },
+      "products": [
+        {
+          "_id": "695a4cab1c508c5d5ea39f57",
+          "name": "Keyboard49977",
+          "amount": 232,
+          "price": 25416,
+          "manufacturer": "Amazon",
+          "notes": "IPBLweyfksMLBCksKtUHEaKSrBVOjsE5tvA9qJzbqNzAQMvxblkP2MPgQfoLZFXSi8ItsQ8tUmlN5ADyoOeGhvhx24t0EkbWsabpi2f8YTFHWRo4Tez2ypibeyZAwBGUqDE4zFUsnQvjZBVgx5mMVZcVJZdeafcOf0fyImXZpK2hUHUcwZSdXwELa7geXqeAvoE79HmXegVCon13Y60aBYeJtOR8MqfmzBJgy8361dC2960OgDwTc2enWw",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 25416,
+      "createdOn": "2026-01-04T11:19:08.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a4ca81c508c5d5ea39e97",
+          "products": [
+            {
+              "_id": "695a4cab1c508c5d5ea39f57",
+              "name": "Keyboard49977",
+              "amount": 232,
+              "price": 25416,
+              "manufacturer": "Amazon",
+              "notes": "IPBLweyfksMLBCksKtUHEaKSrBVOjsE5tvA9qJzbqNzAQMvxblkP2MPgQfoLZFXSi8ItsQ8tUmlN5ADyoOeGhvhx24t0EkbWsabpi2f8YTFHWRo4Tez2ypibeyZAwBGUqDE4zFUsnQvjZBVgx5mMVZcVJZdeafcOf0fyImXZpK2hUHUcwZSdXwELa7geXqeAvoE79HmXegVCon13Y60aBYeJtOR8MqfmzBJgy8361dC2960OgDwTc2enWw",
+              "received": false
+            }
+          ],
+          "total_price": 25416,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:19:08.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695a4cac1c508c5d5ea39f6b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

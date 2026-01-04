@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:16:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "496",
+    "etag": "W/\"1f0-amsaPNLzMxYcPq6nnII/5lkcZVo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Viola49@yahoo.com",
+      "name": "SZuTDKojOkskMFHaGEjrtxtKIa",
+      "country": "Great Britain",
+      "city": "exPutIMAn",
+      "street": "vhl2svCtAlclNL9N",
+      "house": 16,
+      "flat": 6,
+      "phone": "+6776761959",
+      "createdOn": "2026-01-04T11:16:55.000Z",
+      "notes": "tezXMjwnVInVe6DrUQ8LZ7KJ0atwD5EiASJvUCV2Rx5GkHE6Ybg77MRuJvRnUBX6jx65X6D3flxysn9oStCLKpPotJI5EUza2uDjpyk3HmhcO3XQrCdJ125MIPSZHKF32MhEucaAmDXUyjUS4rzu9RwFrjp1d9wFuawMEQYkSW7resIKrxWe5I4",
+      "_id": "695a4c271c508c5d5ea375c6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:17:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "392",
+    "etag": "W/\"188-uC5QHeFpMj3vLIY5zf3mbHuG1go\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Delilah54@gmail.com",
+      "name": "YqqUmodKtwi",
+      "country": "Russia",
+      "city": "LlCWTWELZ",
+      "street": "yvATDU8OBTZC",
+      "house": 149,
+      "flat": 5,
+      "phone": "+7165022632",
+      "createdOn": "2026-01-04T11:17:51.000Z",
+      "notes": "9z0tLKiXpLnqHHLrFZWO25pR8bCfzox97evfc4Of5OJkoIJHCylso53pvXXjrW5qYt0TulLK8sPlZiCxB5WVQLmWESqWuDXoe3ENJ3",
+      "_id": "695a4c5f1c508c5d5ea38741"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

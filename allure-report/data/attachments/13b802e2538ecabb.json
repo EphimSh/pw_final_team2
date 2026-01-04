@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:17:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "362",
+    "etag": "W/\"16a-0y9xd0EasI47BWvxLWO+KEv1HoY\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Suzanne12@yahoo.com",
+      "name": "YtHVslcqmASantHoFTQYjUTHidUqarN",
+      "country": "Belarus",
+      "city": "lQjTebUylt",
+      "street": "we5B",
+      "house": 85,
+      "flat": 3,
+      "phone": "+0247828495",
+      "createdOn": "2026-01-04T11:17:17.000Z",
+      "notes": "CtbJu5HtvcV5Gf4n9TvZVh02liWlicy8pC0i7wkxlFiOD26uyhYZXQp7DmH",
+      "_id": "695a4c3d1c508c5d5ea37d28"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

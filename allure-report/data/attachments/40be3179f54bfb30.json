@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:17:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "352",
+    "etag": "W/\"160-FqCPnGcjruZdQ4ly+5kCZB7SXd8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Lesley.Barrows@hotmail.com",
+      "name": "t",
+      "country": "Belarus",
+      "city": "iXTrjVBNrpve",
+      "street": "Yl1sx8adjo9A6SbhAydi5Xpmvje9",
+      "house": 111,
+      "flat": 9,
+      "phone": "+3661486468",
+      "createdOn": "2026-01-04T11:17:24.000Z",
+      "notes": "HbO2cJe0ogpfJsfjDumNL2r0RZUZw3cK9o22XWJAejHGN",
+      "_id": "695a4c441c508c5d5ea37ecb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

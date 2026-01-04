@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:17:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "346",
+    "etag": "W/\"15a-2M5pMW6TBBoKFxk53xneV7QJnCQ\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Emanuel_Bernier@yahoo.com",
+      "name": "DYANBlieYIGPCQMQJEDdzxNVxdmWSLg",
+      "country": "France",
+      "city": "KHnwlPJ",
+      "street": "Sd0lJU",
+      "house": 195,
+      "flat": 2,
+      "phone": "+8229591390",
+      "createdOn": "2026-01-04T11:17:54.000Z",
+      "notes": "TJI4VWiuYhDxtvRFhBiuayJzj4dje5qF7DPWJT",
+      "_id": "695a4c621c508c5d5ea38820"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

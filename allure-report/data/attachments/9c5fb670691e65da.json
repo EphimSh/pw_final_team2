@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:18:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "477",
+    "etag": "W/\"1dd-KF1kzRPpuwflI9TAPAY1Y2/xnhQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Alivia74@yahoo.com",
+      "name": "GvnQGiyKYxgKtTbSaOPYEdLVTCkEmXdcTyoT",
+      "country": "Russia",
+      "city": "TDKfFuf",
+      "street": "sfoNLCB",
+      "house": 87,
+      "flat": 5,
+      "phone": "+3405403090",
+      "createdOn": "2026-01-04T11:18:14.000Z",
+      "notes": "lJ16Tg15HJB6ciCTqopw0CAS8R4A0sSyy8AM4P8FNXWgBzt6BP5UmD3s0LvRwCxesCzdSY1MqYQUZ1fYXORChIKSOpcpPBakFuJUMRAd6vtwyoYOtFaYGgyCGXEnYPXvzdXAh4DlP0F7WugESl5MH7GHVUfPPuzOQC2jfNdv07X",
+      "_id": "695a4c761c508c5d5ea38e38"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

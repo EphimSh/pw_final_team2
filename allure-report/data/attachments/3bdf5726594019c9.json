@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:17:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-eOvh2Kx5C3WepDAnyZmcNA27s2k\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese43191",
+      "amount": 326,
+      "price": 28077,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T11:17:22.000Z",
+      "notes": "tRMQcuoTdA6vBmytKxXVsXCMPd7Pg3RQ3ocBEE9KP6HBM0lsUj9DgXOtgPzAlls4rUgNMSAgQuwP4XJoEqCOLFVw4ppPBW9I76xH8DBZjVCoXzUxbARqyXuJGRJNWhwpVoUmrZfxGqrm1mT3731ayrDjrTl9Ql7MwsbDSsBxwIiaYW7oHguiULYzl2O6ygf6Qv5oXSMqdraFDNLy1PQ84RliH6i7bQ2RPMvoej8XGlRiTsfR4rgt0U7Dle",
+      "_id": "695a4c421c508c5d5ea37ea6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
