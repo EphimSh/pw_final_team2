@@ -2,12 +2,7 @@ name: Run Sales Portal API tests
 permissions:
   contents: write
 on:
-  push:
-    branches:
-      - main
-  pull_request:
   workflow_dispatch:
-
 jobs:
   test:
     timeout-minutes: 60

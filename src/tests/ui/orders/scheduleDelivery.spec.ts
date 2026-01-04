@@ -3,6 +3,7 @@ import { generateDeliveryData, generateDeliveryDate } from "data/orders/generate
 import { COUNTRIES } from "data/types/countries";
 import { ICustomerFromResponse } from "data/types/customers.types";
 import { DELIVERY_CONDITIONS, IDeliveryAddress } from "data/types/orders.types";
+import { COMPONENT_TAG, TEST_TAG } from "data/types/tags.types";
 import { expect, test } from "fixtures";
 import { getRandomEnumValue } from "utils/enum.utils";
 
@@ -22,113 +23,125 @@ test.describe("[UI] [Sales Portal] [Orders] [Shedule Delivery]", () => {
     if (orderID) await ordersApiService.deleteOrderWithCustomerAndProduct(orderID, token);
   });
 
-  test("Create delivery with Customer Home address", async ({ orderPage, orderUIService, scheduleDeliveryPage }) => {
-    await orderUIService.openOrderById(orderID);
-    await orderPage.openSheduleDeliveryPage();
-    await scheduleDeliveryPage.waitForOpened();
+  test(
+    "Create delivery with Customer Home address",
+    { tag: [TEST_TAG.REGRESSION, TEST_TAG.UI, TEST_TAG.POSITIVE, COMPONENT_TAG.ORDERS, COMPONENT_TAG.DELIVERY] },
+    async ({ orderPage, orderUIService, scheduleDeliveryPage }) => {
+      await orderUIService.openOrderById(orderID);
+      await orderPage.openSheduleDeliveryPage();
+      await scheduleDeliveryPage.waitForOpened();
 
-    await scheduleDeliveryPage.selectLocation("Home");
-    await scheduleDeliveryPage.fillForm({ finalDate: generateDeliveryDate() });
-    await scheduleDeliveryPage.clickSave();
+      await scheduleDeliveryPage.selectLocation("Home");
+      await scheduleDeliveryPage.fillForm({ finalDate: generateDeliveryDate() });
+      await scheduleDeliveryPage.clickSave();
 
-    await orderPage.clickDeliveryTab();
-    const deliveryAddress = await orderPage.getDeliveryAddress();
+      await orderPage.clickDeliveryTab();
+      const deliveryAddress = await orderPage.getDeliveryAddress();
 
-    const customerAddress = await orderPage.getCustomerAddress(customer);
+      const customerAddress = await orderPage.getCustomerAddress(customer);
 
-    expect(customerAddress).toEqual(deliveryAddress);
-  });
+      expect(customerAddress).toEqual(deliveryAddress);
+    },
+  );
 
-  test("Create delivery with Other address entierly different from Customer address", async ({
-    orderPage,
-    orderUIService,
-    scheduleDeliveryPage,
-  }) => {
-    await orderUIService.openOrderById(orderID);
-    await orderPage.openSheduleDeliveryPage();
-    await scheduleDeliveryPage.waitForOpened();
+  test(
+    "Create delivery with Other address entierly different from Customer address",
+    { tag: [TEST_TAG.REGRESSION, TEST_TAG.UI, TEST_TAG.POSITIVE, COMPONENT_TAG.ORDERS, COMPONENT_TAG.DELIVERY] },
+    async ({ orderPage, orderUIService, scheduleDeliveryPage }) => {
+      await orderUIService.openOrderById(orderID);
+      await orderPage.openSheduleDeliveryPage();
+      await scheduleDeliveryPage.waitForOpened();
 
-    const deliveryData = generateDeliveryData({ condition: DELIVERY_CONDITIONS.DELIVERY });
-    const generatedDeliveryAddress = deliveryData.address;
+      const deliveryData = generateDeliveryData({ condition: DELIVERY_CONDITIONS.DELIVERY });
+      const generatedDeliveryAddress = deliveryData.address;
 
-    await scheduleDeliveryPage.fillForm(deliveryData);
-    await scheduleDeliveryPage.clickSave();
+      await scheduleDeliveryPage.fillForm(deliveryData);
+      await scheduleDeliveryPage.clickSave();
 
-    await orderPage.clickDeliveryTab();
-    const deliveryAddressFromUI = await orderPage.getDeliveryAddress();
-    const customerAddress = orderPage.getCustomerAddress(customer);
+      await orderPage.clickDeliveryTab();
+      const deliveryAddressFromUI = await orderPage.getDeliveryAddress();
+      const customerAddress = orderPage.getCustomerAddress(customer);
 
-    expect(customerAddress).not.toEqual(deliveryAddressFromUI);
-    expect(generatedDeliveryAddress).toEqual(deliveryAddressFromUI);
-  });
+      expect(customerAddress).not.toEqual(deliveryAddressFromUI);
+      expect(generatedDeliveryAddress).toEqual(deliveryAddressFromUI);
+    },
+  );
 
   test.describe("[Partially modify customer delivery address on Shedule Delivery page]", () => {
     for (const addressScenarios of deliveryAddress) {
-      test(`${addressScenarios.title}`, async ({ orderPage, orderUIService, scheduleDeliveryPage }) => {
-        await orderUIService.openOrderById(orderID);
-        await orderPage.openSheduleDeliveryPage();
-        await scheduleDeliveryPage.waitForOpened();
+      test(
+        `${addressScenarios.title}`,
+        { tag: [TEST_TAG.REGRESSION, TEST_TAG.UI, TEST_TAG.POSITIVE, COMPONENT_TAG.ORDERS, COMPONENT_TAG.DELIVERY] },
+        async ({ orderPage, orderUIService, scheduleDeliveryPage }) => {
+          await orderUIService.openOrderById(orderID);
+          await orderPage.openSheduleDeliveryPage();
+          await scheduleDeliveryPage.waitForOpened();
 
-        const deliveryDate = generateDeliveryDate();
-        await scheduleDeliveryPage.fillForm({
-          condition: DELIVERY_CONDITIONS.DELIVERY,
-          address: addressScenarios.address as Partial<IDeliveryAddress>,
-          finalDate: deliveryDate,
-        });
-        await scheduleDeliveryPage.clickSave();
+          const deliveryDate = generateDeliveryDate();
+          await scheduleDeliveryPage.fillForm({
+            condition: DELIVERY_CONDITIONS.DELIVERY,
+            address: addressScenarios.address as Partial<IDeliveryAddress>,
+            finalDate: deliveryDate,
+          });
+          await scheduleDeliveryPage.clickSave();
 
-        await orderPage.clickDeliveryTab();
-        const deliveryAddressFromUI = await orderPage.getDeliveryAddress();
-        console.log(deliveryAddressFromUI);
-        const customerAddress = await orderPage.getCustomerAddress(customer);
-        const modifiedField = addressScenarios.modifiedField as keyof IDeliveryAddress;
+          await orderPage.clickDeliveryTab();
+          const deliveryAddressFromUI = await orderPage.getDeliveryAddress();
+          console.log(deliveryAddressFromUI);
+          const customerAddress = await orderPage.getCustomerAddress(customer);
+          const modifiedField = addressScenarios.modifiedField as keyof IDeliveryAddress;
 
-        expect(customerAddress).not.toEqual(deliveryAddressFromUI);
-        expect(deliveryAddressFromUI[modifiedField]).toEqual(
-          (addressScenarios.address as Partial<IDeliveryAddress>)[modifiedField],
-        );
-      });
+          expect(customerAddress).not.toEqual(deliveryAddressFromUI);
+          expect(deliveryAddressFromUI[modifiedField]).toEqual(
+            (addressScenarios.address as Partial<IDeliveryAddress>)[modifiedField],
+          );
+        },
+      );
     }
   });
 
   // "create pickup in same country as Customer"
 
-  test("Create pickup in same country as Customer", async ({ orderPage, orderUIService, scheduleDeliveryPage }) => {
-    await orderUIService.openOrderById(orderID);
-    await orderPage.openSheduleDeliveryPage();
-    await scheduleDeliveryPage.waitForOpened();
+  test(
+    "Create pickup in same country as Customer",
+    { tag: [TEST_TAG.REGRESSION, TEST_TAG.UI, TEST_TAG.POSITIVE, COMPONENT_TAG.ORDERS, COMPONENT_TAG.DELIVERY] },
+    async ({ orderPage, orderUIService, scheduleDeliveryPage }) => {
+      await orderUIService.openOrderById(orderID);
+      await orderPage.openSheduleDeliveryPage();
+      await scheduleDeliveryPage.waitForOpened();
 
-    const customerAddress = orderPage.getCustomerAddress(customer);
-    await scheduleDeliveryPage.choosePickUpDelivery();
-    await scheduleDeliveryPage.setDeliveryDate();
-    await scheduleDeliveryPage.clickSave();
+      const customerAddress = orderPage.getCustomerAddress(customer);
+      await scheduleDeliveryPage.choosePickUpDelivery();
+      await scheduleDeliveryPage.setDeliveryDate();
+      await scheduleDeliveryPage.clickSave();
 
-    await orderPage.clickDeliveryTab();
-    const pickUpAddressFromUI = await orderPage.getDeliveryAddress();
+      await orderPage.clickDeliveryTab();
+      const pickUpAddressFromUI = await orderPage.getDeliveryAddress();
 
-    expect(customerAddress).not.toEqual(pickUpAddressFromUI);
-    expect(pickUpAddressFromUI.country).toEqual((await customerAddress).country);
-  });
+      expect(customerAddress).not.toEqual(pickUpAddressFromUI);
+      expect(pickUpAddressFromUI.country).toEqual((await customerAddress).country);
+    },
+  );
 
-  test("Create pickup in different country than Customer", async ({
-    orderPage,
-    orderUIService,
-    scheduleDeliveryPage,
-  }) => {
-    await orderUIService.openOrderById(orderID);
-    await orderPage.openSheduleDeliveryPage();
-    await scheduleDeliveryPage.waitForOpened();
+  test(
+    "Create pickup in different country than Customer",
+    { tag: [TEST_TAG.REGRESSION, TEST_TAG.UI, TEST_TAG.POSITIVE, COMPONENT_TAG.ORDERS, COMPONENT_TAG.DELIVERY] },
+    async ({ orderPage, orderUIService, scheduleDeliveryPage }) => {
+      await orderUIService.openOrderById(orderID);
+      await orderPage.openSheduleDeliveryPage();
+      await scheduleDeliveryPage.waitForOpened();
 
-    const pickUpCountry = getRandomEnumValue(COUNTRIES);
-    await scheduleDeliveryPage.choosePickUpDelivery(pickUpCountry);
-    await scheduleDeliveryPage.setDeliveryDate();
-    await scheduleDeliveryPage.clickSave();
+      const pickUpCountry = getRandomEnumValue(COUNTRIES);
+      await scheduleDeliveryPage.choosePickUpDelivery(pickUpCountry);
+      await scheduleDeliveryPage.setDeliveryDate();
+      await scheduleDeliveryPage.clickSave();
 
-    await orderPage.clickDeliveryTab();
-    const pickUpAddressFromUI = await orderPage.getDeliveryAddress();
-    const customerAddress = orderPage.getCustomerAddress(customer);
+      await orderPage.clickDeliveryTab();
+      const pickUpAddressFromUI = await orderPage.getDeliveryAddress();
+      const customerAddress = orderPage.getCustomerAddress(customer);
 
-    expect(customerAddress).not.toEqual(pickUpAddressFromUI);
-    expect(pickUpAddressFromUI.country).toEqual(pickUpCountry);
-  });
+      expect(customerAddress).not.toEqual(pickUpAddressFromUI);
+      expect(pickUpAddressFromUI.country).toEqual(pickUpCountry);
+    },
+  );
 });
