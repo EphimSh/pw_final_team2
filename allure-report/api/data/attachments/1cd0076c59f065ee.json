@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2854",
+    "etag": "W/\"b26-9GTGQ/LP25OdwD/JsYUdoZ0xCCA\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a48eb1c508c5d5ea2bafb",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a48e71c508c5d5ea2ba19",
+        "email": "Ansel91@gmail.com",
+        "name": "aVSFyKHqrmuAnFeLCBkN",
+        "country": "Great Britain",
+        "city": "VMDkIHwsxBPZnJ",
+        "street": "r67EhyyMkMxKRJSgej4xRrQW9Wo89Io8NJ0i7L",
+        "house": 58,
+        "flat": 7,
+        "phone": "+2430106199",
+        "createdOn": "2026-01-04T11:03:03.000Z",
+        "notes": "PltGX7tPb4C8NFxQLVdEOaRhAjnLRqkNzUYd7tDyx8XK9g7pIglbKsXopSjJHzDAvYHVsgHYCRQ1o6pWD7r6iYjrWTVq7I3Xu9uLTZqvAebjyz"
+      },
+      "products": [
+        {
+          "_id": "695a48ea1c508c5d5ea2baeb",
+          "name": "Bike15692",
+          "amount": 929,
+          "price": 27277,
+          "manufacturer": "Samsung",
+          "notes": "WD8WgSFxfdWaWT3RNVjmAHDJiLdUPHvFaPhduhAZ69MXKVxlqEeXL4mrGXlU4uTRA00CaLww7cANaP5aD5E1bMm25FNl8yblofQhOsfC65u2XxKl50yPUEe1LWqpg3FTIM04hvEmb23jZY3OyiHq7HVnpw83ddVUI8o5YDh9KxlM6xAxeYLtc16A0U8UgrHBIWq3uLQeeIxikjnyIaSjveGod0A2yszYYQmwZUpsdmvqAzxHAfhYitlEWC",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Canada",
+          "city": "Mock City Nhh",
+          "street": "MockStreetPQtXXJX0",
+          "house": 105,
+          "flat": 14
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 27277,
+      "createdOn": "2026-01-04T11:03:07.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a48e71c508c5d5ea2ba19",
+          "products": [
+            {
+              "_id": "695a48ea1c508c5d5ea2baeb",
+              "name": "Bike15692",
+              "amount": 929,
+              "price": 27277,
+              "manufacturer": "Samsung",
+              "notes": "WD8WgSFxfdWaWT3RNVjmAHDJiLdUPHvFaPhduhAZ69MXKVxlqEeXL4mrGXlU4uTRA00CaLww7cANaP5aD5E1bMm25FNl8yblofQhOsfC65u2XxKl50yPUEe1LWqpg3FTIM04hvEmb23jZY3OyiHq7HVnpw83ddVUI8o5YDh9KxlM6xAxeYLtc16A0U8UgrHBIWq3uLQeeIxikjnyIaSjveGod0A2yszYYQmwZUpsdmvqAzxHAfhYitlEWC",
+              "received": false
+            }
+          ],
+          "total_price": 27277,
+          "delivery": {
+            "address": {
+              "country": "Canada",
+              "city": "Mock City Nhh",
+              "street": "MockStreetPQtXXJX0",
+              "house": 105,
+              "flat": 14
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-04T11:03:07.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a48e71c508c5d5ea2ba19",
+          "products": [
+            {
+              "_id": "695a48ea1c508c5d5ea2baeb",
+              "name": "Bike15692",
+              "amount": 929,
+              "price": 27277,
+              "manufacturer": "Samsung",
+              "notes": "WD8WgSFxfdWaWT3RNVjmAHDJiLdUPHvFaPhduhAZ69MXKVxlqEeXL4mrGXlU4uTRA00CaLww7cANaP5aD5E1bMm25FNl8yblofQhOsfC65u2XxKl50yPUEe1LWqpg3FTIM04hvEmb23jZY3OyiHq7HVnpw83ddVUI8o5YDh9KxlM6xAxeYLtc16A0U8UgrHBIWq3uLQeeIxikjnyIaSjveGod0A2yszYYQmwZUpsdmvqAzxHAfhYitlEWC",
+              "received": false
+            }
+          ],
+          "total_price": 27277,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:03:07.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

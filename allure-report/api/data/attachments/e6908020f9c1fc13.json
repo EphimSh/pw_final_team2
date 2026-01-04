@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "393",
+    "etag": "W/\"189-a996JuuDdnhdf0HCf7dSLs+GLuE\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kelsie_Dooley-Mante99@yahoo.com",
+      "name": "bYtLHnbIbiLYYuFpmLHcoZJWoHFVi",
+      "country": "Germany",
+      "city": "FWeyNEZooBHWrMSx",
+      "street": "b6wRY8Hm7y4tqLG3rQpfSyB",
+      "house": 45,
+      "flat": 9,
+      "phone": "+3840861942",
+      "createdOn": "2026-01-04T11:01:34.000Z",
+      "notes": "WanP2LJkeqF4gcQv3G2gb4dnidSDBgkTMHsn9p1DGUGfR6ObKxLgMFE",
+      "_id": "695a488e1c508c5d5ea29d5f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:00:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "368",
+    "etag": "W/\"170-FM0WYRxbA1Sdz/Yx2emXghwaLEQ\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Mable.Armstrong@gmail.com",
+      "name": "EUQvkAshPiguPwOssWWoxyLOVCn",
+      "country": "Great Britain",
+      "city": "IrqpQVTfQ",
+      "street": "UUfd",
+      "house": 103,
+      "flat": 3,
+      "phone": "+5634486516",
+      "createdOn": "2026-01-04T11:00:25.000Z",
+      "notes": "u5eDw47YIRjrCKMeNWUzhxKgJKsIFbx9cekGKK3x5oa0cRgc3Al3uzWNf",
+      "_id": "695a48491c508c5d5ea2820b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:00:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "387",
+    "etag": "W/\"183-ZTIsDWTSYaSsfzDzEPideC08rKQ\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ottis13@gmail.com",
+      "name": "nHW",
+      "country": "Germany",
+      "city": "knkwtd",
+      "street": "m86OSvoKl7ecy3bPBt",
+      "house": 93,
+      "flat": 5,
+      "phone": "+0083058110",
+      "createdOn": "2026-01-04T11:00:56.000Z",
+      "notes": "MUmVf5wxml7G2bstC33unuQdCCj5LjpZCsO9psrMRlWJfBEQE9ttor2ziieiMVEWDAHKqoXueB0Y2E6XPA8UNPMNy03TtYTs0phaFClI",
+      "_id": "695a48681c508c5d5ea28c9c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

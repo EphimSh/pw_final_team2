@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "470",
+    "etag": "W/\"1d6-pgzmJNtardOoEPsifVUojsXZMf0\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "695a48c81c508c5d5ea2b000",
+      "email": "Grover_Grady@hotmail.com",
+      "name": "Ivan Ivanov",
+      "country": "Ukraine",
+      "city": "pleFouGfPlw",
+      "street": "95UGgQiSV9j",
+      "house": 174,
+      "flat": 7,
+      "phone": "+8818800957",
+      "createdOn": "2026-01-04T11:02:32.000Z",
+      "notes": "smNsnP6f9IDeE2wH8Xp5LLnvyN3BOtRValKJ5ilGsCApbaHe7VFMrbRSXgqwMwyL7cYbJFMBsrORzPY73JR6Epl8WWIsdSZvD8irkpTpUraAeeInf59pidTuMU1jvhVrH0F2A60jdIUaGkxnuNFZToXbJRzH8TglMhr0nOpzmYLKx"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

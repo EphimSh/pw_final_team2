@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:04:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-FZrlLErXCrSCN+vuA5rfljOCWac\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy A5547466",
+      "amount": 658,
+      "price": 800,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T11:04:23.000Z",
+      "notes": "ikWDFErLYVUzBX5fcsPnX5OZtjnkwQN6GFGcaYZo8Mf99sn3iZgPOwdeB5Pj63FjGowVmYlzq2uOMLkYBJ8Xt9ypofBMOUvHjayD0Z9qSBEGQnWad3YUpmaHd7Op6IUmFuNuwTSxZ3NT4xpBEnqVcIyezYgYy2HLR6bFhcc5sqMqj4dxJv7ESPXO4W1vMXDthKlpcmjiKJUOyqtnxdtvCIU6t3JakPl1UVNVNLwU8GfY2LQ7SNF971kxKI",
+      "_id": "695a49371c508c5d5ea2ced5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

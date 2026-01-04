@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "441",
+    "etag": "W/\"1b9-yCsIzvQU5hMVr+QyrA2ZTxbuElA\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Hailie_Bednar@yahoo.com",
+      "name": "zXj",
+      "country": "Great Britain",
+      "city": "GeNbqwsgR",
+      "street": "L5BwzK7F1QyCVaCNimyaC",
+      "house": 180,
+      "flat": 1,
+      "phone": "+0441891687",
+      "createdOn": "2026-01-04T11:01:18.000Z",
+      "notes": "rusT5WIzjeNeUIftRrhyEzRDidzAzvG5nwkpFPS1w7Wmvxkge3PocTHdEDsN3lhSNTiAfeuTtcpoRS8PPNA8m9jpI7IbRolTuCwaUsDExXiOS5Ck2fQfFHIxUynWmU9nZx12eThmlon",
+      "_id": "695a487e1c508c5d5ea2954a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

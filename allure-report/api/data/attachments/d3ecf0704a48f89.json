@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-EzC+Z4zMQRfxEbj4CTnHxnwZ3O8\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken39401",
+      "amount": 234,
+      "price": 58635,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T11:01:18.000Z",
+      "notes": "CMHXnMBZCMrwPmw4kLPeUFwWRRp6nzu5UmKciqkxzvM2L70fdVb3Y59CjXX4DBhg2XDju7RuntJvJb6ghxPTfty4IMDtwePJXgO1Rn7F0eY68dl93GeP77nmeYPCLcEb6UwX3gEqPQu2hM3YiA769yZfoFyccQctRAgYsDPCBB4HVTctocP6r0sFIIDgDo8Oqv6PIbLrMwbx2srQlxVQlvXCclBGPEAMDhf7FDgGUexhVGwqflCPZoQ4Ib",
+      "_id": "695a487e1c508c5d5ea2956e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

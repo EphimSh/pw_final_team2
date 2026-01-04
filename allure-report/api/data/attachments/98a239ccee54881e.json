@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-1FDVPnqam/1/d1BWyneoZ+6WLIs\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car7309",
+      "amount": 533,
+      "price": 81748,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T11:03:30.000Z",
+      "notes": "7kuRgvYYUrs413KYhDk5ypStQ3Vq9AsWFYrp2ogbIOmS3FISlMEX569iSzViLw0b73YgGqlNusHxIKK87Atvs8HRuF9Puo4gomEAneLnWa1hJOMM6pLtdmkCaVb8xbG73JJkLwefCxKCCvz5fdR1iUGonm5CNEKogxFCZB99z3RB09ZvqOUOPKZgWuKfzRDoxy9FPmEdCoJJkoNin0Lj1skubrm61T4iV6NFrZSGBzC2MxDpLPHKqlGvbu",
+      "_id": "695a49021c508c5d5ea2c161"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

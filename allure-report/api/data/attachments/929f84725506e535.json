@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:00:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "541",
+    "etag": "W/\"21d-z4aB/WEg8fwWoLCKH+psNdRl/SE\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Aracely.Leannon64@hotmail.com",
+      "name": "OQkrpzcLxrnCzGNjYCjMtLTMKFyiGob",
+      "country": "Germany",
+      "city": "pMHZtetyNVDEmltDa",
+      "street": "JkQ4K7LO3ImUo7DcRZKBzX867LA",
+      "house": 55,
+      "flat": 8,
+      "phone": "+6856380793",
+      "createdOn": "2026-01-04T11:00:26.000Z",
+      "notes": "6LRTXGifCtnrtzE7Hcl1fLYJ1DZXQVLD1teDpjtLY3xuOZwrkfjjO2WfN6OxpndYRivUYRS58NFUNcME6vEX1hY9BC04mR5gm15WOfYQvo5YixrSuPuHLdriZWKu87fdT5MhuM2PtELfBeP7IL7ymNGVC8tQKeVwubssinZY9jbLj0lgqQhndq2zaiANm6qMsOjeFU",
+      "_id": "695a484a1c508c5d5ea282bd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

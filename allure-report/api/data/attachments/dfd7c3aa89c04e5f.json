@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:04:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "473",
+    "etag": "W/\"1d9-JQuY4pkmlbW3+sryVfc/HZcIjRY\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Microsoft Surface Duo 35081",
+      "amount": 254,
+      "price": 2200,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T11:04:34.000Z",
+      "notes": "AuZqKwdTAYODH1VYdeVhJi5us9JpNn8rHzx92S4YXItvthwwDqTGjvGByNO6q72d1WmLep6GVPtjhx8ar3czreuDKzYDsIu0rSwd7jkRF3zcVZ2KJfpby949Cjo3hsCPwB0cDGObKkaaOKSYf9vFwOByCmGVLlYV8NVtCj2h46B2AICcP54lzAObV59qk4pekormpy7HQaYrIYMpRdQR9jtvy4DAAXQL498ghC61EOoT2Neq0y1wQXECNj",
+      "_id": "695a49421c508c5d5ea2d069"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

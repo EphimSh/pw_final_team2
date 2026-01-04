@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "364",
+    "etag": "W/\"16c-632TgcuZ0saKhbWnGuZCp/VTdmQ\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Richard.Crooks31@yahoo.com",
+      "name": "YlXXxqVLJpyhCHAzmfbaHWDMBDDhIcCb",
+      "country": "Belarus",
+      "city": "djfTRcwOUbvKdKDCMeM",
+      "street": "A8l4",
+      "house": 151,
+      "flat": 4,
+      "phone": "+6642535249",
+      "createdOn": "2026-01-04T11:03:27.000Z",
+      "notes": "GdmW9KjDnWt1FAexAMrl11Ej9hKIhDw2Y1D3hnoAhxl",
+      "_id": "695a48ff1c508c5d5ea2c105"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

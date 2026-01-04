@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1878",
+    "etag": "W/\"756-i8tCsp2ScgJSU3GC8bjqu57TG5E\"",
+    "keep-alive": "timeout=5, max=78",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "695a487d1c508c5d5ea2952a",
+        "email": "Otha_Feil76@gmail.com",
+        "name": "yTvOGIExLkDunaHuUnlANeouEeWHfLoaMAHmznLD",
+        "country": "Belarus",
+        "city": "fhmYIyaIlBkqJxFow",
+        "street": "RCD",
+        "house": 105,
+        "flat": 6,
+        "phone": "+9635975710",
+        "createdOn": "2026-01-04T11:01:17.000Z",
+        "notes": "YNf6nXPsRJRNY2h1tCiK0QiPt6yfo5RboLhVaWa85V3regI3tugIiloOiPYAdOay4cN9cjX8SXbo8UpCvieLEXnEUPYn0MUDTqrQbgA1XqeaVCczRPNSu0zEoHaCie5AHSSYW0I6FT9NPpOaEmzA3XgbsxPK2iPXcIbnuvIbTX7xPzqX2ecsbRPfGlJ7OqCBymGK3FTtpB62p18A1I6TqaUj26Jta"
+      },
+      "products": [
+        {
+          "_id": "695a48801c508c5d5ea29614",
+          "name": "Keyboard69818",
+          "amount": 389,
+          "price": 62537,
+          "manufacturer": "Amazon",
+          "notes": "6qpIZoPXZ3wVow7Kf8IaphTkOIJ4KdUZTVokCmTMPpOTEAHZcsXs1wIXiizPaV6ZLUnyLTumSOv032BI6Nb2Z0G409Iqk15cN09HpAtAuNpW6L7iEpsijw0UgBF2iIjzKnBPj4Ex5sXTN2VTRYOwbpAsRmny2sUE5qbLb537ENdg9Y1leIPiV3HdDlP5Bie3hw68XdYHnKOBiMzNNgUUmK9E4iSJYMXi5kKlbRwtD8I9sLhafjLLTazL2t",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 62537,
+      "createdOn": "2026-01-04T11:01:20.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a487d1c508c5d5ea2952a",
+          "products": [
+            {
+              "_id": "695a48801c508c5d5ea29614",
+              "name": "Keyboard69818",
+              "amount": 389,
+              "price": 62537,
+              "manufacturer": "Amazon",
+              "notes": "6qpIZoPXZ3wVow7Kf8IaphTkOIJ4KdUZTVokCmTMPpOTEAHZcsXs1wIXiizPaV6ZLUnyLTumSOv032BI6Nb2Z0G409Iqk15cN09HpAtAuNpW6L7iEpsijw0UgBF2iIjzKnBPj4Ex5sXTN2VTRYOwbpAsRmny2sUE5qbLb537ENdg9Y1leIPiV3HdDlP5Bie3hw68XdYHnKOBiMzNNgUUmK9E4iSJYMXi5kKlbRwtD8I9sLhafjLLTazL2t",
+              "received": false
+            }
+          ],
+          "total_price": 62537,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:01:20.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695a48801c508c5d5ea29628"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

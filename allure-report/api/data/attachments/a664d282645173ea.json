@@ -1,0 +1,173 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3895",
+    "etag": "W/\"f37-XuHdfjV6jn/8CW7CgbmuKN3aNjo\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a49101c508c5d5ea2c541",
+      "status": "Canceled",
+      "customer": {
+        "_id": "695a490d1c508c5d5ea2c49d",
+        "email": "Mitchell.Schneider78@hotmail.com",
+        "name": "hJNBZQjgSIwquTxIgODqZwXLAIAZpzfLxLP",
+        "country": "USA",
+        "city": "Kz",
+        "street": "5YlzVaHODY7JSMbvKCEHsmA",
+        "house": 194,
+        "flat": 5,
+        "phone": "+3698529684",
+        "createdOn": "2026-01-04T11:03:41.000Z",
+        "notes": "hFVJQm87yvh4SpV7KDj40iTVYBkm7wB4YseQMMfn1ie3XItBZHmLi4RQRocF7CxTYhobq9pQk6OEe9sVx3FDgc4MJqXMgjWOKQKm1KarskREznmCjGj1g1SMIy6sF0UwdvLGidYLc505IaJDtRCX7NcAQxmPUZyUQetTpWD0eGgFF4pNPLtajQDUKAegYZkoruR2X4g6XLhpNSLV7YvaftMdVeX1FuwhAEQqav0O07GAP"
+      },
+      "products": [
+        {
+          "_id": "695a49101c508c5d5ea2c530",
+          "name": "Hat85675",
+          "amount": 828,
+          "price": 84255,
+          "manufacturer": "Microsoft",
+          "notes": "IAKeBeEClOJB4LHCTLQrLKWkWLBrNgYVV5PqO6UyTUWJknWjH5ZW4wdo30EyJSdDzpr2QblU1SJXjX1x2rtFuxWB3TXrjhF3brpK0TgTFKqu9u6DQOAGxrMGJWVs2BCqcuECM2pdg0ynUNG5S5cv3YRVpgCtZnWldbaFdzBwRB1FAQ2nPnR08S58XqLprw1txQ6fWpE2tDBezgSSlRdbLoyk1vgP3lGib8ISmnFGP8zZhtqJy18Ip8M3tj",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Belarus",
+          "city": "Mock City DogKPduDZ",
+          "street": "MockStreetzv",
+          "house": 11,
+          "flat": 3
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 84255,
+      "createdOn": "2026-01-04T11:03:44.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Canceled",
+          "customer": "695a490d1c508c5d5ea2c49d",
+          "products": [
+            {
+              "_id": "695a49101c508c5d5ea2c530",
+              "name": "Hat85675",
+              "amount": 828,
+              "price": 84255,
+              "manufacturer": "Microsoft",
+              "notes": "IAKeBeEClOJB4LHCTLQrLKWkWLBrNgYVV5PqO6UyTUWJknWjH5ZW4wdo30EyJSdDzpr2QblU1SJXjX1x2rtFuxWB3TXrjhF3brpK0TgTFKqu9u6DQOAGxrMGJWVs2BCqcuECM2pdg0ynUNG5S5cv3YRVpgCtZnWldbaFdzBwRB1FAQ2nPnR08S58XqLprw1txQ6fWpE2tDBezgSSlRdbLoyk1vgP3lGib8ISmnFGP8zZhtqJy18Ip8M3tj",
+              "received": false
+            }
+          ],
+          "total_price": 84255,
+          "delivery": {
+            "address": {
+              "country": "Belarus",
+              "city": "Mock City DogKPduDZ",
+              "street": "MockStreetzv",
+              "house": 11,
+              "flat": 3
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-04T11:03:45.000Z",
+          "action": "Order canceled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a490d1c508c5d5ea2c49d",
+          "products": [
+            {
+              "_id": "695a49101c508c5d5ea2c530",
+              "name": "Hat85675",
+              "amount": 828,
+              "price": 84255,
+              "manufacturer": "Microsoft",
+              "notes": "IAKeBeEClOJB4LHCTLQrLKWkWLBrNgYVV5PqO6UyTUWJknWjH5ZW4wdo30EyJSdDzpr2QblU1SJXjX1x2rtFuxWB3TXrjhF3brpK0TgTFKqu9u6DQOAGxrMGJWVs2BCqcuECM2pdg0ynUNG5S5cv3YRVpgCtZnWldbaFdzBwRB1FAQ2nPnR08S58XqLprw1txQ6fWpE2tDBezgSSlRdbLoyk1vgP3lGib8ISmnFGP8zZhtqJy18Ip8M3tj",
+              "received": false
+            }
+          ],
+          "total_price": 84255,
+          "delivery": {
+            "address": {
+              "country": "Belarus",
+              "city": "Mock City DogKPduDZ",
+              "street": "MockStreetzv",
+              "house": 11,
+              "flat": 3
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-04T11:03:45.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a490d1c508c5d5ea2c49d",
+          "products": [
+            {
+              "_id": "695a49101c508c5d5ea2c530",
+              "name": "Hat85675",
+              "amount": 828,
+              "price": 84255,
+              "manufacturer": "Microsoft",
+              "notes": "IAKeBeEClOJB4LHCTLQrLKWkWLBrNgYVV5PqO6UyTUWJknWjH5ZW4wdo30EyJSdDzpr2QblU1SJXjX1x2rtFuxWB3TXrjhF3brpK0TgTFKqu9u6DQOAGxrMGJWVs2BCqcuECM2pdg0ynUNG5S5cv3YRVpgCtZnWldbaFdzBwRB1FAQ2nPnR08S58XqLprw1txQ6fWpE2tDBezgSSlRdbLoyk1vgP3lGib8ISmnFGP8zZhtqJy18Ip8M3tj",
+              "received": false
+            }
+          ],
+          "total_price": 84255,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:03:44.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

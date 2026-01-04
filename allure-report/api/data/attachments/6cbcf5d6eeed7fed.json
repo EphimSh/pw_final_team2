@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:00:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "311",
+    "etag": "W/\"137-O50rqB7chNuDar2V3T46jYdLdv4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Piper72@yahoo.com",
+      "name": "hJhCLo",
+      "country": "Canada",
+      "city": "zeALyPMadDD",
+      "street": "PIkqjSA2AeDnUdt5EOTer5u",
+      "house": 61,
+      "flat": 2,
+      "phone": "+4877429560",
+      "createdOn": "2026-01-04T11:00:20.000Z",
+      "notes": "dCej8KUYljgDTtdF",
+      "_id": "695a48441c508c5d5ea2805c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

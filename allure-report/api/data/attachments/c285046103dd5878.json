@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "532",
+    "etag": "W/\"214-M6ceweT/ERghKew1WmDjJ5a3waQ\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Elisha.Kozey57@yahoo.com",
+      "name": "RXacKBKLxsMXSCHxcilyymaRUxMH",
+      "country": "USA",
+      "city": "tFnXhsFlxyLpqd",
+      "street": "euKI",
+      "house": 45,
+      "flat": 9,
+      "phone": "+4646382419",
+      "createdOn": "2026-01-04T11:03:34.000Z",
+      "notes": "qInfvALTPugsgmAm2fQWbdELjvBPpboBFEkQfA34yruaayPF6HSmXhS2I1uuhr2kF59PocwBFXULFKf7AP0Gh4uPGOIb0gP1XGehXBUdthFYkRSxjzzuL9RvB8kIjysfE482pT7bkAViQkOSztV63T0NqXJx4kG2KS9CUcYaFgc5KjownHTd75OGvoTZw48BKsZ8PxyUXU1cjSMrRNPbiRu7E2GsTKWaI5x",
+      "_id": "695a49061c508c5d5ea2c264"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-Oq09qpstd5nDsVod9qTarv5PSYY\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike81360",
+      "amount": 921,
+      "price": 1639,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T11:01:10.000Z",
+      "notes": "dT4bPH22598Di407arBX3cvTV7nqy9b0Atj0HiqhzzbPyjsGijLzwbz8KsxcjqNNcjWYmjzrYDjdgVqpNY2sdhKoWPOshYy73zIle0bw6ymPpsv5a2BHGtKlUCG4KDsZORMlTyZZdHbvc4tHCXvyHdns1yZoqbxMGRte89mqug6vzrWCMY388YKIt6OogOjx7XHnLo6gebt6X5gF0paaKVMqsQLruOpNHDpYPuOuBNFvHDrA3ibp735YLg",
+      "_id": "695a48761c508c5d5ea2930a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

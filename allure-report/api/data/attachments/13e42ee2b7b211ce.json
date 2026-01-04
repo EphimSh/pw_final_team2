@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-iVoc9YMmUIsW9Xt+dysrTDcsRto\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table52037",
+      "amount": 236,
+      "price": 75964,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T11:02:37.000Z",
+      "notes": "K8ArKfqmjWHPUXyjGDTTyG8WELR1Tec6rHgRdU2EAzHTMmuwPGKU6tgGy7mMFJuAeNtb3hClPM0hihhf73yQuwNbI7KqxlC7NgOrlWfB8GytdMN9eqTqfDkIPcT1sMoH1rMwDVSpgmrhpHt5VCcka4uA2sTP5STxBzFAYVMQtACIi0mEuVsizkIq8YoaTi7fHh0bPEfwaP4mNRAsqGDv0X9oA5lX8ulft54UhPpLv3frj5YyxckatIRUQC",
+      "_id": "695a48cd1c508c5d5ea2b174"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

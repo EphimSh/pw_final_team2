@@ -1,0 +1,173 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3716",
+    "etag": "W/\"e84-RSZwKJ7A0ia/mDd7kLaUaivPUNI\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a48ff1c508c5d5ea2c110",
+      "status": "In Process",
+      "customer": {
+        "_id": "695a48ff1c508c5d5ea2c105",
+        "email": "Richard.Crooks31@yahoo.com",
+        "name": "YlXXxqVLJpyhCHAzmfbaHWDMBDDhIcCb",
+        "country": "Belarus",
+        "city": "djfTRcwOUbvKdKDCMeM",
+        "street": "A8l4",
+        "house": 151,
+        "flat": 4,
+        "phone": "+6642535249",
+        "createdOn": "2026-01-04T11:03:27.000Z",
+        "notes": "GdmW9KjDnWt1FAexAMrl11Ej9hKIhDw2Y1D3hnoAhxl"
+      },
+      "products": [
+        {
+          "_id": "695a48fb1c508c5d5ea2bfcd",
+          "name": "Shirt74015",
+          "amount": 816,
+          "price": 51524,
+          "manufacturer": "Xiaomi",
+          "notes": "xNFUcLhZd2AFlNwoxob3xUy3xdZI7h4BICchd0bJOCtzXiPc8M3f6nSX6HfT1Fi67mLjzjT9NMV8YDv9esACGv0dHVutcnovrfZ5FSUGVrsJnqDjm5XkpcTUw7KxAkvdcJOwmR8eTm1poZeuYIQ4mXPX8pPSg9avxMRTwggZZZDEoAdiHnPqruJVctyYduyQidsA1n7HUgxmXJJYqRkGmjn2DWphu0a0GO9pp4dgP9ATtWY7wY00w6oT6a",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Russia",
+          "city": "Mock City YHn",
+          "street": "MockStreetCB1ReKT5WXs",
+          "house": 70,
+          "flat": 7
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 51524,
+      "createdOn": "2026-01-04T11:03:27.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "In Process",
+          "customer": "695a48ff1c508c5d5ea2c105",
+          "products": [
+            {
+              "_id": "695a48fb1c508c5d5ea2bfcd",
+              "name": "Shirt74015",
+              "amount": 816,
+              "price": 51524,
+              "manufacturer": "Xiaomi",
+              "notes": "xNFUcLhZd2AFlNwoxob3xUy3xdZI7h4BICchd0bJOCtzXiPc8M3f6nSX6HfT1Fi67mLjzjT9NMV8YDv9esACGv0dHVutcnovrfZ5FSUGVrsJnqDjm5XkpcTUw7KxAkvdcJOwmR8eTm1poZeuYIQ4mXPX8pPSg9avxMRTwggZZZDEoAdiHnPqruJVctyYduyQidsA1n7HUgxmXJJYqRkGmjn2DWphu0a0GO9pp4dgP9ATtWY7wY00w6oT6a",
+              "received": false
+            }
+          ],
+          "total_price": 51524,
+          "delivery": {
+            "address": {
+              "country": "Russia",
+              "city": "Mock City YHn",
+              "street": "MockStreetCB1ReKT5WXs",
+              "house": 70,
+              "flat": 7
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T11:03:28.000Z",
+          "action": "Order processing started",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a48ff1c508c5d5ea2c105",
+          "products": [
+            {
+              "_id": "695a48fb1c508c5d5ea2bfcd",
+              "name": "Shirt74015",
+              "amount": 816,
+              "price": 51524,
+              "manufacturer": "Xiaomi",
+              "notes": "xNFUcLhZd2AFlNwoxob3xUy3xdZI7h4BICchd0bJOCtzXiPc8M3f6nSX6HfT1Fi67mLjzjT9NMV8YDv9esACGv0dHVutcnovrfZ5FSUGVrsJnqDjm5XkpcTUw7KxAkvdcJOwmR8eTm1poZeuYIQ4mXPX8pPSg9avxMRTwggZZZDEoAdiHnPqruJVctyYduyQidsA1n7HUgxmXJJYqRkGmjn2DWphu0a0GO9pp4dgP9ATtWY7wY00w6oT6a",
+              "received": false
+            }
+          ],
+          "total_price": 51524,
+          "delivery": {
+            "address": {
+              "country": "Russia",
+              "city": "Mock City YHn",
+              "street": "MockStreetCB1ReKT5WXs",
+              "house": 70,
+              "flat": 7
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T11:03:28.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a48ff1c508c5d5ea2c105",
+          "products": [
+            {
+              "_id": "695a48fb1c508c5d5ea2bfcd",
+              "name": "Shirt74015",
+              "amount": 816,
+              "price": 51524,
+              "manufacturer": "Xiaomi",
+              "notes": "xNFUcLhZd2AFlNwoxob3xUy3xdZI7h4BICchd0bJOCtzXiPc8M3f6nSX6HfT1Fi67mLjzjT9NMV8YDv9esACGv0dHVutcnovrfZ5FSUGVrsJnqDjm5XkpcTUw7KxAkvdcJOwmR8eTm1poZeuYIQ4mXPX8pPSg9avxMRTwggZZZDEoAdiHnPqruJVctyYduyQidsA1n7HUgxmXJJYqRkGmjn2DWphu0a0GO9pp4dgP9ATtWY7wY00w6oT6a",
+              "received": false
+            }
+          ],
+          "total_price": 51524,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:03:27.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

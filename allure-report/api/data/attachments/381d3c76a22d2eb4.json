@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "565",
+    "etag": "W/\"235-aQz+jGAWKmLwqbp/sH4s/BcXkFE\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Mitchell.Schneider78@hotmail.com",
+      "name": "hJNBZQjgSIwquTxIgODqZwXLAIAZpzfLxLP",
+      "country": "USA",
+      "city": "Kz",
+      "street": "5YlzVaHODY7JSMbvKCEHsmA",
+      "house": 194,
+      "flat": 5,
+      "phone": "+3698529684",
+      "createdOn": "2026-01-04T11:03:41.000Z",
+      "notes": "hFVJQm87yvh4SpV7KDj40iTVYBkm7wB4YseQMMfn1ie3XItBZHmLi4RQRocF7CxTYhobq9pQk6OEe9sVx3FDgc4MJqXMgjWOKQKm1KarskREznmCjGj1g1SMIy6sF0UwdvLGidYLc505IaJDtRCX7NcAQxmPUZyUQetTpWD0eGgFF4pNPLtajQDUKAegYZkoruR2X4g6XLhpNSLV7YvaftMdVeX1FuwhAEQqav0O07GAP",
+      "_id": "695a490d1c508c5d5ea2c49d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

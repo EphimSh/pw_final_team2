@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "502",
+    "etag": "W/\"1f6-2gIVQR1oyl5KZSosTrnOqIvQGGA\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Federico56@hotmail.com",
+      "name": "qUVfzuwDlkDFMUFsaqkbsjQUj",
+      "country": "Russia",
+      "city": "dgQOyePIVDSaa",
+      "street": "BreYTFuD31XR4lqXT9JFotcBEqKshC",
+      "house": 104,
+      "flat": 7,
+      "phone": "+5737215862",
+      "createdOn": "2026-01-04T11:03:23.000Z",
+      "notes": "1i68lYYo8m9icnu3TmmEQ3q7mYz9PTpaMpUWTzNectbMWIIjQPG8boj5iKFrPMr6KfW3VpeQriycXDlNlyx5WllS9eyic1diT04bi2yOIm90vrbmV3MNilazXieDByLeOdKwoUvd9UnEn4VSqRplu0h0sY5RMzlbyOjeYxDX1Suym",
+      "_id": "695a48fb1c508c5d5ea2bfbc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

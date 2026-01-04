@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "547",
+    "etag": "W/\"223-r2JocDK2KfIVjb8KqbnZ/pJIhcI\"",
+    "keep-alive": "timeout=5, max=72",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Yasmin.Kassulke-Kshlerin89@yahoo.com",
+      "name": "ZUd",
+      "country": "France",
+      "city": "FyxqAJqRODXtEmOCXmH",
+      "street": "UXyk18UtOYBM6N49L",
+      "house": 157,
+      "flat": 4,
+      "phone": "+4049791732",
+      "createdOn": "2026-01-04T11:03:32.000Z",
+      "notes": "JIkMeJ3yyBkVNowfgMGAzZt0H9ELnzoIQRLbXDDDjJeMna1C8CrADDmwCpo4BugyeJVGuyWV7GQtMspRGjSV1j5iUi4Bh9mNIZrSPVtV5l7nsaBP0tl3ok3UWTHThYKpUI0nra12XpdrTXcgj9TyF8Mp35dmVOvMAkcdW0rOt9FpgpZjsmJk2tV9pesGlj38FgA1qNYD54ZgPxl5G3MhR0uARGJ3WtaEBKGYigN5f",
+      "_id": "695a49041c508c5d5ea2c1dc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

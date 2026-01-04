@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:00:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "476",
+    "etag": "W/\"1dc-upGP+yB1Pu1PDnGMmCw1gzXUJ0s\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Elijah.Vandervort60@hotmail.com",
+      "name": "JjZOSDucpRthXdavDaDRjCmzRtWnnVn",
+      "country": "Canada",
+      "city": "rPH",
+      "street": "rFluJKPCJxU80GLz9",
+      "house": 80,
+      "flat": 1,
+      "phone": "+7142431538",
+      "createdOn": "2026-01-04T11:00:41.000Z",
+      "notes": "UHwfnlj5MmTQMKdC2Z2HX3w9QZspps3tnGjUwC2jKKZy7LEelykhjCqUsXrc5gJQBatPGz6OwZMDsX1dOIgcn8jz1noW4GQk5zRTHVPdKMw6DEhHV0m5pzFFL8DJqZRfnoVoIL9wYGuU95mtIpsDNKTVmbmc",
+      "_id": "695a48591c508c5d5ea2879e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

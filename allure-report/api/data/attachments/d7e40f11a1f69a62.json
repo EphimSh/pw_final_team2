@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "367",
+    "etag": "W/\"16f-HuBcV6m/hyOG0CnEMKzf0TV6Kds\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Green_Sporer96@hotmail.com",
+      "name": "jcTXpofppgXhtU",
+      "country": "USA",
+      "city": "aOf",
+      "street": "W6jzX7ueMXA9p2cgO",
+      "house": 14,
+      "flat": 8,
+      "phone": "+8038004399",
+      "createdOn": "2026-01-04T11:02:45.000Z",
+      "notes": "YoYfRNnD7NVORBSv4kGYJljcIumn2zt2OmLWHdoTtci1xCRp2Beih2Jt01pnV4WLX8gZc6Am",
+      "_id": "695a48d51c508c5d5ea2b4ff"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

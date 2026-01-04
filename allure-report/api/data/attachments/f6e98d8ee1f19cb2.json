@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "444",
+    "etag": "W/\"1bc-ZcuJL5cfN/IN/RjxurG062VnzyM\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Antonia_Watsica96@gmail.com",
+      "name": "XrrmIAuNQd",
+      "country": "Ukraine",
+      "city": "WInzeYcacZnshUKm",
+      "street": "JVy35G",
+      "house": 88,
+      "flat": 7,
+      "phone": "+8542125997",
+      "createdOn": "2026-01-04T11:03:24.000Z",
+      "notes": "B83WFAZbfptUa7fwgX2iQnHYPnu1UVa8oZS32MNVXUGFsWdfGnx0eYJAxnQWRYw4I5hii27NF7v6tD49xawEN1T3ZxWcVHpYSrrpxWxBr3tZuaICrXmImjTrtJxrfiC43nJyctFUIpiVSi8kml",
+      "_id": "695a48fc1c508c5d5ea2bfee"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

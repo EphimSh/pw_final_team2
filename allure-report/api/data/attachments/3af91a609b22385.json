@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:04:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-we8xJSohng2Tq+nW0hgKy0MI+bs\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard18898",
+      "amount": 536,
+      "price": 77828,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T11:04:59.000Z",
+      "notes": "GI4UTEG8ARiWaQsqXYU2xKJQf3dFCbJYYMHYqhL2G4DM5W9pTFDaQ7X6cnOWmIqlHq87yYMgALA0Yjs9aLg0QpNg3G5m4kzL5Qgv4yw5dwaI2ushPVKN0JyW3dKLeWrgB3tO5md3XGlbc339cWYgnVOtdwz4ILRWjIYWaF48Ty8HhsdlBzBkiROQv1CFA5LyoioVB85aNnnvj4DznooEkDR3CWjvpWT6mr5x8ulRETYvCjc8RpUxSC8nDc",
+      "_id": "695a495b1c508c5d5ea2d9cd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

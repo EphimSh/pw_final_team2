@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "548",
+    "etag": "W/\"224-jyQItkKiOva5bCKMV6r6j4nOr6c\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Providenci.Schamberger57@yahoo.com",
+      "name": "XaglSCTbcxcYUUBEyYyMgnNarRuqlbuC",
+      "country": "France",
+      "city": "L",
+      "street": "eGaXAq6WFh5Tf5e5gHNRsPsLBxHVvE2XmkP7",
+      "house": 185,
+      "flat": 6,
+      "phone": "+6423140288",
+      "createdOn": "2026-01-04T11:02:42.000Z",
+      "notes": "6mP0YEudXyLtY89QiBENFeEsCWgWTbvGcDbafUWvHD67v4zejEiMXAB10Qgwe3e7oOmI1WRz9tD1nkJ0QbMlcsYdsiNqQX0EiWTrMejkT1E70pp99kOWBMg3qx0t9ZwMdY4uuc8iORujdPpLJicUkEopjG7KF498GZvAVKrsV3YkwNHCXS0dWlOpKb4GrmBzUKsLiQSyQInlwR",
+      "_id": "695a48d21c508c5d5ea2b3bd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

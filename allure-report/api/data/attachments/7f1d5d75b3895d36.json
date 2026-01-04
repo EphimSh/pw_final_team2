@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-LpotqfVJLE0pIxgSKi5rW12hQDI\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike15692",
+      "amount": 929,
+      "price": 27277,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T11:03:06.000Z",
+      "notes": "WD8WgSFxfdWaWT3RNVjmAHDJiLdUPHvFaPhduhAZ69MXKVxlqEeXL4mrGXlU4uTRA00CaLww7cANaP5aD5E1bMm25FNl8yblofQhOsfC65u2XxKl50yPUEe1LWqpg3FTIM04hvEmb23jZY3OyiHq7HVnpw83ddVUI8o5YDh9KxlM6xAxeYLtc16A0U8UgrHBIWq3uLQeeIxikjnyIaSjveGod0A2yszYYQmwZUpsdmvqAzxHAfhYitlEWC",
+      "_id": "695a48ea1c508c5d5ea2baeb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

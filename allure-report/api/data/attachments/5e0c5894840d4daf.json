@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "408",
+    "etag": "W/\"198-FhGfcs/PZPpNguId5o/uLUUoSlM\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Lisa.Oberbrunner62@gmail.com",
+      "name": "LbLiRyVkB",
+      "country": "France",
+      "city": "PCuccQdZNvTJM",
+      "street": "yKdrzQo2iYtCt7xAQS3KlyE8PezWf5NR7LhYY",
+      "house": 129,
+      "flat": 9,
+      "phone": "+9690991924",
+      "createdOn": "2026-01-04T11:03:10.000Z",
+      "notes": "JF0GFiDX5gRMJQL6CsGCVmHzNodcBIvl2MRvFsZR9V3UkmPZ8DopEJo94hJ6EesFCpO8m78qtu0sUtVCmW",
+      "_id": "695a48ee1c508c5d5ea2bc39"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

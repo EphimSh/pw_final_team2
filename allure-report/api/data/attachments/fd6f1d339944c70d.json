@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "515",
+    "etag": "W/\"203-GP2Yn6ngPLzciPmlGsNsySSOC1Y\"",
+    "keep-alive": "timeout=5, max=64",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Bridgette.Rice39@yahoo.com",
+      "name": "jzyoWLBfSbWjkhrlGMSjnMnFAHOc",
+      "country": "Great Britain",
+      "city": "lawhJJLElgVCLPGTF",
+      "street": "GfYQoByazlxTMMfB0oHIEHrynahtsN31WH",
+      "house": 114,
+      "flat": 1,
+      "phone": "+5550564473",
+      "createdOn": "2026-01-04T11:01:06.000Z",
+      "notes": "4tEabdv48ElIIr7Hw6YBA69fr8WUp2Hyv2fT42N1ARJq5sHCaDGNlPV75RoeeDqhlcSjlic65ykYvRYaQqZbI0WQnDnecv12LkH8IscLfC1cENUekQ7o4OQGIxBWKvj9hRSq5MexD1gEb5aeMeSXo78qqU07mmXcr84A",
+      "_id": "695a48721c508c5d5ea291a0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

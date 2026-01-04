@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-oEZWOFcPta93PGLpWsN30xOGddY\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer15349",
+      "amount": 595,
+      "price": 22589,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T11:02:45.000Z",
+      "notes": "UJEkH9JAbC62j2D5I4cWjstlKE9J03mercZ1m4YiD1ZhthDl0m9gQSHRfVeEfcedVO0KKkm8W8hO0ydm4qia8eZfkNfZg2UxLOd1KbmkhP4JhQBhUg4ZU2NoT55qGbNDqVyzQhmEhCOcBvR3BEoSs9Sc66p3ZXsNNELH28o91Y1Lt1iOnZH8gNghn0LSBN7YHlTyyxQSjQwDgAPO1VsJDZzc2ILr132sU8GOvcqW0Q78kUcaWg9zTGshEG",
+      "_id": "695a48d51c508c5d5ea2b4f1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

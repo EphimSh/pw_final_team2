@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:04:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-biumsZbOxQ5W7JpuSvsHc5l9OQs\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X45327",
+      "amount": 735,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T11:04:17.000Z",
+      "notes": "YZVPTscwspcwzLan3MZoUxpwgSq5JsPK8kyiNm9FkN2eY4AWHS37Xhb5Pg2T3IIKxgBC3j1W0kEsjigBBtYjaecQmabhSawn8LLbev54rliWqzFUWATnD6PcZiDhd02CulRYo6epIAGycseSRbTG1v49WPQf5BREltjxmr1LmPkG8p7BjvzAQEzqpQTh2nInK0PLhf58cQWOEkP1ChXbwgJVd0B2o1fh3ahmU3xMSjRuaTXdSYN6BQfmCW",
+      "_id": "695a49311c508c5d5ea2ce1d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

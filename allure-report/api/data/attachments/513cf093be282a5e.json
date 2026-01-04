@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "355",
+    "etag": "W/\"163-B+cYZnsE7YO6sr0GfhhmsB3ILWQ\"",
+    "keep-alive": "timeout=5, max=76",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Herta0@gmail.com",
+      "name": "SxUiaESHq",
+      "country": "Russia",
+      "city": "hGwpxbMnh",
+      "street": "EKCIMDDTaSCg7ZxGA24Z8pPC59",
+      "house": 157,
+      "flat": 8,
+      "phone": "+8042058177",
+      "createdOn": "2026-01-04T11:02:08.000Z",
+      "notes": "XyvKOBMWKRBqsgRaRxcrgpi9JImppvwc2M7CMiDSMg7ye0VNXIrSpVvf",
+      "_id": "695a48b01c508c5d5ea2a9f1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

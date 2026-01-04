@@ -1,0 +1,9 @@
+Error: apiRequestContext.fetch: Request context disposed.
+Call log:
+[2m  - → POST https://aqa-course-project.app/api/customers[22m
+[2m    - user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.186 Safari/537.36[22m
+[2m    - accept: */*[22m
+[2m    - accept-encoding: gzip,deflate,br[22m
+[2m    - content-type: application/json[22m
+[2m    - Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MzZmZmM3MWM1MDhjNWQ1ZTlhMzc2NCIsInJvbGVzIjpbIlVTRVIiXSwiaWF0IjoxNzY3NDkxMzEyLCJleHAiOjE3Njc1Nzc3MTJ9.E5snF21t5nPU4IT2P8qvrVcchLstXNadJZhF9OgtZbU[22m
+[2m    - content-length: 326[22m

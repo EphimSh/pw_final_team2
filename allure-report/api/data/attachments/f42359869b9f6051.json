@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:00:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "367",
+    "etag": "W/\"16f-KvfWNlcz42TO6pefQtcgfjRd9z8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jaeden_Ondricka@yahoo.com",
+      "name": "tsqNVfyMYLYXPxPoyxclEbCSatcZ",
+      "country": "Canada",
+      "city": "QNz",
+      "street": "simM3lIHVdZUOF2HgabGrm56fxyf",
+      "house": 68,
+      "flat": 6,
+      "phone": "+4308844510",
+      "createdOn": "2026-01-04T11:00:27.000Z",
+      "notes": "nw6glD8dlE1FS1X7ai5fjOkXHHA9xpy6l3zO7ZgAeB0fj",
+      "_id": "695a484b1c508c5d5ea282dc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

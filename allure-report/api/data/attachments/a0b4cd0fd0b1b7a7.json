@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "341",
+    "etag": "W/\"155-uOsrWxOt7/HfBARL7YZxWU2uvXY\"",
+    "keep-alive": "timeout=5, max=66",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Calista_Zulauf@gmail.com",
+      "name": "bvJUEsLIasmzOlJGADKPDFWIaEEvOMp",
+      "country": "Russia",
+      "city": "hYHJOT",
+      "street": "KBU9B47M23998gFMse",
+      "house": 155,
+      "flat": 9,
+      "phone": "+3869174873",
+      "createdOn": "2026-01-04T11:02:08.000Z",
+      "notes": "I9E1dOxguzhgeZIaw9eXNSu",
+      "_id": "695a48b01c508c5d5ea2a9d8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

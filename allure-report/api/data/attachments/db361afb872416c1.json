@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-pmtC19kjtJzXRzT7GMGD/wznDfE\"",
+    "keep-alive": "timeout=5, max=79",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese58099",
+      "amount": 593,
+      "price": 21722,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T11:02:02.000Z",
+      "notes": "WceuK95iqN5v2wMwrpt9fkQR61FukeWg8W5b8rk7RobfFjQBvn9WZlN9nOOHfPforb9BiofHi8zD33m2dx4jtT2GmA635Wrrh3ciILPclM3SfzirIQibHUWOE5pVI6PyxLo1t44SxlNUAKwPeSOPiKb729feAqWwMUWl1tuFj0pynGe5wU6iU6oa2kVUSJHc24GICUmR8adklNNMrduW7kNiWxsY22UN61y3mP8sG7AHAXBD5Maojutdfg",
+      "_id": "695a48aa1c508c5d5ea2a7c3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

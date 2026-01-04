@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "444",
+    "etag": "W/\"1bc-bQ7xLro/qstGOhQ5sIczbRax14c\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ansel91@gmail.com",
+      "name": "aVSFyKHqrmuAnFeLCBkN",
+      "country": "Great Britain",
+      "city": "VMDkIHwsxBPZnJ",
+      "street": "r67EhyyMkMxKRJSgej4xRrQW9Wo89Io8NJ0i7L",
+      "house": 58,
+      "flat": 7,
+      "phone": "+2430106199",
+      "createdOn": "2026-01-04T11:03:03.000Z",
+      "notes": "PltGX7tPb4C8NFxQLVdEOaRhAjnLRqkNzUYd7tDyx8XK9g7pIglbKsXopSjJHzDAvYHVsgHYCRQ1o6pWD7r6iYjrWTVq7I3Xu9uLTZqvAebjyz",
+      "_id": "695a48e71c508c5d5ea2ba19"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

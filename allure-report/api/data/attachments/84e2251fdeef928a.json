@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-RVHi60ihv1WaVHwwOQWXqBmQr34\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse69775",
+      "amount": 296,
+      "price": 82062,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T11:03:45.000Z",
+      "notes": "WtDMRjjgPuXuk7uiN53dOLNfwBjKZmQ5nqIjt2orXJETIplCSIWGwKrEGIVbjbitoTxvGVR6Wld1C2iHfhBcBUTOW0s7QJtCDoqb9PanstK3m8ZsL3rMseCInsptGnZ0Ormd64pEo6FIm3saTs7GbEe2BGdDWkhsFqnIz12gT51z3mSQnhNfKIyr3wHIpsvtMo3HFxsx3pwjVFttvarZG9hzlMySIh7dVik8zaYoVnd0g1kCb124ArZTp4",
+      "_id": "695a49111c508c5d5ea2c582"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

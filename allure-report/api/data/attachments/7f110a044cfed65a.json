@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:00:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "420",
+    "etag": "W/\"1a4-rCcsNLbb/6qqMVCfeHyjCKJWQwk\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Gunnar.Homenick@yahoo.com",
+      "name": "usajQgmdXwbvsblxogROUJDuEfVoa",
+      "country": "France",
+      "city": "uCblzeBQmEhatYdF",
+      "street": "CDtWWbRiSkf9k",
+      "house": 71,
+      "flat": 6,
+      "phone": "+6737086249",
+      "createdOn": "2026-01-04T11:00:56.000Z",
+      "notes": "7crMDCFOcg4R8SlqjBjUnoVPUZnnnQQY6aBxxQoE3SPdXkLCm0TwS8JMYZtKJUEfmWbnGquJ68TNfUNMuGh0Z1KSPGLEPjttLVd",
+      "_id": "695a48681c508c5d5ea28c7e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

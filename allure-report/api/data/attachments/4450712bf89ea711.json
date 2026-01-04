@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "449",
+    "etag": "W/\"1c1-K0QYf5tUrTb64WM1jDHYbWaTn5M\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car8811",
+      "amount": 497,
+      "price": 5792,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T11:03:42.000Z",
+      "notes": "7of7ApSvKSfeulzAS4WgLLtXrKeHprk2n8USsiAL4YiKM6iVhdzw57GDcedagN7c63gHti5dKd7lryexgFPq0d5IbbvZeuI4yW75XQS2ZTAUzFwu9YCcaHJBr4ANwr6HEf2nbiRE2DldxdHpGDLmCYXhP6bNah8y0OLeFOGoefJpBLtbAG25WkNjpOzMWVs4AMbmKUI7edtb7eb1U5R1EfIZsIBy8mGp79VuwOzXtjAzw9Ws4hYAWnHCGb",
+      "_id": "695a490e1c508c5d5ea2c4fb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:04:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-+mgU2DOV4xrTqkcNnSKZyO2l7VQ\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro22364",
+      "amount": 539,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T11:04:26.000Z",
+      "notes": "BPzckhNoMYUCzrWAQnMXBJhThGdvaS37RPbAvxwcdDnPXDNiyIhxd8QArUrohQ0qMFmLd6rrkMnumifcHCEZsuUyCmE5NpJxGRAvTfHLyf2xs97zCSTlojdY9EiNqpKU6cbrfDJGkqYBeTpdWUdSKFrZMPaH8G6EOU2Y6xq0AilOwOjsyUwQm9jgoZv74VVT65PE9Phbz61xogkyFwRXSyXbz5zfXjKXUoYUCMRbFp3V6BgeVeLWkpZ3Hx",
+      "_id": "695a493a1c508c5d5ea2cfa1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

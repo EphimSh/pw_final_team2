@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-8C9bQrOWp12+/5aVfvWoTm4UnEw\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard51012",
+      "amount": 949,
+      "price": 43690,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T11:02:11.000Z",
+      "notes": "odtPS35mBgaWVjFhvZmItfKfjPlxu738x7CyPzJKayk9x2LLBNMJy4FGXIeTojktSg2ktGKSqdX5gKGGOuAIxoLI4TmUd0VKuDRfWnF5T5vpXoPjHE6RUL5iCbVbyANMpvOT2mYeAMNVDb06sZoV5WGczVII6HHLIlD7sYjSElNvThHeUrVHeYi2PEX8X99lafYWeuW4cRwpFKuCMPCIiibSuUMpBvLeJS0whkSgb7ueAAtZPMnAiuKuHM",
+      "_id": "695a48b31c508c5d5ea2aa8a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

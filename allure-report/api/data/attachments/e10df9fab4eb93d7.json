@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:00:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-2yDhLRzZzY1sWMavrEhetQctlGM\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "695a484d1c508c5d5ea2832d",
+      "email": "Maureen.Fadel@gmail.com",
+      "name": "wNhDROwCERmIZwipLvWNCyia",
+      "country": "Russia",
+      "city": "xLcOzUPdGtRAosXAJM",
+      "street": "iXUQCw9LVHF27uTOwDbaQQP5MxFwL",
+      "house": 60,
+      "flat": 3,
+      "phone": "+2671460441",
+      "createdOn": "2026-01-04T11:00:29.000Z",
+      "notes": "qFJdbsBo2ec2BGzG3xJt3oi7untHoLup2L60Jmdp9TF7w03iQg9h6JcgIwPherXxqNMhLaePX8tyWhNtS2vDxqhDWo2EknhdKl7SxfVnIiI63XyLyGVa8eK3Xmne"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

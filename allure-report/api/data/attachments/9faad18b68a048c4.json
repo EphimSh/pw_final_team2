@@ -1,0 +1,131 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3385",
+    "etag": "W/\"d39-is6MP+JZNRPPYzH/0OOLQIm14SI\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a49061c508c5d5ea2c275",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a49061c508c5d5ea2c264",
+        "email": "Elisha.Kozey57@yahoo.com",
+        "name": "RXacKBKLxsMXSCHxcilyymaRUxMH",
+        "country": "USA",
+        "city": "tFnXhsFlxyLpqd",
+        "street": "euKI",
+        "house": 45,
+        "flat": 9,
+        "phone": "+4646382419",
+        "createdOn": "2026-01-04T11:03:34.000Z",
+        "notes": "qInfvALTPugsgmAm2fQWbdELjvBPpboBFEkQfA34yruaayPF6HSmXhS2I1uuhr2kF59PocwBFXULFKf7AP0Gh4uPGOIb0gP1XGehXBUdthFYkRSxjzzuL9RvB8kIjysfE482pT7bkAViQkOSztV63T0NqXJx4kG2KS9CUcYaFgc5KjownHTd75OGvoTZw48BKsZ8PxyUXU1cjSMrRNPbiRu7E2GsTKWaI5x"
+      },
+      "products": [
+        {
+          "_id": "695a46e51c508c5d5ea24460",
+          "name": "Hat4271",
+          "amount": 955,
+          "price": 15076,
+          "manufacturer": "Amazon",
+          "notes": "NlcJ0rA1YwzJqeEYtSWjtouo0vTrG3VljaFV5Sq2e0yeVN8HzpCIaoDf9eKXoCRZoI0ZsP4Aip0wM9ss5gRa18m1VqTkGIfbjhnWk49SgD82A9FZfaJhxZNH6mRjpvpxkjiFZ1yEME2gOzz32ixkuQj5qDgdi6NbEwq6rhNlQMqkipEZO1A6mlwKnE7reUxcF0wKYI1qjQEhH43HAqYpZYXomtOf8umfNoLsvxWBnx682H4271orotQfZB",
+          "received": false
+        },
+        {
+          "_id": "695959d01c508c5d5e955917",
+          "name": "Mouse16970",
+          "amount": 596,
+          "price": 98013,
+          "manufacturer": "Amazon",
+          "notes": "lPMzZhXDyEAQJoeapQmQKkRzHT4v5xzHoQQWUFOulCMJhD4vnbUwAJA4GQf7hVxc1zIloADH808fA887VO78rQMUn8W73hR4K1kHcEQTZwbvkkfhfXISaB5uJe9ilfEHCHEboDLsUHL3tfAOwkL69cTc33i6jdE257LMkEMhHL8wyJ66AAhSkkvAcraAOyU8ev08GHIi1OtiG78O5PZbIlbWmEYGxLJgyqPuBFVYeZXK2Yb9XZo2F212Sj",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 113089,
+      "createdOn": "2026-01-04T11:03:34.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a49061c508c5d5ea2c264",
+          "products": [
+            {
+              "_id": "695a46e51c508c5d5ea24460",
+              "name": "Hat4271",
+              "amount": 955,
+              "price": 15076,
+              "manufacturer": "Amazon",
+              "notes": "NlcJ0rA1YwzJqeEYtSWjtouo0vTrG3VljaFV5Sq2e0yeVN8HzpCIaoDf9eKXoCRZoI0ZsP4Aip0wM9ss5gRa18m1VqTkGIfbjhnWk49SgD82A9FZfaJhxZNH6mRjpvpxkjiFZ1yEME2gOzz32ixkuQj5qDgdi6NbEwq6rhNlQMqkipEZO1A6mlwKnE7reUxcF0wKYI1qjQEhH43HAqYpZYXomtOf8umfNoLsvxWBnx682H4271orotQfZB",
+              "received": false
+            },
+            {
+              "_id": "695959d01c508c5d5e955917",
+              "name": "Mouse16970",
+              "amount": 596,
+              "price": 98013,
+              "manufacturer": "Amazon",
+              "notes": "lPMzZhXDyEAQJoeapQmQKkRzHT4v5xzHoQQWUFOulCMJhD4vnbUwAJA4GQf7hVxc1zIloADH808fA887VO78rQMUn8W73hR4K1kHcEQTZwbvkkfhfXISaB5uJe9ilfEHCHEboDLsUHL3tfAOwkL69cTc33i6jdE257LMkEMhHL8wyJ66AAhSkkvAcraAOyU8ev08GHIi1OtiG78O5PZbIlbWmEYGxLJgyqPuBFVYeZXK2Yb9XZo2F212Sj",
+              "received": false
+            }
+          ],
+          "total_price": 113089,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:03:38.000Z",
+          "action": "Requested products changed",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a49061c508c5d5ea2c264",
+          "products": [
+            {
+              "_id": "695a49021c508c5d5ea2c161",
+              "name": "Car7309",
+              "amount": 533,
+              "price": 81748,
+              "manufacturer": "Google",
+              "notes": "7kuRgvYYUrs413KYhDk5ypStQ3Vq9AsWFYrp2ogbIOmS3FISlMEX569iSzViLw0b73YgGqlNusHxIKK87Atvs8HRuF9Puo4gomEAneLnWa1hJOMM6pLtdmkCaVb8xbG73JJkLwefCxKCCvz5fdR1iUGonm5CNEKogxFCZB99z3RB09ZvqOUOPKZgWuKfzRDoxy9FPmEdCoJJkoNin0Lj1skubrm61T4iV6NFrZSGBzC2MxDpLPHKqlGvbu",
+              "received": false
+            }
+          ],
+          "total_price": 81748,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:03:34.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

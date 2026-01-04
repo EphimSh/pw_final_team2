@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-L/MJ8123ya+O39gDDOvdi6uNrlA\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat85675",
+      "amount": 828,
+      "price": 84255,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T11:03:44.000Z",
+      "notes": "IAKeBeEClOJB4LHCTLQrLKWkWLBrNgYVV5PqO6UyTUWJknWjH5ZW4wdo30EyJSdDzpr2QblU1SJXjX1x2rtFuxWB3TXrjhF3brpK0TgTFKqu9u6DQOAGxrMGJWVs2BCqcuECM2pdg0ynUNG5S5cv3YRVpgCtZnWldbaFdzBwRB1FAQ2nPnR08S58XqLprw1txQ6fWpE2tDBezgSSlRdbLoyk1vgP3lGib8ISmnFGP8zZhtqJy18Ip8M3tj",
+      "_id": "695a49101c508c5d5ea2c530"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

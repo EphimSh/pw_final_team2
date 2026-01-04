@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "193",
+    "etag": "W/\"c1-4HTgj7tdLRNcXrfXaA+JX0/wuCU\"",
+    "keep-alive": "timeout=5, max=74",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse78723",
+      "amount": 647,
+      "price": 82675,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T11:03:57.000Z",
+      "_id": "695a491d1c508c5d5ea2ca50"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

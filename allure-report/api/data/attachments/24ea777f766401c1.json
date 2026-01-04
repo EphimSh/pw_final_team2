@@ -1,0 +1,89 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:00:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1918",
+    "etag": "W/\"77e-TJ5yX0mUD4zdrVaFMdlNz60THZE\"",
+    "keep-alive": "timeout=5, max=82",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a485b1c508c5d5ea287c0",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a48571c508c5d5ea28683",
+        "email": "Ervin.Cummerata@hotmail.com",
+        "name": "PvFWQtmsWkaT",
+        "country": "Russia",
+        "city": "dMxNjlzHCMWKmR",
+        "street": "PXlja",
+        "house": 101,
+        "flat": 6,
+        "phone": "+0664638209",
+        "createdOn": "2026-01-04T11:00:39.000Z",
+        "notes": "YgtIM3bycTGfDvsc22KuCw8EMuzUMaXgm8gW1wLaPH1Cb4dxqBsJCLGJBRZcjMWuscWShujTyv1sWQsilZbJ0U"
+      },
+      "products": [
+        {
+          "_id": "695a485a1c508c5d5ea287a9",
+          "name": "Bike7660",
+          "amount": 366,
+          "price": 69794,
+          "manufacturer": "Amazon",
+          "notes": "vO07R4FgOWAgWApoeR4sPxEIOvoyn7KqB8hntuVywsakSRk1RZdFEfK0ZIxDzOUtRQtqWztWf0lVceFW4quEVlWDvnyBjiZVFZXz4LERgMYKtiic6vfXc67CyZ7tP4kru4MfiUUNzEFLov4SlqRxcgOzDnXljs9k3Cnvk8yx8rKidwJGKGbbtXLNR8BVGSFxC1lNtkY4IHQF3qRlyfMmtpbKWDAYhtEvzLKSLCxX7lDc3Q2ptJv6U5tAqD",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 69794,
+      "createdOn": "2026-01-04T11:00:43.000Z",
+      "comments": [
+        {
+          "text": "d6sSDwTWv88hstK0HSjVm3la24FXR681gKQSzn6Q8SdWKbjI5zLPMmibTC9rmKXeQv2NxPkgCBQeCgGu5xvETr2cQwyL8d9nLTEdBI0xXiwvjsZwTCiUiTo3jWlwPb",
+          "createdOn": "2026-01-04T11:00:43.000Z",
+          "_id": "695a485b1c508c5d5ea287e0"
+        }
+      ],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a48571c508c5d5ea28683",
+          "products": [
+            {
+              "_id": "695a485a1c508c5d5ea287a9",
+              "name": "Bike7660",
+              "amount": 366,
+              "price": 69794,
+              "manufacturer": "Amazon",
+              "notes": "vO07R4FgOWAgWApoeR4sPxEIOvoyn7KqB8hntuVywsakSRk1RZdFEfK0ZIxDzOUtRQtqWztWf0lVceFW4quEVlWDvnyBjiZVFZXz4LERgMYKtiic6vfXc67CyZ7tP4kru4MfiUUNzEFLov4SlqRxcgOzDnXljs9k3Cnvk8yx8rKidwJGKGbbtXLNR8BVGSFxC1lNtkY4IHQF3qRlyfMmtpbKWDAYhtEvzLKSLCxX7lDc3Q2ptJv6U5tAqD",
+              "received": false
+            }
+          ],
+          "total_price": 69794,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:00:43.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

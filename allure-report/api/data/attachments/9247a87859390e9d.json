@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MzZmZmM3MWM1MDhjNWQ1ZTlhMzc2NCIsInJvbGVzIjpbIlVTRVIiXSwiaWF0IjoxNzY3NDkxMzEyLCJleHAiOjE3Njc1Nzc3MTJ9.E5snF21t5nPU4IT2P8qvrVcchLstXNadJZhF9OgtZbU",
+    "x-user-name": "Jillian",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "205",
+    "etag": "W/\"cd-lIiN7XYZCyc+KtG79iUU9WzByTs\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "IsSuccess": true,
+    "ErrorMessage": null,
+    "User": {
+      "_id": "6936ffc71c508c5d5e9a3764",
+      "username": "student21@gmail.com",
+      "firstName": "Jillian",
+      "lastName": "Lynch",
+      "roles": [
+        "USER"
+      ],
+      "createdOn": "2025/12/08 16:41:43"
+    }
+  }
+}

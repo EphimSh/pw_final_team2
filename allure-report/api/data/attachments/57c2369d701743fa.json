@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "204",
+    "etag": "W/\"cc-sx+fpqyfxZZzw2W0RYzDjAbVCEI\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair30132",
+      "amount": 231,
+      "price": 21291,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T11:03:57.000Z",
+      "notes": "",
+      "_id": "695a491d1c508c5d5ea2ca52"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

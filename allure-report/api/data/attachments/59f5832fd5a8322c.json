@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-zC6KhwwBSCWSwOEmKY8I5vmCqlE\"",
+    "keep-alive": "timeout=5, max=80",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese62508",
+      "amount": 838,
+      "price": 94925,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T11:01:40.000Z",
+      "notes": "VIRxZ6HBYLwBfwZSX12BrEI1NaX79tfMgKhUzNhNPcU4mfBUYXeS9M3m94vkSSaC5nzO2twYg8VVLi0kvDE8g1k5IyXfLq0O79flwnEQFe43SMi2p7GSgjc7QGb8r89mfeEtpwJqCMupU7E4uej3vnWt46mSTjDMYuSu3m3OjNwNI9vlg9Hklu4S8sDuoMk4ONkWclXiga3L2fLYejXtWOY8vfagBpHbpTQasWHCToC2MoXQOHT0PoS1VW",
+      "_id": "695a48941c508c5d5ea29f3e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

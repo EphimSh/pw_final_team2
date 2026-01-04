@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:00:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "383",
+    "etag": "W/\"17f-c0fDowl58C6eut71wJ2vKM+qT0c\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ervin.Cummerata@hotmail.com",
+      "name": "PvFWQtmsWkaT",
+      "country": "Russia",
+      "city": "dMxNjlzHCMWKmR",
+      "street": "PXlja",
+      "house": 101,
+      "flat": 6,
+      "phone": "+0664638209",
+      "createdOn": "2026-01-04T11:00:39.000Z",
+      "notes": "YgtIM3bycTGfDvsc22KuCw8EMuzUMaXgm8gW1wLaPH1Cb4dxqBsJCLGJBRZcjMWuscWShujTyv1sWQsilZbJ0U",
+      "_id": "695a48571c508c5d5ea28683"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

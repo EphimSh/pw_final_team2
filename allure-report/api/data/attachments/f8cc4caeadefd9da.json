@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-3dTMAdrpD1g69lez3UIYmEmk2q4\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza27",
+      "amount": 299,
+      "price": 83541,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T11:01:21.000Z",
+      "notes": "sVL8Ss1rDX9KuMDj6I5nDBpB1hH7abJQyULek1xlHrygDKvHPcFmS7PGHSpw1xDG8H7rpsYxlTpBL4GMOu85lDvbo6lNO8bXluA0VpsqxaBCd9UmRWYVJZqP5SmO7wEmqVVxgkGWzqWgOMFSLPhyJU0KayGLTFTxrYFItPSQ00H5VP9FjAjfNtSLDaASlUiu8XOgOXekMSMh0rDlUWGQD2Ue5aSoKEEGokhYurgiBvr5xCPPAmQ8ZkeemQ",
+      "_id": "695a48811c508c5d5ea29660"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

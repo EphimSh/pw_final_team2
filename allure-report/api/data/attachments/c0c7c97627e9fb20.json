@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-Q6Ug3fJiKy3QYyyydfx1Y6zU1u0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap36168",
+      "amount": 616,
+      "price": 63860,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T11:02:21.000Z",
+      "notes": "19oFY5FxSKXEHylSzRPPvQBMmA4c2wUfKxCUyhvcqa21UG7AIA3SZph8czg94pExJTrZoSYV7hBETLO5ew9FMCj4ZT3tcIeMWfB9MDbqbpIPDwBNu5phbPW7NGd44WcxfdiLqZQ2WtZ8gmmLzYKCnnkMN4JfJtMJzlNCvBfXJNi6WBPHVXvmduPajuuU4fmHBXV1q6hHCT9GKqHAJ1ptx3cgVfaUsBgkDUum3JRY1XOFQ6NO2twFcWx4sl",
+      "_id": "695a48bd1c508c5d5ea2adbc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

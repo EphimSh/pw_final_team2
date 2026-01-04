@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:00:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-mRif/kfdzePwwhNAsjg0Q5Sbxek\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pizza73074",
+      "amount": 872,
+      "price": 84919,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T11:00:44.000Z",
+      "notes": "qKxPHmp7wMFfqapmWzRc5H1kY2CeAxvtqd7bA2RuH8xyZLyc8T86LxwEXCxsnVTdLQZ38eW4zG8ImmpYgk32TMREPUyMBwGxZmdbo2B5ayajVgK0pThEAWLBuJBK34TEXqiCVRZ1zKx8Xv6FQMFe6pKIs9NqycMlUCWmh2N4HjVsrnXaUSq5KXLXBI69VYjTpstWvmYeL8uApZZC54wTQYXLYjRmQO6WZ2kfrljIxvLKBO6k0BLXhUFf75",
+      "_id": "695a485c1c508c5d5ea28825"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

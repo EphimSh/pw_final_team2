@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:00:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "527",
+    "etag": "W/\"20f-6IIXjRiLDIrpI9SupMElWPsrqzo\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Antonia42@yahoo.com",
+      "name": "wvBREOtQhyqLQbWTJxZW",
+      "country": "USA",
+      "city": "zHTgZoqA",
+      "street": "ng1VWqcjfplt6gbQn2ldwRMXpukwYvFW",
+      "house": 36,
+      "flat": 6,
+      "phone": "+9321117106",
+      "createdOn": "2026-01-04T11:00:41.000Z",
+      "notes": "dfe15lp0SDXCBgLKMfdSS249eoFMHS9WGosgOL2tagVShezx8WR7XWwA7NwvQUnmuF2AuviKXjaQXOaon4X4ZgVSI8ROQvqoHaLxGnEdGzdJ0Xeu8q8HM8U0Coof1AOdB2yr6Ag1xuwdESa9wy9TxVkXsSsaGad0jQJx8X8UBCEizgoiXUn7hf9BCIRnVvlxPogzPY2x2PKtNgCQUsvRe",
+      "_id": "695a48591c508c5d5ea2879b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

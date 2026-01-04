@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-biOxULakUB/iFG0rAYllJSBNqq4\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table16619",
+      "amount": 948,
+      "price": 34105,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T11:03:15.000Z",
+      "notes": "eYL5OOXQiMvI1U2dmcvAt5601nl5SGOgWeX463TBMhQ2CqDpFvQvM9pEXWELabZ0KChIWB0eEN3Jqo8rghpusrIPGY0NSsPyTPTEbBAxoND0Oqj0gpWwlMsJqZWr8yu7No9HQLVv68hzEpbhPVJStxzAnv1Bf6iLqjawuAkOcGGzfbYcENk96OaYcNsP9vCTFNTMfDK0aRc5crpxb1C1pXOxlNkaoBMfrILCHWtKznHpiBcCtH2k9qsfwS",
+      "_id": "695a48f31c508c5d5ea2bda7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

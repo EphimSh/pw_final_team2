@@ -1,0 +1,173 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3906",
+    "etag": "W/\"f42-9jqLz2I79T/ZAxBS+MGSdph/y10\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a48ca1c508c5d5ea2b049",
+      "status": "In Process",
+      "customer": {
+        "_id": "695a48c21c508c5d5ea2af66",
+        "email": "Devyn_Schimmel@gmail.com",
+        "name": "puyvlPEmZaEGYuFjdPlyHB",
+        "country": "France",
+        "city": "JTXX",
+        "street": "ORQ5XSskTjqcd",
+        "house": 187,
+        "flat": 3,
+        "phone": "+5319044985",
+        "createdOn": "2026-01-04T11:02:26.000Z",
+        "notes": "BbwUn0J6xJJD6KNVL49znpRkbQ0dC7rN5RYFRLkExxTmT9zCbKkLULAmSWarXVCsy14HYCxcwlCsSxrGXvKl9MhhPQwM4emjHNMRYsOOSUeGNgIchhxcS3UGoPLCzqpNto35g40xE71dCoqDUr6EfOqXFa2WHOz1S8WGb7dz6GgmR1IxAdbWQYc9VZVfCHVuZAURnGZjLV9wlIT2wr7XpTdJkLmLEp"
+      },
+      "products": [
+        {
+          "_id": "695a48c51c508c5d5ea2afe6",
+          "name": "Ball7213",
+          "amount": 142,
+          "price": 45261,
+          "manufacturer": "Apple",
+          "notes": "aoJAX96AoeiroBM1Dci9iySx78pbyTUrkYhY5gSIaLIRtMwonEqjWrU0AFgFowYxS35XYVf7y0cxNPh07QzuHzggXBQZstHZlNy92dIkh1gTR3uHm5ZqekpPSQURBxnYBwt4PkSmf2iSDqmh5ryzYmzfVNvtjlOD2Zc3SvVSgNHbb319xc2AyCSoUXNkcN6A9DGanLHyE8UjlNi5MZJ6i6r0A1zfbqf4x9gsf6tF8bDYhLw275JrKVrGdw",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Canada",
+          "city": "Mock City tBeLULtHG",
+          "street": "MockStreetsKE85Ui0pw9IJ8SIw8K",
+          "house": 21,
+          "flat": 1
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 45261,
+      "createdOn": "2026-01-04T11:02:34.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "In Process",
+          "customer": "695a48c21c508c5d5ea2af66",
+          "products": [
+            {
+              "_id": "695a48c51c508c5d5ea2afe6",
+              "name": "Ball7213",
+              "amount": 142,
+              "price": 45261,
+              "manufacturer": "Apple",
+              "notes": "aoJAX96AoeiroBM1Dci9iySx78pbyTUrkYhY5gSIaLIRtMwonEqjWrU0AFgFowYxS35XYVf7y0cxNPh07QzuHzggXBQZstHZlNy92dIkh1gTR3uHm5ZqekpPSQURBxnYBwt4PkSmf2iSDqmh5ryzYmzfVNvtjlOD2Zc3SvVSgNHbb319xc2AyCSoUXNkcN6A9DGanLHyE8UjlNi5MZJ6i6r0A1zfbqf4x9gsf6tF8bDYhLw275JrKVrGdw",
+              "received": false
+            }
+          ],
+          "total_price": 45261,
+          "delivery": {
+            "address": {
+              "country": "Canada",
+              "city": "Mock City tBeLULtHG",
+              "street": "MockStreetsKE85Ui0pw9IJ8SIw8K",
+              "house": 21,
+              "flat": 1
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T11:02:36.000Z",
+          "action": "Order processing started",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a48c21c508c5d5ea2af66",
+          "products": [
+            {
+              "_id": "695a48c51c508c5d5ea2afe6",
+              "name": "Ball7213",
+              "amount": 142,
+              "price": 45261,
+              "manufacturer": "Apple",
+              "notes": "aoJAX96AoeiroBM1Dci9iySx78pbyTUrkYhY5gSIaLIRtMwonEqjWrU0AFgFowYxS35XYVf7y0cxNPh07QzuHzggXBQZstHZlNy92dIkh1gTR3uHm5ZqekpPSQURBxnYBwt4PkSmf2iSDqmh5ryzYmzfVNvtjlOD2Zc3SvVSgNHbb319xc2AyCSoUXNkcN6A9DGanLHyE8UjlNi5MZJ6i6r0A1zfbqf4x9gsf6tF8bDYhLw275JrKVrGdw",
+              "received": false
+            }
+          ],
+          "total_price": 45261,
+          "delivery": {
+            "address": {
+              "country": "Canada",
+              "city": "Mock City tBeLULtHG",
+              "street": "MockStreetsKE85Ui0pw9IJ8SIw8K",
+              "house": 21,
+              "flat": 1
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T11:02:35.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a48c21c508c5d5ea2af66",
+          "products": [
+            {
+              "_id": "695a48c51c508c5d5ea2afe6",
+              "name": "Ball7213",
+              "amount": 142,
+              "price": 45261,
+              "manufacturer": "Apple",
+              "notes": "aoJAX96AoeiroBM1Dci9iySx78pbyTUrkYhY5gSIaLIRtMwonEqjWrU0AFgFowYxS35XYVf7y0cxNPh07QzuHzggXBQZstHZlNy92dIkh1gTR3uHm5ZqekpPSQURBxnYBwt4PkSmf2iSDqmh5ryzYmzfVNvtjlOD2Zc3SvVSgNHbb319xc2AyCSoUXNkcN6A9DGanLHyE8UjlNi5MZJ6i6r0A1zfbqf4x9gsf6tF8bDYhLw275JrKVrGdw",
+              "received": false
+            }
+          ],
+          "total_price": 45261,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:02:34.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "363",
+    "etag": "W/\"16b-ZdypqMuYsPTe+S8/13yfSb3I+QY\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Destinee_Hackett@yahoo.com",
+      "name": "OiwpLwieGQlDiZYKonQcBvGmGgBCLXHOBQHmmXdO",
+      "country": "Canada",
+      "city": "NvnObZUDMOoOqFCllsh",
+      "street": "P7vPyZbs3mdjqVjax",
+      "house": 173,
+      "flat": 4,
+      "phone": "+3996552760",
+      "createdOn": "2026-01-04T11:01:24.000Z",
+      "notes": "WsiWCF6kFGnlNWxZiefo0t",
+      "_id": "695a48841c508c5d5ea29818"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

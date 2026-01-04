@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:04:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-ctXacXBTn1SFOEh/PiJokRQ2I0U\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X44893",
+      "amount": 574,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T11:04:19.000Z",
+      "notes": "cpv1sCkELKTJyFfS1oaGM1MdZPldGeBm7FiQeTCPE8I3VlrPQ0mDOd2HDY1GlWobDaktAXPZwZwRF27sfjvWIkVDYRn9K6zDQgGk6pGSsQCHNDZURaPMeqoZnQL721ScwQ8wBoRP26th3GJL97uqgRpBBgwgY5XgPTx8PruVaCMt21tNqtLUPk0yJpu95QuuqiYzHFkTIrGT2sgZUD35Ohfx5wRN8mqAMsaHrF1aSwqcYwxPEGOhltbgKb",
+      "_id": "695a49331c508c5d5ea2ce81"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

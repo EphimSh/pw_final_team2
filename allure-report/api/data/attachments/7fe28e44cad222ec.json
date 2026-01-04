@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:04:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-zdyrXmsoR9Yxzj1Ztjv2VYm1mgk\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt58535",
+      "amount": 611,
+      "price": 59349,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T11:04:47.000Z",
+      "notes": "L4XED2CXdwspmQgXvI3cagbXdxYHkGGOCgP5w4jM8UPwpKUb9DHQ2mFpI0romGbwkaRFTlzPQLmAyglE09D7goAFbmKkUUFBFmKU5thMe7D2eFGKgtPbeeOnb3o9FnKbi84BS6eUSyNeqlLID7GCWXRQvwF8YRVHkpviX5AlhueEBIyC0kRvXauRE3KyOHjt2dkEr1ABmtXY23c8YIKbx1E1VzdIu36tPM1IL8Syx8izjpzy8CA93Qq73o",
+      "_id": "695a494f1c508c5d5ea2d410"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

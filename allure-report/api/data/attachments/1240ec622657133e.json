@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-vayeNilLnfUWCnXqbo4rM+J7Nuo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves44190",
+      "amount": 999,
+      "price": 70433,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T11:03:55.000Z",
+      "notes": "0oVmZtrxY8odfCoSQXTEPtDHb4pLc0yp7Bmh875OWHfrWDhBSD7xyzDlcppr0Acn9MlW9LFXHpJQWdI0wodfwEMdxx5DI9h1Svx19DCoKvOEyVjCb2QroXfpYIRUXEd9TuWtqIrdowWV86IHsDGIj5MwTBwvbqOAGaQ9t9uEOdjrMEhpTbyGh1eZkzmc9vUYFljGRfZUPnRvVG6MWwMzCFtyPbZKxyJ11CxTjNCKhmHVFEAr8VAtoqVZ6U",
+      "_id": "695a491b1c508c5d5ea2c99e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

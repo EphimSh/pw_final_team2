@@ -1,0 +1,161 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4156",
+    "etag": "W/\"103c-LqECm+BVH13Cc2iLCJQykamIzRI\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a48fb1c508c5d5ea2bfca",
+      "status": "Draft",
+      "customer": {
+        "_id": "69595b8e1c508c5d5e95932e",
+        "email": "Celestino26@yahoo.com",
+        "name": "Alejandrin Katelin",
+        "country": "USA",
+        "city": "testCity",
+        "street": "testStreet",
+        "house": 565,
+        "flat": 3608,
+        "phone": "+8173351769",
+        "createdOn": "2026-01-03T18:10:22.000Z",
+        "notes": "kTJ5u7HQQbdPUQSk86rekj5CsjzpEwV8Aydx4pD3kY8D0XSJaY5Uksq2x8KtQ508PXWw4wbMsvdBuC338lXMYSj4Un300VQHtMDKoXJxdmBkwaaHesG8AjACBsCYDe3zG9YPD7vADz1lck0pEZRdk79NRhjGXlPglhgOCdiytSMPnOVz1T4nGOAAlwlCoJIXeTuXYyhMnoirKFiwttgNJV3f4U4KmZLtQzPBN3Ew66tgC0gjP5aIGMYp3L"
+      },
+      "products": [
+        {
+          "_id": "695a32281c508c5d5ea14d28",
+          "name": "Pants60786",
+          "amount": 279,
+          "price": 5197,
+          "manufacturer": "Tesla",
+          "notes": "wLqfypWBDSxf6e8V75OejfGgu0iIHZvtxMdmMtwj5JK16GS8kCPpYPYsFQUFKFm8LXjBZ2XadLKulVJVnTyAXmBpUq75ZtYySdLAtErgaXmqX9gqTYoSq1oGqFO0GdvbR0ikn5m50uwYzubTxlsDCI3sI2rWkkmJzGi40cdjUot9FXuGEPcmPyveXWNpYFpJ7uZmQOIEP6GUMTv6NxYaW1WlTZzR3PPKcMGoDicvIfevkBjHdWbSCamyS1",
+          "received": false
+        },
+        {
+          "_id": "69595e6d1c508c5d5e9661b7",
+          "name": "Fish30867",
+          "amount": 627,
+          "price": 7615,
+          "manufacturer": "Microsoft",
+          "notes": "xahfzVYACIhyodyif7eNIPIHnwSj9OZNNx1N3zUhRb6fHePz22ChS2qnkMKw6M9kWAmHivT7ElMvonA7iGBoIRoFOTtWRGU5z7oVJ1YCyDZH7eFnDCv57MFfxAWJW27QxIQVgT343bwkAClyeWNTH5G9W31LrevCEinGIYb0hyBpn8HdYvRh5AB2xbWOAOQeTX5dt2b7nct0IeKYbpixwQpwQ2NRxZaMAnDGWVASdFos3j2JhZHbmvEiMq",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 12812,
+      "createdOn": "2026-01-04T11:03:23.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "69595b8e1c508c5d5e95932e",
+          "products": [
+            {
+              "_id": "695a48f61c508c5d5ea2be92",
+              "name": "Pizza42121",
+              "amount": 499,
+              "price": 43900,
+              "manufacturer": "Google",
+              "notes": "uHnFYL5cI8rjZrPVIBCKLrS5e8RjCsJRIiASq9taAH6wIq2U4TDhe1Wfi6sUwTYPLGXcCmN06jUNFHdTEIy31cgZhU2vDmDq3Css76fbhUM6diG5Vt5Vg8mEe7uGzygGhgDPSpPL4DRhd0moUv3Jhh5wFnFp3CB9jSG8y4z8jQyYc6x9ubTksTzvspIaMk6EDbX5NdHonlPHzf077tnOQGdGTKp92Y7HkMYUK8HqM9sbTYKaOCFtvfXcMY",
+              "received": false
+            }
+          ],
+          "total_price": 12812,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:03:31.000Z",
+          "action": "Customer changed",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a48fb1c508c5d5ea2bfbc",
+          "products": [
+            {
+              "_id": "695a32281c508c5d5ea14d28",
+              "name": "Pants60786",
+              "amount": 279,
+              "price": 5197,
+              "manufacturer": "Tesla",
+              "notes": "wLqfypWBDSxf6e8V75OejfGgu0iIHZvtxMdmMtwj5JK16GS8kCPpYPYsFQUFKFm8LXjBZ2XadLKulVJVnTyAXmBpUq75ZtYySdLAtErgaXmqX9gqTYoSq1oGqFO0GdvbR0ikn5m50uwYzubTxlsDCI3sI2rWkkmJzGi40cdjUot9FXuGEPcmPyveXWNpYFpJ7uZmQOIEP6GUMTv6NxYaW1WlTZzR3PPKcMGoDicvIfevkBjHdWbSCamyS1",
+              "received": false
+            },
+            {
+              "_id": "69595e6d1c508c5d5e9661b7",
+              "name": "Fish30867",
+              "amount": 627,
+              "price": 7615,
+              "manufacturer": "Microsoft",
+              "notes": "xahfzVYACIhyodyif7eNIPIHnwSj9OZNNx1N3zUhRb6fHePz22ChS2qnkMKw6M9kWAmHivT7ElMvonA7iGBoIRoFOTtWRGU5z7oVJ1YCyDZH7eFnDCv57MFfxAWJW27QxIQVgT343bwkAClyeWNTH5G9W31LrevCEinGIYb0hyBpn8HdYvRh5AB2xbWOAOQeTX5dt2b7nct0IeKYbpixwQpwQ2NRxZaMAnDGWVASdFos3j2JhZHbmvEiMq",
+              "received": false
+            }
+          ],
+          "total_price": 12812,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:03:31.000Z",
+          "action": "Requested products changed",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a48fb1c508c5d5ea2bfbc",
+          "products": [
+            {
+              "_id": "695a48f61c508c5d5ea2be92",
+              "name": "Pizza42121",
+              "amount": 499,
+              "price": 43900,
+              "manufacturer": "Google",
+              "notes": "uHnFYL5cI8rjZrPVIBCKLrS5e8RjCsJRIiASq9taAH6wIq2U4TDhe1Wfi6sUwTYPLGXcCmN06jUNFHdTEIy31cgZhU2vDmDq3Css76fbhUM6diG5Vt5Vg8mEe7uGzygGhgDPSpPL4DRhd0moUv3Jhh5wFnFp3CB9jSG8y4z8jQyYc6x9ubTksTzvspIaMk6EDbX5NdHonlPHzf077tnOQGdGTKp92Y7HkMYUK8HqM9sbTYKaOCFtvfXcMY",
+              "received": false
+            }
+          ],
+          "total_price": 43900,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:03:23.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

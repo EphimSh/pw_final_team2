@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "content-type": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MzZmZmM3MWM1MDhjNWQ1ZTlhMzc2NCIsInJvbGVzIjpbIlVTRVIiXSwiaWF0IjoxNzY3NDkxMzEyLCJleHAiOjE3Njc1Nzc3MTJ9.E5snF21t5nPU4IT2P8qvrVcchLstXNadJZhF9OgtZbU"
+  },
+  "body": {
+    "address": {
+      "country": "France",
+      "city": "Mock City IN",
+      "street": "MockStreet6f",
+      "house": 171,
+      "flat": 7
+    },
+    "finalDate": "2026/01/09",
+    "condition": "Pickup"
+  }
+}

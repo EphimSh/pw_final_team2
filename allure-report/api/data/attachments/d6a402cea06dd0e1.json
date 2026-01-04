@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:04:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-0m8ecdc3k3FsE0mWqamW6UF0evc\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair16873",
+      "amount": 585,
+      "price": 35413,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T11:04:33.000Z",
+      "notes": "6NcpHPdV3zMJPeUklwmGzSjYi9EeQVy2wg2s4rCgZhq4JbI4smoMMy8fp8lY19h47gyZuJgIL8BOxBcB7Ylk9wm1dYk2WIDy1E4ntkbSXDjUpmzvnW9Ph7vJefezyikYrxsN9PBPgXbsgrYuNv3ailnLIb6r3K7noFsvbHwgCP2XDvtXoKqi3PeQi1kTcjC0K6693Gbf38A12osYBGAV6CxZ5fyM0njOd8o7xc16KuNRQn8sXkIpN2Hm1j",
+      "_id": "695a49411c508c5d5ea2d061"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

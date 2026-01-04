@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:04:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-qrrn5eTVD//E3v0lYmNEzJ3Mfb0\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat73520",
+      "amount": 893,
+      "price": 97860,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T11:04:22.000Z",
+      "notes": "NWQPd1ZXr2zP1NPmnjtTZ90yVx1aHiXbWk4HeHUxHwb3xe09delxsDBXc4J1SBYoRMngSzFS7HcDp35ThNcQjvHf6p11gNf6I50IipHcUDmReU1kUcxnHa6Q4LaIH5ZgWyKSt8BrvG63eOVy9lWTkWh6MmY0BHG8kSN9GIVeqNaZbAj426tgRf3e11KzXSooDelNFWiC7QdBcxEgeRDgeQzG2xgumc4tpXnKglZiwrWPfYsn0bhnvzyvTJ",
+      "_id": "695a49361c508c5d5ea2cecc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

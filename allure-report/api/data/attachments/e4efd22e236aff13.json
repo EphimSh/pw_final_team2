@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:04:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-1kolpKbKhxLy60N0WvxoAWj614c\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse49093",
+      "amount": 413,
+      "price": 98929,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T11:04:33.000Z",
+      "notes": "wUmAmWH1OhFiVATbkg9CEycE9578ebztJe13U1DJyGAoG253Po5Ad7DAnoHcgQLUmXHm1jKBoa1t7mco64FYtAHsSB9pypnaEyHPep6hM5WINASYQvJ5kSeR0Edzs7Ly2pJTIzErKMbjvteK9lJ2Hx8g68FvztGbhgzanoOy9TCDEfJzurklm14QeEKHv3vA2AvqRrZEUPaZmjeDZabl7M1upMpzEacHvHFHHmmS2pVvpNzQqM15FijiFZ",
+      "_id": "695a49411c508c5d5ea2d03d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

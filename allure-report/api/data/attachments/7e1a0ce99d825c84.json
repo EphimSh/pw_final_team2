@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:00:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "504",
+    "etag": "W/\"1f8-lQDLtp5bqJoN8OHgOg65dhbDono\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Charlene.OReilly@gmail.com",
+      "name": "ZPzyAGDNbLFpbijEtbQLqsmJmOyAsyOueAt",
+      "country": "Ukraine",
+      "city": "MowMLJxjSNcf",
+      "street": "zktYqBaBX",
+      "house": 129,
+      "flat": 2,
+      "phone": "+5489972593",
+      "createdOn": "2026-01-04T11:00:30.000Z",
+      "notes": "HWRTPk0Rg81DUbjElr96iRDonA8HFpnUTwFl5Ner6IDMw7wklsIdsSAZQlx63ShrBmRgWJQu05LUbZwhXUPNB2bGyffe6frRlfu5jmdCbuahcYyVTSZWHgAFTMavHyx4pqg6Kfv5LDrVPVdcTlIqbcSCFiNYPtYGL0gbipd5EP3DvUf8D5MFbi",
+      "_id": "695a484e1c508c5d5ea283f1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

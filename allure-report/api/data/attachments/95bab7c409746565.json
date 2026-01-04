@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "475",
+    "etag": "W/\"1db-0ZlgY3NUPTnbe0JWTAQjQttorz8\"",
+    "keep-alive": "timeout=5, max=56",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Dane_Pollich59@hotmail.com",
+      "name": "yVJHLwFUN",
+      "country": "Germany",
+      "city": "yEPUahyVjPdLf",
+      "street": "HCYL2kyyQa9uv0D2IU0FMM2cEYx",
+      "house": 34,
+      "flat": 4,
+      "phone": "+2669289635",
+      "createdOn": "2026-01-04T11:01:50.000Z",
+      "notes": "5uXJ5XyZZGKColqkJwwZ4dBO9GHxUaj2oTjIgZHVLaDyBK3RclhhCx2uMOGzMulRxJ7nZn09zgMUpuFE3fynU6nuMczC79cp60r9AfqtI8WJ73uQHnxsXievldb0QQRiZA3qy2QOnZwDYHkRNtNsM0fW2SR0g3SKG",
+      "_id": "695a489e1c508c5d5ea2a3f3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

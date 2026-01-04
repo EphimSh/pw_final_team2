@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "334",
+    "etag": "W/\"14e-Ym/zRRAYlrqQ+TBGi3fTyKcaj54\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Murray_Prohaska17@yahoo.com",
+      "name": "xTwhUJcOqqaUomdpx",
+      "country": "USA",
+      "city": "zLVybebPhjArOt",
+      "street": "8pFfcx",
+      "house": 37,
+      "flat": 1,
+      "phone": "+9405352214",
+      "createdOn": "2026-01-04T11:02:11.000Z",
+      "notes": "l7M6tNROItNyCS7A4JgYb8717BQ6TpfPdht",
+      "_id": "695a48b31c508c5d5ea2aa7a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

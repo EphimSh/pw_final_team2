@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:04:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "467",
+    "etag": "W/\"1d3-BE9Xq4beASJ1HMrF6xVtH89pbyc\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy S2536545",
+      "amount": 725,
+      "price": 3100,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T11:04:22.000Z",
+      "notes": "xoQBzk22co8oT2ajVpApPEq1hpBvgKO9cRIdfuh7BPSuTzIRdUAuzMxZWX0CFCuxY0nuLRxk9Kt5ueJb3xQ1aOsvVT3htR5k1pmqRrBDKqBhikcVhAziiMkfRJYiMxwzRbwh0P2lzS4y6ar8YUU97F3GGDaoWLLCX9FtLZmBuj2O3CMypCI3p3EUjstsu1HyOFn7QMJI1xWxFxLBNfrRN5PXFJvJ8SMqi8RLqq9RWH3NcfZLt8OgnMkYRG",
+      "_id": "695a49361c508c5d5ea2cec2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

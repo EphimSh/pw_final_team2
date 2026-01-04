@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:04:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-2mByuHAP9euko8w+GYk7KHSoil4\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat32906",
+      "amount": 860,
+      "price": 87131,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T11:04:37.000Z",
+      "notes": "b0bpexNL9WDpr1ClKDb0WoV1QxbcYhsyIt8MimeRsYXYMq1xjdd4EJlix7maPbz8aD2hJ7hK8mc9QpruOUH6wL0EliwUaMOTkFXLuUo4bvhw1uHelsOvAP0OL2HhfVSl7BW7dPWZdFB7SI2K3pxVobE3se4gX6dCXFsl0kdHwptSD8T0bnWcJI0qxhKQ1izK0OtBmo5ebbxokiJdz8TwABCJMTTwtLYgGtRE5vtSXqytJjvCI6sKmysdSU",
+      "_id": "695a49451c508c5d5ea2d0d7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

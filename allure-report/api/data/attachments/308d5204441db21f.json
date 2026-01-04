@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "340",
+    "etag": "W/\"154-q0nLvevDqGgMHOMjrm9w5k/Ksr8\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Gilberto.Kreiger65@hotmail.com",
+      "name": "rvwI",
+      "country": "Belarus",
+      "city": "jYaZuMuCStt",
+      "street": "Sxhaj5sPTyjYeBqMotBmXRt",
+      "house": 195,
+      "flat": 3,
+      "phone": "+3788196538",
+      "createdOn": "2026-01-04T11:02:59.000Z",
+      "notes": "W96VphWSN7Nye5YOKY7CKvh7ewyAT1jz",
+      "_id": "695a48e31c508c5d5ea2b8ef"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

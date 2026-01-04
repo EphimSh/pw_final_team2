@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:04:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-HUfDJxEEac0VK/iLPCnoT6R+TXo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat15312",
+      "amount": 605,
+      "price": 23109,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T11:04:10.000Z",
+      "notes": "sOAaeZ3LmeYLrut92iWK27dg2pYJlSwKhAodZcoCZBhDzSomD9lSDRbZhWnq2iSjGeJzN2odafRUTHeyiYfVKscJ0zLTRZZEo3bX3soHqwIEn8SCsxeaNFw5VHArYSUZyZyQTnDCr3PjcThWKGOvtyIxtIylsU8MBdiB6BcjTINf54gxHUUf7SLnWexPOheZC2CO8b6dSZljnfiZiFDUgKKfpgP01LLGnSqvxUOD2O9qhlYFjPJITXfBZV",
+      "_id": "695a492a1c508c5d5ea2cc2f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

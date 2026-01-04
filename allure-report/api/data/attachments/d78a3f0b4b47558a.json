@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-XZRiLd5/xYSBJaFM2knX2S+oDBU\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball7213",
+      "amount": 142,
+      "price": 45261,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T11:02:29.000Z",
+      "notes": "aoJAX96AoeiroBM1Dci9iySx78pbyTUrkYhY5gSIaLIRtMwonEqjWrU0AFgFowYxS35XYVf7y0cxNPh07QzuHzggXBQZstHZlNy92dIkh1gTR3uHm5ZqekpPSQURBxnYBwt4PkSmf2iSDqmh5ryzYmzfVNvtjlOD2Zc3SvVSgNHbb319xc2AyCSoUXNkcN6A9DGanLHyE8UjlNi5MZJ6i6r0A1zfbqf4x9gsf6tF8bDYhLw275JrKVrGdw",
+      "_id": "695a48c51c508c5d5ea2afe6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

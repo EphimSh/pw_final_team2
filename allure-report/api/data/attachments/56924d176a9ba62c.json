@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "435",
+    "etag": "W/\"1b3-SOp8Ocwo7pEHuWJDMG8Qc1l1UWQ\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Buddy_Greenfelder@hotmail.com",
+      "name": "VGJYyDfyRSYcWdjaATQslXyYd",
+      "country": "Belarus",
+      "city": "utERaCrpwBNpLIZzcB",
+      "street": "hr8WCQ",
+      "house": 162,
+      "flat": 1,
+      "phone": "+1540366003",
+      "createdOn": "2026-01-04T11:03:38.000Z",
+      "notes": "T7SjACO1yWl6ZDDpcupo6invdM3X90Twm8N3f4cdugqPOptHgZcofUmp5iQs5KiH5ifxd89A9hCO5PnM8MODok3zoYjnr1MmDeC83Lwb35mijjKzw3fcz",
+      "_id": "695a490a1c508c5d5ea2c347"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

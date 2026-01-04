@@ -1,0 +1,94 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2005",
+    "etag": "W/\"7d5-jfSVX1JDJlWByYtWXp4Kz3Dpn9g\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a48811c508c5d5ea2966d",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a487d1c508c5d5ea29541",
+        "email": "Clifford_Wiegand@yahoo.com",
+        "name": "iOvuAgocWlzqQtzluegxVZHbJkowJfkERkOBg",
+        "country": "Ukraine",
+        "city": "yyagHDcGWVwytqCxdxW",
+        "street": "pQxK",
+        "house": 155,
+        "flat": 1,
+        "phone": "+0285975481",
+        "createdOn": "2026-01-04T11:01:17.000Z",
+        "notes": "3WpthAOWyu2X7SRe2k3I1kMcgq2LjhYn90yebKNDG0Sm2dPC2RBIuJk8wQ3pvThzIAA512gDqn9bgM9xV9tVGwjm8PfbKZt1ywCbXsrQSW3dK87Wc5HAQ958GSrndtkf3zb1fEa7UP09ZsQh4EDaD3hNPAtuHvyRcMTNH"
+      },
+      "products": [
+        {
+          "_id": "695a48801c508c5d5ea29649",
+          "name": "Soap42583",
+          "amount": 592,
+          "price": 45835,
+          "manufacturer": "Tesla",
+          "notes": "SUbo1h2JmuKyatZg1DzippYVcYWQLVFeGuVrm0ZISxXjWYvVJHjDnizCOo8LVNUBwegFeY0XM7uFtn3kOpn6hYoxwtznlz1Oz8878XeQvN8bFA206M3APf3JVYATaO1UdlKxx1LLZNBDBkmmjaDIo03AVttR5KyA36OysY421D8bhvPQ8MbZtlx3KBYym8j6sgBtkrnKHhsRBxFSTK7mGfOKcB7mtG2Q0kxDCLuebLeNtb1iVrYDgyWwpi",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 45835,
+      "createdOn": "2026-01-04T11:01:21.000Z",
+      "comments": [
+        {
+          "text": "lSDILgPd4VWQZBvH8dT",
+          "createdOn": "2026-01-04T11:01:21.000Z",
+          "_id": "695a48811c508c5d5ea296db"
+        },
+        {
+          "text": "Lh",
+          "createdOn": "2026-01-04T11:01:23.000Z",
+          "_id": "695a48831c508c5d5ea297ba"
+        }
+      ],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a487d1c508c5d5ea29541",
+          "products": [
+            {
+              "_id": "695a48801c508c5d5ea29649",
+              "name": "Soap42583",
+              "amount": 592,
+              "price": 45835,
+              "manufacturer": "Tesla",
+              "notes": "SUbo1h2JmuKyatZg1DzippYVcYWQLVFeGuVrm0ZISxXjWYvVJHjDnizCOo8LVNUBwegFeY0XM7uFtn3kOpn6hYoxwtznlz1Oz8878XeQvN8bFA206M3APf3JVYATaO1UdlKxx1LLZNBDBkmmjaDIo03AVttR5KyA36OysY421D8bhvPQ8MbZtlx3KBYym8j6sgBtkrnKHhsRBxFSTK7mGfOKcB7mtG2Q0kxDCLuebLeNtb1iVrYDgyWwpi",
+              "received": false
+            }
+          ],
+          "total_price": 45835,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:01:21.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

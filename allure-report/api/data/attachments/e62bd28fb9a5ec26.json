@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "529",
+    "etag": "W/\"211-DvrKOqTGMj/S3J1OJeRdxSUmVKs\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Libbie.Jacobson72@hotmail.com",
+      "name": "NppmdEFgXMLLTYtT",
+      "country": "Germany",
+      "city": "UeTJFYFaGveYqFZOtfmu",
+      "street": "Jt8k4FkWsaf8N5jMFNwRCtDKwUKtvR6wrJOEsX",
+      "house": 168,
+      "flat": 6,
+      "phone": "+1544621053",
+      "createdOn": "2026-01-04T11:01:40.000Z",
+      "notes": "XAOFXZv5ZJZx70u2l0IfB3coKdjRal3JJD4JcBsBYbKbJhoB5VyMXWx6vtiFTjCwtkvxbtslnsUI11715SMVeSS3DT0dZLjiopu9dN1DIcCrtmgdaScC6SozbjtAAYAeylSr41pIHcxzoTnCD3JGIrvFGevtX2p154QqqX0WSWfq70bEhBOFyvdHEs",
+      "_id": "695a48941c508c5d5ea29f98"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

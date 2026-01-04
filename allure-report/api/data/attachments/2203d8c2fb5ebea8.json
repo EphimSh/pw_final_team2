@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-3YEY9B7Nq098t5/toWI+GRBDxpM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Table31648",
+      "amount": 277,
+      "price": 99999,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T11:03:52.000Z",
+      "notes": "GXbR8JM7iJggZ6ptha3JIjF2S54Rqp8Rn3nSjx5CDU7SkVwKOH413eKsnzjlpz7MpsuaB2CHB4Fo51apI7XXB3cukiVyYvhgrULbtPElrFCYDiidjmpBplVrIsUbvM0O7Fi8uhOg9rerUS57znnofMlfBuEye5llESZl29jd74UO4D6Vrlgny2CUWaIFDhC4y68tEYBG1AVJFA4Qx5PrSnqtetehQ9wGf3YUe4sj993n9R5EfdWKjZHH8I",
+      "_id": "695a49181c508c5d5ea2c8b8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-TSJ52WyWU+XOGcwt5JiXvQT2g2c\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken23420",
+      "amount": 707,
+      "price": 87671,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T11:02:48.000Z",
+      "notes": "9vVROiyxS1AQUZ5Zv1Fcobp9ywfXqf1MY3y3Bmooc3G7h8GnBd9huvslmnUIuOqbiVAx6p8ZlHNiOUIth0LzgKRovbGQ7bVqbmdi5RWy9MC6LDX2lsT1MHIuvIDSWmVdfnOrqR5i4JddFfUrWxR9XTw4rIwPt3KRZHv5VnL3EaIuoaqeZRjkJy3Y0oaPdhKmKvRkSM1wXPUPDj07Ke9FtFmnfl2bwgYkYjH719Ki10aC4MuA6GIgZm80rG",
+      "_id": "695a48d81c508c5d5ea2b5d1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

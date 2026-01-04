@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "546",
+    "etag": "W/\"222-Eipeu8tWSdqv8UaangwuEoonZ/g\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Nikolas54@gmail.com",
+      "name": "kJMreqFVeOgiezyQfRgtUYYzEGlYYRJsMDp",
+      "country": "Russia",
+      "city": "NitbJPcvsn",
+      "street": "nhjiPLUwaWIQI",
+      "house": 82,
+      "flat": 5,
+      "phone": "+5686182490",
+      "createdOn": "2026-01-04T11:03:13.000Z",
+      "notes": "6yJRBLjSqtMTubVp8VoWU3qtkKB5Lh5hZJuENIgtHKKcLhrc74D37mPYXGoekmsMCy2E4hLcPs5gjiStSbXwh4opiHFBIXDRQgZrHyi1x8AlhCz7wNTAZF5k2E0nKHEAgr5KzXUW9MX0SbynvEaoTCdDyY8QzA3SFD9WSORHDWXxCLvzcZOp4Jv589CdzSPDhoRzo4OdDk9pqDW2xx83YWtn9SxTTsO7Iug2zMc",
+      "_id": "695a48f11c508c5d5ea2bcc8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

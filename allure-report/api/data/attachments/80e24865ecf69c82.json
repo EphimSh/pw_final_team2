@@ -1,0 +1,101 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2621",
+    "etag": "W/\"a3d-NAyhlLwJnW9kC8s0TMFlR8eofr8\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "695a490b1c508c5d5ea2c399",
+        "email": "Jayme5@hotmail.com",
+        "name": "DfajGABpjaWbHnfVCGpFSOHQUdqUDFPnHD",
+        "country": "France",
+        "city": "uyHCcPIIHJ",
+        "street": "aFjXJusZpvqczuAiO",
+        "house": 48,
+        "flat": 5,
+        "phone": "+3660741908",
+        "createdOn": "2026-01-04T11:03:39.000Z",
+        "notes": "5CTsatIvtZA98iSpalQG8MW3xM64RUFuwm2CI9JrcaIcthmzlHFtnrtDhETSEsJCViJP0NrhxIQ0pg66jYYGp37bnDSS9GZlbV7HKg9MpRBLKomCzAa2ZUrdpW8wkJnpBDvu5NLWgE7k1wG2mhKnNUtLjjHr0zHHOZ0VkFdzbDd9nrmkmVMZMwNuMr6FiZkJqYy3eLx7tBzp9K8V6gjsrqKf"
+      },
+      "products": [
+        {
+          "_id": "695a490e1c508c5d5ea2c4fb",
+          "name": "Car8811",
+          "amount": 497,
+          "price": 5792,
+          "manufacturer": "Apple",
+          "notes": "7of7ApSvKSfeulzAS4WgLLtXrKeHprk2n8USsiAL4YiKM6iVhdzw57GDcedagN7c63gHti5dKd7lryexgFPq0d5IbbvZeuI4yW75XQS2ZTAUzFwu9YCcaHJBr4ANwr6HEf2nbiRE2DldxdHpGDLmCYXhP6bNah8y0OLeFOGoefJpBLtbAG25WkNjpOzMWVs4AMbmKUI7edtb7eb1U5R1EfIZsIBy8mGp79VuwOzXtjAzw9Ws4hYAWnHCGb",
+          "received": false
+        },
+        {
+          "_id": "695a49111c508c5d5ea2c582",
+          "name": "Mouse69775",
+          "amount": 296,
+          "price": 82062,
+          "manufacturer": "Xiaomi",
+          "notes": "WtDMRjjgPuXuk7uiN53dOLNfwBjKZmQ5nqIjt2orXJETIplCSIWGwKrEGIVbjbitoTxvGVR6Wld1C2iHfhBcBUTOW0s7QJtCDoqb9PanstK3m8ZsL3rMseCInsptGnZ0Ormd64pEo6FIm3saTs7GbEe2BGdDWkhsFqnIz12gT51z3mSQnhNfKIyr3wHIpsvtMo3HFxsx3pwjVFttvarZG9hzlMySIh7dVik8zaYoVnd0g1kCb124ArZTp4",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 87854,
+      "createdOn": "2026-01-04T11:03:46.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a490b1c508c5d5ea2c399",
+          "products": [
+            {
+              "_id": "695a490e1c508c5d5ea2c4fb",
+              "name": "Car8811",
+              "amount": 497,
+              "price": 5792,
+              "manufacturer": "Apple",
+              "notes": "7of7ApSvKSfeulzAS4WgLLtXrKeHprk2n8USsiAL4YiKM6iVhdzw57GDcedagN7c63gHti5dKd7lryexgFPq0d5IbbvZeuI4yW75XQS2ZTAUzFwu9YCcaHJBr4ANwr6HEf2nbiRE2DldxdHpGDLmCYXhP6bNah8y0OLeFOGoefJpBLtbAG25WkNjpOzMWVs4AMbmKUI7edtb7eb1U5R1EfIZsIBy8mGp79VuwOzXtjAzw9Ws4hYAWnHCGb",
+              "received": false
+            },
+            {
+              "_id": "695a49111c508c5d5ea2c582",
+              "name": "Mouse69775",
+              "amount": 296,
+              "price": 82062,
+              "manufacturer": "Xiaomi",
+              "notes": "WtDMRjjgPuXuk7uiN53dOLNfwBjKZmQ5nqIjt2orXJETIplCSIWGwKrEGIVbjbitoTxvGVR6Wld1C2iHfhBcBUTOW0s7QJtCDoqb9PanstK3m8ZsL3rMseCInsptGnZ0Ormd64pEo6FIm3saTs7GbEe2BGdDWkhsFqnIz12gT51z3mSQnhNfKIyr3wHIpsvtMo3HFxsx3pwjVFttvarZG9hzlMySIh7dVik8zaYoVnd0g1kCb124ArZTp4",
+              "received": false
+            }
+          ],
+          "total_price": 87854,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:03:46.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695a49121c508c5d5ea2c5f3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

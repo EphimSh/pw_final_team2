@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:03:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-p6cz5ibYkBqqFncc1O2AbvtxVFw\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken86081",
+      "amount": 55,
+      "price": 343,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T11:03:14.000Z",
+      "notes": "RdQWIA1tsoXyeJ5i7IpF3YGKDsAod75sgFzFk2sqj4j4bXlVB4jTZDlMFArfiy7e7llUaE7NbO117AcQmcsXGR7YrP0dTsqXs20585rKd9r83Vx57MWlSeIoQBao8S3P21arjJBTLso1pkJ45SmTwoYl8Ns42EEn7V6nz42IWUTYPrhLtBKETFwDClrFGXmuYrETN9rEplQESLXVASGQEUwtZ08cYmnIlsVdTdUFJAGmT2LReGBoFqaZrO",
+      "_id": "695a48f21c508c5d5ea2bd32"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

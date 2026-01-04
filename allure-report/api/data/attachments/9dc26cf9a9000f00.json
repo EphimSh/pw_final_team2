@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-z+baWVjcqQx999G+fV7xUNp1VkM\"",
+    "keep-alive": "timeout=5, max=74",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt62930",
+      "amount": 995,
+      "price": 60700,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T11:01:00.000Z",
+      "notes": "F2xt03VLocuCmnyVrEyGLRdsRlE9AIzcDjM62vhHGOIa6NEXkULRyn7XDUU7PeUhTvSNTh6i0o1jQWiDsh31ufGNnsQKZ1auTPgNUdiyGrLte4LMIqeV7fb3ZND8muk6rwBMb0YQJw4MRRQWM3OZiHPatAwoz69NkeA5tuIpVvT1oELRnonlovAJ2WkNo8yUsDqwEzFNcyNaLNcgDOgXvjZqy3uX5nH4PIALXds1JlQwndYlk7MGZ0esLM",
+      "_id": "695a486c1c508c5d5ea28e24"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

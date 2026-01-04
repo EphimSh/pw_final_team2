@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "468",
+    "etag": "W/\"1d4-6joeLyi2zLtYI67uSQRSIAvBCJc\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "695a48b31c508c5d5ea2aa7a",
+      "email": "Judd.Douglas20@hotmail.com",
+      "name": "Ivan Ivanov",
+      "country": "Ukraine",
+      "city": "oQLWiVlaCJ",
+      "street": "lFGPDnoQV0GtgUf",
+      "house": 174,
+      "flat": 4,
+      "phone": "+1245988570",
+      "createdOn": "2026-01-04T11:02:11.000Z",
+      "notes": "SiL87SDhRgaX0MtNSbASQRXTVpIp5knHRgJgGrBDuF5zo6HDPSUyhOSviEToWGyMfS4VjOZXqjdxifgedkpasC6FAZZcz13NpceBYIPExRVCBn3EYx1YGIAsrqOp1SBIxcYuHdkmaUQOO6BUyhpDBFU6aPAPB0w2KxN2dO"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

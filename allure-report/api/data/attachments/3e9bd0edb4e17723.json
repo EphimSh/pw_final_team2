@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:00:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "373",
+    "etag": "W/\"175-nS7ZrUBamSUnV+ylFF9Vu6UVvk4\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Shaun_Dibbert@yahoo.com",
+      "name": "VryJlBFXgpSwPpmMEOocfzCRiOiMjYskPfHchFG",
+      "country": "France",
+      "city": "vDPWgYV",
+      "street": "q9SScN4zUQHBRFpVzlMG",
+      "house": 79,
+      "flat": 9,
+      "phone": "+7314625241",
+      "createdOn": "2026-01-04T11:00:20.000Z",
+      "notes": "zPxzDP6BxkABuYgaBgCEvYbUHognc3JJUBlfI364BhsAt2",
+      "_id": "695a48441c508c5d5ea280c3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

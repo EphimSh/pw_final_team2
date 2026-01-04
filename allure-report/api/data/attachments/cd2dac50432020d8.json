@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "436",
+    "etag": "W/\"1b4-fqWHFiH6eoIO1+edLjwjp/0/S+g\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Stephan.Raynor@hotmail.com",
+      "name": "MlJJnTHygsChnKw",
+      "country": "Belarus",
+      "city": "flPumRgrRWd",
+      "street": "M4KpOCKtCA6PWyr4hVXcQD",
+      "house": 117,
+      "flat": 8,
+      "phone": "+1362579478",
+      "createdOn": "2026-01-04T11:02:52.000Z",
+      "notes": "0nCVw3hs8RcngEq097IZ4yym5uZs4ueLvOsYT9HEzO2Ltd0lv0p96g6BHuAo2H6XjBnSOCtmOqvIfY0GAQl77NxPW3lR7tQVQFEOfmNsaWn52jsBIrYDVrU2bu",
+      "_id": "695a48dc1c508c5d5ea2b70a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

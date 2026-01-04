@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:00:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-6TSBvfqLQLWyJZ6QPLUX2VVAQx4\"",
+    "keep-alive": "timeout=5, max=75",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse61445",
+      "amount": 698,
+      "price": 94260,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T11:00:56.000Z",
+      "notes": "Rh521yGy2edaWxF2UB15qYod4e2lIjRl5fkP3Jx6HLXGaraqPCODhntIb9xr3wtCQEhgokbCG3ohdP1sOnBoxqjlAWmp2ad0vWRVuVPffDkWRn3jWRlhnhScHLevf7TH7AbK9f7TEQ761iWqyoYH4Uzy4UsHyO1tf9erRtD0RnqWtjPmz64EGsT44SRxX1KEiXoFkUXMDPiGZO6gSopV1gxPL7HbRgbzCylNFEDfQTo0pIfuNrQHBo2FUz",
+      "_id": "695a48681c508c5d5ea28c9e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

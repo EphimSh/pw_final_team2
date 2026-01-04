@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:00:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "390",
+    "etag": "W/\"186-KtMKjYovaeRMJAmIhDvUJMqvWYQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Joana.Hackett74@hotmail.com",
+      "name": "YRySrgHSKJRQdzLtEVEXMhYHCOPwLvhuFQjSUvZ",
+      "country": "Great Britain",
+      "city": "midJMNtXZojVxNwyQVey",
+      "street": "asdY",
+      "house": 152,
+      "flat": 7,
+      "phone": "+1929339319",
+      "createdOn": "2026-01-04T11:00:20.000Z",
+      "notes": "mef8hFOlKTfQmS8LFszFq9SB2aeKw1AvHEyhB4nR6dRXbF6Bgjojj6",
+      "_id": "695a48441c508c5d5ea2805e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
