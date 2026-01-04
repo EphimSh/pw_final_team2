@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:29:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "432",
+    "etag": "W/\"1b0-3MBjKAmOqaeUmLJTx/TsAXOKPWE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Gene.Leannon67@gmail.com",
+      "name": "PdtLYhsdXqLBkFRelJdeZFkGSgndWHPBznlPGaz",
+      "country": "Canada",
+      "city": "HYuSCxenjEUgn",
+      "street": "c7pXXNA3sxo",
+      "house": 110,
+      "flat": 2,
+      "phone": "+3087660283",
+      "createdOn": "2026-01-04T11:29:51.000Z",
+      "notes": "39Dh7q5rAU2mS63zpDyWlVe2vFPVhh0h8FcZiqufEPALMFbi2pvweisltqvQ377KmXpTCmRyBS7de21bFijN2Wjj1RV03xMxaREPbdMuAj",
+      "_id": "695a4f2f1c508c5d5ea44027"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:27:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "392",
+    "etag": "W/\"188-sE0CWE3+2ejAef5LwAWz12CEuKE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Michel_Abbott92@hotmail.com",
+      "name": "i",
+      "country": "France",
+      "city": "swUOxQsGsIiZM",
+      "street": "qKPpYWUb0pbzKslULifr",
+      "house": 91,
+      "flat": 2,
+      "phone": "+0899496658",
+      "createdOn": "2026-01-04T11:27:29.000Z",
+      "notes": "jKdVaOdlugldMGZzaY5Aw3XDnZghSjrQ8ZFDfyPzm5fchQpcld1kaP8cBtfdg3vt6XZ84Re1KzxCSYIlUs9p3hSVZIzgs",
+      "_id": "695a4ea11c508c5d5ea4186d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

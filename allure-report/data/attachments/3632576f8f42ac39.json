@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:31:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-ev96E/OUEYMxRVhMLcvhvWjQa8c\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves89306",
+      "amount": 304,
+      "price": 56496,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T11:31:34.000Z",
+      "notes": "7OY7axhSddqJZ7R1IQVbszZNkH7VAUcYSqGst8deJiF46PMb3NXkY1qbbZ1yTQgvzv67rVYNfZ5vNbysOIvSeSl7etwjxR88J1Xs20MW6l4nMbcHv1nS9efVPKi1gMinECc4ltwDo2hOmNeH49us182rMhw5mwq0aLWQY3LaU9faRWxV2qwdPyyXhIgkkmYgvUy75JwPhhTkVndELFKOh4BYS7Gkd2CVVggT0cvPTEbgTYV3KVA0hMKh02",
+      "_id": "695a4f961c508c5d5ea466d4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

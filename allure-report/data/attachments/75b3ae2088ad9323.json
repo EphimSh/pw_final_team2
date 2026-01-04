@@ -1,0 +1,160 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:27:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4051",
+    "etag": "W/\"fd3-/FR+uOZB16pc/YGQDpIWGp2BuR0\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a4eb01c508c5d5ea41bb5",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a4ea11c508c5d5ea41869",
+        "email": "Josianne_Bergnaum@yahoo.com",
+        "name": "BchOCecHHvqAinTkiKPCJ",
+        "country": "Great Britain",
+        "city": "LFdeMnuXYkVKd",
+        "street": "NzRTP3",
+        "house": 45,
+        "flat": 8,
+        "phone": "+2344539832",
+        "createdOn": "2026-01-04T11:27:29.000Z",
+        "notes": "uCUX1dITbsXrnmHDl7AbeifWF9e8V4PcexeqqxOD1Iln7OOss1Rss18u2SKuyf9d1T0eV6apKyh0CwPHasHAm8LpyeMsiS3C2BNck0mXvP1OeKHThv2IKeQjgTWwmVCcK1wLdd69Jku2UbdunE210xTtD2JUT2o2ixt5BUcEglK"
+      },
+      "products": [
+        {
+          "_id": "695a4ea51c508c5d5ea41a3c",
+          "name": "Sausages17049",
+          "amount": 514,
+          "price": 89906,
+          "manufacturer": "Google",
+          "notes": "OFI6DVHmZvNHOSetq7zqZ16CWsfjgjmUOq9Tn9rEBUKs4h2QUQSRRELawlLYJHyO8La54mDTOr0v8Ii89SJRMNPnlCO0eiDYoSvXrX8r3h6MDHSf8mcXeEtERe0D5qx3ay38MMd7jORReO5wq70t9OQgfar1xHQzKbarQu3LNeYd4KNxP3ZBJYA2O4CpYIe4PgvTcvbSHGb1LWlBxKaW8SXNjPNBe6xfi9FBSWie0BvGqfz0bDj1SO6b0E",
+          "received": false
+        },
+        {
+          "_id": "695a4eb01c508c5d5ea41b7c",
+          "name": "Pants51711",
+          "amount": 497,
+          "price": 29236,
+          "manufacturer": "Xiaomi",
+          "notes": "k7EAKrgLPQt4nfPf63WiQlJRrHX6cLYsAZi9TQeXh1VMaEgA0mYFOdD3aTqqPO0bIEWO6fv2R23idNFLlEX1prYQDJptcOp1djEFoYZNzAQMcNXvS72d7lEf27vhvJCx1NmJCYb6vnztp8rwjeDJlMmWDoqRzZgNU9NAJWDR5h8TWNp85I7ihwa7MSvRjrfX5LTZCNGgZK6TSMEx58tqVu7oLSKBZMc66w72NiDnfKn9l426rXkJlFg0jB",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Russia",
+          "city": "Mock City ZmaT",
+          "street": "MockStreetb1H",
+          "house": 54,
+          "flat": 15
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 119142,
+      "createdOn": "2026-01-04T11:27:44.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a4ea11c508c5d5ea41869",
+          "products": [
+            {
+              "_id": "695a4ea51c508c5d5ea41a3c",
+              "name": "Sausages17049",
+              "amount": 514,
+              "price": 89906,
+              "manufacturer": "Google",
+              "notes": "OFI6DVHmZvNHOSetq7zqZ16CWsfjgjmUOq9Tn9rEBUKs4h2QUQSRRELawlLYJHyO8La54mDTOr0v8Ii89SJRMNPnlCO0eiDYoSvXrX8r3h6MDHSf8mcXeEtERe0D5qx3ay38MMd7jORReO5wq70t9OQgfar1xHQzKbarQu3LNeYd4KNxP3ZBJYA2O4CpYIe4PgvTcvbSHGb1LWlBxKaW8SXNjPNBe6xfi9FBSWie0BvGqfz0bDj1SO6b0E",
+              "received": false
+            },
+            {
+              "_id": "695a4eb01c508c5d5ea41b7c",
+              "name": "Pants51711",
+              "amount": 497,
+              "price": 29236,
+              "manufacturer": "Xiaomi",
+              "notes": "k7EAKrgLPQt4nfPf63WiQlJRrHX6cLYsAZi9TQeXh1VMaEgA0mYFOdD3aTqqPO0bIEWO6fv2R23idNFLlEX1prYQDJptcOp1djEFoYZNzAQMcNXvS72d7lEf27vhvJCx1NmJCYb6vnztp8rwjeDJlMmWDoqRzZgNU9NAJWDR5h8TWNp85I7ihwa7MSvRjrfX5LTZCNGgZK6TSMEx58tqVu7oLSKBZMc66w72NiDnfKn9l426rXkJlFg0jB",
+              "received": false
+            }
+          ],
+          "total_price": 119142,
+          "delivery": {
+            "address": {
+              "country": "Russia",
+              "city": "Mock City ZmaT",
+              "street": "MockStreetb1H",
+              "house": 54,
+              "flat": 15
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T11:27:45.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a4ea11c508c5d5ea41869",
+          "products": [
+            {
+              "_id": "695a4ea51c508c5d5ea41a3c",
+              "name": "Sausages17049",
+              "amount": 514,
+              "price": 89906,
+              "manufacturer": "Google",
+              "notes": "OFI6DVHmZvNHOSetq7zqZ16CWsfjgjmUOq9Tn9rEBUKs4h2QUQSRRELawlLYJHyO8La54mDTOr0v8Ii89SJRMNPnlCO0eiDYoSvXrX8r3h6MDHSf8mcXeEtERe0D5qx3ay38MMd7jORReO5wq70t9OQgfar1xHQzKbarQu3LNeYd4KNxP3ZBJYA2O4CpYIe4PgvTcvbSHGb1LWlBxKaW8SXNjPNBe6xfi9FBSWie0BvGqfz0bDj1SO6b0E",
+              "received": false
+            },
+            {
+              "_id": "695a4eb01c508c5d5ea41b7c",
+              "name": "Pants51711",
+              "amount": 497,
+              "price": 29236,
+              "manufacturer": "Xiaomi",
+              "notes": "k7EAKrgLPQt4nfPf63WiQlJRrHX6cLYsAZi9TQeXh1VMaEgA0mYFOdD3aTqqPO0bIEWO6fv2R23idNFLlEX1prYQDJptcOp1djEFoYZNzAQMcNXvS72d7lEf27vhvJCx1NmJCYb6vnztp8rwjeDJlMmWDoqRzZgNU9NAJWDR5h8TWNp85I7ihwa7MSvRjrfX5LTZCNGgZK6TSMEx58tqVu7oLSKBZMc66w72NiDnfKn9l426rXkJlFg0jB",
+              "received": false
+            }
+          ],
+          "total_price": 119142,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:27:44.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

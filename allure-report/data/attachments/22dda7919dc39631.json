@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:27:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-8QH3oYrOfWzF7YZRBJTWN4BiN2o\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants51711",
+      "amount": 497,
+      "price": 29236,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T11:27:44.000Z",
+      "notes": "k7EAKrgLPQt4nfPf63WiQlJRrHX6cLYsAZi9TQeXh1VMaEgA0mYFOdD3aTqqPO0bIEWO6fv2R23idNFLlEX1prYQDJptcOp1djEFoYZNzAQMcNXvS72d7lEf27vhvJCx1NmJCYb6vnztp8rwjeDJlMmWDoqRzZgNU9NAJWDR5h8TWNp85I7ihwa7MSvRjrfX5LTZCNGgZK6TSMEx58tqVu7oLSKBZMc66w72NiDnfKn9l426rXkJlFg0jB",
+      "_id": "695a4eb01c508c5d5ea41b7c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

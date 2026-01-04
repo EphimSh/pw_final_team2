@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:30:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1764",
+    "etag": "W/\"6e4-e3qGHY3O13culpC5JyDalUymqBw\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a4f3a1c508c5d5ea441ad",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a4f2f1c508c5d5ea44027",
+        "email": "Gene.Leannon67@gmail.com",
+        "name": "PdtLYhsdXqLBkFRelJdeZFkGSgndWHPBznlPGaz",
+        "country": "Canada",
+        "city": "HYuSCxenjEUgn",
+        "street": "c7pXXNA3sxo",
+        "house": 110,
+        "flat": 2,
+        "phone": "+3087660283",
+        "createdOn": "2026-01-04T11:29:51.000Z",
+        "notes": "39Dh7q5rAU2mS63zpDyWlVe2vFPVhh0h8FcZiqufEPALMFbi2pvweisltqvQ377KmXpTCmRyBS7de21bFijN2Wjj1RV03xMxaREPbdMuAj"
+      },
+      "products": [
+        {
+          "_id": "695a4f321c508c5d5ea4411d",
+          "name": "Towels21797",
+          "amount": 264,
+          "price": 91370,
+          "manufacturer": "Google",
+          "notes": "LClNpr4wXRtIrActwrNHDPr6DpLUdAtMRCL47ovF70ubbHF5GsLyAZac1FfGq9ovJDloyiHxHVDsjrehaxldIjHhtUj7TuAFkiWwD6gfgPiepouPks9BOIo0hKNUmUVCO67meVZEkEM6YQwYnRUVtviSx4GAQDl0pE68oM3N2W9If00a3or608bs7OKGQwMsv6wsZ9PptSx0IVl81pFej2Ae3lirFfI5GUYhwrTIX07IDih90IgtGgrjo0",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 91370,
+      "createdOn": "2026-01-04T11:30:02.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a4f2f1c508c5d5ea44027",
+          "products": [
+            {
+              "_id": "695a4f321c508c5d5ea4411d",
+              "name": "Towels21797",
+              "amount": 264,
+              "price": 91370,
+              "manufacturer": "Google",
+              "notes": "LClNpr4wXRtIrActwrNHDPr6DpLUdAtMRCL47ovF70ubbHF5GsLyAZac1FfGq9ovJDloyiHxHVDsjrehaxldIjHhtUj7TuAFkiWwD6gfgPiepouPks9BOIo0hKNUmUVCO67meVZEkEM6YQwYnRUVtviSx4GAQDl0pE68oM3N2W9If00a3or608bs7OKGQwMsv6wsZ9PptSx0IVl81pFej2Ae3lirFfI5GUYhwrTIX07IDih90IgtGgrjo0",
+              "received": false
+            }
+          ],
+          "total_price": 91370,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:30:02.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

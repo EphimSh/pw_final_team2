@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:29:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-WbcSBs/PCGD5FG9MzD9nb6onyAY\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad1556",
+      "amount": 331,
+      "price": 99462,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T11:29:24.000Z",
+      "notes": "ORZnwwqzSVCzAAuxwy9uiu5SOiTHaPjfmbylHkaHqLvpiPc2rWHDkyopmmf9Fc7FlVR1txFCPrVfJo1mSzhKv9YWESH3Plbx65x6iRsNqpG9FTkVdDTSQtaHplo3RdM7fbEfUZPKJDMZKtMolViv2r8ZLzWbKl2yjEiT77XmXDkWS0JekUTy8wwzNCuwm65diIfLaBxDWxGDT1EUQTN4YaWTUiHt21URU3XQvvfAVW27owiv1RGfDsmUop",
+      "_id": "695a4f141c508c5d5ea43856"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

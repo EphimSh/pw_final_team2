@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:28:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "485",
+    "etag": "W/\"1e5-GxVrIEzaId3cD+t7RnJJKoH5zCE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jeffery.Wisoky84@hotmail.com",
+      "name": "JTKkqm",
+      "country": "France",
+      "city": "YEvBSVYeMEVNO",
+      "street": "WClrs36iWIOEHnJZSb51GYFD6vqx7a",
+      "house": 163,
+      "flat": 7,
+      "phone": "+9792493871",
+      "createdOn": "2026-01-04T11:28:16.000Z",
+      "notes": "nkfwhXIR33aOikml5tcQDP0TsVTWmSipupxUYVqOjETKCBFbExRNnizkWc0jb0sqCxBxr3LL6h8Xqhx7xdiDwoKxBbHGLbcrzuVYIfdRhUyXekQ1TUinzJhDlJv3q1EFrKKzE4WDc5AYKlygcPjRX4cPizvhxPEE8heoiPTUB",
+      "_id": "695a4ed01c508c5d5ea4276e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

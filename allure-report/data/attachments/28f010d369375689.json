@@ -1,0 +1,173 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:30:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3799",
+    "etag": "W/\"ed7-JdmLfjMjI09o2jvMiZH26N+qXHk\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a4f3a1c508c5d5ea44199",
+      "status": "Canceled",
+      "customer": {
+        "_id": "695a4f301c508c5d5ea4405d",
+        "email": "Georgette.Kassulke33@gmail.com",
+        "name": "nr",
+        "country": "Canada",
+        "city": "peKzoRKmajnF",
+        "street": "xhLw7Ye",
+        "house": 199,
+        "flat": 9,
+        "phone": "+4383111265",
+        "createdOn": "2026-01-04T11:29:52.000Z",
+        "notes": "3xrkZnSsd6eSD3P7gnY5foqsU3Y19oiidYpt1F1FHpTaWVpRgoyISDJuUHUqV9y9DL79ogpNrmUkbdZ57xDftzrs3FDzNlPcc3o1wCnrIIOomLb"
+      },
+      "products": [
+        {
+          "_id": "695a4f341c508c5d5ea4412b",
+          "name": "Salad70644",
+          "amount": 743,
+          "price": 79629,
+          "manufacturer": "Google",
+          "notes": "Rq4GglF4hwsVYfcYZoWJGumXKMGROCRHVEZLBgZPbjb1q5Mvog8cXXVRhbejLyhIEG8LDkbdGRLKtScUJ9faOO1bIAw60aIHy07FxZsCCsEDtt5FK0eNy20oMlTBxS164jRMWuj6yl97c1cYTkVOdfDAGT6ofdGpkYTqdsd3EvVxCrFC54HTA2mPOJkX3vRSDu0zYqLuiok9WcScPUEUF80J2jMgtdpesqLDN19rcC7vctTptCA8d4cFGW",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Canada",
+          "city": "Mock City HixcYlcXt",
+          "street": "MockStreetc3V8ySj9itkeersouu8ivKJjc",
+          "house": 131,
+          "flat": 13
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 79629,
+      "createdOn": "2026-01-04T11:30:02.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Canceled",
+          "customer": "695a4f301c508c5d5ea4405d",
+          "products": [
+            {
+              "_id": "695a4f341c508c5d5ea4412b",
+              "name": "Salad70644",
+              "amount": 743,
+              "price": 79629,
+              "manufacturer": "Google",
+              "notes": "Rq4GglF4hwsVYfcYZoWJGumXKMGROCRHVEZLBgZPbjb1q5Mvog8cXXVRhbejLyhIEG8LDkbdGRLKtScUJ9faOO1bIAw60aIHy07FxZsCCsEDtt5FK0eNy20oMlTBxS164jRMWuj6yl97c1cYTkVOdfDAGT6ofdGpkYTqdsd3EvVxCrFC54HTA2mPOJkX3vRSDu0zYqLuiok9WcScPUEUF80J2jMgtdpesqLDN19rcC7vctTptCA8d4cFGW",
+              "received": false
+            }
+          ],
+          "total_price": 79629,
+          "delivery": {
+            "address": {
+              "country": "Canada",
+              "city": "Mock City HixcYlcXt",
+              "street": "MockStreetc3V8ySj9itkeersouu8ivKJjc",
+              "house": 131,
+              "flat": 13
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-04T11:30:05.000Z",
+          "action": "Order canceled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a4f301c508c5d5ea4405d",
+          "products": [
+            {
+              "_id": "695a4f341c508c5d5ea4412b",
+              "name": "Salad70644",
+              "amount": 743,
+              "price": 79629,
+              "manufacturer": "Google",
+              "notes": "Rq4GglF4hwsVYfcYZoWJGumXKMGROCRHVEZLBgZPbjb1q5Mvog8cXXVRhbejLyhIEG8LDkbdGRLKtScUJ9faOO1bIAw60aIHy07FxZsCCsEDtt5FK0eNy20oMlTBxS164jRMWuj6yl97c1cYTkVOdfDAGT6ofdGpkYTqdsd3EvVxCrFC54HTA2mPOJkX3vRSDu0zYqLuiok9WcScPUEUF80J2jMgtdpesqLDN19rcC7vctTptCA8d4cFGW",
+              "received": false
+            }
+          ],
+          "total_price": 79629,
+          "delivery": {
+            "address": {
+              "country": "Canada",
+              "city": "Mock City HixcYlcXt",
+              "street": "MockStreetc3V8ySj9itkeersouu8ivKJjc",
+              "house": 131,
+              "flat": 13
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-04T11:30:04.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a4f301c508c5d5ea4405d",
+          "products": [
+            {
+              "_id": "695a4f341c508c5d5ea4412b",
+              "name": "Salad70644",
+              "amount": 743,
+              "price": 79629,
+              "manufacturer": "Google",
+              "notes": "Rq4GglF4hwsVYfcYZoWJGumXKMGROCRHVEZLBgZPbjb1q5Mvog8cXXVRhbejLyhIEG8LDkbdGRLKtScUJ9faOO1bIAw60aIHy07FxZsCCsEDtt5FK0eNy20oMlTBxS164jRMWuj6yl97c1cYTkVOdfDAGT6ofdGpkYTqdsd3EvVxCrFC54HTA2mPOJkX3vRSDu0zYqLuiok9WcScPUEUF80J2jMgtdpesqLDN19rcC7vctTptCA8d4cFGW",
+              "received": false
+            }
+          ],
+          "total_price": 79629,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:30:02.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

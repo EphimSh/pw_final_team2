@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:31:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "573",
+    "etag": "W/\"23d-MumU1pqJEaD60oNhiBIXPpfDvWQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Rosalinda_Barrows@hotmail.com",
+      "name": "XlNenIpkOaDjrYFQmHkSYfCgNUszZbcrGkCxEmJa",
+      "country": "Germany",
+      "city": "YXGXMqpzwuYjQ",
+      "street": "38gtQq6vB88GCNgUaskBrAVyGu9RSeGhNE",
+      "house": 9,
+      "flat": 4,
+      "phone": "+3555736307",
+      "createdOn": "2026-01-04T11:31:11.000Z",
+      "notes": "TFzGHalENzYJyZy4e0SwePOHK7YP4pNDwi0hmpdopuyappnifji1rAtTidjMpaD07C2IEiPpQt56WcnIkZYPKrl8LGsi6xy46g6NTHdxXI10aZhejLli7pD5SkQEFkGxZgoVAdix6WFPdFtmzqJlYk7TCfy6UoRemm8kOuHxg8pc1UYmBUAOGWhJ0N758EfpqdfIFTiYLRAwslOYgjQGe8i1ATB",
+      "_id": "695a4f7f1c508c5d5ea45be8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

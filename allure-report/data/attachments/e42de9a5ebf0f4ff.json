@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:29:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "410",
+    "etag": "W/\"19a-lkxb8XERgqLwQJe4lDTnbMWu9ic\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Maximilian.Miller@yahoo.com",
+      "name": "LkTBBekXrIAAUYNJklORQeGSeapykRxZEQzvurq",
+      "country": "Canada",
+      "city": "xoogrXwwnXoyTiGkuQpo",
+      "street": "4NPippJssFT",
+      "house": 60,
+      "flat": 5,
+      "phone": "+2269860817",
+      "createdOn": "2026-01-04T11:29:09.000Z",
+      "notes": "7Wlff2DzluybeAlAQwux7xA1q5fu0x3myG0kyeL5l0cCRxjQChn4rAYaovqcxDNwKWW2qS7IDCj",
+      "_id": "695a4f051c508c5d5ea4355b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

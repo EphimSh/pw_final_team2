@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:27:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-kXIOSeRzr1t1Sj8D8fT0DGpucus\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese43355",
+      "amount": 752,
+      "price": 18437,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T11:27:31.000Z",
+      "notes": "24NL8R1m2NjPsp4UoD48PpqhUqXbWRmDZQH1BKuxLQS9B5JYnbvsHqunBB6pCZ8r0UM4XHKYUyRP1Ns4aTMLDyVIehOmB674kCnqLZvwaiv4UfeUtX6IrcCUzLQUAERhZgb2D2ciNy4Bgafp6EkGzgQEdLYS8wEkR60jdU0HrBNmr04dcAGkruZUOW8NEHFVoWjrMElcR6xuD9GJwpmqC1L7aCg07uTOd7BE1ZJI9HdYyvUEucXI98xfdL",
+      "_id": "695a4ea31c508c5d5ea41920"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:30:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-fpX7uLp7Xq+TEGisGB4VJW//P8w\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad80194",
+      "amount": 659,
+      "price": 89105,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T11:30:44.000Z",
+      "notes": "JBfQPCR92BNDqfbgk7GOPpTm9kouGl9B00iBtnXQi9RCCoBKaZfgY2SGZii1hGKFwe8a4S9ibgolyDzNrG90fBrVZgWc5Yc4xUOZHa9vmK6PPvd3xgRcDHKRuo9Ow460pWTaMfl8dzuvGrjArQwbyqGqxKjAcDYHxt1vJ5gsb6EJM5EX34XjtgvrQb9oxYqopPru7rS69T9WIXrFiCbaHqzgncMnGI4RcJVqLOsUxxSRXnaxM2aIvIbG7D",
+      "_id": "695a4f641c508c5d5ea45165"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

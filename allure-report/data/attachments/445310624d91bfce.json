@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:27:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "520",
+    "etag": "W/\"208-qGMZL329QETqpdZwxRH70sV7z6w\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Elwyn24@yahoo.com",
+      "name": "STiQsXaefNCZrT",
+      "country": "Canada",
+      "city": "fbaKtmYgSB",
+      "street": "FvTIPUTK9zrrS3HKmMe73L23TuE2zN2",
+      "house": 172,
+      "flat": 1,
+      "phone": "+4013021229",
+      "createdOn": "2026-01-04T11:27:24.000Z",
+      "notes": "uxijlY3bxv0vgt69i6TuzmWPpSBdH1yeGKFVNqJ8r1XE9kkQeBtMsoEQw11cbVVmfiBa48VT4YzRxfFZgjp5j4y17djiBlGh4WZtlGOmvK2VqKCLjdfhELxSRdzKNuquF78JTQuXuZfFJzP9zVbeBiilUbEYOAd9jWdYAzy6gq8TrP9s1pXoAIAmAsqFHySBuEUtBGYZnqM6pgLcX",
+      "_id": "695a4e9c1c508c5d5ea417c6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

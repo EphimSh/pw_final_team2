@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:27:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "316",
+    "etag": "W/\"13c-XFUVqGq8DGfM6ehFOv2UYIzeCpU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Amir63@gmail.com",
+      "name": "QSPZDDUWUcGQUwLWUfIxgggvp",
+      "country": "Belarus",
+      "city": "Yotb",
+      "street": "IZ",
+      "house": 176,
+      "flat": 4,
+      "phone": "+5074421313",
+      "createdOn": "2026-01-04T11:27:29.000Z",
+      "notes": "nv7shoY8gqMT2f1S8Bvx4OCOSVfyT",
+      "_id": "695a4ea11c508c5d5ea4186b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:31:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-m9EP9H7MNwv08zYwH2Zw63OGOHs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon14129",
+      "amount": 339,
+      "price": 79419,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T11:31:50.000Z",
+      "notes": "0nnqmcTONwfH4DEVchf1sAeGWLOiwDrkpzbOGw5CNK4IRbJRCnCMPK3i40Ujs6LAcrZCi6kKFhxmqdiktqN9Rl3ZxClpgXIFiHlNSLUyYy2udieIBcrK4TLB897CC5BLXmZuq17KNfAwcL8N96GJXTJrGy27pkHdJmJylktE3KV1VU6QWhaxgvgVLiURNhrH7YZs1SU7Abv8wWwN6xLkLNaG5NFtuYxqWCfn3egM0u2Sm1S6ypnBvS0bs5",
+      "_id": "695a4fa61c508c5d5ea46d91"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

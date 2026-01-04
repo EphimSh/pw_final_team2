@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:31:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "521",
+    "etag": "W/\"209-FljTD2Mxwu0j+nIP+Z7/1PE+73o\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Boris_Ryan55@hotmail.com",
+      "name": "hfNNbSuBwLfuVDdNFzusO",
+      "country": "Ukraine",
+      "city": "buhGPThZfnQwSRjefi",
+      "street": "Yihm6",
+      "house": 185,
+      "flat": 8,
+      "phone": "+8237129270",
+      "createdOn": "2026-01-04T11:31:48.000Z",
+      "notes": "BJzGN4rTOBVVXJtSy5Ag9FD8oCSZbcpa7gvuMmBHa1fFTN5cUNO8J6GlbEptOpIe2ecit4PJkE7rXL3BwcQpraYWtCCmMmGbDFkk7j8XyRVzUR0e9eXza3yJUPA4e5tWjqpjhp7HF34eLJqGsjFCawx9j8t8yboIQ7oIAyNL4gqjyaf7vsXVmysscYJrCvdWrUWjf7EuNa0S9kUjBgjoa",
+      "_id": "695a4fa41c508c5d5ea46c26"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

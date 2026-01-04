@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:28:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "326",
+    "etag": "W/\"146-9KfsOX+P+ZwyxmxaznfkR+h7XhI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Nadia_Casper29@gmail.com",
+      "name": "mYrRoHOY",
+      "country": "USA",
+      "city": "qweZsQJebtDxtd",
+      "street": "o13XWyDp",
+      "house": 14,
+      "flat": 2,
+      "phone": "+6407825600",
+      "createdOn": "2026-01-04T11:28:16.000Z",
+      "notes": "nXlDhNE6bQvwDrlq9XxRVhAmaPyjzcoEk6arU",
+      "_id": "695a4ed01c508c5d5ea4277a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
