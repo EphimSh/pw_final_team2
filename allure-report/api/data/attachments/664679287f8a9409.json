@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:49:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-nNBZKiwphioKdKbR8WdLzP+O0F0\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball4609",
+      "amount": 514,
+      "price": 47151,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T09:49:04.000Z",
+      "notes": "nfabuPP59O7bfNtpj1ySVINwahV2wQecNTpuHRAYqdBdM9pVRVB30Ym9UjvAdU2lCDVPm1AyHJYhuG8nI7M7wNFsQqRuY7cTP2EBcYf5enrVstB16xgcL32pVLDHqOf7UC6atw14NCPRni3y7FbYnfW0UjqORLUfK4Lf0UDiirmnx5joSCrM0KkaoCaWZ5lmkR23JeR7dpEsLKTmnWo1lvmkmDm9JLMN3fns7QcSaV8JmaGSHSGkm1DBg8",
+      "_id": "695a37901c508c5d5ea16c84"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

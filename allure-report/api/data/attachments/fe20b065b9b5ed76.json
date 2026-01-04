@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:50:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "367",
+    "etag": "W/\"16f-AcCYTaJqvfLjYFcMKX3UGc8AALU\"",
+    "keep-alive": "timeout=5, max=36",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Carolanne_Streich6@hotmail.com",
+      "name": "DRXLGTr",
+      "country": "Great Britain",
+      "city": "xXZQukFhezenBRgaHVQP",
+      "street": "s4ytiLZZIOwoEa3",
+      "house": 193,
+      "flat": 9,
+      "phone": "+1161427390",
+      "createdOn": "2026-01-04T09:50:35.000Z",
+      "notes": "YNmlwBocxYahXMhrsbjF2L4s9ZmRoKHsgHEKvEYEg6s1czU2Q",
+      "_id": "695a37eb1c508c5d5ea17aa7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

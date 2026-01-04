@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:48:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "462",
+    "etag": "W/\"1ce-uWhNgllTqQOubMz7y8AAtdEqLiQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Raphaelle98@gmail.com",
+      "name": "oxefQKhiymuvcqzPW",
+      "country": "Canada",
+      "city": "wIcaUBbSVmyI",
+      "street": "j1g937WQ3QVw9MXaMDaEfGBL4EnLVfL15",
+      "house": 41,
+      "flat": 3,
+      "phone": "+8667862458",
+      "createdOn": "2026-01-04T09:48:40.000Z",
+      "notes": "xQ5psYJ0QKcvTvuKTpUQ7ZBjLDv0x5Dz1MqU1NLMU1BX9EGpWxXbaWyfaUW6dUSXyo5Q2GqewZzsPpL5xl6DjWluI78V355OpJsj9EuloPOX5sYJYQdp824GtUc868J6uqIiB3ZYDs8lc",
+      "_id": "695a37781c508c5d5ea16a68"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

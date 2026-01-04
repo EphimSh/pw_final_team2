@@ -1,0 +1,131 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:50:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3355",
+    "etag": "W/\"d1b-/hhArfljhkU6N3b8xUK42B/7FVg\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a37db1c508c5d5ea178a2",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a37db1c508c5d5ea17888",
+        "email": "Davin79@gmail.com",
+        "name": "nnGlNE",
+        "country": "Germany",
+        "city": "ZXJLMVObLNIpIgRef",
+        "street": "54MCrzltbXFggwv2BtJICT5",
+        "house": 156,
+        "flat": 5,
+        "phone": "+4072103931",
+        "createdOn": "2026-01-04T09:50:19.000Z",
+        "notes": "noD1x2NpOaIQBFIkcvg6UTw58d2JBOSk9KVuZqat7yElrak3vJI1UHEFQqJFYd3qdP5DNcaPxsif0GXWPFWWN5qk94wDRx7IVMXYuOXCBkDWY7dH87uHJ94sH0sbBz6tSXfa00LBE01QOFGChzbv1ylokFgFkTfU4Ji5l3DXUiq9KcHXpxDHbQfQnIwgHeK8TLkJGmrAHo"
+      },
+      "products": [
+        {
+          "_id": "69596e8f1c508c5d5e984195",
+          "name": "Sausages10695",
+          "amount": 760,
+          "price": 6156,
+          "manufacturer": "Apple",
+          "notes": "7eGO1f1sAkH2IvDEF1XwmY2Pj4P3QAXq4wpdcTARqXEt3DqX9fnyUYm4pUsXEXPaTtdjbGQN3rhXgb7t5SmynfXHEMwJdZWsYq1mOdSQIVsolY72bsFdfBNGl1WtR9M1o20Gbkuu36Xp7YUTXRE1rBpC9xbwWInbU8iaxg6490vzk9uRU9xI5V9SE15w5AAGpr6MAknnwDEXshgLD6jvOWWcVZUgKWx5EPSADDPD9z6kNeN3ifmgAeuYo1",
+          "received": false
+        },
+        {
+          "_id": "695960b91c508c5d5e96a0d1",
+          "name": "Bike64195",
+          "amount": 460,
+          "price": 7254,
+          "manufacturer": "Sony",
+          "notes": "lW3QkJkvYXNW4zf1TffSy4zjCM79awlG2zdKi7sOKW4SNWj6XSk6CPUL1YiEtAF3Lvu5VvNTWWhHVE08bAud90vIJAc5P723qL579XDjFybd4V1gR9ffryeRln7vHeBXMPBjJwoLIOMLYSC6isuUvb7mggSlRdB762XUCDlsZ3fChqgisUvKVeztNy63P8NvRXPXfSoWWN6Q76VKrFImj7QsCVJ5sVvtsRKh6hvwL2FzR3sNItO23FAEvY",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 13410,
+      "createdOn": "2026-01-04T09:50:19.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a37db1c508c5d5ea17888",
+          "products": [
+            {
+              "_id": "69596e8f1c508c5d5e984195",
+              "name": "Sausages10695",
+              "amount": 760,
+              "price": 6156,
+              "manufacturer": "Apple",
+              "notes": "7eGO1f1sAkH2IvDEF1XwmY2Pj4P3QAXq4wpdcTARqXEt3DqX9fnyUYm4pUsXEXPaTtdjbGQN3rhXgb7t5SmynfXHEMwJdZWsYq1mOdSQIVsolY72bsFdfBNGl1WtR9M1o20Gbkuu36Xp7YUTXRE1rBpC9xbwWInbU8iaxg6490vzk9uRU9xI5V9SE15w5AAGpr6MAknnwDEXshgLD6jvOWWcVZUgKWx5EPSADDPD9z6kNeN3ifmgAeuYo1",
+              "received": false
+            },
+            {
+              "_id": "695960b91c508c5d5e96a0d1",
+              "name": "Bike64195",
+              "amount": 460,
+              "price": 7254,
+              "manufacturer": "Sony",
+              "notes": "lW3QkJkvYXNW4zf1TffSy4zjCM79awlG2zdKi7sOKW4SNWj6XSk6CPUL1YiEtAF3Lvu5VvNTWWhHVE08bAud90vIJAc5P723qL579XDjFybd4V1gR9ffryeRln7vHeBXMPBjJwoLIOMLYSC6isuUvb7mggSlRdB762XUCDlsZ3fChqgisUvKVeztNy63P8NvRXPXfSoWWN6Q76VKrFImj7QsCVJ5sVvtsRKh6hvwL2FzR3sNItO23FAEvY",
+              "received": false
+            }
+          ],
+          "total_price": 13410,
+          "delivery": null,
+          "changedOn": "2026-01-04T09:50:23.000Z",
+          "action": "Requested products changed",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a37db1c508c5d5ea17888",
+          "products": [
+            {
+              "_id": "695a37d71c508c5d5ea17822",
+              "name": "Car28795",
+              "amount": 273,
+              "price": 77486,
+              "manufacturer": "Sony",
+              "notes": "vLZnW86F2JRoTEFEyWVEeAAtfxiPvx53faaqrHYAdAja7PCXLuq7ShB0if5YbsHP48KCYT22Zrc0DfSgBMTWVM09iwIcSTNTHKQi2vm1jifR0BxaTyIIYpco2LsifvfiMLfkTvzHBF8qwur1zisUR9Y0SY6H0hJUQBeTLvpSqCRNi8gVDUWxF0G2WSFqxYHeZTxxyp0puq7o0Fm4t88OrsYiOHwMC1iO9ZEOtFnUDuYsIIm6pdce2xJsWh",
+              "received": false
+            }
+          ],
+          "total_price": 77486,
+          "delivery": null,
+          "changedOn": "2026-01-04T09:50:19.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

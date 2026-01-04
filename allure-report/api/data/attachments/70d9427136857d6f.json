@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:49:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-JvyyBCH/O2H2aHbT6V7wuSbbIMg\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair14787",
+      "amount": 635,
+      "price": 26130,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T09:49:55.000Z",
+      "notes": "wixSA9CWi0OTGO7rSLNPyIfpPkyC5WzOuZ5tqEdj15PHLeDXWFndgJBCvsH5ADVW1uacnMOGJZAMJBBXcMC2AzfCbHfmnaGjJ56sdBqfLHzig8GMY6FwmcXIkhuZWkeuSKiWPnlNLkCvkAe9SDdNuToGQgRqfiazWEwHwVk2pHSt3J7i2lvelUm9dWNHExRgdgQhvls2MCtwdwkYzKJAXIGVV5Zt2i8FLJgab6u8qpwD5YvGWz52nPsm0z",
+      "_id": "695a37c31c508c5d5ea174c3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

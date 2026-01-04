@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:49:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "467",
+    "etag": "W/\"1d3-hW7ZpHJQ8ffW756WUlfH7YRIaX0\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Wendy33@hotmail.com",
+      "name": "NHRAmWlWSCvCRpLYzPdtsZ",
+      "country": "Russia",
+      "city": "XnQbroegzv",
+      "street": "pAuxmMDKfPU7o7bk9VIeZk41",
+      "house": 176,
+      "flat": 8,
+      "phone": "+1910426327",
+      "createdOn": "2026-01-04T09:49:37.000Z",
+      "notes": "K7zWz1V88nGGGUlldwRP4vz2A52pnkf7pEUhdwsevzZtlJbMNEGqqPumFYQXlbeLllVvExcFXAZOl9ifygF459yZS9AaRKToRmaChDrjtq1De9xTt1J41LGs8HWiwsR9Lpk1pc8F5xzklMVEvrRyJYNAT",
+      "_id": "695a37b11c508c5d5ea1720a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

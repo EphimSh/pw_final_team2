@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:51:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-5oxA0efRGs+TwASa5hS9VXJHUC0\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse17061",
+      "amount": 494,
+      "price": 9518,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T09:51:22.000Z",
+      "notes": "NtFZuUZjWiSXUuIcaqrvlLWmHBFqy7I8QvuFGPcMPXzl7BEENqWEnjQOijURGNV49XqBAg3vetcdyL3TWaxkoZuahaL6o7xEYgftkOCTYZ60IcCjdLdWmka3C17zatgJED7UXNpxLQtfyZNHukeoIVw3Qqf7dI9lXZmJau0FHx6FvFGhRVdxeqaAGzrlZnubSn37JM4Dbnl0voV6ehgCGr4bt9UHY4HRzFiZqwPEcsgQyRFaPAI5tGOqTc",
+      "_id": "695a381a1c508c5d5ea17f33"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:49:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2769",
+    "etag": "W/\"ad1-lau3/0TvoJmO0lZvx+dgGxAY9OA\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Orders": [
+      {
+        "_id": "695a37ab1c508c5d5ea17169",
+        "status": "Draft",
+        "customer": "695a37a81c508c5d5ea170bc",
+        "products": [
+          {
+            "_id": "695a37ab1c508c5d5ea1715e",
+            "name": "Sausages65004",
+            "amount": 529,
+            "price": 15652,
+            "manufacturer": "Apple",
+            "notes": "NOjmdTMpdjlD9ZpF9iSDDbO9tqMvZ22U6ytfMrOstfjABHQ46I0eKFurgCm9s0FgXGTKvgy6SawiITcnGRzdaxm9Lg90O9LfJkFKjdhR7F07JLMb96OrohrB85CRcmFZ2wwIZDBggzAwXLxfChulBvyNF8AWQA9CseMzQXrtPTFAk3OYmCYThiUyxM3CoiQKuoLucLB6N5kSUBUTxMAAE923veyJMBSFQv0nT0zS3rPpgkq3mrVNyrns7M",
+            "received": false
+          }
+        ],
+        "delivery": null,
+        "total_price": 15652,
+        "createdOn": "2026-01-04T09:49:31.000Z",
+        "comments": [],
+        "history": [
+          {
+            "status": "Draft",
+            "customer": "695a37a81c508c5d5ea170bc",
+            "products": [
+              {
+                "_id": "695a37ab1c508c5d5ea1715e",
+                "name": "Sausages65004",
+                "amount": 529,
+                "price": 15652,
+                "manufacturer": "Apple",
+                "notes": "NOjmdTMpdjlD9ZpF9iSDDbO9tqMvZ22U6ytfMrOstfjABHQ46I0eKFurgCm9s0FgXGTKvgy6SawiITcnGRzdaxm9Lg90O9LfJkFKjdhR7F07JLMb96OrohrB85CRcmFZ2wwIZDBggzAwXLxfChulBvyNF8AWQA9CseMzQXrtPTFAk3OYmCYThiUyxM3CoiQKuoLucLB6N5kSUBUTxMAAE923veyJMBSFQv0nT0zS3rPpgkq3mrVNyrns7M",
+                "received": false
+              }
+            ],
+            "total_price": 15652,
+            "delivery": null,
+            "changedOn": "2026-01-04T09:49:31.000Z",
+            "action": "Order created",
+            "performer": {
+              "_id": "6936ffc71c508c5d5e9a3764",
+              "username": "student21@gmail.com",
+              "firstName": "Jillian",
+              "lastName": "Lynch",
+              "roles": [
+                "USER"
+              ],
+              "createdOn": "2025/12/08 16:41:43"
+            },
+            "assignedManager": null
+          }
+        ],
+        "assignedManager": null
+      },
+      {
+        "_id": "695a37ae1c508c5d5ea171b7",
+        "status": "Draft",
+        "customer": "695a37a81c508c5d5ea170bc",
+        "products": [
+          {
+            "_id": "695a37ae1c508c5d5ea171af",
+            "name": "Cheese3604",
+            "amount": 673,
+            "price": 54637,
+            "manufacturer": "Sony",
+            "notes": "ra7K6yK0GKKCFTkQqJUfBYnUdR7yTTknvh5ClhvThWgr6EfXuOlZOrd2Lil9twBMyY1QIzaL6GajnvYbFIo4MmlU269pn3AgViUZsy4OZVAquT10UyTangneaXKlBEcxRsP3KOwMvFUGzB7mRunUzjqc6MGGBwnR5okldGiYCdIq5E49Y65DzSzRs00rvQ6mORqzzj4qBjVEgPMP2XKVaw8WESnirktcpCXmlnuzuypoeGsl1cYhJHeQIx",
+            "received": false
+          }
+        ],
+        "delivery": null,
+        "total_price": 54637,
+        "createdOn": "2026-01-04T09:49:34.000Z",
+        "comments": [],
+        "history": [
+          {
+            "status": "Draft",
+            "customer": "695a37a81c508c5d5ea170bc",
+            "products": [
+              {
+                "_id": "695a37ae1c508c5d5ea171af",
+                "name": "Cheese3604",
+                "amount": 673,
+                "price": 54637,
+                "manufacturer": "Sony",
+                "notes": "ra7K6yK0GKKCFTkQqJUfBYnUdR7yTTknvh5ClhvThWgr6EfXuOlZOrd2Lil9twBMyY1QIzaL6GajnvYbFIo4MmlU269pn3AgViUZsy4OZVAquT10UyTangneaXKlBEcxRsP3KOwMvFUGzB7mRunUzjqc6MGGBwnR5okldGiYCdIq5E49Y65DzSzRs00rvQ6mORqzzj4qBjVEgPMP2XKVaw8WESnirktcpCXmlnuzuypoeGsl1cYhJHeQIx",
+                "received": false
+              }
+            ],
+            "total_price": 54637,
+            "delivery": null,
+            "changedOn": "2026-01-04T09:49:34.000Z",
+            "action": "Order created",
+            "performer": {
+              "_id": "6936ffc71c508c5d5e9a3764",
+              "username": "student21@gmail.com",
+              "firstName": "Jillian",
+              "lastName": "Lynch",
+              "roles": [
+                "USER"
+              ],
+              "createdOn": "2025/12/08 16:41:43"
+            },
+            "assignedManager": null
+          }
+        ],
+        "assignedManager": null
+      }
+    ],
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

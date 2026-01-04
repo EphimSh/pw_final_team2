@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:51:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-sWO5kJianDElt7D6PLnIrx/lq0k\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X25060",
+      "amount": 766,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T09:51:02.000Z",
+      "notes": "mNb5TRN5Ixj2gk5eqfWPn9GWV9J5nysvo4L1B38wgiKDgqfJxDlwA8HixtQjM2AJqvpQM5TVvz5ncagWabyMfQVxIIBkdGBoFqdyvYXkSIomwZgai5yHUSvJu9SL3fgZu2HDGZAAOp6YcdYcQmz4DgMab6JvJlDO2BPWqdHc89FkQ524DrCQNYuEtJmd5hrUbYvv8GgYdA3l4v9jzDC8ht8Y4V49ZABGtVR23gGtao2PqkwAfnUbHKDnjk",
+      "_id": "695a38061c508c5d5ea17de9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

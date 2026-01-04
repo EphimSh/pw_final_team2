@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:50:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-nn3u9OFlMu1TGnMi1DV5x9v9f0g\"",
+    "keep-alive": "timeout=5, max=26",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes14691",
+      "amount": 664,
+      "price": 62071,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T09:50:05.000Z",
+      "notes": "qDQHn8Bi4WgLNsd5qYl66T16QcuSsEwKwIf6c69J3XHNybr4JDH7Oxoxr3qbsdCdvqSbqyChq3sGpOorXtfrIDIfzbzU9d6HloSLPa3njSsi9LjLU97n0UIk3wJWBKNm4cKq0oQDHDaxXOBDMdCFdf3P1f2XLjesvk6EXMd0tMYsRGolr8unkWICA7t32cWLPcjixQsl0i2CoaNV9DAxdPm76dvuNmBvG50cxWuFD6PVW3ipdhnFtQF4f7",
+      "_id": "695a37cd1c508c5d5ea17648"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

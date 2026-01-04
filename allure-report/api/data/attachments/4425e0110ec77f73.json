@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:49:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-hOezzddgO5d81O2zFMw44XU/0VE\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes87422",
+      "amount": 314,
+      "price": 18871,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T09:49:04.000Z",
+      "notes": "lVv2ET0Ya8hAlOQozG9jKVNfcWC5JQUvrscrKEJ4yeVmHwLDzmnz4bf6tw3hkETeBGxBEcJTiSe5nHFvsSLm4CFaai1kXXDljpc3J8d69bODB9z6x1J3LjIVU2R0fjNqtMBLl3PYvH5ao4CWairLb56Rg9NmYOByOx0UXDDhlmk99KRploeQnEqqeNrS938sEelvaDVa3OCBpmHfj7KCoXmAvW7CVztqhTb1d5Jmhynye4xPBFY3YNYfAY",
+      "_id": "695a37901c508c5d5ea16c8a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

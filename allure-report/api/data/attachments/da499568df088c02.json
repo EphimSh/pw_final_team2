@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:49:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "374",
+    "etag": "W/\"176-UTfsv32HHK+QsoAGE4HulmxrjWY\"",
+    "keep-alive": "timeout=5, max=54",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Don58@gmail.com",
+      "name": "oOjvnsNgYuYDcwkf",
+      "country": "France",
+      "city": "RZaJIVHQJUp",
+      "street": "n9gKQYbQfdNnweQkPuaRu9KdGnDo25B927g",
+      "house": 43,
+      "flat": 1,
+      "phone": "+4776895430",
+      "createdOn": "2026-01-04T09:49:32.000Z",
+      "notes": "1LZsRuvhtXljn8c6c00eQ3hYZUpeOv7gA0gg4Ib6byDNEZymaCkdzuzxmmB",
+      "_id": "695a37ac1c508c5d5ea17186"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:48:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "483",
+    "etag": "W/\"1e3-/jcRdWPf/DPw3l4kTxQMQx5folM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "695a37781c508c5d5ea16a68",
+      "email": "Juliet_Moen38@yahoo.com",
+      "name": "pLWpcjBLAOGGfXXjIKtgTvQCkgcMjJARXo",
+      "country": "Germany",
+      "city": "MqzJnrenBQzoQK",
+      "street": "509",
+      "house": 166,
+      "flat": 1,
+      "phone": "+8192113531",
+      "createdOn": "2026-01-04T09:48:40.000Z",
+      "notes": "J8nwK51yIIFQtHumpBHnliWkkPhjaymPOk9Klz79UQ3ODKwttPueY0J5iofvTtlstfscRZCJGykYeNh7AvcbvisguDTuKTqI7dvw2ZNELP8IXUk2fZtKhxrx9V3LIRWGlmH9zNukupRRLis1Ta81ppbJr2LwA8TZDXCCEw60D"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

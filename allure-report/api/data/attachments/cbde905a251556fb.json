@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:51:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-YUvWs1INO9hdqyheV3A5vxG6G5w\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants17628",
+      "amount": 846,
+      "price": 53678,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T09:51:11.000Z",
+      "notes": "IdczqtDfR9DLvJ0Hfnlr0Q0mSwD0YQ5ypRZeaiTkZvnxuXXaq1G9rLv9sc1CzjjxIUEwka4LNXvtM3t2QR4Xh9TXYwhcba56cx6wEwUIg8zoJhtFZrjEgdtyEY2pvPX27rV1ptMXF5G7lXvj7IAZHF3YfMYah5osSdKQXKHbz0AlFvPJJP8juVnPlwT1cl1IzoaHVbXvuUMzxPWeMB56lRowC8X5y7Vxc4fKjvGODldLNZ7RXVtwi0zkZy",
+      "_id": "695a380f1c508c5d5ea17e72"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

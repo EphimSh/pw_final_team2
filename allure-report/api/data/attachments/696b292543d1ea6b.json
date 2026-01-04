@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:50:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "340",
+    "etag": "W/\"154-mXou8QJ7/n1e1C+8A/gx0JdG3bQ\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Fabian_Dach74@hotmail.com",
+      "name": "BgULzhysyjix",
+      "country": "Russia",
+      "city": "lDpqzxGHAOvaq",
+      "street": "xfMLq4u5zbLGH0ZDqR4Ekpb5Cox8PCzTOP",
+      "house": 179,
+      "flat": 9,
+      "phone": "+6041256788",
+      "createdOn": "2026-01-04T09:50:27.000Z",
+      "notes": "s0a6OAZPXo019W3Dl",
+      "_id": "695a37e31c508c5d5ea17966"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:50:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "448",
+    "etag": "W/\"1c0-DlN1Ic7eafHbii7tTgcT+JkloSw\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna40037",
+      "amount": 755,
+      "price": 1,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T09:50:42.000Z",
+      "notes": "x3e4fKhJaEGL2NnveP2YujoNrJmNlUn7BjMSJCSaUnuP8S6jQdgNYkukNI62xyTFroF5cc2OTIUSylVdBppHgBHlK19Up27sZ3TGM1YAfAtXaEPtZSzMTC5LK9aZub8nREsEI6rHbdpy5q0uhVA8F4eGrI186vLy2MSgrz08tt2q5ydkCoDH9zoVw4Yl7rdLDnPrvON1FAbki9qpqgO2SLFca0RUuS7EH25mE4G83uvhEaEfv0rxvYa82j",
+      "_id": "695a37f21c508c5d5ea17bf9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

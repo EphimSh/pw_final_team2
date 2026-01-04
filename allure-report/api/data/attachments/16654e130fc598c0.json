@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:50:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "493",
+    "etag": "W/\"1ed-fUKPiXYlDMqdoXL83osVCzNd6Yg\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Eva_Frami@yahoo.com",
+      "name": "uRZfHRYaJTlNMPFbgVfXUtfniDVAfZdT",
+      "country": "USA",
+      "city": "llKWRBTlyVVDWfX",
+      "street": "FlAU1QpskLJZClr8GUp4qoMwx6Y3rah",
+      "house": 144,
+      "flat": 4,
+      "phone": "+7066902017",
+      "createdOn": "2026-01-04T09:50:26.000Z",
+      "notes": "hDdENtDZNvNdQvc0Vomld5mL2BhbGqrhWapCcmzhsTuO4vfGcTVfCxEBbkqi2fnK7J9kBQU3Uj8aTqVJ993MnXj8u15WfDt4hRonKlgIUNIYHtirXfdA3tfRcFO2fpOFQQtIkXRekYRbZo90iWXvOU6loJaOT95f",
+      "_id": "695a37e21c508c5d5ea1794a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

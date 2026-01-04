@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:51:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-dxn/ohBOj6sXpdkHcYXIGlzqMDI\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X60088",
+      "amount": 475,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T09:51:02.000Z",
+      "notes": "Mc0ICZTu6N0hJZ545JGcNfH3c5xvyiW42HMeSclbgeDeDJAIQwObMQsMgKYJ4DUgJLxlRC3i8CFhSIBkwK3wD3cU8KlqPf1SfFWftfc3JeZKGbfOIUMPgjWtBR8vRoRnjwlLoLIx6IHNRclQHC45eTdWQjEj5JqIm8NAQjYvpdFuu1alXaPFt7uaj6VsyWBKVJStYpGbvJIfsckyhw4DZ9kcZ1wSYT0t2AwG0yL0QSGB2HaY7CumxBhjdp",
+      "_id": "695a38061c508c5d5ea17dcf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:50:06 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "499",
+    "etag": "W/\"1f3-oZECxx1NpaycrcCwNnRQEYNenMM\"",
+    "keep-alive": "timeout=5, max=64",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Junior81@gmail.com",
+      "name": "SOPvvvMPsfbCsuplKg",
+      "country": "Germany",
+      "city": "KiVkfwYS",
+      "street": "IDs8TAnQ39fKC",
+      "house": 113,
+      "flat": 5,
+      "phone": "+6808821928",
+      "createdOn": "2026-01-04T09:50:06.000Z",
+      "notes": "AtrZum9lyYeZqDVg5bqZ8xQ82NUGQxzFlwGibvdXvFKB7IsZkRYE85LWRw4DIcNyQRqPfApH6JDLlf68OyLQrb1WwvPu8Pb89pRwRDSMwOMvrWsp2PRGkWCp3WF1JCoJKeqlQBVgtguxaoibhnRuS1CovzttX2BkBlf2O5Fj5zGHDmCVcEn9q9tYMMakzemq4Vo1vPOrQs",
+      "_id": "695a37ce1c508c5d5ea1766f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

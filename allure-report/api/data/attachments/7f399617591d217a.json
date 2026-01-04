@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:49:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "446",
+    "etag": "W/\"1be-gKFmjNwhUCghpGorNu75XOYjQWQ\"",
+    "keep-alive": "timeout=5, max=57",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Brennan_Huel15@hotmail.com",
+      "name": "sWSNmAMxPUGCYmelFoNAHK",
+      "country": "Canada",
+      "city": "vJFVTPxTxENiVKQHowss",
+      "street": "j6ocr4rYjvN0ZHAEnf8Bn6VG",
+      "house": 17,
+      "flat": 3,
+      "phone": "+9939784347",
+      "createdOn": "2026-01-04T09:49:48.000Z",
+      "notes": "ALXsaIQB2uEb7JVuKxAznAcZfVRzo42DGJtNS74rqgYufS7M9ytjkhAyZ4w95ZT5dUu3gGgfDLQe9Rl85qIVorSR4PIuFvFiIIQLk1XjkTKkVwWsrdyF",
+      "_id": "695a37bc1c508c5d5ea173bd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:50:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "320",
+    "etag": "W/\"140-uzL6sTjeN4uvqiXgXmkgauB35zM\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Clare.Feeney@hotmail.com",
+      "name": "DkPEyRggtUHxrwDZcFWZnWlBl",
+      "country": "Belarus",
+      "city": "ZyZEYsL",
+      "street": "QXdLjEEl3R",
+      "house": 134,
+      "flat": 1,
+      "phone": "+5181659438",
+      "createdOn": "2026-01-04T09:50:11.000Z",
+      "notes": "jwG0NFBNpFt8UK",
+      "_id": "695a37d31c508c5d5ea1774f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

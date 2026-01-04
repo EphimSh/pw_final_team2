@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:51:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-VQdcEwDyxaarPef7oOowqABDTv8\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra32814",
+      "amount": 188,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T09:51:19.000Z",
+      "notes": "D28PvHGwSswln68pcJ3TEBOQDF2A3pSjzzpxvc0C9uwjxlW6U8l9oUbs1X99YWKthuksjMDNCTgSyKCvjxO7P05bOvIwOVTVH18ORj8Pm9ovDD26zLVhiSvbBLcdsmYT14V7kjVyzOFYM5usZmZ3gLz4bDoO55uPV6faxUbAYZk0WjjpVpKTjuXTncr1N8RfJM7Soxdb0Y0NdecSOoFUJbtR2vzYiLptGNp1FAbE1NE4p5pEE6LQCWLavd",
+      "_id": "695a38171c508c5d5ea17ecb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

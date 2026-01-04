@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:50:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-plHHCHH4CJfjJr5euIh9Lrlpgew\"",
+    "keep-alive": "timeout=5, max=68",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard34176",
+      "amount": 372,
+      "price": 34020,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T09:50:45.000Z",
+      "notes": "UChRTadV7cDpnpi4XQHYDr0napBcVogqGE2nKvIOzFrORZTvPC2JjLIWloMl7rdjxN2WuGoG3v70mdW1OXOf9Ilscw1SM7RP54K4zkrnD4T8zlUkwqF2q8mqEi2shzBbQv1EB9kBmGnAMRgZuqTkuzzv0MJvvBooerOGfKRoKo10aicuvBGLcXQz3BscT4MMxgfQcaxIuTf9G9wi9c1wnyvWz4RyCytREeFU8yCzle4AhTxnS1GAl9Dwx5",
+      "_id": "695a37f51c508c5d5ea17c6c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

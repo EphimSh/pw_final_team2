@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:49:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-xpWs1c7NyxuRzcGJyW9jGbz3suA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves30354",
+      "amount": 517,
+      "price": 16141,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T09:49:28.000Z",
+      "notes": "7M48bcpzzAUV9JNvPMOij40qtVGK2N3l9NfYvUWK6sggPfsrXmTbUYoDucY0Qz58eit1FqMqrBjFJBXg3R6mqmLsiP5YguY0Piw22KhiHYTA2kiMEDqW4sj8p03smJGbiDULZ8tjZfRFDIO3iH7ZCiKiiK35LWLpx1jOM6vVrLlUFyqbQHUhYSeTlpHxkHr7ZAOsJxdCRL0050K9WqCmxi28RAiSXh5sIrctTpr5YkfBdPN0yO48RfIuoT",
+      "_id": "695a37a81c508c5d5ea170b0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

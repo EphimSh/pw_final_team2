@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:51:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-c2wvhMUmz3teBo9rFb2/DH7UmaQ\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro68276",
+      "amount": 411,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T09:51:11.000Z",
+      "notes": "69d2D41Wvz50JCrZbbQYs4c5wFg2JS2diiwzsCuXcy5a2xLPFCAwwXcRo2MU5c87MK3WKFmt0GcWulKurbv4sAU6xcgtO7PTWVi63ztXD7oym5u12EsxTaPiWFErEJB8PPyotqigTu44vI6B8BSjFFA8Pqk8VVRSWWo14Ifhf7Tyi9pQP0JHJK9sWi4pWMQhbdFdmkI3MRYOCdg6w8WrwzmavH6M1jESrL0bAD4vavlUo881BlDrRHzMGP",
+      "_id": "695a380f1c508c5d5ea17e68"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

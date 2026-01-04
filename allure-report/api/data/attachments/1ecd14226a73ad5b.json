@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:50:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-Ml/EY9/Z4VyLediqLvmsblJrwx0\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer14627",
+      "amount": 532,
+      "price": 62656,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T09:50:35.000Z",
+      "notes": "SY2yDHh5ALjyrDZ9okK8MJzapFU7nlwBgnsTXm0YQR7G2f1VUZpzL8s9U52s3NwUKiYjWCiyXTQYu2EtxvkkTxM9sU0s4JEUaRQskYJTx78vdh1tIiUx3zqy43VdU6bS6t5s7he5Dt8TPNwQsj5TZEwblYdKwoTMpVpXTcwRQ64uLl0C7tYU65LgjWMm0sOe7TeagowXUdy1Y5bgPjP2l0pQJj2nbbttcRpPB5MCE9Yb3yZmALID7GPCNr",
+      "_id": "695a37eb1c508c5d5ea17aac"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:50:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "449",
+    "etag": "W/\"1c1-dejih2V86CygVhkBI5c2h/8tVZ4\"",
+    "keep-alive": "timeout=5, max=49",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike397",
+      "amount": 907,
+      "price": 44382,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T09:50:03.000Z",
+      "notes": "WSzflmKCGNtCLR8YLfjWHOON7TUhrtxPJiyIiFMMw9FwLwcL3EMMn5ETiaFH4YJOmL5Nu0DIGLwuEMfxQvzfBZPd6EV4ntJo4s4cb39utJdFrJmcx8fTASg4pxhpsr0QTUr4gY8cafzD11VZ4waYS1rHpzuppc9QaO9vo1qaMoOP7ANWmoraV2dmEBItUKVSPyZsLe8T2r9VIXOBmDvDdrc6R7bqH87ZQV5MOoCf7NuhhuoH5xXT6J7AHp",
+      "_id": "695a37cb1c508c5d5ea17633"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:49:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "508",
+    "etag": "W/\"1fc-zhsFnmI9wv6XuG8P+HZtnKAdIkE\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Freddie_Gulgowski54@yahoo.com",
+      "name": "JaLSOjMYhjMlCiUtjvSCRsAWVTbisxDmJojTV",
+      "country": "Germany",
+      "city": "fNZAtkzTQWrlZbetTXpZ",
+      "street": "j164VJUVrJbvlrxhfi2vnKaGAqZDRSkRDIBqJ3",
+      "house": 189,
+      "flat": 9,
+      "phone": "+2043573231",
+      "createdOn": "2026-01-04T09:49:41.000Z",
+      "notes": "3qCXQmCBAv6PCLv784Uzz2NIBr70cw0WZeaJq0m0d7xxr2PwTf5WCVUnma0nBOz2FwGSksPb2gHzmnDWBgqHLqubYit9TxFoS2ZpXMIBnlsODOVAIangHYmQJG79PWluK1mERLSkWlYSGNZt",
+      "_id": "695a37b51c508c5d5ea17281"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

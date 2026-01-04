@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:48:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "409",
+    "etag": "W/\"199-YspjN99y4YIhEBAqbyR0RNm/6As\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Elvie_Tillman89@yahoo.com",
+      "name": "cVGiwIMKwWIKmQVRoQMRNw",
+      "country": "Great Britain",
+      "city": "YPvVLTBbFlUTRjPgUGul",
+      "street": "fQyPqxN2Y9siH4mKd2lKLgl",
+      "house": 62,
+      "flat": 6,
+      "phone": "+2660838296",
+      "createdOn": "2026-01-04T09:48:30.000Z",
+      "notes": "eDaZnjSwwoze5f9tJgj0fvrZWoTBLWONcFWte0A1qpAZ4fzRUHDH09yODuUQYFXkPHrUAfIZeL",
+      "_id": "695a376e1c508c5d5ea169c4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:50:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-iPbTDTmyDqz5Hfj6oMkj6iJ70Ug\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish40594",
+      "amount": 294,
+      "price": 14591,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T09:50:31.000Z",
+      "notes": "Z2zVxJklCKBc7WV51U2DzupWzfR7Svwg2bBUjaKNYjyATeDK1leCJvBiGNnlfXgBbAbrncUjObRKAHBXuCMjQ4nceE3rxU0ZKzOCGGoa4yBt7BRlida5NywbDMbqdsC8QWtjspEjpHFOPwz6F2KFBOaXwB6HO6r7s4Z37DFbZEomLXDQpgdL2Cn7pqTqz0SeAp2w7s1LXlfkg2Gqlm2z1XqkRsR4VDGOJhO11zXH3O72W0msqKDZmL2fch",
+      "_id": "695a37e71c508c5d5ea17a17"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

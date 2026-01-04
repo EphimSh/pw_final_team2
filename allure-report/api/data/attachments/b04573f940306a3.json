@@ -1,0 +1,161 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:50:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4144",
+    "etag": "W/\"1030-7KtM7mLdVZyWLJMS0mylXnfqqvQ\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a37dd1c508c5d5ea178da",
+      "status": "Draft",
+      "customer": {
+        "_id": "695960ca1c508c5d5e96aa87",
+        "email": "Era1@gmail.com",
+        "name": "Ray Bonnie",
+        "country": "USA",
+        "city": "testCity",
+        "street": "testStreet",
+        "house": 920,
+        "flat": 1657,
+        "phone": "+4485170125",
+        "createdOn": "2026-01-03T18:32:42.000Z",
+        "notes": "QhrBMS6jHhaI1Tu8GyYcOXnuAuhyz86ZwnHq4MEhx1t1SvHw7ovKm2ZjHhIZxjn5whxJcSvhb6UEngfENcAHiONrn8xlZJbRkp3NkdyqdWPkJAUGTyypi1qSkYjOQqVFcdMDDvnBXZajxtwUyWFPdf6152xmSYX3ayUzKcn8u47JtN4uOfaiUO2u5s2m7crfr0xkFfdcLNLatwnWDp4I1afE2FfgWjiwvost64PA6g5rPlwA2FZZ5d7r8b"
+      },
+      "products": [
+        {
+          "_id": "69595e6d1c508c5d5e966194",
+          "name": "Fish39549",
+          "amount": 127,
+          "price": 779,
+          "manufacturer": "Amazon",
+          "notes": "40OWF4lRpVnPf6l940b3MJ7LAIQj0GZklhPAFpmZQ0cOeK2yL9FV4dUJd019UQ6FSCpRpktiDGqUkx747noOenVe7XCOy6qx9Nv9eu4hIxTBiTjtNL5F1yDOvaXUCentizSALi86bDkTAhBlQJKyO37aZXM1JPxTteC3bRlDoySc0sD2IMAMOdQvMs9NyYjhAfw6NntMgPQQXbqt7N74TM32CGnNP7l4LjZad3T6dUZSSSt29eh8rYBEHO",
+          "received": false
+        },
+        {
+          "_id": "69595b8a1c508c5d5e9591c7",
+          "name": "Chair10898",
+          "amount": 29,
+          "price": 61271,
+          "manufacturer": "Xiaomi",
+          "notes": "Ldr1kguvlRQXarmt7tLmHcvrFX8gNgqfHejtfuJeQkbJjLD4IMbBAWO11LbNNNfVqc0McAippkQoKfLEQgtlPQFHVHFrWkK3Jd0oUOOtZJaTJ2Ksw92lMYMecAxLioqiUmcC5l59ikbLFOYXrIvJsXKym5vDfwZsvIlCMjuEXSt0st1sZ9HkBPPHobpAalXLYtcTYxgHeYKkzbxEkSijOEV1vOTLnedVP8aNvnw9QeoJHgFVRcEJcrxmhx",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 62050,
+      "createdOn": "2026-01-04T09:50:21.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695960ca1c508c5d5e96aa87",
+          "products": [
+            {
+              "_id": "695a37d91c508c5d5ea17844",
+              "name": "Keyboard62161",
+              "amount": 953,
+              "price": 4696,
+              "manufacturer": "Microsoft",
+              "notes": "1qihyhTZov0IqiiWxH7kMGxyfjXk79vvbDt7TQAEI1t9eS1GnqAIbRvN4vHZZHw9DhAMBugKEuqhLksrFENeTcpKJpNGtLc2mo9pzBx3s7bBUTryfZBY5IZpDaW5zcC8GWNh7m6XghpS83mi31HcDLlo9BpbAXSFIQ9ybV0jXDRsu4Frmb8oqWZdsZJMGbzhAX8GPFI4oCRqnlvCmhTFg4pChBuLOZZqisN6vczEQ7F7MfdZnLWWnmnqM8",
+              "received": false
+            }
+          ],
+          "total_price": 62050,
+          "delivery": null,
+          "changedOn": "2026-01-04T09:50:29.000Z",
+          "action": "Customer changed",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a37dd1c508c5d5ea178d2",
+          "products": [
+            {
+              "_id": "69595e6d1c508c5d5e966194",
+              "name": "Fish39549",
+              "amount": 127,
+              "price": 779,
+              "manufacturer": "Amazon",
+              "notes": "40OWF4lRpVnPf6l940b3MJ7LAIQj0GZklhPAFpmZQ0cOeK2yL9FV4dUJd019UQ6FSCpRpktiDGqUkx747noOenVe7XCOy6qx9Nv9eu4hIxTBiTjtNL5F1yDOvaXUCentizSALi86bDkTAhBlQJKyO37aZXM1JPxTteC3bRlDoySc0sD2IMAMOdQvMs9NyYjhAfw6NntMgPQQXbqt7N74TM32CGnNP7l4LjZad3T6dUZSSSt29eh8rYBEHO",
+              "received": false
+            },
+            {
+              "_id": "69595b8a1c508c5d5e9591c7",
+              "name": "Chair10898",
+              "amount": 29,
+              "price": 61271,
+              "manufacturer": "Xiaomi",
+              "notes": "Ldr1kguvlRQXarmt7tLmHcvrFX8gNgqfHejtfuJeQkbJjLD4IMbBAWO11LbNNNfVqc0McAippkQoKfLEQgtlPQFHVHFrWkK3Jd0oUOOtZJaTJ2Ksw92lMYMecAxLioqiUmcC5l59ikbLFOYXrIvJsXKym5vDfwZsvIlCMjuEXSt0st1sZ9HkBPPHobpAalXLYtcTYxgHeYKkzbxEkSijOEV1vOTLnedVP8aNvnw9QeoJHgFVRcEJcrxmhx",
+              "received": false
+            }
+          ],
+          "total_price": 62050,
+          "delivery": null,
+          "changedOn": "2026-01-04T09:50:29.000Z",
+          "action": "Requested products changed",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a37dd1c508c5d5ea178d2",
+          "products": [
+            {
+              "_id": "695a37d91c508c5d5ea17844",
+              "name": "Keyboard62161",
+              "amount": 953,
+              "price": 4696,
+              "manufacturer": "Microsoft",
+              "notes": "1qihyhTZov0IqiiWxH7kMGxyfjXk79vvbDt7TQAEI1t9eS1GnqAIbRvN4vHZZHw9DhAMBugKEuqhLksrFENeTcpKJpNGtLc2mo9pzBx3s7bBUTryfZBY5IZpDaW5zcC8GWNh7m6XghpS83mi31HcDLlo9BpbAXSFIQ9ybV0jXDRsu4Frmb8oqWZdsZJMGbzhAX8GPFI4oCRqnlvCmhTFg4pChBuLOZZqisN6vczEQ7F7MfdZnLWWnmnqM8",
+              "received": false
+            }
+          ],
+          "total_price": 4696,
+          "delivery": null,
+          "changedOn": "2026-01-04T09:50:21.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

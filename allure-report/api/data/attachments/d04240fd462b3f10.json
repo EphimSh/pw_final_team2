@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:48:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-IkMnNb0xlk/2opfRQRdGz02mST8\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken96449",
+      "amount": 682,
+      "price": 80623,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T09:48:54.000Z",
+      "notes": "eqvLW2bQqcqLLGFtMOz2wVD9NGl7ZkovoRFVJNJjnx4eHL0fV4KniqaadnbeKO0dQG2l8ewFIdcz6W9zp8BaUvOgD7TZXE2KgX36bxTCd2b3Vn4XDxOYFXTnw8a4BzSRO1eqYhd9m1xZxDsX0fDzAZSrMCdxl0HtXWXiljD8fhOs3OlZ8lCKb27onhcW37cz0Iknx1yNo7l6Ql4i5tD6jyPVkxNbnkhVbyBImarGEI1hAAk3jsCILhNLaX",
+      "_id": "695a37861c508c5d5ea16b13"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

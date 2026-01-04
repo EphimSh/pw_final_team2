@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:50:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-yHk8vzoiUEzr0HxoO/PGT7jbyKw\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon32317",
+      "amount": 229,
+      "price": 34093,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T09:50:22.000Z",
+      "notes": "UZoJW5adef27tTXTMPxvrGI3ZSgv075PvuFobuwjc1zTPBasufPzHlB9JmbwlXtNSDFRuTNTxsQTlHCU2Hsa0CjBZPGRL8X1Nciu1uuRZDfTmBMp1xm4nqfm81zf013lQM6GGGctHeVa7tQeo4oHNrpNNL03s2rSeS2gZuohn3SjKwmuID7roH00iPDGHYL3KpdtbpTVnhT0j2hZ4Vlni0XfMpRDhcyv4lEmsouxN4c5Z4zHyc8VrtHKFy",
+      "_id": "695a37de1c508c5d5ea178e0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

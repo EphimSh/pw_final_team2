@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:50:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-2djMBqDwnOy/WqI4pcvHD1yCfJQ\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car28795",
+      "amount": 273,
+      "price": 77486,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T09:50:15.000Z",
+      "notes": "vLZnW86F2JRoTEFEyWVEeAAtfxiPvx53faaqrHYAdAja7PCXLuq7ShB0if5YbsHP48KCYT22Zrc0DfSgBMTWVM09iwIcSTNTHKQi2vm1jifR0BxaTyIIYpco2LsifvfiMLfkTvzHBF8qwur1zisUR9Y0SY6H0hJUQBeTLvpSqCRNi8gVDUWxF0G2WSFqxYHeZTxxyp0puq7o0Fm4t88OrsYiOHwMC1iO9ZEOtFnUDuYsIIm6pdce2xJsWh",
+      "_id": "695a37d71c508c5d5ea17822"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

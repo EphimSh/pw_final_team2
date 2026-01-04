@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:49:31 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-qoG5XOg4W4ROx1eQLDzbyltF5B8\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves50576",
+      "amount": 456,
+      "price": 94411,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T09:49:31.000Z",
+      "notes": "Z1ysXl8W8daGWma58Qag4kCVw4bGWGkD379HYhL8QBVNDu6yqrMSBYz2pLtwhFQLltRBeZTJWXDn7qx6QV0q0IfFvSvjv8CZ56rBEvTw8qflkt5FU4Fwo6UvKoH6W1fmnqJqVUMmntANiBws3qkZXcgrp3JOJaEBTWBiQ3iOCQWc2qHmhku6sYrBqXZGGdqFOVO4PDRlnPUNgObCEBReJ1468TByMgKJ7jagih3x50iQZ6SOIgLbtDV64c",
+      "_id": "695a37ab1c508c5d5ea1716c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

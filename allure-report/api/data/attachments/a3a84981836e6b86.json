@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:50:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-ZntEF6KL3OKBPbuM0cCs8UhKAnI\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Dan5@hotmail.com",
+      "name": "BdcdYTLGiVGMzrqQ",
+      "country": "Belarus",
+      "city": "EeEtM",
+      "street": "jIjSyDtYYIsaduNxp",
+      "house": 136,
+      "flat": 7,
+      "phone": "+8043971575",
+      "createdOn": "2026-01-04T09:50:07.000Z",
+      "notes": "bU47qKwvKokfhjJXa4P26s9OCEZc3XQ0MRB9EEMv0X8kWDjjQ3lVFftj1sA7qUYjHUgIXykel8gmlwjdVKBEGMTi9ze8SaHpaVChhCg3Y7iar8qH0TZLEHKSr0Hh6kWdC2P1CkUy6voaA9CDHWImAXlXR7OI1ymX4g",
+      "_id": "695a37cf1c508c5d5ea1768f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

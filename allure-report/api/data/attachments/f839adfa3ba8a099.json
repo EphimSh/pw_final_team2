@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:49:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-RYgXTfeGFObC1cUequ337BncBwU\"",
+    "keep-alive": "timeout=5, max=41",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard94248",
+      "amount": 270,
+      "price": 67922,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T09:49:54.000Z",
+      "notes": "cF1BuUxsi7NGPy0JuE4pBRiAEHpVMoXRBkJOvKVfoQmHqTevjBwRjKGSXSNMxIvvYbEXzernqajVZ08cDySgQhaIBhwDiSqd53WVBiamXRJoyGpyDeDsJu2X6DymH5ynPI0eOY6QSFzjxhXElc9niabwAzoq4xBVd062vj9RjfS3my9G4CXDslIXMNpEqaUAPkvBKdMUo8wvhqTtnCj7cikfig8YAn59dCoc7yk1nNmvP3LCbpqIMVNF0a",
+      "_id": "695a37c21c508c5d5ea1745e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

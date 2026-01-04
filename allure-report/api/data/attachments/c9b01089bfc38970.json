@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:48:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "593",
+    "etag": "W/\"251-7OjiVUryLZXzXPNRXB2d+96qaFs\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Alexandrine77@hotmail.com",
+      "name": "lJwDesVLcPZvfJuvIqXrhBjQrvSpvioBwAhISuaY",
+      "country": "Belarus",
+      "city": "rkxefUD",
+      "street": "BFUHDNcUJ2t7AsgVmt3nIAJBctzkkFT5",
+      "house": 37,
+      "flat": 3,
+      "phone": "+3700516958",
+      "createdOn": "2026-01-04T09:48:43.000Z",
+      "notes": "IBUKWOLbKpLjDaMRJzZZyNuVVege88rCgDaDO8raLQZ4xipmIptB0zmaOZKA3d8sZr2DbWREMuClu6zPbjLTdsEZFX5tfdtKlRwyGeIpUrRhvZ8mP3ruSgOoYhisTUTstfYbpWYECKWm3E4Elsa9WQz50tlLdw7MctBn4F2n62y8izJGrpijdHm0aLWYklcC0f0lcPxDH17lItksiZGoUCDGGiTk81Kfk7nOXV3kIDiFgdF5rTi26ZlRVq",
+      "_id": "695a377b1c508c5d5ea16a73"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

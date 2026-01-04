@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:48:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "480",
+    "etag": "W/\"1e0-0fXJMfksDZmrzaeEyqvKUSxzPI4\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ada.Kuhic12@hotmail.com",
+      "name": "kMzSqfhXJ",
+      "country": "Ukraine",
+      "city": "hgTRnBefPweSJrv",
+      "street": "Pbjx2bDZgsGZs8hDPhnH6n",
+      "house": 68,
+      "flat": 7,
+      "phone": "+9058856412",
+      "createdOn": "2026-01-04T09:48:40.000Z",
+      "notes": "NyCaxfknyywlR2xks1qL4HPYIWOmxXsOEqLibdr3RUV0uZJQmnVEbCFd4OZJaXQUmOB3AY4fmJYLTD7qJtNlmmyzBzr9KH4T6SEbjeizqiWXA8XEbP2UA1LQwLmUMOwkFg16rRupEtnqV5wWMEHX6Hb5z2taYShq6Y7FjKdv651D",
+      "_id": "695a37781c508c5d5ea16a61"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

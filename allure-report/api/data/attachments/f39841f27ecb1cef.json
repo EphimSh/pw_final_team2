@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:48:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "299",
+    "etag": "W/\"12b-hR3U14sFjBLwkqrsAuHs5Y40Tdc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jules.Bode18@gmail.com",
+      "name": "ibBigNJCbF",
+      "country": "USA",
+      "city": "NDD",
+      "street": "Uavn0JOh6tlE",
+      "house": 13,
+      "flat": 1,
+      "phone": "+5057487665",
+      "createdOn": "2026-01-04T09:48:52.000Z",
+      "notes": "C5x2ERIEymK7kmPAH",
+      "_id": "695a37841c508c5d5ea16b01"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:48:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "442",
+    "etag": "W/\"1ba-W16j6L0iknknEYt8JdzJ4kW09jQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Bridgette34@gmail.com",
+      "name": "ntZyvWwaxuJERAofovLprZCbsDI",
+      "country": "Ukraine",
+      "city": "JdaiALhsySTXUg",
+      "street": "YouA",
+      "house": 90,
+      "flat": 1,
+      "phone": "+7523805627",
+      "createdOn": "2026-01-04T09:48:34.000Z",
+      "notes": "etyuo4G6rCPfKcnj4ikcdo295f1PUAhienLr80WiwpdUBiGwt1D23RXihphP28LyzZlgwKFbYmetmjOpVTkWrdGmrrKYeNmcKadtpS492xI2NH612zEReMRs7Bq1p0LpHJEUVbg6e",
+      "_id": "695a37721c508c5d5ea169f5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

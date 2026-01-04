@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:49:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "541",
+    "etag": "W/\"21d-uBHIcTADN23h62RrbR3bwrJdKtk\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "695a37b11c508c5d5ea1720a",
+      "email": "Gloria.Hilll21@gmail.com",
+      "name": "Ivan Ivanov",
+      "country": "USA",
+      "city": "muRPrXSNUC",
+      "street": "h3nMux8Ie3uB0Qlt",
+      "house": 29,
+      "flat": 8,
+      "phone": "+7181434469",
+      "createdOn": "2026-01-04T09:49:37.000Z",
+      "notes": "Wy5p6Imc63aHAVLWpMAsuXHxBVF6TACXIlgAebDIpXmzOwnh88V49HZwDsyDVdCmQkS6gCHelvPmKQFVJhzPnUldtA65T1Qtpb3X4H99KRAeEjWqE4hIb7qPgMPv5zT3bZMEai7hbTY5oR9iM2wugbMZaj4GWBhkbWPlyI1cyj04zSLqzYoYA3tyXQp4exU97S3IrWm9MrD50QvRb4L1iAf7m56H89Of4wavq3A3fZRPmba1T2mee"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

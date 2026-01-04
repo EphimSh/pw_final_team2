@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:49:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "563",
+    "etag": "W/\"233-oLSNxnO4p5+t/dGoTqsENLA+Czk\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Alexandra.Shanahan@gmail.com",
+      "name": "neoWEtNMuqJAgChvybnuKYwpVKrnfPVuBatglasa",
+      "country": "USA",
+      "city": "RDHuvTCO",
+      "street": "uUFS26ANYw4aYdCcVZ8G6oLlKXE",
+      "house": 7,
+      "flat": 3,
+      "phone": "+9518426280",
+      "createdOn": "2026-01-04T09:49:15.000Z",
+      "notes": "QhwXuz1nzU51PCQCHkaibdW0k1EOKOTcx2bZz6va89ALGh9nPbV1uweZrEhMGSAIkGQ0oOeaeCGU5FEF5FOK6wEwEXWVaC9zo2JUrZNb24yaIqFjdhGGe20WCa5uiV3hAelwaa1uvGst2orcTy1ricQ7DE0wpFhltGbh25Ts51vGNiAjNcgduLXnsFA8wbNsZNTEPUOIRPeHqGznwEkRmjqZRX1XZy0CSY",
+      "_id": "695a379b1c508c5d5ea16e64"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:49:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1684",
+    "etag": "W/\"694-SLWIDXNOODhIRdkAk5nzVPAAXw4\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a37ab1c508c5d5ea17177",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a37a81c508c5d5ea170d6",
+        "email": "Dawn_Braun@hotmail.com",
+        "name": "WztJVLSSVZShdNvgAOlchpZ",
+        "country": "Russia",
+        "city": "mgvg",
+        "street": "eLBnqrPrHLJ9Wu4THDK7FULcm7ETNdR2Il",
+        "house": 194,
+        "flat": 7,
+        "phone": "+6911818180",
+        "createdOn": "2026-01-04T09:49:28.000Z",
+        "notes": "ooFFCiks9E0Bbqglujl70vQGNEwjj8"
+      },
+      "products": [
+        {
+          "_id": "695a37ab1c508c5d5ea1716c",
+          "name": "Gloves50576",
+          "amount": 456,
+          "price": 94411,
+          "manufacturer": "Xiaomi",
+          "notes": "Z1ysXl8W8daGWma58Qag4kCVw4bGWGkD379HYhL8QBVNDu6yqrMSBYz2pLtwhFQLltRBeZTJWXDn7qx6QV0q0IfFvSvjv8CZ56rBEvTw8qflkt5FU4Fwo6UvKoH6W1fmnqJqVUMmntANiBws3qkZXcgrp3JOJaEBTWBiQ3iOCQWc2qHmhku6sYrBqXZGGdqFOVO4PDRlnPUNgObCEBReJ1468TByMgKJ7jagih3x50iQZ6SOIgLbtDV64c",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 94411,
+      "createdOn": "2026-01-04T09:49:31.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a37a81c508c5d5ea170d6",
+          "products": [
+            {
+              "_id": "695a37ab1c508c5d5ea1716c",
+              "name": "Gloves50576",
+              "amount": 456,
+              "price": 94411,
+              "manufacturer": "Xiaomi",
+              "notes": "Z1ysXl8W8daGWma58Qag4kCVw4bGWGkD379HYhL8QBVNDu6yqrMSBYz2pLtwhFQLltRBeZTJWXDn7qx6QV0q0IfFvSvjv8CZ56rBEvTw8qflkt5FU4Fwo6UvKoH6W1fmnqJqVUMmntANiBws3qkZXcgrp3JOJaEBTWBiQ3iOCQWc2qHmhku6sYrBqXZGGdqFOVO4PDRlnPUNgObCEBReJ1468TByMgKJ7jagih3x50iQZ6SOIgLbtDV64c",
+              "received": false
+            }
+          ],
+          "total_price": 94411,
+          "delivery": null,
+          "changedOn": "2026-01-04T09:49:31.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

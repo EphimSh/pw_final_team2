@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:50:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-8RtSWkAMXRwyLD6x6usIhKKpMxE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna40995",
+      "amount": 999,
+      "price": 98201,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T09:50:45.000Z",
+      "notes": "Tl5382RLmKvSD7jydD2sPGLQIbEAbGcVxAXmdHOtSm2gICDdBbp6CaFXGxHqtSAD0o5fmCSUWya0Q5wYtcgHiYZU07cVGw9vx8vwum5Au1R1Yqh6NXuGWUXJs4jMLI42mqnKzvuZYGVD9lojkBTJwWe1WMWlcAbKOXL9rrghhCgsYBfvqQWEV3LzOhW7KYjYSaMSTwmlI5HFNp7U61myqG5MBTJnQJ9slucGtuikMR9AzPZCQOHYxeUEAE",
+      "_id": "695a37f51c508c5d5ea17c6a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

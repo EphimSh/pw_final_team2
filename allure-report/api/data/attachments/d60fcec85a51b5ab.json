@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:51:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-Cw/cYa6hJ0rltVZkKZ8JpgfF2tc\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra69654",
+      "amount": 336,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T09:51:13.000Z",
+      "notes": "izFlg3yuBzhxTTvexObU9ulmNuUEeDYj1E6uXNu3VPnsIHstDtPzCrA2bMHMYhti7dqCC2bPHs82oXZHmFzd1X4ny6r8gbRqomRbTAbXYz5kypqyUcgWTzBdKFJ1zDAtUf7oXNC4f5SIcqWo0Zh6vFoP6A8KIFeShBkrKsXz91Tq3WRvlHKpTtNq5hejz7Vq8q5Bk7IfVeTKqGaW4FP1FP4jeZ99LXi0v5xx2pSPXWrlN4ZLWxWAdoK9bt",
+      "_id": "695a38111c508c5d5ea17e89"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:51:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-pOJ6ZzXQmwzh52tS/Z5wbwQ2BiM\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra58198",
+      "amount": 886,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T09:51:19.000Z",
+      "notes": "CdwBshgzoom8AJPW8DpLfRn3DUkOnm0OHj4Z4l2Yr3iNflMrZHaRNb4dTHTW6DydDd3yEtBk5M4t5rcWOBa1nnnXa9bD0sjd12xXTnyWQ1xDUGGLH78fcT5zCPDJcy8LYaMsx3aqcsmGsqoMiu7xL2ZPVJIyz4nzTbIZ1dlYxQKolWd2tPggwgktxWV6BTcrTwwq8ZWRBDku12xFsdZDmkV078OuOuxD28Er40OZQsykHImSzHikVt3Mb9",
+      "_id": "695a38171c508c5d5ea17ec9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

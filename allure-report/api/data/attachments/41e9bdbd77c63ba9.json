@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:48:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "316",
+    "etag": "W/\"13c-jyhGxdiyes3fAy1fOTw5LUGIvXk\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Brandy63@hotmail.com",
+      "name": "ZUCquVltx",
+      "country": "Canada",
+      "city": "WmyHPzjtrraHVUZpwi",
+      "street": "qt0ujhzj30AtHy",
+      "house": 3,
+      "flat": 9,
+      "phone": "+0550344326",
+      "createdOn": "2026-01-04T09:48:35.000Z",
+      "notes": "QFQAZ9WqFUPr8CvLHm",
+      "_id": "695a37731c508c5d5ea16a00"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

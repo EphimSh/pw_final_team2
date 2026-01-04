@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:49:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "441",
+    "etag": "W/\"1b9-5f1GKLf2zZoNZsS7O35Gste7DMo\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Monica.Wisozk@hotmail.com",
+      "name": "GqPBlNNg",
+      "country": "Russia",
+      "city": "DDqaSrQqhvFFAeBmNrgT",
+      "street": "LKn42BRUZn",
+      "house": 199,
+      "flat": 4,
+      "phone": "+0579824982",
+      "createdOn": "2026-01-04T09:49:01.000Z",
+      "notes": "ZuwtLjTzF0DOr2x8ab0vzXrRIfFZUNWrjYgq1ptgLIMoPXrSu8o3V5tnParLxlQgjBY7tX69dcPSXTubEAGV09QW8ad3qXi9gUxafQSQQE3A4Y3nO6YG8qMzl8zchGgeakYuvXIeexp",
+      "_id": "695a378d1c508c5d5ea16c5c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:49:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "505",
+    "etag": "W/\"1f9-gFbxyRG3LFLQzWbdTunueiLQa7A\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Sherman_Rodriguez29@gmail.com",
+      "name": "SgpyboArPplxzHlCjVVBGjrpFkTupEtHf",
+      "country": "Ukraine",
+      "city": "pBuUea",
+      "street": "vEqIFTpFLJx6gj3",
+      "house": 90,
+      "flat": 5,
+      "phone": "+8934775918",
+      "createdOn": "2026-01-04T09:49:15.000Z",
+      "notes": "AYQbmbRVoGHRIjIzAUnEssT9CBgDSxVdCG8UgheU3HY19mSy6pcNljCh1XmsJYz5BZhvSRykHTkesITeMsYNAQRm1FHgGd5JDkYzJ4YLBu53wPW2ulQFOdqWh8FqecPJkmfEvTinl46qQbj426jU3mF2EzzUbMvYjum2AcUF47ZzjdGzTrVMb0w",
+      "_id": "695a379b1c508c5d5ea16e6e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

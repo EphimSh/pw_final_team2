@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:48:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-O6LAAVOmRxXfv11UvYiUMuj5xZQ\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair81990",
+      "amount": 281,
+      "price": 43594,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T09:48:55.000Z",
+      "notes": "T8ApZsu2yJXQ7QTayUsvZSHYuA2PjqaokR9ziagjuWWdDPzd1DqRAOOgk3yiZmp07iZ7J1pe2gYOMoGIiOq6OhxZuPirvpOs8GhLQWwJwA9lGiaue5Wyytr1nyOHvfdSdd1bZ9pnIdgfXv49YHTg457tc427YOtGwrEAxoNmLGojOpo6djIwB8mFgW5C6sFJqByCNSKPVMZ6vB3ItMmriCQ9mqpigDpMcs2Om3sPJMlrFgYodd889NlS1s",
+      "_id": "695a37871c508c5d5ea16b1e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

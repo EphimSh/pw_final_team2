@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:49:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "432",
+    "etag": "W/\"1b0-TGlSaeDq2MDZQ/WZEL7bpm78jWY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Modesta_Kuhlman16@yahoo.com",
+      "name": "ljMuhORPZduTJPEJabTfvsEaQaDLnLV",
+      "country": "France",
+      "city": "K",
+      "street": "8O3MbQx",
+      "house": 177,
+      "flat": 3,
+      "phone": "+1021360136",
+      "createdOn": "2026-01-04T09:49:15.000Z",
+      "notes": "0cmjgvUbg3ImbtxifkepsUBefY9iPt0zg06mOANOoKyg8lvBuPQSHQ5xvfDtTnlfsqQ7tNcLR9zvoBh35sLBD5njWRRFpkL2NOVxDgjsNdEpgykaPle8ro2iVFz551A",
+      "_id": "695a379b1c508c5d5ea16e5e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

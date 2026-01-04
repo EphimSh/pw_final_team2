@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:51:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-qxdVCeI3Z8ziRFPDK9N7BVMpZ1c\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car27713",
+      "amount": 375,
+      "price": 75987,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T09:51:26.000Z",
+      "notes": "XHJFmVy23dk2qqG6BoBQOYmCW6j5IJlEwb6sPFLGyO50dwB3P1yOq9op3RuDt63My3PXQmjd8JLh45m5N4fl3Q3e4AhqpQrX2LzBooeW1loKXisI5WJg8wiLmygvgxJAoGMMzzMxUR17n38Gqjqwxq6aDPy3FKUMeoWu7EcVzhxDUrIMATIvqIe1h56lRGaR51L3EbSpRJjoivvxYbzWERsCFqkPcTgMoih8wXzpcXzAWHGCjn4f78kN7L",
+      "_id": "695a381e1c508c5d5ea18009"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

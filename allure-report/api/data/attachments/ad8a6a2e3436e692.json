@@ -1,0 +1,119 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:51:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "4336",
+    "etag": "W/\"10f0-EsF9sXY1dW7DWQwOqbuAFZI1/Rs\"",
+    "keep-alive": "timeout=5, max=85",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "695a381a1c508c5d5ea17f33",
+        "name": "Mouse17061",
+        "amount": 494,
+        "price": 9518,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T09:51:22.000Z",
+        "notes": "NtFZuUZjWiSXUuIcaqrvlLWmHBFqy7I8QvuFGPcMPXzl7BEENqWEnjQOijURGNV49XqBAg3vetcdyL3TWaxkoZuahaL6o7xEYgftkOCTYZ60IcCjdLdWmka3C17zatgJED7UXNpxLQtfyZNHukeoIVw3Qqf7dI9lXZmJau0FHx6FvFGhRVdxeqaAGzrlZnubSn37JM4Dbnl0voV6ehgCGr4bt9UHY4HRzFiZqwPEcsgQyRFaPAI5tGOqTc"
+      },
+      {
+        "_id": "695a38171c508c5d5ea17ec9",
+        "name": "Xiaomi Mi 14 Ultra58198",
+        "amount": 886,
+        "price": 1200,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2026-01-04T09:51:19.000Z",
+        "notes": "CdwBshgzoom8AJPW8DpLfRn3DUkOnm0OHj4Z4l2Yr3iNflMrZHaRNb4dTHTW6DydDd3yEtBk5M4t5rcWOBa1nnnXa9bD0sjd12xXTnyWQ1xDUGGLH78fcT5zCPDJcy8LYaMsx3aqcsmGsqoMiu7xL2ZPVJIyz4nzTbIZ1dlYxQKolWd2tPggwgktxWV6BTcrTwwq8ZWRBDku12xFsdZDmkV078OuOuxD28Er40OZQsykHImSzHikVt3Mb9"
+      },
+      {
+        "_id": "695a38171c508c5d5ea17ecb",
+        "name": "Xiaomi Mi 14 Ultra32814",
+        "amount": 188,
+        "price": 1200,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2026-01-04T09:51:19.000Z",
+        "notes": "D28PvHGwSswln68pcJ3TEBOQDF2A3pSjzzpxvc0C9uwjxlW6U8l9oUbs1X99YWKthuksjMDNCTgSyKCvjxO7P05bOvIwOVTVH18ORj8Pm9ovDD26zLVhiSvbBLcdsmYT14V7kjVyzOFYM5usZmZ3gLz4bDoO55uPV6faxUbAYZk0WjjpVpKTjuXTncr1N8RfJM7Soxdb0Y0NdecSOoFUJbtR2vzYiLptGNp1FAbE1NE4p5pEE6LQCWLavd"
+      },
+      {
+        "_id": "695a38171c508c5d5ea17edc",
+        "name": "Pants97632",
+        "amount": 686,
+        "price": 51582,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T09:51:19.000Z",
+        "notes": "VXVbYCCD4DOATPbGuQ3TQ4roMyiY9SY7WQYliwd5T5nHksy2uyvuhYD3d0ZgwIvQgvGy9V1CKKgxBWoNpUSJmtzcYVOR1ysy5qamBVQw242kFmV7Hr3qkzOy2gwUnWAU5lcJzKyeav04siJCi4fdGZn3SDFgGamH44XKTYjDe9yXOezCXFCij8ng0CpwWkXS2sIp6NOPIpcal8wOQkaiisgV4CzdhLxtPX9Ubqyqkb58p2lTC0LP6ktIDE"
+      },
+      {
+        "_id": "695a38161c508c5d5ea17eb7",
+        "name": "Xiaomi Mi 14 Ultra99149",
+        "amount": 590,
+        "price": 1200,
+        "manufacturer": "Xiaomi",
+        "createdOn": "2026-01-04T09:51:18.000Z",
+        "notes": "q7DQPJNhcnCCt1eUzukreIbuPYPSUpdMOqzah7rUFFI6avB1p4obW007q04JHuaXItutuGZgJTDr6NadJJv4k4t0CrS2JfkOjSpWiuckbFxVQw6x7Bs7FdRETKkvuDIizULZfEQbSucX7FjH7oJjVzlxOumI4hvBLZg2ChtRYmKQx6XYcryawfyHVdSo9NSJw3eNnKAAW9B5Pu9qT2lQd8hykChOjov2192Bk0wP1BVmrGYwDa8pOX5kq3"
+      },
+      {
+        "_id": "695a38141c508c5d5ea17eaa",
+        "name": "Microsoft Surface Duo 353377",
+        "amount": 177,
+        "price": 2200,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-04T09:51:16.000Z",
+        "notes": "6ZJJRJea2ebIxdsiiz8EOCUJTOQnBNp9KYgOnxK39qWt8j0Tl7uflvB8FwNd4T7hSlM3lYNOuv0ksm3Ha3LDyob3mEJQwZ0ANS66NJcE8UkIqXKBlGuuRgpFyLmKiUA4mv1uZGiY3RIVwWZl4MZyJRV95OWZVmbA7hB411KfwKgojej5XGH2mzj97SqhPA97PpPZ160qNzJnNkaFEwPdefACm3O1FYTVFIqVsGR06cDKbTmYedAaoSfQ0M"
+      },
+      {
+        "_id": "695a38131c508c5d5ea17ea0",
+        "name": "Microsoft Surface Duo 325849",
+        "amount": 981,
+        "price": 2200,
+        "manufacturer": "Microsoft",
+        "createdOn": "2026-01-04T09:51:15.000Z",
+        "notes": "Nmual424nNB86yxy0ClXymITZfUiwhczhue6L83rSSIme3RZ6xXRLtIJAVS1TZwnVg4Jp5B21KH8nk7tcFYpEQB25HLtYnFXhdPSPvKrosZeppZzTP3u0vpJ2w6lXwywonaMNFZxtsV2Uas672c5myRLUWtNJ8mFJjo49BXL5DJeHZt0cT6m02SCe3ut31zGagCKqM1t8SCFz8VaO9HhsoOGzgR6abpc1gWwaPKXsSsQxfwghY6l2dNf9G"
+      },
+      {
+        "_id": "695a38111c508c5d5ea17e89",
+        "name": "Google Pixel Ultra69654",
+        "amount": 336,
+        "price": 1800,
+        "manufacturer": "Google",
+        "createdOn": "2026-01-04T09:51:13.000Z",
+        "notes": "izFlg3yuBzhxTTvexObU9ulmNuUEeDYj1E6uXNu3VPnsIHstDtPzCrA2bMHMYhti7dqCC2bPHs82oXZHmFzd1X4ny6r8gbRqomRbTAbXYz5kypqyUcgWTzBdKFJ1zDAtUf7oXNC4f5SIcqWo0Zh6vFoP6A8KIFeShBkrKsXz91Tq3WRvlHKpTtNq5hejz7Vq8q5Bk7IfVeTKqGaW4FP1FP4jeZ99LXi0v5xx2pSPXWrlN4ZLWxWAdoK9bt"
+      },
+      {
+        "_id": "695a38111c508c5d5ea17e94",
+        "name": "Google Pixel Ultra52650",
+        "amount": 230,
+        "price": 1800,
+        "manufacturer": "Google",
+        "createdOn": "2026-01-04T09:51:13.000Z",
+        "notes": "h6rDhAkZts1hCZCgcAZgy1UYOcnkWeiITfQptA7aPxbbw58W4KaNx5CZVXdQ7w9FcPbRri2BjNgU61dTWDnEETcQg31uI0DV32gGHCpPixrXykxmUIGt4a1KwAOwialHGbNKWGwuGZIHG51zYpx8NcHv5ujBdYVR6BqgPuIxJzt9xeacc4lIRqk9zDLjp2rsEnGA72ClAtbtsjtSELccAiuBammaSKcjarfYx2efuz2TD8ElDpOIMHlOzA"
+      },
+      {
+        "_id": "695a380f1c508c5d5ea17e68",
+        "name": "Sony Xperia Pro68276",
+        "amount": 411,
+        "price": 2000,
+        "manufacturer": "Sony",
+        "createdOn": "2026-01-04T09:51:11.000Z",
+        "notes": "69d2D41Wvz50JCrZbbQYs4c5wFg2JS2diiwzsCuXcy5a2xLPFCAwwXcRo2MU5c87MK3WKFmt0GcWulKurbv4sAU6xcgtO7PTWVi63ztXD7oym5u12EsxTaPiWFErEJB8PPyotqigTu44vI6B8BSjFFA8Pqk8VVRSWWo14Ifhf7Tyi9pQP0JHJK9sWi4pWMQhbdFdmkI3MRYOCdg6w8WrwzmavH6M1jESrL0bAD4vavlUo881BlDrRHzMGP"
+      }
+    ],
+    "total": 652,
+    "page": 1,
+    "limit": 10,
+    "search": "",
+    "manufacturer": [],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "desc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

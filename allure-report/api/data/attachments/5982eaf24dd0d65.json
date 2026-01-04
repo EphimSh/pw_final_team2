@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:50:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "548",
+    "etag": "W/\"224-oT/pYuE9VPGDeLTSW6p4y8nfSLM\"",
+    "keep-alive": "timeout=5, max=27",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ernestina.Bernier@gmail.com",
+      "name": "ZmRzFYYNRFqMFnULyADZtvnzzyOZFXKNWgGNyKL",
+      "country": "Great Britain",
+      "city": "QEOAHpfNanHTY",
+      "street": "AaLIwHaohRiCmNmSqkGrBRL97",
+      "house": 72,
+      "flat": 9,
+      "phone": "+0139730493",
+      "createdOn": "2026-01-04T09:50:02.000Z",
+      "notes": "plCR1Mcwhyk5MF3IAvYxySDt0KSRgORUm7C2kBI5SJBT5Sp2vSJmD4wpEUlhDNAY29E1IzzA5B3CgtfihZ0KOegdEwAoZOD02uREQHAVB3hAqI0dH5k8qoM2GDYxtAvYzlj8oopVGj1mCAHTfWn57KQNYNxliq9Jrx2pAj5qbnUPBc1diJT8dIfaLFczFm3hSpjI69V",
+      "_id": "695a37ca1c508c5d5ea175d7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

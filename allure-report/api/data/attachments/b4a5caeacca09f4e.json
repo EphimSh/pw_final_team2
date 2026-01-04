@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:51:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-YwRYaSJsbO94bcHgBdSGciJ5yDU\"",
+    "keep-alive": "timeout=5, max=89",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair21286",
+      "amount": 872,
+      "price": 82459,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T09:51:12.000Z",
+      "notes": "52WblredwmqLwrGrg6DBwpNLbmmsWtnPQzf8E77jdbIkrnDzh4YnEBNiQLWpkF3x96uqANTS2ZDtWAoEUN1DEJI9rZYUSg8fmC7QRmcb6QLsRsBtMZhZxNHW0mhod2qpxNErK02uHWkEPDbDaupAASp03oTY7pucTc8aAah6I71MGwWIjgOWMhH58bNv1CSBSRywygEVFaMIiXJWgE6UrLwoheKXIpxzKJIuw0sLRkw9faKnMu3W4sjVB6",
+      "_id": "695a38101c508c5d5ea17e77"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

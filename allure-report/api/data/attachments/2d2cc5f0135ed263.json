@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:51:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "461",
+    "etag": "W/\"1cd-eKEeF7F9sJoE1GucoSlUu5G+A7M\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Sony Xperia Pro49085",
+      "amount": 741,
+      "price": 2000,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T09:51:10.000Z",
+      "notes": "FB4hQbQm4U4ogP3MaLEu3BbKN8ebabSEVkJVGLgp6Au4D21EvYagKxfTDqzESUooLEu3gkylVQPt57yBCcHXwrdWaQoYXiDva59qJMlJrJYukZC1WhHiy1PpB4P4xK0JsH2WQ4L26oLWIkV5UNwI25PRC2E9dlb2IUcdsAzdHGqZAvlSbnPPuHsUBjQzlmSkb0lLzdkqgqaQ18kzEncXHRDd3GrubjrVXyBC81nmj9sclxNVCTMgjakWSP",
+      "_id": "695a380e1c508c5d5ea17e63"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

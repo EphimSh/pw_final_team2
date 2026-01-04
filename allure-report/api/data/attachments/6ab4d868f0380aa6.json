@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:48:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "499",
+    "etag": "W/\"1f3-4jSreO932+M/qZ3sDe7Hk2RAaMY\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jamaal.Gleichner@hotmail.com",
+      "name": "CBMYOqOXMclaMDOnTkcneECUCQ",
+      "country": "Russia",
+      "city": "lLTACPYAvF",
+      "street": "lJi9xR",
+      "house": 109,
+      "flat": 3,
+      "phone": "+1204738276",
+      "createdOn": "2026-01-04T09:48:34.000Z",
+      "notes": "3N8bUuCjbuDVyXjNSZWvYdzXPJ5jKWPq0hMg3xYuXDEUxLQmoODWVoZ40SLgzARBPDCFzV9zC6axEUkb4Je7JXc7IXQ7o5fMZyqdrSzsoYFu4ArNJtQWXwlZOfQQL3WXLRTNER199jUUxSjyinufWO1k7y7ZRGafUBgwtxKzWiO6BlXLfc0M1cRPNV3BkT",
+      "_id": "695a37721c508c5d5ea169f1"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

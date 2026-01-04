@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:50:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "433",
+    "etag": "W/\"1b1-6zCkszHnuxf5+KfYxDNe0iHSXWY\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Casimir_Langosh@gmail.com",
+      "name": "mWhiaVQP",
+      "country": "Belarus",
+      "city": "HsVNGnviOdqfY",
+      "street": "dYIvWgoTp7SeSOo",
+      "house": 113,
+      "flat": 9,
+      "phone": "+8133593346",
+      "createdOn": "2026-01-04T09:50:07.000Z",
+      "notes": "TGrwNyWeN5vOymjkKmNzxihM9eBGkOeXDZLFDupH0VEitofFDnc41cqtqBuobRhVrjJ4cFWw35M5A9cJNtcthZtKvgUSM1Ed9gKlHKgBZg0HnhRH960nRY0ERjvUwJ2qfbvM",
+      "_id": "695a37cf1c508c5d5ea17675"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

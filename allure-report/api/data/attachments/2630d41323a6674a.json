@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:51:08 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-K3G1JwKMa5bVERXdtJWCtax1NdQ\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat36966",
+      "amount": 12,
+      "price": 81074,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T09:51:08.000Z",
+      "notes": "wNIoLrySBfDpuTycEzapTdyL6kKkEMVf10IllHZ0AKHjRS1cAEj7bZGZkEOYGvcXdkoybDfHSa70lBAod4NGB5sGZbCHhvcvvi40akGklWbjLNbcbvIfEf0QZoYEsCf5lQ5y2RF3trAMzIsU92jPsLVGFtUjSrw5V4D0jlGykBatP7JmRkqureLKKzmuEtufC0FqO3lWIuwxsuVBIciQHMOhRrhINK6NIbzGyaD6zbR4DFfRI86HboMTFz",
+      "_id": "695a380c1c508c5d5ea17e34"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:49:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-CMx8sjEZEHv+Umy0y+aAs07h+yw\"",
+    "keep-alive": "timeout=5, max=44",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair7894",
+      "amount": 808,
+      "price": 26549,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T09:49:47.000Z",
+      "notes": "C9crgA5cuUfhG8T0blMfUbEbiEoLZ9X1oucuvhEnqSDDfL1KV4eFoB37HnIR7f3abQISLhjlKRxUwTZ5wtxbp0lAVYdrtYRLXjr2q9quqQUz7zkudOiH3xLssDjQSG1voJRdgoAUqp2XDzyldtOjjM1aBkwsdYIKzqx11J0eufpBM9n80S4z6YPVsag94aRVem6CX6TpfTXpWHx5018c1eMDivkyYNY2dNfCEKLLbLUOd5LvntKrMVBcsY",
+      "_id": "695a37bb1c508c5d5ea17389"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

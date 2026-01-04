@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:50:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "471",
+    "etag": "W/\"1d7-c+QzEdJj/cP86FvU9EWMCN3SZco\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Nelda23@yahoo.com",
+      "name": "KjiMxTEbbzjr",
+      "country": "USA",
+      "city": "XVdtUOySoYZInycQ",
+      "street": "LzjdHlMk0",
+      "house": 40,
+      "flat": 2,
+      "phone": "+2159388045",
+      "createdOn": "2026-01-04T09:50:15.000Z",
+      "notes": "YvzwYsNNxoasklz0WDHZNS8nIU4SPPUo8b62xLyzhlcVTKVAYyebXOOQxMMsxaX8qv8dOabSmm6p6Vq1XA0MlCCoL2iuqZRWk4YyPznMXftPd6uyzU9fem9adoBouI2FNXcfjijpUFvjy3Wj2R9futDD5lfXmGFVY7XTNLYUa6BuC71mO7lnfx",
+      "_id": "695a37d71c508c5d5ea17830"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

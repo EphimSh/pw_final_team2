@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:49:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "556",
+    "etag": "W/\"22c-LnlhEcUcilvK+InvChK9SoskXwY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Eleazar67@gmail.com",
+      "name": "CUxFEeFzjpxJcvWnhYIY",
+      "country": "USA",
+      "city": "VNKvSZMrGnWvNegL",
+      "street": "vDY95YIsaJZwpEuXDHpq",
+      "house": 89,
+      "flat": 6,
+      "phone": "+4764010925",
+      "createdOn": "2026-01-04T09:49:15.000Z",
+      "notes": "p4TjUtG9FUh1OiC8kg5vgDIxsSXJKswg051KjsWwBIvT5HBFvLSwCALcOvM2v7Pqigq9X6lND2wVw7vCeHqghDzsHlNJT2rcrXYOZlgqSCQ3WoRGwgpz0ODvky2g7CjDh5gk34Vfwunffzvz4exsREmIHvKJqyQZhOndxIeIbnacgRxeGQ80w86677ferdFE9xTg6JnYcldqTcXRHCTpi817A989dSt19LutNo2WDo1VQb9THRW2Nv",
+      "_id": "695a379b1c508c5d5ea16e70"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

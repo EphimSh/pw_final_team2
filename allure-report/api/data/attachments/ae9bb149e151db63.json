@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:49:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "518",
+    "etag": "W/\"206-V8Zdm96tZKQn/DStoKSd+RcJqTM\"",
+    "keep-alive": "timeout=5, max=68",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Mariela12@yahoo.com",
+      "name": "YJrUJxGlgRLGlnS",
+      "country": "Ukraine",
+      "city": "PeUhfQYncdNWTJnQ",
+      "street": "5LoO30S2NhQbc2Y0ddeiJIRuxnidK",
+      "house": 124,
+      "flat": 5,
+      "phone": "+6761736011",
+      "createdOn": "2026-01-04T09:49:59.000Z",
+      "notes": "GRRGznDYj6cK2hDRAvaWFTShAYuuAQzanDyODuY5ladpoy7FmGBJ7Fg0FZVISlDvE4PWicxmWTGQeYJMb19A6tOhMOGSNDSEL0pFfvg8WtNxbSZ2zAmIJVHjilyUir44wYen4YtTNOs3ggJ94x5V37oeUZH22iHd3GAONedA9JsxMcyrxGjOvYVBYPGtrKGirgTIrEx",
+      "_id": "695a37c71c508c5d5ea1759c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

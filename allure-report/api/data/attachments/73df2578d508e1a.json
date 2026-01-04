@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:50:33 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "354",
+    "etag": "W/\"162-aTreBtIplFGRb91zfAtYzQ1tbEk\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Elvie_Heaney@gmail.com",
+      "name": "tuXRotucaypbCxFjmIsjYNmg",
+      "country": "Belarus",
+      "city": "jQfhghGMnf",
+      "street": "4pnE68oLonum",
+      "house": 168,
+      "flat": 8,
+      "phone": "+3515371169",
+      "createdOn": "2026-01-04T09:50:33.000Z",
+      "notes": "Azh6FJgaEZijCwXM61HxSLk5BkjaAZ4uyMNA8dnk67z5zu",
+      "_id": "695a37e91c508c5d5ea17a92"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

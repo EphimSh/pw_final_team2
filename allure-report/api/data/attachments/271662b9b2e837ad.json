@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:49:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "352",
+    "etag": "W/\"160-bjlCvATtAngU2kv5rgw33WoQgUM\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Dawn_Braun@hotmail.com",
+      "name": "WztJVLSSVZShdNvgAOlchpZ",
+      "country": "Russia",
+      "city": "mgvg",
+      "street": "eLBnqrPrHLJ9Wu4THDK7FULcm7ETNdR2Il",
+      "house": 194,
+      "flat": 7,
+      "phone": "+6911818180",
+      "createdOn": "2026-01-04T09:49:28.000Z",
+      "notes": "ooFFCiks9E0Bbqglujl70vQGNEwjj8",
+      "_id": "695a37a81c508c5d5ea170d6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 09:49:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "460",
+    "etag": "W/\"1cc-H0tCVvPZPT6eNG2W6yX1whSpsbo\"",
+    "keep-alive": "timeout=5, max=72",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Efrain33@gmail.com",
+      "name": "TAUYdEGJmkCNOIamqBklVWKQNsdTQrGkbOddYB",
+      "country": "Germany",
+      "city": "GJyBcZXmd",
+      "street": "O6Od2KFe8PlPVMStZaJnhNb",
+      "house": 193,
+      "flat": 6,
+      "phone": "+3472537295",
+      "createdOn": "2026-01-04T09:49:52.000Z",
+      "notes": "Dr5LfJbxHfNgxarcE4LztLiAWJ7t8542mv7Lv5VWWfXnV8vAPmJnZTvkJMUpUjFuVAWHntDaldsCQUFqimczg2e9BzgxQbg3fsIFheV9rf9P5MmSlnCcS6Xd2UdEDvKftZIh",
+      "_id": "695a37c01c508c5d5ea173ec"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
