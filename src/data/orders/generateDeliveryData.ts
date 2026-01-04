@@ -7,11 +7,17 @@ import { getRandomEnumValue } from "utils/enum.utils";
 
 export function generateDeliveryData(params?: Partial<IDeliveryInfo>): IDeliveryInfo {
   return {
-    address: generateDeliveryAdressData(),
+    address: params?.address
+      ? params.address // address was provided
+      : generateDeliveryAdressData(), // generate new address
     finalDate: convertToDate(moment().add(5, "days").toISOString()),
     condition: getRandomEnumValue(DELIVERY_CONDITIONS),
     ...params,
   };
+}
+
+export function generateDeliveryDate() {
+  return convertToDate(moment().add(5, "days").toISOString());
 }
 
 export function generateDeliveryAdressData(params?: Partial<IDeliveryAddress>): IDeliveryAddress {

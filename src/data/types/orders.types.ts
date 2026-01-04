@@ -138,3 +138,5 @@ export interface IGetOrdersParams {
   sortField?: OrdersSortField;
   sortOrder?: SortOrder;
 }
+
+export type DeliveryLocation = "Home" | "Other";
