@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:07:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2857",
+    "etag": "W/\"b29-1TMjoM0Zqibb9apU0gmHWEbnnOw\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a3bdb1c508c5d5ea188b5",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a3bd81c508c5d5ea18871",
+        "email": "Matteo.Romaguera28@gmail.com",
+        "name": "TeDjbTXHYDqBVapw",
+        "country": "Belarus",
+        "city": "DpkRxqaaExuePfZxoz",
+        "street": "LPEwPKabW6wAhR7",
+        "house": 58,
+        "flat": 2,
+        "phone": "+3010284680",
+        "createdOn": "2026-01-04T10:07:20.000Z",
+        "notes": "URgRqWxYIOIaVDh6CVBzYLeJX8y1UgpdwjDcioh9SopN2qxqp3QFTul6zezANFvldkNvUFAsfkYoXoIXmwiRomZkQ2JO1HlCSrKIIMYupQsVptONG2xz"
+      },
+      "products": [
+        {
+          "_id": "695a3bdb1c508c5d5ea188a1",
+          "name": "Sausages72571",
+          "amount": 424,
+          "price": 41555,
+          "manufacturer": "Amazon",
+          "notes": "tsbTiPiHPYz5UwJD5BuyfwJEYVCW9KEX8BTKIWe2moddLfcZNhdf8D70Fz2fSKHITHbZA1J8Fs0tVzUXPTEZCx4Fe0AV0ps9qVhprq53k9ezzh5Y7DOBzJQxKqtjasKHwRk1vBtqhebagQkC5g5eXqltXJXlsEVBajygMztLFKIpUkLfhz2KRTQ2RorLtniyKBd0BcmJuq7Qu4SJztrBhNZ7qJQq3ZghiXObLRftYxbPVfJBQwxWIJ8gGo",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Russia",
+          "city": "Mock City XWmpZi",
+          "street": "MockStreetvwxR8r",
+          "house": 178,
+          "flat": 10
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Delivery"
+      },
+      "total_price": 41555,
+      "createdOn": "2026-01-04T10:07:23.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a3bd81c508c5d5ea18871",
+          "products": [
+            {
+              "_id": "695a3bdb1c508c5d5ea188a1",
+              "name": "Sausages72571",
+              "amount": 424,
+              "price": 41555,
+              "manufacturer": "Amazon",
+              "notes": "tsbTiPiHPYz5UwJD5BuyfwJEYVCW9KEX8BTKIWe2moddLfcZNhdf8D70Fz2fSKHITHbZA1J8Fs0tVzUXPTEZCx4Fe0AV0ps9qVhprq53k9ezzh5Y7DOBzJQxKqtjasKHwRk1vBtqhebagQkC5g5eXqltXJXlsEVBajygMztLFKIpUkLfhz2KRTQ2RorLtniyKBd0BcmJuq7Qu4SJztrBhNZ7qJQq3ZghiXObLRftYxbPVfJBQwxWIJ8gGo",
+              "received": false
+            }
+          ],
+          "total_price": 41555,
+          "delivery": {
+            "address": {
+              "country": "Russia",
+              "city": "Mock City XWmpZi",
+              "street": "MockStreetvwxR8r",
+              "house": 178,
+              "flat": 10
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Delivery"
+          },
+          "changedOn": "2026-01-04T10:07:23.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a3bd81c508c5d5ea18871",
+          "products": [
+            {
+              "_id": "695a3bdb1c508c5d5ea188a1",
+              "name": "Sausages72571",
+              "amount": 424,
+              "price": 41555,
+              "manufacturer": "Amazon",
+              "notes": "tsbTiPiHPYz5UwJD5BuyfwJEYVCW9KEX8BTKIWe2moddLfcZNhdf8D70Fz2fSKHITHbZA1J8Fs0tVzUXPTEZCx4Fe0AV0ps9qVhprq53k9ezzh5Y7DOBzJQxKqtjasKHwRk1vBtqhebagQkC5g5eXqltXJXlsEVBajygMztLFKIpUkLfhz2KRTQ2RorLtniyKBd0BcmJuq7Qu4SJztrBhNZ7qJQq3ZghiXObLRftYxbPVfJBQwxWIJ8gGo",
+              "received": false
+            }
+          ],
+          "total_price": 41555,
+          "delivery": null,
+          "changedOn": "2026-01-04T10:07:23.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

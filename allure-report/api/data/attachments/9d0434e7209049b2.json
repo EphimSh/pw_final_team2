@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:06:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "410",
+    "etag": "W/\"19a-K8qt3ParWv0aDaw+NampDVFioVg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Hobart.Grimes@gmail.com",
+      "name": "hVIbLTcKDbbFVcBKTSvPpNMOdbRHaacOwY",
+      "country": "Great Britain",
+      "city": "KFVCdCpIBbZ",
+      "street": "aDy9AZzNLgwr4fjLXE2DpqgMnQqloYJp2LD",
+      "house": 1,
+      "flat": 7,
+      "phone": "+5603820280",
+      "createdOn": "2026-01-04T10:06:26.000Z",
+      "notes": "d2WEV4svg4TiYCwwpT09yuU3R5FQFaukSkio4NwHiOb2mUgzsHSUaBipgninNDB",
+      "_id": "695a3ba21c508c5d5ea181d3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

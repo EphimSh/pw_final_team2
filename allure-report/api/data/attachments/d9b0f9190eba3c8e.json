@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:06:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "317",
+    "etag": "W/\"13d-zFRTw3DkuokRXwtYHV7pJb2mDo4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Carlie.Christiansen97@hotmail.com",
+      "name": "KTyIKqoJtlO",
+      "country": "Germany",
+      "city": "VeCPMZaA",
+      "street": "IUZsI6ffJwTeEZA6LQjFqlTcP7",
+      "house": 56,
+      "flat": 6,
+      "phone": "+8390982135",
+      "createdOn": "2026-01-04T10:06:25.000Z",
+      "notes": "",
+      "_id": "695a3ba11c508c5d5ea181b4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

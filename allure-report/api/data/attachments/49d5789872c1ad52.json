@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:06:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "402",
+    "etag": "W/\"192-bB9Zau/uv6DJ0gI1XyJ+mprzBSY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Milan_Volkman9@hotmail.com",
+      "name": "LlnajHuTcvWEVgZW",
+      "country": "France",
+      "city": "lQZqNBfsyGB",
+      "street": "XWw4jV8HHHECmLVgkGFtrT",
+      "house": 165,
+      "flat": 8,
+      "phone": "+6849738652",
+      "createdOn": "2026-01-04T10:06:29.000Z",
+      "notes": "C7SzxiQ5UAS5sCz5LViDauC21gEybuRVQb77oB5K49U3DXYf2c0P4hjchDKXMVXps06Taj5vR6TLD4FIajUMGrQm",
+      "_id": "695a3ba51c508c5d5ea181ec"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:07:29 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-1la0kbHm8z4cVtLGHGxKRaSXvGo\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna60641",
+      "amount": 505,
+      "price": 685,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T10:07:29.000Z",
+      "notes": "ZVtoSqlAAkm251IrZkioPTcbrkbeG19fH7tNkJySEy7ifhZ13Nweya6FyTPXrEDV0m1dxlVMc8XxvaRPc3UIuS97wOHUpzXfXFb4vOxCHglnRuBcm72P74YoERvrc4ZLVB0ENqgLIlXshJJAk8lJweHlPODOjyINeBOSYbIEijLShJRETFYuIAGA1EQ3TbrWPXQmO3kkF9O3p3GKSOZVWuIb4nMtR03krA1JbJ1yZXF1sIyE6O9qJYTCom",
+      "_id": "695a3be11c508c5d5ea189ac"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

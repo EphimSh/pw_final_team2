@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:08:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-nTppNTSRFVaMrzgex9R8AxRYHek\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard10227",
+      "amount": 578,
+      "price": 83607,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T10:08:14.000Z",
+      "notes": "NvznVBaVHQsNryTA0E40Y6DzApQ5peEXv4dDTL1l8mopGh6gd756gZgYbf0OwF7TmTgKywhVouvdtRrocQxgMEiHXSxC8hUl8J3dLgtnLkRPdSLMnv2R4lnSYtMQNsG8O86ZwVgJ0pvO3czkkEzjkPM6kwt5tj5OwuFckLwPYjGkFnRpn0ecZf7CLK1BjncMgieWT2EcSV2gmIYFUGz2ha4ocKd3hqSzPBxtUpCCjzNnSis2PupJ244Oyo",
+      "_id": "695a3c0e1c508c5d5ea1905a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

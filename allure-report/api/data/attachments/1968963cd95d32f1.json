@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:07:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-AMzDu7GnFRLy5XU46b3/k/Yet6g\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt7416",
+      "amount": 557,
+      "price": 86407,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T10:07:17.000Z",
+      "notes": "PXOwcLQWvfOwkGw7v7e5WpIOFbODqxAMSaasWFaolZVTlwSQ27ylQvDGEtB90DRitU1ojCHGZFP83Y5EV9GAq9JjGJMztDpfVm6tUpqqSZFJAbmH1WeN5UupbPFVLmo9rJ5n6mu03u2a6FsZxM1tcegvjmI4ZvG4HxO4ishAE4f4HbYlyg1NqKSlKcoc8i3Mf5502QMkH6vxGRK0TrawQTOabY20zqWxANKB8sfaaa0qLTjwxZckT2gv6v",
+      "_id": "695a3bd51c508c5d5ea187e5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

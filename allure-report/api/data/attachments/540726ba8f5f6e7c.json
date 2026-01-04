@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:08:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-3fPbFEj3ZVfss/GxOMtoAVmSyNs\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike37799",
+      "amount": 0,
+      "price": 59651,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T10:08:39.000Z",
+      "notes": "6br8UA8bWr10tn3xz14pjiDEKKA7YrYlsLpgGSJ69RGFoeXnJlJc52jlEdqKdKxKPIa3q79Qqh0XmPioED77cJ9IXAvMwVX4oAQ3DBTET5ITuV2JhC3oTJKamtxJB4LTP9VDDMAsW0o8cY0GwXYVWXmRHQA3nbaZCRfFk5jprowHWQ59jVlHUSNcxBfVDBgnAdyobOMLdEzPS76ZHog9zt4vYGKHkmwKJGxnJoS1aUJJnRnbF5k8cllGub",
+      "_id": "695a3c271c508c5d5ea19454"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

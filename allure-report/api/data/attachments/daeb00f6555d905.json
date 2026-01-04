@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:09:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-72K41+Tyb0hLqy65QD904bHQ180\"",
+    "keep-alive": "timeout=5, max=84",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "_id": "695a3c511c508c5d5ea19809",
+      "name": "Cheese91036",
+      "amount": 977,
+      "price": 10000,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T10:09:21.000Z",
+      "notes": "kiEveCqGBSFgUgyberfehLx3EiUCe7fD4yeZeXrDNGfuqojkNODNa3LQWRLlAB7xm7LKMFKifVnowKTVyxpaiI3XjivxJOYkEepGigM4abxy1fF3mHeYmR829LwLyBD7zWkP4FZQiboZmxnbaFe7EL6WoceLgWOjwUkw5gO6JMAgIANoN20k9hKJTk48pjUKcCVogYwfguUMoAvslMB4cfLBhLWkPO9TCvXmGKaev8RSfAiHyYxBCWMBZ6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

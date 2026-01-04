@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:07:20 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "346",
+    "etag": "W/\"15a-Ragt9h0zfMT+MfjcqqIicwbEZuQ\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Adolphus55@yahoo.com",
+      "name": "kAWIVrfRgWIYVXbwmdfABzs",
+      "country": "France",
+      "city": "ZWepynFkcEEhS",
+      "street": "1KQOtFCXFuQJnpm1S",
+      "house": 194,
+      "flat": 9,
+      "phone": "+6585242536",
+      "createdOn": "2026-01-04T10:07:20.000Z",
+      "notes": "opSvnbTP811ywdVySoAD81ENZlh88DW33o",
+      "_id": "695a3bd81c508c5d5ea18873"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

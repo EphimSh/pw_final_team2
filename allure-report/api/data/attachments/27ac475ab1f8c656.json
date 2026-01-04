@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:07:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "503",
+    "etag": "W/\"1f7-VPzc+Q7MB8WcozyJ0k4rq1mO1ks\"",
+    "keep-alive": "timeout=5, max=29",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Cleveland42@gmail.com",
+      "name": "gX",
+      "country": "Russia",
+      "city": "SbjNwbqw",
+      "street": "o5E5aEgdlWy2Z7jAdETdPu3PjmSHj",
+      "house": 81,
+      "flat": 7,
+      "phone": "+9004458340",
+      "createdOn": "2026-01-04T10:07:39.000Z",
+      "notes": "8doYOeEenia492HLBzsG8BSPbzZ54BuuBVfLSoh0qbgzSTNogeBjohGAhPGUTOghFYIBGUeDKlcWyCC5fySsEmIuaiNNSTGx7rLqbin9qmFULBRliFASZ9ubXbKTw8GjqsEXejnmc2NFdm6xJm3ykUePAGfmm0XFLiIj7lam8kgIxaQ0aKBVZtipi3nwBTDbUPm8ZUGmFNnSb",
+      "_id": "695a3beb1c508c5d5ea18acb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

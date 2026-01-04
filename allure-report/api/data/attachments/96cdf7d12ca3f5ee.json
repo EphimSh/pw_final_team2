@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:08:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-99KbvEXcYwGGSlStlM0+t++5puw\"",
+    "keep-alive": "timeout=5, max=77",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair85026",
+      "amount": 107,
+      "price": 63313,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T10:08:30.000Z",
+      "notes": "FnPgXd6N7zc5HDQ4N6vsR6Loncjtx825FlKBHP3zcMXx26Z2erKx4RoaSDZq7VGoBoPJqtXA9Y6MiUGGDPHxu6G3LX2DC01krmZ5ljddwQyTyBsyLQupUx0gKYs5eCO3MDJfQEqFYcYeoTbyEJbLSCJrp6Wg0H76IPEVqlqAs4Qo7UcDgQ4N59CfN9j8MUNRvqm8R3Em9bGuTocz66aEtaXBt7zU99XskYKoK8nMm5nf6lIQjsaYjH8uTl",
+      "_id": "695a3c1e1c508c5d5ea192ab"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

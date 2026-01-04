@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:07:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "505",
+    "etag": "W/\"1f9-2yULEMbV4yz5ovMqtZHncQQO92A\"",
+    "keep-alive": "timeout=5, max=70",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ambrose.Hand@yahoo.com",
+      "name": "NU",
+      "country": "Germany",
+      "city": "MUJiqNZAzVArbYobNS",
+      "street": "HvNnpkmgML0f57PvkpP5EBvMtI07mUo9Va5u",
+      "house": 71,
+      "flat": 7,
+      "phone": "+6075634182",
+      "createdOn": "2026-01-04T10:07:32.000Z",
+      "notes": "W8kN3Xj3nVyKW1aGcokPzLgyXLURVoQjGK6gx6rg43ZU97KLZjBXUvYaGSmQY5DobHUrwXdw8OIM5AoZpgCxDgKlyCzVpVlLTghjT8VlMVi3PG3tvVhX2sDwMNbgXOsl6vsrYbBSEF1ormhedlOPNByiNRlXSu7146rgui7cy91wFPdG2GWIBubebgkZ",
+      "_id": "695a3be41c508c5d5ea18a09"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

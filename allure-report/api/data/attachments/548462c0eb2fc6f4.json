@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:07:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-UlEXRMdj7TIvDWQlFLbu9rlLWPQ\"",
+    "keep-alive": "timeout=5, max=73",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese12930",
+      "amount": 685,
+      "price": 69898,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T10:07:47.000Z",
+      "notes": "ix3XPXAZSG8ypX089qOgWDQmOORwzkhUfclVTMCerYKorASp1lrzsOtAAYegCp9bUdInjbki5lcILQCKFjhYagu1ZYt4ROC2JxZKnYJoS1sw8OyksR1HYDQW6D1O4UZgrjkJhBbHbR9SVfQrkHBGEaOHWZxUJ0AdpFQeGLeKEIzKcJKfioPdKDPG1TSMC3d5fmdRJ8LwD2eAjxM3xH5wHAXN7jgEHgUWmHQIeOOjC4iEbyYBA6wFTIRa2m",
+      "_id": "695a3bf31c508c5d5ea18bcf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

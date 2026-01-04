@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:08:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "371",
+    "etag": "W/\"173-rpp58bODGTCcHNNMFK+nuaD9E8I\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Erling73@gmail.com",
+      "name": "gSHUFyYEPz",
+      "country": "Russia",
+      "city": "qNQYUieqYunGHJTHZGWU",
+      "street": "u1GKHD",
+      "house": 161,
+      "flat": 6,
+      "phone": "+0696762763",
+      "createdOn": "2026-01-04T10:08:23.000Z",
+      "notes": "TNlNyxwpSJSVdolvC4H1zLNxH7uWIRepIbRomg4fOZF0qrrD9dSGnPV2LJZKHzhKjHbVB4p249GzSN",
+      "_id": "695a3c171c508c5d5ea1916d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

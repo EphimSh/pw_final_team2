@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:07:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-XtILOiN1ckWSsJiMalZcfJj2scA\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants15842",
+      "amount": 678,
+      "price": 23047,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T10:07:13.000Z",
+      "notes": "VoDJUWtLl1QNGixsRUvbs5hoOh05AOv06Ox2DAhl0P6EQqzHi0jLV6lgcMlG2rKZON49Y2CdT2XOxf9rAxjx6kwe7c1ufswrQnkt1bVkLGssWIkzyEJbC8hchsCQ3LeegfKQwtfpIyuHKTsNHOrAdrL35TYehJTjinAeuMJOvKvCXO7IGXWaet2njxIPixJjibeG3H8KU6UKdbGcyuidVEr6INmSQx7MEinFRPsXcHtzMzVkLcSI8ce3gj",
+      "_id": "695a3bd11c508c5d5ea1868b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

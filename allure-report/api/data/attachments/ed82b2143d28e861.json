@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:07:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-lRHbC5HuFL/ajAb+Vxnf25TOpQs\"",
+    "keep-alive": "timeout=5, max=46",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat15351",
+      "amount": 919,
+      "price": 12643,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T10:07:21.000Z",
+      "notes": "MeCyYAKeUnYOHTlniFSRNvqmB0vEIit2LU1Jv0rUjY0UpJmOH8mool78GDmE6xTYE2kmbCg2JmwOHMTX9xM8k2clIpMidQnTfcojMoUhT8WwCyjPG5mBXAxSix3jSFq0Qm8C6qMAUJhgm6liwAw2syCRsgw7mWOM14UxyO2Ej9vrROsd99dMcG0oVKalIvAu3jC7DPHfunWW4yrtu4expQumrs6cSuRPUvAMcE0JPWD4ynTtP6DVHek77D",
+      "_id": "695a3bd91c508c5d5ea1887b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

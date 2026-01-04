@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:06:34 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "345",
+    "etag": "W/\"159-QAUDt24E9XIrhcOeRLOY/BLf9vc\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Gerda_Abbott45@hotmail.com",
+      "name": "FtFbFchiAXPkfoMjWbXYQYCbp",
+      "country": "Belarus",
+      "city": "lwH",
+      "street": "06rOXX2vElqM",
+      "house": 196,
+      "flat": 5,
+      "phone": "+4761573717",
+      "createdOn": "2026-01-04T10:06:34.000Z",
+      "notes": "iVxVjc1n6bRoNZxEGAG1iewpyzp177wd8KEhf20",
+      "_id": "695a3baa1c508c5d5ea18236"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

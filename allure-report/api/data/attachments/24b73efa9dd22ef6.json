@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:08:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "447",
+    "etag": "W/\"1bf-qeUe8KEuK9gEJD7G39MVM7hSgJU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "TR0",
+      "amount": 361,
+      "price": 76014,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T10:08:32.000Z",
+      "notes": "cIrwTjJX7sWVSx9pMn1DNtKjYTr72oBth9gaQFgAsD63sVrlhHqrMSdwU0c7fn1DPcgWCRr5uSbeDwX2bztOHVoEUw3ZEbwdrCQYIdhlfqXk7FaojaLCmNo1eSedmRVeAVWjYqqBZM5Uz33TIvOyto3Y8f1pbpngDwtGZ6K34oy0yLpRScNrz02loyq1MdELEYYLuBYwGLsLeMYhCb2uxhcDrRyiSgshwOgvLpD0gRiaMDK7ihsSCogCOh",
+      "_id": "695a3c201c508c5d5ea192ca"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

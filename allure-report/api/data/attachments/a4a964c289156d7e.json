@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:06:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-iQqbVSPxe0p57ujygUbjiZdw5R0\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Tuna63741",
+      "amount": 203,
+      "price": 23932,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T10:06:50.000Z",
+      "notes": "HB0PV0i9NhapVDw1C2FdW9O9TZF3Jk4Uxe6cdzmahp0P85Gok65oXKsZ3VUsYL9IfXuGUHsJY3mi75AU1fNWfNjUDi6DqV8faSt0TRsmPXcIxbU4Jy6A92zkeyCcWjrM0m2susdqUtiGqK5PYGl0XLwnRSxP7R0GnYP36ES3ebhLjjE1Ffo6lm1GY0iAdwB5U7UltjDcz6QISfmHqENczeAZVCh3qlLw5v4TwUJVTTnVBq4jODknHMA1Sn",
+      "_id": "695a3bba1c508c5d5ea1831a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

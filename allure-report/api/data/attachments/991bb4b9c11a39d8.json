@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:07:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "325",
+    "etag": "W/\"145-U1GEej0pgZqPt74sWLsvXtm0fws\"",
+    "keep-alive": "timeout=5, max=50",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Lamar.Wolf@hotmail.com",
+      "name": "nHzfuugsiJRTGRpDYZhkjupVXwtQFDwtSJIE",
+      "country": "France",
+      "city": "ZLpRPFVubdQHmhhF",
+      "street": "KSHQJwxeNSU",
+      "house": 136,
+      "flat": 7,
+      "phone": "+5140269297",
+      "createdOn": "2026-01-04T10:07:56.000Z",
+      "notes": "1",
+      "_id": "695a3bfc1c508c5d5ea18da8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

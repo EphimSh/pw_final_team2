@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:08:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-UIpAJRDH2Xwf2NYOD0kFLqbY66o\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes73022",
+      "amount": 618,
+      "price": 40360,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T10:08:57.000Z",
+      "notes": "ESmumP35GAPNudTBlo2RHefS2imG8P0yfN6syeqA12e0k2NwuJSIFyUBrgzNwPDGK1T3UMZaoezxqr5IwLtx4GNPqw8yzurdgj7Xj9dzCHNn2AmUjAxz3ygxoDBD1K7EloPrmVC7VNKTPliuHjNqRUTWqaAjG7fwU6SM3MQbnOPS5ohPwhuqgF6ObScM4hTKBi8LZkDGLwAEe07xm158m3f0TXBvayHi3gQNVMX20MnPiX0T6o0f1UxgBA",
+      "_id": "695a3c391c508c5d5ea195c6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

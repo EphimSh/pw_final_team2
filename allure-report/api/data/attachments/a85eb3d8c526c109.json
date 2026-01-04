@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:08:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-fnCgT9HnxSy6Hr0HhMq+HewZKRY\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants80485",
+      "amount": 822,
+      "price": 46325,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T10:08:41.000Z",
+      "notes": "ybFGUPip6EanHrIRUK232YfYfUjleN5jxVP3eiQOCCREDf2BD83XJo9hlWw3J0drx4WgHH2PbBNkVkomufU4h1m6usAJ8Lkkw3y2wzEJBIQjX0i1SNPWTy5816GOgiuL8oDhJsKDS46TeL2USg3aaMvdjkGVhwL4nKvef7OlskEM8CxqAdrxoOEDLvIIjCtnhcB8HAqMlK2tUpahoVDffMA3p2anBgbF1o9WfNpg8Ole3U7PRVW7EFCFpb",
+      "_id": "695a3c291c508c5d5ea19477"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

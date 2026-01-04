@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:06:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-jSgB0VF6Zr/YiCQWhD16nT1n9Dg\"",
+    "keep-alive": "timeout=5, max=69",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken62277",
+      "amount": 980,
+      "price": 19527,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T10:06:59.000Z",
+      "notes": "MwKWJJoO1Ud4DwZEk9gJQHWrregQvd7YjLiFl0PEjgsxQtvFKm7oxw1ECJlLJw3beyrjNewiOrOxqHUvaSt5uTMKquXhL2ewxNWjGm6o0p1iY9N5AT19tvVzRvg7kXs6tNYV4gDhj3kAfijxoMz1bqom0Exaknh38m5NFrQCyv8xQA0HmBIXgWHpVkCKQJU0roAgRACOnnHeJBneVlh4putWU0ZozvzhJDfjsLfBDOcCYpSTadBc6Omxwk",
+      "_id": "695a3bc31c508c5d5ea184b8"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

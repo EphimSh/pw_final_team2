@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:06:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "332",
+    "etag": "W/\"14c-lWaAPqnbev4So6YtqwlL12lLaqY\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Myles_Grant84@yahoo.com",
+      "name": "eGTxDuEUHbNhObBThDlZqHqk",
+      "country": "Ukraine",
+      "city": "cm",
+      "street": "fi6vmnFUbVmtujlPOrbvXuQ4E",
+      "house": 160,
+      "flat": 1,
+      "phone": "+0484872716",
+      "createdOn": "2026-01-04T10:06:35.000Z",
+      "notes": "KkhnfpgFiF2mRR9eYS",
+      "_id": "695a3bab1c508c5d5ea18256"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

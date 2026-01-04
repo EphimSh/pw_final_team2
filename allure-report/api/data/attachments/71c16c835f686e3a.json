@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:07:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "416",
+    "etag": "W/\"1a0-4YSJHDF19j7tWwZuKnlHofJgix8\"",
+    "keep-alive": "timeout=5, max=38",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Natasha_Moen64@gmail.com",
+      "name": "BSr",
+      "country": "Canada",
+      "city": "Y",
+      "street": "5kdfF57rQ35XhZGkOIeBpbZ08jGYeFsmLVfSUL",
+      "house": 116,
+      "flat": 6,
+      "phone": "+1734205112",
+      "createdOn": "2026-01-04T10:07:27.000Z",
+      "notes": "zSEGfHpqt3P5sbjuMGjawXNEm2LJJrbrOEDgEu0WKjiwJ3N0qTwBEjvQWB392FshxgidytQ6gM3IknupBMAwhr5AQ3e6W6cIeaF5Y13B8VBjJQv",
+      "_id": "695a3bdf1c508c5d5ea18983"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

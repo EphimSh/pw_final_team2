@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:08:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-Ms/jklG9vUzvOo5DnGAy6g0r8zo\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike42436",
+      "amount": 357,
+      "price": 21073,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T10:08:26.000Z",
+      "notes": "aQCn8JCmyR9RthVb17sHK6MkINbzSyxYmdA2czIca2YiSQ0t4ND2b2bxdq5D7RPaIk3b2BKrBB82PMSddB094NQDoNGKHEfYQHFp7u4S9Sa7jjBNeIVYiOcc4PUNsJaQYAGUPsWRXKyJTwmRjTtoNQEtKJgvUmRf931IT3H198nvpDx6nYIYEE9ciHozsBS1GPrBQHZGeNL0S7NeC0PC7ZC4lMgC167EcVsHTK1J9oq6QHsk7I1cZRjvwQ",
+      "_id": "695a3c1a1c508c5d5ea19216"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:09:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "465",
+    "etag": "W/\"1d1-CTZFrNfR5jgClF78MpHOWkEl/bc\"",
+    "keep-alive": "timeout=5, max=87",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Xiaomi Mi 14 Ultra7256",
+      "amount": 577,
+      "price": 1200,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T10:09:14.000Z",
+      "notes": "MQnc4QtyUnuaOkKW4vHjKm4O8LqYcEVrsQO5DgGF2qhesOODfUUnckKMe75OjFqbviOWjBpQvJ2KjHjLHuZadKW2MpSQluhIpMFwdga4BvElwFKpjg9ZaJRz5KFF5cgKnO9hyohBeEflYjJJo5uNujQgEw7c09bBXM3FQwembrKBPkaSULN77qXJvf0VWxDP2pkqTfXoOXDqPbK9rVeIsEozyyitXNlhPFBoad2SIxF0cbfyA9BsssbI5q",
+      "_id": "695a3c4a1c508c5d5ea196bb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

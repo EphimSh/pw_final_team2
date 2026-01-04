@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:07:37 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "390",
+    "etag": "W/\"186-hi7LCDVgXqhpWE/8HFB/FZjH2Q0\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Estevan_Watsica52@hotmail.com",
+      "name": "SycdsQXuAZbqN",
+      "country": "France",
+      "city": "mEPtgHlMb",
+      "street": "AKanmkDCFKo7",
+      "house": 7,
+      "flat": 7,
+      "phone": "+5398841880",
+      "createdOn": "2026-01-04T10:07:37.000Z",
+      "notes": "6OWQldSTpIQe4VDAtgAZGEIcytCMsasDrDU4JnSLGmYGUGMg3cnxpJ8nfwHXMIF7AW4XNAlAoBMl35ebkj4ciYnkW3",
+      "_id": "695a3be91c508c5d5ea18a83"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

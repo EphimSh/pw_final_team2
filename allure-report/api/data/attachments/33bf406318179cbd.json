@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:07:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "523",
+    "etag": "W/\"20b-0YB9HlZzX75rq2NwreP5bR2U+U0\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jess3@yahoo.com",
+      "name": "jpWdjGmfgopHC",
+      "country": "USA",
+      "city": "tCDKoNBTRzRJ",
+      "street": "h9fbL7akjisLTUACpupdZrAWH6ArtBpl",
+      "house": 35,
+      "flat": 3,
+      "phone": "+6954532614",
+      "createdOn": "2026-01-04T10:07:36.000Z",
+      "notes": "MOt1GrttNUfQVLr4zQys8qVOtFRebvO6lG1eB7METMYgDSt2PcYZd0cx78zGi26rwffaGWRvk1E8YeG0ScxMxUvhvtPDwB88ZBJrbVixUO2ogL8otILisKhlMGaLtyDpmomQBIG3qKKfDFk92cOG81gC1wR23geHEAN94AOmmlKfJWHJROAxTwD1ijv3Zm2emZJsNCC7rMqQ72HOFF3T5ZWD",
+      "_id": "695a3be81c508c5d5ea18a7e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

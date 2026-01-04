@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:07:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "386",
+    "etag": "W/\"182-MTTPGbI71RpZpfS9ptuIRkAIclI\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jarrett.Lindgren@yahoo.com",
+      "name": "yTlhbfQCeyWFVndttVGSYKwoHnPnBeuoZGieLI",
+      "country": "Belarus",
+      "city": "J",
+      "street": "QiR9xw3NBCxzNjgW3",
+      "house": 12,
+      "flat": 6,
+      "phone": "+2211830215",
+      "createdOn": "2026-01-04T10:07:23.000Z",
+      "notes": "wgIdAFMRQJst6f6vWHtAUuUmwCncVG6GIoxOHoJMhsDNPMftNoOOEfn9dYlji70rC",
+      "_id": "695a3bdb1c508c5d5ea188ce"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:07:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-qDjKihoAcLWOfXapIfv8Txev/GY\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball95181",
+      "amount": 350,
+      "price": 8494,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T10:07:14.000Z",
+      "notes": "IbPx1hykGKPcEshrENcy1wQC6imKRmt8yvZSk5JopWmhLRqFW2vQ6bo0Hjy1pgaiNrW2lXSQTmgu4RHVg4306wZWRckJr9eKeCw8oIM02aab6bmLDKtE9q4khAo4E2DA30zXV2YUX1bfUSMnw9FHrAyjjGaTvaBOHTWzcFUGBZqaGIRj9bkYS3k4R53yFuzzlPStzGndvMkUSTuiQDk42nZoWRkbNNsx6p43rkuOFctDOIRbBugvv89WQh",
+      "_id": "695a3bd21c508c5d5ea186bf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

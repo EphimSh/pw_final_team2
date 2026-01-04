@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:09:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-5P1RkSQo0sHKS9zJqgFoTRtbPoI\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Samsung Galaxy A5587530",
+      "amount": 183,
+      "price": 800,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T10:09:03.000Z",
+      "notes": "CmAh4mmfqzwoWlk5G6Hdh3grwKJCusbYaGtcUtzErau6Sv1k7Gc4qgzMDMiX7wWO7bM6XtvlNSh7OnfmFLVhvMNdP5GW8VCcxOK5y0EOftWBO3L2RWxJY5cMywDhxJwByzBYTxkuyQP3oTbGfUlGxKBMKtyJK8UOe77y7XtsjFY8iZB4TZSbvVfy1uiHj5KUpXXFrmw8nFdaVoum6vDYbC2WIY5lVi97UnbftTG0MiXoeP1776pBQbcUbr",
+      "_id": "695a3c3f1c508c5d5ea19623"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

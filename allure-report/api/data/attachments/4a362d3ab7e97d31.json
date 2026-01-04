@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:06:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-tc/V/ED/plhgTiZxOGZ1+Y4v7Gc\"",
+    "keep-alive": "timeout=5, max=81",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon89677",
+      "amount": 153,
+      "price": 72074,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T10:06:50.000Z",
+      "notes": "A9jnM7LXDWS0sx4uKKRet5b1KhFRLDhkvKO2O9StUmUCQtyamsQr7W4rvvHGEsIBijOrjynBFsHRV3qYGKAcaYMeWegg34Loi1LPqxLdJuiOrApDg44Ux90iNoYNUDMlB5KzCBWqAXPZa4J8DqSXmHVma4Sa1YpP9vjbVCu71dRsTQuAug9LEkyY5HFp8W8KwpYvWni8sLHYSI9W2LMhRypbXDg5MPHnKI8clABeFPc4570e9LCZmSYkiG",
+      "_id": "695a3bba1c508c5d5ea1831c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

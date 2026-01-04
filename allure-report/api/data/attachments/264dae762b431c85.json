@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:09:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-tfzDWUMCraa7kNFjcaDZYJGY1dg\"",
+    "keep-alive": "timeout=5, max=71",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap50324",
+      "amount": 496,
+      "price": 23990,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T10:09:27.000Z",
+      "notes": "8SK2oz8QhAgmivAO3Y7gq6rKALl9jiqXYS5C29Iv50238ScmgeIQSiTDdTl9ZtGTAOFsP4OBmknsdX6GNachjxA0yNlSAkJ6lxnvjQTnTKkUbLlYs0bFFlHZkYUCZ4lY8t2XjSCDCQ454dmczW5PBSxjxMqKIrxduvFs8FmPyMthbTMkxQlCdyOCz4iTL7u6e5rHw0Zpkmc3zZneGTZXyIQDEqwo8Al3qA1qhFHs7U3DsLWK0fK4EE7BoM",
+      "_id": "695a3c571c508c5d5ea198ac"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

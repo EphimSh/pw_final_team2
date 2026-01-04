@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:08:02 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "336",
+    "etag": "W/\"150-6+gChO6nUELrcljM+urXoivGYe4\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Bill10@yahoo.com",
+      "name": "ZzIKgiJumVzpHptnJWqBReYxXte",
+      "country": "Belarus",
+      "city": "DGXEuV",
+      "street": "GZ823Ua4Mg8UGsx3i",
+      "house": 150,
+      "flat": 4,
+      "phone": "+2618527607",
+      "createdOn": "2026-01-04T10:08:02.000Z",
+      "notes": "l9t8uan2pL7Avfp4XOqTWYr0yOrbGK",
+      "_id": "695a3c021c508c5d5ea18e86"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

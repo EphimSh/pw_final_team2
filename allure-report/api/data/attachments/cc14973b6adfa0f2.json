@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:07:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "480",
+    "etag": "W/\"1e0-pqAzBAUhnoynCeXR4nYxjibTpSw\"",
+    "keep-alive": "timeout=5, max=11",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Damon.McGlynn@gmail.com",
+      "name": "kjaZZHsJPPTJM",
+      "country": "France",
+      "city": "DLFBbv",
+      "street": "ntdrTBEwOzqt6US8Y8gzGqBY218QkfTWSIACjZ",
+      "house": 114,
+      "flat": 9,
+      "phone": "+9275295400",
+      "createdOn": "2026-01-04T10:07:57.000Z",
+      "notes": "MdKQx3btZ8IyoXdjeS1pQ3u0ytW2THpQyLRXK97ew042lw9wR99tL5D68T5VoOFy4qIed70hK3CAkm9qetl41BA1pFVnqHnFwg4zEC9EJ9nRKgPVXpxh9KlzByuUZ6PzIbI5puYXGTeJ4Bywmabetdezsq2WC8FuM",
+      "_id": "695a3bfd1c508c5d5ea18dcd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

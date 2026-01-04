@@ -1,0 +1,101 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:08:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2548",
+    "etag": "W/\"9f4-RUoVth/lmCoNOBfeywIJqjIFBN0\"",
+    "keep-alive": "timeout=5, max=93",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "695a3c1d1c508c5d5ea19297",
+        "email": "Ruth_Collins36@yahoo.com",
+        "name": "BoHaoojKdXIIDfdgBPplpQdgBsWAC",
+        "country": "Germany",
+        "city": "vwmzgI",
+        "street": "jgGkq2mEU5jXF",
+        "house": 90,
+        "flat": 6,
+        "phone": "+3090878516",
+        "createdOn": "2026-01-04T10:08:29.000Z",
+        "notes": "luvZIkGGZnAIAkdS1dgDsyLvxTrfB6qtqfH1OZQIt6UjbI3KW0ARXRnPv02zA6lL607nIXlimCbWzi34OVacxw3ahu32hO6u1B33WmYVYbhT3yv7fQjm05JgDO7f3s3Q39E"
+      },
+      "products": [
+        {
+          "_id": "695a3c201c508c5d5ea192c2",
+          "name": "Bike65054",
+          "amount": 458,
+          "price": 97470,
+          "manufacturer": "Microsoft",
+          "notes": "tqlsczSrnlqKtZJw7nQZ1PztvixvmCvreMdSN8ZS67ZAyKusNYIg9WPW7s8aYGvgOIDWszT3kj4OGcLxilz9fjzB4AdngNASJPNiwlbMVzhOd7CsEkRPM5sGJzqIU88XRsv1SQ74JlEvONIez2ZFHOcL0lr7HxBhXQ6hVMTwDSoGNGwtBD9e2s2ku1b1p1J0RCU2qtZmQm13zlc1SUAye7oVM8QJ4ssCWJmPHyYfb6srYUxbcMam5Ai4vM",
+          "received": false
+        },
+        {
+          "_id": "695a3c221c508c5d5ea19326",
+          "name": "Shirt90098",
+          "amount": 624,
+          "price": 54926,
+          "manufacturer": "Samsung",
+          "notes": "braGUoB3wVT5oMs3d3HnsNkvYNCUoQ21XnFwi0UQMeQW9MJeVqi4KtN6NKtJhFAui81gwFTI9lfHtsQwI4E4dsCDBK6gcIiXnjTpiAMtPqkCIMs3oxXGCQZSegVSXEbpdEBuPiO0PQqjAS45TE3AgUhGNKSDg8t0LfV0XR3ktXH7OzwJUI4HVebJkUT5TCiLfzHUfMZhXHqJEG5e4zqTA7UrJidTZnCvq1iGIM7I17fcxewhPBypPty9wq",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 152396,
+      "createdOn": "2026-01-04T10:08:35.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a3c1d1c508c5d5ea19297",
+          "products": [
+            {
+              "_id": "695a3c201c508c5d5ea192c2",
+              "name": "Bike65054",
+              "amount": 458,
+              "price": 97470,
+              "manufacturer": "Microsoft",
+              "notes": "tqlsczSrnlqKtZJw7nQZ1PztvixvmCvreMdSN8ZS67ZAyKusNYIg9WPW7s8aYGvgOIDWszT3kj4OGcLxilz9fjzB4AdngNASJPNiwlbMVzhOd7CsEkRPM5sGJzqIU88XRsv1SQ74JlEvONIez2ZFHOcL0lr7HxBhXQ6hVMTwDSoGNGwtBD9e2s2ku1b1p1J0RCU2qtZmQm13zlc1SUAye7oVM8QJ4ssCWJmPHyYfb6srYUxbcMam5Ai4vM",
+              "received": false
+            },
+            {
+              "_id": "695a3c221c508c5d5ea19326",
+              "name": "Shirt90098",
+              "amount": 624,
+              "price": 54926,
+              "manufacturer": "Samsung",
+              "notes": "braGUoB3wVT5oMs3d3HnsNkvYNCUoQ21XnFwi0UQMeQW9MJeVqi4KtN6NKtJhFAui81gwFTI9lfHtsQwI4E4dsCDBK6gcIiXnjTpiAMtPqkCIMs3oxXGCQZSegVSXEbpdEBuPiO0PQqjAS45TE3AgUhGNKSDg8t0LfV0XR3ktXH7OzwJUI4HVebJkUT5TCiLfzHUfMZhXHqJEG5e4zqTA7UrJidTZnCvq1iGIM7I17fcxewhPBypPty9wq",
+              "received": false
+            }
+          ],
+          "total_price": 152396,
+          "delivery": null,
+          "changedOn": "2026-01-04T10:08:35.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695a3c231c508c5d5ea19344"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

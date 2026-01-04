@@ -1,0 +1,94 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:07:39 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1957",
+    "etag": "W/\"7a5-ysjWMhf6/QqK+s9iyaBZ9ph/ICM\"",
+    "keep-alive": "timeout=5, max=66",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Orders": [
+      {
+        "_id": "695a3be71c508c5d5ea18a5c",
+        "status": "Draft",
+        "customer": {
+          "_id": "695a3be41c508c5d5ea18a09",
+          "email": "Felicia70@gmail.com",
+          "name": "Ivan Ivanov",
+          "country": "Russia",
+          "city": "ttjtaYwOb",
+          "street": "ijdRcXdxiWZKKHQkvLrvpTlHrHtbcW",
+          "house": 23,
+          "flat": 8,
+          "phone": "+2951971164",
+          "createdOn": "2026-01-04T10:07:32.000Z",
+          "notes": "wi3ZeAiwSsK3qz0Djc1s0pxLz59IzIDdvPXTnY9WM80kEcZmV1bYwmw0cN2J0t0Yt3nZod1Jrm3qPDrPMIKNLBPHGHihOKxwVhZxuu2EBS4KxjtT5MiN1AUCChkl68D8UKes8BYIloRgbWgbT4pEvIZFL8YbYxqdbNzW7AwisMRynVDXdb2ebwNZkdFJLbXU95081DqwlMr"
+        },
+        "products": [
+          {
+            "_id": "695a3be71c508c5d5ea18a4d",
+            "name": "Shirt70655",
+            "amount": 187,
+            "price": 80927,
+            "manufacturer": "Samsung",
+            "notes": "qlaawnOUq74BvaWV7NXD9m4z6q0zNvuW2aBGIysI1RRpsWrAMu6h0tzzJcuKDm0MctpOvEUayagcypmXOrJEiA2qjbnCmcjIQ3WLBkQbysWJHfH8B9rZbQn1lnWjRlS1lFyhpzzTJOWkiIjtX1xTFKFR7ESgJATXholAmyFcGVw4fxobhZQYEcejKHWsv160wcihdGmfH0vTE6URHPBijVpi6afR7hrByWCD0RoASq7BTWRaVik1BEWEdR",
+            "received": false
+          }
+        ],
+        "delivery": null,
+        "total_price": 80927,
+        "createdOn": "2026-01-04T10:07:35.000Z",
+        "comments": [],
+        "history": [
+          {
+            "status": "Draft",
+            "customer": "695a3be41c508c5d5ea18a09",
+            "products": [
+              {
+                "_id": "695a3be71c508c5d5ea18a4d",
+                "name": "Shirt70655",
+                "amount": 187,
+                "price": 80927,
+                "manufacturer": "Samsung",
+                "notes": "qlaawnOUq74BvaWV7NXD9m4z6q0zNvuW2aBGIysI1RRpsWrAMu6h0tzzJcuKDm0MctpOvEUayagcypmXOrJEiA2qjbnCmcjIQ3WLBkQbysWJHfH8B9rZbQn1lnWjRlS1lFyhpzzTJOWkiIjtX1xTFKFR7ESgJATXholAmyFcGVw4fxobhZQYEcejKHWsv160wcihdGmfH0vTE6URHPBijVpi6afR7hrByWCD0RoASq7BTWRaVik1BEWEdR",
+                "received": false
+              }
+            ],
+            "total_price": 80927,
+            "delivery": null,
+            "changedOn": "2026-01-04T10:07:35.000Z",
+            "action": "Order created",
+            "performer": {
+              "_id": "6936ffc71c508c5d5e9a3764",
+              "username": "student21@gmail.com",
+              "firstName": "Jillian",
+              "lastName": "Lynch",
+              "roles": [
+                "USER"
+              ],
+              "createdOn": "2025/12/08 16:41:43"
+            },
+            "assignedManager": null
+          }
+        ],
+        "assignedManager": null
+      }
+    ],
+    "total": 1,
+    "page": 1,
+    "limit": 10,
+    "search": "Ivan",
+    "status": [],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "asc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

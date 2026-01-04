@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:06:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "357",
+    "etag": "W/\"165-0IrAWovAfYzMJQO7FntnkJz/plQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Florida99@hotmail.com",
+      "name": "uuHwXiYJkucawdcjgEQnQ",
+      "country": "France",
+      "city": "AJNZTGIyAqrSRxq",
+      "street": "90X5RcxsC73cnck",
+      "house": 194,
+      "flat": 2,
+      "phone": "+1397992810",
+      "createdOn": "2026-01-04T10:06:25.000Z",
+      "notes": "B7G8WYmO6QDMScaIruGlF878nLbsyzgO0Ha6kd6doAdwlK",
+      "_id": "695a3ba11c508c5d5ea181b2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

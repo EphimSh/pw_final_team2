@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:07:46 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "397",
+    "etag": "W/\"18d-4RaMO67j5a17hjPkQ/8aawYBFLs\"",
+    "keep-alive": "timeout=5, max=26",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jennings45@gmail.com",
+      "name": "VCvOtmKFJNlNTrHtWsj",
+      "country": "France",
+      "city": "WYiLGutWssa",
+      "street": "hvH89",
+      "house": 22,
+      "flat": 9,
+      "phone": "+5045137805",
+      "createdOn": "2026-01-04T10:07:46.000Z",
+      "notes": "m3CzXkGPpCLVqN9wccM3bWjecfwNPRUFQ0wQEhiiJmVpPwJcfWw5blubWKUf7C7LR3bPAaEt10m8WOsAljV3rgKkJJQqC3Cv9mIBUbEL",
+      "_id": "695a3bf21c508c5d5ea18bca"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

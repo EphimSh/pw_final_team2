@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:07:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "442",
+    "etag": "W/\"1ba-DMWSZPPf1RhnQpCrFuPemaOkSs4\"",
+    "keep-alive": "timeout=5, max=68",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Aimee66@hotmail.com",
+      "name": "BHKTqKEU",
+      "country": "Germany",
+      "city": "pWfLiRnIrnIvClwrfbb",
+      "street": "s0DR3cr6BTtDrCv4ecOGXjx",
+      "house": 159,
+      "flat": 7,
+      "phone": "+2205091902",
+      "createdOn": "2026-01-04T10:07:54.000Z",
+      "notes": "uHopyqdp89qsfSClv7014y0YZGEHx9qkdaiLpfSIATcXYZIRqjaUnapR25s9CLpPJe3AkmhabGkmryMXPGcvpAEpUVWVLgbJUqDSEldlLqJgq85Ex9pQWYXC7twc6g1PMjMR7",
+      "_id": "695a3bfa1c508c5d5ea18d9c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

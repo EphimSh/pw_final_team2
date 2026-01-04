@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:09:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "465",
+    "etag": "W/\"1d1-B+uuk2XN0gF8GUaIy/v8lj5CxgI\"",
+    "keep-alive": "timeout=5, max=92",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Google Pixel Ultra6621",
+      "amount": 244,
+      "price": 1800,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T10:09:09.000Z",
+      "notes": "ec51frbjTjGzT0U3dpKYYmdAErBIqmuuHhQHs7BX95rGxON1eYzFY6tnCyrnj7s9UtmHUgrH1wDFumwqku2zayPIoaDDO4SjPIQQHT9h0DDfrJyuf39XxUBQYESCQgZkSRJQY5CDUuA6TCCdMrQPbJXX8jYLjXDKDP6Aj9lgzwrm1MOi3PsAs2yR6Yzh7R8BDNaBSMQIyL4IxKAGaehwmdBA3qi2mV2fUFlicWnrmfG6iaSq6b50i0PUrG",
+      "_id": "695a3c451c508c5d5ea19695"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:09:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-peyJxI4HGOtMZ/fKfqs3siIu+d0\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard65455",
+      "amount": 745,
+      "price": 49238,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T10:09:07.000Z",
+      "notes": "Z36ABfVDiVEBwBoMS6Qm3tQJp2C6INXtYvIp5R2IVhfbKajqmPdpAFVh1pr18RCM2uyx5bYW0gDShQxT5l1S4Vna0KlOu6POddn4xA1qPTys0xIf7z2gLHXJZW1TXxfMbpkpk8Mav12kztCty5Bb8TPF3rJ7abAVXrbIUAe6ydxYYJEVY3JIYrwd4OqD3uqAQo5ANiW59YYtUzdeTEvXWqxjnKxoqn4zCoHNBhgG2otuFxpUiBJcm3cqJv",
+      "_id": "695a3c431c508c5d5ea19671"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

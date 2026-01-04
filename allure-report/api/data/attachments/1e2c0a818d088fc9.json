@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:09:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-liNOU+IvwG9FKe3SHLzdFL36cIc\"",
+    "keep-alive": "timeout=5, max=91",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap88500",
+      "amount": 317,
+      "price": 19957,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T10:09:11.000Z",
+      "notes": "frayzJi2ySUdB6zLELOMek5ylf3ff7HIS0qYt0j733UxQz8rYhYNxuqeaoF5etsk0ytg0NQFVgV4xMEc8UP6rsjEaPxlI2hz7tLMxiKGdU39GRXup57xGtOkyYDFLpVWEkuIp3uIkStlhlxoTmYGxvt3hksfncDRqKvBaW0WlYZ0CH7TPITi6uwducp97DQE9h148iKzDkUzXTyI27db7VEv11LyHNb8njG82xBA2UiZoRQASrXGHtypv2",
+      "_id": "695a3c471c508c5d5ea1969d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:06:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "439",
+    "etag": "W/\"1b7-Ej6fpu7prXIuGTW749tOAeYVQFY\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "conflict@example.com",
+      "name": "MXJFyytSVXWgXFduJdlymYkmQwzKRtfwm",
+      "country": "France",
+      "city": "MvlhikEu",
+      "street": "bT1iriYMBXwXlBfSn",
+      "house": 190,
+      "flat": 4,
+      "phone": "+2868753107",
+      "createdOn": "2026-01-04T10:06:43.000Z",
+      "notes": "jNmFG6pHqsQK6F3dq8H6TvSAzpiJemVtbO1FsXtpSDbkmtYxiOeKbVEDjwUz9SR5ELboXN4FC3jCM5usd2iLOo4SsNPWvLu4TQLaxsCqEhSv4XRW1hKDQxVxOY",
+      "_id": "695a3bb31c508c5d5ea182dd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

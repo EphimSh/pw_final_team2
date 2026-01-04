@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:08:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-2DfrZyTbp9kBXSJHCtK3p4M3nkg\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ruby60@gmail.com",
+      "name": "whLeVsYGbSDCVwvlJGnTLPfmFXAepmxPDg",
+      "country": "Great Britain",
+      "city": "eDpSlfVFLjsCvi",
+      "street": "zbvvUUQ1QW7giuNWi6xoUV1qyU2t3ljFXdt",
+      "house": 25,
+      "flat": 2,
+      "phone": "+4800241315",
+      "createdOn": "2026-01-04T10:08:11.000Z",
+      "notes": "81exDQxv9pcDlbfbys7nWGi2KbHOBVz6a0YiEi6Yw1qvFlr5M9x3mrrRBXFtwspoz03wFRJhGITHcGVVJzG18iDpui6crYE87QxppvMFvj8a",
+      "_id": "695a3c0b1c508c5d5ea1903a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

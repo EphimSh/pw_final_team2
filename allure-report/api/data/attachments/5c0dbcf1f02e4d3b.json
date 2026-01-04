@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:06:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-rj/fivuxw2RINjdZ2lpLWaSb0qQ\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad9533",
+      "amount": 644,
+      "price": 25609,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T10:06:59.000Z",
+      "notes": "cXe12ls1YoqQ95hGMepZBb5MOpRBitFsVeY1dsfqUiVf4CY6Z4j54Ya2tpT0N68F36VcBiC1Kpqq2IKOi4uu3qWnkM3i6vbu70EocnwVZd0sRa0bPe6FkafzpQeNXI8p4d68uQYWmQtmnAi9w9HX5vHreDPrV6qKglpemPGX5gIzC6y0nagTGM6zYB8PrV3OZdduCaf73cLbraO9NxI9Ycfd3sc70VPv9dhFz9Yb2ji9sJgnIweshIetNf",
+      "_id": "695a3bc31c508c5d5ea18486"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

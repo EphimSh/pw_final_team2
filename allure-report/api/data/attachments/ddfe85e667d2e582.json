@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:09:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "474",
+    "etag": "W/\"1da-RR3tteU+2KNOb9dHymGkoetNhWA\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Microsoft Surface Duo 323050",
+      "amount": 666,
+      "price": 2200,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T10:09:11.000Z",
+      "notes": "Jd5hXimhgCz5ThYWD74UvRtIQRuHJBm6efvDtM4HIgHeCpPZj4CHT0BVwr43JCCrRReDM6uHdXbYR19FBpMVPtejjdcp1aZkf0rlcXs1VHHX0eWhRzqhyM8s1O35pmJcXwN8XzGrWrovlVnC7wFpHDlM1qw4zZrQZdrK9zAMPAlqb6ZOLj8F5TW8DQ4Y8Gl6akL5aygKTOzuWFbdk6JxVEaZRw9yF84OzObxPHyTJtrXm42qSLEtvUeoX3",
+      "_id": "695a3c471c508c5d5ea1969f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

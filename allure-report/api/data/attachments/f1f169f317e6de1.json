@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:09:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-z9codeTkChi/ttBrAFwcwqaW+pw\"",
+    "keep-alive": "timeout=5, max=90",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike78357",
+      "amount": 301,
+      "price": 61796,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T10:09:14.000Z",
+      "notes": "Kj0xvoSm1IKKaMuA5nrVGX7PLn2fcDxM2PlDJZNimlZA682focYcB2JzbiZN1Vn947aY8zswJTdwPw6MW8ZqGiHG21cyNAmU9h5upOn8czHipa2drXAEFHjaWa8llJHSGVKGg3WGZsRqm2t1mXbZ8v1jZl30WgzXYHcE6B0GtKE1T8LVO9EzB0XghmlTSttDVVbY7iH9IE8TzNlGkXd2ZrHqmissLhKwK1Ykvv656enl2JPBxxpdRuWk0W",
+      "_id": "695a3c4a1c508c5d5ea196bd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

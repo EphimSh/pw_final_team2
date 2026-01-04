@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:08:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "466",
+    "etag": "W/\"1d2-/9pNvTgxBOISwSnRR35V+WeHZAw\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Apple Watch Series X61480",
+      "amount": 298,
+      "price": 900,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T10:08:57.000Z",
+      "notes": "z2iwiYSU1g6AQYvH2jzDO5VMnvbBQ2Afxs1ekcm6afm8wHLFE1UdqRuJhmm7nZn9KU4weXjQqufTy5qixwUaTuC8czcqErXXgS3LXOkRP5LUwQV6zhbmeWAPUJi2aOarM5PXw8lFztqV9q7P9itgU8mRMGFTMRZi7U2dMq0YUMTjgRijuiP15wYdNDTu03TuUWWhmEcTokGQ3bd0oxqfKall2Fb9izrKSLRwyElzG4vVqthf3is76yEHth",
+      "_id": "695a3c391c508c5d5ea195ca"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

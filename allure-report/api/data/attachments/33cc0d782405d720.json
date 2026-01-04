@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:07:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-T92Mtk04pf1LNdL5C3zgbt4Q81w\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap54835",
+      "amount": 254,
+      "price": 56961,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T10:07:13.000Z",
+      "notes": "iynRk7VE3OY0LcS6UwIvTrtw0ZC7rOzPrd037Twg1dJ5E7sWRjcL4Wgb43baHzq4Sbr6NZbvLmRoYsJkRMYQR6aE9oJO6l3EhGjOviIkUWbyObNwiT0C8vGN6TKZGmBtuHQF62vV2KuENPFVpnw30kT4CL7tzyvoVD72mqm4fiuSNpZkPQkoNK4R8db4hJdYemscFIxbDoG2qi0xGmMBoKYQpC7ViZxjaVZMBfVKspBB4tUQe9aawtv6c5",
+      "_id": "695a3bd11c508c5d5ea1868d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

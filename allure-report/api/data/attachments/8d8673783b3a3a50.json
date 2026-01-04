@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:09:11 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "474",
+    "etag": "W/\"1da-DaQdE528CxkkDToxmi+d9c/qXEs\"",
+    "keep-alive": "timeout=5, max=88",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Microsoft Surface Duo 356037",
+      "amount": 914,
+      "price": 2200,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T10:09:11.000Z",
+      "notes": "bVBp55a4Bi8vvKDTFgEtPEzxTC6qQBhrWZzrqSmTPJLOIqgHXDsT1jAqGuDxGSvqPlqHAsyXeZfK9vfbR5Yqhrll8AGcY73TTcz3rwiMV0nUTT2TPJ0G51DfBPCW7MMW672rDedFiaHryliGEOZN3uZOwGm58Oche8W36jybGplPcmzJXN7dwEUbzUVW2mSiEVImX0ipN9ZxJCcbiwPedh44Ytw0lKvQhT5dRw9WuZlSMoj2GQiUcWAMEY",
+      "_id": "695a3c471c508c5d5ea196a6"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

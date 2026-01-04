@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:07:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "481",
+    "etag": "W/\"1e1-x4wPNQVgeyP+tJ33JNJa0qHFEuY\"",
+    "keep-alive": "timeout=5, max=83",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Clementine.Prosacco@gmail.com",
+      "name": "bEgsgv",
+      "country": "Ukraine",
+      "city": "BceyDmcOsOEREz",
+      "street": "kUKjwWLI7XUTmr1",
+      "house": 2,
+      "flat": 2,
+      "phone": "+6100068981",
+      "createdOn": "2026-01-04T10:07:35.000Z",
+      "notes": "M4amw10q4wNb0Uv8TrVTAGDSLn1XMpuVuCHr5mwBNzwaCdxZkHD8DK7wMJoJVtx4O5r4UPjZ0GlmQhHyEhtc18aAYd7tPdxT3VZhhlJkHUqwhIKx3GXEou5C7hR76m6nwRrhpGGBhkmIaO2J24QJZCY0aOn34oJtEuPH7QtY6c48kir0XpQ",
+      "_id": "695a3be71c508c5d5ea18a6b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

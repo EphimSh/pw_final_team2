@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:08:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "403",
+    "etag": "W/\"193-OKW2P8S5qzRXI73Kl0wfo/2ggHY\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Ewald_Beatty@gmail.com",
+      "name": "HxzeVn",
+      "country": "USA",
+      "city": "jGzikYaTpzqZaYRYxzH",
+      "street": "sqOaMxtprne6R8LmdTD66",
+      "house": 19,
+      "flat": 1,
+      "phone": "+9080365928",
+      "createdOn": "2026-01-04T10:08:18.000Z",
+      "notes": "Mv5NUWsTvXnEntjXcn0TY8EqPY0EkRVDIIedIMia6hGcGhdwUG08gNDEpfQDXwIhMsgQPaCQaxAxY6WWacguNHnblrHaVDug2XCY",
+      "_id": "695a3c121c508c5d5ea190df"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

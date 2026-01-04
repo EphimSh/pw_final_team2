@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:08:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-gIwsmx7naOhfwY/u9ZxARuxQd8w\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike7248",
+      "amount": 546,
+      "price": 17498,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T10:08:05.000Z",
+      "notes": "tiJ16MG4xRYUeJjWbacGyMp3Xj9gWjuFyJFH4FSNcpSus6sVThxyTlNmLCGzAdu86JQ0kPDcKJFua7YDBI5wM6fKGGPHnscUYnt3H7DbkyhvBFruZLbXT7Vwud7HrCRpAR9popNB3tFx8XYpjrKamFzJyPqVztokwyorZCz1OIzGSDUYezOvjbaqs7fn4dLiGdF67fSBUaLZbfImfSvBOZcYSJNatqS95KFiX3awE727vhyaI3RXXaOH1H",
+      "_id": "695a3c051c508c5d5ea18ed7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

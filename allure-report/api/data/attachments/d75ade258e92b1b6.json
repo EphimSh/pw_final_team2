@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:09:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "583",
+    "etag": "W/\"247-lxoDnYodR0Yeb3XcgJYw9qs5Nos\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Products": [
+      {
+        "_id": "695a3c3f1c508c5d5ea19628",
+        "name": "Table53444",
+        "amount": 456,
+        "price": 34133,
+        "manufacturer": "Samsung",
+        "createdOn": "2026-01-04T10:09:03.000Z",
+        "notes": "q5sjq8yWOW2TAhotfQJngTJjuDyOC12UUb9QRegyE0GRXFWhpHJLHWmxYYVY5i6ZnXrzOXiZCzhjB0hLibkQKmJoZYMpYdseAmb0RMylAg7cNxuKmBxHDVzVzIpVMXrDOeDYeHwIvBN3CgryHwauyBx99VKZf2iajV2nNKPYu1F07OGTA4Fge3HoT1plrrMD2UFOSn01KYVObzZKJELljsoON2e4P07ZEkjYkHFcyFyigTUnUvuGM17P3k"
+      }
+    ],
+    "total": 1,
+    "page": 1,
+    "limit": 10,
+    "search": "Table53444",
+    "manufacturer": [],
+    "sorting": {
+      "sortField": "createdOn",
+      "sortOrder": "desc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

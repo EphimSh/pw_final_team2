@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:06:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-RRYimYOvJTmv8jKQJj72THxD+g0\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse5996",
+      "amount": 332,
+      "price": 29817,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T10:06:50.000Z",
+      "notes": "rsMGOwJQcDckd8NggiZhvhcf9KS2gPLarZbWHDzrAqmcU3MRGwp1peJmREYFQLIY9q474Pp8gtSbHAMEz2wChMrQUf2OHLvbXhC9zb9Iysj4xqYxF3F6KGmU7xbueyODyg0QWwWPfIdoACxns7zu1OtXDFwoEmdJTrO9v6zV70fmpwxvh3LiHuCPo1WRMA75gPteQhoDz630S5SnUGj3XlvYwHRDPd08LCNYbqn3ZymU9q5BMFcZvY4nIs",
+      "_id": "695a3bba1c508c5d5ea1831e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

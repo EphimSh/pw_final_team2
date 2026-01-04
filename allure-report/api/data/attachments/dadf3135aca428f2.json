@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:08:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-VosD9g0aFoNwjzY8w8GPMipkg7E\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike65054",
+      "amount": 458,
+      "price": 97470,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T10:08:32.000Z",
+      "notes": "tqlsczSrnlqKtZJw7nQZ1PztvixvmCvreMdSN8ZS67ZAyKusNYIg9WPW7s8aYGvgOIDWszT3kj4OGcLxilz9fjzB4AdngNASJPNiwlbMVzhOd7CsEkRPM5sGJzqIU88XRsv1SQ74JlEvONIez2ZFHOcL0lr7HxBhXQ6hVMTwDSoGNGwtBD9e2s2ku1b1p1J0RCU2qtZmQm13zlc1SUAye7oVM8QJ4ssCWJmPHyYfb6srYUxbcMam5Ai4vM",
+      "_id": "695a3c201c508c5d5ea192c2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

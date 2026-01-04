@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:07:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "334",
+    "etag": "W/\"14e-5bxO0tpMxGyCkcJKVeMJ0nwD2qs\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jared.Hoppe@hotmail.com",
+      "name": "RGWPcaNljLVoZ",
+      "country": "Ukraine",
+      "city": "nVNDHYMoDYQ",
+      "street": "kf8vXBu0fqJBfzCYRYJwTsIOJcJ",
+      "house": 28,
+      "flat": 2,
+      "phone": "+9809213157",
+      "createdOn": "2026-01-04T10:07:10.000Z",
+      "notes": "de3HX4lNfMRuB96e7ZjZW",
+      "_id": "695a3bce1c508c5d5ea1866a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

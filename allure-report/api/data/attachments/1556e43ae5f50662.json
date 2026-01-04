@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 10:07:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "359",
+    "etag": "W/\"167-JburOFH4LOcvsQYLQTs2Nqd6Qhk\"",
+    "keep-alive": "timeout=5, max=86",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Carolyne.Bauch@yahoo.com",
+      "name": "sHXJwMnobjgHdyFsKqXITwFgnNCVIlirRyHAg",
+      "country": "Belarus",
+      "city": "gH",
+      "street": "uhLLs4Ce52nqY4naqWK2F0eFqkLe2qhl",
+      "house": 132,
+      "flat": 7,
+      "phone": "+8689270056",
+      "createdOn": "2026-01-04T10:07:05.000Z",
+      "notes": "3JcC7xkVyA6pMkI0FiyDjURX",
+      "_id": "695a3bc91c508c5d5ea185cb"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
