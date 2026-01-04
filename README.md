@@ -58,13 +58,11 @@ npm run test:api
 - `TELEGRAM_BOT_TOKEN` - токен бота.
 - `TELEGRAM_CHAT_ID` - id чата/канала.
 
-Список тестов:
-
 ![Список тестов](img/reporting/all-suites-img.png)
-
-График выполнения тестов:
+<i>Список тестов в allure</i>
 
 ![График выполнения тестов](img/reporting/graphs-img.png)
+<i>График выполнения тестов</i>
 
 ## Список тестов
 
