@@ -6,6 +6,8 @@ import { ICustomerOnOrderPage } from "data/types/customers.types";
 import { requestedProductsSection } from "./requestedProducts.section";
 import { editProductsModal } from "./editProducts.modal";
 import { COUNTRIES } from "data/types/countries";
+import { SalesPortalPage } from "../salesPortal.page";
+import { logStep } from "utils/report/logStep.utils";
 
 export class OrderPage extends SalesPortalPage {
   readonly title = this.page.locator("#order-details-header h2.fw-bold");
