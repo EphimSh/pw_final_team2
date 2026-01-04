@@ -7,10 +7,7 @@ import _ from "lodash";
 
 export class OrderPage extends SalesPortalPage {
   readonly title = this.page.locator("#order-details-header h2.fw-bold");
-  readonly orderStatusValue = this.page
-    .locator("#order-status-bar-container > div")
-    .first()
-    .locator("span.text-primary");
+  readonly orderStatusValue = this.page.locator("#order-status-bar-container > div").first().locator("span").nth(1);
   readonly assignedManagerContainer = this.page.locator("#assigned-manager-container");
   readonly editAssignedManagerButton = this.page.getByTitle("Edit Assigned Manager");
   readonly selectManagerLink = this.assignedManagerContainer.locator("u");

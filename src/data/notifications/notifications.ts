@@ -5,8 +5,17 @@ export enum NOTIFICATIONS {
   CUSTOMER_CREATED = "Customer was successfully created",
   CUSTOMER_DELETED = "Customer was successfully deleted",
   CUSTOMER_UPDATED = "Customer was successfully updated",
-  COMMENT_ADDED = "Comment was successfully posted",
+  MANAGER_FOR_ORDER_ASSIGNED = "Manager was successfully assigned to the order",
+  MANAGER_FOR_ORDER_UNASSIGNED = "Manager was successfully unassigned from the order",
+  ORDER_CREATED = "Order was successfully created",
+  ORDER_CANCELED = "Order was successfully canceled",
+  ORDER_UPDATED = "Order was successfully updated",
+  ORDER_REOPENED = "Order was successfully reopened",
+  COMMENT_POSTED = "Comment was successfully posted",
   COMMENT_DELETED = "Comment was successfully deleted",
+  DELIVERY_SAVED = "Delivery was successfully saved",
+  PROCESS_STARTED = "Order processing was successfully started",
+  PRODUCTS_RECEIVED = "Products were successfully received",
 }
 
 export const ERROR_MESSAGES = {

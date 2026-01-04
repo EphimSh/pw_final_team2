@@ -6,7 +6,7 @@ export interface IProduct {
   manufacturer: MANUFACTURERS | string;
   price: number | string;
   amount: number | string;
-  notes: string;
+  notes?: string;
 }
 
 export interface ICreatedOn {
