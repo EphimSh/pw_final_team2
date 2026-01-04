@@ -1,3 +1,4 @@
+import { COMPONENT_TAG, TEST_TAG } from "data/types/tags.types";
 import { test } from "fixtures";
 
 test.describe("[UI] [Sales Portal] [Orders] [Order Details]", () => {
@@ -16,11 +17,15 @@ test.describe("[UI] [Sales Portal] [Orders] [Order Details]", () => {
     if (orderId) await ordersApiService.deleteOrderWithCustomerAndProduct(orderId, token);
   });
 
-  test("Refresh Order", async ({ orderUIService, loginUIService, customerApiService }) => {
-    await loginUIService.loginAsAdmin();
-    await orderUIService.openOrderById(orderId);
-    const newCustomerData = await customerApiService.update(customerId, token);
-    await orderUIService.clickRefreshOrderButton();
-    await orderUIService.assertUpdatedCustomerData(newCustomerData);
-  });
+  test(
+    "Refresh Order",
+    { tag: [TEST_TAG.REGRESSION, TEST_TAG.UI, TEST_TAG.POSITIVE, COMPONENT_TAG.ORDERS, COMPONENT_TAG.CUSTOMERS] },
+    async ({ orderUIService, loginUIService, customerApiService }) => {
+      await loginUIService.loginAsAdmin();
+      await orderUIService.openOrderById(orderId);
+      const newCustomerData = await customerApiService.update(customerId, token);
+      await orderUIService.clickRefreshOrderButton();
+      await orderUIService.assertUpdatedCustomerData(newCustomerData);
+    },
+  );
 });

@@ -1,4 +1,5 @@
 import { generateCommentText } from "data/orders/generateCommentText";
+import { COMPONENT_TAG, TEST_TAG } from "data/types/tags.types";
 import { test } from "fixtures";
 
 test.describe("[UI] [Sales Portal] [Orders] [Order Details]", () => {
@@ -15,17 +16,25 @@ test.describe("[UI] [Sales Portal] [Orders] [Order Details]", () => {
     if (orderId) await ordersApiService.deleteOrderWithCustomerAndProduct(orderId, token);
   });
 
-  test("Add comment to Order", async ({ orderUIService, loginUIService }) => {
-    const comment = generateCommentText();
-    await loginUIService.loginAsAdmin();
-    await orderUIService.openOrderById(orderId);
-    await orderUIService.addComment(comment);
-  });
+  test(
+    "Add comment to Order",
+    { tag: [TEST_TAG.REGRESSION, TEST_TAG.UI, TEST_TAG.POSITIVE, COMPONENT_TAG.ORDERS, COMPONENT_TAG.COMMENT] },
+    async ({ orderUIService, loginUIService }) => {
+      const comment = generateCommentText();
+      await loginUIService.loginAsAdmin();
+      await orderUIService.openOrderById(orderId);
+      await orderUIService.addComment(comment);
+    },
+  );
 
-  test("Remove comment from Order", async ({ orderUIService, loginUIService }) => {
-    const comment = generateCommentText();
-    await loginUIService.loginAsAdmin();
-    await orderUIService.openOrderById(orderId);
-    await orderUIService.removeComment(comment);
-  });
+  test(
+    "Remove comment from Order",
+    { tag: [TEST_TAG.REGRESSION, TEST_TAG.UI, TEST_TAG.POSITIVE, COMPONENT_TAG.ORDERS, COMPONENT_TAG.COMMENT] },
+    async ({ orderUIService, loginUIService }) => {
+      const comment = generateCommentText();
+      await loginUIService.loginAsAdmin();
+      await orderUIService.openOrderById(orderId);
+      await orderUIService.removeComment(comment);
+    },
+  );
 });

@@ -26,6 +26,7 @@ jobs:
 
       # Run tests
       - name: Run tests
+        id: run-tests
         env:
           SALES_PORTAL_API_URL: ${{ secrets.SALES_PORTAL_API_URL }}
           SALES_PORTAL_URL: ${{ secrets.SALES_PORTAL_URL }}
@@ -48,9 +49,20 @@ jobs:
 
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
+        id: deploy-report
         if: success()
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./allure-report
           destination_dir: allure-report
+      - name: Notify Telegram with Allure link
+        if: ${{ steps.deploy-report.outcome == 'success' }}
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          REPORT_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/allure-report/
+          TEST_STATUS: ${{ steps.run-tests.outcome }}
+        run: |
+          TEXT="UI tests finished with status: ${TEST_STATUS}. Allure report: ${REPORT_URL}"
+          curl -s --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" --data-urlencode "text=${TEXT}" "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage"

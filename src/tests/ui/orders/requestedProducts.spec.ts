@@ -1,5 +1,6 @@
-import { expect, test } from "fixtures";
 import type { IOrder } from "data/types/orders.types";
+import { COMPONENT_TAG, TEST_TAG } from "data/types/tags.types";
+import { expect, test } from "fixtures";
 
 test.describe("[UI] [Sales Portal] [Orders] [Requested products] ", () => {
   let token = "";
@@ -17,17 +18,21 @@ test.describe("[UI] [Sales Portal] [Orders] [Requested products] ", () => {
   test.afterAll(async ({ ordersApiService }) => {
     if (order) await ordersApiService.deleteOrderWithCustomerAndProduct(order, token);
   });
-  test("SC-025: Delete Product From Order", async ({ orderUIService, orderPage }) => {
-    await orderUIService.openOrderById(orderId);
-    await orderPage.waitForSpinners();
-    await orderPage.requestedOrders.open();
-    await expect(orderPage.editProductsModal.uniqueElement).toBeVisible();
-    const initialCount = await orderPage.editProductsModal.getProductsCount();
-    expect(initialCount).toBe(2);
-    await orderPage.editProductsModal.deleteProduct(productName);
-    const updatedCount = await orderPage.editProductsModal.getProductsCount();
-    expect(updatedCount).toBe(1);
-    await orderPage.editProductsModal.saveProduct();
-    await orderPage.editProductsModal.waitForClosed();
-  });
+  test(
+    "SC-025: Delete Product From Order",
+    { tag: [TEST_TAG.REGRESSION, TEST_TAG.UI, TEST_TAG.POSITIVE, COMPONENT_TAG.ORDERS, COMPONENT_TAG.PRODUCTS] },
+    async ({ orderUIService, orderPage }) => {
+      await orderUIService.openOrderById(orderId);
+      await orderPage.waitForSpinners();
+      await orderPage.requestedOrders.open();
+      await expect(orderPage.editProductsModal.uniqueElement).toBeVisible();
+      const initialCount = await orderPage.editProductsModal.getProductsCount();
+      expect(initialCount).toBe(2);
+      await orderPage.editProductsModal.deleteProduct(productName);
+      const updatedCount = await orderPage.editProductsModal.getProductsCount();
+      expect(updatedCount).toBe(1);
+      await orderPage.editProductsModal.saveProduct();
+      await orderPage.editProductsModal.waitForClosed();
+    },
+  );
 });
