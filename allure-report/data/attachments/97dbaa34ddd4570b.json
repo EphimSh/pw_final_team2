@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-LjoFsp5FMJzTzBXj2nODwGjZ5PM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse78998",
+      "amount": 819,
+      "price": 75608,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T11:46:52.000Z",
+      "notes": "nhRf65hqFWr98EMRHwXtCJtCCowoxIycXCZSjUUcZdIFUqoQd0kwdD2T9rNcdXZChiPDteXxl17vHBNisxooiFLD8hgNUL75EdVQUn46yijJlZ9eJ86yGmMkTk2kYgQRv4knl7Q3u9WCTtO6pvrpkZfHGMOhKanGHGrTTFWBmMnEhc7mh2etwsu9RVkjfRzFnZQmJHQQOcym9LOdQWoJvTugywG5NvJT73ENz95ezn1Dg6cc55fAfzCpTA",
+      "_id": "695a532c1c508c5d5ea5a59d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

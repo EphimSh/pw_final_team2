@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-6+kRaJ3+IxTRIyPUyVDOxhxqZqg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car19527",
+      "amount": 841,
+      "price": 24198,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T11:46:07.000Z",
+      "notes": "cWevBU5Io4DNyLnJ934xQLuKiHXdVpqAZTlJVM6Ktcv26s9Syg9lafNyoypAtVFt1TnrwEWX5wobZuIIsRA6pGRz7JKpFFOkv7HqFzguA6zFrDxng4mg75l6CTt5ARDbO9hjuvvDpONEjN6kW2uJaXIt0ElggVLZVNxPD3LDAs6UYepjC7hkiKcBpekRGwlpH0wbyIYhrM2SntaKqTCQBaNf6xKLiAmhA5WFsyh1fQ0YRYYKgeiSYeGsKn",
+      "_id": "695a52ff1c508c5d5ea59f4d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:30 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-uOeZ833DujIeA4NFH5KPdIc4AFg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Car53607",
+      "amount": 194,
+      "price": 73861,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T11:46:30.000Z",
+      "notes": "snquh0YkwWjPxBokjcMxaQhIzt9RU79toBXXSQqfXwflE0aGBR9tf7dPM5eNiV7aoCGslaJOZRzOuR6GYQhBsMTFYcAW7Uh3h6u3VorvbXwjcdYVX5bQVzSuZjPHnXzeLlerGL5R1Xr7v7MvRAv1UgsZ22kcbWt4trxxmpyaElvfHWuufsy3vKSys4zn4oGr2FILDhY2I8MIpDr3dcKznKdn0wnmsBKYPMxhVLEOb0hEVtEu5rY7AY2jW3",
+      "_id": "695a53161c508c5d5ea5a259"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

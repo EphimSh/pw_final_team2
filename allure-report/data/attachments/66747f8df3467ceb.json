@@ -1,0 +1,101 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2513",
+    "etag": "W/\"9d1-AuU4IMAnurxvfebdLKb40W0EuwM\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "695a52fb1c508c5d5ea59e3b",
+        "email": "Herminio.Mayer@yahoo.com",
+        "name": "yMWHvKMRnWq",
+        "country": "USA",
+        "city": "srVACNXxuuyyMugrH",
+        "street": "UXk1x2XusTi",
+        "house": 162,
+        "flat": 3,
+        "phone": "+2095084339",
+        "createdOn": "2026-01-04T11:46:03.000Z",
+        "notes": "qTFMRpDTCy3UHdNL5g0eIDRvoZuxbrABM8ubuNsna7KaUo2zTgQPwd0trxYatQBvDoTNkbxPzezbefAXWCcGRQXQMqTEFw4FKpeh8eZSqPJ2dQoAAcQKfA"
+      },
+      "products": [
+        {
+          "_id": "695a52fe1c508c5d5ea59f45",
+          "name": "Car79710",
+          "amount": 492,
+          "price": 24018,
+          "manufacturer": "Xiaomi",
+          "notes": "kUQSc1wKSEbtKKFazSCNMwpxTSnoIUfv9dIxkg7i7gBYY9psy8JAeYXk5LDrkRCheKWUI88bwNUz4Xk4ECWzPRUEZvw7KZgJWjkFEKV8p3raudbweZp5DrHNbmpZaAo2KeRXcOn3EJNtDJbbG1Iaui10mP772mSmMBptmY9RA6h7QmPqdFvwPMBKOoFbPpau7JgGPsXAT8h3gVdhprHON4jUqjtEx4tJjDl4IRJziXA6vHGKEmlTCcirKq",
+          "received": false
+        },
+        {
+          "_id": "695a53021c508c5d5ea59fa3",
+          "name": "Mouse86857",
+          "amount": 664,
+          "price": 74870,
+          "manufacturer": "Samsung",
+          "notes": "55qIJ1ROwWGMAm55CLkVfbsepmLT7Tp9VmEnMPrxGdAENZe07a9zTnLVirAZPnwUFLCeygppNH6D4ZJ70ayM9yeT72JUJSVrIo9E3pdHx7ghFs19KOaay3SiIKzlSlVrzwJOCzzWjIhDpVQAKMLghLaw8puzIJqpxQgC4SLfq5ThJqskOyeV4BXT8fkjVFuZDPYkDdtFkKxF8V1beovu2nYiqM6Q6uhTy20wLwP2DdYJFLPs0rGr8fGgGP",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 98888,
+      "createdOn": "2026-01-04T11:46:10.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a52fb1c508c5d5ea59e3b",
+          "products": [
+            {
+              "_id": "695a52fe1c508c5d5ea59f45",
+              "name": "Car79710",
+              "amount": 492,
+              "price": 24018,
+              "manufacturer": "Xiaomi",
+              "notes": "kUQSc1wKSEbtKKFazSCNMwpxTSnoIUfv9dIxkg7i7gBYY9psy8JAeYXk5LDrkRCheKWUI88bwNUz4Xk4ECWzPRUEZvw7KZgJWjkFEKV8p3raudbweZp5DrHNbmpZaAo2KeRXcOn3EJNtDJbbG1Iaui10mP772mSmMBptmY9RA6h7QmPqdFvwPMBKOoFbPpau7JgGPsXAT8h3gVdhprHON4jUqjtEx4tJjDl4IRJziXA6vHGKEmlTCcirKq",
+              "received": false
+            },
+            {
+              "_id": "695a53021c508c5d5ea59fa3",
+              "name": "Mouse86857",
+              "amount": 664,
+              "price": 74870,
+              "manufacturer": "Samsung",
+              "notes": "55qIJ1ROwWGMAm55CLkVfbsepmLT7Tp9VmEnMPrxGdAENZe07a9zTnLVirAZPnwUFLCeygppNH6D4ZJ70ayM9yeT72JUJSVrIo9E3pdHx7ghFs19KOaay3SiIKzlSlVrzwJOCzzWjIhDpVQAKMLghLaw8puzIJqpxQgC4SLfq5ThJqskOyeV4BXT8fkjVFuZDPYkDdtFkKxF8V1beovu2nYiqM6Q6uhTy20wLwP2DdYJFLPs0rGr8fGgGP",
+              "received": false
+            }
+          ],
+          "total_price": 98888,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:46:10.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695a53021c508c5d5ea59fad"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

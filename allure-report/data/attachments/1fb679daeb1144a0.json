@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:45:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "367",
+    "etag": "W/\"16f-fiUHXoOaYsajcYSIoePjHcWQGb0\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "_id": "695a52cd1c508c5d5ea5955c",
+      "email": "Charlotte_Little82@hotmail.com",
+      "name": "ezGmrTEQJXiKrorNQxZdHKigjWmOm",
+      "country": "Canada",
+      "city": "rk",
+      "street": "fDvk67GIL6pNynKQhTP7ZophArnhMS",
+      "house": 11,
+      "flat": 4,
+      "phone": "+1730347701",
+      "createdOn": "2026-01-04T11:45:17.000Z",
+      "notes": "Z2OeNGzqf0N63F6JqyRdBE0mmY0Nsyn8XgwlUw"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

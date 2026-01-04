@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:44:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "368",
+    "etag": "W/\"170-FPdy2Q70YwdN540lMCOfyFFredc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Eldridge_Stiedemann@hotmail.com",
+      "name": "hbqmlHRtyFZTFRcMlKtlngzwfZRnRuNbNZrmZThr",
+      "country": "Germany",
+      "city": "AaEUZWPhwz",
+      "street": "tuAatd41gw2OSE",
+      "house": 160,
+      "flat": 8,
+      "phone": "+7260343220",
+      "createdOn": "2026-01-04T11:44:54.000Z",
+      "notes": "YO4HlwOsI2gmGnwYaY2iMEe3UXWxuFWAP",
+      "_id": "695a52b61c508c5d5ea590e0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

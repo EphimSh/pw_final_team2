@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:45:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-f1qonLXA4Np+hk94s9FAN9A+grM\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer32524",
+      "amount": 821,
+      "price": 87494,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T11:45:19.000Z",
+      "notes": "P8xdBtHfFjcjtN50yZiCgGLjT8fL1sJPcOcC6wlbGwtlPCERKNuYXpLGQN2Hm12X1ih3Hbclnds35MApzWwb7d9T1orzWr6jlmaV5e4wMyG5uXB8SMWcQwSEs2rLgrHBHB1w8AJ5p1CvX7JdHO62IjJfAQRWqLBtdnomYWK0Hicqmep8ayFWloWPc8dDwq2A1XmujySAQKazj7IofXZrZZ28anVxPvcCNHSnTEVjGHJgzMMJOyIfbe03oD",
+      "_id": "695a52cf1c508c5d5ea59592"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

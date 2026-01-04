@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:35 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "445",
+    "etag": "W/\"1bd-LOTwpGV+oEX03WWLlbeuBTuOX8A\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Vita_Dickens@yahoo.com",
+      "name": "IcnJKsUlIrmvVFNWqEksCVFL",
+      "country": "USA",
+      "city": "NZfk",
+      "street": "CNtGxmT8MK48cZGxtU",
+      "house": 107,
+      "flat": 9,
+      "phone": "+9171731366",
+      "createdOn": "2026-01-04T11:46:35.000Z",
+      "notes": "qqG2Unriv0ZFv0pwDjWOGs3p9zMkHqTmpFZf2PPcz8ONVVUJAGFCS9cp3nKFuwJFgmOkZS3ZKccxmIYJzzxL3VeCojMmSJqnETSQf6ypzNvZFAzMxP94cchFMfzMtwr5mvS3HnFXXguD2",
+      "_id": "695a531b1c508c5d5ea5a306"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

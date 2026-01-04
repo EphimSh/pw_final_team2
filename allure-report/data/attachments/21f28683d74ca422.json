@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:45:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "421",
+    "etag": "W/\"1a5-JOKPWiJ1dsGTPC2Nc46wWlpEWOw\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Abagail.Donnelly@gmail.com",
+      "name": "jazLAcZAPKLLtBZLfWpIfFjnfMPgRemaAEEh",
+      "country": "USA",
+      "city": "hpeaHDOPobopxFcbJmv",
+      "street": "ZrBmYZDh0c",
+      "house": 18,
+      "flat": 6,
+      "phone": "+3847132249",
+      "createdOn": "2026-01-04T11:45:16.000Z",
+      "notes": "itnp8rxEZ5HxtkInQz738LmB2guX9N7jyl9qFgrorLk33pARcjVVuReWlkWwu1jOoW57J1thdU2fApyFKrgVL9BKVRwSmSz",
+      "_id": "695a52cc1c508c5d5ea59536"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

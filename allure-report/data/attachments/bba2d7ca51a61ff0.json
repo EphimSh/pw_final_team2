@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:45:15 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "504",
+    "etag": "W/\"1f8-TXMVaAqWEgcQRQJmVwPgxeT8XLg\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Vida_Goyette64@hotmail.com",
+      "name": "EaIyEWdsxYkpbzevolvaXsj",
+      "country": "Ukraine",
+      "city": "qpfukekwlZZKinLX",
+      "street": "S",
+      "house": 26,
+      "flat": 9,
+      "phone": "+1986608427",
+      "createdOn": "2026-01-04T11:45:15.000Z",
+      "notes": "xGiK1xR6QOkBXQ6rv2FB0ywVKBNf9bPGfAn8qlXQqmPQxxa1l7VbZcacMOWKvlJXjUzAXUl4wsxNwXtySZaZQIpEKPRNHhtK2ivN00A4Qz9FHbR3Y3IpGBZU68f9mK7jMANoFtjA4J5q7PJytAA9WUk1DI34yh1UEVCezwUOmq1zQW8jAZIxhab4wwpWm2wspHwCUYB",
+      "_id": "695a52cb1c508c5d5ea594e4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

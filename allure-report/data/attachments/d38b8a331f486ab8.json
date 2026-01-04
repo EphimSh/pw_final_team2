@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:47:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-Ok+qhfr1syhTC9WFYVYbq9wnh2c\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Towels38861",
+      "amount": 772,
+      "price": 62169,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T11:47:00.000Z",
+      "notes": "H1wCl22pVNcw4WH4RyiVVD99imXdBpyonhrrfI6Gt8QV2LK3Dq9gyD86ROX1SUNTnPNz0kTgnI2vyIMn2Fral19BIossa2BxuDUEyAr5exl3uKPPgTPe3jKDPhfN5kKhen4cBgBnpq9Ea0ylYICHMUxGXYzzaa8qP0O7AJVMzxZtIjiLaUSiHtMtHx31CKkdj9c4eey7mgkpeAewUH5QFmVRRbGZ4d5GoFuxruv0SJ5npsCwKCKiHTH5RX",
+      "_id": "695a53341c508c5d5ea5a689"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

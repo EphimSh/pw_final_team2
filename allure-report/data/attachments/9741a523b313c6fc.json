@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-qiYd7IrWM4jKXYfOnsvUfccB5/k\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants30137",
+      "amount": 622,
+      "price": 45833,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T11:46:36.000Z",
+      "notes": "lzXBjy05Tu5BBZd8CXGqvYf2aFGIHJLeYBlBDyPXOBu28EOg22hty83ubG4q1J9hZkdbMcjq59lumnrmDSFBNgYwvQC7xQJ5bYwqyhbLht30mAn32RFhtyE6BqyktLS43mZQWy5JOPLcxjkvXm7QXrIrJt3kiKf29vtbJosRHfUWRFMmV88H84aGRgyRGFdMAEciYijstKOZUdWZHEje80gZfnSkMffkioClqYL7GHEPLQIl4oaiJlnPfe",
+      "_id": "695a531c1c508c5d5ea5a323"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

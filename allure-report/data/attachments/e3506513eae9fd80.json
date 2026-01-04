@@ -1,0 +1,89 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:45:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1849",
+    "etag": "W/\"739-fqyOJe5QZLbRyO3l9jF90v+2ZE8\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a52bb1c508c5d5ea59184",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a52b61c508c5d5ea590d9",
+        "email": "Cleta22@hotmail.com",
+        "name": "XaDSbbOZVdvAjoCfrVmRkkgVfCHfudCtok",
+        "country": "USA",
+        "city": "XDTEKxxIvBhTjxGPzYjl",
+        "street": "lwtZYnK05mQB1yZS8T8EtYGdp2x5",
+        "house": 67,
+        "flat": 7,
+        "phone": "+6001633399",
+        "createdOn": "2026-01-04T11:44:54.000Z",
+        "notes": "ieGUUdi2Y9rgQZ7yEBupggKwq5z3WYqBtiUN2BAkAdu"
+      },
+      "products": [
+        {
+          "_id": "695a52ba1c508c5d5ea5913c",
+          "name": "Hat74520",
+          "amount": 188,
+          "price": 55172,
+          "manufacturer": "Apple",
+          "notes": "AjJNjokpg3ANkqgswEYnTHzLBnwNc9bjV5QBV111koxhipf0r3aEfbOV5D7ZLTDF4LY4Dgv0ausxD604UEptlIsj7hq84NmPUQ3l7acYOI8ZFwZgUGT8RAYg5AbIvBNHR5J0me0oXVymjqI53mNYgFJ1bHD7Te4GksiYa6WsoY116DlJP69zOibwT4AfPq7VOVYFKbm2xHneXu3Bjo6t418GuD3eibhWN413bFKSlMQ9etUdSmNLEBLTF3",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 55172,
+      "createdOn": "2026-01-04T11:44:59.000Z",
+      "comments": [
+        {
+          "text": "MtR6ba0sbqs0slYZunS9ZtaWCSSELFPC5Yy10h937ouvB9rScQJB7UXypesqgJE",
+          "createdOn": "2026-01-04T11:45:08.000Z",
+          "_id": "695a52c41c508c5d5ea5939d"
+        }
+      ],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a52b61c508c5d5ea590d9",
+          "products": [
+            {
+              "_id": "695a52ba1c508c5d5ea5913c",
+              "name": "Hat74520",
+              "amount": 188,
+              "price": 55172,
+              "manufacturer": "Apple",
+              "notes": "AjJNjokpg3ANkqgswEYnTHzLBnwNc9bjV5QBV111koxhipf0r3aEfbOV5D7ZLTDF4LY4Dgv0ausxD604UEptlIsj7hq84NmPUQ3l7acYOI8ZFwZgUGT8RAYg5AbIvBNHR5J0me0oXVymjqI53mNYgFJ1bHD7Te4GksiYa6WsoY116DlJP69zOibwT4AfPq7VOVYFKbm2xHneXu3Bjo6t418GuD3eibhWN413bFKSlMQ9etUdSmNLEBLTF3",
+              "received": false
+            }
+          ],
+          "total_price": 55172,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:44:59.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "514",
+    "etag": "W/\"202-jzn4iDR26xkiZ1OJbjBcFN/neC8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Mohammed1@yahoo.com",
+      "name": "qScgaJ",
+      "country": "Russia",
+      "city": "xnUXiSjsqMXjr",
+      "street": "kYaadFkqRpUfHdpmJ3QHZtfX0L5I2qzCAX",
+      "house": 91,
+      "flat": 6,
+      "phone": "+0872049057",
+      "createdOn": "2026-01-04T11:46:51.000Z",
+      "notes": "mFl082Bz5fFIT3NDXqahZf43aQsVk0T3y3Z3ZnetHZGlyg6H8pGRyyUVvqlUsX6Ly9MFmguujyLnf0uO2DQYHlznSEfVQXCz0GrzX4QwQTKWmiUiTEMeR6WOqEFTVCTpvi9CJIhEwAzV2awHF0WrGL8oaFhNtCj8FwkyQ8WKlHx2pcUQyzvRqz8f2IgX7izXi2i6S8FFoluK",
+      "_id": "695a532b1c508c5d5ea5a551"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

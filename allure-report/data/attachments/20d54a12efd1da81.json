@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:44:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "486",
+    "etag": "W/\"1e6-gH/Za1ocvDkgEcn5GHXZSFz+QIQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Cyrus_Pagac1@hotmail.com",
+      "name": "TxBQBHePEnKiKgsBNDjGCkpXlfpJqFgmeP",
+      "country": "Belarus",
+      "city": "TVmsSFP",
+      "street": "M",
+      "house": 186,
+      "flat": 7,
+      "phone": "+1808788302",
+      "createdOn": "2026-01-04T11:44:54.000Z",
+      "notes": "iXF871Rl32f4oFaGtxtqA8YnJntrNbFt1D7AWdrk5ay4WZpjsIMbVlrD3JE1rSAHa4n4kmjfbjJrH0zKnMHQu7gOLzHz4bDsEgB8uzZMyEt2t6zH2Sm2fGEkvj8FtdLpU9FHBmhfkhQ5SdrpEJrnwrszwkf3LKNw2ZQZE1bdx0B3LGvSaE4r",
+      "_id": "695a52b61c508c5d5ea590d7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

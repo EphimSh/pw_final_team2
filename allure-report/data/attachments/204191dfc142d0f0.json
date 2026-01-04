@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:45:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-WGwH+Gnk+IDil/87B5GahaZUg5E\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Soap38339",
+      "amount": 636,
+      "price": 92911,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T11:45:52.000Z",
+      "notes": "4hA9BveKeiZuZszUbsMoEIGUKqrjzWwBWdnyCJHBOrNNP2Mwx8vuc0FLRbQ7I5SbwgEO7Pw0yGorINjLXCTVqgVDfBM8RdEVumcTvPeqFiAL2YLtfiV9dgQICGG2Vk1h1f8JO4NDdtams1foKNszHGqdIvtIjH08ho8LkeeUQPAhknAw3rI6fY8oM09Ww9cmP0lfAEKM9OGNLKM2PVlp1W8A2qrgGkbZXmDdHyXNGK1z2D2dcGElE7sDw8",
+      "_id": "695a52f01c508c5d5ea59c06"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

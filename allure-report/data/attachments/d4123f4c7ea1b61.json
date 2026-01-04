@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:45:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-z6xvHt8KPnael8E31B4FpxEO7xU\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike56571",
+      "amount": 150,
+      "price": 60895,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T11:45:45.000Z",
+      "notes": "PKOaXOP6IA1LFzR8hItrw6zisTvaUawm9YIpix7YWPKJt14VnPRudgbHK0EtE4uk2d2Dz25StnRIwl0C2DFKLsY65JOzERDSrlwSBlB2Sp0RjPPVafLjNU23h18kEPyJzPgHxYjoOVe9rjVGo4tVP9QfXWywHrQJCDus4O9beBg0LK9tDAVVN0LVbNO0YLZNGp7kbRrYNeWjx31CqDQwGqHd3B8gkI4GUU9SFi9MbKxhCQfk4KssTFqHP9",
+      "_id": "695a52e91c508c5d5ea59b1a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

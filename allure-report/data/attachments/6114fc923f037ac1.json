@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-SkR8DhJ1lCOWZCqSGNxNIoafxA4\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse86857",
+      "amount": 664,
+      "price": 74870,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T11:46:10.000Z",
+      "notes": "55qIJ1ROwWGMAm55CLkVfbsepmLT7Tp9VmEnMPrxGdAENZe07a9zTnLVirAZPnwUFLCeygppNH6D4ZJ70ayM9yeT72JUJSVrIo9E3pdHx7ghFs19KOaay3SiIKzlSlVrzwJOCzzWjIhDpVQAKMLghLaw8puzIJqpxQgC4SLfq5ThJqskOyeV4BXT8fkjVFuZDPYkDdtFkKxF8V1beovu2nYiqM6Q6uhTy20wLwP2DdYJFLPs0rGr8fGgGP",
+      "_id": "695a53021c508c5d5ea59fa3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

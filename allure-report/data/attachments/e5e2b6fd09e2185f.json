@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:14 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-3Xct7yCeYudxYdDzDGsp4qK0uaM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish81142",
+      "amount": 335,
+      "price": 28132,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T11:46:14.000Z",
+      "notes": "t4jiJ3itzElHB4z2Ow1lVNmPR8vHhBdAgJs7DbXcU4J2BcA5kRsR3TvxuHIOSYMkKCaSo31O45PMVis5pek3jnD47HxrzUKcZOw6ohlPjPszpq9F0FVhMPqSVfRmZ5QzlAfOCSiCAibWCRLk1sWiygSe98q8scudhByqnmRfsV1k0qykFBV5O2BW8xbxPMuHsTqLvHxFQ0e7RfQuyZNendBJ3JMkVXX2ocN4wSA2WAHsNvnUfwFdrvmJkq",
+      "_id": "695a53061c508c5d5ea5a034"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "356",
+    "etag": "W/\"164-0DNSXu9VjFOr/KxIK73dpKl8dKU\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Brandyn.Hamill73@gmail.com",
+      "name": "LweaCdEMTtVRyAzjPUCx",
+      "country": "France",
+      "city": "ZhkXIkFGPKhHHktP",
+      "street": "6vyEQ0ZCV8AW2BLGr",
+      "house": 156,
+      "flat": 9,
+      "phone": "+3111180602",
+      "createdOn": "2026-01-04T11:46:13.000Z",
+      "notes": "tuNE5znB81NSAa936f3lKn2DccFLlN4pQV4mXP",
+      "_id": "695a53051c508c5d5ea5a01d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

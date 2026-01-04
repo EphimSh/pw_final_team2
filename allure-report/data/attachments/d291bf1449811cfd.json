@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "513",
+    "etag": "W/\"201-cApu5NjmQCGzsU+eyVueiStWNZs\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Brionna_Rempel80@hotmail.com",
+      "name": "CPxUikAyrOKrdwWpUFdKm",
+      "country": "Russia",
+      "city": "msXuGKd",
+      "street": "DK6g8NAJX6LaZC9rzngnuoOT0VucnkBNojxa6De",
+      "house": 9,
+      "flat": 3,
+      "phone": "+4215100627",
+      "createdOn": "2026-01-04T11:46:49.000Z",
+      "notes": "x3XPRWuG4SVbGKQIpsnazIeBiEkFEUPfOyh0YECFysSdKTo8OSjATJaSQeButzP5DHHbGpo2z4HLvppqPCn9dXLF9lUDU4q7GXnwkc0sXYG8LKzDI0Q7L5rbYGNlu5LNHddGzBvZ44mbpiMjxrAmJgTwk9BJdjpCZM35rGIH7jKfgX9bCyWMS",
+      "_id": "695a53291c508c5d5ea5a520"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

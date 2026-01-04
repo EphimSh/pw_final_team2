@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:45:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-M7Bk+21KIA3RUUGW3nt/2KtKfbU\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat99247",
+      "amount": 56,
+      "price": 20468,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T11:45:42.000Z",
+      "notes": "5oHWP81jd6RTiG0p66k6OCiX58ZOCxesqTc5gRaKnkyX6BYrRug7kx8XFY2wz8nmDewN3iTCCALnZTnoWOFkNDskkTnCIBuXU0wNzH9kcWXg4CKqrIwJtewkmgkRbXnUEPvzkZbQ4peaRT5cymC1fkWp5SwfRnboIEaWX6cixZQMOMFc9zSnqbRalOeGMPmgGHSLjZjkHloVm4qyDIdQiJ8umxNQiAhdAQ1g2i0BMXYk2aCknDnsAnkzlr",
+      "_id": "695a52e61c508c5d5ea59a84"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

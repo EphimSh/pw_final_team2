@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:44:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "379",
+    "etag": "W/\"17b-TCVm0GtpZMcnPmTxTUfGto9CTXo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Cleta22@hotmail.com",
+      "name": "XaDSbbOZVdvAjoCfrVmRkkgVfCHfudCtok",
+      "country": "USA",
+      "city": "XDTEKxxIvBhTjxGPzYjl",
+      "street": "lwtZYnK05mQB1yZS8T8EtYGdp2x5",
+      "house": 67,
+      "flat": 7,
+      "phone": "+6001633399",
+      "createdOn": "2026-01-04T11:44:54.000Z",
+      "notes": "ieGUUdi2Y9rgQZ7yEBupggKwq5z3WYqBtiUN2BAkAdu",
+      "_id": "695a52b61c508c5d5ea590d9"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:45:21 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-o7xXDEarcCvdvvz+lk1c3qedAxI\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Pants84836",
+      "amount": 663,
+      "price": 21150,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T11:45:21.000Z",
+      "notes": "LJb2TUsVjgHOZeNyS5rjm74hQYISv0yUDO82rF2wlwHbwtxWRVUSpR0b71T2nHOJPLrU8XMLc4XiFgt1Lt1aOHLBbyR0KdrP5RuvCeF3ifg4SdTP8qZBtlkUccm0QMr11a6MROIpZxOfBaOiWSHEasp3Qgc06CSNu7QnQ9skq7nHrpBhuyasrzroFlEanUEs7CQ94QO7gzlokQL4s88F79GuEbFQT5thJ9vQcW7hvVSwNt2fvKWtZucz1G",
+      "_id": "695a52d11c508c5d5ea5961a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

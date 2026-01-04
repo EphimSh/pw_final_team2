@@ -1,0 +1,101 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:45:44 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2433",
+    "etag": "W/\"981-lpzrHvSj+LTAXUwmbTemxlY7Q+4\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "695a52e01c508c5d5ea599b2",
+        "email": "Helen_Schmeler@gmail.com",
+        "name": "yxXrUTkFCzuMFeXuFhYXmguPlanOgLqWFMmJmlA",
+        "country": "USA",
+        "city": "KlfNZpmLOgVkQ",
+        "street": "sUe",
+        "house": 83,
+        "flat": 7,
+        "phone": "+5730192788",
+        "createdOn": "2026-01-04T11:45:36.000Z",
+        "notes": "B2dKVW3s7hSjSvupg"
+      },
+      "products": [
+        {
+          "_id": "695a52e41c508c5d5ea599f5",
+          "name": "Keyboard88049",
+          "amount": 823,
+          "price": 45727,
+          "manufacturer": "Apple",
+          "notes": "08cyELNdIlGqTsJrin1tRiajRS07AYGVVDdsoN2HyGPhzaXWNmutfH1jD9MWO5mvde05pFiQMbWDNiEc7ImEq1Gv8Ltl8aniRemOvKeSYc1iqckWp1JcFpSJ9Ee345bfbPJjJevyPEp5OAED4zGLZZc4uHN6bStozSMhHYcaVh3NL9ZwXSK8lA3yGHG0tRxZImZhmRdQhLPqY2famW5rEBIs0ZJCRqAxxlgEHyspTADQOjc8395rDRrM6f",
+          "received": false
+        },
+        {
+          "_id": "695a52e81c508c5d5ea59a96",
+          "name": "Shirt53843",
+          "amount": 711,
+          "price": 37819,
+          "manufacturer": "Amazon",
+          "notes": "nwwPBXhtB9LgNO2GbchMyIr8Xnw3BF7iWJfo4ht4zuIanG0CwYJodThqjpOyqyG5hlWsunNoR8it2Z6s4dw3wOHoby28eEput7jhpAZ4sDOyS7VmqmKI7f9hvVBbdY7WWzsrxnVsXCcwg1eCK1i2yeEJcc6IZ2seMEjBwJ7cmTHbPq3E72NUK9YSSrjyDZmcEhTbUlMQgrT9mv8hHYP41wEzFxn47w24TDC4gLYHMsTYfclcNhf173NZp9",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 83546,
+      "createdOn": "2026-01-04T11:45:44.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a52e01c508c5d5ea599b2",
+          "products": [
+            {
+              "_id": "695a52e41c508c5d5ea599f5",
+              "name": "Keyboard88049",
+              "amount": 823,
+              "price": 45727,
+              "manufacturer": "Apple",
+              "notes": "08cyELNdIlGqTsJrin1tRiajRS07AYGVVDdsoN2HyGPhzaXWNmutfH1jD9MWO5mvde05pFiQMbWDNiEc7ImEq1Gv8Ltl8aniRemOvKeSYc1iqckWp1JcFpSJ9Ee345bfbPJjJevyPEp5OAED4zGLZZc4uHN6bStozSMhHYcaVh3NL9ZwXSK8lA3yGHG0tRxZImZhmRdQhLPqY2famW5rEBIs0ZJCRqAxxlgEHyspTADQOjc8395rDRrM6f",
+              "received": false
+            },
+            {
+              "_id": "695a52e81c508c5d5ea59a96",
+              "name": "Shirt53843",
+              "amount": 711,
+              "price": 37819,
+              "manufacturer": "Amazon",
+              "notes": "nwwPBXhtB9LgNO2GbchMyIr8Xnw3BF7iWJfo4ht4zuIanG0CwYJodThqjpOyqyG5hlWsunNoR8it2Z6s4dw3wOHoby28eEput7jhpAZ4sDOyS7VmqmKI7f9hvVBbdY7WWzsrxnVsXCcwg1eCK1i2yeEJcc6IZ2seMEjBwJ7cmTHbPq3E72NUK9YSSrjyDZmcEhTbUlMQgrT9mv8hHYP41wEzFxn47w24TDC4gLYHMsTYfclcNhf173NZp9",
+              "received": false
+            }
+          ],
+          "total_price": 83546,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:45:44.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695a52e81c508c5d5ea59acd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

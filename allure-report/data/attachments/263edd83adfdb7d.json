@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:45:17 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "481",
+    "etag": "W/\"1e1-8z0IKnFGYWunCO5CZhq3JPkK66E\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Tad.Baumbach86@gmail.com",
+      "name": "yyQQQqQEIEJoXEekFhEQRKWxoYIXEPs",
+      "country": "France",
+      "city": "uGZ",
+      "street": "WTr826xvzwQhCL62PPR4tURqZG6",
+      "house": 64,
+      "flat": 2,
+      "phone": "+3796698679",
+      "createdOn": "2026-01-04T11:45:17.000Z",
+      "notes": "i6K1Tvpcmq2sFmz67inPOmIDMkv1u81hmRj4nhmMDgayYiWONdHlAOmk8IHraSoY19Pqy7NkZWyolslKHyMIdzvhgZqopJVVP1vmGRI1aubglxBK56pE6nY489vIwu22nCfG4nDtkIvIAU48yMwNBCGB4VbRse",
+      "_id": "695a52cd1c508c5d5ea5955c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

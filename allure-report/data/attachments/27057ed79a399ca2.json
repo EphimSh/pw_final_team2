@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:44:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-sw9oizy/5BSdEi228vgR4LIp/Y0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair66048",
+      "amount": 468,
+      "price": 39318,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T11:44:58.000Z",
+      "notes": "cXmnn0k1RziFbqHEd555TkGevnejimK7fvuSgWpJ724NU5MTQz1yLHoA4n0bomBwcMBbWYzry1fZkLAGGx8mxZo3Dq2omTaiqKWsxfKkRz1SkNWqgHC1RtZAR6mq7OR1ijqWiVYkcCF6yZVFtlUj0u8OWL0MhNgQT59jMVvrygkCHezp5gyp6a0dxUs8iiM9VjFFSggjBIrq4YpW5AQ09ZbI0PL7gKW1BSkMh6gcUJ90DtbsoPBW2uv5qa",
+      "_id": "695a52ba1c508c5d5ea5913a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-i7BDPAp02h/hvr19+X8sZFMpp4I\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Fish95203",
+      "amount": 685,
+      "price": 64802,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T11:46:32.000Z",
+      "notes": "e3KLVF8IaVHATNkkk3fjI3C2x1oQxGfTjiFcu89V5KThhFZUoCran8Nz8kpP2hOqMsX0P9eWVDH0ooWcBZ0OjUCLoZb6MyYCOPcxs1FjF23yIrsgmP39iSG00d1IxIZkXIiOvRKA090P1eclsadRXJtFpXqZdDmi08UWQ2hfyGK387ioleIi8LpeAFwTpnfoS1iNMweEPndd0V2UuYjk36gpQR9SzX46CF6vRpoByd8bqIoquhgzIALzl6",
+      "_id": "695a53181c508c5d5ea5a2a5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

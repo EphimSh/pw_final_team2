@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:45:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "339",
+    "etag": "W/\"153-4YmFFTtK41XgUouCYt8f0rfOdfI\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Grady_Kulas-Wintheiser@gmail.com",
+      "name": "BsZHjyS",
+      "country": "Belarus",
+      "city": "HsBeKVvcxIBgZ",
+      "street": "w58UMHGPlr3Fa",
+      "house": 32,
+      "flat": 7,
+      "phone": "+3665831535",
+      "createdOn": "2026-01-04T11:45:38.000Z",
+      "notes": "4eIMlXCwlsYTxYX2iptDnKwTGi1deRTmfqm",
+      "_id": "695a52e21c508c5d5ea599d4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

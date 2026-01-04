@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "467",
+    "etag": "W/\"1d3-QHJBR0pLE2I19jPF3LP5RwBLhVo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Reed.Hane6@yahoo.com",
+      "name": "qrHBsqtRHgSBGYnFSpDXpjRlELihTEAjsvjIV",
+      "country": "Russia",
+      "city": "EDEvZfcIPwZJPuELyU",
+      "street": "HNKGBs1GKUHR02zYCsxEA2ZVJG",
+      "house": 142,
+      "flat": 2,
+      "phone": "+4816666809",
+      "createdOn": "2026-01-04T11:46:27.000Z",
+      "notes": "CZV0nP30SJKCZMJTFtzK8vwpHT2YA1D7HMZkZ2IQzavKFg5C114v0Npad1z5DMewFl57km2apHhzW9oeugbxCILEfGVrgMfrWykVCDskvVrGRHQeTpQHpFcOplJCtPc",
+      "_id": "695a53131c508c5d5ea5a1e3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

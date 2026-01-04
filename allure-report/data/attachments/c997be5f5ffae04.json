@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:57 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "495",
+    "etag": "W/\"1ef-KcqspbJg/jeT3whWm50WMpNty0I\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Scarlett11@yahoo.com",
+      "name": "PF",
+      "country": "France",
+      "city": "LwuCohNxGie",
+      "street": "rSh5i9hi5aEx",
+      "house": 152,
+      "flat": 7,
+      "phone": "+5503222997",
+      "createdOn": "2026-01-04T11:46:57.000Z",
+      "notes": "ymmnGrZAK2uE4jBLAfnJ1FJvpKuhO5cb2IrtJS9EjkCESi6V9lVhYxg0xfk0faeVaGLiZUCuq99bB9qzbggBZzyDA1aFkVa215Be0XdtPjUsnKnVVXGw6RNsXpL7EMIoiBEHMNQs2NwWq0Afk1gJ9JBNmpGdoWLGGLupevAehnO3rRY8XEj0pU4SL7ZydCbLMDARqfCUoe4GEU6TKl9",
+      "_id": "695a53311c508c5d5ea5a61a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

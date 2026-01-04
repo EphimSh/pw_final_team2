@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:45:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1816",
+    "etag": "W/\"718-limGp92M5ZbVazcohtMXwI8jFXg\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a52bb1c508c5d5ea59186",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a52b61c508c5d5ea590d7",
+        "email": "Cyrus_Pagac1@hotmail.com",
+        "name": "TxBQBHePEnKiKgsBNDjGCkpXlfpJqFgmeP",
+        "country": "Belarus",
+        "city": "TVmsSFP",
+        "street": "M",
+        "house": 186,
+        "flat": 7,
+        "phone": "+1808788302",
+        "createdOn": "2026-01-04T11:44:54.000Z",
+        "notes": "iXF871Rl32f4oFaGtxtqA8YnJntrNbFt1D7AWdrk5ay4WZpjsIMbVlrD3JE1rSAHa4n4kmjfbjJrH0zKnMHQu7gOLzHz4bDsEgB8uzZMyEt2t6zH2Sm2fGEkvj8FtdLpU9FHBmhfkhQ5SdrpEJrnwrszwkf3LKNw2ZQZE1bdx0B3LGvSaE4r"
+      },
+      "products": [
+        {
+          "_id": "695a52ba1c508c5d5ea5913a",
+          "name": "Chair66048",
+          "amount": 468,
+          "price": 39318,
+          "manufacturer": "Amazon",
+          "notes": "cXmnn0k1RziFbqHEd555TkGevnejimK7fvuSgWpJ724NU5MTQz1yLHoA4n0bomBwcMBbWYzry1fZkLAGGx8mxZo3Dq2omTaiqKWsxfKkRz1SkNWqgHC1RtZAR6mq7OR1ijqWiVYkcCF6yZVFtlUj0u8OWL0MhNgQT59jMVvrygkCHezp5gyp6a0dxUs8iiM9VjFFSggjBIrq4YpW5AQ09ZbI0PL7gKW1BSkMh6gcUJ90DtbsoPBW2uv5qa",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 39318,
+      "createdOn": "2026-01-04T11:44:59.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a52b61c508c5d5ea590d7",
+          "products": [
+            {
+              "_id": "695a52ba1c508c5d5ea5913a",
+              "name": "Chair66048",
+              "amount": 468,
+              "price": 39318,
+              "manufacturer": "Amazon",
+              "notes": "cXmnn0k1RziFbqHEd555TkGevnejimK7fvuSgWpJ724NU5MTQz1yLHoA4n0bomBwcMBbWYzry1fZkLAGGx8mxZo3Dq2omTaiqKWsxfKkRz1SkNWqgHC1RtZAR6mq7OR1ijqWiVYkcCF6yZVFtlUj0u8OWL0MhNgQT59jMVvrygkCHezp5gyp6a0dxUs8iiM9VjFFSggjBIrq4YpW5AQ09ZbI0PL7gKW1BSkMh6gcUJ90DtbsoPBW2uv5qa",
+              "received": false
+            }
+          ],
+          "total_price": 39318,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:44:59.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

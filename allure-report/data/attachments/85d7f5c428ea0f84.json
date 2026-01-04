@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "339",
+    "etag": "W/\"153-LvCUf0TRfdGRQs4ZwBQRc5sUxgY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Vito.Runolfsdottir31@yahoo.com",
+      "name": "DtcCfSZKRNEJDZvipqitczpYzYEUQHXLoL",
+      "country": "Great Britain",
+      "city": "HmqAaa",
+      "street": "usp5ny80K",
+      "house": 7,
+      "flat": 6,
+      "phone": "+5191592480",
+      "createdOn": "2026-01-04T11:46:01.000Z",
+      "notes": "LOwgqzVtHlfbPIjr",
+      "_id": "695a52f91c508c5d5ea59e34"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

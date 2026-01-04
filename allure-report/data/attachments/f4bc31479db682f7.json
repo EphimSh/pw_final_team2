@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:45:26 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-lDzQ1czwFCujUwDLLIVTpg4ARSc\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chicken89463",
+      "amount": 771,
+      "price": 98044,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T11:45:26.000Z",
+      "notes": "cKCahi89kdnRE1xM7uAEcS8ShCwKtIrTBXSxNKDNei1IUsdFiSivNn2jIexhaCQzrfRUhfudnrvq6I1Rknk4Ujqu0oB5nPICN7m1z2o0ppQixn2CuaNBvn5qyN5n6NNLRPG4utzp4R38DM8S0GlTXQAJj7aJcb3CI8Drt8cATepyT5mWGDYaXD3BmEAA0q8MuM6wslGQ5d3NhuX1TsOrEEk8hJYGuXTPp4CoF2qhTch2NKpU6TY1AecdHJ",
+      "_id": "695a52d61c508c5d5ea59780"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:24 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "554",
+    "etag": "W/\"22a-0OIlT8UqPCeOLleOQ3a6z4JEJuE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Enos25@hotmail.com",
+      "name": "cLrjidjjbx",
+      "country": "Belarus",
+      "city": "DIMdZNWVgfkosESYabY",
+      "street": "SHfGtZE2aFlD9cFMXzUafZDVKj29mdK9",
+      "house": 120,
+      "flat": 5,
+      "phone": "+0749333569",
+      "createdOn": "2026-01-04T11:46:24.000Z",
+      "notes": "Iw58h7o6hGrkcTqt1sULWJk22ZLIKfYFSIeDacMH2N8Zi4AfFyzSYPvER2zM7HpxuCj3nQ46CsV6FnLF3bgY0bPDtQZR6RYuchLvl5NilYXd9IMp2wCoJvHuCKIu8evqnHOe3MYnyIpgIRAVywJUg9tgJvn0IiV4UE9tnGziE7C2pbxW8oAqsz1lmQfmg9w52QmoGXDmkQtH8lUdDmqt5PuqUuwSkYztqFuw2jGSAnI",
+      "_id": "695a53101c508c5d5ea5a1b3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

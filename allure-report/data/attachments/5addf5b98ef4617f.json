@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-MI1Z+K6bE15d4xnCpDhFMt97Fu0\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon19050",
+      "amount": 632,
+      "price": 68725,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T11:46:04.000Z",
+      "notes": "TXiK3t7uOKEHFqfEXPy8CiXUVZJQLboJ4erWH8MERXrAfx4TylMSLeJ4GSeAv2vWphys122oUtGHf1VZbeJ8XF8nlO80AmMgZD7CJFfuTAWii7o2uBOLxmmVjII8j52iBxWnvCukp3wHxHFXAMlOKatcBTvQwwNiG3ci6WhHAkLkxZoFzqY3jF7rCCyM4jedO1lnDLm95qhWa3ygKl4NO1XSg687Hcc3lxmxRKnVEp7k5ZgMmmjYCrmJ4f",
+      "_id": "695a52fc1c508c5d5ea59ecf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

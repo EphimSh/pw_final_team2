@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:44:59 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-O3kFIlvUPV7mpdwfQpzcUKOHDNE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair99283",
+      "amount": 401,
+      "price": 65561,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T11:44:58.000Z",
+      "notes": "fsE53NpMITTS29Oz3jVmCAgXKQLJHWGQRyeifCKj1LKBTwIdSOpTKkT7efFET4yybZv7O9TvoMcLawBxo8Z5v6vFDUAAMkf1SkBF8e8iBsRNuTePjKL4QFKan4JPm0TwDCrKpCq39sFvmP3wUnQaF94upUjO1HUaER1NbQBbadjXhNTSXSWy5CefUOGumRAopS1G6KyIHgtez0jR9XCV3p6iac9quqCFDDqPqxwQRcTZwCU1RFn89gA57F",
+      "_id": "695a52ba1c508c5d5ea59142"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

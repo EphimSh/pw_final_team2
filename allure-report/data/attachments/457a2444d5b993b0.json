@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:45:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-mpx9y5M4XDWcmLYyPrkDg+DgGGQ\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips76297",
+      "amount": 431,
+      "price": 25745,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T11:45:03.000Z",
+      "notes": "ZgB7JEIE360wuh1hLuPikO4HYPl8uRiu2jEEM56ODvUumgZGqJfxz8s1sBUNNxcvPs53yPvRA1UOuDZ9UlklOO1YRm7QolZRPXVNZ2AnLG44ZM8Lgwgi1lt6Rq3s3IjRLUeYLPoTe18FnTgfSpqVYjvJUp5p6eJsxEdtIrVhSsRCPOY7zmPbA8Bnsq8AvpxkvdsLzFJA2hsnylB4OSQCMhUlfAXPZ7OaeSDiuIBdAs6FDYbKzgHoXPx89D",
+      "_id": "695a52bf1c508c5d5ea59255"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

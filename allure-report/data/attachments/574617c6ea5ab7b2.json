@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:04 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "533",
+    "etag": "W/\"215-lE63V2gM9sOJwZh61oEG8vUPDRE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Lilla67@yahoo.com",
+      "name": "jCGUKjgCtXgscGuoh",
+      "country": "USA",
+      "city": "n",
+      "street": "n6uwrXfiAI6X5zbAtRzuF2lL5C7bYvz4hLvF",
+      "house": 8,
+      "flat": 2,
+      "phone": "+1150156965",
+      "createdOn": "2026-01-04T11:46:04.000Z",
+      "notes": "hLGugmYLuDChKhKppCb1Cj7pVVBD612kzK5tJYRnXzdPbVWPQzZlfGYyL45F7QjDjNcW25dpAyQW3kk4BEQVINumxdBUqiOarclZobprlbDzkgFOR0mvu20koWxS5jH27P21EAs0gPxrtnRhCqcnWv4Xlu1mK0qkiRyQUP3pAuFZrFXj8FoolTVm9g8M3BDTOnmlbGkfLjx8KdwH7WWW77XyMRPtCqPyYtXv",
+      "_id": "695a52fc1c508c5d5ea59e7e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:45:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-gdURysqYHvZ+3DpO7nBqdOVxvqo\"",
+    "keep-alive": "timeout=5, max=94",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chair40135",
+      "amount": 80,
+      "price": 58194,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T11:45:19.000Z",
+      "notes": "ySk7ZpRon5SbCzxXtvYgsmHxVbaTQJ3QnnIlAnq4ZIlcF4oyVTqQuagG27d8BSmlM3rBghimRHZGU85JxJzVcn8LPomQdR3TEKMIQ17x7DIsvAzFmLBHaSJ3kFGwGFJVgXYF9mygebEzwXDZmRl4OTBdPtH7vOXW2nqCox6EEXJ99Bg6DJHZ8f0Ceq4ax5ku30cOAfmaXSUDKJcpv1hOMoCRnVxpSVLMPwZs3rTYrg1rj5obBVm57MbYfA",
+      "_id": "695a52cf1c508c5d5ea59594"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

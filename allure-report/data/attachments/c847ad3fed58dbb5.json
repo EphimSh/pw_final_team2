@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:44:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-LBMocZuBs1C5yLqV7+KAo1GtYQk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Hat74520",
+      "amount": 188,
+      "price": 55172,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T11:44:58.000Z",
+      "notes": "AjJNjokpg3ANkqgswEYnTHzLBnwNc9bjV5QBV111koxhipf0r3aEfbOV5D7ZLTDF4LY4Dgv0ausxD604UEptlIsj7hq84NmPUQ3l7acYOI8ZFwZgUGT8RAYg5AbIvBNHR5J0me0oXVymjqI53mNYgFJ1bHD7Te4GksiYa6WsoY116DlJP69zOibwT4AfPq7VOVYFKbm2xHneXu3Bjo6t418GuD3eibhWN413bFKSlMQ9etUdSmNLEBLTF3",
+      "_id": "695a52ba1c508c5d5ea5913c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

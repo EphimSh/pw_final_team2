@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:45:36 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "331",
+    "etag": "W/\"14b-pJxgwBvt3oOoTERwzXL/FNq/HDg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Helen_Schmeler@gmail.com",
+      "name": "yxXrUTkFCzuMFeXuFhYXmguPlanOgLqWFMmJmlA",
+      "country": "USA",
+      "city": "KlfNZpmLOgVkQ",
+      "street": "sUe",
+      "house": 83,
+      "flat": 7,
+      "phone": "+5730192788",
+      "createdOn": "2026-01-04T11:45:36.000Z",
+      "notes": "B2dKVW3s7hSjSvupg",
+      "_id": "695a52e01c508c5d5ea599b2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

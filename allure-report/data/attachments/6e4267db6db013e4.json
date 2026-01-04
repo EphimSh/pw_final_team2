@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-gDtqmWXp1ZzF2a6nkh2iqtIXp/c\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike98658",
+      "amount": 352,
+      "price": 73609,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T11:46:16.000Z",
+      "notes": "En4uMC4oDdA4FpADay3m5uwr2njnpYgSWUYzYzv2mBmxSifcgyqxvURIV0O9WGzK3YYtqMFUOCnO0qCsn7PnKhNfZRcUoTx8dICokcPbB16Q4jG3s4IqnZzIzh44tADnJCYAGsuN1PgC0rRbluuQRJaU9SqjXOt1pK7atgvHLHkk4D1Yd0k7Sygj9L1qZTqyZA5u3yZUnff8W5jKaDbgs8QfAmbJ7e90NjPZU36iuE3NdkLIF5sOyaUL6m",
+      "_id": "695a53081c508c5d5ea5a0aa"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

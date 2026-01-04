@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "552",
+    "etag": "W/\"228-YezHrXhS/c/Dd1mmubpADd3ubhE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Estella_Ward@gmail.com",
+      "name": "yKNtgOIxtmEMRDRpUHIEVotsBAe",
+      "country": "Ukraine",
+      "city": "cEJsUNOBHZjGgtcQbmgY",
+      "street": "g4Cx",
+      "house": 164,
+      "flat": 8,
+      "phone": "+9124864736",
+      "createdOn": "2026-01-04T11:46:10.000Z",
+      "notes": "YkbyVX2UuiHOBx4v19E35ONHy7BQ1wpXMzW6sw1oYSL6ldbzgj4480HkIRlYQcS8jeka7sjy3YhmhYkpGeYULC5pwQ8JlGlCavl6dvO4qesUHmwilRHV0cDm7FylRQKCvPOjmspLA7SaE5LhNQVmVBOsDynZYd0xvtM67q0snbbWYHQkzEGMU7qOKaA2RXDANH06e1SvYoCqkkDYgkcOpeuO1pUR0B0vZIFU8kGYdbzqJ9L",
+      "_id": "695a53021c508c5d5ea59fb0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

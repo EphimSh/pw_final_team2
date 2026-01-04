@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "372",
+    "etag": "W/\"174-9qnCqVMzucfsBGwY/k5/y+wcxWI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jacey.Purdy@gmail.com",
+      "name": "MSHhDwkFejgQKGALb",
+      "country": "USA",
+      "city": "EBlxrDYQkHZHE",
+      "street": "j0",
+      "house": 66,
+      "flat": 1,
+      "phone": "+3065306980",
+      "createdOn": "2026-01-04T11:46:54.000Z",
+      "notes": "S9T0brCco0fOAwmfcRMG04edBLVfCIyv7STwp4KnAZ7WVQGXxc046651mrTom8nGSyBviAa6MVkAneayIOuq",
+      "_id": "695a532e1c508c5d5ea5a5af"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:44:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "549",
+    "etag": "W/\"225-5nV7Bm09gn+fgcyFQuJJeSBKb0Y\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Maureen_Wintheiser@yahoo.com",
+      "name": "GynyYneNgbDvLELYYGXWiImMIJeqYPFPj",
+      "country": "USA",
+      "city": "moFuJb",
+      "street": "EmYjm44xSbL2XlxDLotD1UVP57cuYQ",
+      "house": 111,
+      "flat": 5,
+      "phone": "+4569638070",
+      "createdOn": "2026-01-04T11:44:54.000Z",
+      "notes": "RXyYAzyo9ZGA8b3t25U2MXi1fdCf6OIDehRkC6R4aleL3wgkiiyDVCdrD5GMUiIjemSzKHza77jwTKXu6U3Cb31UU6bRH1RyUXe3RmoQc0PwScp4q6Rcgh85qjQmm4h5edqtC3SiesZyN1rbtdG6NmGMUnwtnsQ3NGnwOIjDzgaahYN6HnLX3TImrIqvDN3gGigVlpCnZNPz4F2cjiR2m0oo",
+      "_id": "695a52b61c508c5d5ea590db"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

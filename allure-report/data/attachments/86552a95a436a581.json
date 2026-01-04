@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:27 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-gAtigYQ+vV9owSTmvlbfs2tWk00\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bacon74447",
+      "amount": 524,
+      "price": 56014,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T11:46:27.000Z",
+      "notes": "byMWihYLoItToqWBS5p4PSnbv0kYuVnDKCfNuhw8cR9JmbWdW22BiDwVU9NFDfNzU4YcZkYBkXCk8A05NiEKF98XwQUyk2kvNK4bHRz1NVSSqVsp1k52JVfK7xbUhM6GGhHXxLTEOqxMd53hi4UH6iYWfUJRXrGi7mg7Cx4HTwALUrp3FcE8vO7FAhg0OI9aDlMUGtTsPetABVgM6iv68XI5sWgBC5JUIw1BgZxx1DD4vl0HBx1Zo46CjC",
+      "_id": "695a53131c508c5d5ea5a21d"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

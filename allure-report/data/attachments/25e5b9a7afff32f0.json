@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:45:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-ZUnp+I142EnlKnfxbFzdpzMQvok\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad99756",
+      "amount": 466,
+      "price": 5073,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T11:45:03.000Z",
+      "notes": "KLApUuGPWGCKTRTeK12LpSbBWz1gWMte26IoybqxyL3t9XpgHg1rph88RQUw6NX5Mv56qT1d7PKKdYFJkBEeS4tQSVtVGVAz9txP5nVDDR0SfdDLhMTnZ4uIlvLpIuyUGzaOs7EkSgU3bJF73oG6yxbkrB3ZhFOxJuzQhRXON9pdXnByR2MBASC4fuBmQrokuCbv2KdyqU20cJnJWqhGgmMhyDzzbfy76Ydbl4KPwX7sgKK9jGykfwD0c6",
+      "_id": "695a52bf1c508c5d5ea59253"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

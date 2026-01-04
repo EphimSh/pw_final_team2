@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:45:22 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "471",
+    "etag": "W/\"1d7-Ye/hp+fMujVbAbR4RUpufSKIdbM\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Korbin8@hotmail.com",
+      "name": "ACuNhInWXZnItltSGFqupmwAGUUhccfBMT",
+      "country": "Germany",
+      "city": "OfpUjtXgGplmv",
+      "street": "tab2hLEjFpS2miovp",
+      "house": 136,
+      "flat": 3,
+      "phone": "+5235287767",
+      "createdOn": "2026-01-04T11:45:22.000Z",
+      "notes": "peK6HClI5GAW4fT35Gu3Myn6OfCcFwgbjMXS1ulLHEpKATiV3fVYnlJXHvOsSmoF4j9LXo7k3qEwE5fikMkKb3UaDWrdveQ6Risxg5ECC9Jav5qIUKPIx9qGnZG4ULOpsXppSByvqVc5eOjbiPcT",
+      "_id": "695a52d21c508c5d5ea5964e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

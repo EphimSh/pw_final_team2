@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:25 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1880",
+    "etag": "W/\"758-83FY2Gut80JbGVzB77/7qDONa1E\"",
+    "keep-alive": "timeout=5, max=100",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a53061c508c5d5ea5a042",
+      "status": "Draft",
+      "customer": {
+        "_id": "695a53021c508c5d5ea59fb0",
+        "email": "Estella_Ward@gmail.com",
+        "name": "yKNtgOIxtmEMRDRpUHIEVotsBAe",
+        "country": "Ukraine",
+        "city": "cEJsUNOBHZjGgtcQbmgY",
+        "street": "g4Cx",
+        "house": 164,
+        "flat": 8,
+        "phone": "+9124864736",
+        "createdOn": "2026-01-04T11:46:10.000Z",
+        "notes": "YkbyVX2UuiHOBx4v19E35ONHy7BQ1wpXMzW6sw1oYSL6ldbzgj4480HkIRlYQcS8jeka7sjy3YhmhYkpGeYULC5pwQ8JlGlCavl6dvO4qesUHmwilRHV0cDm7FylRQKCvPOjmspLA7SaE5LhNQVmVBOsDynZYd0xvtM67q0snbbWYHQkzEGMU7qOKaA2RXDANH06e1SvYoCqkkDYgkcOpeuO1pUR0B0vZIFU8kGYdbzqJ9L"
+      },
+      "products": [
+        {
+          "_id": "695a53061c508c5d5ea5a034",
+          "name": "Fish81142",
+          "amount": 335,
+          "price": 28132,
+          "manufacturer": "Amazon",
+          "notes": "t4jiJ3itzElHB4z2Ow1lVNmPR8vHhBdAgJs7DbXcU4J2BcA5kRsR3TvxuHIOSYMkKCaSo31O45PMVis5pek3jnD47HxrzUKcZOw6ohlPjPszpq9F0FVhMPqSVfRmZ5QzlAfOCSiCAibWCRLk1sWiygSe98q8scudhByqnmRfsV1k0qykFBV5O2BW8xbxPMuHsTqLvHxFQ0e7RfQuyZNendBJ3JMkVXX2ocN4wSA2WAHsNvnUfwFdrvmJkq",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 28132,
+      "createdOn": "2026-01-04T11:46:14.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a53021c508c5d5ea59fb0",
+          "products": [
+            {
+              "_id": "695a53061c508c5d5ea5a034",
+              "name": "Fish81142",
+              "amount": 335,
+              "price": 28132,
+              "manufacturer": "Amazon",
+              "notes": "t4jiJ3itzElHB4z2Ow1lVNmPR8vHhBdAgJs7DbXcU4J2BcA5kRsR3TvxuHIOSYMkKCaSo31O45PMVis5pek3jnD47HxrzUKcZOw6ohlPjPszpq9F0FVhMPqSVfRmZ5QzlAfOCSiCAibWCRLk1sWiygSe98q8scudhByqnmRfsV1k0qykFBV5O2BW8xbxPMuHsTqLvHxFQ0e7RfQuyZNendBJ3JMkVXX2ocN4wSA2WAHsNvnUfwFdrvmJkq",
+              "received": false
+            }
+          ],
+          "total_price": 28132,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:46:14.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

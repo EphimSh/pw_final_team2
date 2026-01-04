@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:45:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "494",
+    "etag": "W/\"1ee-0plmHGK2JAhmcXQJRs7bNDDHvDs\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Aubree_Abernathy73@hotmail.com",
+      "name": "PcfJxmGDTDRSYUgAaQpGRVh",
+      "country": "Canada",
+      "city": "GsdtQyKulyJK",
+      "street": "R1e0",
+      "house": 124,
+      "flat": 6,
+      "phone": "+7093795033",
+      "createdOn": "2026-01-04T11:45:50.000Z",
+      "notes": "fSuGtCTRtTrIsaHRAxGgQZBpD05xBfSrdpbIe1fZwSTeeE2FPUwngakMox6o4jipKGjr2t19LRGM6tX1QjG7PwKXPwzkVdz7ZIkQkdNwsM6ZnpAN9dCH8rOYdDRptoMP5DU6taXmJUWjlCV9keQYI5Bw67d5yi5Vw8z4CU5aXalEOhPFk1Dejb1umR",
+      "_id": "695a52ee1c508c5d5ea59bd4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

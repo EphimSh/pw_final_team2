@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:32 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "449",
+    "etag": "W/\"1c1-Rpo9MiNB1SDTy+eMpfjj9B8mnug\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Houston36@yahoo.com",
+      "name": "qvnUwZmbOcToaAiImOVbEMetNFHTIomQKZif",
+      "country": "Canada",
+      "city": "plEYHKZMugMSfmVAJXC",
+      "street": "qjeuByUErhUqx8E0dNJ",
+      "house": 96,
+      "flat": 7,
+      "phone": "+4609576973",
+      "createdOn": "2026-01-04T11:46:32.000Z",
+      "notes": "VJurzaJmT7F1AfTtuegwEKfm8sJlmB1muV2z0dsfTBV5mnRst9h2Dd2gwj7uskGhi17L881H13sXiOPhx8JLM5Ztmj2gK9s2KzpPpAHRLPHrsS5fnfHioi",
+      "_id": "695a53181c508c5d5ea5a2a3"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

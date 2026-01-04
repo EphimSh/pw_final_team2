@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:03 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "417",
+    "etag": "W/\"1a1-5+ixpEh2yiarrBnyQeW9LihgdO0\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Herminio.Mayer@yahoo.com",
+      "name": "yMWHvKMRnWq",
+      "country": "USA",
+      "city": "srVACNXxuuyyMugrH",
+      "street": "UXk1x2XusTi",
+      "house": 162,
+      "flat": 3,
+      "phone": "+2095084339",
+      "createdOn": "2026-01-04T11:46:03.000Z",
+      "notes": "qTFMRpDTCy3UHdNL5g0eIDRvoZuxbrABM8ubuNsna7KaUo2zTgQPwd0trxYatQBvDoTNkbxPzezbefAXWCcGRQXQMqTEFw4FKpeh8eZSqPJ2dQoAAcQKfA",
+      "_id": "695a52fb1c508c5d5ea59e3b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

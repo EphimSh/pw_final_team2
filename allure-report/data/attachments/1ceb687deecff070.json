@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:45:48 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "371",
+    "etag": "W/\"173-gQQadScUJCTjwXRECgcGYn331wU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Sunny14@hotmail.com",
+      "name": "qbIMYKVIqUFwMgOK",
+      "country": "Great Britain",
+      "city": "OzicyzfgZ",
+      "street": "8ep2IyY1QGiJuQ1wPZzc3xgGG5BINiey2Yzpw",
+      "house": 113,
+      "flat": 5,
+      "phone": "+0377377201",
+      "createdOn": "2026-01-04T11:45:48.000Z",
+      "notes": "3sEXHBC0wf9hH1FQ0qI63Kh9F9KQZEihhfYVJp2MVkuj",
+      "_id": "695a52ec1c508c5d5ea59b7f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

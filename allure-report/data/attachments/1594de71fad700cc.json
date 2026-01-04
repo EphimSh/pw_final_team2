@@ -1,0 +1,83 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:46:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "1708",
+    "etag": "W/\"6ac-fvfy2KdZnJRCXH474sIGmoI7dy0\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "695a532e1c508c5d5ea5a5af",
+        "email": "Jacey.Purdy@gmail.com",
+        "name": "MSHhDwkFejgQKGALb",
+        "country": "USA",
+        "city": "EBlxrDYQkHZHE",
+        "street": "j0",
+        "house": 66,
+        "flat": 1,
+        "phone": "+3065306980",
+        "createdOn": "2026-01-04T11:46:54.000Z",
+        "notes": "S9T0brCco0fOAwmfcRMG04edBLVfCIyv7STwp4KnAZ7WVQGXxc046651mrTom8nGSyBviAa6MVkAneayIOuq"
+      },
+      "products": [
+        {
+          "_id": "695a53311c508c5d5ea5a622",
+          "name": "Sausages24381",
+          "amount": 534,
+          "price": 54234,
+          "manufacturer": "Google",
+          "notes": "b0M0IsRZFzCXjGxD0As0Vkb5Ii1XascKEwWF4Hz3tyohGf94fkF0RAdj5dNHONE2HK1EcXXlDS9vN2zguiMVPk3T5268k8jhUo3QRtuGeEBuddJrJ7iaF74j5Skgz4hp8cqqXEilmfI2ziRB9p9TVKKqZu3drKglZ9QVrRJxg2qYuro6G7sLrL61Mnfs0f1XPRQKrX4VrPgio0BIiEjy0KwiC7pzFJMzf5RnzTg9ueLwo25nitZg1NBhlQ",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 54234,
+      "createdOn": "2026-01-04T11:46:58.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a532e1c508c5d5ea5a5af",
+          "products": [
+            {
+              "_id": "695a53311c508c5d5ea5a622",
+              "name": "Sausages24381",
+              "amount": 534,
+              "price": 54234,
+              "manufacturer": "Google",
+              "notes": "b0M0IsRZFzCXjGxD0As0Vkb5Ii1XascKEwWF4Hz3tyohGf94fkF0RAdj5dNHONE2HK1EcXXlDS9vN2zguiMVPk3T5268k8jhUo3QRtuGeEBuddJrJ7iaF74j5Skgz4hp8cqqXEilmfI2ziRB9p9TVKKqZu3drKglZ9QVrRJxg2qYuro6G7sLrL61Mnfs0f1XPRQKrX4VrPgio0BIiEjy0KwiC7pzFJMzf5RnzTg9ueLwo25nitZg1NBhlQ",
+              "received": false
+            }
+          ],
+          "total_price": 54234,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:46:58.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695a53321c508c5d5ea5a62a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:45:42 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "356",
+    "etag": "W/\"164-fS3DTYhR50tobKNdIoqZ00GVzm8\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Christiana84@hotmail.com",
+      "name": "HcrDSuucjdoF",
+      "country": "Germany",
+      "city": "ejZdLgZ",
+      "street": "sMwZoVyImHZoLAVx8ruRoNWbE2Hlc774S3EVo",
+      "house": 196,
+      "flat": 4,
+      "phone": "+9489489635",
+      "createdOn": "2026-01-04T11:45:42.000Z",
+      "notes": "jveyHXdte6pnoNsGCm64uwX8tONY4dpDcv8b",
+      "_id": "695a52e61c508c5d5ea59a74"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

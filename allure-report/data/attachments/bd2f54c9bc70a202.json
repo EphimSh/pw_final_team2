@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:44:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "537",
+    "etag": "W/\"219-QWUjN2b3doW2N1D1a7e3v015nRg\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Wilfredo.Frami91@hotmail.com",
+      "name": "bVCTZwtvKstigbblDjn",
+      "country": "Germany",
+      "city": "jvEDiCGsdlj",
+      "street": "J6KJ7sS6bpTXFvwVKw3WQmLLE3eLzr32k6YXQDNz",
+      "house": 66,
+      "flat": 6,
+      "phone": "+6724395301",
+      "createdOn": "2026-01-04T11:44:54.000Z",
+      "notes": "E1YqqHOgO7tNwboHVFJ4ylpKUVCUtpPj6u7BXsN7enAnfuV7Qksuq0F9zoVFCfBjvhdq1PoFJk8BOVEoZa9V6zY4bjgA0xeBS1rnAaOD71VXaDuIzHtE98FQa7EOVBO4zZT79VjaedECPnplvKIflEfPLOkgFZvvGDkoTED7SKANns1Z0b4SzFcuAWWyHesedIWswsqY",
+      "_id": "695a52b61c508c5d5ea590dd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

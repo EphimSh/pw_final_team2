@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:45:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-Dmkartaa8PL5nj12gYiIklLF5Kg\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Keyboard88049",
+      "amount": 823,
+      "price": 45727,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T11:45:40.000Z",
+      "notes": "08cyELNdIlGqTsJrin1tRiajRS07AYGVVDdsoN2HyGPhzaXWNmutfH1jD9MWO5mvde05pFiQMbWDNiEc7ImEq1Gv8Ltl8aniRemOvKeSYc1iqckWp1JcFpSJ9Ee345bfbPJjJevyPEp5OAED4zGLZZc4uHN6bStozSMhHYcaVh3NL9ZwXSK8lA3yGHG0tRxZImZhmRdQhLPqY2famW5rEBIs0ZJCRqAxxlgEHyspTADQOjc8395rDRrM6f",
+      "_id": "695a52e41c508c5d5ea599f5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
