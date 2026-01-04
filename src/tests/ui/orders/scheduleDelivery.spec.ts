@@ -2,40 +2,25 @@ import { deliveryAddress } from "data/orders/deliveryAddress.ddt";
 import { generateDeliveryData, generateDeliveryDate } from "data/orders/generateDeliveryData";
 import { COUNTRIES } from "data/types/countries";
 import { ICustomerFromResponse } from "data/types/customers.types";
-import { DELIVERY_CONDITIONS, IDeliveryAddress, IOrderProduct } from "data/types/orders.types";
+import { DELIVERY_CONDITIONS, IDeliveryAddress } from "data/types/orders.types";
 import { expect, test } from "fixtures";
 import { getRandomEnumValue } from "utils/enum.utils";
 
 test.describe("[UI] [Sales Portal] [Orders] [Shedule Delivery]", () => {
   let token = "";
   let orderID = "";
-  let customerId = "";
-  let productsList: IOrderProduct[] = [];
   let customer: ICustomerFromResponse;
 
   test.beforeEach(async ({ loginApiService, ordersApiService }) => {
     token = await loginApiService.loginAsAdmin();
     const order = await ordersApiService.createDraftOrder(token);
     orderID = order._id;
-    customerId = order.customer._id;
     customer = order.customer;
-    productsList = order.products;
   });
 
-  test.afterEach(async ({ ordersApiService, customerApiService, productsApiService }) => {
-    if (orderID) await ordersApiService.deleteOrder(orderID, token);
-    if (customerId) await customerApiService.delete(token, customerId);
-    if (productsList) {
-      for (const product of productsList) {
-        await productsApiService.delete(token, product._id);
-      }
-    }
+  test.afterEach(async ({ ordersApiService }) => {
+    if (orderID) await ordersApiService.deleteOrderWithCustomerAndProduct(orderID, token);
   });
-
-  // "create delivery with Customer Home address" // "Done"
-  // "create delivery with Other address entierly" // Done
-  // "create delivery with new address partially" // done
-  // "Check delivery address is same as Customers address" // done
 
   test("Create delivery with Customer Home address", async ({ orderPage, orderUIService, scheduleDeliveryPage }) => {
     await orderUIService.openOrderById(orderID);

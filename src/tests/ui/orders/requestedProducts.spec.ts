@@ -1,26 +1,21 @@
 import { expect, test } from "fixtures";
+import type { IOrder } from "data/types/orders.types";
 
 test.describe("[UI] [Sales Portal] [Orders] [Requested products] ", () => {
   let token = "";
   let orderId = "";
-  let customerId = "";
-  let productIds: string[] = [];
+  let order: IOrder | null = null;
   let productName: string = "";
   test.beforeAll(async ({ loginApiService, ordersApiService }) => {
     token = await loginApiService.loginAsAdmin();
-    const order = await ordersApiService.createDraftOrder(token, 2);
-    orderId = order._id;
-    customerId = order.customer._id;
-    productIds = order.products.map((product) => product._id);
-    const productNames = order.products.map((product) => product.name);
+    const createdOrder = await ordersApiService.createDraftOrder(token, 2);
+    order = createdOrder;
+    orderId = createdOrder._id;
+    const productNames = createdOrder.products.map((product) => product.name);
     productName = productNames[0]!;
   });
-  test.afterAll(async ({ ordersApiService, customerApiService, productsApiService }) => {
-    if (orderId) await ordersApiService.deleteOrder(orderId, token);
-    for (const productId of productIds) {
-      await productsApiService.delete(token, productId);
-    }
-    if (customerId) await customerApiService.delete(token, customerId);
+  test.afterAll(async ({ ordersApiService }) => {
+    if (order) await ordersApiService.deleteOrderWithCustomerAndProduct(order, token);
   });
   test("SC-025: Delete Product From Order", async ({ orderUIService, orderPage }) => {
     await orderUIService.openOrderById(orderId);
