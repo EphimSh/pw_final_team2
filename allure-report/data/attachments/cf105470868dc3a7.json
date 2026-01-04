@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-XUQipTJQPabUwuphRd1ZCP8H7JE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt25962",
+      "amount": 133,
+      "price": 78276,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T11:02:12.000Z",
+      "notes": "VSUeqLPZICOdy7Te88jMKcbH9I18bCWtkXFUhhU00hFDRfAmR72ScTceT4sKK0h6y48c8anhLbtviGrT6iCt5SNh1KCuKb5dpMCHpVQyPD1L8AVsagfQun6xZrReeeZwbH6jYKRo6QLXUeCa6NU92FeY0bhfwYxSWll5xDjIpH2AR21lqu2DMEEDJapx2xKn2zrEu1ahgc8l2PDO2I8oTJMLEFrDCxL6S9kvrduNjSUHEEdfYvRKd7wXD9",
+      "_id": "695a48b41c508c5d5ea2aacd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:00:55 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-eNAYsp6VRgFlUCnhQthaTUW3vNA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse61212",
+      "amount": 850,
+      "price": 58064,
+      "manufacturer": "Tesla",
+      "createdOn": "2026-01-04T11:00:55.000Z",
+      "notes": "pgNp8AOw8aO9jjApGGcwdLTMDPiHqbbi6bOV7OwjQRDO8PDwz28ULWtfB08JsU80aaENoj8rFDmwEqn4wvNRcIWU1w10FKQmYq5qx0tPsoBunEwzE3RJGuGoxxf1JaOJYWPZyivQ56VAZrFFfLlfafgSzeY8fCWjoCnoJ3rN9Pdz4t4EkEupfP5jW5EfQzDJW5elEK91Um2TIJ8csG63VLkehXNcn7PANwQC9sxkW9wzJm74jjmCMOvTxY",
+      "_id": "695a48671c508c5d5ea28c41"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

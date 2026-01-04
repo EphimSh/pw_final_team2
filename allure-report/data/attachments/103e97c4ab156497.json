@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:00:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "424",
+    "etag": "W/\"1a8-30UOewPvWY74G/8FyysQ/n7hoG8\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Marcelino0@gmail.com",
+      "name": "NEYFkMxseTADW",
+      "country": "Ukraine",
+      "city": "tYkrhCVSfeuLbxQgE",
+      "street": "ScS",
+      "house": 65,
+      "flat": 4,
+      "phone": "+1761883121",
+      "createdOn": "2026-01-04T11:00:52.000Z",
+      "notes": "yWwTydUFaZ2jSm7tWhlw3IkmPlPX3lHvxGBh930HrOwZ1tdYRTOVTE2fry9MktwpElsxWdxWn4sCOOQ6Zs5SeXkqpqr62RitmfYQIbUuaLLGy5jkgdxs1Y3ioZxfp3kbHShe",
+      "_id": "695a48641c508c5d5ea28c08"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

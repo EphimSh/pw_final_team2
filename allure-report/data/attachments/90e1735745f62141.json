@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "385",
+    "etag": "W/\"181-WlMNcrfwphAypNbSIb+ORw6gWr0\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jon_Wunsch@hotmail.com",
+      "name": "zsTzdSmquysWvXpqyAshzJVUJhaDbaSHQ",
+      "country": "Germany",
+      "city": "DkdNiYtS",
+      "street": "bxBlWo0dg1gtL1lQr9YWf",
+      "house": 47,
+      "flat": 3,
+      "phone": "+9530819333",
+      "createdOn": "2026-01-04T11:02:09.000Z",
+      "notes": "3ItR4sxuYdESy8t2Eqk5a2Bm1kHFD2FqX11eodRr4o1sp29XLug3IpEwvrNgg2",
+      "_id": "695a48b11c508c5d5ea2aa06"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

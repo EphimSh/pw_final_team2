@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:00:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "450",
+    "etag": "W/\"1c2-XV3eVoagiueDvNRoZPmbHrxgVEo\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips15904",
+      "amount": 6,
+      "price": 26746,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T11:00:56.000Z",
+      "notes": "VTefoGNp6GDozC6Sl98QkEFDp3iBAhUWCmijsSlfGXpVmvkpxeK2epIjdoyBS4OFBUvrxVuKi3K0q2vjWvY8j86i3IfdPCvUnxT85NPYYPEwzuosXBYJodFW9Ib5Z5naI1NMu6roIYCdPKXUy7ylwbjiz6ZyhgHhLji1w2zm4eIDOmp3PyW02vpikf6RQ7GjjxsD623tM4u12JgE3QILlHHDqSElbu2hAX70O08AQTYcaV2qAXygzsxOaD",
+      "_id": "695a48681c508c5d5ea28c8f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

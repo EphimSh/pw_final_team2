@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "528",
+    "etag": "W/\"210-8deXiqGa9HNTRddjdUnN+bTdR6c\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Christina30@gmail.com",
+      "name": "KXNy",
+      "country": "Germany",
+      "city": "o",
+      "street": "GmvIJzC8L3S5b2xAYs97DtcUou8aVtofVS0SbKv",
+      "house": 12,
+      "flat": 1,
+      "phone": "+1936855438",
+      "createdOn": "2026-01-04T11:01:49.000Z",
+      "notes": "KgXWg5GdQgJgeO0COUJDpYIRLgFxzNvw0j0y8QfLN9ZL495s02tawJpDqCKFcxBxdNZnytdCHxeXaSqlYAMZiiIHpuUHf1fYBEFFRb3oi0oqlKVv2QVnGoX7o9NX5E4QW7qyKJvx4rWWGqbVyz7VpECNJ2T6cQIvj7mfTC8Dji43ui3vS8p7c5IldBef5zMdXXSMJ1Tk1hCGwPLywwXefkuZP08kJMbk",
+      "_id": "695a489d1c508c5d5ea2a366"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-ghPuAEkJv4siSRvTakQxnpwPzeo\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shoes28023",
+      "amount": 479,
+      "price": 66759,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T11:01:18.000Z",
+      "notes": "0VRmXzgmGwhporDEq5CxLbbLxDFlpwMSRNCzhamNKirHrSkZcrShSUeMctToiYlvrpyNPIeFB4IjseV3X9aZ8QqO479XREZy55epTMoptJ6st485n3u2t6zVivFxyTKYOP7Meb525hi5D21UWoZQNTBeCK55S9122i3aLk9oMMQhkAsUUr0qJ7Oa8iWd5s5lSRok9XpHHcPWsCXUFe7OqopPEBOEkJ8sEOcTZaAnP8CeZrtvtRIjlVoEhd",
+      "_id": "695a487e1c508c5d5ea2955a"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

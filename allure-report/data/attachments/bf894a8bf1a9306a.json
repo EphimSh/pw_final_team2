@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:23 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-B7pLieZ9+3a5sHUViUzbC3lRgTA\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Ball45489",
+      "amount": 748,
+      "price": 75822,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T11:01:23.000Z",
+      "notes": "dv5IhEE38opxjdtH5LALzfJRfw7NBdpKqpR844niXjP9xxoNqaZ9I3O2iTF491UpCF45KaYJMo28dHPj2e76pLFcZRQlVw1uWPzSj5LlhUWar1fqshXJWt9KRxNMCjSkg8K0KdvvHHaUVIxkI44l3poX9552RLytRVs57BlT0rKg6ouqoBatd3S7CAi148dUQi7HGMpslFn5cW4NZais6ZW8H7AUHFsoSsoaU7UXThgpwyR3EfGx6BqGMM",
+      "_id": "695a48831c508c5d5ea29797"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

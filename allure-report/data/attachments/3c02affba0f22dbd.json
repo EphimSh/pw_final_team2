@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:12 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-NI6XI7sH6RSYTde+dDSsuOD99dw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad55541",
+      "amount": 725,
+      "price": 80087,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T11:02:12.000Z",
+      "notes": "vzrxa5WBmC2FJ2I3QYjSg99gWxWXgbmByolaIpewwuWjg4S7hSpiAZIkUMJgk0dWASdruCtJld7Of3YT4PiI9hd5X9J6B3jqDsctXVY5SJXIiYeVRH1raXsLAECz4fJkGlQFd66XXZPcrnHkf31l17hA7YGx4JFWr5kaOy3PbBYWBdQMPrnUPGFxobtJNVWLhDudL2bnsRhYZZYPMafHNOtHel0hsuW45ISDmse99osLmkygO4FbaGv4l5",
+      "_id": "695a48b41c508c5d5ea2aacf"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

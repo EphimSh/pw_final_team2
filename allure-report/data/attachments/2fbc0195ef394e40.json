@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "444",
+    "etag": "W/\"1bc-UymDz1gfIG6zTEB0LUTaXUcn1vo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Nichole14@gmail.com",
+      "name": "DIAzhKhzFZeAenxmNh",
+      "country": "Germany",
+      "city": "vgBQYpVviGTVQw",
+      "street": "nYDyhay80wAu0IXJ5T5pLhPRZdn9",
+      "house": 171,
+      "flat": 3,
+      "phone": "+1599579562",
+      "createdOn": "2026-01-04T11:02:46.000Z",
+      "notes": "YhdZHqBZhsZNZl0GucgdCX8drErLKCgzS1dEXzE2OOj6NmFBt2b9FWHNbsyIT0Mjk3VIBSiewpEyyjScSb2ElLQuWdwTK7fuYQLvXTeBxQ0Yg9UbcX1D6X8i7elt9",
+      "_id": "695a48d61c508c5d5ea2b5b2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

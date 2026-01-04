@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:28 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "329",
+    "etag": "W/\"149-l0aOQnvA2RMOm9M4mkFmXlljKR4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Mario20@gmail.com",
+      "name": "YSGrvwBiUDnIbD",
+      "country": "France",
+      "city": "WNJpPJlgXJkiYHB",
+      "street": "vQmWBHkl1sUM4S6g2WzYFn1IIin2WRcp",
+      "house": 40,
+      "flat": 2,
+      "phone": "+9787000786",
+      "createdOn": "2026-01-04T11:02:28.000Z",
+      "notes": "epuH9G9yv5GPq",
+      "_id": "695a48c41c508c5d5ea2afd4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

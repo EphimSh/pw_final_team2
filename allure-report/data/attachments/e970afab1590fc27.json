@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:13 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "390",
+    "etag": "W/\"186-oEyJ1idH0UgpZzDvNVWoRA9Wv1Q\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Kaci.Hodkiewicz@hotmail.com",
+      "name": "XVHSqhinTpYTdO",
+      "country": "Great Britain",
+      "city": "faMIkpLK",
+      "street": "uecbcTfpRmnRWoKJ8rA8",
+      "house": 65,
+      "flat": 9,
+      "phone": "+5052197964",
+      "createdOn": "2026-01-04T11:02:12.000Z",
+      "notes": "EC3sDi4SouiYcwmG0thvegWAkZ6dI2xMA5Ayvwcsc8lZclWcgXGlqqUlBd1oLaCIoBWNQYzQ4xHc",
+      "_id": "695a48b41c508c5d5ea2aadc"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

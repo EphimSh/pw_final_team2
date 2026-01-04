@@ -1,0 +1,101 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2614",
+    "etag": "W/\"a36-fQntcZCpUOroKnN0LS/01kLqGNI\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "695a488b1c508c5d5ea29c6e",
+        "email": "Madeline90@gmail.com",
+        "name": "vuIawJzDrBKbZcgfeXeqBxFjikz",
+        "country": "USA",
+        "city": "maPMqdiXwmcMso",
+        "street": "fDwXRU8pta8",
+        "house": 184,
+        "flat": 5,
+        "phone": "+2161773441",
+        "createdOn": "2026-01-04T11:01:31.000Z",
+        "notes": "odXOKHneJ1zF2BHuBtSY3ziZhXzCZUPu7yfSWGcBpoYyaM5SH8drn5mmxy5mzQWyRpM6kbft7jhhsFm5YqrJG3d9rNjdXbONxs1lo9QjDpKjSk9CjLuWJpgrUVg1RSlxkXc61pk2QBDQr5OEbEJbrhWMjecxDdRl5tCrE23s1jrN6r7guBMTNGQEL8vmSY2AdAsdpnwrZWuwNdLzxJEs"
+      },
+      "products": [
+        {
+          "_id": "695a488f1c508c5d5ea29dc5",
+          "name": "Gloves890",
+          "amount": 633,
+          "price": 95696,
+          "manufacturer": "Tesla",
+          "notes": "RdFb9ByMrPeUBcB8rHuswU9rOGZ0YMwHPbD9RJE9C2xTIJdU1R3E3jehvhcCzCqAMAQ4rRBXUqD1aIvYaqkhT7r9Ok2MTzPukekOTnV5xFNjZbYJlwlmesQlb4oOGlEkxYYhN5nLkEbo8Omf5pjREr0DLWQsPUnXCDwH80oeRai1tfKXz23ut9E5WqEUPPbCQg3XfQgmlZA1siGlJiFzJnGwRmuSjSvCRFsVwoCIxxxHBmUTjh2imjvNrn",
+          "received": false
+        },
+        {
+          "_id": "695a48921c508c5d5ea29e96",
+          "name": "Table80087",
+          "amount": 852,
+          "price": 84536,
+          "manufacturer": "Apple",
+          "notes": "vhpIjicZiJyWeSNde5JMp6AsjzTQpEQKXr8CK9xGBHjXIrjLZf3PYuqkqJBRQNrBw7AwemfZHmYdtTjcVl8jepWpV61MdWvBm9SVR0abOL8eb8EX88zwMh31ca93VE6T9HHBQhOx8uAT6l0bCfhN7hJNXu8ls43BgE7VD1RacLxuigCsZFA0t07WY1B2Zeucpvs6X6mR0Us3nX70oK8gkhqXd6G4T6cdYQTaxcjxWIK7fB9loeOjAy29lR",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 180232,
+      "createdOn": "2026-01-04T11:01:38.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a488b1c508c5d5ea29c6e",
+          "products": [
+            {
+              "_id": "695a488f1c508c5d5ea29dc5",
+              "name": "Gloves890",
+              "amount": 633,
+              "price": 95696,
+              "manufacturer": "Tesla",
+              "notes": "RdFb9ByMrPeUBcB8rHuswU9rOGZ0YMwHPbD9RJE9C2xTIJdU1R3E3jehvhcCzCqAMAQ4rRBXUqD1aIvYaqkhT7r9Ok2MTzPukekOTnV5xFNjZbYJlwlmesQlb4oOGlEkxYYhN5nLkEbo8Omf5pjREr0DLWQsPUnXCDwH80oeRai1tfKXz23ut9E5WqEUPPbCQg3XfQgmlZA1siGlJiFzJnGwRmuSjSvCRFsVwoCIxxxHBmUTjh2imjvNrn",
+              "received": false
+            },
+            {
+              "_id": "695a48921c508c5d5ea29e96",
+              "name": "Table80087",
+              "amount": 852,
+              "price": 84536,
+              "manufacturer": "Apple",
+              "notes": "vhpIjicZiJyWeSNde5JMp6AsjzTQpEQKXr8CK9xGBHjXIrjLZf3PYuqkqJBRQNrBw7AwemfZHmYdtTjcVl8jepWpV61MdWvBm9SVR0abOL8eb8EX88zwMh31ca93VE6T9HHBQhOx8uAT6l0bCfhN7hJNXu8ls43BgE7VD1RacLxuigCsZFA0t07WY1B2Zeucpvs6X6mR0Us3nX70oK8gkhqXd6G4T6cdYQTaxcjxWIK7fB9loeOjAy29lR",
+              "received": false
+            }
+          ],
+          "total_price": 180232,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:01:38.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695a48921c508c5d5ea29eac"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

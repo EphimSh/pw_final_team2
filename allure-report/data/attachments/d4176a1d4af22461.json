@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:00:53 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "340",
+    "etag": "W/\"154-HNvnc0CzfwbLyPa4Lou3DKDqFjY\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Anya.Howe-Grant50@yahoo.com",
+      "name": "YXPuuUfFylGkuCxLV",
+      "country": "Ukraine",
+      "city": "tHKgvNdOMbUISUPHSIl",
+      "street": "NJ",
+      "house": 121,
+      "flat": 8,
+      "phone": "+1386663800",
+      "createdOn": "2026-01-04T11:00:53.000Z",
+      "notes": "ayEbCgKdiRk8qhAX157PUeLI94qucf87Cvt",
+      "_id": "695a48651c508c5d5ea28c2c"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

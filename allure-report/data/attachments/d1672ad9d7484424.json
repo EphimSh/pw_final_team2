@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:16 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-YjvByb+b8wjuIR2bt/c3Dk4DjgE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Mouse24153",
+      "amount": 647,
+      "price": 76957,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T11:01:16.000Z",
+      "notes": "sWuAOjcmPGB2AmkJLIxV9JzydQFxsKbta0c7pkZgl33ydif7qo85rBQ7Nxfoj2cXEBKIRHYqN4Z3uo3GzGoEUBBITut8kocRoBqEoUXsJETmh0X3D6tDDysI9qi2iYZpYL9xbe4pnzEelLwhbhPl3lzdcIfbOxN1ZJzX8KyN7YRlRNfBbcqHKl5cirbnNEKOwqx8dogFoGUigiVdHpeEqMRr3xMzrCNFrQ58SoNZSyOFZ5ePcejiz4sNUr",
+      "_id": "695a487c1c508c5d5ea29523"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

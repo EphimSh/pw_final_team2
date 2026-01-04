@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:54 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "375",
+    "etag": "W/\"177-D87i2vqPCM+HzfFzlGfrzPcV28I\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Josianne_Marquardt@yahoo.com",
+      "name": "m",
+      "country": "Ukraine",
+      "city": "vpigltnbLFLM",
+      "street": "voapTDwhgUMcgAhcdMtNiqBnkrYgNwAZuhvdMqc",
+      "house": 82,
+      "flat": 2,
+      "phone": "+3756900587",
+      "createdOn": "2026-01-04T11:01:54.000Z",
+      "notes": "4vbyevAd7ogo48MMeFn3GErN4UOiXSzLUS7K2zSKK3IyuVZQHSG1y0jw",
+      "_id": "695a48a21c508c5d5ea2a4ad"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

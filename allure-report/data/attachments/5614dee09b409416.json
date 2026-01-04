@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:00:56 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "458",
+    "etag": "W/\"1ca-quE0cSOKgyT1xmTYSVV4fKgduOE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Computer22306",
+      "amount": 505,
+      "price": 70066,
+      "manufacturer": "Samsung",
+      "createdOn": "2026-01-04T11:00:56.000Z",
+      "notes": "k0WRpKoquVTCaMElo5NuIuS22AXqRV5dVbkPKmDfyji0m5ONiBldxy4MpUjg7dYsGZQ6Q3FCh2pdvoSz6bbMQN0lyDZRW8jaJQTnQVHlOYsNkDscEtu7miGGa6J7dO8o9UfArfuiVnOot5MqezDuJZFVLAl2NmjQUFybzWy5Q0XVx88IupfzVxH9GxoPWRKkqfaYOAi4whv7WHfNSz81F7YBhsiZlUFXif99OHPz76mQ8dIcqVBu4tlks4",
+      "_id": "695a48681c508c5d5ea28c91"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

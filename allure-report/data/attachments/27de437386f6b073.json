@@ -1,0 +1,101 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:58 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2632",
+    "etag": "W/\"a48-P5Ro7CBbXPLsQ7c0TsxuWD8vnQM\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "695a489d1c508c5d5ea2a366",
+        "email": "Christina30@gmail.com",
+        "name": "KXNy",
+        "country": "Germany",
+        "city": "o",
+        "street": "GmvIJzC8L3S5b2xAYs97DtcUou8aVtofVS0SbKv",
+        "house": 12,
+        "flat": 1,
+        "phone": "+1936855438",
+        "createdOn": "2026-01-04T11:01:49.000Z",
+        "notes": "KgXWg5GdQgJgeO0COUJDpYIRLgFxzNvw0j0y8QfLN9ZL495s02tawJpDqCKFcxBxdNZnytdCHxeXaSqlYAMZiiIHpuUHf1fYBEFFRb3oi0oqlKVv2QVnGoX7o9NX5E4QW7qyKJvx4rWWGqbVyz7VpECNJ2T6cQIvj7mfTC8Dji43ui3vS8p7c5IldBef5zMdXXSMJ1Tk1hCGwPLywwXefkuZP08kJMbk"
+      },
+      "products": [
+        {
+          "_id": "695a48a11c508c5d5ea2a446",
+          "name": "Gloves36988",
+          "amount": 623,
+          "price": 40772,
+          "manufacturer": "Sony",
+          "notes": "POZXkUVRp1eNRnfzKDhayLQkY8dNVU5Ay9BQ9WBku9LXC4G6JkBqiczx6OkGpbsWyCPViqIROyEaAtmczrYI8m7L8y4u2fmkGCrlk9nFe5eBTdlcx2VYuL1k1t1bvDjh9lvfMz6sOqmQIuFgNmFZTyXYFTebZ4A9IDYHiAGO5mnbdKw9RHFT0KsWNVo2AK9iRkA4FQFwPXFOlL9O0pw2gXDyWWhrTjI48FYe1mEqWarQd1u54iUmB44O8C",
+          "received": false
+        },
+        {
+          "_id": "695a48a41c508c5d5ea2a523",
+          "name": "Pants66788",
+          "amount": 370,
+          "price": 92539,
+          "manufacturer": "Microsoft",
+          "notes": "QwI9kkgHXcqecl09055S42O5TwAUTMoIo4f5smlnit3Fqk6jvNLXuIFDWgtUssRHSFSXLWTGcIJNMFVuzX3GG5QZNAQTmT73NPsGzAtozk5G2n6IAh6hXmvjcQwkmkWC3hD3RLux4HZiOL2QUeGmVx2ksPfi2PZrMh8euuN3a1WtX50xGCZ4nLaemAYkd9WRDUQFSmywAjAooNFRyjF7C3cyywr2KCAqB88qvSDr3Hrfqy5JL5djLtKaWP",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 133311,
+      "createdOn": "2026-01-04T11:01:58.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a489d1c508c5d5ea2a366",
+          "products": [
+            {
+              "_id": "695a48a11c508c5d5ea2a446",
+              "name": "Gloves36988",
+              "amount": 623,
+              "price": 40772,
+              "manufacturer": "Sony",
+              "notes": "POZXkUVRp1eNRnfzKDhayLQkY8dNVU5Ay9BQ9WBku9LXC4G6JkBqiczx6OkGpbsWyCPViqIROyEaAtmczrYI8m7L8y4u2fmkGCrlk9nFe5eBTdlcx2VYuL1k1t1bvDjh9lvfMz6sOqmQIuFgNmFZTyXYFTebZ4A9IDYHiAGO5mnbdKw9RHFT0KsWNVo2AK9iRkA4FQFwPXFOlL9O0pw2gXDyWWhrTjI48FYe1mEqWarQd1u54iUmB44O8C",
+              "received": false
+            },
+            {
+              "_id": "695a48a41c508c5d5ea2a523",
+              "name": "Pants66788",
+              "amount": 370,
+              "price": 92539,
+              "manufacturer": "Microsoft",
+              "notes": "QwI9kkgHXcqecl09055S42O5TwAUTMoIo4f5smlnit3Fqk6jvNLXuIFDWgtUssRHSFSXLWTGcIJNMFVuzX3GG5QZNAQTmT73NPsGzAtozk5G2n6IAh6hXmvjcQwkmkWC3hD3RLux4HZiOL2QUeGmVx2ksPfi2PZrMh8euuN3a1WtX50xGCZ4nLaemAYkd9WRDUQFSmywAjAooNFRyjF7C3cyywr2KCAqB88qvSDr3Hrfqy5JL5djLtKaWP",
+              "received": false
+            }
+          ],
+          "total_price": 133311,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:01:58.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695a48a61c508c5d5ea2a569"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

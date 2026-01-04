@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "455",
+    "etag": "W/\"1c7-1afNR4vAlEm72MnyqQZJcZXp1EU\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Cheese48558",
+      "amount": 558,
+      "price": 11780,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T11:02:50.000Z",
+      "notes": "3q6KyRc5R1KfMOOLN9pDSFBKdJxGVexf3NnSbGmjDqIDOsgQcuq1zHJ5BtOuvcFz0VduYOaZdq0254YgwRTcQw2THMJJMqkwJaRWufZqMptl3nBFwT26h5fPFGx9QSmpDipNF8lvcIs3NArDlhBFSosMStXnOSYsQFwIXoK6rZamYGvsmddXfd9u2tTNiZb0w8CwzpLj2ciRKa9xY28C7E9sP3TeTlryzcKXQ0az4uVFgNDasszMmfUFnO",
+      "_id": "695a48da1c508c5d5ea2b66f"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

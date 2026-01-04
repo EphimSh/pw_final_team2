@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:19 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "431",
+    "etag": "W/\"1af-zhAvIZnqsJx7nG/Mm21w/HsF9G4\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Craig.Ortiz25@hotmail.com",
+      "name": "ZpvFaYKHAEBxuoRvcBmRpMEnz",
+      "country": "Russia",
+      "city": "WMtLZRvSqJUx",
+      "street": "3zTHNZcjCBTAYuOXcI3RUnwKnHLGJuFqkbuZxhH4",
+      "house": 116,
+      "flat": 7,
+      "phone": "+2329128555",
+      "createdOn": "2026-01-04T11:01:19.000Z",
+      "notes": "UacTdwH7L5eSgzcvsxGa2O6U1RekaFPVwKd8u3t2dz1iUM8YYyI134CNY2IJyhGjsuwDsTTiNPC13ZI4sTBLPuqrpJ",
+      "_id": "695a487f1c508c5d5ea295ea"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

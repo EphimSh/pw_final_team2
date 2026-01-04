@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-Gt7udrOfY49LJ0kNPjugzNBp4bI\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Betty_Sanford@gmail.com",
+      "name": "ZFWYSmp",
+      "country": "Great Britain",
+      "city": "eePvHvC",
+      "street": "FBX20XH0YPtwpaM1gjp3pmcRPosZWYUBup",
+      "house": 8,
+      "flat": 9,
+      "phone": "+9859812920",
+      "createdOn": "2026-01-04T11:01:18.000Z",
+      "notes": "XD2DN7y9epeIe1d9TWxMLot0G9EP6TaFAJ2ntN67V2bAivCAYShAzxJ3NBAtoVXwhcT5KJllZ1aDW26tVgKIyib52ssWVhtz9dbFpo9qepJEep9dEuBY45R6b3GdcqVF1BIY7O0OK",
+      "_id": "695a487e1c508c5d5ea2956b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

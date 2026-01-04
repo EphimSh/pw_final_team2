@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:45 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-I2ggGjLMLn2jQsBo++0t+tyH5Tw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Bike16534",
+      "amount": 351,
+      "price": 39899,
+      "manufacturer": "Xiaomi",
+      "createdOn": "2026-01-04T11:01:44.000Z",
+      "notes": "0ZVN9osSGnSzT9cVjvdYVScXUxNICq5RNVi7DbU82Ow4WfO3fZsfjBXw5LksNONsGPjMEHwfelqeUpMp6SFFAwvds12wFoBoFbaeDTn9v81ULEUO3RLti6pnztBy4x1dh4VkpgbTl0Mv1wph2dg0xJOnaoXRZUMwZGexthsG6L10TEMauCgyTXuk493PKGBPWOp2Zq3kzssiVAvcNBj6ad6vvB9DNCAJrKUExc0vEkjpiFkfH5zdChyAyo",
+      "_id": "695a48981c508c5d5ea2a1e4"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:47 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "337",
+    "etag": "W/\"151-l6lt1r6zZxYg+jjcZP+N4awLNSc\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Elton64@yahoo.com",
+      "name": "mOiQhIKxxFkjjiybnRHTxigqJmBtCIEC",
+      "country": "Belarus",
+      "city": "oErrg",
+      "street": "gQB3h2dVEozcE2DpSvIqgXlWE2WcYNpzd",
+      "house": 185,
+      "flat": 4,
+      "phone": "+5375520091",
+      "createdOn": "2026-01-04T11:02:46.000Z",
+      "notes": "1zZZheNur9",
+      "_id": "695a48d61c508c5d5ea2b5b0"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

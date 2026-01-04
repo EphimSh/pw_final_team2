@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:00:52 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "365",
+    "etag": "W/\"16d-I/rXaS/y0T71Uh8WVl+myLdN7fQ\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jayden_Bernhard66@gmail.com",
+      "name": "KmdnkYoJLVCJBaSAwk",
+      "country": "Belarus",
+      "city": "cbEdNzsLu",
+      "street": "stieDztSs4ZRUCcp",
+      "house": 12,
+      "flat": 4,
+      "phone": "+7884508305",
+      "createdOn": "2026-01-04T11:00:51.000Z",
+      "notes": "zlTcGZt13TJKqwanLGQMMqOOBQu1PxxZRFXndHv2DZqjzcTsh3qsRYJ7",
+      "_id": "695a48631c508c5d5ea28c00"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

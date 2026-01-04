@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-UsKJB2djrTNnUnOr1sv8zdYdQnk\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Salad23170",
+      "amount": 111,
+      "price": 77849,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T11:01:41.000Z",
+      "notes": "JJdyIKiTMNz4jeycpigMYAHFMLJiZL1p2yyWdd88uZ6NXyBFmBgmClabXHdoHUUMJymJimuZb5Q5MPWYcDOReCrQL5UFY2nwGg5eZT7ZxFpMbtSgk0JvwhET1zUfml2kaRQGMU87I1UxxEtlW4HMEPEbRByv0ZsHDOPbpE8aAh5NnyMxYPMdwfrI03NtBzKUlaWsRyU9YZQRODQ2oCwqw0WB3AYGVrHmKRWIGlILKZlA1Iec3DarqFwoMq",
+      "_id": "695a48951c508c5d5ea2a057"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

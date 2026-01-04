@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:49 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "517",
+    "etag": "W/\"205-HC9/67f9iSLZe4ix8ogcXYjq37s\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Andreane98@hotmail.com",
+      "name": "glOrajtSNwwemeLVUaeRshIlRunaxnSqpX",
+      "country": "Belarus",
+      "city": "MORJyKvzqPQTAyShWDx",
+      "street": "lhP7SiULuynJqHIljm8VRyrmBTCKxuvnXilN3EP3",
+      "house": 156,
+      "flat": 4,
+      "phone": "+6247264662",
+      "createdOn": "2026-01-04T11:02:48.000Z",
+      "notes": "kGRkRMecieCe96JC9R4IkLoVq2oOk9nD4QHlhxDLgNKgIW1BlvvG8clgl1rGGSX6Q2OMq41KarueQ2BZyBWe9DsYWHXOWJRK7DdKOVuS99ve6AKDOgcMYKaxupGRFbaiebN8DhqKwUIkZSqzbVmt6zNjBFrXmaGqZK",
+      "_id": "695a48d81c508c5d5ea2b5d7"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

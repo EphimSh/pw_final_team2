@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:38 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "451",
+    "etag": "W/\"1c3-NBYNpsELIPAOLZ/Uj0Ex1+AszlE\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Shirt61414",
+      "amount": 613,
+      "price": 2811,
+      "manufacturer": "Sony",
+      "createdOn": "2026-01-04T11:01:38.000Z",
+      "notes": "APRRYJuoBqzIbwmpamaY6t7w3kZJyiuPvxpwsawWepTjavk9TtvPLA5O2ro9cxIaC9zgY5xCRuuMnrQ5MhQxSUizjnxQ6ZRrL2wCOr9xmrBQxsWoRfTnIorXJ7PN5JEfCOn5pVpGurbQQ9n2e22tkO5f1UkXm7LBj1qVkZ6vfeMTuLJ6TjgoZpm7A90DYxs4LDa2kJ7DHPMZ2msDqUc99mSqUnrz3z08V78AfsjR5E0P3ESsn7o4z69ufP",
+      "_id": "695a48921c508c5d5ea29ebd"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

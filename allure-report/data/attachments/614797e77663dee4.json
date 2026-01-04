@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:05 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "449",
+    "etag": "W/\"1c1-xrif0AIglfY2V2dnpaGy4z5QLac\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Maryjane72@hotmail.com",
+      "name": "KnYMMpyjCeMuJlWWJyFOFlZwQjoUmWNerGYQ",
+      "country": "Great Britain",
+      "city": "brPuHvz",
+      "street": "ftH38xm6GAuZZ5qZuJJtYw8EBvXh8bUGYo",
+      "house": 13,
+      "flat": 3,
+      "phone": "+6209748318",
+      "createdOn": "2026-01-04T11:01:05.000Z",
+      "notes": "e9w6HSfiLNh6ab3z6G5CECmFnhNlouLhAvcWXUyQdoT3RZjWaFaaro8z7MDB5RKebqcHAybwpyWhCbOJWmNc9txMas48YWUk4hNJEXNc8",
+      "_id": "695a48711c508c5d5ea29017"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

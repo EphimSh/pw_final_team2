@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:01 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "457",
+    "etag": "W/\"1c9-uJmgIyBxjZe/uU6Ef18XtoJTl0w\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips89768",
+      "amount": 964,
+      "price": 69383,
+      "manufacturer": "Microsoft",
+      "createdOn": "2026-01-04T11:02:01.000Z",
+      "notes": "w9oU9GyhzSRDELO11jmdN1x3YwRJ1IdeKlkjq2t6mQIL2xjTGsnhojgRwPnuzed4Z8Z5UQF6zrk5wScL1rbUF7qaXpGTOT5I843RgUdV0qfiQw0FURBg6PklpaL3HnN4ApDJLRk6H847mRmWp13A1TovBuCsIfNjjDVAsxdJPEnNxdryqUe37GCtrBa9Pa7El8ynrBk9DexRmMhKLAhppCFwB50u8B9ZfANKpa3ZwwL1GJMw3y7xpDHI60",
+      "_id": "695a48a91c508c5d5ea2a66e"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

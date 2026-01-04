@@ -1,0 +1,173 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:43 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "3765",
+    "etag": "W/\"eb5-YnpCFzBzevDDkg1pcwhXLLSAfxw\"",
+    "keep-alive": "timeout=5, max=95",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "_id": "695a48961c508c5d5ea2a07d",
+      "status": "Canceled",
+      "customer": {
+        "_id": "695a48921c508c5d5ea29e98",
+        "email": "Noelia.Mitchell@yahoo.com",
+        "name": "kpZobNnuGGNSjUTuZSqzunktBLGESHVsgqRCevQH",
+        "country": "Germany",
+        "city": "eE",
+        "street": "6bpIE4OveiwXfOKgjj7D84cn",
+        "house": 57,
+        "flat": 1,
+        "phone": "+8711575254",
+        "createdOn": "2026-01-04T11:01:38.000Z",
+        "notes": "fxKtx5CC50z3N1z4R2dzmorXZQfNczgxj5slHkoYdTWRWCwmArvA7dCHAVr2ERt6dt7yfKTNE3a9yArFsnk4R11S"
+      },
+      "products": [
+        {
+          "_id": "695a48951c508c5d5ea2a057",
+          "name": "Salad23170",
+          "amount": 111,
+          "price": 77849,
+          "manufacturer": "Google",
+          "notes": "JJdyIKiTMNz4jeycpigMYAHFMLJiZL1p2yyWdd88uZ6NXyBFmBgmClabXHdoHUUMJymJimuZb5Q5MPWYcDOReCrQL5UFY2nwGg5eZT7ZxFpMbtSgk0JvwhET1zUfml2kaRQGMU87I1UxxEtlW4HMEPEbRByv0ZsHDOPbpE8aAh5NnyMxYPMdwfrI03NtBzKUlaWsRyU9YZQRODQ2oCwqw0WB3AYGVrHmKRWIGlILKZlA1Iec3DarqFwoMq",
+          "received": false
+        }
+      ],
+      "delivery": {
+        "address": {
+          "country": "Belarus",
+          "city": "Mock City AKn",
+          "street": "MockStreettX8xnQQKLB4Lrd5",
+          "house": 82,
+          "flat": 9
+        },
+        "finalDate": "2026-01-09T00:00:00.000Z",
+        "condition": "Pickup"
+      },
+      "total_price": 77849,
+      "createdOn": "2026-01-04T11:01:42.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Canceled",
+          "customer": "695a48921c508c5d5ea29e98",
+          "products": [
+            {
+              "_id": "695a48951c508c5d5ea2a057",
+              "name": "Salad23170",
+              "amount": 111,
+              "price": 77849,
+              "manufacturer": "Google",
+              "notes": "JJdyIKiTMNz4jeycpigMYAHFMLJiZL1p2yyWdd88uZ6NXyBFmBgmClabXHdoHUUMJymJimuZb5Q5MPWYcDOReCrQL5UFY2nwGg5eZT7ZxFpMbtSgk0JvwhET1zUfml2kaRQGMU87I1UxxEtlW4HMEPEbRByv0ZsHDOPbpE8aAh5NnyMxYPMdwfrI03NtBzKUlaWsRyU9YZQRODQ2oCwqw0WB3AYGVrHmKRWIGlILKZlA1Iec3DarqFwoMq",
+              "received": false
+            }
+          ],
+          "total_price": 77849,
+          "delivery": {
+            "address": {
+              "country": "Belarus",
+              "city": "Mock City AKn",
+              "street": "MockStreettX8xnQQKLB4Lrd5",
+              "house": 82,
+              "flat": 9
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-04T11:01:43.000Z",
+          "action": "Order canceled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a48921c508c5d5ea29e98",
+          "products": [
+            {
+              "_id": "695a48951c508c5d5ea2a057",
+              "name": "Salad23170",
+              "amount": 111,
+              "price": 77849,
+              "manufacturer": "Google",
+              "notes": "JJdyIKiTMNz4jeycpigMYAHFMLJiZL1p2yyWdd88uZ6NXyBFmBgmClabXHdoHUUMJymJimuZb5Q5MPWYcDOReCrQL5UFY2nwGg5eZT7ZxFpMbtSgk0JvwhET1zUfml2kaRQGMU87I1UxxEtlW4HMEPEbRByv0ZsHDOPbpE8aAh5NnyMxYPMdwfrI03NtBzKUlaWsRyU9YZQRODQ2oCwqw0WB3AYGVrHmKRWIGlILKZlA1Iec3DarqFwoMq",
+              "received": false
+            }
+          ],
+          "total_price": 77849,
+          "delivery": {
+            "address": {
+              "country": "Belarus",
+              "city": "Mock City AKn",
+              "street": "MockStreettX8xnQQKLB4Lrd5",
+              "house": 82,
+              "flat": 9
+            },
+            "finalDate": "2026-01-09T00:00:00.000Z",
+            "condition": "Pickup"
+          },
+          "changedOn": "2026-01-04T11:01:42.000Z",
+          "action": "Delivery Scheduled",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        },
+        {
+          "status": "Draft",
+          "customer": "695a48921c508c5d5ea29e98",
+          "products": [
+            {
+              "_id": "695a48951c508c5d5ea2a057",
+              "name": "Salad23170",
+              "amount": 111,
+              "price": 77849,
+              "manufacturer": "Google",
+              "notes": "JJdyIKiTMNz4jeycpigMYAHFMLJiZL1p2yyWdd88uZ6NXyBFmBgmClabXHdoHUUMJymJimuZb5Q5MPWYcDOReCrQL5UFY2nwGg5eZT7ZxFpMbtSgk0JvwhET1zUfml2kaRQGMU87I1UxxEtlW4HMEPEbRByv0ZsHDOPbpE8aAh5NnyMxYPMdwfrI03NtBzKUlaWsRyU9YZQRODQ2oCwqw0WB3AYGVrHmKRWIGlILKZlA1Iec3DarqFwoMq",
+              "received": false
+            }
+          ],
+          "total_price": 77849,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:01:42.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

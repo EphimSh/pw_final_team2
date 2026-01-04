@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "454",
+    "etag": "W/\"1c6-OSwUasw4RQ2XndtWkuzox1TsDjg\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips94167",
+      "amount": 339,
+      "price": 41421,
+      "manufacturer": "Google",
+      "createdOn": "2026-01-04T11:01:10.000Z",
+      "notes": "z6b4p3rcqRAXxGhLCDgaZTJByIrImIwqyrUWTbSfpd7bntdNYmnWImA4cgYtx0urmKioPEadjidrgXVGaPEWHWabPsnQgc2x1ifBaRkXiOJp09TCAOeMF235h2eKWutCF7EV9txdokgkksjO4Pk1E7dDPCUX9sLF7pFuMocJoLgs0fefzU8bipNCgr5LqL7gBlpJwexw4PoY1WzuBM7EQfKMuv0vdB7papMZt6RGzokHIGUj4JR37s4rDI",
+      "_id": "695a48761c508c5d5ea29300"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:18 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "2472",
+    "etag": "W/\"9a8-HTwmsSboLcj3DBesPbHuFhBJ4EE\"",
+    "keep-alive": "timeout=5, max=96",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Order": {
+      "status": "Draft",
+      "customer": {
+        "_id": "695a48781c508c5d5ea293c6",
+        "email": "Green_Schamberger27@gmail.com",
+        "name": "DZljpVejwazN",
+        "country": "Russia",
+        "city": "BFdH",
+        "street": "e5NGdHYcIAvt2LXF1",
+        "house": 172,
+        "flat": 6,
+        "phone": "+8448267157",
+        "createdOn": "2026-01-04T11:01:12.000Z",
+        "notes": "zhlEOz9cI3BWUr1j0G83gA1mAVDnBwpyvYdfjmX1PVMqRwAIP8h1vPSptF1O7nrzSiDol0Byq"
+      },
+      "products": [
+        {
+          "_id": "695a487b1c508c5d5ea2950b",
+          "name": "Keyboard69453",
+          "amount": 968,
+          "price": 32283,
+          "manufacturer": "Sony",
+          "notes": "bUZBNtvQ0jA6Z400BJuI5YiDAGwfYp9XAuIWqnj0vwTKX2YQxviIGbBDWAKVGeRc5b1ZRJyjtfTJBXVvbHwyXdGL9oo3rhQnbSzAM5wLF80iQx7IlrbtNt6lBh9ZB3YrxDs45DEPDeFc3nzB0zYDgaRk8xctotk6lz8BPtRC71mGgKviMWy0MaPkgrMDZeLCS5Uw4J4woKemAjNk7XGzYRiBFfo38QdArzX8QOCewtdDng65taTwCUoCOM",
+          "received": false
+        },
+        {
+          "_id": "695a487e1c508c5d5ea2955a",
+          "name": "Shoes28023",
+          "amount": 479,
+          "price": 66759,
+          "manufacturer": "Apple",
+          "notes": "0VRmXzgmGwhporDEq5CxLbbLxDFlpwMSRNCzhamNKirHrSkZcrShSUeMctToiYlvrpyNPIeFB4IjseV3X9aZ8QqO479XREZy55epTMoptJ6st485n3u2t6zVivFxyTKYOP7Meb525hi5D21UWoZQNTBeCK55S9122i3aLk9oMMQhkAsUUr0qJ7Oa8iWd5s5lSRok9XpHHcPWsCXUFe7OqopPEBOEkJ8sEOcTZaAnP8CeZrtvtRIjlVoEhd",
+          "received": false
+        }
+      ],
+      "delivery": null,
+      "total_price": 99042,
+      "createdOn": "2026-01-04T11:01:18.000Z",
+      "comments": [],
+      "history": [
+        {
+          "status": "Draft",
+          "customer": "695a48781c508c5d5ea293c6",
+          "products": [
+            {
+              "_id": "695a487b1c508c5d5ea2950b",
+              "name": "Keyboard69453",
+              "amount": 968,
+              "price": 32283,
+              "manufacturer": "Sony",
+              "notes": "bUZBNtvQ0jA6Z400BJuI5YiDAGwfYp9XAuIWqnj0vwTKX2YQxviIGbBDWAKVGeRc5b1ZRJyjtfTJBXVvbHwyXdGL9oo3rhQnbSzAM5wLF80iQx7IlrbtNt6lBh9ZB3YrxDs45DEPDeFc3nzB0zYDgaRk8xctotk6lz8BPtRC71mGgKviMWy0MaPkgrMDZeLCS5Uw4J4woKemAjNk7XGzYRiBFfo38QdArzX8QOCewtdDng65taTwCUoCOM",
+              "received": false
+            },
+            {
+              "_id": "695a487e1c508c5d5ea2955a",
+              "name": "Shoes28023",
+              "amount": 479,
+              "price": 66759,
+              "manufacturer": "Apple",
+              "notes": "0VRmXzgmGwhporDEq5CxLbbLxDFlpwMSRNCzhamNKirHrSkZcrShSUeMctToiYlvrpyNPIeFB4IjseV3X9aZ8QqO479XREZy55epTMoptJ6st485n3u2t6zVivFxyTKYOP7Meb525hi5D21UWoZQNTBeCK55S9122i3aLk9oMMQhkAsUUr0qJ7Oa8iWd5s5lSRok9XpHHcPWsCXUFe7OqopPEBOEkJ8sEOcTZaAnP8CeZrtvtRIjlVoEhd",
+              "received": false
+            }
+          ],
+          "total_price": 99042,
+          "delivery": null,
+          "changedOn": "2026-01-04T11:01:18.000Z",
+          "action": "Order created",
+          "performer": {
+            "_id": "6936ffc71c508c5d5e9a3764",
+            "username": "student21@gmail.com",
+            "firstName": "Jillian",
+            "lastName": "Lynch",
+            "roles": [
+              "USER"
+            ],
+            "createdOn": "2025/12/08 16:41:43"
+          },
+          "assignedManager": null
+        }
+      ],
+      "assignedManager": null,
+      "_id": "695a487e1c508c5d5ea29569"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

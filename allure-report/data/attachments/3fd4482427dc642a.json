@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:00 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "452",
+    "etag": "W/\"1c4-HQRjr5ApEyx3sJAXaae0hY6vPPM\"",
+    "keep-alive": "timeout=5, max=97",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips6502",
+      "amount": 875,
+      "price": 18119,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T11:01:00.000Z",
+      "notes": "Jwtgr9PvTX5piS5Qy9VMpxAgg9p4pVdoOJX3Ts8K8W7un1sIlRBReRC0TNPD1RJM7m0dEUqDa9YRKIyH2nXlsqL4CY8zKwRXDYVw6ESaFepYWjQ4BBCJHbiqh6xF0s8B8Ly1k8A0BZB9UbBMwv7jRQ4jwcM4U6ZJDQYYGFF3LA9BjgP71FapiXv2ku6spcSShVWWBWujzUOHr1DDIQVSKVpXKN84P18fr5GrK9ZF2tiYxi6wuJC9ebGkHk",
+      "_id": "695a486c1c508c5d5ea28e22"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:51 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "456",
+    "etag": "W/\"1c8-0yPOMZPRhSVWDMlHyVG9WRCPtSk\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Roger.Cummings24@gmail.com",
+      "name": "cWrGZrWUlcglyR",
+      "country": "USA",
+      "city": "vMA",
+      "street": "Hpi4jzO2rdpZQP",
+      "house": 86,
+      "flat": 6,
+      "phone": "+3863492155",
+      "createdOn": "2026-01-04T11:01:50.000Z",
+      "notes": "Nkstksq0RjS8AlJ5zFwpAvh9bXYcT7cGUUAcSCIXwl1Ds4ZjFaxy4BXxuKuOuSvT2Iwl4Pn8T8Vj8xcP5ElqzebRd4XxcxVXAaBqiuMn9qqMW37jErev1hSWuX5Cf135ZYHWOQzH8dwjPPmhxgk2XyQVLYLv3FJSi96E",
+      "_id": "695a489e1c508c5d5ea2a3f5"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

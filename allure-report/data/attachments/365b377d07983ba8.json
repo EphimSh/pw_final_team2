@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:07 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "490",
+    "etag": "W/\"1ea-yYzfLOxRiALAkcTrETqI5gSZMFs\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Brooks60@yahoo.com",
+      "name": "LMmUsOoRABeqvPrhudECKw",
+      "country": "USA",
+      "city": "LoVF",
+      "street": "uJkcmk3tJXLjNiFN",
+      "house": 78,
+      "flat": 7,
+      "phone": "+4814515810",
+      "createdOn": "2026-01-04T11:01:06.000Z",
+      "notes": "u7TzLMd3Os1WoHuH3W4u7Z9CnnCn7TxNZ1MrE9I7F7JiVQ7k4wT9iTr8qCE0FdMRJm1yxpuIxme88VxjDHmrWpYkOrrZVRUGRvJavoBdPmykbgdzy1301q3WKVI9q2UxSQifSqWg7jDbiPjAWpbo2b9D7BwMUlXgjHNtDTOP4yxbhjQsLu56IU0rDjWTjncTPJM",
+      "_id": "695a48721c508c5d5ea291a2"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

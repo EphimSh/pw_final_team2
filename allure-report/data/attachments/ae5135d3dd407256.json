@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:40 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-ITaZQgHIK8nPrPUnzXYuuZmeZQM\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Gloves8647",
+      "amount": 169,
+      "price": 4463,
+      "manufacturer": "Amazon",
+      "createdOn": "2026-01-04T11:01:40.000Z",
+      "notes": "3NbVGGd4993LnQV7bR1XjGBLz0qYD1cC6aR8e8fB5Q1cpeJBGk6hfPB249eWmGNR9ru1s2kdLdZaHzCrAUfjYmWNkDVFSS5ZXQUhoia29ppGz1OYCsZt3u6LleccwFCnTbXI3R0MqcyO3yyrjG5IAzxPyUFNx4c817Cc41pnDyVAymNVGc5fhvLHgUCbNoAhqG5GiDDhkHfADMKQl6lF5dg48h5Ut2ZUxCDFDhCjoFwPl5tA0gfKeNzAy0",
+      "_id": "695a48941c508c5d5ea29f39"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:50 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "339",
+    "etag": "W/\"153-u6wDqzAOfczySLipuHv2WYlyYbE\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Jess.Schumm47@gmail.com",
+      "name": "ZIFDjMcdJgMOYhnXdsuKM",
+      "country": "Germany",
+      "city": "Nq",
+      "street": "Lu92tqJOCJKl7ki8",
+      "house": 61,
+      "flat": 8,
+      "phone": "+3599193844",
+      "createdOn": "2026-01-04T11:01:49.000Z",
+      "notes": "VcaFH6wOR2wH5I81iOof8382l6dx3aysLFJXZI",
+      "_id": "695a489d1c508c5d5ea2a36b"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

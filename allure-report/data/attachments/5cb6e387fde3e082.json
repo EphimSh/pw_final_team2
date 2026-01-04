@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:02:09 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "441",
+    "etag": "W/\"1b9-OEeo2axipbyTf/k/Gs6h+fuBsGo\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Curtis_Hegmann@yahoo.com",
+      "name": "CbScSfWSUYvVuaCAtjMOKZTvVbUoMXEHLlZ",
+      "country": "USA",
+      "city": "iekLEDVFzlav",
+      "street": "5B5hhgHYhHu9th6x4PFjtg",
+      "house": 163,
+      "flat": 3,
+      "phone": "+4753055091",
+      "createdOn": "2026-01-04T11:02:09.000Z",
+      "notes": "uyz0YuE0Zg8SBy3j8vYcnWFDulHrN8JzXULYQxizWc4LMRZzoXFGVlH2byDwtraEE2HtL0t7TtqnpSdwMuXVSFOJcmftn0ts473WvieSaeyhOixM",
+      "_id": "695a48b11c508c5d5ea2aa02"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

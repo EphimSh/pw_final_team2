@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:41 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "463",
+    "etag": "W/\"1cf-NQ9P/Z7hE9CWZnWghWYWfP9apME\"",
+    "keep-alive": "timeout=5, max=99",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Customer": {
+      "email": "Nyasia_Ruecker@hotmail.com",
+      "name": "gUmEGIUqbPpOkrqACnFcelcsySaMeZ",
+      "country": "Canada",
+      "city": "iJkztZQFkCtcOJoXL",
+      "street": "cS6XB3",
+      "house": 13,
+      "flat": 6,
+      "phone": "+8670472431",
+      "createdOn": "2026-01-04T11:01:41.000Z",
+      "notes": "RmgriuH7lraM48lspnuLpKYB7DEqj5ZVguPPcv0dXBO4OOnhtrlI4ZCxD9C1vXbovOI5vJJT1ZAhBxZmMW9YdaaUOksF6zaueWXuXAfjEsPOxXqqrcf6RI9zx6XdwKVpJgBRZEhL1IlxrlOwK0",
+      "_id": "695a48951c508c5d5ea2a059"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}

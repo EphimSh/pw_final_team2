@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 04 Jan 2026 11:01:10 GMT",
+    "server": "Apache",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Authorization,X-User-Name",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "453",
+    "etag": "W/\"1c5-KUt67XZU1JyF29OMrD8tQrRWJUw\"",
+    "keep-alive": "timeout=5, max=98",
+    "connection": "Keep-Alive"
+  },
+  "body": {
+    "Product": {
+      "name": "Chips17424",
+      "amount": 324,
+      "price": 24503,
+      "manufacturer": "Apple",
+      "createdOn": "2026-01-04T11:01:10.000Z",
+      "notes": "LjgxQHv2OEnToQS44iw70I0yrHIayXo6axNriA1msRyj8peZioRTUzBkM5ZnnJDyKn1pyZauk49VGuXh7wncPKnxciYHSw33OdITDGW4TcG9ADeTIZ0ranoWm07fzxZvYW9gmqL2ru3WkBiMUkAs0uTlSxtiqn9JLWicFK7JHj9FjTOaE7nRAoiDmph2d21WLCN8ODZVVygvasCLAMTiXGx3Vczkj0nr1eT1nYWWeTXStyOkww2SBlifer",
+      "_id": "695a48761c508c5d5ea29308"
+    },
+    "IsSuccess": true,
+    "ErrorMessage": null
+  }
+}
