@@ -140,9 +140,3 @@ export interface IGetOrdersParams {
 }
 
 export type DeliveryLocation = "Home" | "Other";
-
-export interface ISheduleDelivery extends IDeliveryAddress {
-  deliveryType: DELIVERY_CONDITIONS;
-  location: DeliveryLocation;
-  date: string;
-}

@@ -2,6 +2,8 @@ import { DELIVERY_CONDITIONS, DeliveryLocation, IDeliveryInfo } from "data/types
 import { SalesPortalPage } from "../salesPortal.page";
 import { convertToDate } from "utils/date.utils";
 import { expect } from "fixtures";
+import { COUNTRIES } from "data/types/countries";
+import { generateDeliveryDate } from "data/orders/generateDeliveryData";
 
 type DeepPartial<T> = {
   [P in keyof T]?: T[P] extends object ? DeepPartial<T[P]> : T[P];
@@ -24,10 +26,7 @@ export class ScheduleDeliveryPage extends SalesPortalPage {
 
   async fillForm(deliveryData: DeepPartial<IDeliveryInfo>) {
     if (deliveryData.condition) await this.deliveryTypeSelect.selectOption(deliveryData.condition);
-    console.log(await this.getDeliveryType());
-    if ((await this.getDeliveryType()) === DELIVERY_CONDITIONS.DELIVERY) {
-      this.selectLocation("Other");
-    }
+    await this.selectLocation("Other");
     if (deliveryData.address?.country) await this.countrySelect.selectOption(deliveryData.address?.country);
     if (deliveryData.address?.city) await this.cityInput.fill(deliveryData.address?.city);
     if (deliveryData.address?.street) await this.streetInput.fill(deliveryData.address?.street);
@@ -64,5 +63,25 @@ export class ScheduleDeliveryPage extends SalesPortalPage {
 
   async getDeliveryType(): Promise<DELIVERY_CONDITIONS> {
     return (await this.deliveryTypeSelect.textContent()) as DELIVERY_CONDITIONS;
+  }
+
+  async choosePickUpDelivery(country?: COUNTRIES) {
+    await this.deliveryTypeSelect.selectOption(DELIVERY_CONDITIONS.PICK_UP);
+    if (country) await this.countrySelect.selectOption(country);
+  }
+
+  async fillDeliveryDate(date: string) {
+    const convertedDate = convertToDate(date);
+    await this.dateInput.click();
+    await this.page.evaluate((text) => {
+      navigator.clipboard.writeText(text);
+    }, convertedDate);
+
+    await this.dateInput.press("Control+V");
+    await this.dateInput.press("Enter");
+  }
+
+  async setDeliveryDate(date?: string) {
+    await this.fillDeliveryDate(date || generateDeliveryDate());
   }
 }
