@@ -1,6 +1,8 @@
 import { ICustomerOnOrderPage } from "data/types/customers.types";
 import { SalesPortalPage } from "../salesPortal.page";
 import { logStep } from "utils/report/logStep.utils";
+import { requestedProductsSection } from "./requestedProducts.section";
+import { editProductsModal } from "./editProducts.modal";
 import { COUNTRIES } from "data/types/countries";
 
 export class OrderPage extends SalesPortalPage {
@@ -18,10 +20,15 @@ export class OrderPage extends SalesPortalPage {
   readonly commentContainer = this.page.locator(".mx-3");
   readonly comment = this.commentContainer.locator("p");
   readonly removeCommentButton = this.commentContainer.locator('[name="delete-comment"]');
+  readonly notification = this.page.locator(".toast-body");
+  readonly orderId = this.page.locator("//*[text()='Order number: ']//following-sibling::span");
   readonly refreshOrderButton = this.page.locator("#refresh-order");
   readonly customerValue = this.page.locator("#customer-section .p-3 .s-span:nth-child(2)");
 
   readonly uniqueElement = this.title;
+
+  readonly requestedOrders = new requestedProductsSection(this.page);
+  readonly editProductsModal = new editProductsModal(this.page);
 
   @logStep("Fill manager search input on Edit Assigned Manager modal")
   async fillManagerSearch(text: string) {
